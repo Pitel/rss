@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-15T04:18:47.897Z</id>
+    <id>urn:2021-09-15T06:17:20.976Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-15T04:18:47.897Z</updated>
+    <updated>2021-09-15T06:17:20.976Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Java 17 a OpenJDK 17 s hotovým Maturing Vector API a plánovaným koncem Applet API]]></title>
+        <id>www.root.cz-actuality-42818</id>
+        <link href="https://www.root.cz/zpravicky/java-17-a-openjdk-17-s-hotovym-maturing-vector-api-a-planovanym-koncem-applet-api/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-15T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Na světě je nová hlavní verze Javy, resp. číselně stejná verze balíku OpenJDK. Sedmnáctka přináší několik novinek, například novou renderovací pipeline pro macOS (používá API Metal, OpenGL končí), podporu portu pro Apple M1, vylepšené pseudo-náhodné generátory čísel, označení Java Applet API za zastralé (naplánováno je odstranění), podpory sealed classes, odstranění experimentální kompilace ahead-of-time (AOT) a just-in-time (JIT), o další krok posunutých prací na Java Vector API či práce na context-specific deserializačních filtrech.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daemon X Machina Is Probably Getting A Sequel, But It's Going To "Take Time"]]></title>
         <id>https://www.nintendolife.com/#article-120942</id>
@@ -16,6 +26,16 @@ During a special anniversary live stream, the game's producer, Kenichiro Tsukuda
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desktopové prostředí Budgie bude přepsáno z GTK do EFL]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/desktopove-prostredi-budgie-bude-prepsano-z-gtk-do-efl</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/desktopove-prostredi-budgie-bude-prepsano-z-gtk-do-efl"/>
+        <updated>2021-09-15T02:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Desktopové prostředí Budgie vyvíjené v rámci linuxové distribuce Solus bude přepsáno z GTK do EFL. Joshua Strobl rozepsal důvody v příspěvku na svém blogu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -169,7 +189,7 @@ Read more]]></summary>
         <id>1847676245</id>
         <link href="https://kotaku.com/the-world-seems-ready-for-a-nintendo-switch-price-cut-1847676245"/>
         <updated>2021-09-14T21:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Nintendo Switch has received its first price cut in certain parts of the world, dropping from €330 in Europe and €280 in the UK down to €270 and €260, respectively. But while fans hoped the same could happen in the U.S., especially with sites like VGC insisting a cut is coming, Nintendo says such a thing is…
+        <summary type="html"><![CDATA[The Nintendo Switch has received its first price cut in certain parts of the world, dropping from £330 in Europe and £280 in the UK down to £270 and £260, respectively. But while fans hoped the same could happen in the U.S., especially with sites like VGC insisting a cut is coming, Nintendo says such a thing is…
 Read more...]]></summary>
         <author>
             <name>Jeremy Winslow</name>
@@ -1519,16 +1539,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cena telefonu Librem 5 opět vzroste]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/cena-telefonu-librem-5-opet-vzroste</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/cena-telefonu-librem-5-opet-vzroste"/>
-        <updated>2021-09-12T22:45:10.000Z</updated>
-        <summary type="html"><![CDATA[Cena telefonu Librem 5 opět vzroste. Aktuálně jej lze předobjednat za 899 dolarů. Od 1. listopadu za 1 199 dolarů. Od března 2022 za 1 299 dolarů. Při spuštění kampaně v srpnu 2017 to bylo 599 dolarů. Librem 5 USA, tj. Librem 5 vyráběný v USA, lze předobjednat za 1 999 dolarů.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Týden na ITBiz: Správa a analýza dat tlačí podniky do cloudu]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-sprava-a-analyza-dat-tlaci-podniky-do-cloudu</id>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-sprava-a-analyza-dat-tlaci-podniky-do-cloudu"/>
@@ -2707,16 +2717,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/openssl-3-0-nejen-podpora-linux-kernel-tls/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2021-09-07T14:15:00.000Z</updated>
         <summary type="html"><![CDATA[Po řadě vývojových verzí je na světě finální vydání OpenSSL 3.0, všeobecně používané SSL knihovny. Oproti verzi 1.1 přináší velké možnosti v rozšiřitelnosti, vyčištění kódu projektu zejména od zastaralých věcí a také rozličná vylepšení v architektuře knihovny. OpenSSL 3.0 také přechází na licenci Apache 2.0.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung chce 576Mpix snímač pro smartphony již v roce 2025]]></title>
-        <id>www.root.cz-actuality-42793</id>
-        <link href="https://www.root.cz/zpravicky/samsung-chce-576mpix-snimac-pro-smartphony-jiz-v-roce-2025/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-07T13:50:00.000Z</updated>
-        <summary type="html"><![CDATA[V listopadu se objevil první smartphone se 108Mpix ISOCELL snímačem Samsung (exkluzivitu si tehdy zajistilo Xiaomi). Zhruba v téže době se začalo hovořit o 150 a 200Mpix v plánech samotného Samsungu. Před několika dny byl snímač Samsung ISOCELL s rozlišením 200Mpix skutečně uveden. Je tedy nejvyšší čas oprášit rok staré zvěsti o cíli v podobě 600Mpix mety.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
