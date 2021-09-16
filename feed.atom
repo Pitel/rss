@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-16T06:17:27.183Z</id>
+    <id>urn:2021-09-16T08:17:01.037Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-16T06:17:27.183Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2021-09-16T08:17:01.037Z</updated>
+    <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Amazing American Circus review: I hate to say it, but there are better shows in town]]></title>
+        <id>https://www.rockpapershotgun.com/the-amazing-american-circus-review</id>
+        <link href="https://www.rockpapershotgun.com/the-amazing-american-circus-review"/>
+        <updated>2021-09-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[By the time Henry Ford rolled up to see my show, I was ready to pack my trunk and say goodbye to the circus. I’d been ready a long time ago, truth be told, some time between inciting industrial action amongst JP Morgan’s workers and nabbing an automaton from Tesla. My troupe spread delight wherever we roamed, but the crowds weren’t to know we’d been plying the same tricks for hour after hour - nor that it had hardly taken one to hone my act to the point where failure was inconceivable. Every meagre juggling trick brought whoops from the crowd and impatience to my heart. With every high-wire act, my spirit sank lower still. 
+
+
+There’s no turn around coming, I’m afraid. The Amazing American Circus is a deckbuilder with some nice ideas, but it’s far more clown than strongman. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Cox</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Is Successfully Using The Open-Source Qualcomm GL/VLK Drivers On Chromebooks]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Chromebooks-Mesa-QLCM</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Chromebooks-Mesa-QLCM"/>
+        <updated>2021-09-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's been known that Google has been using the open-source "MSM" DRM/KMS driver on Qualcomm-powered devices that originally started out as a reverse-engineered driver project separate from the company. Now it's also been confirmed how Google is successfully using the open-source Mesa Freedreno OpenGL and TURNIP Vulkan drivers on Qualcomm-powered Chromebooks too...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.11.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.1"/>
+        <updated>2021-09-16T06:39:32.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Unexpected nested element in author field crashes the parser
+Thank you @ad-m]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best GameCube Games]]></title>
         <id>1739309425</id>
@@ -2080,16 +2117,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Latest Progress On Rust For The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-Linux-Kernel-Linaro-2021</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-Linux-Kernel-Linaro-2021"/>
-        <updated>2021-09-11T18:30:14.000Z</updated>
-        <summary type="html"><![CDATA[While the Rust programming language support for usage within the kernel isn't landing for the Linux 5.15 merge window ending this weekend, that effort remains ongoing. A status update on the effort was shared this week about Rust usage for the Linux kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Epic vs. Apple: US court rules Apple must allow third-party payment systems]]></title>
         <id>https://www.rockpapershotgun.com/epic-vs-apple-us-court-rules-apple-must-allow-third-party-payment-systems</id>
         <link href="https://www.rockpapershotgun.com/epic-vs-apple-us-court-rules-apple-must-allow-third-party-payment-systems"/>
@@ -2650,17 +2677,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Imogen Beckhelling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deathloop system requirements confirmed, along with AMD FidelityFX Super Resolution support]]></title>
-        <id>https://www.rockpapershotgun.com/deathloop-system-requirements-confirmed-along-with-amd-fidelityfx-super-resolution-support</id>
-        <link href="https://www.rockpapershotgun.com/deathloop-system-requirements-confirmed-along-with-amd-fidelityfx-super-resolution-support"/>
-        <updated>2021-09-09T10:14:28.000Z</updated>
-        <summary type="html"><![CDATA[Deathloop, or Deeaaaaaaathlooooooooooop as it’s called in the absolute banger of a theme song, has some official PC system requirements out ahead of release on September 14th. In a blog post, publishers Bethesda have also detailed some of the PC-only graphics settings you’ll be able to tinker with, while confirming support for AMD’s FidelityFX Super Resolution upscaling tech.
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
         </author>
     </entry>
     <entry>
