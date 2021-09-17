@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-17T02:28:41.848Z</id>
+    <id>urn:2021-09-17T04:18:55.015Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-17T02:28:41.848Z</updated>
+    <updated>2021-09-17T04:18:55.015Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel's PSH ISHTP Driver Readied On Linux For Systems Wanting To Forego A Traditional EC]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-PSH-ISHTP-ECLite</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-PSH-ISHTP-ECLite"/>
+        <updated>2021-09-17T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It looks like Intel's ISHTP_ECLITE driver will be ready for mainlining in Linux 5.16 as a driver for newer systems skipping out on a traditional embedded control (EC) and instead using this EC-like IP as part of their Programmable Service Engine subsystem...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 'Castlevania Advance Collection' Has Been Rated For Switch In Taiwan]]></title>
+        <id>https://www.nintendolife.com/#article-121047</id>
+        <link href="https://www.nintendolife.com/news/2021/09/the_castlevania_advance_collection_has_been_rated_for_switch_in_taiwan"/>
+        <updated>2021-09-17T03:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Now make it official, Konami.
+In June, it was discovered how a "Castlevania Advance Collection" had been rated by the Australian Classification Board.
+The publisher was listed as Konami and the author was 'M2' - best known in recent years for re-releasing various retro classics on the Switch. This followed with a PC version of the game being classified in South Korea.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sega To Announce "New RPG" At This Year's Tokyo Game Show]]></title>
         <id>https://www.nintendolife.com/#article-121044</id>
@@ -807,19 +830,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[With the Linux 5.15 merge window out of the way, the first drm-misc-next pull request has been sent in to DRM-Next for staging until the Linux 5.16 merge window opens up about two months from now...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Out Now: Metal Slug 1st & 2nd Mission Get A Handy eShop Double Pack]]></title>
-        <id>https://www.nintendolife.com/#article-120993</id>
-        <link href="https://www.nintendolife.com/news/2021/09/out_now_metal_slug_1st_and_2nd_mission_get_a_handy_eshop_double_pack"/>
-        <updated>2021-09-16T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Neo Geo Pocket Color goodness.
-We do like nice surprises, and the drop of Metal Slug 1st & 2nd Mission Double Pack on the Switch eShop has been a welcome arrival this week. Out now globally, this combines two Neo Geo Color titles in one, as you can see in the trailer above.
-If you search Metal Slug on the eShop you get a whole lot of results, with 6 archives ports from Hamster covering the Neo Geo mainline entries - including Metal Slug X. Coming out originally on the less powerful but undeniably cool pocket system, 1st and 2nd Mission offer a rather different look but the same core gameplay ideas.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2107,16 +2117,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-18.04.6-LTS-Coming"/>
         <updated>2021-09-13T12:56:17.000Z</updated>
         <summary type="html"><![CDATA[While Ubuntu 18.04.5 LTS shipped one year ago as the last planned point release to the "Bionic Beaver", an emergency issue is leading to Ubuntu 18.04.6 now being prepared...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still-Pending AMD PSF Control Patch To Be Retailored For KVM]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PSF-Control-September</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PSF-Control-September"/>
-        <updated>2021-09-13T12:40:51.000Z</updated>
-        <summary type="html"><![CDATA[Of all the great stuff for AMD in Linux 5.15, one of the patches still not having yet been mainlined is the control support around Predictive Store Forwarding (PSF) with Zen 3 processors. It's been six months since AMD published their security whitepaper around PSF while the Linux patch has yet to be mainlined while now it seems will be updated for a reduced focus on KVM usage...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
