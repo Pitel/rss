@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-19T18:16:10.070Z</id>
+    <id>urn:2021-09-19T20:14:54.964Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-19T18:16:10.070Z</updated>
+    <updated>2021-09-19T20:14:54.964Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nová verze jazyka Idris 2 přidává inkrementální překlad a zrychluje typovou kontrolu]]></title>
+        <id>www.root.cz-actuality-42831</id>
+        <link href="https://www.root.cz/zpravicky/nova-verze-jazyka-idris-2-pridava-inkrementalni-preklad-a-zrychluje-typovou-kontrolu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-19T19:23:50.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze 0.5.0 jazyka Idris 2. Z větších změn lze zmínit přidání inkrementálního překladu a zrychlení typové kontroly omezením redukcí v době překladu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Calculon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HarfBuzz 3.0 Released With Unicode 14.0 Support, More APIs Considered Stable]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=HarfBuzz-3.0</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=HarfBuzz-3.0"/>
+        <updated>2021-09-19T19:11:39.000Z</updated>
+        <summary type="html"><![CDATA[HarfBuzz 3.0 has been released as a new version of this widely-used, open-source text shaping library that is used by the major Linux desktop environments along with Chrome OS, Java, Android, Chrome, and a plethora of other software projects and UI toolkits...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LeVar Burton No Longer Wants To Be Jeopardy! Host]]></title>
+        <id>1847704919</id>
+        <link href="https://kotaku.com/levar-burton-no-longer-wants-to-be-jeopardy-host-1847704919"/>
+        <updated>2021-09-19T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The internet’s mission to help LeVar Burton become the host of the long-running game show Jeopardy! has come to an end now that Burton himself ain’t interested in the gig. This adds another chapter into this Summer’s odd saga of “Who Will Host Jeopardy!”
+Read more...]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[That Didn't Take Long: KSMBD In-Kernel File Server Already Needs Important Security Fix]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=SMB3-File-Server-Security-Fix</id>
@@ -1355,17 +1386,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[YouTube Duo Find $100,000 Of Vintage Games In Hoarder’s Abandoned House]]></title>
-        <id>1847690206</id>
-        <link href="https://kotaku.com/youtube-duo-find-100-000-of-vintage-games-in-hoarder-s-1847690206"/>
-        <updated>2021-09-16T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Like a real-life Tomb Raider run sans picturesque vistas from an ancient civilization, a pair of YouTuber game hunters found themselves in an extremely messy room that had been locked for close to 20 years. But amid the filth, they found a treasure trove of factory-sealed video games, including mainstream hits like …
-Read more...]]></summary>
-        <author>
-            <name>Isaiah Colbert</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenZFS 2.1.1 Arrives As A Big Point Release]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenZFS-2.1.1-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenZFS-2.1.1-Released"/>
@@ -1714,16 +1734,6 @@ It's out in early access now.
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse Engineering, Open-Source Driver Writing Continues For Apple's M1 GPU]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-AGX-XDC2021</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-AGX-XDC2021"/>
-        <updated>2021-09-15T18:11:25.000Z</updated>
-        <summary type="html"><![CDATA[Alyssa Rosenzweig spoke today at the virtual X.Org Developers Conference about the ongoing work for bringing up Linux display and graphics support on the Apple M1 graphics processor...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2580,16 +2590,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Linuxové jádro mírně „rozvolní“ opatření proti Spectre V2 a  V4 (Speculative Store Bypass) pro uživatelské úlohy. Od jádra 4.20 je výchozím chováním spec_store_bypass_disable=seccomp a spectre_v2_user=seccomp  , tedy jen pro úlohy používající SECCOMP (secure computing mode). Nově by mělo být nastaveno prctl, tedy jen pro procesy, které to mají nastaveno.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (online školení)]]></title>
-        <id>www.root.cz-actuality-40574</id>
-        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-13T06:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
