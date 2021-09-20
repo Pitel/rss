@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-20T06:17:50.177Z</id>
+    <id>urn:2021-09-20T08:17:29.821Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-20T06:17:50.177Z</updated>
+    <updated>2021-09-20T08:17:29.821Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (online školení)]]></title>
+        <id>www.root.cz-actuality-40574</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-20T07:38:28.000Z</updated>
+        <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jak zabránit častému snižování frekvence u notebooků]]></title>
+        <id>www.root.cz-actuality-42832</id>
+        <link href="https://www.root.cz/zpravicky/jak-zabranit-castemu-snizovani-frekvence-u-notebooku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-20T06:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Vývojář jádra Jens Axboe si minulý čtvrtek postěžoval na Lenovo X1 Carbon Gen 9, protože mu při paralelním překladu jádra ( make -j4) notebook sníží frekvenci procesoru až na 400 MHz a stane se prakticky nepoužitelný. Jde o thermal throttling, který má zabránit přehřívání čím dál tenčích a lehčích notebooků.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RIP Mick McGinty]]></title>
         <id>1847705910</id>
@@ -2722,26 +2742,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Získejte doživotní aktivační klíč k Windows 10 za 12,52 EUR na prodejním portálu GoodOffer24.com. Kromě toho zde můžete získat mnohem více, od dalších nástrojů produktivity od Microsoftu, až po hry. Nezapomeňte zadat před dokončením nákupu slevový kód  AX30.]]></summary>
         <author>
             <name>Reklama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oprava uspávání notebooků s AMD bude v jádře 5.15]]></title>
-        <id>www.root.cz-actuality-42807</id>
-        <link href="https://www.root.cz/zpravicky/oprava-uspavani-notebooku-s-amd-bude-v-jadre-5-15/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-10T12:26:01.000Z</updated>
-        <summary type="html"><![CDATA[Některé notebooky s novými procesory AMD mají problémy s probuzením ze spánku s2idle. Mezi nimi například HP Envy x360. Po probuzení například nesvítí dioda napájení, nefunguje ovládání jasnosti displeje či dokonce nefunguje ventilátor.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD bude mít ovladač frekvencí procesoru amd_pstate, o 11 % lepší výkon na Watt]]></title>
-        <id>www.root.cz-actuality-42806</id>
-        <link href="https://www.root.cz/zpravicky/amd-bude-mit-ovladac-frekvenci-procesoru-amd-pstate-o-11-lepsi-vykon-na-watt/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-10T11:33:16.000Z</updated>
-        <summary type="html"><![CDATA[Procesory AMD Zen 2 a 3 budou mít lepší ovladač frekvencí amd_pstate místo doposud používaného acpi_cpufreq. Nový ovladač bude lépe využívat možností procesoru podobně jako u Intelu intel_pstate. Používat bude rozhraní ACPI CPPC (Collaborative Processor Performance Controls), které umožňuje jemnější řízení než staré ACPI. Z počátku bude podpora pouze pro Zen 3, později bude přidána podpora Zen 2.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
