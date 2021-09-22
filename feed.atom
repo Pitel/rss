@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-22T04:18:48.412Z</id>
+    <id>urn:2021-09-22T06:17:35.415Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T04:18:48.412Z</updated>
+    <updated>2021-09-22T06:17:35.415Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.16 přinese podporu senzorů dalších základních desek ASUS]]></title>
+        <id>www.root.cz-actuality-42841</id>
+        <link href="https://www.root.cz/zpravicky/linux-5-16-prinese-podporu-senzoru-dalsich-zakladnich-desek-asus/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-22T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[V Linuxu 5.16 dojde ke změně v ovladači nct6775, který obstarává čtení dat ze senzorů mnohých základních desek značky ASUS. Ovladač dostane podporu přístupu k ASIC za použití funkcí ASUS WMI (desky od Asusteku nepoužívají standardní cestu přes ACPI, kterou ovladač disponuje již nyní). S úpravou pak logicky do jádra zamíří i podpora níže uvedeného seznamu základních desek:]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Trading Card Game Online "Sunset FAQ" Explains Shut Down Process]]></title>
+        <id>https://www.nintendolife.com/#article-121236</id>
+        <link href="https://www.nintendolife.com/news/2021/09/pokemon_trading_card_game_online_sunset_faq_explains_shut_down_process"/>
+        <updated>2021-09-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Existing players will be required to transfer their data.
+Earlier this week, The Pokémon Company revealed its new Pokémon Trading Card Game Live app for mobile and PC.
+Of course, it's raised a lot of questions about what's going on with the existing game, Pokémon TGC Online. TPC has now released an extensive FAQ about the older version's "sunset" process - explaining how this app will be removed and severs will be shut down "shortly prior to the launch" of the new game.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIMP 2.10.28 opravuje další chyby]]></title>
+        <id>www.root.cz-actuality-42840</id>
+        <link href="https://www.root.cz/zpravicky/gimp-2-10-28-opravuje-dalsi-chyby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-22T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Na GIMP 3.0 si ještě chvíli počkáme, vezměmež tedy zavděk dalším, víceméně opravným vydání dva-desítkové řady. GIMP 2.10.28 totiž přináší solidní množství oprav.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mesa 21.2.2 Released "Late & Very Large"]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.2.2</id>
@@ -29,9 +62,9 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[F4F Unveils Its Skies Of Arcadia Aika Statue, Pre-Orders Are Now Open]]></title>
+        <title type="html"><![CDATA[F4F Unveils Its Stunning Skies Of Arcadia Aika Statue, Pre-Orders Are Now Open]]></title>
         <id>https://www.nintendolife.com/#article-121234</id>
-        <link href="https://www.nintendolife.com/news/2021/09/f4f_unveils_its_skies_of_arcadia_aika_statue_pre-orders_are_now_open"/>
+        <link href="https://www.nintendolife.com/news/2021/09/f4f_unveils_its_stunning_skies_of_arcadia_aika_statue_pre-orders_are_now_open"/>
         <updated>2021-09-22T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[Estimated release Q1, 2022.
 It's now been over 20 years since Sega's RPG Skies of Arcadia made its original debut on the Dreamcast. It was followed by the GameCube version 2002 and since then fans have been hoping for more.
@@ -39,6 +72,16 @@ While today's news might not be directly game-related, it's at least something. 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical prodloužil podporu Ubuntu 14.04 a 16.04 na 10 let]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/canonical-prodlouzil-podporu-ubuntu-14.04-a-16.04-na-10-let</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/canonical-prodlouzil-podporu-ubuntu-14.04-a-16.04-na-10-let"/>
+        <updated>2021-09-22T01:58:03.000Z</updated>
+        <summary type="html"><![CDATA[Canonical prodloužil podporu Ubuntu 14.04 LTS (Trusty Tahr) a 16.04 LTS (Xenial Xerus) na 10 let. Ubuntu 14.04 je tedy podporováno do dubna 2024 a Ubuntu 16.04 do dubna 2026.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -66,16 +109,27 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pokémon Unite Producer Thanks Fans For Feedback And Details Upcoming Patch]]></title>
+        <title type="html"><![CDATA[Pokémon Unite Producer Thanks Fans For Feedback And Details Latest Patch]]></title>
         <id>https://www.nintendolife.com/#article-121232</id>
-        <link href="https://www.nintendolife.com/news/2021/09/pokemon_unite_producer_thanks_fans_for_feedback_and_details_upcoming_patch"/>
+        <link href="https://www.nintendolife.com/news/2021/09/pokemon_unite_producer_thanks_fans_for_feedback_and_details_latest_patch"/>
         <updated>2021-09-22T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[New update includes cross-play, a new battle pass and more.
+        <summary type="html"><![CDATA[Update: Available now on mobile devices.
+Update: Pokémon Unite is now available to download on mobile devices.
+
 As you might have already seen, the MOBA Pokémon Unite arrives on mobile devices today. Ahead of its release, the game's producer Masaaki Hoshino has delivered a special message on the official site - thanking players for all of their feedback so far and also revealing what to expect in the latest update.
-Hoshino has also revealed how the team is working on a new mode of play to level the playing field. Here's the message in full:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Touch OTA-19]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/ubuntu-touch-ota-19</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/ubuntu-touch-ota-19"/>
+        <updated>2021-09-21T23:46:23.000Z</updated>
+        <summary type="html"><![CDATA[UBports, nadace a komunita kolem Ubuntu pro telefony a tablety Ubuntu Touch (seznam podporovaných zařízení), vydala Ubuntu Touch OTA-19. Nejnovější verze je pořád založena na Ubuntu 16.04. Pracuje se na přechodu na Ubuntu 20.04.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1156,19 +1210,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Disney Classic Games Collection' Adds Aladdin SNES And "All Versions" Of The Jungle Book]]></title>
-        <id>https://www.nintendolife.com/#article-121181</id>
-        <link href="https://www.nintendolife.com/news/2021/09/disney_classic_games_collection_adds_aladdin_snes_and_all_versions_of_the_jungle_book"/>
-        <updated>2021-09-21T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Expected to arrive this November.
-
-Back in August, an ESRB rating revealed the 2019 Switch release Disney Classic Games: Aladdin And The Lion King would be repackaged with The Jungle Book.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A new free-to-play online Pokémon trading card game is coming to PC]]></title>
         <id>https://www.rockpapershotgun.com/a-new-free-to-play-online-pokemon-trading-card-game-is-coming-to-pc</id>
         <link href="https://www.rockpapershotgun.com/a-new-free-to-play-online-pokemon-trading-card-game-is-coming-to-pc"/>
@@ -1593,16 +1634,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Online konference LibreOffice 2021]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/online-konference-libreoffice-2021</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/online-konference-libreoffice-2021"/>
-        <updated>2021-09-20T08:30:20.000Z</updated>
-        <summary type="html"><![CDATA[Od 23. do 25. září bude probíhat online konference LibreOffice 2021. Během tří dnů je připraveno okolo padesáti přednášek, workshopů a komunitních setkání s tématy týkající se kancelářského balíku, komunity a open source. Program je k dispozici na stránce konference. Konference se bude konat na komunikační platformě Jitsi a je zdarma. Připravuje se také YouTube přenos. Registrace je dostupná na stránce konference.]]></summary>
-        <author>
-            <name>Zdeněk Crhonek</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (online školení)]]></title>
         <id>www.root.cz-actuality-40574</id>
         <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1639,16 +1670,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Linux 5.15-rc2 is now available as the latest weekly release candidate for this next version of the Linux kernel. Linux 5.15 in turn should be out as stable around the start of November...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chafa 1.8]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/chafa-1.8</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/chafa-1.8"/>
-        <updated>2021-09-19T23:23:51.000Z</updated>
-        <summary type="html"><![CDATA[Chafa (GitHub) je utilita a knihovna pro zobrazování libovolných obrázků v terminálu. Novinky v nejnovější verzi 1.8 v příspěvku na blogu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2655,26 +2676,6 @@ Read more]]></summary>
         <updated>2021-09-15T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.15 už nezkompilujete s GCC 4.9 a starším]]></title>
-        <id>www.root.cz-actuality-42817</id>
-        <link href="https://www.root.cz/zpravicky/linux-5-15-uz-nezkompilujete-s-gcc-4-9-a-starsim/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-14T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jedna z posledních změn v rámci vývoje příští verze jádra Linux 5.15 povyšuje minimální verzi GCC pro kompilaci. Až dosud stačilo GCC 4.9, nyní bude pro sestavení jádra potřeba minimálně GCC 5.1. Jde současně o verzi, která je už delší dobu potřebná pro build na architektuře Aarch64 (64bit ARM).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Otevřený telefon Librem 5 zdraží na 1199 USD]]></title>
-        <id>www.root.cz-actuality-42816</id>
-        <link href="https://www.root.cz/zpravicky/otevreny-telefon-librem-5-zdrazi-na-1199-usd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-14T14:48:16.000Z</updated>
-        <summary type="html"><![CDATA[Nová cenovka telefonu Librem 5 bude od listopadu tohoto roku 1199 dolarů. Telefon přitom v rámci kampaně šlo v roce 2017 předplatit za 599 dolarů, tedy poloviční částku. Dnes ještě stojí 899 dolarů, plus existuje verze vyráběná v USA s cenovkou 1999 dolarů. Hlavním důvodem dalšího výrazného růstu ceny je samozřejmě situace na trhu s komponentami a materiály.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
