@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-25T10:15:26.865Z</id>
+    <id>urn:2021-09-25T12:21:50.989Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-25T10:15:26.865Z</updated>
+    <updated>2021-09-25T12:21:50.989Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Úvahy o Borrow Checkeru pro C++]]></title>
+        <id>www.root.cz-actuality-42851</id>
+        <link href="https://www.root.cz/zpravicky/uvahy-o-borrow-checkeru-pro-c/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-25T10:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Server This Week in Rust přinesl odkaz na zajímavý článek z pera tří vývojářů projektu Chromium. Autoři v něm rozvíjejí myšlenku implementovat v C++ stejná, nebo alespoň podobná pravidla paměťové bezpečnosti na úrovni typového systému, jako má Rust (tzv. Borrow Checking).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: klokan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Official Raspberry Pi Handbook 2022]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/the-official-raspberry-pi-handbook-2022</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/the-official-raspberry-pi-handbook-2022"/>
+        <updated>2021-09-25T10:26:01.000Z</updated>
+        <summary type="html"><![CDATA[Byl vydán The Official Raspberry Pi Handbook 2022 (pdf), tj. oficiální dvousetstránková příručka k Raspberry Pi se spoustou nápadů, tipů, projektů a recenzí.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenZFS 2.0.6 Released With Support For Newer Kernels]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenZFS-2.0.6-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenZFS-2.0.6-Released"/>
+        <updated>2021-09-25T10:23:00.000Z</updated>
+        <summary type="html"><![CDATA[While the OpenZFS 2.1 feature release has been available since July, for those still using the OpenZFS 2.0.x series and not yet prepared to make the jump to that big new release with dRAID and other changes, OpenZFS 2.0.6 was released this week...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wine-Staging 6.18 Released With 616 Patches Atop Upstream]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-Staging-6.18</id>
@@ -1431,16 +1461,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Official Raspberry Pi Handbook 2022]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/the-official-raspberry-pi-handbook-2022</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/the-official-raspberry-pi-handbook-2022"/>
-        <updated>2021-09-23T12:59:28.000Z</updated>
-        <summary type="html"><![CDATA[Byl vydán The Official Raspberry Pi Handbook 2022 (pdf), tj. oficiální dvousetstránková příručka k Raspberry Pi se spoustou nápadů, typů, projektů a recenzí.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Tales of Arise rose up for a new audience]]></title>
         <id>https://www.rockpapershotgun.com/how-tales-of-arise-rose-up-for-a-new-audience</id>
         <link href="https://www.rockpapershotgun.com/how-tales-of-arise-rose-up-for-a-new-audience"/>
@@ -2097,16 +2117,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cycles X Merged Into Blender 3.0 With NVIDIA CUDA/OptiX Support, AMD HIP Pending]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Blender-3.0-Lands-Cycles-X</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Blender-3.0-Lands-Cycles-X"/>
-        <updated>2021-09-21T19:33:07.000Z</updated>
-        <summary type="html"><![CDATA[Cycles X as a modernizing of Blender's Cycles rendering engine has now landed in the latest development code for Blender 3.0. Cycles X brings big performance improvements but does eliminate OpenCL support in the process...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Neo: The World Ends With You comes to you on PC next week]]></title>
         <id>https://www.rockpapershotgun.com/neo-the-world-ends-with-you-comes-to-you-on-pc-next-week</id>
         <link href="https://www.rockpapershotgun.com/neo-the-world-ends-with-you-comes-to-you-on-pc-next-week"/>
@@ -2669,16 +2679,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/online-konference-libreoffice-2021/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2021-09-18T10:47:18.000Z</updated>
         <summary type="html"><![CDATA[Od 23. do 25. září bude probíhat online konference LibreOffice 2021. Během tří dnů je připraveno okolo padesáti přednášek, workshopů a komunitních setkání s tématy týkající se kancelářského balíku, komunity a open source.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: anonymní)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Český překlad příručky LibreOffice Impress 7.0]]></title>
-        <id>www.root.cz-actuality-42828</id>
-        <link href="https://www.root.cz/zpravicky/cesky-preklad-prirucky-libreoffice-impress-7-0/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-18T06:12:43.000Z</updated>
-        <summary type="html"><![CDATA[Český LibreOffice tým vydává překlad příručky LibreOffice Impress 7.0. Tato příručka je určena pro začátečníky i pokročilé uživatele aplikace Impress, prezentační komponenty v LibreOffice. S její pomocí můžete vytvářet snímky, které obsahují text, číslované a odrážkové seznamy, tabulky, grafy, videoklipy, kliparty a další objekty. Impress přichází s předdefinovanými textovými styly a předlohami snímků; můžete si také vytvořit vlastní. Příručka je ke stažení na stránce dokumentace. Tým nyní pracuje na překladu příruček Draw a Base.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: anonymní)</name>
         </author>
