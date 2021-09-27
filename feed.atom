@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-27T02:26:58.363Z</id>
+    <id>urn:2021-09-27T04:19:25.108Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-27T02:26:58.363Z</updated>
+    <updated>2021-09-27T04:19:25.108Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MediaTek Hoping To Bring nanoMIPS Support Upstream Into GCC]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=MediaTek-2021-nanoMIPS-GCC</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=MediaTek-2021-nanoMIPS-GCC"/>
+        <updated>2021-09-27T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The nanoMIPS architecture that was announced by MIPS in 2018 for embedded devices to lower power consumption and yield smaller code footprints was announced for the MIPS I7200 but since then there hasn't been much of nanoMIPS. However, MediaTek is now looking to contribute upstream the compiler support for this processor ISA into GCC...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Week In Games: A Whole New World, A Dazzling Place]]></title>
         <id>1847749113</id>
@@ -1956,16 +1966,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Android-Linux-Upstream-First"/>
         <updated>2021-09-22T18:38:46.000Z</updated>
         <summary type="html"><![CDATA[Google's Android had been notorious for all of its downstream patches carried by the mobile operating system as well as various vendor/device kernel trees while in recent years more of that code has been upstreamed. Google has also been shifting to the Android Generic Kernel Image (GKI) as the basis for all their product kernels to further reduce the fragmentation. Looking ahead, Google is now talking of an "upstream first" approach for pushing new kernel features...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa Merge Pending For Vulkan Ray-Tracing On Older AMD GPUs]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-RADV-RT-For-Older-GPUs</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-RADV-RT-For-Older-GPUs"/>
-        <updated>2021-09-22T17:14:25.000Z</updated>
-        <summary type="html"><![CDATA[Merged yesterday for Mesa 21.3 was open-source Vulkan ray-tracing for AMD RDNA2 / RX 6000 series GPUs with the RADV driver. Opened today now is a merge request that would provide Vulkan ray-tracing with RADV to pre-RDNA2 GPUs on this driver going back to the likes of Polaris, granted the performance is another story...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
