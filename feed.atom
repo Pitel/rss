@@ -1,10 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-27T08:17:33.704Z</id>
+    <id>urn:2021-09-27T10:16:25.531Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-27T08:17:33.704Z</updated>
+    <updated>2021-09-27T10:16:25.531Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSSH 8.8]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/openssh-8.8</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/openssh-8.8"/>
+        <updated>2021-09-27T10:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 8.8 sady aplikací pro SSH komunikaci OpenSSH. Dle plánu je ve výchozím nastavení zakázán algoritmus ssh-rsa kvůli možnému útoku na SHA-1. V blízké budoucnosti bude scp pro přenosy používat SFTP místo SCP/RCP. Řešena je bezpečnostní chyba CVE-2021-41617.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capcom Will Share More On Monster Hunter Rise: Sunbreak In TGS Spotlight]]></title>
+        <id>https://www.nintendolife.com/#article-121455</id>
+        <link href="https://www.nintendolife.com/news/2021/09/capcom_will_share_more_on_monster_hunter_rise_sunbreak_in_tgs_spotlight"/>
+        <updated>2021-09-27T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Airing this week at a rather convenient time.
+For those of us that rather enjoy riding Palamutes named after dearly-departed canine friends and fighting awesome monsters, last week's Nintendo Direct started particularly well. It brought the reveal of Monster Hunter Rise: Sunbreak, which promises to be a significant expansion for the game next Summer.
+Its timing - a few months after the game also arrives on PC - hopefully points to an Iceborne-style expansion in terms of scope (which gave fresh life to Monster Hunter: World). The good news is that we'll learn more soon, with Capcom hosting a spotlight presentation at Tokyo Game Show focused on Sunbreak.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ELK Stack: naučte se Elasticsearch, Logstash a Kibana (školení)]]></title>
+        <id>www.root.cz-actuality-40262</id>
+        <link href="https://www.root.cz/zpravicky/elk-stack-naucte-se-elasticsearch-logstach-a-kibana-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-27T09:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Většina počítačových programů generuje logy – tedy zprávy a záznamy o své činnosti. ELK Stack – ElasticSearch, Logstash, Kibana – je populární nástroj, který umí logy efektivně zpracovávat, ukládat a zpřístupňovat.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bcachefs Merges Support For Btrfs-Like Snapshots]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Bcachefs-Lands-Snapshots</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Bcachefs-Lands-Snapshots"/>
+        <updated>2021-09-27T09:34:45.000Z</updated>
+        <summary type="html"><![CDATA[It's been a while since having any news to report on Bcachefs as the promising open-source file-system born out of the Linux kernel's block cache code. However, Kent Overstreet continues working tirelessly on it and has now merged Bcachefs' snapshot support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Monkey Ball Banana Mania "Would Never Have Come To Be" Without The Fans]]></title>
+        <id>https://www.nintendolife.com/#article-121458</id>
+        <link href="https://www.nintendolife.com/news/2021/09/super_monkey_ball_banana_mania_would_never_have_come_to_be_without_the_fans"/>
+        <updated>2021-09-27T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[New camera and minigames explained.
+Super Monkey Ball Banana Mania will be rolling onto Nintendo Switch in just over a week and from our time with the game so far, it's shaping up to be a very enjoyable experience indeed.
+We'll share our full thoughts on how the game stands up to the original Super Monkey Ball and its sequel (what with Banana Mania being a remake of these two titles) in our review a little closer to release, but in the meantime, the game's director Masao Shirosaki has been busy discussing some of the improvements and tweaks the team has been working on.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Crypto Driver Being Worked On For Linux, Yields Much Better AES Performance]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Nintendo-AES-Crypto-Driver</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Nintendo-AES-Crypto-Driver"/>
+        <updated>2021-09-27T09:22:03.000Z</updated>
+        <summary type="html"><![CDATA[The Linux kernel support around the Nintendo Wii and Wii U game console hardware continues to improve and now a new Nintendo crypto driver is being tackled based on reverse-engineered documentation...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lavapipe Mesa Software Driver Enables Vulkan 1.2 Support]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Lavapipe-Vulkan-1.2</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Lavapipe-Vulkan-1.2"/>
+        <updated>2021-09-27T09:10:23.000Z</updated>
+        <summary type="html"><![CDATA[Adding to the growing list of Mesa 21.3 features for next quarter's feature release is Lavapipe now supporting Vulkan 1.2...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Unite's Latest Update Fixes Crustle And Lucario Bugs]]></title>
+        <id>https://www.nintendolife.com/#article-121451</id>
+        <link href="https://www.nintendolife.com/news/2021/09/pokemon_unites_latest_update_fixes_crustle_and_lucario_bugs"/>
+        <updated>2021-09-27T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of this week's new character arrival.
+Yet another minor update has been released for Pokémon Unite, this time fixing bugs relating to two of the game's battle stars.
+The two Pokémon in question are Crustle and Lucario; issues which saw Crustle's strength being unintentionally boosted and Lucario's Extreme Speed doing more damage than intended under certain conditions have now been fixed.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MediaTek Hoping To Bring nanoMIPS Support Upstream Into GCC]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=MediaTek-2021-nanoMIPS-GCC</id>
@@ -895,45 +984,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blossom Tales Sequel To Be Published By Playtonic Next Year]]></title>
-        <id>https://www.nintendolife.com/#article-121404</id>
-        <link href="https://www.nintendolife.com/news/2021/09/blossom_tales_sequel_to_be_published_by_playtonic_next_year"/>
-        <updated>2021-09-24T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Zelda X Chrono Trigger X Princess Bride.
-Playtonic — the folks behind Yooka-Laylee — just announced their publishing arm, Playtonic Friends, and now they're announcing their next title: Blossom Tales 2: The Minotaur Prince, a sequel to the original Zelda-inspired adventure game by Castle Pixel.
-"Think A Link to the Past meets Princess Bride" is the pitch for Blossom Tales 2, with the developers focusing on "marrying fun gameplay with memorable storytelling". The sequel is a love letter to retro action-RPGs, which is very much in Playtonic's wheelhouse — take a look at these screenshots to get a feel for the game and its inspirations:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talking Point: A Nintendo Direct With Something For Everyone, And Quite A Few Surprises]]></title>
-        <id>https://www.nintendolife.com/#article-121399</id>
-        <link href="https://www.nintendolife.com/news/2021/09/talking_point_a_nintendo_direct_with_something_for_everyone_and_quite_a_few_surprises"/>
-        <updated>2021-09-24T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Aside from a couple of leaks and old rumours, Nintendo kept its cards close.
-The latest Nintendo Direct was quite something, one of Nintendo's longer broadcasts and positively packed with reveals and updates. The structure was clever in terms of getting maximum attention, too, showcasing long awaited titles, entirely new games and getting broad multimedia coverage by unveiling the main cast of the upcoming Mario movie. The broadcast and related coverage was trending on whatever social media platforms you prefer.
-Very much job done, from Nintendo's perspective, and early results in our own poll show a majority giving it 'A' or 'B' as a grade, albeit with a fair bit more weight on the 'very good' B grade.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rune Factory 5 Release Date Finally Confirmed For Next Year]]></title>
-        <id>https://www.nintendolife.com/#article-121416</id>
-        <link href="https://www.nintendolife.com/news/2021/09/rune_factory_5_release_date_finally_confirmed_for_next_year"/>
-        <updated>2021-09-24T17:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Only 6 months to go!
-Last night's Nintendo Direct was full of news, surprises, and long-awaited release date announcements, among which was the March 22nd launch date for Rune Factory 5.
-The farming, fighting, and friendship game is extremely popular among fans of the life-sim genre, and has become even more so after Harvest Moon's poorly-rated games and Story of Seasons' disappointing latest game, Pioneers of Olive Town. Many players are hoping that Rune Factory 5 will pick up the torch, especially as the game has been out in Japan since May 2021, garnering positive reviews.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GNU Coreutils 9.0: cp Now Enables CoW By Default + Copy Offload, wc Now Uses AVX2]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GNU-Coreutils-9.0</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GNU-Coreutils-9.0"/>
@@ -1672,16 +1722,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waydroid, Android na GNU/Linuxu]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/waydroid-android-na-gnu-linuxu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/waydroid-android-na-gnu-linuxu"/>
-        <updated>2021-09-23T13:46:27.000Z</updated>
-        <summary type="html"><![CDATA[Waydroid (GitHub) umožňuje spouštět aplikace pro Android na běžných linuxových distribucích. Běhové prostředí vychází z LineageOS. Jedná se o alternativu k Anboxu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Discord testing YouTube integration to let you watch videos with pals]]></title>
         <id>https://www.rockpapershotgun.com/discord-testing-youtube-integration-to-let-you-watch-videos-with-pals</id>
         <link href="https://www.rockpapershotgun.com/discord-testing-youtube-integration-to-let-you-watch-videos-with-pals"/>
@@ -1848,26 +1888,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[systemd OOMD Maturing Nicely, Adds Support For User Services]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=systemd-oomd-2021</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=systemd-oomd-2021"/>
-        <updated>2021-09-23T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Systemd-oomd as the out-of-memory daemon originally developed by Facebook has been maturing nicely since being merged last year and then its most notable deployment to date has been with Fedora 34's debut earlier this year. Anita Zhang of Facebook provided an update today on the systemd-oomd effort...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve Publishes New Steam Deck FAQ With A Few New Details Shared]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Deck-FAQ</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Deck-FAQ"/>
-        <updated>2021-09-23T00:18:02.000Z</updated>
-        <summary type="html"><![CDATA[Valve today published a "Steam Deck FAQ" page sharing some additional information on this forthcoming Arch Linux powered handheld game system that will begin shipping at the end of Q4...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Brewing and haggling sim Potion Craft opens for business in early access]]></title>
         <id>https://www.rockpapershotgun.com/brewing-and-haggling-sim-potion-craft-opens-for-business-in-early-access</id>
         <link href="https://www.rockpapershotgun.com/brewing-and-haggling-sim-potion-craft-opens-for-business-in-early-access"/>
@@ -1958,16 +1978,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Lauren Morton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Finally Shifting To "Upstream First" Linux Kernel Approach For Android Features]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Android-Linux-Upstream-First</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Android-Linux-Upstream-First"/>
-        <updated>2021-09-22T18:38:46.000Z</updated>
-        <summary type="html"><![CDATA[Google's Android had been notorious for all of its downstream patches carried by the mobile operating system as well as various vendor/device kernel trees while in recent years more of that code has been upstreamed. Google has also been shifting to the Android Generic Kernel Image (GKI) as the basis for all their product kernels to further reduce the fragmentation. Looking ahead, Google is now talking of an "upstream first" approach for pushing new kernel features...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2709,16 +2719,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Černá díra vyžrala hvězdu. Nanotechnologie s černým oxidem titaničitým. Život v atmosféře subneptunů. Maličké hory na neutronových hvězdách.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online konference LibreOffice 2021]]></title>
-        <id>www.root.cz-actuality-42829</id>
-        <link href="https://www.root.cz/zpravicky/online-konference-libreoffice-2021/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-18T10:47:18.000Z</updated>
-        <summary type="html"><![CDATA[Od 23. do 25. září bude probíhat online konference LibreOffice 2021. Během tří dnů je připraveno okolo padesáti přednášek, workshopů a komunitních setkání s tématy týkající se kancelářského balíku, komunity a open source.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: anonymní)</name>
         </author>
     </entry>
     <entry>
