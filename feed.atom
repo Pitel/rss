@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-02T18:16:31.076Z</id>
+    <id>urn:2021-10-02T20:14:26.349Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-02T18:16:31.076Z</updated>
+    <updated>2021-10-02T20:14:26.349Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenBLAS 0.3.18 Released With LoongArch64 Support, More Optimizations]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenBLAS-0.3.18-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenBLAS-0.3.18-Released"/>
+        <updated>2021-10-02T19:02:53.000Z</updated>
+        <summary type="html"><![CDATA[OpenBLAS 0.3.18 is out today as the latest feature update to this widely-used, open-source BLAS implementation...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hardwarový a softwarový průzkum Steamu - 09/2021]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/hardwarovy-a-softwarovy-pruzkum-steamu-09-2021</id>
@@ -2123,16 +2133,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PSF-Linux-5.16-KVM"/>
         <updated>2021-09-28T18:48:42.000Z</updated>
         <summary type="html"><![CDATA[While the Linux kernel still hasn't added any formal control yet for AMD Predictive Store Forwarding to disable it short of also toggling Spectre V4 / SSBD, with the Linux 5.16 kernel the AMD PSF bit will now be exposed to KVM guest virtual machines so that they -- either with a patched/future kernel or for other operating systems -- may choose to toggle explicitly disable this AMD CPU feature...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 35 Beta Released With Many New Features, Countless Package Updates]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-35-Beta-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-35-Beta-Released"/>
-        <updated>2021-09-28T17:48:53.000Z</updated>
-        <summary type="html"><![CDATA[After seeing some initial release challenges, Fedora 35 Beta was released today across the Fedora Workstation, Fedora Server, and Fedora IoT flavors as well as their other versions...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
