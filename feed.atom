@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-05T06:17:35.954Z</id>
+    <id>urn:2021-10-05T08:18:12.411Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-05T06:17:35.954Z</updated>
+    <updated>2021-10-05T08:18:12.411Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Micron's HSE Storage Engine 2.0 Debuts - No Longer Relies On Linux Kernel Modifications]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Micron-HSE-2.0-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Micron-HSE-2.0-Released"/>
+        <updated>2021-10-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In April 2020 there was the somewhat surprising announcement of Micron announcing their own open-source storage engine designed for SSDs and persistent memory. The Heterogeneous-Memory Storage Engine (HSE) has been redesigned and on Monday debuted in v2.0 form with some fundamental changes...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metroid Dread Has Been Leaked Online Ahead Of This Week's Launch]]></title>
         <id>https://www.nintendolife.com/#article-121756</id>
@@ -47,8 +57,8 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2021/10/introducing-super-mario-eclipse-a-new-super-mario-sunshine-mod-featuring-an-expanded-story-and-much-more"/>
         <updated>2021-10-05T03:05:00.000Z</updated>
         <summary type="html"><![CDATA[The GameCube classic just got an upgrade.
-Super Mario Sunshine might not be everyone's cup of tea, but it's still managed to develop a cult following over the years. While many Nintendo fans would love to see a sequel to the original 2002 GameCube title, it doesn't seem it'll be happening any time soon, so how about a mod instead?
-Enter 'Super Mario Eclipse' - as highlighted by Kotaku, it's a custom creation described as part beta restoration, part enhancement, part "original mod" and all "fan service". Here's a more descriptive rundown - noting how this mod includes an all-new expanded story, new missions, new custom worlds, new playable characters, collaborations - like Monkey Ball - and much more.
+Super Mario Sunshine might not be everyone's Mario game of choice, but it's still managed to develop a bit of a cult following over the years. While many Nintendo fans would love to see a sequel to the original 2002 GameCube title, it doesn't seem it'll be happening any time soon, so how about a mod instead?
+Enter 'Super Mario Eclipse' - as highlighted by Kotaku, it's a custom creation that's part "beta restoration", part "enhancement", part "original mod" and all "fan service". Here's a more detailed rundown - noting how this mod includes an all-new expanded story, new missions, new custom worlds, new playable characters such as Luigi, collaborations - like Monkey Ball - and much more...
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -217,7 +227,7 @@ Read more...]]></summary>
         <id>www.root.cz-actuality-42870</id>
         <link href="https://www.root.cz/zpravicky/vysel-android-12-prinasi-podporu-avif-ci-rychlejsi-strojove-uceni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2021-10-04T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Na světě je nová hlavní verze operačního systému Android, a to jak ve variantě protkané Googlem, tak ve své otevřené variantě Android Open Source Project (AOSP). Mezi novinkami je opět přepracované uživatelské rozhraní, včetně nových widgetů a dalších vylepšení v oblasti grafické. Systém je také svižnější, notifikace responsivnější, zvýšil se i výkon strojového učení systému a došlo i na nová vylepšení v oblasti soukromí či podporu grafického formátu AVIF.]]></summary>
+        <summary type="html"><![CDATA[Na světě je nová hlavní verze operačního systému Android, a to jak ve variantě protkané Googlem, tak ve své otevřené variantě Android Open Source Project (AOSP). Mezi novinkami je opět přepracované uživatelské rozhraní, včetně nových widgetů a dalších vylepšení v oblasti grafické. Systém je také svižnější, notifikace responzivnější, zvýšil se i výkon strojového učení systému a došlo i na nová vylepšení v oblasti soukromí či podporu grafického formátu AVIF.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -2033,16 +2043,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Announces Loihi 2, Lava Software Framework For Advancing Neuromorphic Computing]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Loihi-2-Lava</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Loihi-2-Lava"/>
-        <updated>2021-09-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel has some new announcements around their neuromorphic computing research...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Best New World armor: New World's armor types explained]]></title>
         <id>https://www.rockpapershotgun.com/best-new-world-armor</id>
         <link href="https://www.rockpapershotgun.com/best-new-world-armor"/>
@@ -2650,16 +2650,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ELK Stack: naučte se Elasticsearch, Logstash a Kibana (školení)]]></title>
-        <id>www.root.cz-actuality-40262</id>
-        <link href="https://www.root.cz/zpravicky/elk-stack-naucte-se-elasticsearch-logstach-a-kibana-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-09-27T09:53:21.000Z</updated>
-        <summary type="html"><![CDATA[Většina počítačových programů generuje logy – tedy zprávy a záznamy o své činnosti. ELK Stack – ElasticSearch, Logstash, Kibana – je populární nástroj, který umí logy efektivně zpracovávat, ukládat a zpřístupňovat.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Toothpaste]]></title>
         <id>https://xkcd.com/2521/</id>
         <link href="https://xkcd.com/2521/"/>
@@ -2740,6 +2730,16 @@ Thank you: @CaptNo1]]></summary>
         <summary type="html"><![CDATA[Vývojáři uvolnili konečnou betaverzi připravovaného Ubuntu 21.10 s kódovým označením Impish Indri (rošťácký lemur). Vše jde podle připraveného časového harmonogramu, čeká nás ještě kandidát na vydání a poté přijde 14. října ostrá verze.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ansible: úvod do automatizace, role a AWX (školení)]]></title>
+        <id>www.root.cz-actuality-40036</id>
+        <link href="https://www.root.cz/zpravicky/ansible-uvod-do-automatizace-role-a-awx-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-09-24T09:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Na internetu píšou, že začít s automatizací správy serverů můžete do půl hodiny. Dokážeme vám, že s Ansible to je pravda. Stačí navštívit naše pražské školení Ansible – úvod do automatizace a pak navazující Ansible – role a AWX.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
