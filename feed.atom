@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-08T08:18:01.225Z</id>
+    <id>urn:2021-10-08T10:16:27.036Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-08T08:18:01.225Z</updated>
+    <updated>2021-10-08T10:16:27.036Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[X.Org Modesetting Driver Will Now Better Handle Multi-Montior Mixed-VRR Setups]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Modesetting-VRR-Multi</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Modesetting-VRR-Multi"/>
+        <updated>2021-10-08T10:11:54.000Z</updated>
+        <summary type="html"><![CDATA[The xf86-video-modesetting DDX driver that is commonly in use for systems running an X.Org Server will soon find better support if you have a multi-monitor configuration where only some displays can support variable rate refresh (VRR / Adaptive-Sync / FreeSync)...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Metroid Dread Is Out Today On Switch, Are You Getting It?]]></title>
+        <id>https://www.nintendolife.com/#article-121920</id>
+        <link href="https://www.nintendolife.com/news/2021/10/poll-metroid-dread-is-out-today-on-switch-are-you-getting-it"/>
+        <updated>2021-10-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Have your say...
+Finally, after 19 years of waiting, Metroid fans all around the world are about to discover Samus' fifth mainline adventure. Metroid Dread is out on Nintendo Switch today.
+Despite having a seriously dedicated fanbase, Metroid has always been a franchise with a surprisingly low number of total sales (when compared to Nintendo's other major IP, at least). It's had some truly fantastic games over the years, but hasn't ever managed to pull in the numbers that series like The Legend of Zelda or, more recently, Animal Crossing have.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Continues Optimizing Linux For Optane DC Persistent Memory Servers]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Optimize-PMEM-Place-v9</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Optimize-PMEM-Place-v9"/>
+        <updated>2021-10-08T09:45:15.000Z</updated>
+        <summary type="html"><![CDATA[With the Linux 5.15 kernel there is a patch to benefit tiered memory systems with a focus on servers having persistent memory. That patch is demoting pages during page reclamation to slower tiers of memory such as Optane DC persistent memory. Intel continues building on that and other persistent memory kernel work for plumbing the kernel with optimized memory placement for these modern servers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Sword And Shield's Dada Zarude And Shiny Celebi Distribution Is Rolling Out Right Now]]></title>
+        <id>https://www.nintendolife.com/#article-122025</id>
+        <link href="https://www.nintendolife.com/news/2021/10/pokemon-sword-and-shields-dada-zarude-and-shiny-celebi-distribution-is-rolling-out-right-now"/>
+        <updated>2021-10-08T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Have you got yours?
+The Pokémon Company has begun its distribution of special codes for Dada Zarude and Shiny Celebi, both of which are redeemable in Pokémon Sword and Shield.
+Fans who were signed up to The Pokémon Trainer Club newsletter by 25th September this year are eligible to receive both codes, and should now see an email in their inboxes (if you can't see yours, make sure to check your junk folder or keep an eye out over the next few days). The distribution is being held in celebration of the worldwide release of Pokémon the Movie: Secrets of the Jungle, which is now available to stream on Netflix.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Retailer Currys Had A Metroid Dread Deal That Was Too Good To Be True]]></title>
+        <id>https://www.nintendolife.com/#article-121028</id>
+        <link href="https://www.nintendolife.com/news/2021/10/uk-retailer-currys-had-a-metroid-dread-deal-that-was-too-good-to-be-true"/>
+        <updated>2021-10-08T08:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Currys is honouring the £26.99 price!
+Update #2: We're getting numerous reports (from social media and our own staff) that Currys has honoured the orders and has shipped them, rather than cancelling them. Fair play, Currys!
+
+Update #1 : It seems that adding the game to your basket now reveals the actual price being charged for the upcoming game, £49.99. Sad faces all round. It remains to be seen if the orders of the people who managed to snag it for just £26.99 will be honoured.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nasaďte moderní web server s Nginx (online školení)]]></title>
         <id>www.root.cz-actuality-38548</id>
@@ -854,19 +914,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Nintendo Switch Transfer - How To Transfer All Saves, Games, Profiles, And User Data To Another Switch (OLED, Lite, Regular)]]></title>
-        <id>https://www.nintendolife.com/#article-84473</id>
-        <link href="https://www.nintendolife.com/guides/nintendo-switch-transfer-how-to-transfer-all-saves-games-profiles-and-user-data-to-another-switch-oled-lite-regular"/>
-        <updated>2021-10-07T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Switch up your Switch.
-System transfers have been a thing for a goodly amount of time now for Nintendo consoles. Gone are the days when all your lovely gubbins was held on a game cartridge or (gasp) memory card. Now when you get a new version of a console — be a regular Switch, a handy Switch Lite or a Switch OLED model — you've got to ferry all that data over from your old system to your new one.
-Fortunately, it's relatively easy to transfer everything from one Switch to another Switch, and to prove that fact we're going to tell you how in the article you lucky, lucky beggars.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Far Cry 6 is out now, with some launch crashes on PC]]></title>
         <id>https://www.rockpapershotgun.com/far-cry-6-is-out-now-with-some-launch-crashes-on-pc</id>
         <link href="https://www.rockpapershotgun.com/far-cry-6-is-out-now-with-some-launch-crashes-on-pc"/>
@@ -922,19 +969,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: Fan Spotted Filming Bring Me The Horizon Concert With A Nintendo 3DS]]></title>
-        <id>https://www.nintendolife.com/#article-121962</id>
-        <link href="https://www.nintendolife.com/news/2021/10/random-fan-spotted-filming-bring-me-the-horizon-concert-with-a-nintendo-3ds"/>
-        <updated>2021-10-07T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[That's the spirit.
-The 3DS' two outer cameras allow you to film in 3D – perfect for reliving live experiences!
-You don't see many Nintendo 3DS systems out and about these days, but when they do pop up, it seems they really show up in style.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New World housing: how to buy a house in New World]]></title>
         <id>https://www.rockpapershotgun.com/new-world-housing</id>
         <link href="https://www.rockpapershotgun.com/new-world-housing"/>
@@ -965,19 +999,6 @@ In a recent press release, EA trumpeted its, “recording-breaking FIFA 22 launc
 Read more...]]></summary>
         <author>
             <name>Brian Ashcraft</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cricket 22 Will Aim To Bowl Us Over On Switch Next Year]]></title>
-        <id>https://www.nintendolife.com/#article-121950</id>
-        <link href="https://www.nintendolife.com/news/2021/10/cricket-22-will-aim-to-bowl-us-over-on-switch-next-year"/>
-        <updated>2021-10-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Arrives a couple of months after PlayStation / Xbox / PC.
-The Switch has a decidedly mixed record when it comes to major sports games - we have some darn good ones, some terribly lazy efforts (we're looking at you, EA), and there are also a fair few major titles that skip the system altogether. Well, if you enjoy the thwack of willow on leather and crowds that get increasingly boozed up as the day progresses, there's good news.
-Cricket 22 has been announced and is indeed coming to the Switch, which is the positive bit; the slightly bad news is that it's arriving in January 2022, a couple of months after every other version. As a result the Switch version will miss the excitement around the upcoming men's Ashes series, but hopefully it also means a bit of extra time for optimisation and bug squashing. It also means the system will miss out on the pre-release download giving access to the 'nets' mode, which is outlined in the video at the top of the article.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2169,16 +2190,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Publishes Open-Source "GPUFORT" As Newest Effort To Help Transition Away From CUDA]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Radeon-GPUFORT</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Radeon-GPUFORT"/>
-        <updated>2021-10-04T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I've just been informed by AMD that they have now made their code public to a new project called GPUFORT. This new GPUFORT project will live under the Radeon Open eCosystem (ROCm) umbrella and is their latest endeavor in helping developers with large CUDA code-bases transition away from NVIDIA's closed ecosystem...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New World player counts keep climbing, nearly a million concurrents on Sunday]]></title>
         <id>https://www.rockpapershotgun.com/new-world-player-counts-keep-climbing-nearly-a-million-concurrents-on-sunday</id>
         <link href="https://www.rockpapershotgun.com/new-world-player-counts-keep-climbing-nearly-a-million-concurrents-on-sunday"/>
@@ -2189,16 +2200,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Lauren Morton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Prepares Linux Driver Support For USB4 DP Tunneling]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-USB4-DP-Tunneling</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-USB4-DP-Tunneling"/>
-        <updated>2021-10-04T17:45:29.000Z</updated>
-        <summary type="html"><![CDATA[The newest patch series by AMD open-source Linux graphics driver engineers worth mentioning is around USB4 DisplayPort tunneling support for next-generation AMD hardware supporting USB4 connectivity...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
