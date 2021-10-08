@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-08T06:17:34.100Z</id>
+    <id>urn:2021-10-08T08:18:01.225Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-08T06:17:34.100Z</updated>
+    <updated>2021-10-08T08:18:01.225Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Procesory AMD jsou pomalejší až o 15 % ve Windows 11]]></title>
+        <title type="html"><![CDATA[Nasaďte moderní web server s Nginx (online školení)]]></title>
+        <id>www.root.cz-actuality-38548</id>
+        <link href="https://www.root.cz/zpravicky/nasadte-moderni-web-server-s-nginx-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-10-08T07:44:04.000Z</updated>
+        <summary type="html"><![CDATA[Nginx je dnes přibližně na třetině web serverů na internetu a toto číslo stále roste. Je výkonný, spolehlivý, má spoustu funkcí a dobře se spravuje. Pokud potřebujete dobrý web server pro svůj projekt, bude Nginx správnou volbou.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procesory AMD jsou ve Windows 11 pomalejší až o 15 %]]></title>
         <id>www.root.cz-actuality-42885</id>
-        <link href="https://www.root.cz/zpravicky/procesory-amd-jsou-pomalejsi-az-o-15-ve-windows-11/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <link href="https://www.root.cz/zpravicky/procesory-amd-jsou-ve-windows-11-pomalejsi-az-o-15/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2021-10-08T05:42:18.000Z</updated>
-        <summary type="html"><![CDATA[Nedávno vydaný Windows 11 má problém s procesory AMD. Ty jsou pomalejší až o 15 %. Jeden problém je v časování L3 vyrovnávací paměti, která je až 3× pomalejší. Druhý problém je v UEFI CPPC2 (collaborative power and performance), který  nepoužívá nejrychlejší jádro.]]></summary>
+        <summary type="html"><![CDATA[Nedávno vydaná Windows 11 mají problém s procesory AMD. Ty jsou pomalejší až o 15 %. Jeden problém je v časování vyrovnávací paměti L3, která je až 3× pomalejší. Druhý problém je v UEFI CPPC2 (collaborative power and performance), který  nepoužívá nejrychlejší jádro.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
@@ -38,7 +48,7 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Closer Look At The New Dragon Ball Anime Movie's 3G]]></title>
+        <title type="html"><![CDATA[A Closer Look At The New Dragon Ball Anime Movie's CG]]></title>
         <id>1847824053</id>
         <link href="https://kotaku.com/a-closer-look-at-the-new-dragon-ball-anime-movies-3g-1847824053"/>
         <updated>2021-10-08T05:00:00.000Z</updated>
@@ -81,11 +91,21 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2021/10/poll-official-hardware-teardown-videos-are-becoming-increasingly-common-should-nintendo-also-be-doing-it"/>
         <updated>2021-10-08T03:00:00.000Z</updated>
         <summary type="html"><![CDATA[Valve is the latest company to open up its device.
-Hardware teardown videos have become so popular, it's got to the point where companies like Microsoft and Sony are now making official ones or are sharing a closer look in a controlled environment. It seems as if it's an attempt to reduce the number of people doing this sort of thing with their own system, or posting similar videos online.
-The latest one to join this trend is PC gaming giant, Valve - with an official teardown of its new handheld device, the Steam Deck. It reveals the many components - including replaceable thumbstick and SSD, while strongly advising users not to do this with their own models. In saying this, it also states how the consumer has "every right to open it up" and do what they want.
+Hardware teardown videos have become so popular, it's got to the point where companies like Microsoft and Sony are now making official ones, or are at least sharing a closer look in a controlled environment. It seems as if it's an attempt to reduce the number of people doing this sort of thing with their own system, or posting similar videos online.
+The latest company to join this trend is PC gaming giant, Valve - with an official teardown of its new handheld device, the Steam Deck. It reveals the many components - including replaceable thumbstick and SSD, while strongly advising users not to do this with their own models. In saying this, it also states how the consumer has "every right to open it up" and tinker with it.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache HTTP Server (httpd) 2.4.51]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/apache-http-server-httpd-2.4.51</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/apache-http-server-httpd-2.4.51"/>
+        <updated>2021-10-08T02:06:05.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 2.4.51 svobodného multiplatformního webového serveru Apache (httpd). Řešena je bezpečnostní chyba CVE-2021-42013 (Path Traversal and Remote Code Execution) ve verzích 2.4.49 a 2.4.50. Oprava chyby CVE-2021-41773 v předchozí verzi 2.4.50 byla nedostatečná.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -105,7 +125,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2021-10-08T01:30:00.000Z</updated>
         <summary type="html"><![CDATA[That's exactly what we've been wanting.
 
-Forget 4K and all those cutting-edge features you might expect to be included in a gaming system in 2021, Nintendo knows exactly what you want - "softer" HDMI cables.
+Forget 4K and all those cutting-edge features you might expect to be included in a gaming system in 2021, Nintendo knows exactly what you want: "softer" HDMI cables.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -139,7 +159,7 @@ Read more...]]></summary>
         <updated>2021-10-08T00:30:00.000Z</updated>
         <summary type="html"><![CDATA["we have always been trying to improve it".
 Alongside the launch of the Switch OLED model, Nintendo has released a new 'Ask the Developer' discussion on its official website. While it touches on all sorts of details about the new system, towards the end there's some conversation about the Joy-Con controllers.
-Nintendo's Tory Yamashita explains how the Japanese company has been continuously making improvements to the Joy-Con controllers since the launch of the original model and mentioned how the Switch OLED Joy-Con is the "latest version" with all the improvements so far.
+Tory Yamashita from Nintendo's Technology Development Division explains how the Japanese company has been continuously making improvements to the Joy-Con controllers since the launch of the original model, and noted how the Switch OLED Joy-Con is the "latest version" with all the improvements so far.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1537,16 +1557,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nový web raspberrypi.com]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/novy-web-raspberrypi.com</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/novy-web-raspberrypi.com"/>
-        <updated>2021-10-06T10:24:41.000Z</updated>
-        <summary type="html"><![CDATA[Nadace Raspberry Pi představila nový web raspberrypi.com. Přesunuly se na něj technické informace k počítačům Raspberry Pi a souvisejícím technologiím. Web raspberrypi.org zůstane věnován nadaci a vzdělávání.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New World's first patch does more to stop AFK players hogging servers]]></title>
         <id>https://www.rockpapershotgun.com/new-worlds-first-patch-does-more-to-stop-afk-players-hogging-servers</id>
         <link href="https://www.rockpapershotgun.com/new-worlds-first-patch-does-more-to-stop-afk-players-hogging-servers"/>
@@ -2653,16 +2663,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Integrované grafické karty Intel umožňují stejně jako CPU řadit úlohy podle priority. Ale v současnosti ovladač i915 neumožňuje uživateli do priorit zasahovat. Vývojář ovladače Intelu Tvrtko Ursulin poslal velmi ranou verzi, která nastavení priorit pro GPU s ovladačem i915 umožňuje.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vytvořte si bezpečnou VPN pomocí OpenVPN (školení)]]></title>
-        <id>www.root.cz-actuality-41285</id>
-        <link href="https://www.root.cz/zpravicky/vytvorte-si-bezpecnou-vpn-pomoci-openvpn-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-01T08:27:14.000Z</updated>
-        <summary type="html"><![CDATA[VPN umožňuje bezpečně propojit různá zařízení pomocí šifrovaných tunelů. Umožňuje také zapojit uživatele do vnitřní sítě přes zabezpečený přístupový bod. Na našem školení VPN a bezpečné připojení k síti s OpenVPN si prakticky ukážeme, jak to celé nastavit a zprovoznit.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
