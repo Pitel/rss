@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-09T22:14:17.413Z</id>
+    <id>urn:2021-10-10T00:52:22.577Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-09T22:14:17.413Z</updated>
+    <updated>2021-10-10T00:52:22.577Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IBM Proposing A CPU Namespace For The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-CPU-Namespace</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-CPU-Namespace"/>
+        <updated>2021-10-09T22:56:52.000Z</updated>
+        <summary type="html"><![CDATA[IBM engineer Pratik Sampat published an early prototype of a CPU namespace interface for the Linux kernel. This CPU namespace was devised to address coherency issues with current means of viewing available CPU resources as well as addressing possible security issues stemming from understanding resource access/positioning on the system...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nová verze Apache OpenOffice, Microsoft a právo na opravu]]></title>
         <id>www.root.cz-text-15703</id>
@@ -2291,16 +2301,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.16 KVM To Land RISC-V Hypervisor Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-KVM-RISC-V</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-KVM-RISC-V"/>
-        <updated>2021-10-05T18:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Coming with the Linux 5.16 kernel cycle will be support for RISC-V virtualization with the Kernel-based Virtual Machine (KVM)...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
