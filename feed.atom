@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-11T06:17:49.242Z</id>
+    <id>urn:2021-10-11T08:17:45.065Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-11T06:17:49.242Z</updated>
+    <updated>2021-10-11T08:17:45.065Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Proxmox: moderní virtualizační platforma schopná nahradit VMware (online školení)]]></title>
+        <id>www.root.cz-actuality-40445</id>
+        <link href="https://www.root.cz/zpravicky/proxmox-moderni-virtualizacni-platforma-schopna-nahradit-vmware-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-10-11T07:44:47.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox je moderní virtualizační platforma, která v mnoha případech může nahradit VMware. Je open-source, zdarma a je postaven na otevřených technologiích jako KVM, LXC, CEPH a dalších. Pokud potřebujete provozovat virtualizaci, Proxmox je pro vás ideální stack a na našem workshopu se dozvíte, jak na něj.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python je první v TIOBE]]></title>
+        <id>www.root.cz-actuality-42888</id>
+        <link href="https://www.root.cz/zpravicky/python-je-prvni-v-tiobe/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-10-11T07:01:12.000Z</updated>
+        <summary type="html"><![CDATA[V TIOBE indexu popularity programovacích jazyků, který se používá již přes 20 let, poprvé zvítězil Python a nahradil tak dvojici C a Java, která obsadila druhé a třetí místo.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MEETUP: Kubernetes - nasazení cloud native aplikací (Praha)]]></title>
+        <id>www.root.cz-actuality-42887</id>
+        <link href="https://www.root.cz/zpravicky/meetup-kubernetes-nasazeni-cloud-native-aplikaci-praha/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-10-11T06:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Meetup pro všechny K8s nadšence je tady!]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: vkotyk)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Classified Military Documents Leaked Again In The Same Game]]></title>
         <id>1847836807</id>
@@ -365,6 +395,19 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: Where To Buy Metroid Dread Special Edition And Samus & EMMI amiibo]]></title>
+        <id>https://www.nintendolife.com/#article-116881</id>
+        <link href="https://www.nintendolife.com/guides/where-to-buy-metroid-dread-special-edition-and-samus-and-emmi-amiibo"/>
+        <updated>2021-10-09T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dread the scalpers.
+Update (30th July): My Nintendo Store UK has opened pre-orders for the amiibo double pack.
+Update (14th July): My Nintendo Store UK have just added their Metroid Dread game pre-order which includes a free keyring, poster and sticker sheet.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -924,19 +967,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more...]]></summary>
         <author>
             <name>Sisi Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch OLED Comes With A Screen Protector Installed, But Please Don't Remove It, Says Nintendo]]></title>
-        <id>https://www.nintendolife.com/#article-122054</id>
-        <link href="https://www.nintendolife.com/news/2021/10/switch-oled-comes-with-a-screen-protector-installed-but-please-dont-remove-it-says-nintendo"/>
-        <updated>2021-10-08T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You can still use your own screen protector, though.
-One of the big changes Nintendo made with the Switch OLED is one you might not realise when you first pick it up: the screen is made of glass and not plastic, as was the case with the original Switch and the Switch Lite.
-The reason you might not be aware of this fact when you use the console is that Nintendo has applied a very discreet “anti-scattering adhesive film” over the glass which prevents it from breaking into thousands of dangerous bits if it gets smashed. It also provides protection from scratches.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2611,26 +2641,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jádro bude mít pkill_on_warn]]></title>
-        <id>www.root.cz-actuality-42866</id>
-        <link href="https://www.root.cz/zpravicky/jadro-bude-mit-pkill-on-warn/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-04T07:42:41.000Z</updated>
-        <summary type="html"><![CDATA[Bezpečnostní expert Alexander Popov navrhl nový parametr linuxového jádra pkill_on_warn . V současnosti jsou dvě možnosti, pokud proces způsobí varování jádra. Ve výchozím případě se nestane nic. Nebo je nastaveno panic_on_warn a jádro se zastaví. Pokud máte nastaveno třeba kernel.panic=10, tak se počítač po deseti sekundách restartuje. Zde je výchozí 0, tedy nerestartovat.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FSF oznámila doplněk do prohlížeče JShelter proti škodlivému JS]]></title>
-        <id>www.root.cz-actuality-42865</id>
-        <link href="https://www.root.cz/zpravicky/fsf-oznamila-doplnek-do-prohlizece-jshelter-proti-skodlivemu-js/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-04T05:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Nadace Free Software Foundation (FSF) ve čtvrtek oznámila rozšíření pro webové prohlížeče JShelter, který má blokovat škodlivý JavaScript. Umí blokovat otisk prohlížeče, sledování, snižuje přesnost geolokace přibližně na část města a zabraňuje odesílaní dat z formuláře při vyplňování před jeho odesláním. JShelter vyvíjí Libor Polčák a Matrin Bednář (VUT Brno), Giorgio Maone (NoScript) a Ana Isabel Carvalho a Ricardo Lafuente (Manufactura Independente).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Comet Visitor]]></title>
         <id>https://xkcd.com/2524/</id>
         <link href="https://xkcd.com/2524/"/>
@@ -2677,16 +2687,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nová loga pro USB-C kabely]]></title>
-        <id>www.root.cz-actuality-42864</id>
-        <link href="https://www.root.cz/zpravicky/nova-loga-pro-usb-c-kabely/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-01T13:31:16.000Z</updated>
-        <summary type="html"><![CDATA[USB Implementers Forum se snaží novými obrázky zjednodušit označení USB-C kabelů, které je v současnosti dosti složité. Nově bude logo označovat kabely a nabíječky, které umí přenést 240 W, což umožňuje nově Power Delivery od května letošního roku. Do té doby bylo možné přenášet 65 či 100 W.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
