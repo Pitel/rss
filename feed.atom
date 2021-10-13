@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-13T06:17:38.829Z</id>
+    <id>urn:2021-10-13T08:17:52.570Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-13T06:17:38.829Z</updated>
+    <updated>2021-10-13T08:17:52.570Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Red Hat najímá dalšího vývojáře pro GPU]]></title>
+        <id>www.root.cz-actuality-42900</id>
+        <link href="https://www.root.cz/zpravicky/red-hat-najima-dalsiho-vyvojare-pro-gpu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-10-13T07:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Tým v Red Hatu věnující se GPU subsystému a věcem souvisejícím už obsahuje velká jména jako David Airlie (správce DRM) či dalších vývojářů pracujících v rámci projektu MESA. Nyní Red Hat hledá dalšího experta přes GPU, který se bude věnovat oblasti GPU hardware enablement.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAMON Extended To Offer Physical Memory Address Space Monitoring]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=DAMON-Physical-Monitoring</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=DAMON-Physical-Monitoring"/>
+        <updated>2021-10-13T07:45:20.000Z</updated>
+        <summary type="html"><![CDATA[One of many exciting additions with the forthcoming Linux 5.15 kernel is DAMON landed as a data access monitoring framework. DAMON opens up new possibilities around proactive reclamation of system memory and other interesting features. Currently though it's limited to monitoring the virtual address space of the kernel but a new set of patches out allow for physical address space monitoring as well...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PCI Express 6.0 opět zrychlí na dvojnásobek, díky PAM4 modulaci]]></title>
         <id>www.root.cz-actuality-42898</id>
@@ -2088,16 +2108,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flatpak 1.12 Released - Better Sub-Sandbox Handling To Benefit Steam]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Flatpak-1.12-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Flatpak-1.12-Released"/>
-        <updated>2021-10-08T11:34:00.000Z</updated>
-        <summary type="html"><![CDATA[Flatpak 1.12 was just released along with issuing Flatpak 1.10.4 to address a security vulnerability in the portal support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to install a new GPU]]></title>
         <id>https://www.rockpapershotgun.com/how-to-install-a-new-gpu</id>
         <link href="https://www.rockpapershotgun.com/how-to-install-a-new-gpu"/>
@@ -2661,16 +2671,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Lauren Morton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME 42 a systémový tmavý režim]]></title>
-        <id>www.root.cz-actuality-42878</id>
-        <link href="https://www.root.cz/zpravicky/gnome-42-a-systemovy-tmavy-rezim/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-06T15:09:56.000Z</updated>
-        <summary type="html"><![CDATA[S GNOME 42 se objeví možnost používání plně tmavého režimu prostředí. Tedy nikoli (například) tmavého vzhledu Adwaita, ale na úrovni samotného GNOME řešeného vzhledu. Alexander Mikhaylenko z projektu GNOME nyní na svém blogu shrnuje, jak to vypadá, co vše to obnáší a co musejí udělat tvůrci aplikací, aby nový způsob respektovali.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
