@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-14T22:18:02.054Z</id>
+    <id>urn:2021-10-15T00:54:07.382Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-14T22:18:02.054Z</updated>
+    <updated>2021-10-15T00:54:07.382Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The "What If" Performance Cost To Kernel Page Table Isolation On AMD CPUs]]></title>
+        <id>https://www.phoronix.com/vr.php?view=30613</id>
+        <link href="https://www.phoronix.com/vr.php?view=30613"/>
+        <updated>2021-10-15T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Made public this week by CPU security researchers at Graz University of Technology and CISPA Helmholtz Center for Information Security was the research paper published "AMD Prefetch Attacks through Power and Time". The paper points to AMD CPUs suffering from a side-channel leakage vulnerability through timing and power variations of the PREFETCH instruction. The paper argues that AMD CPUs should activate stronger page table isolation by default. AMD has now published their security response where they are not recommending any mitigation changes at this time. But what if Kernel Page Table Isolation (KPTI/PTI) proves necessary for AMD CPUs? Here are some initial benchmarks showing what that performance impact could look like.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Limited Run Reveals Its Physical Version Of Crysis 2 Remastered For Switch]]></title>
+        <id>https://www.nintendolife.com/#article-122306</id>
+        <link href="https://www.nintendolife.com/news/2021/10/limited-run-reveals-its-physical-version-of-crysis-2-remastered-for-switch"/>
+        <updated>2021-10-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pre-orders open early next month.
+
+Last month, Crytek revealed its plans for the Crysis Remastered Trilogy. As you might recall, it's being done a little bit differently on the Nintendo Switch - with plans to release the second and third games individually.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diablo 2 Resurrected's servers falling over due to "modern player behaviour"]]></title>
+        <id>https://www.rockpapershotgun.com/diablo-2-resurrecteds-servers-falling-over-due-to-modern-player-behaviour</id>
+        <link href="https://www.rockpapershotgun.com/diablo-2-resurrecteds-servers-falling-over-due-to-modern-player-behaviour"/>
+        <updated>2021-10-14T23:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Diablo II: Resurrected launched to widespread and ongoing server issues. Today, a Blizzard community manager offered some insight into the nature of the problem - and it's partly some 20-year-old code, and partly some modern player behaviour.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Recommends Some Games To Check Out On The Switch OLED Model]]></title>
+        <id>https://www.nintendolife.com/#article-122302</id>
+        <link href="https://www.nintendolife.com/news/2021/10/nintendo-recommends-some-games-to-check-out-on-the-switch-oled-model"/>
+        <updated>2021-10-14T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See the "vivid visuals" on display in these titles.
+
+The Switch OLED has already been out for a week, and while everyone has been trying out their own favourite games to see just how colourful and vibrant the display is, Nintendo has shared its own recommendations about what to play on this device.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battlefield 2042's Last Mode Seems Like Exactly What The Beta Was Missing]]></title>
+        <id>1847867910</id>
+        <link href="https://kotaku.com/battlefield-2042s-last-mode-seems-like-exactly-what-the-1847867910"/>
+        <updated>2021-10-14T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[DICE has long insisted that Battlefield 2042, its forthcoming first-person shooter, wouldn’t have a battle royale component. Today the company detailed the game’s third and final gameplay mode, Hazard Zone, in a blog post, and it is not a battle royale. But it’s not not a battle royale either.
+
+Read more...]]></summary>
+        <author>
+            <name>Ari Notis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA Trilogy Remaster's Achievements Seem To Have Leaked, And They're Great]]></title>
+        <id>1847867911</id>
+        <link href="https://kotaku.com/gta-trilogy-remasters-achievements-seem-to-have-leaked-1847867911"/>
+        <updated>2021-10-14T22:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Another day, another bit of information leaks out from Grand Theft Auto: The Trilogy - The Definitive Edition. This time, dataminers have dug into files found in the Rockstar Games Launcher on PC and retrieved a full list of achievements players can attain in the remakes when they release later this year. Some of them…
+Read more...]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FIFA reportedly wants double the old licence fee from EA]]></title>
         <id>https://www.rockpapershotgun.com/fifa-reportedly-wants-double-the-old-licence-fee-from-ea</id>
@@ -1011,32 +1083,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A New Mother Tribute Comic Has Been Revealed, Pre-Orders Open In Japan Later This Month]]></title>
-        <id>https://www.nintendolife.com/#article-122245</id>
-        <link href="https://www.nintendolife.com/news/2021/10/a-new-mother-tribute-comic-has-been-revealed-pre-orders-open-in-japan-later-this-month"/>
-        <updated>2021-10-14T05:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Part of the 'Hobonichi Mother Project'.
-Last May, you might remember how the company Hobonichi Shinbun (owned by Mother series' creator Shigesato Itoi) launched the 'Hobonichi Mother Project'.
-It included a Pollyanna tribute comic - featuring comics and illustrations handled by 35 manga artists and writers - including Toby Fox (Undertale). Now, in an update, Pollyanna 2 has been announced:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Worry, 3D All-Stars' Super Mario 64 Will Still Likely Be The Definitive Switch Version]]></title>
-        <id>https://www.nintendolife.com/#article-122244</id>
-        <link href="https://www.nintendolife.com/news/2021/10/dont-worry-3d-all-stars-super-mario-64-will-still-likely-be-the-definitive-switch-version"/>
-        <updated>2021-10-14T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Switch Online release appears to be an original ROM.
-Last month, Nintendo announced Nintendo 64 games would be coming to its Switch Online service in the form of a paid upgrade referred to as the "Expansion Pack".
-There have been all sorts of questions that have been raised so far, but one that keeps coming up is what version of Super Mario 64 will the service get? For Mario's 35th last year, Nintendo included the Shindou iteration of the game in the "limited-time" Super Mario 3D All-Stars collection featuring an updated resolution and more.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel Linux Driver Lands Tessellation/Geometry Distribution Feature For Xe-HPG]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=XeHPG-Tess-Geometry-Distribute</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=XeHPG-Tess-Geometry-Distribute"/>
@@ -1239,28 +1285,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ian Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diablo II: Resurrected Plagued By Login Issues, Some Players Demand Refunds [Updated]]]></title>
-        <id>1847857258</id>
-        <link href="https://kotaku.com/diablo-ii-resurrected-plagued-by-login-issues-some-pl-1847857258"/>
-        <updated>2021-10-13T19:45:00.000Z</updated>
-        <summary type="html"><![CDATA[For the past six days, Diablo II: Resurrected players in the United States, Asia, and the United Kingdom have experienced intermittent difficulties when attempting to log in to the game’s online servers. Now, some are taking to social media to demand refunds. 
-Read more...]]></summary>
-        <author>
-            <name>Isaiah Colbert</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genshin Leak Teases Massive Cliffhanger Resolution With Albedo]]></title>
-        <id>1847857345</id>
-        <link href="https://kotaku.com/genshin-leak-teases-massive-cliffhanger-resolution-with-1847857345"/>
-        <updated>2021-10-13T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey, it’s me: the Kotaku staffer who explains why a random Genshin Impact character is trending on Twitter. Today, several notable Genshin Impact leakers stated that the geo element swordsman Albedo will be making an event appearance in the 2.3 update.
-Read more...]]></summary>
-        <author>
-            <name>Sisi Jiang</name>
         </author>
     </entry>
     <entry>
@@ -2328,16 +2352,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More Optimizations Has Linux Approaching 7M IOPS Per Core]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Approaching-7M-IOPS</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Approaching-7M-IOPS"/>
-        <updated>2021-10-11T13:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Linux block subsystem maintainer and IO_uring lead developer Jens Axboe continues making staggering optimizations to the kernel code to squeeze out the maximum performance potential out of his shiny new system...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NÚKIB: klíčové informační systémy musejí zabezpečit e-mail pomocí DNSSEC, TLS a DANE]]></title>
         <id>www.root.cz-actuality-42890</id>
         <link href="https://www.root.cz/zpravicky/nukib-klicove-informacni-systemy-museji-zabezpecit-e-mail-pomoci-dnssec-tls-a-dane/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2664,18 +2678,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Imogen Beckhelling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't let Plunder slip over the horizon]]></title>
-        <id>https://www.rockpapershotgun.com/dont-let-plunder-slip-over-the-horizon</id>
-        <link href="https://www.rockpapershotgun.com/dont-let-plunder-slip-over-the-horizon"/>
-        <updated>2021-10-08T15:33:04.000Z</updated>
-        <summary type="html"><![CDATA[Look, it's not because it's about pirates. I mean, that's obviously what caught my eye, but it takes more than that, and most pirate games aren't about doing piracy at all anyway.
-Plunder isn't either, if I'm honest. It's a monster-slaying action RPG with age of sail trappings, but it's carried off with charm and such a clean design that even I can't bring my usual grudge to bear on it. I'm having far too much fun.
-Read more]]></summary>
-        <author>
-            <name>Sin Vega</name>
         </author>
     </entry>
     <entry>
