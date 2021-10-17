@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-17T10:16:01.596Z</id>
+    <id>urn:2021-10-17T12:26:55.814Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-17T10:16:01.596Z</updated>
+    <updated>2021-10-17T12:26:55.814Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux To No Longer Enable AMD SME Usage By Default Due To Problems With Some Hardware]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-SME-No-Default-Use</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-SME-No-Default-Use"/>
+        <updated>2021-10-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Being sent in as a fix for the Linux 5.15 kernel this morning and to be back-ported to existing stable series is a behavior change that the Linux kernel will no longer use AMD Secure Memory Encryption (SME) by default on supported hardware but rather making it now opt-in due to shortcomings of some platforms...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vortex86 Processors Finally Seeing Work In 2021 For Proper Handling Under Linux]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Vortex86-Linux-Detection</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Vortex86-Linux-Detection"/>
+        <updated>2021-10-17T10:13:31.000Z</updated>
+        <summary type="html"><![CDATA[The Vortex86 32-bit SoCs have worked under Linux for those distributions still maintaining 32-bit x86 support and where not hitting corner-cases of some i686 level features not being supported by some Vortex86 cores, but there is finally a pending kernel patch to provide proper CPU detection for Vortex86 hardware...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-614</id>
@@ -2191,16 +2211,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Loongson Volleys Latest Patches For LoongArch Linux Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LoongArch-Linux-v5</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LoongArch-Linux-v5"/>
-        <updated>2021-10-13T09:06:01.000Z</updated>
-        <summary type="html"><![CDATA[Chinese vendor Loongson continues working on their Linux kernel patches enabling the LoongArch processor ISA as their fork from MIPS. While early on when copying existing MIPS open-source code they were quick to call their new ISA "not MIPS", in these later patch series they continue to refer to their ISA as "a bit like MIPS or RISC-V."..]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The best Genshin Impact Eula build]]></title>
         <id>https://www.rockpapershotgun.com/best-genshin-impact-eula-build</id>
         <link href="https://www.rockpapershotgun.com/best-genshin-impact-eula-build"/>
@@ -2220,16 +2230,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Tým v Red Hatu věnující se GPU subsystému a věcem souvisejícím už obsahuje velká jména jako David Airlie (správce DRM) či dalších vývojářů pracujících v rámci projektu MESA. Nyní Red Hat hledá dalšího experta přes GPU, který se bude věnovat oblasti GPU hardware enablement.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DAMON Extended To Offer Physical Memory Address Space Monitoring]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=DAMON-Physical-Monitoring</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=DAMON-Physical-Monitoring"/>
-        <updated>2021-10-13T07:45:20.000Z</updated>
-        <summary type="html"><![CDATA[One of many exciting additions with the forthcoming Linux 5.15 kernel is DAMON landed as a data access monitoring framework. DAMON opens up new possibilities around proactive reclamation of system memory and other interesting features. Currently though it's limited to monitoring the virtual address space of the kernel but a new set of patches out allow for physical address space monitoring as well...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
