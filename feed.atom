@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-20T06:17:47.766Z</id>
+    <id>urn:2021-10-20T08:17:56.573Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-20T06:17:47.766Z</updated>
+    <updated>2021-10-20T08:17:56.573Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Naučte se pracovat s Dockerem a kontejnery (školení)]]></title>
+        <id>www.root.cz-actuality-39529</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pracovat-s-dockerem-a-kontejnery-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-10-20T08:13:05.000Z</updated>
+        <summary type="html"><![CDATA[Docker je dnes technologie, která proces vývoje, testování a provozování softwaru velmi zjednodušuje. Provozujte cokoliv a kdekoliv. Už nečekejte na nastavení svého serveru nebo na aktualizaci nějaké knihovny. Mějte prostředí jako součást vaší aplikace.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[24. stretnutie komunity Cloud Native – Kubernetes online]]></title>
+        <id>www.root.cz-actuality-42927</id>
+        <link href="https://www.root.cz/zpravicky/24-stretnutie-komunity-cloud-native-kubernetes-online-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-10-20T08:00:32.000Z</updated>
+        <summary type="html"><![CDATA[Nosná téma meetupu: CI/CD & DevOps culture, 20.10.2021 od 18:00 do 20:00.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: anonymní)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD GPU Driver Looks To Make Use Of Intel's New Buddy Allocator Code In The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Intel-Buddy-Allocator</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Intel-Buddy-Allocator"/>
+        <updated>2021-10-20T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to the nature of open-source, AMD engineers for the "AMDGPU" kernel graphics driver are looking to make use of Intel's new i915 buddy allocator code they introduced as part of all their video memory management changes as part of their discrete graphics bring-up...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 95 přináší URLPattern či API Eye Dropper]]></title>
+        <id>www.root.cz-actuality-42928</id>
+        <link href="https://www.root.cz/zpravicky/chrome-95-prinasi-urlpattern-ci-api-eye-dropper/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-10-20T06:38:05.000Z</updated>
+        <summary type="html"><![CDATA[Na světě je nová verze webového prohlížeče Google Chrome (a též Chromium). Mezi novinkami přináší jednodušší routování pomocí URLPattern přímo v prohlížeči, dále API Eye Dropper poskytující zabudovaný nástroj pro výběr barev. Další novinky nalezneme v origin trials (například user-agent reduction).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get Serious About Fun With A Nintendo Of America Internship In 2022]]></title>
         <id>https://www.nintendolife.com/#article-122529</id>
@@ -1363,16 +1403,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proxmox: moderní virtualizační platforma schopná nahradit VMware (online školení)]]></title>
-        <id>www.root.cz-actuality-40445</id>
-        <link href="https://www.root.cz/zpravicky/proxmox-moderni-virtualizacni-platforma-schopna-nahradit-vmware-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-18T09:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Proxmox je moderní virtualizační platforma, která v mnoha případech může nahradit VMware. Je open-source, zdarma a je postaven na otevřených technologiích jako KVM, LXC, CEPH a dalších. Pokud potřebujete provozovat virtualizaci, Proxmox je pro vás ideální stack a na našem workshopu se dozvíte, jak na něj.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 5.15-rc6 Ticks Up In Size, Stops Using AMD SME By Default]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-rc6-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-rc6-Released"/>
@@ -2030,16 +2060,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SALSA Back In Development As A Small ALSA Library For Linux Systems]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=SALSA-Linux-Audio-2021</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=SALSA-Linux-Audio-2021"/>
-        <updated>2021-10-15T10:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Linux sound subsystem maintainer Takashi Iwai of SUSE is back to hacking on SALSA, the "small ALSA" library that he started a decade ago but hadn't seen a new release in six years or any code activity for the past four years... until this week...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The best Back 4 Blood Hoffman build]]></title>
         <id>https://www.rockpapershotgun.com/back-4-blood-hoffman</id>
         <link href="https://www.rockpapershotgun.com/back-4-blood-hoffman"/>
@@ -2460,16 +2480,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Desktopové prostředí KDE slaví 25. narozeniny]]></title>
-        <id>www.root.cz-actuality-42903</id>
-        <link href="https://www.root.cz/zpravicky/desktopove-prostredi-kde-slavi-25-narozeniny/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-14T07:48:54.000Z</updated>
-        <summary type="html"><![CDATA[Přesně před čtvrt stoletím, tedy 14. října 1996, odeslal Matthias Ettrich do linuxové diskusní skupiny dlouhou zprávu, ve které oznámil vznik nového projektu Kool Desktop Environment (KDE). V ní napsal, že popularita unixových operačních systémů roste, ale chybí pořádné desktopové prostředí. Uvědomoval si, že existuje řada správců oken a různých grafických knihoven, ale žádné ucelené prostředí pro práci.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Former State Of Decay founder launches new studio Possibility Space]]></title>
         <id>https://www.rockpapershotgun.com/former-state-of-decay-founder-launches-new-studio-possibility-space</id>
         <link href="https://www.rockpapershotgun.com/former-state-of-decay-founder-launches-new-studio-possibility-space"/>
@@ -2685,16 +2695,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Rebecca Jones</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pořadatelé konference Internet a Technologie představili program a spustili registraci]]></title>
-        <id>www.root.cz-actuality-42901</id>
-        <link href="https://www.root.cz/zpravicky/poradatele-konference-internet-a-technologie-predstavili-program-a-spustili-registraci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-13T11:59:10.000Z</updated>
-        <summary type="html"><![CDATA[Sdružení CZ.NIC, pořadatel konference Internet a Technologie (21.2), zveřejnilo webové stránky akce a otevřelo registraci. Tato tradiční konference správce české národní domény se uskuteční 10. listopadu v konferenčních prostorech hotelu Grandior (Na Poříčí 1052/42, Praha 1). Program, registrační formulář a další informace včetně archivu minulých ročníků jsou k dispozici na webu akce.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Vilém Sládek)</name>
         </author>
     </entry>
     <entry>
