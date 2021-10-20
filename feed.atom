@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-20T02:29:42.487Z</id>
+    <id>urn:2021-10-20T04:19:30.935Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-20T02:29:42.487Z</updated>
+    <updated>2021-10-20T04:19:30.935Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Random: VTuber Plays Gyro-Enabled Title WarioWare Twisted! With A GameCube]]></title>
+        <title type="html"><![CDATA[Nintendo Wii U Gamepad Linux Driver Support Still Pursuing Mainline]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wii-U-Gamepad-Driver-v4</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wii-U-Gamepad-Driver-v4"/>
+        <updated>2021-10-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's been a half-year since talking about the Wii U gamepad driver that's been in development with mainline ambitions for supporting this wireless gamepad in conjunction with the Nintendo Wii U console. The driver has just been revised to address earlier code review comments, again renewing interest in the effort and possible mainlining in a future kernel version...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: VTuber Korone Plays Gyro-Enabled GBA Title WarioWare Twisted! With A GameCube]]></title>
         <id>https://www.nintendolife.com/#article-122526</id>
-        <link href="https://www.nintendolife.com/news/2021/10/random-vtuber-plays-gyro-enabled-title-warioware-twisted-with-a-gamecube"/>
+        <link href="https://www.nintendolife.com/news/2021/10/random-vtuber-korone-plays-gyro-enabled-gba-title-warioware-twisted-with-a-gamecube"/>
         <updated>2021-10-20T02:15:00.000Z</updated>
         <summary type="html"><![CDATA[Not even Wario is this crazy.
 VTubers (known in full as Virtual YouTubers) have become incredibly popular over the past decade. While we're used to seeing these digital characters voiced by real people playing video games, it's not every day we see something this weird...
-Japanese VTuber 'Korone' - who has 1.7 million subscribers on YouTuber - recently broadcast a gaming stream where she apparently used a GameCube instead of a Game Boy Advance to play the gyro-enabled GBA classic, WarioWare Twisted!. It's all because she wasn't able to use a GBA to stream, so she just plugged in a "whole console" instead. And although it was a lot harder to play, it was quite the experience, as you can see above.
+Japanese VTuber 'Korone' - who has 1.7 million subscribers on YouTube - recently broadcast a gaming stream where she apparently used a GameCube instead of a Game Boy Advance to play the gyro-enabled GBA classic, WarioWare Twisted!. It's all because she wasn't able to use a GBA to stream, so she just plugged in a "whole console" instead. And although it was a lot harder to play, it was quite the experience, as you can see above.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2051,16 +2061,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Finally Enabling PSR By Default For Newer Hardware With Linux 5.16]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-Linux-5.16-PSR</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-Linux-5.16-PSR"/>
-        <updated>2021-10-15T09:33:59.000Z</updated>
-        <summary type="html"><![CDATA[With it getting late into the Linux 5.15 kernel cycle, the focus is shifting by the Direct Rendering Driver maintainers from new feature work targeting the next cycle (5.16) to instead on bug fixes. AMD sent out a pull request of new AMDGPU Linux 5.16 material this week that is primarily delivering bug fixes but one notable addition is finally enabling PSR by default for newer GPUs...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
