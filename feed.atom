@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-01T06:18:25.499Z</id>
+    <id>urn:2021-11-01T08:18:39.582Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-01T06:18:25.499Z</updated>
+    <updated>2021-11-01T08:18:39.582Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vyšlo jádro 5.15 s NTFS3 a KSMBD]]></title>
+        <id>www.root.cz-actuality-42961</id>
+        <link href="https://www.root.cz/zpravicky/vyslo-jadro-5-15-s-ntfs3-a-ksmbd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-01T06:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds včera vydal jádro 5.15. Mezi novinky patří ovladač NTFS3 od Paragon Software, který má potenciál nahradit FUSE ovladač ntfs-3g. Dále je v jádře implementace Samba serveru KSMBD od Samsungu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virtuální Bastlírna a Den Otevřených Spínačů (Dveří)]]></title>
+        <id>www.root.cz-actuality-42960</id>
+        <link href="https://www.root.cz/zpravicky/virtualni-bastlirna-a-den-otevrenych-spinacu-dveri/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-01T06:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Protože zima se blíží a pravděpodobnost znovuzavedení protiepidemických opatření každý den vzrůstá, rozhodli jsme se příští týden zorganizovat rovnou dvě pravidelné akce z repertoáru projektu MacGyver studentského klubu SiliconHill.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: bkralik)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trinity Desktop Environment (TDE) R14.0.11]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/trinity-desktop-environment-tde-r14.0.11</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/trinity-desktop-environment-tde-r14.0.11"/>
+        <updated>2021-11-01T03:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze R14.0.11 desktopového prostředí Trinity Desktop Environment (TDE, fork KDE 3.5, Wikipedie). Přehled novinek v poznámkách k vydání. Podrobný přehled v Changelogu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aspyr 25th Anniversary Bundle]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/aspyr-25th-anniversary-bundle</id>
@@ -26,6 +56,16 @@ The code you'll need this time is: GL0BALCHAMP2021
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/linux-5.15</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/linux-5.15"/>
+        <updated>2021-11-01T02:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds vydal Linux 5.15. Podrobný výčet změn je ke zhlédnutí na stránce Kernel Newbies.]]></summary>
+        <author>
+            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -1247,16 +1287,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sprite Fright, 13. open source film od Blender Studia]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/sprite-fright-13.-open-source-film-od-blender-studia</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/sprite-fright-13.-open-source-film-od-blender-studia"/>
-        <updated>2021-10-29T10:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Dnes v 17:00 má na YouTube online premiéru Sprite Fright, již 13. open source film od Blender Studia.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X.Org Server Bids Farewell To Autotools]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-Bye-Bye-Autotools</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-Bye-Bye-Autotools"/>
@@ -1264,16 +1294,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[With X.Org Server 21.1 having finally shipped this week, the X.Org Server Autotools build system support has been killed off...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitva o Wesnoth 1.16 — Aktualizace Dobývání dun]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/bitva-o-wesnoth-1.16-aktualizace-dobyvani-dun</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/bitva-o-wesnoth-1.16-aktualizace-dobyvani-dun"/>
-        <updated>2021-10-29T10:37:22.000Z</updated>
-        <summary type="html"><![CDATA[Po více než 3 letech od vydání verze 1.14 byla vydána Bitva o Wesnoth 1.16 — Aktualizace Dobývání dun (The Battle for Wesnoth 1.16 - Dune Conquests Update). Videoukázka této open source tahové strategické počítačové hry s fantasy tematikou na YouTube.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2127,16 +2147,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel vydal jako open source ControlFlag pro automatickou kontrolu kódu v C/C++]]></title>
-        <id>www.root.cz-actuality-42938</id>
-        <link href="https://www.root.cz/zpravicky/intel-vydal-jako-oepn-source-controlflag-pro-automatickou-kontrolu-kodu-v-c-c/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-25T12:25:09.000Z</updated>
-        <summary type="html"><![CDATA[Minulý týden Intel uvolnil svůj nástroj ControlFlag jako open source pod licencí MIT. ControlFlag automaticky kontroluje kód v C/C++ a využívá speciální samoučící detekci vzorů. Naučen byl na asi miliardě řádek zdrojových kódů open source software na GitHubu. Dokáže detekovat anomálie v kódu, které by mohly být potenciálně zdroji chyb.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Overwatch's McCree will be renamed Cole Cassidy]]></title>
         <id>https://www.rockpapershotgun.com/overwatchs-mccree-will-be-renamed-cole-cassidy</id>
         <link href="https://www.rockpapershotgun.com/overwatchs-mccree-will-be-renamed-cole-cassidy"/>
@@ -2171,16 +2181,6 @@ Let's not argue about which of its elements is the defining one. They're base bu
 Read more]]></summary>
         <author>
             <name>Sin Vega</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevConf.cz 2022 - deadline na přihlášení přednášek prodloužen do 31. října]]></title>
-        <id>www.root.cz-actuality-42936</id>
-        <link href="https://www.root.cz/zpravicky/devconf-cz-2022-deadline-na-prihlaseni-prednasek-prodlouzen-do-31-rijna/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-10-25T06:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Čtrnáctý ročník konference DevConf.cz proběhne 28–29. ledna v hybridním formátu: fyzicky na FIT VUT a zároveň v online prostředí. Pokud chcete přispět do programu svou vlastní přednáškou nebo workshopem, čas na přihlášení máte do 31. října, tedy do konce tohoto týdne, prostřednictvím online formuláře.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: anonymní)</name>
         </author>
     </entry>
     <entry>
