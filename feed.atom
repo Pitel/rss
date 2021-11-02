@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-02T06:18:11.103Z</id>
+    <id>urn:2021-11-02T08:18:23.806Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-02T06:18:11.103Z</updated>
+    <updated>2021-11-02T08:18:23.806Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA["Ampere-1" GCC Patch Posted For Ampere's Upcoming AArch64 Core Design]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-Ampere-1-Target-Patch</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-Ampere-1-Target-Patch"/>
+        <updated>2021-11-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While Ampere Altra and Altra Max processors are achieving great success using Arm Neoverse N1 based cores, as shared earlier this year Ampere has begun designing their own custom Arm server CPU cores for slated introduction in 2022. The first GCC compiler patch for that next-gen Ampere CPU was quietly posted on Monday...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Atlus Broadcasting Shin Megami Tensei V Live Stream Next Week]]></title>
         <id>https://www.nintendolife.com/#article-123061</id>
@@ -114,6 +124,26 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Google nabízí až 50 337 dolarů za 0-day zranitelnosti Linuxu]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/google-nabizi-az-50-337-dolaru-za-0-day-zranitelnosti-linuxu</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/google-nabizi-az-50-337-dolaru-za-0-day-zranitelnosti-linuxu"/>
+        <updated>2021-11-02T00:12:37.000Z</updated>
+        <summary type="html"><![CDATA[Google následující 3 měsíce (do konce ledna 2022) nabízí 31 337 dolarů za nalezení zranitelnosti a získání roota v jeho laboratorním prostředí kCTF VRP (Kubernetes CTF Vulnerability Reward Program). Pokud k tomu bude využita 0-day zranitelnost Linuxu, a ta bude samozřejmě následně nahlášena vývojářům Linuxu, bude částka navýšena na 50 337 dolarů.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mpv 0.34.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mpv-0.34.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mpv-0.34.0"/>
+        <updated>2021-11-02T00:09:56.000Z</updated>
+        <summary type="html"><![CDATA[Multimediální přehrávač mpv byl vydán ve verzi 0.34.0. Jde o větší balík změn po bezmála roce. Nově např. implicitně hledá místo youtube-dl jeho aktivněji vyvíjený fork yt-dlp.]]></summary>
+        <author>
+            <name>Fluttershy, yay!</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Age Of Empires IV's Fancy Cutscenes Are A Wonder]]></title>
         <id>1847978611</id>
         <link href="https://kotaku.com/age-of-empires-ivs-fancy-cutscenes-are-a-wonder-1847978611"/>
@@ -161,6 +191,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Oslava 55 let od vzniku první implementace jazyka APL]]></title>
+        <id>www.root.cz-text-15741</id>
+        <link href="https://www.root.cz/clanky/oslava-55-let-od-vzniku-prvni-implementace-programovaciho-jazyka-apl/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-01T23:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Před 55 lety, tedy v listopadu 1966, byla vydána první verze programovacího jazyka APL. Jednalo se o přelomový jazyk, který byl založen na (tehdy) nové notaci zápisu matematických operací vymyšlenou Kennethem E. Iversonem.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Knot DNS: zónové transfery aneb přenos zón mezi servery]]></title>
         <id>www.root.cz-text-15739</id>
         <link href="https://www.root.cz/clanky/knot-dns-zonove-transfery-aneb-prenos-zon-mezi-servery/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -168,16 +208,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[V úvodním dílu jsme si zprovoznili automatickou synchronizaci zóny na sekundárním serveru. Dnes si ukážeme, jaké jsou další možnosti nastavení zónových transferů a co je jejich obsahem.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Daniel Salzman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oslava 55 let od vzniku první implementace programovacího jazyka APL]]></title>
-        <id>www.root.cz-text-15741</id>
-        <link href="https://www.root.cz/clanky/oslava-55-let-od-vzniku-prvni-implementace-programovaciho-jazyka-apl/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-01T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Před 55 lety, tedy v listopadu 1966, byla vydána první verze programovacího jazyka APL. Jednalo se o přelomový jazyk, který byl založen na (tehdy) nové notaci zápisu matematických operací vymyšlenou Kennethem E. Iversonem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
         </author>
     </entry>
     <entry>
@@ -957,7 +987,7 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fortnite Is Shutting Down Its Service In China]]></title>
+        <title type="html"><![CDATA[Fortnite Is Shutting Down Its Service In China [Update]]]></title>
         <id>1847972821</id>
         <link href="https://kotaku.com/fortnite-is-shutting-down-its-service-in-china-1847972821"/>
         <updated>2021-11-01T10:00:00.000Z</updated>
@@ -983,7 +1013,7 @@ Read more...]]></summary>
         <id>www.root.cz-actuality-42962</id>
         <link href="https://www.root.cz/zpravicky/microsoft-edge-pro-linux-v-ostre-verzi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2021-11-01T09:44:00.000Z</updated>
-        <summary type="html"><![CDATA[Prohlížeč Microsoft Edge je od minulého čtvrtka pro Linux v ostré verzi označené jako stable microsoft-edge-stable-95.0.1020.38–1 a není tak již označován jako beta. V pátek se objevila verze končící 40–1. Microsoft zatím nic neoznámil, na oficiálních stránkách Edge je stále napsáno „Není podporován pro Linux“. Změny si všimli pracovníci bezpečností firmy Sophos.]]></summary>
+        <summary type="html"><![CDATA[Prohlížeč Microsoft Edge je od minulého čtvrtka pro Linux v ostré verzi označené jako stable microsoft-edge-stable-95.0.1020.38–1 a není tak již označován jako beta. V pátek se objevila verze končící 40–1. Microsoft zatím nic neoznámil, na oficiálních stránkách Edge je stále napsáno „Není podporován pro Linux“. Změny si všimli pracovníci bezpečnostní firmy Sophos.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
@@ -1167,16 +1197,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stargate DAW]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/stargate-daw</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/stargate-daw"/>
-        <updated>2021-10-31T20:34:27.000Z</updated>
-        <summary type="html"><![CDATA[Stargate DAW je nová multiplatformní digitální pracovní stanice pro práci s audiem (DAW). Zdrojové kódy jsou k dispozici na GitHubu pod licencí GPLv3. Videoukázky na YouTube.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fantastic Looking Bloodborne PS1 Demake Is Out January 31]]></title>
         <id>1847971763</id>
         <link href="https://kotaku.com/fantastic-looking-bloodborne-ps1-demake-is-out-january-1847971763"/>
@@ -1195,16 +1215,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Back in September at the end of the Linux 5.15 merge window was our Linux 5.15 feature overview but given the time since then and that the Linux 5.15 stable kernel will likely be released this evening, here is a recap of the most interesting changes in this new kernel version...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 94 začne na Linuxu ve výchozím stavu používat EGL místo GLX]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/firefox-94-zacne-na-linuxu-ve-vychozim-stavu-pouzivat-egl-misto-glx</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/firefox-94-zacne-na-linuxu-ve-vychozim-stavu-pouzivat-egl-misto-glx"/>
-        <updated>2021-10-31T13:43:40.000Z</updated>
-        <summary type="html"><![CDATA[Firefox 94, jenž vyjde v úterý 2. listopadu, začne na Linuxu ve výchozím stavu používat EGL místo GLX. EGL backend přinese vyšší výkon, rychlejší vykreslování WebGL, nižší spotřebu a časem také dekódování videa pomocí VA-API. V případě problémů se bude možné vrátit k GLX změnou gfx.x11-egl.force-disabled v about:config.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1539,16 +1549,6 @@ This guide will show you the correct choices to make to convince the Worldmind t
 Read more]]></summary>
         <author>
             <name>Hayden Hefford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zink OpenGL On Vulkan Inches Closer To OpenGL 4.6 Conformance, More Games Working]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-Closer-To-4.6-Conformance</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-Closer-To-4.6-Conformance"/>
-        <updated>2021-10-29T15:42:49.000Z</updated>
-        <summary type="html"><![CDATA[While there has been less major progress to report on Mesa's Zink OpenGL-over-Vulkan code in recent weeks, Mike Blumenkrantz of Valve and others continue optimizing and fixing this increasing useful implementation. Most recently the game Bioshock: Infinite is running on Zink and there are more fixes in aiming toward OpenGL 4.6 conformance...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
