@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-17T04:20:14.263Z</id>
+    <id>urn:2021-11-17T06:18:27.679Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-17T04:20:14.263Z</updated>
+    <updated>2021-11-17T06:18:27.679Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Proposes "Page Table Check" For Fighting Some Types Of Linux Memory Corruption]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Page-Table-Check-RFC</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Page-Table-Check-RFC"/>
+        <updated>2021-11-17T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last week Google engineers uncovered a reference count underflow issue affecting all Linux kernels going back to v4.14 in 2017. This issue led to memory leaking from one process to another and only uncovered by accident. To address this class of memory corruption issues moving forward, Google is proposing a new "Page Table Check" feature moving forward...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Is Offering Free Trials For Switch ﻿Online, E﻿ven If You've Used One Before (US)]]></title>
         <id>https://www.nintendolife.com/#article-123764</id>
@@ -2459,16 +2469,6 @@ Join hosts Ben Reeves (@BenjaminReeves), Marcus Stewart (@MarcusStewart7), and s
 If you'd like to get in touch with the Video Gameography podcast, you can email us at podcast@gameinformer.com. You can also join our official Game Informer Discord server by linking your Discord account to your Twitch account and subscribing to the Game Informer Twitch channel. From there, find the Video Gameography channel under "Community Spaces."]]></summary>
         <author>
             <name>Ben Reeves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.16 To Support AMD SEV/SEV-ES Intra-Host Live Migration]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-AMD-SEV-ES-Intra</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-AMD-SEV-ES-Intra"/>
-        <updated>2021-11-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week was the main set of Kernel-based Virtual Machine (KVM) changes for Linux 5.16 that introduced RISC-V hypervisor support and AMD PSF control bit support, among other changes. A second set of KVM changes were sent out on Friday that is headlined by having AMD SEV/SEV-ES intra-host migration support...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
