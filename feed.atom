@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-18T06:18:20.786Z</id>
+    <id>urn:2021-11-18T08:23:51.058Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-18T06:18:20.786Z</updated>
+    <updated>2021-11-18T08:23:51.058Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CZ.NIC zveřejnil videa z konference Internet a Technologie 21.2]]></title>
+        <id>www.root.cz-actuality-43037</id>
+        <link href="https://www.root.cz/zpravicky/sdruzeni-cz-nic-zverejnilo-prezentace-a-videa-z-konference-internet-a-technologie-21-2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-18T08:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Na webu konference Internet a Technologie 21.2 jsou od dnešního dne k dispozici prezentace a videozáznamy z akce. Přednášky zaměstnanců sdružení se tentokrát týkaly především novinek související se správou české národní domény a aktuálního dění v klíčových projektech sdružení – mojeID, Knot DNS nebo Turris. Mimo to se přednášející věnovali i bezpečnosti nebo internetové regulaci.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Vilém Sládek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Prepares Straight Line Speculation "SLS" Mitigation For x86/x86_64 CPUs]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Lands-SLS-Mitigation</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Lands-SLS-Mitigation"/>
+        <updated>2021-11-18T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last month I reported on activity around Straight Line Speculation "SLS" mitigation for x86_64 CPUs, similar to the work carried out by Arm last year on their SLS vulnerability. That work on the x86 (x86_64 inclusive) side has now been merged to GCC 12 Git and a kernel patch is expected to come shortly that will flip it on as the latest CPU security protection...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zásoba IPv4 adres v RIPE NCC (opět) vyčerpána]]></title>
+        <id>www.root.cz-actuality-43036</id>
+        <link href="https://www.root.cz/zpravicky/zasoba-ipv4-adres-v-ripe-ncc-opet-vycerpana/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-18T07:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Opět došlo k vyčerpání zásob IPv4 adres v registru RIPE NCC, který spravuje bloky adres pro Evropu a Blízký východ. Znovu tedy došlo k otevření čekací listiny, na kterou se zapisují zájemci o získání nové alokace o velikosti 256 adres; každý zájemce může požádat o nejvýše jednu alokaci, její získání však není garantováno.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Ondřej Caletka)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nová verze LXD nabízí živou migraci virtualizovaných strojů]]></title>
+        <id>www.root.cz-actuality-43035</id>
+        <link href="https://www.root.cz/zpravicky/nova-verze-lxd-nabizi-zivou-migraci-virtualizovanych-stroju/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-18T07:37:52.000Z</updated>
+        <summary type="html"><![CDATA[Stéphane Graber za LXD tým oznámil vydání verze LXD 4.20. Nová verze přidává několik zajímavých nových vlastností jako jsou SR-IOV akcelerace pro OVN, network peering pro OVN, DNS zóny a další zlepšení. Mezi nejviditelnější novinky ale určitě patří funkční podpora živé migrace virtuálních strojů.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Kylee)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome na Androidu otevírá webům možnost přístupu k senzorům telefonu]]></title>
+        <id>www.root.cz-actuality-43033</id>
+        <link href="https://www.root.cz/zpravicky/chrome-na-androidu-otevira-webum-moznost-pristupu-k-senzorum-telefonu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-18T07:34:26.000Z</updated>
+        <summary type="html"><![CDATA[Ve výchozím nastavení prohlížeče Chrome je aktivována možnost přístupu k senzorům pro jakýkoliv web. Tato funkce umožňuje jakémukoliv webu získávat informace o . Servery tak mají možnost zjistit polohu uživatele a například mu podle ní nabízet cílenou reklamu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jerry Wlk)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Baba Make Level' Is A Free Editor Update For The Unique Puzzler Baba Is You - Out Now On Switch]]></title>
         <id>https://www.nintendolife.com/#article-123571</id>
@@ -53,6 +103,16 @@ While we're still technically a day out from release, Nintendo has now rolled ou
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Superpočítač Fugaku zůstává nejvýkonnějším superpočítačem na světě (TOP500 11/2021)]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/superpocitac-fugaku-zustava-nejvykonnejsim-superpocitacem-na-svete-top500-11-2021</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/superpocitac-fugaku-zustava-nejvykonnejsim-superpocitacem-na-svete-top500-11-2021"/>
+        <updated>2021-11-18T03:25:07.000Z</updated>
+        <summary type="html"><![CDATA[Byl aktualizován seznam 500 nejvýkonnějších superpočítačů na světě TOP500. Pořadí na prvních 9 místech se nezměnilo. Nejvýkonnějším superpočítačem na světě zůstává japonský Fugaku s ARM procesory Fujitsu A64FX (pdf). Na 10. místě je nový superpočítač Voyager-EUS2 od Microsoft Azure s Ubuntu 18.04 LTS. Česká Karolina je na 71. místě. Další přehledy a statistiky na stránkách projektu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -164,6 +224,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Dnes dokončíme popis možností jazyka Moonscript, který je transpilován do jazyka Lua. Ukážeme si použití řezů, programových smyček vracejících hodnoty, deklaraci tříd či tzv. destructuring.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lemmy 0.14.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/lemmy-0.14.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/lemmy-0.14.0"/>
+        <updated>2021-11-17T22:57:54.000Z</updated>
+        <summary type="html"><![CDATA[„Sociální síť“ Lemmy, podobná např. Redditu, ale federalizovaná, byla vydána ve verzi 0.14.0, v níž je stěžejní novinkou reimplementace federace, která nyní spolupracuje s instancemi Mastodonu a Pleroma.]]></summary>
+        <author>
+            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -1931,16 +2001,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stratis 3.0.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/stratis-3.0.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/stratis-3.0.0"/>
-        <updated>2021-11-16T13:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Lokální úložiště Stratis (Wikipedie), alternativa k úložištím s ZFS a Btrfs, bylo vydáno ve verzi 3.0.0. Přehled novinek v poznámkách k vydání.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Modders are fixing the GTA Trilogy, from better rain to nut-shaped nuts]]></title>
         <id>https://www.rockpapershotgun.com/modders-are-fixing-the-gta-trilogy-from-better-rain-to-nut-shaped-nuts</id>
         <link href="https://www.rockpapershotgun.com/modders-are-fixing-the-gta-trilogy-from-better-rain-to-nut-shaped-nuts"/>
@@ -2068,16 +2128,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Mesa 22.0 development code now has basic support in the Freedreno Gallium3D driver for OpenCL powered by the Clover state tracker...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 8.5]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/rocky-linux-8.5</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/rocky-linux-8.5"/>
-        <updated>2021-11-16T03:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Čtyři dny po vydání Red Hat Enterprise Linuxu (RHEL) 8.5 byl vydán Rocky Linux 8.5. Přehled novinek v poznámkách k vydání.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2610,16 +2660,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-i915-pm_runtime_allow"/>
         <updated>2021-11-15T10:55:04.000Z</updated>
         <summary type="html"><![CDATA[Following a lot of improvements the past few years to the Intel Linux kernel graphics "i915" driver it looks like it's ready to enable run-time power management auto-suspend support by default...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulkan Video Support Progressing For Open-Source Intel, AMD Radeon Hardware]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-Video-Mesa-Progress</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-Video-Mesa-Progress"/>
-        <updated>2021-11-15T10:28:26.000Z</updated>
-        <summary type="html"><![CDATA[The open-source Vulkan driver support for the video decode (and presumably after that, encode) extensions continues moving along for the Radeon "RADV" and Intel "ANV" Mesa drivers...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -3369,26 +3409,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google rozšíří Summer of Code, od příštího roku už nebude jen pro studenty]]></title>
-        <id>www.root.cz-actuality-43012</id>
-        <link href="https://www.root.cz/zpravicky/google-rozsiri-summer-of-code-od-pristiho-roku-uz-nebude-jen-pro-studenty/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-11T08:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Google se rozhodl výrazně rozšířit svou pravidelnou akci Summer of Code, která se po celou dobu své existence zaměřovala výhradně na studenty. Od příštího ročníku bude program otevřený každému zájemci, který dovršil alespoň 18 let věku. Uvědomili jsme si, že existuje mnoho lidí, kteří by mohli těžit z programu GSoC, kteří jsou v různých fázích své kariéry, nedávno změnili práci nebo jsou třeba samouci vracející se do pracovního procesu, píše na blogu společnosti Google Stephanie Taylorová.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Použité softwarové licence jsou v pořádku, jejich zákaz ve výběrovém řízení je protizákonný, rozhodl ÚOHS]]></title>
-        <id>www.root.cz-actuality-43011</id>
-        <link href="https://www.root.cz/zpravicky/pouzite-softwarove-licence-jsou-v-poradku-jejich-zakaz-ve-vyberovem-rizeni-je-protizakonny-rozhodl-uohs/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-11T07:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Úřad pro ochranu hospodářské soutěže (ÚOHS) zkoumal námitky společnosti PREDNY SLM, s.r.o. proti podmínkám výběrového řízení, které vyhlásila státní Exportní garanční a pojišťovací společnost (EGAP). Ta jako jednu z podmínek pro nákup licencí společnosti Microsoft požadovala, aby se jednalo výhradně o nové a nepoužité licence. Konkrétně šlo o software ve verzi z roku 2019 včetně příslušné podpory předepsané výrobcem: Windows Server Datacenter, Windows Server Standard, Office Pro Plus, Exchange Server, Exchange Server CAL, Windows Server CAL a RDS CAL.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Every new PC trailer shown at Thunderful World]]></title>
         <id>https://www.rockpapershotgun.com/every-new-pc-trailer-shown-at-thunderful-world</id>
         <link href="https://www.rockpapershotgun.com/every-new-pc-trailer-shown-at-thunderful-world"/>
@@ -3510,26 +3530,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC dostává podporu procesorů Alder Lake, oficiálně bez AVX-512]]></title>
-        <id>www.root.cz-actuality-43010</id>
-        <link href="https://www.root.cz/zpravicky/gcc-dostava-podporu-procesoru-alder-lake-oficialne-bez-avx-512/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-10T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Projekt GCC v aktuální verzi 11 (a výhledově i budoucí 12) dostává nový target alderlake. Intel tímto do projektu jednoho z nejpoužívanějších kompilátorů přidává ladění pro tuto hybridní CPU architekturu, avšak jedním dechem dodává: oficiálně Alder Lake neumí AVX-512. Tak či onak by měl kód optimalizovaný pro Alder Lake dávat výhledově o nějaké to procento efektivnější běh než dosud.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix nasazuje AV1 streaming pro TV]]></title>
-        <id>www.root.cz-actuality-43009</id>
-        <link href="https://www.root.cz/zpravicky/netflix-nasazuje-av1-streaming-pro-tv/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-10T15:05:31.000Z</updated>
-        <summary type="html"><![CDATA[Podpora formátu AV1 v moderních televizorech je dnes již dostatečná, takže Netflix jako možná největší poskytovatel streamovaného obsahu přichází se zlomovým krokem: i na TV začne servírovat obsah v otevřeném a licenčně svobodném video formátu AV1. Navazuje tak na přechod na AV1 v Androidích telefonech loni v únoru a srovnává krok s YouTube, které pro 8k streamy na 8k TV používá AV1 už od loňského května.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
