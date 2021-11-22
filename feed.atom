@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-22T06:19:12.464Z</id>
+    <id>urn:2021-11-22T08:18:36.537Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-22T06:19:12.464Z</updated>
+    <updated>2021-11-22T08:18:36.537Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jaké jsou aktuální kyberbezpečnostní hrozby? Přihlaste se na webcast]]></title>
+        <id>www.root.cz-actuality-43044</id>
+        <link href="https://www.root.cz/zpravicky/jake-jsou-aktualni-kyberbezpecnostni-hrozby-prihlaste-se-na-webcast/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-22T08:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Dlouhé roky se malé a střední firmy mohly spolehnout, že je endpoint ochrání před rozsáhlou řadou komoditních hrozeb. Ale vzhledem k tomu, že kybernetičtí útočníci stále častěji využívají neznámé a skryté hrozby, endpoint už nedostačuje. O tom, co nyní obětem útoků hrozí, bude nový webcast, který pořádá časopis Computerworld.cz.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blíží se nový generátor náhodných čísel v Linuxu?]]></title>
+        <id>www.root.cz-actuality-43043</id>
+        <link href="https://www.root.cz/zpravicky/blizi-se-novy-generator-nahodnych-cisel-v-linuxu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-22T07:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Již pět let je vyvíjen nový generátor náhodných čísel /dev/random pro Linux (LRNG). Včera Stephan Müller poslal již 43. verzi LRNG. Oproti stávající implementaci je lepší škálovatelnost na velkých paralelních systémech, až o 130 % rychlejší kritická část programu, vylepšená kryptografie, lepší testování a větší konfigurovatelnost.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EROFS-Utils 1.4 Adds Experimental FSCK, MicroLZMA Compression]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=EROFS-Utils-1.4</id>
@@ -3478,16 +3498,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Odpovědnost za únik dat není bezbřehá, soud se zastal společnosti Mall.cz]]></title>
-        <id>www.root.cz-actuality-43020</id>
-        <link href="https://www.root.cz/zpravicky/odpovednost-za-unik-dat-neni-bezbreha-soud-se-zastal-spolecnosti-mall-cz/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-15T08:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Ze samotného faktu, že došlo k úniku dat, nelze automaticky vyvozovat spáchání přestupku. Tak by se dalo shrnout rozsudku Nejvyššího správního soudu (NSS) v případu úniku osobních údajů ze serverů společnosti Mall.cz v roce 2017. Úřad pro ochranu osobních údajů (ÚOOÚ) nemůže udělovat pokuty za úniky dat z firem jen na základě toho, že k úniku došlo. Musí také zkoumat, jestli firma přijala dostatečná opatření k jejich ochraně.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: návnada na uživatele zjišťuje informace o e-mailu]]></title>
         <id>www.root.cz-text-15764</id>
         <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-navnada-na-uzivatele-zjistuje-informace-o-e-mailu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3645,16 +3655,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Age of Empires IV funguje s experimentálním Protonem]]></title>
-        <id>www.root.cz-actuality-43018</id>
-        <link href="https://www.root.cz/zpravicky/age-of-empires-iv-funguje-s-exprimentalnim-protonem/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-12T15:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Před dvěma týdny vydaná strategická hra v reálném čase Age of Empires IV funguje v Linuxu při použití experimentálního Protonu ze včerejšího dne. Je možné, že uvidíte neškodné chybové hlášení o ovladačích AMD i když AMD ani nemáte.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
