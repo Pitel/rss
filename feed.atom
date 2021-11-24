@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-24T06:18:34.766Z</id>
+    <id>urn:2021-11-24T08:18:07.126Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-24T06:18:34.766Z</updated>
+    <updated>2021-11-24T08:18:07.126Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Alder Lake je s DDR5 rychlejší, dostupnost DDR5 je ale tragická]]></title>
+        <id>www.root.cz-actuality-43054</id>
+        <link href="https://www.root.cz/zpravicky/intel-alder-lake-je-s-ddr5-rychlejsi-dostupnost-ddr5-je-ale-tragicka/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-24T08:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Phoronix otestoval vliv použitých pamětí na výkon procesoru Core i5 12600K pod Linuxem (blíže nespecifikovaná verze Ubuntu). Výsledek je takový, že v průměru je stroj na stejné platformě s DDR5 rychlejší o zhruba 1 až 3 % v závislosti na rychlosti DDR4, se kterými porovnáváme. Testovaly se moduly DDR5–4400 oproti DDR4–2800 až DDR4–3600.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xen pvUSB Linux Driver Patches Updated, More Than 10 Years In The Making]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Xen-pvUSB-v7</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Xen-pvUSB-v7"/>
+        <updated>2021-11-24T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An effort recently restarted that originally dates back many years is the "pvUSB" front-end driver for Linux to allow physical USB devices to be used within Xen domains...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Linux bude stavět na Fedoře, CentOS už nevyhovuje]]></title>
+        <id>www.root.cz-actuality-43053</id>
+        <link href="https://www.root.cz/zpravicky/amazon-linux-bude-stavet-na-fedore-centos-uz-nevyhovuje/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-11-24T07:42:57.000Z</updated>
+        <summary type="html"><![CDATA[Fedora informuje, že Amazon nově vedle řady „standardních“ linuxových distribucí nabídne také na Fedoře postavený Amazon Linux 2022 (nyní ve fázi preview). Vlastní distribuce přitom až doposud zakládala na Red Hat Enterprise Linuxu, resp. CentOS. Změna sebou přináší též zavedení systému podpory, kdy dané vydání bude standardně podporováno dva roky, následně přejde na tři roky do režimu údržby a poté již nastane EOL fáze.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Duplication Glitch Discovered In The Pokémon Diamond And Pearl Remakes]]></title>
         <id>https://www.nintendolife.com/#article-124075</id>
@@ -67,6 +97,16 @@ This "passion project" has gone through a three-year development cycle and will 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Linux bude postavený na Fedoře]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/amazon-linux-bude-postaveny-na-fedore</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/amazon-linux-bude-postaveny-na-fedore"/>
+        <updated>2021-11-24T00:55:49.000Z</updated>
+        <summary type="html"><![CDATA[MojeFedora.cz informuje, že Amazon Linux bude postavený na Fedoře. Vycházet by měl každé dva roky a podporovaný by měl být po dobu pěti let. Představena byla ukázka Amazon Linuxu 2022 (AL2022).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1807,16 +1847,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20 let domény abclinuxu.cz]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/-20-let-domeny-abclinuxu.cz</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/-20-let-domeny-abclinuxu.cz"/>
-        <updated>2021-11-22T12:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Doména abclinuxu.cz byla zaregistrována přesně před 20 lety, 15. listopadu 2001.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bobby Kotick To Consider Resigning If Workplace Issues Aren’t Fixed Soon [UPDATE]]]></title>
         <id>116403</id>
         <link href="https://www.gameinformer.com/2021/11/22/bobby-kotick-to-consider-resigning-if-workplace-issues-arent-fixed-soon-update"/>
@@ -2345,16 +2375,6 @@ While this make-good takes care of specific PC gamers, there's no word on those
 Last week on Twitch, Andrew Reiner and I explored GTA: The Trilogy for a few hours, and while I had a pretty good time waxing nostalgic with the series, I was fairly put off by some of the graphical changes. Especially the sheets of nightmarish rain plaguing Grand Theft Auto III.]]></summary>
         <author>
             <name>John Carson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compute PBO Download Support Merged For Mesa 22.0, Xnine Comes For Source Engine Games]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Zink-Compute-PBO</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Zink-Compute-PBO"/>
-        <updated>2021-11-19T18:39:22.000Z</updated>
-        <summary type="html"><![CDATA[Following experimental Zink work to improve the NVIDIA driver support as part of the broader Copper initiative that also allows running Zink OpenGL-on-Vulkan for Wayland's Weston compositor, another milestone has now been reached...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3470,16 +3490,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SeaMonkey 2.53.10 vylepšuje zejména podporu IRC]]></title>
-        <id>www.root.cz-actuality-43031</id>
-        <link href="https://www.root.cz/zpravicky/seamonkey-2-53-10-vylepsuje-zejmena-podporu-irc/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-16T16:13:36.000Z</updated>
-        <summary type="html"><![CDATA[Projekt SeaMonkey, nástupce původní Mozilly, která byla nástupcem původního Netscape Navigatoru, přichází s novou verzí 2.53.10. Oproti 53.devítkové verzi přináší řadu novinek, mezi nimiž nejvíce řeší různé aspekty podpory IRCv3. Tato verze sama zahrnuje rozšíření ChatZilla, DOM Inspector a Lightning.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A love letter to Jon from Sherlock Holmes Chapter One]]></title>
         <id>https://www.rockpapershotgun.com/a-love-letter-to-jon-from-sherlock-holmes-chapter-one</id>
         <link href="https://www.rockpapershotgun.com/a-love-letter-to-jon-from-sherlock-holmes-chapter-one"/>
@@ -3583,16 +3593,6 @@ Hattrick is a quintessentially English anachronism, whose ignorance of the moder
 Read more]]></summary>
         <author>
             <name>Rick Lane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 8.5, poprvé s podporou Secure Boot]]></title>
-        <id>www.root.cz-actuality-43030</id>
-        <link href="https://www.root.cz/zpravicky/rocky-linux-8-5-poprve-s-podporou-secure-boot/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-16T10:19:01.000Z</updated>
-        <summary type="html"><![CDATA[Po RHELu 8.5 a čerstvě vydaném AlmaLinuxu 8.5 přichází i další post-CentOS systém s aktualizací. Rocky Linux 8.5 nově nabízí podporu Secure Bootu, avšak s dodatkem, že pokud uživatel aktualizuje z verze 8.4 s UEFI a aktivuje Secure Boot, přestane fungovat Rescue Kernel a musí dojít k jeho novému vygenerování.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
