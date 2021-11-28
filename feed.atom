@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-28T10:16:48.720Z</id>
+    <id>urn:2021-11-28T12:23:11.863Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-28T10:16:48.720Z</updated>
+    <updated>2021-11-28T12:23:11.863Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.17 To Boast Latency Optimization For AF_UNIX Sockets]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-AF_UNIX-Optimization</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-AF_UNIX-Optimization"/>
+        <updated>2021-11-28T12:14:20.000Z</updated>
+        <summary type="html"><![CDATA[Net-next has been queuing a number of enticing performance optimizations ahead of the Linux 5.17 merge window kicking off around the start of the new year. Covered already was a big TCP optimization and a big improvement for csum_partial() that is used in the network code for checksum computation. The latest optimization is improving the AF_UNIX code path for those using AF_UNIX sockets for local inter-process communication...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mercurial 6.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mercurial-6.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mercurial-6.0"/>
+        <updated>2021-11-28T11:45:43.000Z</updated>
+        <summary type="html"><![CDATA[Vyšla verze 6.0 verzovacího systému Mercurial. Novinky jsou shrnuty v poznámkách k vydání. Jde o poslední verzi, která podporuje Python 2.x. Nejpodstatnější změnou je nová verze dirstate (vnitřních struktur), díky čemuž by se měly zrychlit některé operace (commit, diff apod.) a dále je možné ukládat k souborům víc metainformací.]]></summary>
+        <author>
+            <name>finn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-620</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-620"/>
+        <updated>2021-11-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for telling Alexa how excited you are for Cyber Monday. Before you get their attention, let's read this week's best writing about games.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook/Meta Tackling Transparent Page Placement For Tiered-Memory Linux Systems]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Meta-Hot-Pages-High-Tiers</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Meta-Hot-Pages-High-Tiers"/>
+        <updated>2021-11-28T10:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Back during the Linux 5.15 cycle Intel contributed an improvement for tiered memory systems where less used memory pages could be demoted to slower tiers of memory storage. But once demoted that kernel infrastructure didn't have a means of promoting those demoted pages back to the faster memory tiers should they become hot again, though now Facebook/Meta engineers have been working on such functionality...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predator on the NES is the opposite of a god damned sexual Tyrannosaurus]]></title>
+        <id>https://www.destructoid.com/?p=296837</id>
+        <link href="https://www.destructoid.com/kusoge-predator-on-the-nes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kusoge-predator-on-the-nes"/>
+        <updated>2021-11-28T10:15:45.000Z</updated>
+        <summary type="html"><![CDATA[What would that be? A salamander with fears of intimacy? Being a connoisseur of garbage, I’m sometimes asked what I...
+The post Predator on the NES is the opposite of a god damned sexual Tyrannosaurus appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Zoey Handley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
+        <id>https://www.destructoid.com/?p=297481</id>
+        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-176/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-176"/>
+        <updated>2021-11-28T10:00:39.000Z</updated>
+        <summary type="html"><![CDATA[Two more days of gluttony to go Good morning, good day, good weekend, and welcome to this week’s edition of...
+The post Whatcha been playing this week, Destructoid? appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Danganronpa Team Is Working On A New "Dark Fantasy Mystery" Game]]></title>
         <id>https://www.nintendolife.com/#article-124219</id>
@@ -307,17 +370,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Landing in Mesa on Black Friday was DMA-BUF Feedback support within the EGL code as another important step forward for Wayland...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
-        <id>https://www.destructoid.com/?p=297481</id>
-        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-176/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-176"/>
-        <updated>2021-11-27T11:00:39.000Z</updated>
-        <summary type="html"><![CDATA[Two more days of gluttony to go Good morning, good day, good weekend, and welcome to this week’s edition of...
-The post Whatcha been playing this week, Destructoid? appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -2214,17 +2266,6 @@ Is the wait for Halo Infinite's campaign feeling too long? We understand and wan
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Hextech Mayhem]]></title>
-        <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=297470</id>
-        <link href="https://www.destructoid.com/reviews/review-hextech-mayhem/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-hextech-mayhem"/>
-        <updated>2021-11-24T18:00:30.000Z</updated>
-        <summary type="html"><![CDATA[Ziggs gets his due Out there, somewhere, there’s a fan for every League of Legends character. I have a “top 10,”...
-The post Review: Hextech Mayhem appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Carter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Photo Mode: A Snapshot Of Our Gaming Landscape]]></title>
         <id>116330</id>
         <link href="https://www.gameinformer.com/2021/11/24/photo-mode-a-snapshot-of-our-gaming-landscape"/>
@@ -2244,16 +2285,6 @@ Short of parading friends past the home console to admire our digital albums, th
 Before we start, we should note that wine and game pairing isn't an exact science. Pairing wine with food often results in chemical interactions that enhance or alter flavors; this doesn't happen with game pairings, obviously. "Fundamentally, wine is a grocery which means it doesn't really have a lot of structural overlaps with gaming, which is a leisure activity," Harris says. "At their base, they're very different things, but there is certainly some overlap and both of them are designed to give plea…]]></summary>
         <author>
             <name>Ben Reeves</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arduino UNO Mini Limited Edition]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/arduino-uno-mini-limited-edition</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/arduino-uno-mini-limited-edition"/>
-        <updated>2021-11-24T17:23:45.000Z</updated>
-        <summary type="html"><![CDATA[Vývojových desek Arduino UNO bylo prodáno již více než 10 miliónů. Při této příležitosti bylo představeno Arduino UNO Mini Limited Edition o rozměrech 34,2 × 26,7 × 8 mm. Předobjednat jej lze za 40 eur.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2667,16 +2698,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vulkan 1.2.200 Released With Two New Extensions]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-1.2.200</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-1.2.200"/>
-        <updated>2021-11-23T18:56:10.000Z</updated>
-        <summary type="html"><![CDATA[Out today is Vulkan 1.2.200 as the newest spec revision to the Vulkan graphics/compute API...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mario Movie Producer Says Chris Pratt’s Plumber Won’t Have Italian Accent, Calls Actor’s Voice ‘Phenomenal’]]></title>
         <id>116459</id>
         <link href="https://www.gameinformer.com/2021/11/23/mario-movie-producer-says-chris-pratts-plumber-wont-have-italian-accent-calls-actors"/>
@@ -2907,16 +2928,6 @@ Who would you rather see in a Mortal Kombat game: John Wick or Neo? Let us know 
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Graphics Compiler 1.0.9289 Released As A Huge Update]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-IGC-1.0.9289</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-IGC-1.0.9289"/>
-        <updated>2021-11-23T12:49:09.000Z</updated>
-        <summary type="html"><![CDATA[Intel just released IGC 1.0.9289 as a huge update to their open-source Graphics Compiler used on Linux currently by their OpenCL/oneAPI Level Zero compute stack and also by Windows with their official driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3837,19 +3848,6 @@ Are the tiny computer people who write all the information down on the hard disk
 Read more]]></summary>
         <author>
             <name>Caelyn Ellis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[League Of Legends spin-offs Ruined King and Hextech Mayhem are out now]]></title>
-        <id>https://www.rockpapershotgun.com/league-of-legends-spin-offs-ruined-king-and-hextech-mayhem-are-out-now</id>
-        <link href="https://www.rockpapershotgun.com/league-of-legends-spin-offs-ruined-king-and-hextech-mayhem-are-out-now"/>
-        <updated>2021-11-17T16:56:40.000Z</updated>
-        <summary type="html"><![CDATA[If the new League Of Legends Netflix series Arcane has you in the mood to explore more of Runeterra, then you're in luck. Yesterday, Riot Games launched not one, but two new spin-off games. Ruined King is an RPG with turn-based combat in which you'll explore the world with a party of League champs. Then, Hextech Mayhem is a cute-looking rhythm runner. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Imogen Beckhelling</name>
         </author>
     </entry>
     <entry>
