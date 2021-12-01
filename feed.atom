@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-01T08:18:42.187Z</id>
+    <id>urn:2021-12-01T10:19:35.428Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-01T08:18:42.187Z</updated>
+    <updated>2021-12-01T10:19:35.428Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NixOS 21.11 Released But Its Own Package Manager Is Left Behind Due To Regressions]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=NixOS-21.11</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NixOS-21.11"/>
+        <updated>2021-12-01T10:05:13.000Z</updated>
+        <summary type="html"><![CDATA[NixOS is an original Linux distribution built atop its own unique Nix package manager that is focused on being functional, reliable, and reproducible. The Nix package manager concept is great but somewhat ironic is the new NixOS 21.11 release not even shipping with the latest Nix package manager version due to known regressions...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Speedrunner Has Already Beat Pokémon Shining Pearl In Just 23 Minutes]]></title>
+        <id>https://www.nintendolife.com/#article-124238</id>
+        <link href="https://www.nintendolife.com/news/2021/12/a-speedrunner-has-already-beat-pokemon-shining-pearl-in-just-23-minutes"/>
+        <updated>2021-12-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: The time keeps tumbling down.
+Update: Incredibly, Werster has managed to knock down that world record time even further, posting a new video showcasing a complete run that took just 23 minutes and 13 seconds (down from the 33-minute attempt we shared previously). You can see that new run above, and more info on the speedrun can be found in our original article below.
+
+Original Article (Mon 29th Nov, 2021 12:00 GMT): Pokémon Brilliant Diamond and Shining Pearl have only been available for ten days, but speedrunners are already smashing it out of the park when it comes to beating the new games as quickly as possible.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia 1.7 Released With Improved Threading Capabilities]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Julia-1.7-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Julia-1.7-Released"/>
+        <updated>2021-12-01T09:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Version 1.7 of the Julia programming language implementation is now available, the open-source high-performance language that is general purpose but especially popular for computational science and numerical analysis...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rancher: provozujte Kubernetes na vlastním hardware (online školení)]]></title>
+        <id>www.root.cz-actuality-41082</id>
+        <link href="https://www.root.cz/zpravicky/rancher-provozujte-kubernetes-na-vlastnim-hardware-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-12-01T08:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Pokud chcete provozovat Kuberneres na vlastním hardware, Rancher je jednoduchý a efektivní způsob, jak toho docílit. Umožní vám jednoduše vytvořit a spravovat kubernets cluster na vlastních virtuálních serverech. Používat Rancher se naučíte na dalším školení Rancher – Kubernetes na vlastním hardware, které proběhne 7. prosince a uskuteční se online.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metroid Dread Developer MercurySteam Announces Its Next Game, Codenamed "Project Iron"]]></title>
         <id>https://www.nintendolife.com/#article-124324</id>
@@ -16,6 +60,16 @@ The Spanish-based studio is teaming up with Digital Bros and its publishing divi
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NixOS 21.11 Porcupine]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/nixos-21.11-porcupine</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/nixos-21.11-porcupine"/>
+        <updated>2021-12-01T02:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová stabilní verze 21.11 linuxové distribuce NixOS (Wikipedie). Její kódové označení je Porcupine. Přehled novinek v poznámkách k vydání. O balíčky se v NixOS stará správce balíčků Nix.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1111,7 +1165,7 @@ Read more]]></summary>
         <id>www.root.cz-actuality-43078</id>
         <link href="https://www.root.cz/zpravicky/vysly-nove-verze-zabbix-4-0-36-lts-5-0-18-lts-a-zabbix-5-4-8/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2021-11-30T13:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Včera, 29. listopadu, vyšly nové verze dohledového nástroje Zabbix 4.0.36 LTS, 5.0.18 LTS a Zabbix 5.4.8. Nových funkcionalit je jako vždy celá řada. Ve verzích 4.x bylo opraveno čtení event logu na Windows Server 2022. Od verze 5.0.18 existuje nový klíč agent.variant, kterým je možné rozpoznat, jaká generace agenta je na použita: C nebo Go. V Zabbix agent 2 je nový klíč docker.container_stats v nativním docker pluginu. Dále byla přinána nová verze webhooku PagerDuty a bylo opraveno mnoho chyb. Na nové LTS verzi se intentivně pracuje: Zabbix 6.0.0alpha7. Zabbix 6.0 LTS je očekáván v Q1 2022.]]></summary>
+        <summary type="html"><![CDATA[Včera, 29. listopadu, vyšly nové verze dohledového nástroje Zabbix 4.0.36 LTS, 5.0.18 LTS a Zabbix 5.4.8. Nových funkcionalit je jako vždy celá řada. Ve verzích 4.x bylo opraveno čtení event logu na Windows Server 2022. Od verze 5.0.18 existuje nový klíč agent.variant, kterým je možné rozpoznat, jaká generace agenta je na použita: C nebo Go. V Zabbix agent 2 je nový klíč docker.container_stats v nativním docker pluginu. Dále byla přidána nová verze webhooku PagerDuty a bylo opraveno mnoho chyb. Na nové LTS verzi se intenzivně pracuje: Zabbix 6.0.0alpha7. Zabbix 6.0 LTS je očekáván v Q1 2022.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: SmEjDiL)</name>
         </author>
@@ -1338,20 +1392,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Get to know Roland Glenbrook.
 One game we've been keeping a close eye on for some time now is Square Enix's upcoming turn-based tactical RPG, Triangle Strategy. It's due out at some point in 2022, exclusively on the Nintendo Switch.
 While we've already seen quite a bit of it - and even played an early demo of the game, Square Enix has now released its first "character & story" trailer focused on Roland Glenbrook. Although it's in Japanese, it provides another look at a number of fresh screenshots from the game and even some battle sequences.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Danganronpa Team Is Working On A New "Dark Fantasy Mystery" Game]]></title>
-        <id>https://www.nintendolife.com/#article-124219</id>
-        <link href="https://www.nintendolife.com/news/2021/11/the-danganronpa-team-is-working-on-a-new-dark-fantasy-mystery-game"/>
-        <updated>2021-11-30T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Introducing Enigma Archives: Rain Code.
-Update : Spike Chunsoft has now released an official trailer on its English YouTube channel.
-
-Original story : Spike Chunsoft and Tookyo Games have announced a new "dark fantasy mystery" game titled Enigma Archives: Rain Code.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1746,16 +1786,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrossOver 21.1 s až 75% slevou]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/crossover-21.1-s-az-75-slevou</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/crossover-21.1-s-az-75-slevou"/>
-        <updated>2021-11-29T17:05:38.000Z</updated>
-        <summary type="html"><![CDATA[Dnes je Cyber Monday, kdy je možné u Codeweavers zakoupit CrossOver (komerční implementaci Wine) se slevou 25% (unlimited) nebo 75% (roční). Slevy jsou limitovány počtem kupujících.]]></summary>
-        <author>
-            <name>Max</name>
         </author>
     </entry>
     <entry>
@@ -2587,16 +2617,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Getting Experimental Vulkan Within QEMU VMs Using Linux 5.16+ Paired With Mesa's Venus]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-Venus-QEMU-Guests</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-Venus-QEMU-Guests"/>
-        <updated>2021-11-26T16:28:17.000Z</updated>
-        <summary type="html"><![CDATA[When running on the very latest Linux 5.16 Git kernel paired with recent Mesa and various experimental components to the virtualization stack, it is possible getting at least basic Vulkan acceleration working within QEMU guest virtual machines that in turn is accelerated by the host...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monster Hunter Rise PC will launch with Switch's post-launch content, including Sonic]]></title>
         <id>https://www.rockpapershotgun.com/monster-hunter-rise-pc-will-launch-with-switchs-post-launch-content-including-sonic</id>
         <link href="https://www.rockpapershotgun.com/monster-hunter-rise-pc-will-launch-with-switchs-post-launch-content-including-sonic"/>
@@ -2723,16 +2743,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft Now 30% Faster With Open-Source AMD Radeon Driver On Linux]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Minecraft-RadeonSI-Thread</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Minecraft-RadeonSI-Thread"/>
-        <updated>2021-11-26T12:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Those using the open-source AMD Radeon OpenGL driver "RadeonSI" on Linux the performance within the popular Minecraft game is about to be a lot better...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3299,16 +3309,6 @@ Each winter is a new opportunity to explore another facet of the vast worlds I�
 When a game is localized well, it’s free of typos and grammatical errors, the dialogue is natural, and the instructions make sense. But even this is skimming the surface of the localization team’s role in the process. As games become more complex and text-heavy, not only do the challenges continue to grow, but the quality bar – and our expectations –…]]></summary>
         <author>
             <name>Kimberley Wallace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux se připravuje na nové procesory AMD s 12 čiplety]]></title>
-        <id>www.root.cz-actuality-43058</id>
-        <link href="https://www.root.cz/zpravicky/linux-se-pripravuje-na-nove-procesory-amd-s-12-cpu-jadry-v-cipletech/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-24T15:12:29.000Z</updated>
-        <summary type="html"><![CDATA[Prozatím AMD používá ve svých procesorech čiplety nesoucí 8 procesorových jader v maximálním počtu 8 kusů. Už delší dobu ale víme, že toto se má změnit a soudě dle nejnovějšího vývoje v linuxovém jádru (přesněji řečeno v ovladači k10temp) berme za potvrzené, že počet čipletů vzroste na 12. Neboli v terminologii AMD ponese takový procesor celkem 12 core-complex dies (CCD).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
