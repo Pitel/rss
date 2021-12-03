@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-03T06:18:48.019Z</id>
+    <id>urn:2021-12-03T08:18:52.331Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-03T06:18:48.019Z</updated>
+    <updated>2021-12-03T08:18:52.331Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nová sociální síť TRUTH Social bývalého prezidenta Donalda Trumpa potichu zveřejnila zdrojové kódy]]></title>
+        <id>www.root.cz-actuality-43087</id>
+        <link href="https://www.root.cz/zpravicky/nova-socialni-sit-truth-social-byvaleho-prezidenta-donalda-trumpa-potichu-zverejnila-zdrojove-kody/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-12-03T07:04:30.000Z</updated>
+        <summary type="html"><![CDATA[Bývalý prezident USA Donal Trump si v říjnu pořídil svoji vlastní sociální síť TRUTH Social. Ta je nyní stále jen na pozvání, ostrý start se předpokládá začátkem příštího roku. TRUTH je založená na open source sociální síti Mastodon. Hned se ozval zakladatel Mastodona Eugen Rochko, že TRUTH porušuje AGPL, protože nezveřejnila zdrojové kódy.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fedora 36 May Support FS-VERITY Integrity/Authenticity Verification For RPMs]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-36-FS-VERITY-RPMs</id>
@@ -21,6 +31,16 @@
         <link href="http://www.abclinuxu.cz/zpravicky/xen-project-hypervisor-4.16"/>
         <updated>2021-12-03T04:34:49.000Z</updated>
         <summary type="html"><![CDATA[Byla vydána nová verze 4.16 hypervizoru Xen Project (Wikipedie). Podrobnosti v poznámkách k vydání a přehledu nových vlastností.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julia 1.7.0. Větev 1.6 je nově LTS]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/julia-1.7.0.-vetev-1.6-je-nove-lts</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/julia-1.7.0.-vetev-1.6-je-nove-lts"/>
+        <updated>2021-12-03T04:13:58.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze 1.7.0 dynamického programovacího jazyka Julia (Wikipedie) určeného zejména pro vědecké výpočty. Přehled novinek v příspěvku na blogu a v poznámkách k vydání. Aktualizována byla také dokumentace. Současně bylo oznámeno, že větev 1.6 (aktuálně verze 1.6.4) je nově LTS.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
         </author>
@@ -49,6 +69,16 @@ According to a story over on Rockman Corner, it's now been been "pretty much" co
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi OS (Legacy)]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/raspberry-pi-os-legacy</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/raspberry-pi-os-legacy"/>
+        <updated>2021-12-03T03:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Nedávno byl vydán nový Raspberry Pi OS založený na Debianu 11 Bullseye. Řadě uživatelů ale novinky nevyhovují, viz například problém s kamerami. Vývojáři se proto rozhodli vedle Raspberry Pi OS podporovat také Raspberry Pi OS (Legacy) založený na Debianu 10 Buster. Uživatelé požadující knihovnu picamera mohou nově používat také Raspberry Pi OS a knihovnu si povolit v nastavení raspi-config (YouTube).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2205,16 +2235,6 @@ If you love seeing your Spartan stand in generic poses, you can purchase the Tac
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ajťácké adventní kalendáře 2021]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ajtacke-adventni-kalendare-2021</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ajtacke-adventni-kalendare-2021"/>
-        <updated>2021-12-01T02:06:13.000Z</updated>
-        <summary type="html"><![CDATA[I letos vychází řada ajťáckých adventních kalendářů. Programátoři se mohou potrápit při řešení úloh z kalendáře Advent of Code 2021, zájemci o kybernetickou bezpečnost z kalendáře Advent of Cyber 2021, …]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[More Steam Users Are Still Playing Farming Simulator 22 Over Battlefield 2042]]></title>
         <id>116497</id>
         <link href="https://www.gameinformer.com/2021/11/30/more-steam-users-are-still-playing-farming-simulator-22-over-battlefield-2042"/>
@@ -2223,16 +2243,6 @@ If you love seeing your Spartan stand in generic poses, you can purchase the Tac
 In the image above (captured from Steam's own data you can see here), the numbers on the left represent current active players for each game, while the numbers on the right are total players for the day. As of the time of this snapshot, Farming Simulator 22…]]></summary>
         <author>
             <name>John Carson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VCV Rack 2.0.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/vcv-rack-2.0.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/vcv-rack-2.0.0"/>
-        <updated>2021-12-01T01:15:31.000Z</updated>
-        <summary type="html"><![CDATA[Po dvou letech vývoje byla vydána nová major verze 2.0.0 (YouTube) open source virtuálního modulárního syntezátoru VCV Rack. Přehled novinek v oznámení o vydání a na GitHubu. K dispozici jsou také open source pluginy.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3568,16 +3578,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Holly Alice</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyšlo PHP 8.1 s vlákny a výčty]]></title>
-        <id>www.root.cz-actuality-43064</id>
-        <link href="https://www.root.cz/zpravicky/php-8-1-s-vlakny-a-vycty/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-11-26T09:33:53.000Z</updated>
-        <summary type="html"><![CDATA[Včera vyšlo PHP 8.1.0.  Novinkou je typ enumerate (výčet), který může mít jen diskrétní počet možných hodnot. Dále jsou tu fibers (vlákna), která se dají použít v kooperativním multitaskingu v PHP.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
