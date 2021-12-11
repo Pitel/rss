@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-11T12:23:49.605Z</id>
+    <id>urn:2021-12-11T14:13:39.955Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-11T12:23:49.605Z</updated>
+    <updated>2021-12-11T14:13:39.955Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MikroTik RouterOS v7]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mikrotik-routeros-v7</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mikrotik-routeros-v7"/>
+        <updated>2021-12-11T13:13:31.000Z</updated>
+        <summary type="html"><![CDATA[MikroTik vydal novou major verzi 7 svého na Linuxu postaveného routerového operačního systému RouterOS. Představení novinek v PDF a na YouTube.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The RPS Advent Calendar 2021, December 11th]]></title>
+        <id>https://www.rockpapershotgun.com/the-rps-advent-calendar-2021-december-11th</id>
+        <link href="https://www.rockpapershotgun.com/the-rps-advent-calendar-2021-december-11th"/>
+        <updated>2021-12-11T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's time to open the eleventh door of the RPS Advent Calendar, but what's this? There's a little hexagonal tile missing? Well, have I got just the thing for you.
+Read more]]></summary>
+        <author>
+            <name>RPS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeaBIOS 1.15.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/seabios-1.15.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/seabios-1.15.0"/>
+        <updated>2021-12-11T12:31:34.000Z</updated>
+        <summary type="html"><![CDATA[SeaBIOS (Wikipedie) byl vydán ve verzi 1.15.0. Jedná se o open source implementaci BIOSu používanou v QEMU, KVM nebo corebootu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: What's The Best Switch Game Of 2021? It's Time To Rate Your Favourites]]></title>
         <id>https://www.nintendolife.com/#article-108340</id>
@@ -2936,16 +2967,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flutter 2.8 a Dart 2.15]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/flutter-2.8-a-dart-2.15</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/flutter-2.8-a-dart-2.15"/>
-        <updated>2021-12-09T02:08:59.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová stabilní verze 2.8 frameworku Flutter (Wikipedie) pro vývoj mobilních, webových i desktopových aplikací a nová stabilní verze 2.15 souvisejícího programovacího jazyka Dart (Wikipedie).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel, Arm & Khronos Feel Ready to Land SPIR-V Backend Within LLVM]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LLVM-Ready-For-SPIR-V-Backend</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LLVM-Ready-For-SPIR-V-Backend"/>
@@ -3024,16 +3045,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Hypervisor projektem Linux Foundation]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/cloud-hypervisor-projektem-linux-foundation</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/cloud-hypervisor-projektem-linux-foundation"/>
-        <updated>2021-12-08T18:09:31.000Z</updated>
-        <summary type="html"><![CDATA[Konsorcium Linux Foundation oznámilo, že nejnovějším projektem konsorcia je projekt Cloud Hypervisor. Jedná se o open source Virtual Machine Monitor (VMM). Zdrojové kódy jsou k dispozici na GitHubu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3795,17 +3806,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Tým kolem linuxové distribuce Debian provedl změny ve správci balíčků APT, které znemožní rozbití systému. Robot CyberDog od Xiaomi běží na Ubuntu 18.04. Operační systém Haiku bootuje na architektuře RISC-V.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The RPS Advent Calendar 2021, December 5th]]></title>
-        <id>https://www.rockpapershotgun.com/the-rps-advent-calendar-2021-december-5th</id>
-        <link href="https://www.rockpapershotgun.com/the-rps-advent-calendar-2021-december-5th"/>
-        <updated>2021-12-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Time to open the fifth door on the Calendar. I reckon we might need to batter this one down with a solid attack from our infantry, backed up with archers.
-Read more]]></summary>
-        <author>
-            <name>RPS</name>
         </author>
     </entry>
     <entry>
