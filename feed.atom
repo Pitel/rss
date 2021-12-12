@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-12T10:16:39.470Z</id>
+    <id>urn:2021-12-12T12:24:00.267Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-12T10:16:39.470Z</updated>
+    <updated>2021-12-12T12:24:00.267Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-621</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-621"/>
+        <updated>2021-12-12T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for using those three-step curry kits and feeling like a gourmet chef. Before you add the herbs, let's read this week's best writing about games.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Prepares For More Code Sharing Between AMD SEV + Intel TDX]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-SEV-TDX-Code-Sharing</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-SEV-TDX-Code-Sharing"/>
+        <updated>2021-12-12T10:54:06.000Z</updated>
+        <summary type="html"><![CDATA[Coming with future Intel CPUs is Trust Domain Extensions (TDX) to further enhance the security of virtual machines (VMs) and it's sounded a lot like AMD's Secure Encrypted Virtualization (SEV) in many regards and in fact now for the Linux kernel Intel is looking at leveraging some of that SEV code to allow for more code sharing between these CPU features to improve virtualization security...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Contributes A Number Of Vulkan Filters/Improvements To FFmpeg]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-More-FFmpeg-VLK-Filters</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-More-FFmpeg-VLK-Filters"/>
+        <updated>2021-12-12T10:34:45.000Z</updated>
+        <summary type="html"><![CDATA[Aside from the separate work around experimental Vulkan Video decode support, thanks to Intel recently there have been a number of Vulkan improvements to the FFmpeg code around new accelerated filters...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Apple M1 Bring-Up For Linux Continues: SPI, SimpleDRM, PMU]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-M1-SPI-SimpleDRM-PMU</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-M1-SPI-SimpleDRM-PMU"/>
+        <updated>2021-12-12T10:18:49.000Z</updated>
+        <summary type="html"><![CDATA[One year after Apple introduced the M1 SoC and the effort began to bring-up this Apple Silicon under Linux, the effort remains ongoing and more code is inching closer to the mainline kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Halo Infinite]]></title>
+        <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=298624</id>
+        <link href="https://www.destructoid.com/reviews/review-halo-infinite-campaign/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-halo-infinite-campaign"/>
+        <updated>2021-12-12T10:00:39.000Z</updated>
+        <summary type="html"><![CDATA[It’s nice to have the Chief back So I’ve talked about my extensive history with Halo already in our Halo Infinite multiplayer...
+The post Review: Halo Infinite appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Carter</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reminder: Unlock A Special Mario Party Superstars Theme In Tetris 99]]></title>
         <id>https://www.nintendolife.com/#article-124552</id>
@@ -1905,17 +1957,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The first trailer for the Halo TV show is finally here]]></title>
-        <id>https://www.destructoid.com/?p=300259</id>
-        <link href="https://www.destructoid.com/the-first-trailer-for-the-halo-tv-show-is-finally-here/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-first-trailer-for-the-halo-tv-show-is-finally-here"/>
-        <updated>2021-12-10T04:16:56.000Z</updated>
-        <summary type="html"><![CDATA[The wait (for a trailer) is over Tonight at The Game Awards, Paramount and 343 Industries finally gave us our...
-The post The first trailer for the Halo TV show is finally here appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Noelle Warner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dune: Spice Wars is an RTS from the developers of Northgard]]></title>
         <id>https://www.rockpapershotgun.com/dune-spice-wars-is-an-rts-from-the-developers-of-northgard</id>
         <link href="https://www.rockpapershotgun.com/dune-spice-wars-is-an-rts-from-the-developers-of-northgard"/>
@@ -3315,26 +3356,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RADV Working On ETC2 Emulation Support For Newer Radeon GPUs To Satisfy Android]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-ETC2-Emulation</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-ETC2-Emulation"/>
-        <updated>2021-12-08T10:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Mesa's Radeon Vulkan driver "RADV" is implementing emulated support for ETC2 texture compression to use with newer AMD GPUs to improve compatibility with Google's Android operating system...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Posts Open Profile For DICE Linux Driver, Forwards Firmware Secrets To User-Space]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-Open-DICE-Driver</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-Open-DICE-Driver"/>
-        <updated>2021-12-08T10:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Google is looking to upstream their Linux kernel driver for Open Profile for DICE, a secret derivation protocol used currently by some Android devices...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Co letos Češi hledali na Googlu? Sčítání lidu, bitcoin, očkování a Like House]]></title>
         <id>www.root.cz-actuality-43108</id>
         <link href="https://www.root.cz/zpravicky/co-letos-cesi-hledali-na-googlu-scitani-lidu-bitcoin-ockovani-a-like-house/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3362,16 +3383,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Téma vzhledu je možné s novým Vivaldi 5.0 vytvářet ve zbrusu novém editoru témat a následně je sdílet se světem jedním kliknutím. Dále mezi novinkami nechybí panel s překlady umožňující okamžité automatické překlady označeného textu (pohání jej alternativní technologie Lingvanex, za kterou nestojí nikdo kalibru Google apod. – zde pouze servery Vivaldi přijdou do styku s těmito soukromými daty).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Posts Linux Patches Enabling AMX Use Within KVM Guests]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-AMX-For-KVM</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-AMX-For-KVM"/>
-        <updated>2021-12-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[One of many exciting features/changes with upcoming Intel Xeon Scalable "Sapphire Rapids" processors is the introduction of Advanced Matrix Extensions (AMX). While initial AMX support is premiering with Linux 5.16 due out in stable form as the start of the new year, it currently doesn't allow for KVM virtualized guests to make use of the new capabilities...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3771,17 +3782,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Německý časopis CHIP společně se společností IoT Inspector odhalili 226 zranitelností v 9 domácích WiFi routerech známých značek Asus, AVM, D-Link, Netgear, Edimax, TP Link, Synology a Linksys. Nejvíce zranitelností (32) se našlo u TP-Link Archer AX6000 a na druhém místě je Synology RT-2600ac se 30 zranitelnostmi.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The RPS Advent Calendar 2021, December 6th]]></title>
-        <id>https://www.rockpapershotgun.com/the-rps-advent-calendar-2021-december-6th</id>
-        <link href="https://www.rockpapershotgun.com/the-rps-advent-calendar-2021-december-6th"/>
-        <updated>2021-12-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's tough to keep the lid on the sixth RPS Advent Calendar door. There's almost too much banter, too many highjinks, too much quipping. It's enough to give you quiplash, I tells ya.
-Read more]]></summary>
-        <author>
-            <name>RPS</name>
         </author>
     </entry>
     <entry>
