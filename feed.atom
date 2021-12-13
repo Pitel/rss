@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-13T06:18:54.844Z</id>
+    <id>urn:2021-12-13T08:18:55.801Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-13T06:18:54.844Z</updated>
+    <updated>2021-12-13T08:18:55.801Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RadeonSI Gallium3D Driver Wires Up Wave32 Improvements For RDNA GPUs]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-Wave32-Mesa-22.0</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-Wave32-Mesa-22.0"/>
+        <updated>2021-12-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AMD's "RDNA" class GPUs support wavefront sizes of 32 and 64 compared to older GCN GPUs at 64 threads. Going back to 2019 RadeonSI began making use of Wave32 for some shaders but now for Mesa 22.0 next quarter there are greater Wave32 improvements that have landed...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blíží se podpora Rustu v linuxovém jádře]]></title>
+        <id>www.root.cz-actuality-43119</id>
+        <link href="https://www.root.cz/zpravicky/blizi-se-podpora-rustu-v-linuxovem-jadre/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-12-13T07:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Na podpoře pro programovací jazyk Rust v linuxovém jádře se již nějakou dobu pracuje. Před týdnem Miguel Ojeda poslal druhou verzi záplat s podporou Rustu. Nově už není potřeba beta verze Rustu, ale stabilní 1.57.0. Tak to zůstane i do budoucnosti.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bezpečnost pro webové vývojáře: jak přemýšlí útočník (školení)]]></title>
+        <id>www.root.cz-actuality-43048</id>
+        <link href="https://www.root.cz/zpravicky/bezpecnost-pro-webove-vyvojare-jak-premysli-utocnik-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-12-13T07:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Jak přemýšlí útočník, který chce napadnout váš web? Popíšeme vám zranitelnosti webových aplikací a vysvětlíme, jak se dají zneužít. Kromě toho vás naučíme, jak psát kód bez zranitelností a jak v něm odhalit již existující. Pokud vás zajímá bezpečnost vaší webové aplikace, přihlaste se na naše dvoudenní online školení, které proběhne 24. a 25. ledna. Školí etický hacker Tomáš Melicher.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get 'Em Princess]]></title>
         <id>1848203077</id>
@@ -64,7 +94,7 @@ Read more...]]></summary>
         <id>www.root.cz-text-15811</id>
         <link href="https://www.root.cz/clanky/milion-stazeni-zorin-os-16-t2-sde-nabizi-penize-za-opravy-chyb/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2021-12-12T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Projekt T2 SDE nabízí peníze za opravy chyb a pomoc při implementaci nových funkcí. Zorin OS 16 si za poslední tři měsíce stáhlo více než milion lidí. Linuxová distribuce EasyOS už nebude k dispozici ve formátu ISO]]></summary>
+        <summary type="html"><![CDATA[Projekt T2 SDE nabízí peníze za opravy chyb a pomoc při implementaci nových funkcí. Zorin OS 16 si za poslední tři měsíce stáhlo více než milion lidí. Linuxová distribuce EasyOS už nebude k dispozici ve formátu ISO.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
         </author>
@@ -3217,16 +3247,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu Rethinking Its Initramfs Compression Strategy]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Initramfs-Zstd-Too-High</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Initramfs-Zstd-Too-High"/>
-        <updated>2021-12-08T19:36:26.000Z</updated>
-        <summary type="html"><![CDATA[While Ubuntu switched from LZ4 to Zstd for compressing its initramfs, they now are finding they were too aggressive in defaulting to Zstd with the highest compression level of 19. Due to speed and memory consumption concerns, they are looking at lowering their Zstd compression level...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Assassin's Creed Valhalla patch will make you redownload the game to get performance gains]]></title>
         <id>https://www.rockpapershotgun.com/assassins-creed-valhalla-patch-will-make-you-redownload-the-game-to-get-a-performance-boost</id>
         <link href="https://www.rockpapershotgun.com/assassins-creed-valhalla-patch-will-make-you-redownload-the-game-to-get-a-performance-boost"/>
@@ -3799,26 +3819,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Rick Lane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Únik 114 miliónů emailů služby Gravatar]]></title>
-        <id>www.root.cz-actuality-43097</id>
-        <link href="https://www.root.cz/zpravicky/unik-114-milionu-emailu-sluzby-gravatar/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-06T15:19:02.000Z</updated>
-        <summary type="html"><![CDATA[Službu Gravatar používají lidé, kteří chtějí mít stejný avatar na více podporovaných službách. Jde většinou o WordPress a GitHub. Loni Carlo Di Dato ukázal, jak se dá automaticky získat spousta soukromých informací o uživatelích služby Gravatar.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zranitelnosti Wi-Fi routerů: desítky zranitelností aplikací i jáder]]></title>
-        <id>www.root.cz-actuality-43096</id>
-        <link href="https://www.root.cz/zpravicky/zranitelnosti-wifi-routeru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-06T13:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Německý časopis CHIP společně se společností IoT Inspector odhalili 226 zranitelností v 9 domácích WiFi routerech známých značek Asus, AVM, D-Link, Netgear, Edimax, TP Link, Synology a Linksys. Nejvíce zranitelností (32) se našlo u TP-Link Archer AX6000 a na druhém místě je Synology RT-2600ac se 30 zranitelnostmi.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
