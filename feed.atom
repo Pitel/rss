@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-17T06:19:05.607Z</id>
+    <id>urn:2021-12-17T08:18:49.741Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-17T06:19:05.607Z</updated>
+    <updated>2021-12-17T08:18:49.741Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[China's Loongson Looks To Mainline LoongArch Support In LLVM]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LoongArch-LLVM-Plans</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LoongArch-LLVM-Plans"/>
+        <updated>2021-12-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Not only is Loongson working on bringing up LoongArch ISA support for the GCC compiler and related GNU toolchain components, but the Chinese company has now laid out their plans for LoongArch on LLVM...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glibc 2.35 bude používat transparent huge pages]]></title>
+        <id>www.root.cz-actuality-43138</id>
+        <link href="https://www.root.cz/zpravicky/glibc-2-35-bude-pouzivat-transparent-huge-pages/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-12-17T07:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Transparent huge pages (THP) zrychlují práci s pamětí v Linuxu, protože umožňují pro aplikace transparentní použití velkých stránek paměti (na amd64 2 MB a 1 GB (u novějších procesorů)) místo výchozích stránek (u amd64 4 kB). THP je možné nastavit na never, always a madvise. Nastavení always může některé aplikace zpomalit, proto je často v distribucích výchozím nastavením madvise, tedy záleží na aplikaci, jestli při alokaci paměti použije madvise a tím dá najevo, že by použití velkých stránek mělo pomoci.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bandai Announces Worldwide 'Digimon Con' Broadcast - Airing In February 2022]]></title>
+        <id>https://www.nintendolife.com/#article-125077</id>
+        <link href="https://www.nintendolife.com/news/2021/12/bandai-announces-worldwide-digimon-con-broadcast-airing-in-february-2022"/>
+        <updated>2021-12-17T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A new event for Digimon fans around the world.
+Bandai - the company behind the long-running Digimon series, has announced a digital celebration airing "around the world" on 26th February 2022.
+According to the official portal website, there'll be an anime segment, a game information segment, a live performance, a digital illustration competition and much more:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random: Grandmother Accidentally Receives Six Nintendo Switch, So Target Let Her Keep Them]]></title>
         <id>https://www.nintendolife.com/#article-125072</id>
@@ -1354,19 +1387,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Resizable BAR support (also known as ReBAR / AMD Smart Access Memory) has been popular with gamers for supported configurations for being able to improve GPU performance. Intel is now working on enabling the Linux kernel to support Resizable BAR when in the context of I/O Virtualization...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Pre-Order OlliOlli World Now, Ahead Of Its February 2022 Release]]></title>
-        <id>https://www.nintendolife.com/#article-125018</id>
-        <link href="https://www.nintendolife.com/news/2021/12/you-can-pre-order-olliolli-world-now-ahead-of-its-february-2022-release"/>
-        <updated>2021-12-16T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Radical!
-Yesterday's Indie World showcase gave us plenty to think about when it comes to future eShop purchases, and one of the games which looked the most promising was the long-awaited OlliOlli World.
-This slick combination of OlliOlli's stunt-based skateboarding with the living, breathing world of 'Radlandia' has been on our radar for a while now, but the Indie World broadcast gave us a fresh look at what we can expect when it launches early next year.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2887,16 +2907,6 @@ Spiritfarer is available on PlayStation 4, Xbox One, Switch, Stadia, and PC. You
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fedora 36 To Support OSTree Native Containers / CoreOS Layering]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-36-CoreOS-Layering</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-36-CoreOS-Layering"/>
-        <updated>2021-12-13T20:30:10.000Z</updated>
-        <summary type="html"><![CDATA[Fedora 36 feature work continues building up for what will make another exciting update to this Linux distribution come April. The latest approval is more exciting work on the OSTree / CoreOS front...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Anacrusis Hits Early Access And Xbox Game Pass This January]]></title>
         <id>116676</id>
         <link href="https://www.gameinformer.com/2021/12/13/the-anacrusis-hits-early-access-and-xbox-game-pass-this-january"/>
@@ -3630,16 +3640,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Apache Log4j logovací framework pro Javu obsahuje vážnou zranitelnost CVE-2021–44228, která umožňuje vzdálené spuštění kódu. Zranitelné jsou verze od 2.0 do 2.15.0-rc1 včetně. Chyba je opravena až ve verzi 2.15.0-rc2. Log4j je používaný v serverech Minecraftu a ve frameworcích Apache Struts2, Apache Solr, Apache Druid a Apache Flink.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (online školení)]]></title>
-        <id>www.root.cz-actuality-40574</id>
-        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-10T08:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
