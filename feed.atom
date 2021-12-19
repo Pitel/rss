@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-19T06:18:34.606Z</id>
+    <id>urn:2021-12-19T08:18:47.950Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-19T06:18:34.606Z</updated>
+    <updated>2021-12-19T08:18:47.951Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -39,6 +39,16 @@ If you were a fan of the Sonic Boom games, you might have also watched the anima
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Log4j 2.17.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/log4j-2.17.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/log4j-2.17.0"/>
+        <updated>2021-12-19T03:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Bezpečnostní chyba CVE-2021-44228 pojmenována Log4Shell v Apache Log4j 2 byla opravena v Log4j 2.15.0. Záhy se ale zjistilo, že ne zcela. Bezpečnostní chyba CVE-2021-45046 byla opravena v Log4j 2.16.0. Další bezpečnostní chyba CVE-2021-45105 byla opravena v Log4j 2.17.0.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2335,16 +2345,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Všichni tři operátoři v Česku už vypnuli své sítě třetí generace. Se starou sítí druhé generace to ale tak rychlé nebude, protože ji ještě řada uživatelů používá na starších telefonech a i velká část moderních telefonů ji využívá pro telefonní hovory kvůli nedokonalé podpoře VoLTE ze strany operátorů.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mold 1.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/mold-1.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/mold-1.0"/>
-        <updated>2021-12-16T11:44:04.000Z</updated>
-        <summary type="html"><![CDATA[Moderní linker mold dospěl do verze 1.0. Jedná se o rychlejší alternativu k GNU gold nebo LLVM lld.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
