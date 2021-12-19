@@ -1,18 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-19T10:16:41.318Z</id>
+    <id>urn:2021-12-19T12:24:48.931Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-19T10:16:41.318Z</updated>
+    <updated>2021-12-19T12:24:48.931Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hark! The Taylor Swift video games sing]]></title>
+        <id>https://www.destructoid.com/?p=300903</id>
+        <link href="https://www.destructoid.com/taylor-swift-video-game-universe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=taylor-swift-video-game-universe"/>
+        <updated>2021-12-19T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Enter the Swift extended universe Taylor Swift is soft curling her hair, rerecording the music that made her, and singing...
+The post Hark! The Taylor Swift video games sing appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Ashley Bardhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-622</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-622"/>
+        <updated>2021-12-19T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for unknowingly watering a plastic plant. Before you pour, let's read this week's best writing about games.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel's Lead Developer Of Their Linux Vulkan Driver Has Left The Company]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ekstrand-Leaves-Intel</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ekstrand-Leaves-Intel"/>
-        <updated>2021-12-19T05:00:00.000Z</updated>
+        <updated>2021-12-19T11:00:00.000Z</updated>
         <summary type="html"><![CDATA[Coming as a surprise to end out the week is confirmation that the lead developer and architect for Intel's Linux Vulkan driver has left the company...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FUSE Introducing Per-File DAX Option With Linux 5.17]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-FUSE-Per-inode-DAX</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-FUSE-Per-inode-DAX"/>
+        <updated>2021-12-19T10:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Last year with Linux 5.10 FUSE added DAX support for use with VirtIO-FS. Like with DAX for other file-systems, enabling this direct access mode allows bypassing the page cache. For use-cases when running on persistent memory like devices or VirtIO, having this direct access to the storage device can be beneficial for performance. With Linux 5.17 FUSE is expanding the DAX support to allow per-inode control as well...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprise! Dragon Ball FighterZ Is Adding Another DLC Character]]></title>
+        <id>https://www.nintendolife.com/#article-125143</id>
+        <link href="https://www.nintendolife.com/news/2021/12/surprise-dragon-ball-fighterz-is-adding-another-dlc-character"/>
+        <updated>2021-12-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It's the 'Lab Coat' version of Android 21.
+Here's something you might not have expected - Dragon Ball FighterZ is getting another DLC character. The announcement of the 'Lab Coat' form of Android 21 took place this weekend during Jump Festa 2022.
+The 'Majin' version of Android 21 was already a playable fighter in the game, and the character is a collaborative effort between Dragon Ball creator Akira Toriyama and Arc System Works. The Lab Coat version of the character will be coming soon.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Developers Figuring Out Dual-Boot Changes Ahead Of Ubuntu 22.04 LTS]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-22.04-Multi-Boot-Changes</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-22.04-Multi-Boot-Changes"/>
+        <updated>2021-12-19T10:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Due to changes with the upstream GRUB 2.06 bootloader, Ubuntu developers are figuring out how they are going to be managing dual-boot/multi-boot scenarios moving forward with Ubuntu 22.04 LTS...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
+        <id>https://www.destructoid.com/?p=300774</id>
+        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-179/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-179"/>
+        <updated>2021-12-19T10:00:22.000Z</updated>
+        <summary type="html"><![CDATA[Festive Fumbling It’s beginning to look a lot like Christmas… I mean, it’s not. Not at all. But the calendar...
+The post Whatcha been playing this week, Destructoid? appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -420,17 +486,6 @@ But which Switch games are the best? There are so many to choose from, and which
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
-        <id>https://www.destructoid.com/?p=300774</id>
-        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-179/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-179"/>
-        <updated>2021-12-18T11:00:22.000Z</updated>
-        <summary type="html"><![CDATA[Festive Fumbling It’s beginning to look a lot like Christmas… I mean, it’s not. Not at all. But the calendar...
-The post Whatcha been playing this week, Destructoid? appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -1482,19 +1537,6 @@ Altered Beast was first released in 1988 and it’s a 2D beat ‘em up arcade-st
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Kanto Reboot' Brings 36 New Pokémon Shirt Designs To Original Stitch's Lineup]]></title>
-        <id>https://www.nintendolife.com/#article-125053</id>
-        <link href="https://www.nintendolife.com/news/2021/12/kanto-reboot-brings-36-new-pokemon-shirt-designs-to-original-stitchs-lineup"/>
-        <updated>2021-12-17T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[More like Kanto ReSHIRT.
-Earlier this month, Original Stitch, the makers of the official (and very fancy) Pokémon Shirts, retired 36 of their designs for the original 151 Pokémon from Kanto. Sad news, to be sure — but now they've been replaced with 36 new designs, so who cares! Get in the bin, old stuff! We're all about new stuff now.
-The new patterns replace the exact same Pokémon that were retired, and can be used to make shirts, masks, aprons, and bandanas. Here's the full list:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The RPS Advent Calendar 2021, December 17th]]></title>
         <id>https://www.rockpapershotgun.com/the-rps-advent-calendar-2021-december-17th</id>
         <link href="https://www.rockpapershotgun.com/the-rps-advent-calendar-2021-december-17th"/>
@@ -1792,17 +1834,6 @@ What's a Thursday without another exciting episode of The Game Informer Show? We
 Follow the crew on Twitter: Alex Stadnik (@Studnik76), Alex Van Aken (@itsVanAken), Marcus Stewart (@MarcusStewart7), and John Carson (@John_Carson), Jill Grodt (@Finruin…]]></summary>
         <author>
             <name>Alex Stadnik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Babble Royale turns Scrabble into a heated battle royale]]></title>
-        <id>https://www.destructoid.com/?p=301371</id>
-        <link href="https://www.destructoid.com/babble-royale-turns-scrabble-into-a-heated-battle-royale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=babble-royale-turns-scrabble-into-a-heated-battle-royale"/>
-        <updated>2021-12-16T23:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Sticks and stones may break my bones, but words can win you a chicken dinner The battle royale trend may...
-The post Babble Royale turns Scrabble into a heated battle royale appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Eric Van Allen</name>
         </author>
     </entry>
     <entry>
@@ -2870,16 +2901,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The End-Of-Year 2021 State Of Linux On Apple's M1 SoC]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-M1-Silicon-EO-2021</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-M1-Silicon-EO-2021"/>
-        <updated>2021-12-15T12:39:44.000Z</updated>
-        <summary type="html"><![CDATA[The Asahi Linux project has published their October and November status update to provide an overview of where the Apple Silicon / Apple M1 open-source support is now at as we approach the end of 2021...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Inscryption's free "mini-expansion" makes the first act endless]]></title>
         <id>https://www.rockpapershotgun.com/inscryptions-free-mini-expansion-makes-the-first-act-endless</id>
         <link href="https://www.rockpapershotgun.com/inscryptions-free-mini-expansion-makes-the-first-act-endless"/>
@@ -2902,16 +2923,6 @@ Two things happened later that day that I did not expect. First: I got the oppor
 Read more]]></summary>
         <author>
             <name>Ollie Toms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Raptor Lake S Graphics Ready For Linux 5.17, Alder Lake P Now Considered Stable]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-Intel-DRM-RPL-S</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-Intel-DRM-RPL-S"/>
-        <updated>2021-12-15T10:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Intel's stellar open-source graphics driver team sent in their latest batch of feature updates to DRM-Next for staging ahead of next month's Linux 5.17 cycle kicking off. Notable with this pull among other changes is initial support for next-generation Raptor Lake S graphics while Alder Lake P graphics are considered stable / promoted from being behind the experimental flag...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3894,17 +3905,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/our-first-look-at-the-halo-tv-series-is-actually-quite-good"/>
         <updated>2021-12-10T12:32:16.000Z</updated>
         <summary type="html"><![CDATA[There he is! John Halo on the telly! That’s right, during The Game Awards we got our first look at the Halo TV series arriving next year. The trailer shows the Chief walk slowly towards a large obelisk. There’s a classic dunnn of the piano and a cool space-mushroom city. Plus lots of close ups of human faces. Honestly, it looks quite good.
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUBG is going free-to-play next year]]></title>
-        <id>https://www.rockpapershotgun.com/pubg-is-going-free-to-play-next-year</id>
-        <link href="https://www.rockpapershotgun.com/pubg-is-going-free-to-play-next-year"/>
-        <updated>2021-12-10T11:42:16.000Z</updated>
-        <summary type="html"><![CDATA[PUBG Battlegrounds is going free-to-play in January 2022. The low admission fee of zero pounds was announced at The Game Awards, which is a pretty good deal if you’re looking to participate in a battle royale that’s still very much alive and kicking. Players can also pay for Battlegrounds Plus, an account upgrade that’ll net you some extra in-game unlocks. And don't worry, if you already own the game you'll get that upgrade for free.
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
