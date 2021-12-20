@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-12-20T06:20:47.617Z</id>
+    <id>urn:2021-12-20T08:19:46.465Z</id>
     <title>osmos::feed</title>
-    <updated>2021-12-20T06:20:47.617Z</updated>
+    <updated>2021-12-20T08:19:46.465Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nový rychlý locate: plocate]]></title>
+        <id>www.root.cz-actuality-43144</id>
+        <link href="https://www.root.cz/zpravicky/novy-rychly-locate-plocate/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2021-12-20T08:13:10.000Z</updated>
+        <summary type="html"><![CDATA[Patrně všichni znáte unixový nástroj locate , pomocí kterého můžete rychle hledat soubory na disku. Je to většinou rychlejší než find, protože nehledá přímo na disku, ale v databázi, která se vytváří automaticky většinou jednou za den pomocí updatedb. V současných distribucích se nejčastěji používá mlocate, který stejně jako starší slocate ukazuje ve výsledcích pouze soubory, které by uživatel podle práv měl vidět.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenBLAS 0.3.19 Released With Alder Lake & Sapphire Rapids Detection]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenBLAS-0.3.19</id>
@@ -33,6 +43,16 @@ Read more...]]></summary>
         <link href="http://www.abclinuxu.cz/zpravicky/bottles-lahve-2021.12.14"/>
         <updated>2021-12-20T02:49:06.000Z</updated>
         <summary type="html"><![CDATA[Bottles (Láhve), nástroj pro usnadnění spouštění softwaru z Windows na Linuxu, byl vydán ve verzi 2021.12.14. Nejnovější verze je již k dispozici také na Flathubu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vývoj frameworku pro zpracování obrazu G'MIC za poslední dva roky]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/vyvoj-frameworku-pro-zpracovani-obrazu-g-mic-za-posledni-dva-roky</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/vyvoj-frameworku-pro-zpracovani-obrazu-g-mic-za-posledni-dva-roky"/>
+        <updated>2021-12-20T02:06:25.000Z</updated>
+        <summary type="html"><![CDATA[David Tschumperlé v obšírném článku se spoustou náhledů shrnuje vývoj multiplatformního svobodného frameworku pro zpracování obrazu G'MIC (GREYC's Magic for Image Computing, Wikipedie) za poslední dva roky.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
         </author>
@@ -1741,16 +1761,6 @@ At the time of this writing, whatever Ghostbusters game Hudson is referring to h
 Are you excited about a new Ghostbusters game? Let us know in the comments below!]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[digiKam slaví 20 let. Vydána verze 7.4.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/digikam-slavi-20-let.-vydana-verze-7.4.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/digikam-slavi-20-let.-vydana-verze-7.4.0"/>
-        <updated>2021-12-17T14:14:24.000Z</updated>
-        <summary type="html"><![CDATA[Správce digitálních fotografií a videí digiKam (Wikipedie) slaví 20 let. První veřejná verze 0.1.0 byla vydána 24. prosince 2001. Dnes byla vydána verze 7.4.0. Přehled novinek i s náhledy v oficiálním oznámení. Nejnovější digiKam je ke stažení také jako balíček ve formátu AppImage. Stačí jej stáhnout, nastavit právo ke spuštění a spustit.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3592,16 +3602,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Imogen Beckhelling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blíží se podpora Rustu v linuxovém jádře]]></title>
-        <id>www.root.cz-actuality-43119</id>
-        <link href="https://www.root.cz/zpravicky/blizi-se-podpora-rustu-v-linuxovem-jadre/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-13T07:47:09.000Z</updated>
-        <summary type="html"><![CDATA[Na podpoře pro programovací jazyk Rust v linuxovém jádře se již nějakou dobu pracuje. Před týdnem Miguel Ojeda poslal druhou verzi záplat s podporou Rustu. Nově už není potřeba beta verze Rustu, ale stabilní 1.57.0. Tak to zůstane i do budoucnosti.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
