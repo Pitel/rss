@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-01T08:19:11.880Z</id>
+    <id>urn:2022-01-01T10:17:43.270Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-01T08:19:11.880Z</updated>
+    <updated>2022-01-01T10:17:43.270Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Editorial: Happy New Year From Everyone At Nintendo Life]]></title>
+        <id>https://www.nintendolife.com/#article-125408</id>
+        <link href="https://www.nintendolife.com/news/2022/01/editorial-happy-new-year-from-everyone-at-nintendo-life"/>
+        <updated>2022-01-01T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The future has arrived, still waiting on hoverboards.
+Welcome to the future! Yes, we've finally got through '2020: Part Deux' and we're now securely lodged in 2022 — the first year since the millennium that has three of the same number in it. *Waits for everyone to confirm that that is indeed correct*...
+The past year has been another tough one for a great many people due to one thing and another (and another, and another). Restrictions designed to prevent the spread of COVID-19 and the Omicron variant are either already in place or will arrive imminently in many countries across the globe, and it's clear that it may be a long time yet until things return to relative normality.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The eighth RPS 2021 Christmas Cracker]]></title>
+        <id>https://www.rockpapershotgun.com/the-eighth-rps-2021-christmas-cracker</id>
+        <link href="https://www.rockpapershotgun.com/the-eighth-rps-2021-christmas-cracker"/>
+        <updated>2022-01-01T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every year our clone forms degrade, and Katharine spends the winter break copying each consciousness into a new body. Don't worry: we can't feel a thing! Since our new forms are still coming online from their time spent in the primordial flesh soup vat of the RPS Treehouse, we can't post over Christmas, so we've prepared some Christmas Cracker jokes instead! You can help fund the research into longer-lasting clone bodies with the RPS supporter program.
+ Now, time to enjoy your nice joke!
+Q: What kind of colourful legume is the main ingredient for rainbow humous?
+Read more]]></summary>
+        <author>
+            <name>RPS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[We’re streaming Inscryption and Red Dead Redemption 2]]></title>
         <id>https://www.destructoid.com/?p=302601</id>
@@ -644,16 +670,6 @@ Read more...]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Microsoft-Linux-OSS-2021"/>
         <updated>2021-12-31T09:50:09.000Z</updated>
         <summary type="html"><![CDATA[Each year it's interesting to see how Microsoft's usage and contributions around Linux and open-source evolve. In a short period of time they go from sponsoring coffee at LinuxTag to enabling .NET and more on Linux to now in 2021 having made public their CBL-Mariner Linux distribution, supporting more features like eBPF and IO_uring on Windows, and continue heavily investing in the Windows Subsystem for Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice Working On A New Cairo Graphics Back-End]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LibreOffice-SvpGraphicsBackend</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LibreOffice-SvpGraphicsBackend"/>
-        <updated>2021-12-31T09:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Merged yesterday into the LibreOffice code-base was introducing yet another graphics drawing back-end for this open-source office suite...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -1327,19 +1343,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[As one of the last major feature changes heading into Mesa Git this calendar year, RadeonSI Gallium3D as the open-source OpenGL driver for modern AMD Radeon GPUs there is now sparse texture support...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reminder: Nintendo's Massive Switch eShop Sale Ends Today (Europe)]]></title>
-        <id>https://www.nintendolife.com/#article-124973</id>
-        <link href="https://www.nintendolife.com/news/2021/12/reminder-nintendos-massive-switch-eshop-sale-ends-today-europe"/>
-        <updated>2021-12-30T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Well, that's Thursday afternoon sorted.
-Update: Just a reminder that Nintendo's European Switch eShop sale finishes today — just before the stroke of midnight local time, in fact. If you've held off picking up any digital bargains over the holidays (like Saints Row IV, for example), today's your last chance!
-Well, until the next sale, at least. If you're after specific recommendations for absolute bargains to pick up before the end of the day, check out our guide below:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2287,6 +2290,16 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=systemd-2021-commits"/>
         <updated>2021-12-28T12:09:43.000Z</updated>
         <summary type="html"><![CDATA[With the continuously growing set of features and functionality provided by systemd, this year saw the project hitting record growth in terms of commit activity that easily surpassed prior years. Surprisingly, Lennart Poettering dropped from his spot as the one responsible for the most commits each year...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's Mesa D3D12 Gallium3D Code Adds Support For OpenGL SSBOs]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Microsoft-D3D12-Mesa-SSBO</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Microsoft-D3D12-Mesa-SSBO"/>
+        <updated>2021-12-28T10:59:16.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft continues improving the Gallium3D Direct3D 12 path within Mesa for getting more of OpenGL running atop it on Windows...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -3793,18 +3806,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Rick Lane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kung-fu beat 'em up Sifu only gets better with age]]></title>
-        <id>https://www.rockpapershotgun.com/kung-fu-beat-em-up-sifu-only-gets-better-with-age</id>
-        <link href="https://www.rockpapershotgun.com/kung-fu-beat-em-up-sifu-only-gets-better-with-age"/>
-        <updated>2021-12-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been hands-on with Sifu, a beat ‘em up action-adventure game by Absolver developers Sloclap. My hands weren’t exactly “on”, but more “around”, actually. That’s one thing I learned from my time with this kung-fu caper. To keep my fists flowing, I needed to be patient, and not mash the buttons. Seriously, slap those buttons with zero thought and you’re dead.
-Death in Sifu means you age, and if you die lots, you age faster. Hit 70 and you won’t be rising from the dirt again. Instead, you'll have to start your quest for vengeance over from the beginning. While it can be tempting to cling onto your youth for this reason alone, I actually liked growing old, with my beard and my harder-hitting attacks. Not only do you develop a relationship with your body in Sifu, but your trips to the afterlife also help you master its myriad of moves. Sifu really does get better with age.
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
         </author>
     </entry>
     <entry>
