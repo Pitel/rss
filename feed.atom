@@ -1,16 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-03T08:20:06.475Z</id>
+    <id>urn:2022-01-03T10:17:54.744Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-03T08:20:06.475Z</updated>
+    <updated>2022-01-03T10:17:54.744Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rychlý linker mold]]></title>
+        <id>www.root.cz-actuality-43179</id>
+        <link href="https://www.root.cz/zpravicky/rychly-linker-mold/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-03T09:49:40.000Z</updated>
+        <summary type="html"><![CDATA[Před svátky se objevil nový rychlý linker mold (zkratka modern ld, také plíseň). Jde o náhradu GNU ld.bfd, ld.gold nebo LLVM lld, přičemž mold je na stroji s osmi jádry asi 20× rychlejší než gold a asi 4× rychlejší než lld. Mold je tak rychlý, že je jen 2× pomalejší než  cp.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam On Linux Ended 2021 At 1.11% Marketshare]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Linux-December-2021</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Linux-December-2021"/>
+        <updated>2022-01-03T09:38:37.000Z</updated>
+        <summary type="html"><![CDATA[After a reporting snafu over the weekend, Valve has now made available the December 2021 results of the Steam Survey. This metric has been quite interesting to monitor with the increases since Steam Play (Proton) was first introduced but particularly in recent months since the announcement of the Linux-powered Steam Deck causing more excitement around Linux gaming and more people trying out the current state of Steam Play...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zrychlení kompilace jádra o 50-80 %]]></title>
         <id>www.root.cz-actuality-43178</id>
         <link href="https://www.root.cz/zpravicky/zrychleni-kompilace-jadra-o-50-80/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-01-03T08:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Vývojář jádra Ingo Molnár přes rok pracoval na zrychlení hlavičkových souborů jádra. Například main.h se zde vyskytuje asi 10 tisíc krát. Vzájemné závislosti navíc vedou k „dependency hell“.]]></summary>
+        <summary type="html"><![CDATA[Vývojář jádra Ingo Molnár přes rok pracoval na zrychlení práce s hlavičkovými soubory jádra. Například hlavních .h souborů je asi 10 tisíc. Vzájemné závislosti navíc vedou k „dependency hell“.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
@@ -1789,16 +1809,6 @@ Ignoring rumors of above-ground and underground cities and Antarctic metropolise
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RadeonSI Gallium3D Driver Adds Sparse Texture Support For GFX9/Vega & Newer]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-Sparse-Textures</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-Sparse-Textures"/>
-        <updated>2021-12-30T11:10:00.000Z</updated>
-        <summary type="html"><![CDATA[As one of the last major feature changes heading into Mesa Git this calendar year, RadeonSI Gallium3D as the open-source OpenGL driver for modern AMD Radeon GPUs there is now sparse texture support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Behold, A Japanese Hand Massaging Device For Gamers]]></title>
         <id>1848285815</id>
         <link href="https://kotaku.com/behold-a-japanese-hand-massaging-device-for-gamers-1848285815"/>
@@ -3070,16 +3080,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>RPS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimalizace kompilátoru AMD AOCC 3.2 zrychlují běh programů na Zen 3]]></title>
-        <id>www.root.cz-actuality-43154</id>
-        <link href="https://www.root.cz/zpravicky/optimalizace-kompilatoru-amd-aocc-3-2-zrychluji-beh-programu-na-zen-3/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-22T12:25:11.000Z</updated>
-        <summary type="html"><![CDATA[AMD s nejnovější aktualizací svého balíku kompilátorů založených na projektech LLVM/Clang/Flang přidává další drobné výkonnostní optimalizace. Phoronix přeměřil tři poslední verze této trojkové řady osmijádrovém EPYCu 72F3 a v průměru to vychází tak, že s verzí 3.2 běhají programy oproti AOCC zhruba o dvě a půl procenta rychleji.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
