@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-03T06:19:46.501Z</id>
+    <id>urn:2022-01-03T08:20:06.475Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-03T06:19:46.501Z</updated>
+    <updated>2022-01-03T08:20:06.475Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zrychlení kompilace jádra o 50-80 %]]></title>
+        <id>www.root.cz-actuality-43178</id>
+        <link href="https://www.root.cz/zpravicky/zrychleni-kompilace-jadra-o-50-80/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-03T08:04:54.000Z</updated>
+        <summary type="html"><![CDATA[Vývojář jádra Ingo Molnár přes rok pracoval na zrychlení hlavičkových souborů jádra. Například main.h se zde vyskytuje asi 10 tisíc krát. Vzájemné závislosti navíc vedou k „dependency hell“.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Definitivní konec podpory proprietárních mobilních operačních systémů BlackBerry 10, BlackBerry OS a BlackBerry PlayBook OS]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/definitivni-konec-podpory-proprietarnich-mobilnich-operacnich-systemu-blackberry-10-blackberry-os-a-blackberry-playbook-os</id>
@@ -3068,16 +3078,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/optimalizace-kompilatoru-amd-aocc-3-2-zrychluji-beh-programu-na-zen-3/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2021-12-22T12:25:11.000Z</updated>
         <summary type="html"><![CDATA[AMD s nejnovější aktualizací svého balíku kompilátorů založených na projektech LLVM/Clang/Flang přidává další drobné výkonnostní optimalizace. Phoronix přeměřil tři poslední verze této trojkové řady osmijádrovém EPYCu 72F3 a v průměru to vychází tak, že s verzí 3.2 běhají programy oproti AOCC zhruba o dvě a půl procenta rychleji.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.17 přinese důležitou aktualizaci pro mobilní Intel Alder Lake]]></title>
-        <id>www.root.cz-actuality-43153</id>
-        <link href="https://www.root.cz/zpravicky/linux-5-17-prinese-dulezitou-aktualizaci-pro-mobilni-intel-alder-lake/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-22T12:11:40.000Z</updated>
-        <summary type="html"><![CDATA[Přespříští verze jádra přinese kromě spousty jiných věcí (viz první a druhý díl našeho přehledu) také důležitou opravu pro mobilní procesory rodiny Intel Alder Lake. Bez ní systém není schopen využívat frekvenční možnosti při jednojádrové zátěži (kdy Intel dovoluje provozovat CPU jádro na velmi nadstandardních frekvencích, jsou-li splněny limity spotřeby či provozní teploty).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
