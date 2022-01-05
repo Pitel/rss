@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-05T06:13:05.939Z</id>
+    <id>urn:2022-01-05T08:13:04.200Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-05T06:13:05.939Z</updated>
+    <updated>2022-01-05T08:13:04.200Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Has Been Quietly Developing "GFR" To Debug Vulkan GPU Hangs/Crashes]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Graphics-Flight-Recorder</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Graphics-Flight-Recorder"/>
+        <updated>2022-01-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last year Google quietly open-sourced the Graphics Flight Recorder (GFR) for sorting out GPU hangs and crashes. GFR is implemented as an implicit Vulkan layer that works on both Windows and Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: Metroid Prime Hunters Composer Reflects On The Stressful Times At Nintendo]]></title>
+        <id>https://www.nintendolife.com/#article-125484</id>
+        <link href="https://www.nintendolife.com/news/2022/01/random-metroid-prime-hunters-composer-reflects-on-the-stressful-times-at-nintendo"/>
+        <updated>2022-01-05T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA["It was stressful to work on such high-profile games".
+Lawrence Schwedler spent over 13 years at Nintendo Software Technology as an audio director, composing music for games like Metroid Prime Hunters on the DS, Wave Race: Blue Storm on the GameCube, Pokémon Puzzle League on N64 and even the Chibi Robo series.
+While it was "great and happy" most of the time, in a recent interview with the Kiwi Talkz podcast, Schwedler acknowledged how his job at Nintendo was also resulted in some of the most stressful times of his life due to pressures, expectations and other factors in play.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metacritic Reveals The Highest-Scoring Nintendo Switch Games Of 2021]]></title>
         <id>https://www.nintendolife.com/#article-125379</id>
@@ -64,6 +87,16 @@ PlayStation President Jim Ryan took the stage to provide details on the compan
 Technical specifications of PSVR2 have been posted on the PlayStation Blog which reveals all kinds of cool tidbit about the headset and controllers. PSVR2 will feature OLED 2000x2040 resolution screens per eye which…]]></summary>
         <author>
             <name>John Carson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome 97]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/google-chrome-97</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/google-chrome-97"/>
+        <updated>2022-01-05T01:51:22.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome 97 byl prohlášen za stabilní. Nejnovější stabilní verze 97.0.4692.71 přináší řadu oprav a vylepšení (YouTube). Zdůraznit lze WebTransport. Opraveno bylo 37 bezpečnostních chyb. Vylepšeny byly také nástroje pro vývojáře (YouTube). Zdůraznit je nutno Recorder aneb možnost nahrávání a přehrávání chování uživatele na stránce.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1239,19 +1272,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: Remember That $250 Switch eShop Game? It's Currently On Sale For Just $2.50]]></title>
-        <id>https://www.nintendolife.com/#article-125433</id>
-        <link href="https://www.nintendolife.com/news/2022/01/random-remember-that-usd250-switch-eshop-game-its-currently-on-sale-for-just-usd2-50"/>
-        <updated>2022-01-04T03:15:00.000Z</updated>
-        <summary type="html"><![CDATA[That's one hell of a discount.
-
-Back in November, you might recall a story about the price of the Switch eShop game Membrane jumping from $10 to $250.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hugin 2021.0.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/hugin-2021.0.0</id>
         <link href="http://www.abclinuxu.cz/zpravicky/hugin-2021.0.0"/>
@@ -1675,16 +1695,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A patch series sent out by IBM would introduce a new "LEGACY_PCI" Kconfig option for gating legacy PCI device support, including PCI devices attached to PCI-to-PCIe bridges and PCIe devices using legacy I/O spaces...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mdadm 4.2]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/mdadm-4.2</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/mdadm-4.2"/>
-        <updated>2022-01-03T11:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Po více než třech letech od vydání verze 4.1 byla vydána nová verze 4.2 nástroje mdadm (Wikipedie) pro správu softwarových RAID polí v Linuxu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2127,16 +2137,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-F1-2021-Flicker"/>
         <updated>2022-01-01T11:48:54.000Z</updated>
         <summary type="html"><![CDATA[For those wanting to enjoy the F1 2021 racing game on Linux via Valve's Steam Play, it's slowly getting into good shape. The latest enhancement is on the Radeon Vulkan driver side with Mesa's RADV adding a workaround targeting the game...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astounding Progress Made In Porting Wine To Haiku For Running Windows Software]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-On-Haiku-Starts-2022</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-On-Haiku-Starts-2022"/>
-        <updated>2022-01-01T11:14:57.000Z</updated>
-        <summary type="html"><![CDATA[Haiku as the open-source operating system in development for two decades as the inspirational successor to BeOS is kicking off 2022 by.... beginning to be able to run Windows applications via Wine. There is great progress being made in porting Wine to running on Haiku...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
