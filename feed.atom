@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-06T08:13:29.211Z</id>
+    <id>urn:2022-01-06T10:11:41.798Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-06T08:13:29.211Z</updated>
+    <updated>2022-01-06T10:11:41.798Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel AMX Support For KVM Use May Be Ready For Mainline]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-AMX-KVM-v5</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-AMX-KVM-v5"/>
+        <updated>2022-01-06T10:02:59.000Z</updated>
+        <summary type="html"><![CDATA[In preparation for Xeon Scalable "Sapphire Rapids" processors, Linux 5.16 adds support for Advanced Matrix Extensions. But that AMX bring-up is more invasive than when introducing AVX as with AMX the feature needs to be "requested" for use by user-space, among other changes. As such extra handling also needed to be introduced for the Kernel-based Virtual Machine (KVM) that hadn't made it for v5.16 but now it looks like the AMX KVM support may be ready for mainline...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 36 Looking To Move Users Away From Legacy "ifcfg" Network Scripts]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-36-Remove-ifcfg</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-36-Remove-ifcfg"/>
+        <updated>2022-01-06T09:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Longtime Linux users will likely recall when it was commonplace to modify /etc/sysconfig/network-scripts/ifcfg-* files for managing your network connections. Fortunately, that's largely a thing of the past and Fedora 36 is looking to remove support for those legacy network configuration files from new Fedora installs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konami Is Celebrating Castlevania's 35th With An NFT Auction]]></title>
+        <id>https://www.nintendolife.com/#article-125539</id>
+        <link href="https://www.nintendolife.com/news/2022/01/konami-is-celebrating-castlevanias-35th-with-an-nft-auction"/>
+        <updated>2022-01-06T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA["KONAMI will continue to explore new developments" in NFT and blockchain, too.
+This year, Konami's Castlevania series turns 35, which might fill you with the hope that the Japanese veteran has plans to release a new game or a special collection of past titles. However, we're sad to report that – for now, at least – Konami's celebrations consist of an auction of NFT artwork relating to the series.
+The 'KONAMI MEMORIAL NFT collection' features '14 unique artworks from the Castlevania series' consisting of 'game scenes, background music (BGM), and newly drawn visuals from across the series’ history.'
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brave opět zaznamenal meziroční zdvojnásobení počtu uživatelů]]></title>
         <id>www.root.cz-actuality-43191</id>
@@ -1143,19 +1176,6 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2022-01-05T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyrule Warriors: Age Of Calamity Has Now Shipped Over 4 Million Units]]></title>
-        <id>https://www.nintendolife.com/#article-125482</id>
-        <link href="https://www.nintendolife.com/news/2022/01/hyrule-warriors-age-of-calamity-has-now-shipped-over-4-million-units"/>
-        <updated>2022-01-05T03:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Link should be pleased.
-Hyrule Warriors: Age of Calamity arrived on the scene in November 2020, and since then has received not one - but two DLC waves, adding new playable characters, stages, weapons, and more.
-If you have played this Switch release, you're not alone - with Koei Tecmo announcing the title has now shifted more than four million copies worldwide. This includes both digital and physical sales. Since Age of Calamity's previous report in April last year, the game has sold around an additional 300k units.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2435,26 +2455,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Vyšla nová verze Ubuntu s prostředím Deepin s názvem UbuntuDDE Remix 21.10. Na konci roku 2021 skončila podpora distribuce CentOS verze 8. Nezávislá průběžně aktualizovaná distribuce Chakra GNU/Linux ukončila svou činnost.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.16-rc8 Is A Tiny Holiday Release]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-rc8</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-rc8"/>
-        <updated>2022-01-02T22:50:22.000Z</updated>
-        <summary type="html"><![CDATA[Linux 5.16-rc8 is out today as a tiny holiday test candidate. If it weren't for the holidays, Linus Torvalds would have released the Linux 5.16 kernel today as stable but instead opted for an extra week of post-holiday testing...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 7.0-rc4 Released With Another 38 Fixes]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-7.0-rc4-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-7.0-rc4-Released"/>
-        <updated>2022-01-02T22:36:46.000Z</updated>
-        <summary type="html"><![CDATA[It's coming a few days late due to New Year's, but Wine 7.0-rc4 is out as the latest weekly release candidate for this forthcoming yearly stable release. Wine 7.0 is the imminent feature update for this open-source software allowing Windows games/applications to run on Linux, macOS, and other platforms...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
