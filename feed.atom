@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-07T06:13:10.621Z</id>
+    <id>urn:2022-01-07T08:13:15.103Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-07T06:13:10.621Z</updated>
+    <updated>2022-01-07T08:13:15.103Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EXT4 bude umět měnit label online]]></title>
+        <id>www.root.cz-actuality-43194</id>
+        <link href="https://www.root.cz/zpravicky/ext4-bude-umet-menit-label-online/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-07T08:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Volání FS_IOC_GETFSLABEL a FS_IOC_SETFSLABEL pro čtení a zápis labelu na mountovaný souborový systém se objevila v BTRFS a v jádře 4.18 byla zobecněna na libovolný FS. Podporu v roce 2019 dostaly souborové systémy  XFS a F2FS.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 7.0's Many Features From Better Theming To Improved HiDPI To New Joystick Driver]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-7.0-Features</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-7.0-Features"/>
+        <updated>2022-01-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We are closing in on the release of Wine 7.0 as the annual stable feature release for this open-source software that allows running Windows games and applications under Linux, macOS, BSDs, and other platforms. Here is a recap of the many changes being introduced since last year's Wine 6.0 milestone...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyšel Linux Mint 20.3 Una]]></title>
+        <id>www.root.cz-actuality-43193</id>
+        <link href="https://www.root.cz/zpravicky/linux-mint-20-3-una/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-07T07:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Linux Mint 20.3 Una je konečně venku. Po delším odstupu od vydání betaverze 14. prosince 2021 je možné přes aktualizaci systému povýšit na verzi 20.3. Na oficiálních stránkách Linux Mint ještě není možnost stahovat instalační obrazy nejnovější verze 20.3, nicméně lze očekávat, že se tak stane v nejbližších hodinách. Pravděpodobně je potřeba sesynchronizovat instalační zrcadla.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: anonymní)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capcom Is Adding Screen Filters To The PC Version Of Monster Hunter Rise]]></title>
+        <id>https://www.nintendolife.com/#article-125590</id>
+        <link href="https://www.nintendolife.com/news/2022/01/capcom-is-adding-screen-filters-to-the-pc-version-of-monster-hunter-rise"/>
+        <updated>2022-01-07T06:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Can we have them on Switch, please?
+Ahead of the launch of Monster Hunter Rise on Steam next week, Capcom has released a new trailer highlighting the PC version and some new features.
+There'll be screen filters (Black & white, Sepia, Japanese Style, Warring Lands Style, Cinema Style), ultrawide display support, high-res textures, uncapped framerate and various other customisation options. The game also promises to be more vibrant than ever before.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 5.17 Random Number Generator Seeing Speed-Ups, Switching From SHA1 To BLAKE2s]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-RNG</id>
@@ -49,6 +92,16 @@ It'll start on 21st January and through until 25th January. Players who earn 100
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webový prohlížeč Brave používá 50,2 milionů uživatelů měsíčně. Vydána verze 1.34]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/webovy-prohlizec-brave-pouziva-50-2-milionu-uzivatelu-mesicne.-vydana-verze-1.34</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/webovy-prohlizec-brave-pouziva-50-2-milionu-uzivatelu-mesicne.-vydana-verze-1.34"/>
+        <updated>2022-01-07T02:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři Brave (Wikipedie, GitHub) oznámili, že tento webový prohlížeč používá již 50,2 milionů aktivních uživatelů měsíčně a 15,5 milionů aktivních uživatelů denně. V únoru loňského roku to bylo 25 milionů a 8 milionů. Vydána byla nová verze 1.34. Postavena je na Chromiu 97.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1107,19 +1160,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Longtime Linux users will likely recall when it was commonplace to modify /etc/sysconfig/network-scripts/ifcfg-* files for managing your network connections. Fortunately, that's largely a thing of the past and Fedora 36 is looking to remove support for those legacy network configuration files from new Fedora installs...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konami Is 'Celebrating' Castlevania's 35th With An NFT Auction]]></title>
-        <id>https://www.nintendolife.com/#article-125539</id>
-        <link href="https://www.nintendolife.com/news/2022/01/konami-is-celebrating-castlevanias-35th-with-an-nft-auction"/>
-        <updated>2022-01-06T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA["KONAMI will continue to explore new developments" in NFT and blockchain, too.
-This year, Konami's Castlevania series turns 35, which might fill you with the hope that the Japanese veteran has plans to release a new game or a special collection of past titles. However, we're sad to report that – for now, at least – Konami's celebrations consist of an auction of NFT artwork relating to the series.
-The 'KONAMI MEMORIAL NFT collection' features '14 unique artworks from the Castlevania series' consisting of 'game scenes, background music (BGM), and newly drawn visuals from across the series’ history.'
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2384,16 +2424,6 @@ Muddy tires, breakneck speeds, and whiplash-inducing drifts are the name of the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenDrop, open source implementace AirDropu]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/opendrop-open-source-implementace-airdropu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/opendrop-open-source-implementace-airdropu"/>
-        <updated>2022-01-04T12:51:37.000Z</updated>
-        <summary type="html"><![CDATA[OpenDrop je open source implementace AirDropu, tj. proprietární služby pro přenos souborů mezi zařízeními od společnosti Apple. Jedná se o součást projektu Open Wireless Link.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Podpora ARMv9.3-A míří do LLVM/Clang]]></title>
         <id>www.root.cz-actuality-43185</id>
         <link href="https://www.root.cz/zpravicky/podpora-armv9-3-a-miri-do-llvm-clang/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2567,16 +2597,6 @@ Sadly, what’s revealed in the report is not at all uncommon in video game deve
         <link href="https://www.phoronix.com/vr.php?view=30823"/>
         <updated>2022-01-03T19:25:36.000Z</updated>
         <summary type="html"><![CDATA[Next month marks two years since AMD introduced the Ryzen Threadripper 3990X 64-core / 128-thread processor. All of our testing of the 3990X on Linux over the past two years has been with the System76 Thelio Major, which continues holding up well with that US-assembled workstation with hand-crafted enclosure from Colorado. With System76 having recently released Pop!_OS 21.10 as the latest update to their Ubuntu Linux derived operating system and upcoming two year anniversary of the 3990X, it made for an interesting time to see how the performance of the Ryzen Threadripper 3990X and Radeon RX 5700 XT within that workstation has evolved.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel IGC 1.0.9933 Brings DG2/Alchemist & Xe HPC Improvements, More SPIR-V Plumbing]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=IGC-1.0.9933</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=IGC-1.0.9933"/>
-        <updated>2022-01-03T18:49:27.000Z</updated>
-        <summary type="html"><![CDATA[Starting off a new year Intel's open-source compute stack developers have published the Intel Graphics Compiler (IGC) 1.0.9933 release that is used for their OpenCL / oneAPI Level Zero support on Linux and also used by their graphics driver on Windows...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -2931,26 +2951,6 @@ Q: What horrible smell travels around corners really fast?
 Read more]]></summary>
         <author>
             <name>RPS</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora chce změnit výchozí font u všech jazyků na Noto]]></title>
-        <id>www.root.cz-actuality-43170</id>
-        <link href="https://www.root.cz/zpravicky/fedora-chce-zmenit-vychozi-font-u-vsech-jazyku-na-noto/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-30T08:57:58.000Z</updated>
-        <summary type="html"><![CDATA[Fedora už velmi dlouho používá pro evropské a další jazyky font DejaVu, který ovšem zdaleka nepokrývá všechny jazykové varianty. Pro některé jiné jazyky (čínština, japonština, korejština a další) se používá výchozí font Noto. Tato rozpolcenost vede k nekonzistentnímu vykreslování písem v některých aplikacích a Fedora tak plánuje logické sjednocení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zařízení s BlackBerry OS přestanou fungovat 4. ledna 2022]]></title>
-        <id>www.root.cz-actuality-43169</id>
-        <link href="https://www.root.cz/zpravicky/zarizeni-s-blackberry-os-prestanou-fungovat-4-ledna-2022/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-30T08:33:35.000Z</updated>
-        <summary type="html"><![CDATA[Pokud stále používáte starší telefon značky BlackBerry s operačním systémem BlackBerry OS, nastal nejvyšší čas na nový přístroj. Těmto zařízením totiž skončí podpora už 4. ledna 2022.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
