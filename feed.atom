@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-09T10:11:04.826Z</id>
+    <id>urn:2022-01-09T12:16:29.242Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-09T10:11:04.826Z</updated>
+    <updated>2022-01-09T12:16:29.242Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feature: Nintendo Life eShop Selects - December 2021]]></title>
+        <id>https://www.nintendolife.com/#article-125465</id>
+        <link href="https://www.nintendolife.com/features/nintendo-life-eshop-selects-december-2021"/>
+        <updated>2022-01-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[December's best Switch eShop games!
+Rounding off 2021 in style, December was yet another cracking month for downloadable delights on the Switch eShop.
+These awards aim to celebrate the best of Nintendo's digital store, giving some love and attention to the games that could so easily be missed in the Switch's ever-growing library.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MGLRU Is A Very Enticing Enhancement For Linux In 2022]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-MGLRU-v6-Linux</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-MGLRU-v6-Linux"/>
+        <updated>2022-01-09T11:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Going back a number of months Google engineers have been working to address the issue of the Linux kernel's page reclaim code being too expensive for which they devised the multi-generational LRU framework "MGLRU" and it continues being worked on with mainline ambitions...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sway 1.7 Nears Release With Less Abrasive NVIDIA Option, Zero-Copy Direct Scanout]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Sway-1.7-rc2</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Sway-1.7-rc2"/>
+        <updated>2022-01-09T11:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Sway 1.7 is up to its second release candidate for this popular i3-inspired Wayland lightweight compositor...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.17 To Introduce Cirrus CS35L41 HD Audio Codec Driver]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-Cirrus-CS35L41</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-Cirrus-CS35L41"/>
+        <updated>2022-01-09T11:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Among many other sound driver changes destined for the upcoming Linux 5.17 cycle, Cirrus Logic has contributed CS35L41 HD audio codec support in the form of a new sound driver, cs35l41_hda...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-624</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-624"/>
+        <updated>2022-01-09T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for emerging from isolation, bleary-eyed and excited to breathe fresh air. Before stretch those legs, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Distrobox To Augment The Package Selection On Clear Linux, Other Distributions]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Distrobox-Clear-Linux</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Distrobox-Clear-Linux"/>
+        <updated>2022-01-09T10:22:47.000Z</updated>
+        <summary type="html"><![CDATA[While our testing has consistently shown how Clear Linux can deliver leading performance on Intel/AMD x86_64 platforms, one of the user criticisms to that distribution has been around the limited selection of packaged software especially on the desktop side. But the rather interesting Distrobox can help address that by leveraging Podman or Docker to run other Linux distribution user-space software packages atop...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random: Nintendo Kart Is Trending On Social Media, Following Claims Of Mario Kart 9 Being "In Active Development"]]></title>
         <id>https://www.nintendolife.com/#article-125649</id>
@@ -1301,19 +1365,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sega Could Reverse Decision To Sell NFTs Following Fan Backlash]]></title>
-        <id>https://www.nintendolife.com/#article-125601</id>
-        <link href="https://www.nintendolife.com/news/2022/01/sega-could-reverse-decision-to-sell-nfts-following-fan-backlash"/>
-        <updated>2022-01-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA["We need to carefully assess many things".
-Sega could choose to avoid selling NFTs and halt its plans regarding Play-to-Earn schemes in response to fan feedback, the company has announced.
-Back in April last year, Sega revealed that it had teamed up with game developer Double Jump.Tokyo with the intention of launching NFT content relating to the company's classic and current IPs, as well as upcoming projects. Fan reaction to the news appeared to be largely negative from the off, as has been the case with most games industry NFT announcements since, and it hasn't gone unnoticed.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unsighted's timer-free Explorer mode is a totally valid way to play, say devs]]></title>
         <id>https://www.rockpapershotgun.com/unsighteds-timer-free-explorer-mode-is-a-totally-valid-way-to-play-say-devs</id>
         <link href="https://www.rockpapershotgun.com/unsighteds-timer-free-explorer-mode-is-a-totally-valid-way-to-play-say-devs"/>
@@ -2486,46 +2537,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Na světě je další nová verze webového prohlížeče Chrome 97. Přináší novou možnost pro rychlé předávání dat mezi klientem a serverem. Web Transport má nízkou latenci a je obousměrný. Nabízí jak spolehlivé předávání skrze Streams API, tak nespolehlivé skrze Datagram API. Na straně serveru vyžaduje podporu HTTP/3.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LatencyFleX Is An Open-Source, Vendor-Agnostic Alternative To NVIDIA Reflex]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LatencyFleX-Open-Source</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LatencyFleX-Open-Source"/>
-        <updated>2022-01-05T10:48:31.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA Reflex is an SDK for game developers for measuring and reducing rendering latency.  But now there is an alternative, open-source implementation of those APIs that can work across drivers/vendors while still helping to reduce rendering latency: meet LatencyFleX...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux's CleanCache Set To Be Cleaned From The Kernel After Being Hyped Up A Decade Ago]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Cleancache-EOL</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Cleancache-EOL"/>
-        <updated>2022-01-05T10:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Merged into the mainline Linux kernel a decade ago was the CleanCache patch series but now it's set to be retired...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon Linux Driver Adds Option To Limit Number Of Enabled CUs]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Limit-CUs</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Limit-CUs"/>
-        <updated>2022-01-05T10:08:28.000Z</updated>
-        <summary type="html"><![CDATA[The RadeonSI Gallium3D and RADV Vulkan drivers within Mesa 22.0 have now added an override for controlling the number of enabled compute units (CUs) for the graphics processor...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Has Been Quietly Developing "GFR" To Debug Vulkan GPU Hangs/Crashes]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Graphics-Flight-Recorder</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Graphics-Flight-Recorder"/>
-        <updated>2022-01-05T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last year Google quietly open-sourced the Graphics Flight Recorder (GFR) for sorting out GPU hangs and crashes. GFR is implemented as an implicit Vulkan layer that works on both Windows and Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3779,17 +3790,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Imogen Beckhelling</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best VR headset deals: Oculus and HTC discounts]]></title>
-        <id>https://www.rockpapershotgun.com/best-vr-headset-deals</id>
-        <link href="https://www.rockpapershotgun.com/best-vr-headset-deals"/>
-        <updated>2021-12-20T10:38:49.000Z</updated>
-        <summary type="html"><![CDATA[Once the most prestigious of luxury tech, VR headsets have become both cheaper and more popular over the last few years. A combination of competitive pricing, more user-friendly devices, and more fleshed-out VR games like Half-Life Alyx has seen headsets push deeper into the mainstream within the last 12 to 24 months.
-Read more]]></summary>
-        <author>
-            <name>Rick Lane</name>
         </author>
     </entry>
 </feed>
