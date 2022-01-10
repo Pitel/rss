@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-10T06:13:35.541Z</id>
+    <id>urn:2022-01-10T08:13:46.631Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-10T06:13:35.541Z</updated>
+    <updated>2022-01-10T08:13:46.631Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vyšlo jádro 5.16]]></title>
+        <id>www.root.cz-actuality-43197</id>
+        <link href="https://www.root.cz/zpravicky/vyslo-jadro-5-16/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-10T08:13:04.000Z</updated>
+        <summary type="html"><![CDATA[Včera Linus Torvalds vydal jádro 5.16. Mezi novinky patří podpora FUTEX2, která pomůže výkonu ve wine obzvláště her. Nová je podpora instrukcí Intelu AMX (Advanced Matrix Extensions), které najdeme patrně již letos v procesorech Sapphire Rapids. Jádro 5.16 také přinese větší výkon pro integrované GPU AMD.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Přijďte na školení MikroTik od základů po velkou síť a odnesete si router]]></title>
+        <id>www.root.cz-actuality-39043</id>
+        <link href="https://www.root.cz/zpravicky/prijdte-na-skoleni-mikrotik-od-zakladu-po-velkou-sit-a-odnesete-si-router/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-10T08:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[v1.12.0]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0</id>
@@ -17,6 +37,16 @@ Fixed #71 #69 #65
 Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.16]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/linux-5.16</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/linux-5.16"/>
+        <updated>2022-01-10T03:42:06.000Z</updated>
+        <summary type="html"><![CDATA[Po 10 týdnech vývoje od vydání Linuxu 5.15 oznámil Linus Torvalds vydání Linuxu 5.16 (LKML). Přehled nových vlastností a vylepšení na stránce Linux Kernel Newbies.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -51,9 +81,9 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: perzitentní malware pro iOS jménem NoReboot]]></title>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: perzistentní malware pro iOS jménem NoReboot]]></title>
         <id>www.root.cz-text-15845</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-perzitentni-malware-pro-ios-jmenem-noreboot/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-perzistentni-malware-pro-ios-jmenem-noreboot/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-01-09T23:00:10.000Z</updated>
         <summary type="html"><![CDATA[V aktuálním díle Postřehů se podíváme na problémy iOSu s žádnými, nebo naopak věčnými restarty. Dále na hledání log4j v kupce kódu, na výsledky testování několika EDR řešení a na to, jak můžete podpořit Norton 360 zapnutím zabudovaného kryptomineru.]]></summary>
         <author>
@@ -2254,16 +2284,6 @@ Are you excited to see what’s next for Playground Games? What do you hope to s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ASUS Zenbook 17 Fold OLED Laptop]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/asus-zenbook-17-fold-oled-laptop</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/asus-zenbook-17-fold-oled-laptop"/>
-        <updated>2022-01-05T22:48:23.000Z</updated>
-        <summary type="html"><![CDATA[Po skládacích telefonech přichází skládací tablety a notebooky. ASUS představil 17,3 palcový ASUS Zenbook 17 Fold OLED Laptop složitelný na 12,5 palce.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Valorant’s Newest Agent Revealed, Arrives Next Update]]></title>
         <id>116874</id>
         <link href="https://www.gameinformer.com/2022/01/05/valorants-newest-agent-revealed-arrives-next-update"/>
@@ -3070,16 +3090,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Log4jDetect na hledání zranitelností Log4j]]></title>
-        <id>www.root.cz-actuality-43174</id>
-        <link href="https://www.root.cz/zpravicky/log4jdetect-na-hledani-zranitelnosti-log4j/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-31T14:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Kritická zranitelnost logovacího frameworku Log4j byla objevena začátkem prosince a od té doby se objevilo několik dalších zranitelností. Pro zjednodušení detekce zranitelností v rozsáhlých projektech vznikl Log4jDetect používající programovací jazyk Go. Stačí programu předložit adresář s projektem, který bude prohledán. Podporovány jsou balíčkovače gradle, maven a bundle.  K tomu budou prohledány soubory .jar a .gem. Log4jDetect funguje na Linuxu, macOS i Windows.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The best games you missed in 2021: Tux and Fanny]]></title>
         <id>https://www.rockpapershotgun.com/the-best-games-you-missed-in-2021-tux-and-fanny</id>
         <link href="https://www.rockpapershotgun.com/the-best-games-you-missed-in-2021-tux-and-fanny"/>
@@ -3090,16 +3100,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kat Brewster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro 5.17 bude používat pro náhodná čísla BLAKE2s místo SHA1]]></title>
-        <id>www.root.cz-actuality-43173</id>
-        <link href="https://www.root.cz/zpravicky/jadro-5-17-bude-pouzivat-pro-dev-random-blake2s-misto-sha1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2021-12-31T10:03:56.000Z</updated>
-        <summary type="html"><![CDATA[Jason A. Donenfeld, známý jako vývojář WireGuardu, poslal včera do jádra opravu generátoru náhodných čísel. Jádro zde doposud používá funkci SHA1, která již několik let není považována za bezpečnou. Navíc ji používá nestandardním způsobem, takže dopředná bezpečnost (forward secrecy) je jen 280.  K tomu ještě se IV (initialization vector) přepisuje z instrukcí procesoru RDRAND a to i když je nastaveno nevěřit instrukci RDRAND.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
