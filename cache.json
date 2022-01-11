@@ -11,7 +11,7 @@
           "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nAdded docs for Netlify deployment\nFixed #71 #69 #65\nThank you: @sokomin, @molakirlee, @philippnagel, @tianheg",
           "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
           "publishedOn": "2022-01-10T05:25:18.000Z",
-          "wordCount": 308,
+          "wordCount": 310,
           "title": "v1.12.0"
         }
       ]
@@ -21,6 +21,33 @@
       "feedUrl": "https://kotaku.com/rss",
       "siteUrl": "https://kotaku.com",
       "articles": [
+        {
+          "id": "1848340335",
+          "author": "Ari Notis",
+          "description": "Halo Infinite. Forza Horizon 5. Game Pass’ unrelenting march toward global domination by way of indoctrinating everyone on the planet. It’s hard to imagine Xbox having a better year than 2021—and, to be sure, the console’s forthcoming slate certainly seems less luminescent than last year’s. But 2022 isn’t empty,…\nRead more...",
+          "link": "https://kotaku.com/what-to-expect-from-xbox-in-2022-1848340335",
+          "publishedOn": "2022-01-11T20:00:00.000Z",
+          "wordCount": 1432,
+          "title": "What To Expect From Xbox In 2022"
+        },
+        {
+          "id": "1848340107",
+          "author": "Ian Walker",
+          "description": "A new animation released this morning by The Pokémon Company provides a wonderfully intimate look at the life of one Bidoof, from its time as the outcast of its colony to champion of the Pokémon League.\n\nRead more...",
+          "link": "https://kotaku.com/new-pokemon-short-finally-gives-bidoof-the-respect-it-d-1848340107",
+          "publishedOn": "2022-01-11T19:20:00.000Z",
+          "wordCount": 422,
+          "title": "New Pokémon Short Finally Gives Bidoof The Respect It Deserves"
+        },
+        {
+          "id": "1848339737",
+          "author": "Isaiah Colbert",
+          "description": "Players have already discovered a bunch of unintentional, wacky, and physics-breaking antics since the launch of Halo Infinite, and a new vid shows that with the help of a fusion coil, the grapple hook, and some good old-fashioned no-clipping, you can launch yourself right out of the massive Banished starship you…\nRead more...",
+          "link": "https://kotaku.com/clipping-out-of-halo-infinite-s-first-level-requires-lu-1848339737",
+          "publishedOn": "2022-01-11T18:45:00.000Z",
+          "wordCount": 519,
+          "title": "Clipping Out Of Halo Infinite’s First Level Requires Luck, A Grapple, And One Plasma Coil"
+        },
         {
           "id": "1848339066",
           "author": "Sisi Jiang",
@@ -36,7 +63,7 @@
           "description": "On Monday, variety streamer Jeremy “Disguised Toast” Wang was banned from Twitch for watching Death Note, a 2007 Shonen anime licensed by Viz Media. What many hoped was only a short ban, especially after Imane “Pokimane” Anys was suspended for just 48 hours for a similar act, might stretch to an entire month,…\nRead more...",
           "link": "https://kotaku.com/disguised-toast-banned-from-twitch-for-watching-death-n-1848338545",
           "publishedOn": "2022-01-11T17:00:00.000Z",
-          "wordCount": 526,
+          "wordCount": 525,
           "title": "Disguised Toast Banned From Twitch For Watching Death Note Anime"
         },
         {
@@ -218,33 +245,6 @@
           "publishedOn": "2022-01-10T12:00:00.000Z",
           "wordCount": 1892,
           "title": "Your Winter 2022 Anime Guide"
-        },
-        {
-          "id": "1848329607",
-          "author": "Zack Zwiezen",
-          "description": "This week sees the release of some previously console-only games on PC. The God of War reboot-sequel-thing hits PC on January 14 and Monster Hunter Rise lands on PC two days earlier on January 12. \nRead more...",
-          "link": "https://kotaku.com/the-week-in-games-god-of-war-and-monster-hunter-arrive-1848329607",
-          "publishedOn": "2022-01-09T23:45:00.000Z",
-          "wordCount": 377,
-          "title": "The Week In Games: God of War and Monster Hunter Arrive On PC"
-        },
-        {
-          "id": "1848329428",
-          "author": "Zack Zwiezen",
-          "description": "Who needs Gordon Freeman aka the main protagonist of the original Half-Life game released back in 1998? The dude is boring. It’s time to move on to someone new. Someone like Spyro, that purple dragon from the Spyro The Dragon franchise. And thankfully, a new mod swaps the old Gordon for the (similarly old) Spyro,…\nRead more...",
-          "link": "https://kotaku.com/half-life-mod-ditches-gordon-for-spyro-the-dragon-1848329428",
-          "publishedOn": "2022-01-09T22:16:00.000Z",
-          "wordCount": 505,
-          "title": "Half-Life Mod Ditches Gordon For Spyro The Dragon"
-        },
-        {
-          "id": "1848329178",
-          "author": "Zack Zwiezen",
-          "description": "The last major update for Red Dead Online was released in July 2021. Since then, the game has received no major content updates. As 2022 starts, RDO fans have become fed up with the lack of content and communication from Rockstar and have collectively started the #SaveRedDeadOnline campaign to... well, save Red Dead…\nRead more...",
-          "link": "https://kotaku.com/red-dead-online-players-are-frustrated-after-months-wit-1848329178",
-          "publishedOn": "2022-01-09T20:00:00.000Z",
-          "wordCount": 557,
-          "title": "Red Dead Online Players Are Frustrated After Months Without A Major Update"
         }
       ]
     },
@@ -254,12 +254,48 @@
       "siteUrl": "https://www.nintendolife.com/feeds/latest",
       "articles": [
         {
+          "id": "https://www.nintendolife.com/#article-125759",
+          "author": null,
+          "description": "\"We are currently reviewing our partnership,\" says LEGO.\nThe LEGO Overwatch 2 \"Titan\" set pictured above was scheduled to come out next month, but The LEGO Group has decided to postpone the release following accusations of harassment, discrimination, and misconduct at the California-based offices of Activision Blizzard.\nActivision Blizzard, the video game giant responsible for Overwatch, Guitar Hero, and Call of Duty, was sued last year by the California Department of Fair Employment and Housing over allegations of \"pervasive frat boy workplace culture\", racism, and \"blatant sexual harassment\" which affected many of its employees.\nRead the full article on nintendolife.com",
+          "link": "https://www.nintendolife.com/news/2022/01/overwatch-2-lego-set-gets-shelved-following-activision-blizzard-lawsuit",
+          "publishedOn": "2022-01-11T20:00:00.000Z",
+          "wordCount": 804,
+          "title": "Overwatch 2 LEGO Set Gets Shelved Following Activision Blizzard Lawsuit"
+        },
+        {
+          "id": "https://www.nintendolife.com/#article-125755",
+          "author": null,
+          "description": "It's called \"Squirdle\".\nIf you've been on Twitter in the past week or two, you'll have probably seen a bunch of tweets with cryptic emoji squares. Tweets like this one:\nYou'll either know what these are, or you'll be annoyed that your entire feed is taken up with them. As it turns out, they're just the spoiler-free results of a game called Wordle — a daily, free, browser-based word-guessing game by a man named Josh Wardle (it's a play on his last name). It's simple and about as fun as doing the crossword, but what propelled it into virality is the enticingly mysterious way that you can share your results coded into squares.\nRead the full article on nintendolife.com",
+          "link": "https://www.nintendolife.com/news/2022/01/random-heard-of-wordle-now-theres-a-pokemon-version",
+          "publishedOn": "2022-01-11T19:30:00.000Z",
+          "wordCount": 1074,
+          "title": "Random: Heard Of Wordle? Now There's A Pokémon Version"
+        },
+        {
+          "id": "https://www.nintendolife.com/#article-125751",
+          "author": null,
+          "description": "Cat quest.\nQubyte Interactive and MiniCactus Games have announced that their brand new game, Unlock the Cat, will hit Switch this Thursday 13th January.\nTaking inspiration from classic Klotski puzzles — that's sliding block puzzles to us layfolk — the game sees players attempt to rescue a cute little kitty by moving a variety of objects around a board in order to open up a path home for the stranded creature.\nRead the full article on nintendolife.com",
+          "link": "https://www.nintendolife.com/news/2022/01/unlock-the-cat-a-minimalist-block-puzzler-slides-onto-switch-this-week",
+          "publishedOn": "2022-01-11T19:00:00.000Z",
+          "wordCount": 748,
+          "title": "'Unlock The Cat', A Minimalist Block Puzzler, Slides Onto Switch This Week"
+        },
+        {
+          "id": "https://www.nintendolife.com/#article-125753",
+          "author": null,
+          "description": "Malice aforethought.\nAnimal Crossing: New Horizons has no shortage of creators making strange, detailed, and wonderful things in the game, and now that the new update has added polish effects, even greater things are possible.\nNaydinfarCrossing — whose name you may recognise from her other Zelda recreations — is one of the eminent Zelda creators in Animal Crossing: New Horizons, and her latest work is made exceptional by the use of the new effects.\nRead the full article on nintendolife.com",
+          "link": "https://www.nintendolife.com/news/2022/01/random-this-detailed-animal-crossing-take-on-zelda-breath-of-the-wild-is-breathtaking",
+          "publishedOn": "2022-01-11T18:30:00.000Z",
+          "wordCount": 777,
+          "title": "Random: This Detailed Animal Crossing Take On Zelda: Breath Of The Wild Is Breathtaking"
+        },
+        {
           "id": "https://www.nintendolife.com/#article-125718",
           "author": null,
           "description": "Well, it depends...\n\nThe benefit of hindsight makes it easy to declare that the Switch was a masterstroke in design that could not fail. That'd be revisionism, of course, as Nintendo released the system against a rather challenging backdrop in early 2017. The Wii U had been a failure, and that's not hyperbole — it managed lifetime sales of just 13.56 million units, Nintendo's worst return aside from the Virtual Boy. After a tough launch, the 3DS established itself as a popular device and shifted a respectable 75.94 million units to date across its various models. For context, though, that's less than half the sales of the Nintendo DS family, the company's best-selling system to date with 154.02 million sales.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/features/talking-point-as-lifetime-switch-sales-jostle-with-the-mighty-wii-can-it-possibly-catch-ds",
           "publishedOn": "2022-01-11T18:00:00.000Z",
-          "wordCount": 1778,
+          "wordCount": 4018,
           "title": "Talking Point: As Lifetime Switch Sales Jostle With The Mighty Wii, Can It Possibly Catch DS?"
         },
         {
@@ -268,7 +304,7 @@
           "description": "Developer shares a beautiful soundscapes video, too.\nFAR: Lone Sails won over plenty of fans with its genre-mixing exploration gameplay in 2019, so we were rather pleased when a sequel was revealed last Summer. Now developer Okomotive and publisher Frontier Foundry have confirmed that FAR: Changing Tides will arrive on 1st March, with pre-orders to open on Switch eShop in February.\nYou can see some official details below, and it's worth noting that the developers have stressed that you don't need to play the first game in order to enjoy this sequel:\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/far-changing-tides-will-begin-its-journey-on-1st-march",
           "publishedOn": "2022-01-11T17:30:00.000Z",
-          "wordCount": 765,
+          "wordCount": 793,
           "title": "FAR: Changing Tides Will Begin Its Journey On 1st March"
         },
         {
@@ -277,7 +313,7 @@
           "description": "'Exclusive compilation' includes AC II, Brotherhood, Revelations, plus extras.\nUbisoft has announced Assassin’s Creed: The Ezio Collection for Switch, launching on 17th February. An age-gated launch trailer can be viewed on YouTube highlighting the release.\nThis long-rumoured collection will include the acclaimed Assassin's Creed II, the excellent Assassin's Creed Brotherhood, and Assassin's Creed Revelations, plus Assassin’s Creed Lineage and Assassin’s Creed Embers, two short films featuring Ezio.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/assassins-creed-the-ezio-collection-announced-for-switch-this-february",
           "publishedOn": "2022-01-11T17:10:00.000Z",
-          "wordCount": 2353,
+          "wordCount": 3175,
           "title": "Assassin's Creed: The Ezio Collection Announced For Switch This February"
         },
         {
@@ -286,7 +322,7 @@
           "description": "Prices dip as low as $5!\nHoping to bolster your Switch's library with a new Star Wars game or two? Well, you couldn't have picked a better time.\nYes, as part of Nintendo's current New Year sale, publisher and developer Aspyr has slashed the prices of its classic Star Wars ports. You can find all the info you need in our table below, but note that these deals can only be found on the North American eShop.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/aspyrs-star-wars-games-on-switch-are-currently-up-to-50percent-off-us",
           "publishedOn": "2022-01-11T17:00:00.000Z",
-          "wordCount": 1033,
+          "wordCount": 1338,
           "title": "Aspyr's Star Wars Games On Switch Are Currently Up To 50% Off (US)"
         },
         {
@@ -295,7 +331,7 @@
           "description": "Grab yourself a snack and tune in here...\nIf there's one thing in life that we can say with absolute certainty, it's that Bidoof is one excellent little beast.\nWe imagine the fine folks at The Pokémon Company feel the same way, because the delightful little beaver has been treated to its very own animation on the company's official YouTube channel. It's called 'Bidoof’s Big Stand', has a runtime of approximately eight minutes, and is lovely.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/the-pokemon-company-releases-bidoofs-big-stand-a-glorious-8-minute-animation",
           "publishedOn": "2022-01-11T16:30:00.000Z",
-          "wordCount": 1014,
+          "wordCount": 1164,
           "title": "The Pokémon Company Releases 'Bidoof's Big Stand', A Glorious 8-Minute Animation"
         },
         {
@@ -304,7 +340,7 @@
           "description": "Swords at the ready.\nMore than two years after its Japanese Switch version arrived, RS34's vertical shooter, Radirgy Swag, has finally seen a western release with the digital version of the game going live on the eShop just yesterday.\nThe latest entry in the Radirgy series, this colourful arcade shooter has a unique twist in the form of upgradeable player ships that utilise sword attacks alongside the usual laser fire, promoting up close and personal attacks on enemy craft which you'll need to destroy in order to earn XP and raise your level.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/out-now-radirgy-swag-unleashes-vertical-shoot-em-up-action-on-switch",
           "publishedOn": "2022-01-11T16:00:00.000Z",
-          "wordCount": 875,
+          "wordCount": 930,
           "title": "Out Now: Radirgy Swag Unleashes Vertical Shoot 'Em Up Action On Switch"
         },
         {
@@ -313,7 +349,7 @@
           "description": "And you can play in co-op!\nAfter enjoying a successful launch on Steam, roguelite platformer Vagante is headed to Nintendo Switch and other consoles later this month thanks to indie publisher, BlitWorks.\nDescribed as \"a very challenging class-based roguelike with an emphasis on combat,\" Vagante has players exploring procedurally generated levels either alone, or with friends in co-op mode. It sports an art style influenced by games like Final Fantasy Tactics, Tactics Ogre, and Vagrant Story, and features plenty of secrets to discover across its four distinct areas.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/vagante-is-a-final-fantasy-tactics-inspired-combat-platformer-coming-to-switch-soon",
           "publishedOn": "2022-01-11T15:30:00.000Z",
-          "wordCount": 1095,
+          "wordCount": 1180,
           "title": "Vagante Is A Final Fantasy Tactics-Inspired Combat Platformer Coming To Switch Soon"
         },
         {
@@ -322,7 +358,7 @@
           "description": "Gifting gore and irreverence this Valentine's Day.\nThe eShop is not short of retro-styled titles that show due reverence to iconic games of the 8- and 16-bit eras. From feisty ninjas in the likes of The Messenger and Cyber Shadow, to high profile efforts like Bloodstained: Curse of the Moon and its sequel, there are plenty of titles that are both throwbacks and very modern takes on genre classics. Another aiming to make its mark soon is Infernax, launching on Valentine's Day (14th February).\nThis retro-styled tribute has notable pedigree — it's been developed by Berzerk Studio, which brought us the outstanding Just Shapes & Beats. The publisher is The Arcade Crew, too, the Dotemu subsidiary that has helped deliver the likes of Blazing Chrome.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/features/hands-on-infernax-blends-the-best-of-zelda-ii-and-castlevania-ii-while-skipping-the-flaws",
           "publishedOn": "2022-01-11T15:00:00.000Z",
-          "wordCount": 2629,
+          "wordCount": 2712,
           "title": "Hands On: 'Infernax' Blends The Best Of Zelda II And Castlevania II While Skipping The Flaws"
         },
         {
@@ -331,7 +367,7 @@
           "description": "To stop abusive players skipping between systems.\nIt seems normal now, but you don't have to go too far back to get to a time when the concept of cross-play - online multiplayer across different platforms - was fanciful. Each console, PC and mobile platform operated in their own bubble, splitting up userbases and gaming communities.\nThe huge growth of online multiplayer, and especially free-to-play, has opened up cross-play as a relatively common feature. Titles that support this on Switch, for example, include Rocket League and Knockout City.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/xbox-boss-phil-spencer-wants-cross-platform-user-bans",
           "publishedOn": "2022-01-11T14:30:00.000Z",
-          "wordCount": 2770,
+          "wordCount": 3748,
           "title": "Xbox Boss Phil Spencer Wants Cross-Platform User Bans"
         },
         {
@@ -340,7 +376,7 @@
           "description": "From the creator of The Complex.\nNight Trap and Bandersnatch fans, rejoice: The FMV genre is not dead. In fact, it's now glitzier than ever, with the announcement of Aviary Studios' debut game, The Gallery, coming to the Nintendo Switch this April.\nThe Gallery, a \"part hostage thriller, part social drama\" choose-your-own-fate game, is set in both 1981 and 2021, as an art curator is held hostage by a portraitist who wants to paint them — and threatens to detonate a bomb if they are interrupted in any way.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/the-gallery-is-a-live-action-thriller-hoping-to-revive-the-fmv-genre-on-switch",
           "publishedOn": "2022-01-11T14:15:00.000Z",
-          "wordCount": 986,
+          "wordCount": 1040,
           "title": "'The Gallery' Is A Live-Action Thriller Hoping To Revive The FMV Genre On Switch"
         },
         {
@@ -367,7 +403,7 @@
           "description": "Update: Aaand they're gone.\nUpdate: And the £30 Metroid and Pokémon deals appear to have sold out in under an hour.\nA Dreadfully good deal that was worth Snapping up — and snapped up they were. Give us a shout in the comments if you got in quick and bagged a bargain.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/deals-metroid-dread-and-new-pokemon-snap-just-p30-at-amazon-uk-right-now",
           "publishedOn": "2022-01-11T12:10:00.000Z",
-          "wordCount": 1088,
+          "wordCount": 1092,
           "title": "Deals: Metroid Dread And New Pokémon Snap Just £30 At Amazon UK Right Now"
         },
         {
@@ -385,7 +421,7 @@
           "description": "Back for another round, in an alternate reality.\nRemember the shock of Sony entering the handheld market with the PSP? Many experts predicted that the sleek console would spell the end of Nintendo's dominance in the portable sector, and while the PSP was undoubtably a commercial success, it wasn't enough to unseat Nintendo's DS, which sold a whopping 154.02 million units worldwide (compared to the estimated 82 million units of the PSP).\nSony's successor, the PS Vita, was far less popular, with estimated sales of between 10 and 15 million – a fact which saw the Japanese tech giant pull out of the handheld arena to instead focus its energies on its home console line – which, based on the robust performance of the PS4, was a wise move.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/random-fan-made-next-gen-playstation-portable-concept-imagines-a-world-where-sony-takes-on-nintendo-again",
           "publishedOn": "2022-01-11T11:00:00.000Z",
-          "wordCount": 4928,
+          "wordCount": 5110,
           "title": "Random: Fan-Made 'Next-Gen PlayStation Portable' Concept Imagines A World Where Sony Takes On Nintendo (Again)"
         },
         {
@@ -394,7 +430,7 @@
           "description": "“Holy crap, man. This thing is fighting the crap out of me”.\nCourt documents have revealed details of a story of two LAPD officers who were fired from the force back in 2017 for playing Pokémon GO on duty — whilst ignoring calls for backup at a nearby robbery-in-progress.\nAs reported by Vice, Officers Louis Lozano and Eric Mitchell, who have just had their appeal for reinstatement denied by a California judge, were in the vicinity of an ongoing robbery at a Macy's in Crenshaw when they received urgent calls from colleagues to provide support. Instead, the pair relocated from the area of the crime in order to hunt down a Snorlax, as well as a rarer Togetic, in Niantic's smash hit mobile game.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/random-lapd-officers-fired-for-catching-pokemon-instead-of-crooks",
           "publishedOn": "2022-01-11T10:30:00.000Z",
-          "wordCount": 2534,
+          "wordCount": 2594,
           "title": "Random: LAPD Officers Fired For Catching Pokémon Instead Of Crooks"
         },
         {
@@ -403,7 +439,7 @@
           "description": "All Metroid Dread Spirits now available permanently.\nIf you're on a mission to collect every last Spirit in Super Smash Bros. Ultimate, you'll be pleased to know that another set of previously limited-time characters have now been made available permanently.\nBack in October, upon the launch of Metroid Dread, three Spirits inspired by the game arrived in Smash for a handful of days. Samus (Metroid Dread), E.M.M.I, and Chozo Soldier were the chosen Spirits, all as part of the 'Spirits of Dread' event.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/missed-out-on-smash-bros-ultimates-metroid-dread-spirits-nows-your-chance",
           "publishedOn": "2022-01-11T10:00:00.000Z",
-          "wordCount": 1049,
+          "wordCount": 1053,
           "title": "Missed Out On Smash Bros. Ultimate's Metroid Dread Spirits? Now's Your Chance"
         },
         {
@@ -421,7 +457,7 @@
           "description": "Update: Techland says main story takes \"about 20 hours\".\nUpdate : Techland has reached out to us to clarify just how long the game will take if you're not attempting to 100% it.\nA \"focused playthrough\" of Dying Light 2's main story can be finished in \"about 20 hours\" - this will vary, depending on the player. To complete all side quests, learn the lore and engage with all the characters it could take a player 80 hours or more.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/dying-light-2-will-take-at-least-500-hours-to-fully-complete",
           "publishedOn": "2022-01-11T05:00:00.000Z",
-          "wordCount": 5095,
+          "wordCount": 5099,
           "title": "Dying Light 2 Will Take At Least 500 Hours To \"Fully Complete\""
         },
         {
@@ -430,7 +466,7 @@
           "description": "Here's the full list of supported languages.\nSega's taking great care with Sonic's next mainline outing, Sonic Frontiers. Apart from making the tough decision to delay the release in order to \"brush up the quality\" of the title, it's also been added in additional features to make the experience more accessible to everyone.\nAs part of this, Sonic's new game will bolster its localisation offerings - with even more supported languages in both voiced and subtitle form. Here's the full rundown, courtesy of the official Sonic the Hedgehog Twitter account. Note: * for Xbox and PC only.\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/segas-teams-have-been-hard-at-work-localising-sonic-frontiers-for-new-audiences",
           "publishedOn": "2022-01-11T04:30:00.000Z",
-          "wordCount": 1762,
+          "wordCount": 1766,
           "title": "Sega's Teams Have Been \"Hard At Work\" Localising Sonic Frontiers For New Audiences"
         },
         {
@@ -439,44 +475,8 @@
           "description": "\"work in progress\".\nThe mod support for The Legend of Zelda: Breath of the Wild over the past few years has been outstanding.\nOne thing we're yet to see though is multiplayer support. As you might recall, someone last year offered $10k to anyone who could create a mod for BotW that made this happen. With this in mind, a modder by the name of Alex Mangue (in collaboration with Sweet and Ethi) recently uploaded some clips to show what they've been working on (thanks for the tip, @Swiftfeet16).\nRead the full article on nintendolife.com",
           "link": "https://www.nintendolife.com/news/2022/01/random-a-zelda-breath-of-the-wild-multiplayer-mod-is-now-in-development",
           "publishedOn": "2022-01-11T03:30:00.000Z",
-          "wordCount": 2077,
+          "wordCount": 2100,
           "title": "Random: A Zelda: Breath Of The Wild Multiplayer Mod Is Now In Development"
-        },
-        {
-          "id": "https://www.nintendolife.com/#article-125705",
-          "author": null,
-          "description": "What is it like compared to the Switch version?\nMonster Hunter Rise was easily one of the best Nintendo Switch exclusives of 2021, and while Capcom won't be slowing down its support for this version anytime soon, in a few days it's releasing a PC port on Steam.\nIf you're just a tad curious to know what the PC version of the game is like, we've rounded up a handful of critic reviews that compare this version to the Switch one. While there are some obvious improvements in the PC release in terms of resolution and performance, no cross-play support is definitely a letdown.\nRead the full article on nintendolife.com",
-          "link": "https://www.nintendolife.com/news/2022/01/round-up-the-reviews-are-in-for-capcoms-monster-hunter-rise-pc-port",
-          "publishedOn": "2022-01-11T02:30:00.000Z",
-          "wordCount": 5811,
-          "title": "Round Up: The Reviews Are In For Capcom's Monster Hunter Rise PC Port"
-        },
-        {
-          "id": "https://www.nintendolife.com/#article-125703",
-          "author": null,
-          "description": "Animal Crossing made the top 10.\n\n2021 was apparently another \"record year\" for gaming talk on the social media giant Twitter - and as part of this, the platform has now rounded up the video game highlights of the year into a single post.\nRead the full article on nintendolife.com",
-          "link": "https://www.nintendolife.com/news/2022/01/social-media-platform-twitter-reveals-2021s-most-tweeted-about-games",
-          "publishedOn": "2022-01-11T00:55:00.000Z",
-          "wordCount": 2426,
-          "title": "Social Media Platform Twitter Reveals 2021's \"Most Tweeted About Games\""
-        },
-        {
-          "id": "https://www.nintendolife.com/#article-125701",
-          "author": null,
-          "description": "Brick of the Wild.\nIt's not the first time that Zelda's Hyrule Castle has made it to the final stage of LEGO's fan-created and crowdsourced IDEAS platform, and it certainly won't be the last — anything to do with Nintendo usually gets summarily dismissed, after all.\nBut this latest Hyrule Castle design, based on Breath of the Wild, includes Calamity Ganon, Koroks, Bokoblins, Guardians, the Hylian Shield and Link's sailcloth glider, so surely all those details will convince LEGO and/or Nintendo to put it into production this time?\nRead the full article on nintendolife.com",
-          "link": "https://www.nintendolife.com/news/2022/01/fan-made-zelda-breath-of-the-wild-lego-set-makes-it-to-final-review-stage",
-          "publishedOn": "2022-01-10T22:00:00.000Z",
-          "wordCount": 2217,
-          "title": "Fan-Made Zelda: Breath Of The Wild LEGO Set Makes It To Final Review Stage"
-        },
-        {
-          "id": "https://www.nintendolife.com/#article-125698",
-          "author": null,
-          "description": "Snorlax used Wrestle!\nFollowing the success of The Pokémon Company's partnership with sumo wrestling tournaments last year, the collaboration is continuing, with The Pokémon Company sponsoring themed banners and kimonos.\nYou'll notice that the Pokémon featured are specifically those from Sinnoh, referencing the recent release of Brilliant Diamond and Shining Pearl, as well as the ancient prequel, Pokémon Legends: Arceus, due out at the end of January.\nRead the full article on nintendolife.com",
-          "link": "https://www.nintendolife.com/news/2022/01/the-pokemon-company-is-sponsoring-sumo-wrestling-again",
-          "publishedOn": "2022-01-10T21:00:00.000Z",
-          "wordCount": 995,
-          "title": "The Pokémon Company Is Sponsoring Sumo Wrestling Again"
         }
       ]
     },
@@ -1398,7 +1398,7 @@
           "description": "Aplikační události nemusí vytvářet pouze vaše aplikace. Stejně tak dělá Spring framework sám o svém běhu. Jejich přehled najdete v dokumentaci pod kapitolou Application Events and Listeners.",
           "link": "https://www.root.cz/clanky/udalosti-v-aplikaci-reakce-na-udalosti-frameworku-spring/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-11T07:00:00.000Z",
-          "wordCount": 2414,
+          "wordCount": 2404,
           "title": "Události v aplikaci: reakce na události frameworku Spring",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/570/java-kava-1.jpg",
@@ -1412,7 +1412,7 @@
           "description": "Tradiční směrování síťových paketů je založeno na cílové adrese. Pokud ale chceme více, potřebujeme policy-based routing (PBR). To nám umožní směrovat provoz podle mnoha dalších kritérií.",
           "link": "https://www.root.cz/clanky/policy-based-routing-v-linuxu-smerovani-provozu-pod-kontrolou/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T23:00:10.000Z",
-          "wordCount": 2132,
+          "wordCount": 2137,
           "title": "Policy-based routing v Linuxu: směrování provozu pod kontrolou",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/489/router-1.jpg",
@@ -1426,7 +1426,7 @@
           "description": "Poměrně často se můžeme setkat s požadavkem na propojení kódu psaného v Pythonu a v Go. Pro tento účel použijeme dvě technologie, které se samy nabízejí: cgo a ctypes. Ovšem uvidíme, že kvůli nim budeme muset „klesnout“ až na úroveň céčka.",
           "link": "https://www.root.cz/clanky/propojeni-go-s-pythonem-s-vyuzitim-cgo-a-ctypes/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T23:00:05.000Z",
-          "wordCount": 5401,
+          "wordCount": 5388,
           "title": "Propojení Go s Pythonem s využitím cgo a ctypes",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/336/golang-1.jpg",
@@ -1440,7 +1440,7 @@
           "description": "V aktuálním díle Postřehů se podíváme na problémy iOSu s žádnými, nebo naopak věčnými restarty. Dále na hledání log4j v kupce kódu, na výsledky testování několika EDR řešení a na to, jak můžete podpořit Norton 360 zapnutím zabudovaného kryptomineru.",
           "link": "https://www.root.cz/clanky/postrehy-z-bezpecnosti-perzistentni-malware-pro-ios-jmenem-noreboot/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-09T23:00:10.000Z",
-          "wordCount": 1622,
+          "wordCount": 1666,
           "title": "Postřehy z bezpečnosti: perzistentní malware pro iOS jménem NoReboot",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/658/apple-iphone-1.jpg",
@@ -1454,7 +1454,7 @@
           "description": "Do operačního systému Haiku bylo portováno Wine. Nadace UBports oznámila vydání aktualizace systému pro telefony Ubuntu Touch OTA-21. Firma PINE64 uvedla do prodeje pouzdro s hardwarovou klávesnicí pro telefony PinePhone.",
           "link": "https://www.root.cz/clanky/wine-bylo-portovano-na-haiku-vyslo-ubuntu-touch-ota-21/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-09T23:00:05.000Z",
-          "wordCount": 1143,
+          "wordCount": 1145,
           "title": "Wine bylo portováno na Haiku, vyšlo Ubuntu Touch OTA-21",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/246/wine-na-haiku-1.jpg",
@@ -1468,7 +1468,7 @@
           "description": "Vydáno Wine 7.0-rc5 s opravou pro Fallout 1/2, srovnání výkonu Radeonů v roce 2020 a 2021, měření ukazuje, že Intel Clear Linux je stále nejlepší, u SVT-AV1 dokonce dvojnásobně.",
           "link": "https://www.root.cz/clanky/sdafasdfds/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-08T23:00:10.000Z",
-          "wordCount": 1696,
+          "wordCount": 1687,
           "title": "Canonical přepracuje Snapcraft, KDE vylepšuje vzhled QtQuick aplikací",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/504/canonical-ubuntu-zamestnanci-1.jpg",
@@ -1496,7 +1496,7 @@
           "description": "Dnes se ve stručnosti seznámíme s multiplatformním integrovaným vývojovým prostředím, které se jmenuje Lazarus. Jedná se o takzvané RAD, přičemž vzhled, možnosti i chování do značné míry odpovídají slavnému vývojovému prostředí Delphi.",
           "link": "https://www.root.cz/clanky/integrovane-vyvojove-prostredi-lazarus-jen-zdanlivy-anachronismus/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-05T23:00:10.000Z",
-          "wordCount": 5700,
+          "wordCount": 5729,
           "title": "Integrované vývojové prostředí Lazarus: jen zdánlivý anachronismus",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/456/lazarus-1.jpg",
@@ -1510,7 +1510,7 @@
           "description": "Tvůrci operačního systému airyxOS si dali za cíl vytvořit systém, který bude svobodnou náhradou macOS od firmy Apple. Svůj vzor nehodlá napodobovat pouze vzhledem, ale chce nabídnout i možnost spouštět aplikace pro něj určené.",
           "link": "https://www.root.cz/clanky/airyxos-svobodny-klon-macos-na-zakladech-freebsd/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-04T23:00:10.000Z",
-          "wordCount": 1257,
+          "wordCount": 1264,
           "title": "airyxOS: svobodný klon macOS na základech FreeBSD",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/164/airyxos-1.jpg",
@@ -1524,7 +1524,7 @@
           "description": "Sonda do světa otevřeného softwaru. Dnes si pohrajeme se světýlky, vyzkoušíme si nástroj na administraci Debianu, podíváme se na sofistikovaný nástroj na práci se snímky obrazovky a řekneme si o jednom minimalistickém webovém prohlížeči.",
           "link": "https://www.root.cz/clanky/softwarova-sklizen-5-1-2022/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-04T23:00:05.000Z",
-          "wordCount": 944,
+          "wordCount": 935,
           "title": "Softwarová sklizeň (5. 1. 2022)",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/root/368/kombajn-sklizen.jpg",
@@ -1545,7 +1545,7 @@
           "description": "Řada společností stále využívá staré aplikace, na kterých často závisí jejich fungování a poskytované služby. Udržování těchto aplikací je přitom velmi složité. Mezi obvyklé problémy patří nevyhovující šifrování, zranitelnost na úrovni serveru i aplikace, případně způsob přihlašování bez možnosti ověření vůči systému správy identit. Přesto je tyto aplikace z mnoha důvodů nutné udržet v chodu.",
           "link": "https://www.root.cz/zpravicky/jak-resit-zastarale-aplikace-prihlaste-se-na-webcast/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-11T15:08:37.000Z",
-          "wordCount": 752,
+          "wordCount": 766,
           "title": "Jak řešit zastaralé aplikace? Přihlaste se na webcast",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/486/kyberbezpecnost-1.jpg",
@@ -1559,7 +1559,7 @@
           "description": "Není to tak dlouho, co Microsoft zaslal do projektu Mesa kód pro podporu OpenGL Shader Storage Buffer Objects. Jde o jednu z věcí, která pozvolna posouvá podporu kódu Direct3D 12 v Mesa od starší verze OpenGL 3.3 k věcem, které vyžaduje řada OpenGL 4.x. Nyní jde Microsoft o další krůček dál a do Mesa 22.0 zamířila podpora Direct3D 12 Compute.",
           "link": "https://www.root.cz/zpravicky/microsoft-pridava-podporu-d3d12-compute-do-mesa-22-0/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-11T13:31:35.000Z",
-          "wordCount": 809,
+          "wordCount": 816,
           "title": "Microsoft přidává podporu D3D12 Compute do Mesa 22.0",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/20/microsoft-love-linux-1.jpg",
@@ -1573,7 +1573,7 @@
           "description": "Krize ve výrobě čipů dopadá i na výrobce tiskáren. Jistě netřeba obšírně popisovat, jak výrobci tiskáren a multifunkcí svádí boj s výrobci neoriginálních náplní/tonerů. Canon proslul kauzami, kdy například nešlo černobíle tisknout, když došla některé z barev, nebo kdy nešlo na multifunkci skenovat, pokud tisková část měla prázdnou náplň.",
           "link": "https://www.root.cz/zpravicky/cipova-krize-zasahla-canon-a-jeho-tonery-bude-je-dodavat-bez-cipu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-11T10:19:43.000Z",
-          "wordCount": 2204,
+          "wordCount": 2370,
           "title": "Čipová krize zasáhla Canon a jeho tonery, bude je dodávat bez čipů",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/231/canon-pixma-mg6320.jpg",
@@ -1587,7 +1587,7 @@
           "description": "Linux Mint na blogu oznamuje uzavření partnerství s Mozillou. Dotkne se toho, jak Mint používá webový prohlížeč Firefox a pošťáka Thunderbird. Věci se odteď budou v Mintu mít následovně:",
           "link": "https://www.root.cz/zpravicky/mozilla-a-linux-mint-uzaviraji-partnerstvi-google-se-vraci-do-hry/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-11T09:42:57.000Z",
-          "wordCount": 1290,
+          "wordCount": 1280,
           "title": "Mozilla a Linux Mint uzavírají partnerství, Google se vrací do hry",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/517/linux-mint-19-2-cinnamon-1.png",
@@ -1601,7 +1601,7 @@
           "description": "Nová verze 6.2 operačního systému DragonFlyBSD přináší tři klíčové novinky. Tou pro desktopy nejpodstatnější je zahrnutí ovladače AMDGPU, tedy konečně moderního ovladače pro Radeony mnoha posledních generací, který v DragonFlyBSD chyběl. Prozatím to má ještě jednu mušku, systém zde zakládá na verzi z Linuxu 4.19, tedy nezahrnuje nejnovější možný ovladač AMDGPU se všemi architektonickými optimalizacemi. Doplňme ještě, že vážčí BSD nově podporuje také GPU Gen9 u procesorů Intel Whiskey Lake.",
           "link": "https://www.root.cz/zpravicky/dragonflybsd-6-2-s-amdgpu-vylepsenym-hammer2-ci-hypervizorem-nvmm/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T23:00:00.000Z",
-          "wordCount": 848,
+          "wordCount": 851,
           "title": "DragonFlyBSD 6.2 s AMDGPU, vylepšeným HAMMER2 či hypervizorem NVMM",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/498/dragonfly-bsd-logo-1.png",
@@ -1615,7 +1615,7 @@
           "description": "Včera se objevily první SBC s osmijádrovým ARM čipem Rockchip RK3588 se solidním výkonem. Procesor má 4 jádra Cortex-A76 na 2,4 GHz a 4 jádra Cortex-A55 na 1,8 GHz. K dispozici jsou modely s 4, 8 a 16 GB RAM. Budou se prodávat za 129, 149 a 189 dolarů. Pokud si je však nyní předobjednáte za vratný poplatek 5 dolarů, budete mít slevu 50 dolarů. Předobjednat můžete buď v Číně, nebo v USA.",
           "link": "https://www.root.cz/zpravicky/radxa-rock5-model-b-s-rockchip-rk3588/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T20:37:14.000Z",
-          "wordCount": 1421,
+          "wordCount": 1438,
           "title": "Radxa ROCK5 Model B s Rockchip RK3588",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/482/arm-cip.jpg",
@@ -1629,7 +1629,7 @@
           "description": "V linuxovém jádře často nastane situace, že je potřeba uvolnit stránku paměti. V současnosti se o to stará algoritmus LRU (Least Recently Used). Google ale již nějako dobu pracuje na multigenerational LRU (MGLRU). Podle Google současný LRU spotřebuje mnoho CPU a často se rozhodne pro uvolnění nesprávné stránky. Nové MGLRU je přímočaré, výkonné a univerzální. Hodí se jak pro mobilní zařízení, tak pro výkonné servery.",
           "link": "https://www.root.cz/zpravicky/mglru-lepsi-sprava-pameti-od-google/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T17:59:57.000Z",
-          "wordCount": 1032,
+          "wordCount": 1035,
           "title": "MGLRU: lepší správa paměti od Google",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/12/sdr-ddr1-ddr2-ddr3-dimm-pameti-1.jpg",
@@ -1643,7 +1643,7 @@
           "description": "V prosinci na Kickstarteru začala kampaň s UPS HAT pro Raspberry Pi. Podporovány jsou všechny modely, ale rozměrově HAT odpovídá velkým Raspberry Pi 1, 2, 3 a 4. Použity jsou dvě Li-ion 18650 baterie (není součástí balení). Nabíjí se externím zdrojem 8,4 V 2 A. UPS umožňuje v reálném čase sledovat napětí a proudy přes I2C.",
           "link": "https://www.root.cz/zpravicky/ups-hat-pro-raspberry-pi/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T14:23:51.000Z",
-          "wordCount": 1134,
+          "wordCount": 1142,
           "title": "UPS HAT pro Raspberry Pi",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/570/raspberry-pi-1.jpg",
@@ -1657,7 +1657,7 @@
           "description": "Mozilla ve čtvrtek na Twitteru oznámila, že pozastavila přijímání darů v kryptoměnách. Stalo se to po té, co Mozilla na Silvestra připomněla na Twitteru, že přijímá dary v kryptoměnách a pod příspěvkem se objevilo mnoho negativních komentářů.",
           "link": "https://www.root.cz/zpravicky/mozilla-po-kritice-pozastavila-prijimani-daru-v-kryptomenach/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T10:04:37.000Z",
-          "wordCount": 10051,
+          "wordCount": 10053,
           "title": "Mozilla po kritice pozastavila přijímání darů v kryptoměnách",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/322/bitcoin-klavesnice-notebook-1.jpg",
@@ -1671,7 +1671,7 @@
           "description": "Včera Linus Torvalds vydal jádro 5.16. Mezi novinky patří podpora FUTEX2, která pomůže výkonu ve Wine obzvláště her. Nová je podpora instrukcí Intelu AMX (Advanced Matrix Extensions), které najdeme patrně již letos v procesorech Sapphire Rapids. Jádro 5.16 také přinese vyšší výkon pro integrované GPU AMD.",
           "link": "https://www.root.cz/zpravicky/vyslo-jadro-5-16/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T08:13:04.000Z",
-          "wordCount": 806,
+          "wordCount": 807,
           "title": "Vyšlo jádro 5.16 s podporou Intel AMX a vyšším výkonem GPU AMD",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/344/tux-linux-1.jpg",
@@ -1685,7 +1685,7 @@
           "description": "Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.",
           "link": "https://www.root.cz/zpravicky/prijdte-na-skoleni-mikrotik-od-zakladu-po-velkou-sit-a-odnesete-si-router/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-10T08:00:18.000Z",
-          "wordCount": 765,
+          "wordCount": 754,
           "title": "Přijďte na školení MikroTik od základů po velkou síť a odnesete si router",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/524/mikrotik-1.jpg",
@@ -1699,7 +1699,7 @@
           "description": "Švýcarská armáda před koncem roku na svém Facebooku zakázala svým vojákům všechny chatovací aplikace na mobilních zařízeních jako například WhatsApp, Signal a Telegram. Povolena je jen švýcarská aplikace Threema. Ta je sice zpoplatněna (u nás 99 kč), ale armáda vojákům nákup proplatí.",
           "link": "https://www.root.cz/zpravicky/svycarska-armada-zakazala-vsechny-chatovaci-aplikace-krome-threema/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-07T13:51:32.000Z",
-          "wordCount": 5885,
+          "wordCount": 5889,
           "title": "Švýcarská armáda zakázala všechny chatovací aplikace kromě Threema",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/246/svycarsky-nuz-1.jpg",
@@ -1713,7 +1713,7 @@
           "description": "Nové notebooky s procesory AMD mají často problémy s probuzením ze spánku. Nedávno tu byla triviální oprava, která řešila neúspěšné probuzení při napájení na baterii, když probuzení při napájení ze sítě fungovalo dobře.",
           "link": "https://www.root.cz/zpravicky/nova-oprava-uspavani-notebooku-s-procesory-amd/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-07T13:03:47.000Z",
-          "wordCount": 919,
+          "wordCount": 894,
           "title": "Nová oprava uspávání notebooků s procesory AMD",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/341/hp-notebook-1.jpg",
@@ -1727,7 +1727,7 @@
           "description": "Nginx je dnes přibližně na třetině web serverů na internetu a toto číslo stále roste. Je výkonný, spolehlivý, má spoustu funkcí a dobře se spravuje. Pokud potřebujete dobrý web server pro svůj projekt, bude Nginx správnou volbou.",
           "link": "https://www.root.cz/zpravicky/nasadte-moderni-web-server-s-nginx-skoleni/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-07T08:59:46.000Z",
-          "wordCount": 756,
+          "wordCount": 735,
           "title": "Nasaďte moderní web server s Nginx (online školení)",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/398/nginx-logo-1.jpg",
@@ -1741,7 +1741,7 @@
           "description": "Volání FS_IOC_GETFSLABEL a FS_IOC_SETFSLABEL pro čtení a zápis labelu na mountovaný souborový systém se objevila v BTRFS a v jádře 4.18 byla zobecněna na libovolný FS. Podporu v roce 2019 dostaly souborové systémy  XFS a F2FS.",
           "link": "https://www.root.cz/zpravicky/ext4-bude-umet-menit-label-podobne-jako-ostatni-fs/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-07T08:10:55.000Z",
-          "wordCount": 873,
+          "wordCount": 884,
           "title": "EXT4 bude umět měnit label podobně jako ostatní FS",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/668/disky-1.jpg",
@@ -1755,7 +1755,7 @@
           "description": "Linux Mint 20.3 Una je konečně venku. Po delším odstupu od vydání betaverze 14. prosince 2021 je možné přes aktualizaci systému povýšit na verzi 20.3. Na oficiálních stránkách Linux Mint ještě není možnost stahovat instalační obrazy nejnovější verze 20.3, nicméně lze očekávat, že se tak stane v nejbližších hodinách. Pravděpodobně je potřeba sesynchronizovat instalační zrcadla.",
           "link": "https://www.root.cz/zpravicky/linux-mint-20-3-una/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-07T07:55:12.000Z",
-          "wordCount": 1481,
+          "wordCount": 1471,
           "title": "Vyšel Linux Mint 20.3 Una",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/681/mint-1.jpg",
@@ -1769,7 +1769,7 @@
           "description": "Společnost Dial Telecom změnil svůj název na Quantcom a nadále se bude specializovat výhradně na služby pro firmy a velkoobchodní partnery. Nabídku pro koncové zákazníky převezme nově odštěpená společnost Pe3ny, kterou dříve Dial Telecom koupil.",
           "link": "https://www.root.cz/zpravicky/dial-telecom-meni-nazev-na-quantcom-dodavat-bude-pouze-velkoobchodni-sluzby/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-06T11:21:19.000Z",
-          "wordCount": 903,
+          "wordCount": 920,
           "title": "Dial Telecom mění název na Quantcom, zaměří se na velkoobchodní a firemní služby",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/676/quantcom-1.jpg",
@@ -1783,7 +1783,7 @@
           "description": "Vývojáři prohlížeči Brave vydali souhrn uplynulého roku 2021. Z něj mimo jiné vyplývá, že prohlížeč během posledního roku zdvojnásobil počet uživatelů. Zatímco před rokem měsíčně prohlížeč použilo 24 milionů uživatelů, teď už je to více než 50 milionů. Zároveň byl zaznamenán rekord v počtu denních uživatelů, který činí 15,5 milionů.",
           "link": "https://www.root.cz/zpravicky/brave-opet-zaznamenal-mezirocni-zdvojnasobeni-poctu-uzivatelu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-06T08:07:54.000Z",
-          "wordCount": 3561,
+          "wordCount": 3554,
           "title": "Brave opět zaznamenal meziroční zdvojnásobení počtu uživatelů",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/646/brave-1.jpg",
@@ -1797,7 +1797,7 @@
           "description": "Konference DevConf.cz zveřejnila program na rok 2022. Jako každý rok, i tentokrát se můžete těšit na 100+ přednášek, workshopů a meetupů, kde se dozvíte to nejnovější ze světa open-source technologií. Konference bude letos podruhé v online formátu a organizátoři si pro vás připravili řadu dalších doprovodných aktivit. Letošní novinkou bude vlastní 8bitová mapa na platformě WorkAdventure, kde se můžete setkat a komunikovat s ostatními přednášejícími a účastníky DevConfu. Konference se koná 28. – 29. ledna na virtuální platformě Hopin.",
           "link": "https://www.root.cz/zpravicky/devconf-cz-zverejnil-program-a-nabizi-posledni-moznost-zapojit-se-jako-prednasejici/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-06T07:33:30.000Z",
-          "wordCount": 843,
+          "wordCount": 821,
           "title": "DevConf.CZ zveřejnil program a nabízí poslední možnost zapojit se jako přednášející",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/632/devconf-cz-1.jpg",
@@ -1811,7 +1811,7 @@
           "description": "Procesory AMD obsahují speciální prvek zvaný Platform Secure Boot (PSB). S jeho pomocí může provozovatel stroje provést hardwarové odpálení určitých můstků, které fyzicky změní nastavení CPU tak, že bude fungovat už jen s daným strojem daného výrobce (přesněji řečeno bude svázán s konkrétním, výrobcem digitálně podepsaným firmwarem). Tedy například pokud by uživatel konkrétní desky Asus provedl z BIOSu přepálení můstků, bude procesor svázán s danou deskou (daným firmwarem) a nebude možné jej do budoucna použít například v desce Gigabyte.",
           "link": "https://www.root.cz/zpravicky/lenovo-rozsiruje-hardwarovy-vendor-lock-in-i-na-desktopove-amd-ryzeny-pro/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-05T14:55:10.000Z",
-          "wordCount": 3418,
+          "wordCount": 3425,
           "title": "Lenovo rozšiřuje hardwarový vendor lock-in i na desktopové AMD Ryzeny Pro",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/276/ryzen-9-5950x.jpg",
@@ -1825,7 +1825,7 @@
           "description": "Monitorovací systém vám umožní dozvědět se o problémech ve vaší síti ještě dříve, než se projeví. Místo „hašení problémů“ jim tak můžete předcházet. Icinga pak je de-facto standardem mezi monitorovacími systémy, pokud ji chcete zkrotit a nechat pracovat pro sebe, zúčastněte se dvou školení: Icinga – monitorovací systém a Icinga – instalace a cluster.",
           "link": "https://www.root.cz/zpravicky/icinga-monitorovaci-system-bezici-v-clusteru-online-skoleni/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-05T11:59:17.000Z",
-          "wordCount": 748,
+          "wordCount": 761,
           "title": "Icinga: monitorovací systém běžící v clusteru (školení)",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/376/icinga-1.jpg",
@@ -1839,7 +1839,7 @@
           "description": "Ovladače RadeonSI Gallium3D a RADV Vulkan v rámci Mesa 22.0 dostávají nové nastavení, s nímž lze ručně omezit počet výpočetních bloků GPU (CU – Compute Unit) u podporovaných Radeonů. Implementaci nové proměnné AMD_CU_MASK= přidává Marek Olšák z AMD.",
           "link": "https://www.root.cz/zpravicky/ovladac-pro-radeony-dostane-moznost-omezit-pocet-vypocetnich-bloku-gpu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-05T11:30:00.000Z",
-          "wordCount": 780,
+          "wordCount": 762,
           "title": "Ovladač pro Radeony dostane možnost omezit počet výpočetních bloků GPU",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/640/lisa-su-s-radeonem-rx-6000-1.jpg",
@@ -1853,7 +1853,7 @@
           "description": "Na světě je další nová verze webového prohlížeče Chrome 97. Přináší novou možnost pro rychlé předávání dat mezi klientem a serverem. Web Transport má nízkou latenci a je obousměrný. Nabízí jak spolehlivé předávání skrze Streams API, tak nespolehlivé skrze Datagram API. Na straně serveru vyžaduje podporu HTTP/3.",
           "link": "https://www.root.cz/zpravicky/chrome-97-s-web-transport-a-detekci-vhodnych-skriptu/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-05T11:02:04.000Z",
-          "wordCount": 1466,
+          "wordCount": 1451,
           "title": "Chrome 97 s Web Transport a detekcí vhodných skriptů",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/328/chrome-1.jpg",
@@ -1867,7 +1867,7 @@
           "description": "Nejen Mozilla Firefox, ale i další programy využívající k hardwarové akceleraci videa rozhraní VA-API, budou výhledově moci uživatelům grafických karet Nvidia s novým dekodérem NVDEC nabídnout právě tuto hardwarovou akceleraci. Sama Nvidia za implementací nestojí, jako obvykle spíše hází klacky pod nohy svým uzavřeným vývojem, za projekt nvidia-vaapi-driver vděčíme jednomu nezávislému vývojáři.",
           "link": "https://www.root.cz/zpravicky/experimentalni-akcelerace-videa-pred-va-api-nad-nvdec-nejen-pro-firefox/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-04T13:30:07.000Z",
-          "wordCount": 900,
+          "wordCount": 908,
           "title": "Experimentální akcelerace videa přes VA-API nad NVDEC nejen pro Firefox",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/470/nvidia-geforce-rtx-3090-vs-rtx-2080-1.jpg",
@@ -1881,7 +1881,7 @@
           "description": "Již téměř rok uběhl od ohlášení nové procesorové architektury ARMv9. Tento nástupce ARMv8 si pomalu hledá cestu i do kompilátorů. LLVM a Clang dostávají čerstvou podporu ARMv9.3-A ve své vývojové verzi, která se jednoho dne překlopí do stabilního vydání LLVM/Clang 14.0.",
           "link": "https://www.root.cz/zpravicky/podpora-armv9-3-a-miri-do-llvm-clang/?utm_source=rss&utm_medium=text&utm_campaign=rss",
           "publishedOn": "2022-01-04T12:26:30.000Z",
-          "wordCount": 786,
+          "wordCount": 797,
           "title": "Podpora ARMv9.3-A míří do LLVM/Clang",
           "enclosure": {
             "url": "https://i.iinfo.cz/images/196/armv9-1.png",
@@ -1902,7 +1902,7 @@
           "description": "Na období svátků a přelom roku se obvykle nashromáždí více distribucí se svými nejen novoročními občerstveními obrazů systému. Nejinak tomu bylo tentokrát, s odstupem byl vydán Pop!_OS, poměrně novou distribuci představuje Kaisen Linux, aktualizovány byly Citrix Hypervisor, Univention Corporate Server, ReactOS, Debian, elementary OS, IPFire, Manjaro, Neptune, Rescuezilla, siduction, NuTyX, Garuda nebo Slackel.",
           "link": "http://www.abclinuxu.cz/clanky/distribucni-novinky-50-52-2021",
           "publishedOn": "2022-01-11T12:30:00.000Z",
-          "wordCount": 2102,
+          "wordCount": 2091,
           "title": "Distribuční novinky 50-52/2021"
         },
         {
@@ -1911,7 +1911,7 @@
           "description": "Přehled prosincových vydání Jaderných novin: stav vydání jádra, citát týdne a seznam článků týkajících se jádra.",
           "link": "http://www.abclinuxu.cz/clanky/jaderne-noviny-prehled-za-prosinec-2021",
           "publishedOn": "2022-01-09T23:01:00.000Z",
-          "wordCount": 1727,
+          "wordCount": 1716,
           "title": "Jaderné noviny – přehled za prosinec 2021"
         },
         {
@@ -1920,7 +1920,7 @@
           "description": "Portfolio Lenovo pro malé a střední podniky inspirované novými trendy. Jak nepřeplácet cloud. Acer představuje výkonné přírůstky do řady Swift X. IT rozpočty na rok 2022.",
           "link": "http://www.abclinuxu.cz/clanky/tyden-na-itbiz-jak-nepreplacet-cloud",
           "publishedOn": "2022-01-08T23:01:00.000Z",
-          "wordCount": 1523,
+          "wordCount": 1512,
           "title": "Týden na ITBiz: Jak nepřeplácet cloud"
         },
         {
@@ -1929,7 +1929,7 @@
           "description": "Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.",
           "link": "http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-1-2022",
           "publishedOn": "2022-01-07T23:01:00.000Z",
-          "wordCount": 2882,
+          "wordCount": 2871,
           "title": "Událo se v týdnu 1/2022"
         },
         {
@@ -1938,7 +1938,7 @@
           "description": "Černé díry o hmotnosti planet. Magnetické pole předpoví tsunami. Život v mracích Venuše. Oteplení a malá doba ledová. Obří skupina planet bez hvězdy. Exotický izotop hořčíku. Rok 2021 na Sciencemagu.",
           "link": "http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-feromagneticky-uhlovodik-triangulen",
           "publishedOn": "2022-01-06T23:30:00.000Z",
-          "wordCount": 1691,
+          "wordCount": 1680,
           "title": "Týden na ScienceMag.cz: feromagnetický uhlovodík triangulen"
         },
         {
@@ -1947,7 +1947,7 @@
           "description": "IT a byznys v roce 2021: koronavirus, čipy, Čína a kdo zkrachuje příště. IT a věda v roce 2021: magnetismus a supravodivost. Cisco Talos: bezpečnostní přehled roku 2021. Archivní data budou nejvíce rostoucí třídou úložišť. AWS Local Zone v Česku.",
           "link": "http://www.abclinuxu.cz/clanky/tyden-na-itbiz-it-a-byznys-v-roce-2021",
           "publishedOn": "2022-01-02T23:01:00.000Z",
-          "wordCount": 1572,
+          "wordCount": 1561,
           "title": "Týden na ITBiz: IT a byznys v roce 2021"
         },
         {
@@ -1956,7 +1956,7 @@
           "description": "Detektory gravitačních vln a temná hmota. Pootočené dvojvrstvy podivně vedou teplo. Odchylky gravitačního pole mohou odpovídat ložiskům ropy a plynu. Koronavirus a věda. Modrý ohňostroj. Denisované, černé díry a míchání oleje s vodou.",
           "link": "http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-z-dejin-4.-rozmeru",
           "publishedOn": "2022-01-01T23:01:00.000Z",
-          "wordCount": 1690,
+          "wordCount": 1679,
           "title": "Týden na ScienceMag.cz: Z dějin 4. rozměru"
         },
         {
@@ -1965,7 +1965,7 @@
           "description": "Windows 10 nebo raději hned Windows 11 z prodejního portálu GoodOffer24. Buď si vyberete podle svého uvážení, nebo přímo z níže uvedené nabídky produktů a bundlů. Když zadáte před dokončením nákupu slevový kupón AX30, máte ještě k tomu slevu 35 % z uvedené ceny na tomto prodejním portálu!",
           "link": "http://www.abclinuxu.cz/clanky/goodoffer24-ziskejte-windows-a-office-na-novy-rok-se-slevovym-kuponem-ax30-ceny-zacinaji-na-11-eur",
           "publishedOn": "2022-01-01T11:00:00.000Z",
-          "wordCount": 1416,
+          "wordCount": 1405,
           "title": "GoodOffer24? Získejte Windows a Office na Nový rok se slevovým kupónem „AX30“, ceny začínají na 11 EUR"
         },
         {
@@ -1974,7 +1974,7 @@
           "description": "Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.",
           "link": "http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-52-2022",
           "publishedOn": "2021-12-31T23:01:00.000Z",
-          "wordCount": 2090,
+          "wordCount": 2079,
           "title": "Událo se v týdnu 52/2022"
         },
         {
@@ -1983,7 +1983,7 @@
           "description": "Po 20 letech nový vítěz Indexu Tiobe: Python. Technologické trendy podle společnosti Cisco. Digitální měny se rozšíří v podnikové sféře. Jak zabezpečit firemní vývojové prostředí. Automatizace kontaktních center v Salesforce. Jak zajistit důvěryhodné využití AI.",
           "link": "http://www.abclinuxu.cz/clanky/tyden-na-itbiz-jak-zabezpecit-firemni-vyvojove-prostredi",
           "publishedOn": "2021-12-27T23:01:00.000Z",
-          "wordCount": 1612,
+          "wordCount": 1601,
           "title": "Týden na ITBiz: Jak zabezpečit firemní vývojové prostředí"
         },
         {
@@ -1992,7 +1992,7 @@
           "description": "Obří černá díra v malé galaxii. Konec ostravského superpočítače Salomon. Exotická částice složená ze 4 neutronů, jiná ze 6 kvarků. Galaxie bez temné hmoty. Led na exoplanetách podobných Zemi. Antiferomagnet sestavený podle viru.",
           "link": "http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-foton-muze-mit-vnitrni-strukturu",
           "publishedOn": "2021-12-26T23:01:00.000Z",
-          "wordCount": 1685,
+          "wordCount": 1674,
           "title": "Týden na ScienceMag.cz: Foton může mít vnitřní strukturu"
         }
       ]
@@ -2003,12 +2003,21 @@
       "siteUrl": "http://www.abclinuxu.cz/zpravicky",
       "articles": [
         {
+          "id": "http://www.abclinuxu.cz/zpravicky/libre-arts-ohlednuti-za-rokem-2021-co-cekat-v-roce-2022",
+          "author": "Fluttershy, yay!",
+          "description": "Web Libre Arts shrnuje svobodný software pro audio-/vizuální tvorbu vydaný v roce 2021 a novinky očekávané v roce 2022.",
+          "link": "http://www.abclinuxu.cz/zpravicky/libre-arts-ohlednuti-za-rokem-2021-co-cekat-v-roce-2022",
+          "publishedOn": "2022-01-11T20:00:34.000Z",
+          "wordCount": 872,
+          "title": "Libre Arts: Ohlédnutí za rokem 2021, co čekat v roce 2022"
+        },
+        {
           "id": "http://www.abclinuxu.cz/zpravicky/firefox-96.0",
           "author": "Ladislav Hagara",
           "description": "Byl vydán Mozilla Firefox 96.0. Přehled novinek v poznámkách k vydání, poznámkách k vydání pro firmy a na stránce věnované vývojářům. Řešeny jsou také bezpečnostní chyby. Nejnovější Firefox bude k dispozici také na Flathubu.",
           "link": "http://www.abclinuxu.cz/zpravicky/firefox-96.0",
           "publishedOn": "2022-01-11T14:15:22.000Z",
-          "wordCount": 1389,
+          "wordCount": 1409,
           "title": "Firefox 96.0"
         },
         {
@@ -2017,7 +2026,7 @@
           "description": "Před devíti lety, ve svých šestadvaceti letech, navždy odešel Aaron Swartz, výjimečný americký hacker (programátor), spisovatel, archivář, politický organizátor a internetový aktivista. Aaron Swartz založil Demand Progress, spolupracoval na projektech Open Library, Internet Archive a Reddit. Ve svých čtrnácti se podílel na specifikaci RSS 1.0. Vytvořil webový framework web.py, pracoval na tor2web a rozšíření HTTPS Everywhere pro Chrome. Stál u zrodu licence Creative Commons. Aaronovi Swartzovi hrozilo 35 let vězení a pokuta milion dolarů za hromadné stahování vědeckých článků z webu JSTOR. Dle přátel i vlastních výpovědí několik posledních let trpěl depresemi. V pátek 11. ledna 2013 ukončil svůj život oběšením.",
           "link": "http://www.abclinuxu.cz/zpravicky/pred-deviti-lety-navzdy-odesel-aaron-swartz",
           "publishedOn": "2022-01-11T13:46:26.000Z",
-          "wordCount": 1060,
+          "wordCount": 1241,
           "title": "Před devíti lety navždy odešel Aaron Swartz"
         },
         {
@@ -2026,7 +2035,7 @@
           "description": "Byl aktualizován TIOBE Index (Wikipedie). Programovacím jazykem roku 2021 byl vyhlášen programovací jazyk Python. Jeho popularita vzrostla meziročně o 1,86 procentního bodu. Aktuální žebříček popularity programovacích jazyků vede Python následovaný jazyky C, Java, C++, C#, …",
           "link": "http://www.abclinuxu.cz/zpravicky/python-programovacim-jazykem-roku-2021-dle-tiobe-indexu",
           "publishedOn": "2022-01-10T19:24:47.000Z",
-          "wordCount": 1747,
+          "wordCount": 1736,
           "title": "Python programovacím jazykem roku 2021 dle TIOBE Indexu"
         },
         {
@@ -2035,7 +2044,7 @@
           "description": "Po 10 týdnech vývoje od vydání Linuxu 5.15 oznámil Linus Torvalds vydání Linuxu 5.16 (LKML). Přehled nových vlastností a vylepšení na stránce Linux Kernel Newbies.",
           "link": "http://www.abclinuxu.cz/zpravicky/linux-5.16",
           "publishedOn": "2022-01-10T03:42:06.000Z",
-          "wordCount": 973,
+          "wordCount": 962,
           "title": "Linux 5.16"
         },
         {
@@ -2044,7 +2053,7 @@
           "description": "Nové motoráky Českých drah nejdou nastartovat – z 22 vlaků jezdí maximálně dva. Od začátku ledna jim totiž vypršela platnost softwaru.",
           "link": "http://www.abclinuxu.cz/zpravicky/nove-motoraky-ceskych-drah-nejdou-nastartovat-z-22-vlaku-jezdi-maximalne-dva",
           "publishedOn": "2022-01-07T21:18:52.000Z",
-          "wordCount": 39086,
+          "wordCount": 40970,
           "title": "Nové motoráky Českých drah nejdou nastartovat – z 22 vlaků jezdí maximálně dva"
         },
         {
@@ -2053,7 +2062,7 @@
           "description": "Pokud se vám už povedlo ukončit editor vim, zkuste to znovu a spusťte jej s volbou -y [?].",
           "link": "http://www.abclinuxu.cz/zpravicky/vim-y",
           "publishedOn": "2022-01-07T20:55:28.000Z",
-          "wordCount": 1551,
+          "wordCount": 1500,
           "title": "vim -y"
         },
         {
@@ -2062,7 +2071,7 @@
           "description": "Byl vydán Linux Mint 20.3 s kódovým jménem Una. Na blogu Linux Mintu jsou hned tři oznámení. První o vydání Linux Mintu s prostředím Cinnamon, druhé o vydání Linux Mintu s prostředím MATE a třetí o vydání Linux Mintu s prostředím Xfce. Stejným způsobem jsou rozděleny také poznámky k vydání (Cinnamon, MATE, Xfce) a přehled novinek s náhledy (Cinnamon, MATE, Xfce). Linux Mint 20.3 bude podporován až do roku 2025.",
           "link": "http://www.abclinuxu.cz/zpravicky/linux-mint-20.3-una",
           "publishedOn": "2022-01-07T18:40:58.000Z",
-          "wordCount": 971,
+          "wordCount": 960,
           "title": "Linux Mint 20.3 Una"
         },
         {
@@ -2071,17 +2080,8 @@
           "description": "Lukáš Kotek se v článku na MojeFedora.cz věnuje vzdálenému ovládání přehrávačů MPV a VLC.",
           "link": "http://www.abclinuxu.cz/zpravicky/vzdalene-ovladani-prehravacu-mpv-a-vlc",
           "publishedOn": "2022-01-07T12:58:31.000Z",
-          "wordCount": 861,
+          "wordCount": 850,
           "title": "Vzdálené ovládání přehrávačů MPV a VLC"
-        },
-        {
-          "id": "http://www.abclinuxu.cz/zpravicky/notebook-dell-xps-13-plus",
-          "author": "Ladislav Hagara",
-          "description": "Představen byl notebook Dell XPS 13 Plus, tj. nejnovější generace notebooků XPS 13 prodávaných také s předinstalovaným Ubuntu. S novou klávesnicí s velkými klávesami, bez fyzických F kláves a klávesy Esc, pouze s dotykovým funkčním řádkem.",
-          "link": "http://www.abclinuxu.cz/zpravicky/notebook-dell-xps-13-plus",
-          "publishedOn": "2022-01-07T04:29:40.000Z",
-          "wordCount": 1471,
-          "title": "Notebook Dell XPS 13 Plus"
         },
         {
           "id": "http://www.abclinuxu.cz/zpravicky/webovy-prohlizec-brave-pouziva-50-2-milionu-uzivatelu-mesicne.-vydana-verze-1.34",
@@ -2089,7 +2089,7 @@
           "description": "Vývojáři Brave (Wikipedie, GitHub) oznámili, že tento webový prohlížeč používá již 50,2 milionů aktivních uživatelů měsíčně a 15,5 milionů aktivních uživatelů denně. V únoru loňského roku to bylo 25 milionů a 8 milionů. Vydána byla nová verze 1.34. Postavena je na Chromiu 97.",
           "link": "http://www.abclinuxu.cz/zpravicky/webovy-prohlizec-brave-pouziva-50-2-milionu-uzivatelu-mesicne.-vydana-verze-1.34",
           "publishedOn": "2022-01-07T02:49:54.000Z",
-          "wordCount": 1974,
+          "wordCount": 1963,
           "title": "Webový prohlížeč Brave používá 50,2 milionů uživatelů měsíčně. Vydána verze 1.34"
         }
       ]
@@ -2100,12 +2100,30 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-Anaconda-New-UI",
+          "author": null,
+          "description": "The Red Hat / Fedora Anaconda installer for carrying out new operating system installs is in the early stages of a major rewrite to its user-interface and moving forward will be web-based...",
+          "link": "https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-Anaconda-New-UI",
+          "publishedOn": "2022-01-11T19:00:48.000Z",
+          "wordCount": 838,
+          "title": "Red Hat / Fedora Anaconda Installer Shifting To A Web Based UI"
+        },
+        {
+          "id": "https://www.phoronix.com/scan.php?page=news_item&px=PCIe-6.0-Specification",
+          "author": null,
+          "description": "While PCIe 5.0 adoption is only in its infancy, the PCI-SIG today announced the PCIe 6.0 specification...",
+          "link": "https://www.phoronix.com/scan.php?page=news_item&px=PCIe-6.0-Specification",
+          "publishedOn": "2022-01-11T18:42:19.000Z",
+          "wordCount": 839,
+          "title": "PCIe 6.0 Specification Released With 64 GT/s Transfer Speeds"
+        },
+        {
           "id": "https://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-510-Linux-Beta",
           "author": null,
           "description": "In addition to announcing the GeForce RTX 3080 12GB graphics card this morning, NVIDIA has published their first public beta of the new NVIDIA 510 Linux driver series...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-510-Linux-Beta",
           "publishedOn": "2022-01-11T15:00:00.000Z",
-          "wordCount": 767,
+          "wordCount": 849,
           "title": "NVIDIA 510.39.01 Linux Beta Brings Vulkan Dynamic Rendering, AV1 VDPAU Decode & More"
         },
         {
@@ -2114,7 +2132,7 @@
           "description": "While RADV is not AMD's official Radeon Vulkan driver for Linux systems, for Mesa 22.0 they have contributed a set of optimizations to improve the \"DRI_PRIME\" performance for hybrid GPU setups such as the growing number of AMD powered notebooks with discrete graphics...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=RADV-Optimize-PRIME",
           "publishedOn": "2022-01-11T14:15:25.000Z",
-          "wordCount": 969,
+          "wordCount": 891,
           "title": "Radeon RADV Optimizations In Mesa 22.0 Improve PRIME/Hybrid GPU Performance"
         },
         {
@@ -2123,7 +2141,7 @@
           "description": "DXVK 1.9.3 is out as its first release of 2022 for implementing Direct3D 9/10/11 over Vulkan for allowing Windows games to enjoy good performance when running atop Linux via Valve's Steam Play...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.9.3-Released",
           "publishedOn": "2022-01-11T12:48:17.000Z",
-          "wordCount": 776,
+          "wordCount": 844,
           "title": "DXVK 1.9.3 Released With NVIDIA DLSS Integration, Many Game Fixes"
         },
         {
@@ -2132,7 +2150,7 @@
           "description": "Intel's pixel pipeline optimization work focused on speeding up DG2/Alchemist graphics cards with their open-source graphics driver has managed to land in Mesa 22.0...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-PP-Optimize-XeHP",
           "publishedOn": "2022-01-11T12:00:00.000Z",
-          "wordCount": 854,
+          "wordCount": 856,
           "title": "Intel Lands 20~40% Performance Optimization For Arc Graphics In Mesa 22.0"
         },
         {
@@ -2141,7 +2159,7 @@
           "description": "The power management subsystem updates were sent out yesterday and already mainlined for the in-development Linux 5.17 kernel. Most notable with the power management changes for this new version of the Linux kernel is the introduction of the AMD P-State driver developed in cooperation with Valve for the Steam Deck but stands to help CPU/SoC power efficiency across Zen 2 and newer hardware...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-Power-Management",
           "publishedOn": "2022-01-11T11:00:00.000Z",
-          "wordCount": 1025,
+          "wordCount": 1027,
           "title": "New AMD P-State Driver Headlines The Power Management Updates For Linux 5.17"
         },
         {
@@ -2150,7 +2168,7 @@
           "description": "Following Microsoft working on shader storage buffer object support for their Gallium3D D3D12 back-end within Mesa, they've been working on OpenGL compute and OpenGL ES 3.1 support for this controversial component to allow OpenGL/GLES/OpenCL to work atop Windows' Direct3D 12 drivers such as for Windows Subsystem for Linux...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Mesa-22.0-Gets-D3D12-Compute",
           "publishedOn": "2022-01-11T10:08:20.000Z",
-          "wordCount": 922,
+          "wordCount": 924,
           "title": "Microsoft Lands D3D12 Compute Support In Mesa 22.0"
         },
         {
@@ -2159,7 +2177,7 @@
           "description": "The Linux 5.17 hardware monitoring \"HWMON\" subsystem updates include the new NZXT driver, new drivers to greatly expand sensor coverage on modern ASUS desktop motherboards, temperature monitoring for next-gen AMD Zen processors, and more...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-HWMON",
           "publishedOn": "2022-01-11T09:00:00.000Z",
-          "wordCount": 1185,
+          "wordCount": 1107,
           "title": "Linux 5.17 Adds Sensor Monitoring Support To Many More ASUS Motherboards"
         },
         {
@@ -2168,7 +2186,7 @@
           "description": "Firefox 96.0 is officially shipping today as the first update of 2022 for this open-source web browser...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Firefox-96-Released",
           "publishedOn": "2022-01-11T05:00:00.000Z",
-          "wordCount": 827,
+          "wordCount": 909,
           "title": "Firefox 96 Yields Less Load On The Main Thread, WebP Encoder For Canvas"
         },
         {
@@ -2177,7 +2195,7 @@
           "description": "With the Btrfs file-system popularity ticking back up, that seems to be helping upstream enthusiasm and development efforts as with Linux 5.17 there is yet more exciting work...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Btrfs-Linux-5.17",
           "publishedOn": "2022-01-10T23:45:38.000Z",
-          "wordCount": 929,
+          "wordCount": 885,
           "title": "Btrfs Seeing Nice Performance Improvements For Linux 5.17"
         },
         {
@@ -2186,7 +2204,7 @@
           "description": "Intel announced new leadership changes today as 2022 gets started for what is expected to be an eventful year at the company with Sapphire Rapids, Raptor Lake, and Intel Arc graphics ahead...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-New-CCG-Leader",
           "publishedOn": "2022-01-10T21:36:37.000Z",
-          "wordCount": 829,
+          "wordCount": 831,
           "title": "Intel Announces New Leader Of Client Computing Group"
         },
         {
@@ -2195,7 +2213,7 @@
           "description": "While many were upset by CentOS Linux 8 going premature EOL at the end of last year, for those that made the move to CentOS Stream there continues to be a love of moment in part by the recently establisher Hyperscale SIG. For CentOS Stream 9, the big hyperscalers have been working on some interesting additions/backporting to the platform...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=CentOS-Hyperscale-Start-2022",
           "publishedOn": "2022-01-10T20:09:26.000Z",
-          "wordCount": 914,
+          "wordCount": 1000,
           "title": "Hyperscalers Have Been Making CentOS 9 Stream More Attractive With New Features"
         },
         {
@@ -2204,7 +2222,7 @@
           "description": "DragonFlyBSD 6.2 is now available as the latest version of this popular BSD open-source operating system...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=DragonFlyBSD-6.2",
           "publishedOn": "2022-01-10T18:58:12.000Z",
-          "wordCount": 870,
+          "wordCount": 943,
           "title": "DragonFlyBSD 6.2 Released With AMD Graphics Driver, Better HAMMER2, NVMM Hypervisor"
         },
         {
@@ -2213,7 +2231,7 @@
           "description": "Following last week's release of Chrome 97, Google has promoted Chrome 98 to beta form...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Chrome-98-Beta",
           "publishedOn": "2022-01-10T18:34:32.000Z",
-          "wordCount": 853,
+          "wordCount": 775,
           "title": "Google Rolls Chrome 98 Into Beta With COLRv1 Font Support"
         },
         {
@@ -2222,7 +2240,7 @@
           "description": "The x86 platform drivers area of the kernel remains very active in recent times thanks to the continued investments by Red Hat as well as growing IHV interest from the likes of Lenovo while also still having many contributions flow in from the likes of AMD and Intel. With Linux 5.17 are a number of driver additions and improvements for benefiting various x86 laptops and tablets...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-x86-Platform-Drivers",
           "publishedOn": "2022-01-10T14:30:00.000Z",
-          "wordCount": 1068,
+          "wordCount": 1070,
           "title": "The Intel/AMD Laptop & Tablet Support Improvements For Linux 5.17"
         },
         {
@@ -2231,7 +2249,7 @@
           "description": "The Linux networking subsystem updates for the in-development 5.17 kernel are quite exciting as usual given how prolific Linux is from large servers in the cloud to running on enterprise networking gear down to Linux on small IoT hardware. Not only is there a lot of hardware driver action as usual but also some key performance/latency optimizations...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-Networking",
           "publishedOn": "2022-01-10T12:40:52.000Z",
-          "wordCount": 918,
+          "wordCount": 920,
           "title": "The Networking Changes For Linux 5.17 Are Very Exciting"
         },
         {
@@ -2240,7 +2258,7 @@
           "description": "The HID subsystem changes are rather exciting this time around of the new feature material for Linux 5.17...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-HID",
           "publishedOn": "2022-01-10T12:06:27.000Z",
-          "wordCount": 970,
+          "wordCount": 972,
           "title": "USI Stylus, LetSketch Tablet Driver, Better Apple Magic Device Support In Linux 5.17"
         },
         {
@@ -2249,7 +2267,7 @@
           "description": "With the Linux 5.17 kernel merge window formally open today, among the early pull requests sent out this morning were the Error Detection And Correction (EDAC) driver updates which is notable this time in preparation for next-generation AMD EPYC server hardware...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-EDAC",
           "publishedOn": "2022-01-10T11:21:46.000Z",
-          "wordCount": 985,
+          "wordCount": 1021,
           "title": "Linux 5.17 EDAC Driver Brings Support For New AMD Zen CPUs, RDDR5 / LRDDR5 Memory"
         },
         {
@@ -2258,7 +2276,7 @@
           "description": "It's been almost one year already since the last XWayland standalone feature release separate from the X.Org Server codebase itself while now the next feature installment will soon be out...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=XWayland-22.1-Released",
           "publishedOn": "2022-01-10T10:59:21.000Z",
-          "wordCount": 794,
+          "wordCount": 876,
           "title": "XWayland 22.1 Planned For Release Next Month"
         },
         {
@@ -2267,7 +2285,7 @@
           "description": "Following yesterday's release of Linux 5.16, the GNU folks have released GNU Linux-libre 5.16-gnu as their downstream that removes/disables any code depending upon non-open-source firmware/microcode binaries, the ability to load proprietary kernel modules, and other cleaning in the name of free software...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GNU-Linux-Libre-5.16",
           "publishedOn": "2022-01-10T09:30:20.000Z",
-          "wordCount": 855,
+          "wordCount": 843,
           "title": "GNU Linux-libre 5.16 Brings More Firmware Cleansing, Deblobbing"
         },
         {
@@ -2276,7 +2294,7 @@
           "description": "As expected the Linux 5.16 kernel has been promoted to stable...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.16-Released",
           "publishedOn": "2022-01-09T23:23:16.000Z",
-          "wordCount": 899,
+          "wordCount": 901,
           "title": "Linux 5.16 Released With Many Intel & AMD Additions, Memory Folios, AMX, FUTEX2"
         },
         {
@@ -2294,7 +2312,7 @@
           "description": "Going back a number of months Google engineers have been working to address the issue of the Linux kernel's page reclaim code being too expensive for which they devised the multi-generational LRU framework \"MGLRU\" and it continues being worked on with mainline ambitions...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-MGLRU-v6-Linux",
           "publishedOn": "2022-01-09T11:42:00.000Z",
-          "wordCount": 931,
+          "wordCount": 933,
           "title": "MGLRU Is A Very Enticing Enhancement For Linux In 2022"
         },
         {
@@ -2303,7 +2321,7 @@
           "description": "Sway 1.7 is up to its second release candidate for this popular i3-inspired Wayland lightweight compositor...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Sway-1.7-rc2",
           "publishedOn": "2022-01-09T11:14:29.000Z",
-          "wordCount": 912,
+          "wordCount": 923,
           "title": "Sway 1.7 Nears Release With Less Abrasive NVIDIA Option, Zero-Copy Direct Scanout"
         },
         {
@@ -2312,7 +2330,7 @@
           "description": "Among many other sound driver changes destined for the upcoming Linux 5.17 cycle, Cirrus Logic has contributed CS35L41 HD audio codec support in the form of a new sound driver, cs35l41_hda...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-Cirrus-CS35L41",
           "publishedOn": "2022-01-09T11:02:39.000Z",
-          "wordCount": 925,
+          "wordCount": 847,
           "title": "Linux 5.17 To Introduce Cirrus CS35L41 HD Audio Codec Driver"
         },
         {
@@ -2321,7 +2339,7 @@
           "description": "While our testing has consistently shown how Clear Linux can deliver leading performance on Intel/AMD x86_64 platforms, one of the user criticisms to that distribution has been around the limited selection of packaged software especially on the desktop side. But the rather interesting Distrobox can help address that by leveraging Podman or Docker to run other Linux distribution user-space software packages atop...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Distrobox-Clear-Linux",
           "publishedOn": "2022-01-09T10:22:47.000Z",
-          "wordCount": 829,
+          "wordCount": 897,
           "title": "Using Distrobox To Augment The Package Selection On Clear Linux, Other Distributions"
         },
         {
@@ -2330,7 +2348,7 @@
           "description": "What may end up being one of the greatest Linux kernel features of 2022 is the recently published \"Fast Kernel Headers\" effort for cleaning up the kernel headers and dramatically speeding up Linux kernel builds both for absolute/clean and incremental builds. Fast Kernel Headers can cut the Linux kernel build time in half or greater and out this weekend are the v2 patches...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Fast-Kernel-Headers-v2",
           "publishedOn": "2022-01-08T18:34:31.000Z",
-          "wordCount": 954,
+          "wordCount": 956,
           "title": "Fast Kernel Headers v2 Posted - Speeds Up Clang-Built Linux Kernel Build By ~88%"
         },
         {
@@ -2339,7 +2357,7 @@
           "description": "The Linux 5.16 stable kernel is slated for release tomorrow and it delivers on some grand improvements to kick off 2022. But as for great as the Linux 5.16 features are, we are already looking forward to the enhancements on deck with Linux 5.17...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.17-Early-Features",
           "publishedOn": "2022-01-08T14:35:57.000Z",
-          "wordCount": 1296,
+          "wordCount": 1378,
           "title": "Linux 5.17 To Bring AMD P-State, Many AMD & Intel Improvements, New Optimizations"
         },
         {
@@ -2348,7 +2366,7 @@
           "description": "It should hardly come as a surprise given Fedora's history of always shipping with the very latest GNU Compiler Collection (GCC), but with this spring's Fedora 36 the plan is to ship with the yet-to-be-released GCC 12 and other very latest open-source compiler toolchain components...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-12-For-Fedora-36",
           "publishedOn": "2022-01-08T14:02:31.000Z",
-          "wordCount": 820,
+          "wordCount": 902,
           "title": "GCC 12 + Glibc 2.35 Planned For Fedora 36"
         },
         {
@@ -2357,26 +2375,8 @@
           "description": "KDE developers have kicked off 2022 into full-swing with new features and other improvements now on their way to the next round of KDE software releases...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=KDE-Starts-2022",
           "publishedOn": "2022-01-08T10:03:13.000Z",
-          "wordCount": 788,
+          "wordCount": 790,
           "title": "KDE Kicks Off 2022 With New Feature Work"
-        },
-        {
-          "id": "https://www.phoronix.com/scan.php?page=news_item&px=GNOME-Subsurface-Scanout",
-          "author": null,
-          "description": "Adding to the changes for GNOME 42 this spring is the Mutter Wayland compositor now taking into account sub-surfaces when determining direct scanout capabilities...",
-          "link": "https://www.phoronix.com/scan.php?page=news_item&px=GNOME-Subsurface-Scanout",
-          "publishedOn": "2022-01-08T09:00:09.000Z",
-          "wordCount": 837,
-          "title": "GNOME On Wayland Lands Improved Handling For Direct Scanout Support"
-        },
-        {
-          "id": "https://www.phoronix.com/scan.php?page=news_item&px=Gentoo-2021-Recap",
-          "author": null,
-          "description": "Gentoo Linux developers were very busy over the course of 2021 for this popular rolling-release operating system choice...",
-          "link": "https://www.phoronix.com/scan.php?page=news_item&px=Gentoo-2021-Recap",
-          "publishedOn": "2022-01-08T05:00:00.000Z",
-          "wordCount": 921,
-          "title": "Gentoo Linux Packages Up AMD ROCm, Makes Progress On RISC-V, LTO+PGO Python"
         },
         {
           "id": "https://www.phoronix.com/vr.php?view=30838",
@@ -2384,7 +2384,7 @@
           "description": "Across dozens of articles over the past year I have covered a variety of different open-source AMD Radeon Linux graphics driver optimizations from their kernel driver through their Mesa RadeonSI Gallium3D driver and the popular RADV Vulkan driver, among other interesting open-source AMD contributions. For those wondering what the cumulative gain was for 2021 from all these AMD graphics driver changes, here are some end-of-year 2020 vs. 2021 benchmarks across a number of different Linux games while testing on Vega, Navi, and Navi 2 graphics cards.",
           "link": "https://www.phoronix.com/vr.php?view=30838",
           "publishedOn": "2022-01-07T14:00:00.000Z",
-          "wordCount": 1016,
+          "wordCount": 936,
           "title": "AMD Radeon Open-Source Linux GPU Driver Performance: 2020 vs. 2021"
         }
       ]
@@ -2438,12 +2438,48 @@
       "siteUrl": "https://www.destructoid.com",
       "articles": [
         {
+          "id": "https://www.destructoid.com/?p=303740",
+          "author": "Chris Moyse",
+          "description": "Oh yes, it’s Ladies’ Fight This week sees the coming of two new DLC characters to the roster of cult...\nThe post Melty Blood: Type Lumina spotlights new DLC character throwdowns appeared first on Destructoid.",
+          "link": "https://www.destructoid.com/melty-blood-type-lumina-dlc-dead-apostle-noel-aoko-aozaki-trailers/?utm_source=rss&utm_medium=rss&utm_campaign=melty-blood-type-lumina-dlc-dead-apostle-noel-aoko-aozaki-trailers",
+          "publishedOn": "2022-01-11T20:00:57.000Z",
+          "wordCount": 784,
+          "title": "Melty Blood: Type Lumina spotlights new DLC character throwdowns"
+        },
+        {
+          "id": "https://www.destructoid.com/?p=303794",
+          "author": "Eric Van Allen",
+          "description": "Another year in the World of Assassination We’re coming up on the one-year anniversary of Hitman 3, the third entry in...\nThe post IO Interactive will reveal its Hitman 3 Year 2 plans this week appeared first on Destructoid.",
+          "link": "https://www.destructoid.com/hitman-3-year-2-stream-announcement-reveal-time-date/?utm_source=rss&utm_medium=rss&utm_campaign=hitman-3-year-2-stream-announcement-reveal-time-date",
+          "publishedOn": "2022-01-11T19:30:04.000Z",
+          "wordCount": 708,
+          "title": "IO Interactive will reveal its Hitman 3 Year 2 plans this week"
+        },
+        {
+          "id": "https://www.destructoid.com/?p=303735",
+          "author": "Chris Moyse",
+          "description": "Bring me your Service Games Veteran game developer Sega has announced the founding of a brand new studio in Sapporo,...\nThe post Sega establishes new development studio in Sapporo, Japan appeared first on Destructoid.",
+          "link": "https://www.destructoid.com/sega-sapporo-studio-new-developer-japan/?utm_source=rss&utm_medium=rss&utm_campaign=sega-sapporo-studio-new-developer-japan",
+          "publishedOn": "2022-01-11T19:00:36.000Z",
+          "wordCount": 648,
+          "title": "Sega establishes new development studio in Sapporo, Japan"
+        },
+        {
+          "id": "https://www.destructoid.com/?p=303780",
+          "author": "Eric Van Allen",
+          "description": "Xbox boss Phil Spencer says it isn’t about “virtue-shaming other companies” In a new interview, Xbox boss Phil Spencer discusses...\nThe post Xbox head says they’ve ‘changed how we do certain things’ with Activision Blizzard appeared first on Destructoid.",
+          "link": "https://www.destructoid.com/xbox-activision-blizzard-changed-how-we-do-certain-things-phil-spencer/?utm_source=rss&utm_medium=rss&utm_campaign=xbox-activision-blizzard-changed-how-we-do-certain-things-phil-spencer",
+          "publishedOn": "2022-01-11T18:30:05.000Z",
+          "wordCount": 707,
+          "title": "Xbox head says they’ve ‘changed how we do certain things’ with Activision Blizzard"
+        },
+        {
           "id": "https://www.destructoid.com/?post_type=eg_reviews&p=303725",
           "author": "CJ Andriessen",
           "description": "The Towering Inferno Like a lot of the Destructoid staff, I was immediately smitten with Firegirl: Hack ’n Splash Rescue...\nThe post Review: Firegirl: Hack ‘n Splash Rescue appeared first on Destructoid.",
           "link": "https://www.destructoid.com/reviews/firegirl-review-destructoid/?utm_source=rss&utm_medium=rss&utm_campaign=firegirl-review-destructoid",
           "publishedOn": "2022-01-11T18:00:50.000Z",
-          "wordCount": 1629,
+          "wordCount": 1633,
           "title": "Review: Firegirl: Hack ‘n Splash Rescue"
         },
         {
@@ -2452,7 +2488,7 @@
           "description": "The spirits originally arrived in October 2021 Weren’t able to get the limited-run Smash Ultimate Metroid spirits? Well Nintendo brought...\nThe post Those limited-time Smash Ultimate Metroid spirits are now permanent appeared first on Destructoid.",
           "link": "https://www.destructoid.com/those-limited-time-smash-ultimate-metroid-spirits-are-now-permanent/?utm_source=rss&utm_medium=rss&utm_campaign=those-limited-time-smash-ultimate-metroid-spirits-are-now-permanent",
           "publishedOn": "2022-01-11T17:30:38.000Z",
-          "wordCount": 607,
+          "wordCount": 620,
           "title": "Those limited-time Smash Ultimate Metroid spirits are now permanent"
         },
         {
@@ -2488,7 +2524,7 @@
           "description": "Hands-on: It feels good to bonk pixelated monsters in this strange and evil land While sprawled-out ‘vania games have blown...\nThe post Infernax scratches that Castlevania II: Simon’s Quest itch appeared first on Destructoid.",
           "link": "https://www.destructoid.com/infernax-preview-scratching-that-castlevania-ii-simons-quest-itch/?utm_source=rss&utm_medium=rss&utm_campaign=infernax-preview-scratching-that-castlevania-ii-simons-quest-itch",
           "publishedOn": "2022-01-11T15:00:44.000Z",
-          "wordCount": 1451,
+          "wordCount": 1450,
           "title": "Infernax scratches that Castlevania II: Simon’s Quest itch"
         },
         {
@@ -2524,7 +2560,7 @@
           "description": "High-level details and images for a new Armored Core game have reportedly leaked from a survey According to details obtained...\nThe post Looks like Armored Core is back on the menu appeared first on Destructoid.",
           "link": "https://www.destructoid.com/armored-core-is-back-on-the-menu-fan-survey-leaked-screenshots-details/?utm_source=rss&utm_medium=rss&utm_campaign=armored-core-is-back-on-the-menu-fan-survey-leaked-screenshots-details",
           "publishedOn": "2022-01-10T23:40:55.000Z",
-          "wordCount": 1010,
+          "wordCount": 1007,
           "title": "Looks like Armored Core is back on the menu"
         },
         {
@@ -2542,7 +2578,7 @@
           "description": "One of the most anticipated features of the game Ah, character creators. Always the first two hours of my playthrough...\nThe post Players are pumped about Elden Ring’s leaked character creator appeared first on Destructoid.",
           "link": "https://www.destructoid.com/elden-ring-character-creator-video-leaked-players-are-pumped/?utm_source=rss&utm_medium=rss&utm_campaign=elden-ring-character-creator-video-leaked-players-are-pumped",
           "publishedOn": "2022-01-10T22:30:35.000Z",
-          "wordCount": 767,
+          "wordCount": 770,
           "title": "Players are pumped about Elden Ring’s leaked character creator"
         },
         {
@@ -2670,42 +2706,6 @@
           "publishedOn": "2022-01-09T15:00:25.000Z",
           "wordCount": 670,
           "title": "Remember amiibo? Here’s a recap of 2022’s upcoming figures"
-        },
-        {
-          "id": "https://www.destructoid.com/?p=302766",
-          "author": "Chris Moyse",
-          "description": "Feeeeeling… so good today… Happy Saturday, happy weekend, happy 2022, and welcome to Whatcha Been Playing? The year might be...\nThe post Whatcha been playing this week, Destructoid? appeared first on Destructoid.",
-          "link": "https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-180/?utm_source=rss&utm_medium=rss&utm_campaign=whatcha-been-playing-this-week-destructoid-180",
-          "publishedOn": "2022-01-09T14:00:08.000Z",
-          "wordCount": 815,
-          "title": "Whatcha been playing this week, Destructoid?"
-        },
-        {
-          "id": "https://www.destructoid.com/?p=302906",
-          "author": "Destructoid Community",
-          "description": "Cblogs of 1/1 to 1/7/2022 –Black Red Gaming discusses their five most anticipated game releases in January. -Tomas Immortal reviews...\nThe post What’s your most anticipated release in 2022’s stacked first quarter? appeared first on Destructoid.",
-          "link": "https://www.destructoid.com/destructoid-cblog-recaps-january-8-2022/?utm_source=rss&utm_medium=rss&utm_campaign=destructoid-cblog-recaps-january-8-2022",
-          "publishedOn": "2022-01-08T20:00:14.000Z",
-          "wordCount": 611,
-          "title": "What’s your most anticipated release in 2022’s stacked first quarter?"
-        },
-        {
-          "id": "https://www.destructoid.com/?p=302865",
-          "author": "Chris Moyse",
-          "description": "Totally Awesome Video Gaaaaames! It’s a brand new year, and the retro lovers over at Hamster are set to deliver...\nThe post Channel your inner Vidiot as Super Pac-Man hits the Arcade Archives appeared first on Destructoid.",
-          "link": "https://www.destructoid.com/super-pac-man-arcade-archives-hamster-ps4-switch-retro-vidiot-joysticks/?utm_source=rss&utm_medium=rss&utm_campaign=super-pac-man-arcade-archives-hamster-ps4-switch-retro-vidiot-joysticks",
-          "publishedOn": "2022-01-08T18:00:03.000Z",
-          "wordCount": 762,
-          "title": "Channel your inner Vidiot as Super Pac-Man hits the Arcade Archives"
-        },
-        {
-          "id": "https://www.destructoid.com/?p=302532",
-          "author": "Eric Van Allen",
-          "description": "Please, no objections Well, then. 2021 is over. A series of 365 days that decided, “what if we did 2020,...\nThe post Eric’s favorite games of 2021 appeared first on Destructoid.",
-          "link": "https://www.destructoid.com/erics-favorite-games-of-2021/?utm_source=rss&utm_medium=rss&utm_campaign=erics-favorite-games-of-2021",
-          "publishedOn": "2022-01-08T17:00:40.000Z",
-          "wordCount": 2954,
-          "title": "Eric’s favorite games of 2021"
         }
       ]
     },
@@ -2714,6 +2714,33 @@
       "feedUrl": "https://www.gameinformer.com/rss.xml",
       "siteUrl": "https://www.gameinformer.com/",
       "articles": [
+        {
+          "id": "116922",
+          "author": "Marcus Stewart",
+          "description": "In an audio interview with Kara Swisher of The New York Times, head of Xbox Phil Spencer spoke on a variety of topics surrounding the Xbox brand, including his company’s response to the myriad of ongoing sexual harassment, assault, and gender discrimination lawsuits at Activision Blizzard. Spencer had previously told his staff in an open letter that leadership was “evaluating all aspects of our relationship with Activision Blizzard and making ongoing proactive adjustments.” He clarified what that means as well as the publisher’s larger philosophy on maintaining relationships with partners embroiled in workplace controversy. \nIt is important to keep in mind what is going on within Activision Blizzard at this time regarding ongoing allegations about the work culture. The ongoing lawsuit from…",
+          "link": "https://www.gameinformer.com/2022/01/11/phil-spencer-discusses-xboxs-relationship-with-activision-blizzard-and-dealing-with",
+          "publishedOn": "2022-01-11T19:30:00.000Z",
+          "wordCount": 1137,
+          "title": "Phil Spencer Discusses Xbox's Relationship With Activision Blizzard And Dealing With Problematic Studios"
+        },
+        {
+          "id": "116914",
+          "author": "Kimberley Wallace",
+          "description": "Aloy’s resilience, passion, and curiosity made players fall in love with her in Horizon Zero Dawn. For the sequel, she’s not the same underdog we watched come into her own. She’s proven herself, becoming a hero in the eyes of the populace around her. Of course, once you succeed and earn the title of “greatest machine hunter in the land,” the pressure’s on to live up to people’s expectations, and Aloy isn’t going to have it easy this time around.\nWhen it rains, it pours. Six months after the events of Horizon Zero Dawn, Aloy heads westward to find out more about a mysterious Red Blight, which signals the degradation of the biosphere. If the stakes weren’t already high enough, her journey to new soil also brings new threats. This time peril comes not just in the form of harrowing machines, b…",
+          "link": "https://www.gameinformer.com/2022/01/11/how-guerrilla-games-is-taking-aloy-to-new-places-in-horizon-forbidden-west",
+          "publishedOn": "2022-01-11T19:00:00.000Z",
+          "wordCount": 992,
+          "title": "How Guerrilla Games Is Taking Aloy To New Places In Horizon Forbidden West"
+        },
+        {
+          "id": "116924",
+          "author": "Wesley LeBlanc",
+          "description": "It is important to keep in mind what is going on within Activision Blizzard at this time regarding ongoing allegations about the work culture. The ongoing lawsuit from the California Department of Fair Employment and Housing (DFEH) against the company is over reported toxic workplace culture. The bulk of the suit focuses on \"violations of the state's civil rights and equal pay laws,\" specifically regarding the treatment of women and other marginalized groups. To learn more about the proceedings thus far, including details listed in the lawsuit against Activision Blizzard, please check out our previous coverage here.\n\nLego has delayed the upcoming release of its Lego Overwatch 2 Titan set as a result of the ongoing Activision Blizzard controversy. \nThis news comes by way of TheBrickFan, which reports that Lego is pausing the release of the set in order to review its partnership with Activision Blizzard in light of allegations against the company and leadership within. The latest of said controversy was revealed back in December when a current Blizzard employee said in a press conference that she was demoted after filing an HR complaint about sexual harassment. Here’s Lego’s official statement regarding the indefinite delay:\nThis decision by Lego must have come in the final hour because the Overwatch 2 Titan set was due out very soon. With less than three weeks to go, it wouldn’t be surprising if these boxes were already being sent to retailers before today. \nThere’s no word on when this set will be released or when Lego’s review of its partnership with Activision Blizzard will be complete. \n[Source: TheBrickFan]",
+          "link": "https://www.gameinformer.com/2022/01/11/lego-delays-overwatch-2-set-due-to-ongoing-activision-blizzard-controversy",
+          "publishedOn": "2022-01-11T18:04:29.000Z",
+          "wordCount": 712,
+          "title": "Lego Delays Overwatch 2 Set Due To Ongoing Activision Blizzard Controversy"
+        },
         {
           "id": "116920",
           "author": "Wesley LeBlanc",
@@ -3151,33 +3178,6 @@
           "publishedOn": "2022-01-05T23:01:11.000Z",
           "wordCount": 708,
           "title": "Playground Games Co-Founder Leaving Forza Horizon 5 Studio After 12 Years"
-        },
-        {
-          "id": "116874",
-          "author": "Wesley LeBlanc",
-          "description": "Riot Games have pulled the curtains back on the newest agent joining Valorant and her name is Neon. \nRevealed by way of a special agent trailer, Neon is a fast-paced electric shooter that seemingly specializes in zooming all over a given map quicker than any other agent in the game. The short story trailer, which runs less than three minutes, reveals that Neon is a Manila, Philippines-based agent with an excellent taste in music. \nClick here to watch embedded media\n\n\nAs you can see in the trailer, Neon is a fan of Entertain Me by Ylona Garcia and 88rising. She’s also seemingly a fan of dreaming about what players are going to accomplish on the battlefield using her powers. We see her sprinting and sliding all over the maps shown in the trailer, using her electricity to make it easier. However, it doesn’t seem like she’ll be able to shoot while sprinting so don’t expect to be the run-n-gunner Neon might appear to be. \nWe also get a quick look at one of her abilities where Neon lifts two large and long walls of electricity in a straight line, walls that she’s free to run in and out of. \nThe trailer also reveals that Neon will arrive in Valorant with Episode 4: Disruption, although a release date for this new episode (which is what Valorant calls its big updates) has not yet been revealed. However, the current battle pass ends on January 11 so some fans have speculated that Episode 4 will begin the following day on January 12. \nWhile waiting to learn more, check out our thoughts on the shooter in Game Informer’s Valorant review and then read about how Valorant’s director is no longer working on the game and instead working on a new secret project at Riot. Be sure to read about how a mobile version of Valorant is on the way after that. \nAre you excited to check out Neon when she arrives to Valorant? Let us know in the comments below!",
-          "link": "https://www.gameinformer.com/2022/01/05/valorants-newest-agent-revealed-arrives-next-update",
-          "publishedOn": "2022-01-05T22:10:11.000Z",
-          "wordCount": 702,
-          "title": "Valorant’s Newest Agent Revealed, Arrives Next Update"
-        },
-        {
-          "id": "116872",
-          "author": "Ben Reeves",
-          "description": "Virtual reality hasn’t caught on as quickly as some predicted, but VR headsets have managed to amass an impressive collection of software in the last few years regardless. And given Sony's recent PSVR2 announcements, this could be a big year for virtual reality. If you just bought a Meta Quest or haven’t fired yours up in a long time, there are several great experiences to be had. We highlight some of the best VR titles out now for the Quest, from high octane music games to spooky shooters. Here are 10 VR games you shouldn’t ignore, in no particular order.\nHonorable Mentions: Half-Life: Alyx and Lone Echo\nIf you have a VR-ready gaming PC, you can connect it to a Quest via an Oculus Link Cable or over WiFi using Air Link. Doing so unlocks a number of PC-based VR games, most notably Half-Lif…",
-          "link": "https://www.gameinformer.com/2022/01/05/top-10-meta-quest-games-to-play-right-now",
-          "publishedOn": "2022-01-05T21:30:00.000Z",
-          "wordCount": 1951,
-          "title": "Top 10 Meta Quest Games To Play Right Now"
-        },
-        {
-          "id": "116861",
-          "author": "John Carson",
-          "description": "Arcade1Up, makers of affordable arcade cabinets built at a manageable size to put in your home, is broadening its product line to offer a larger, full-size machine for collectors who want a more true-to-arcade experience. \nThe first in the line of Arcade1Up's Pro Series cabinets features a handful of games, centered around Rare's classic fighter, Killer Instinct. What makes the Pro Series stand apart from its contemporaries isn't its slate of games, though; it's the construction of the cabinet itself.\nArcade1Up's traditional home arcade machines stand somewhere between 47\" and 57\" tall, depending on whether you have it sitting on the height-boosting riser. The Killer Instinct Pro Series cabinet measures in at 67.5\" tall (or 5ft 6in), almost a foot taller than the typical cab with a riser s…",
-          "link": "https://www.gameinformer.com/2022/01/05/arcade1up-announces-pro-series-cabinets-with-a-bigger-killer-instinct-machine",
-          "publishedOn": "2022-01-05T20:16:11.000Z",
-          "wordCount": 826,
-          "title": "Arcade1Up Announces Pro Series Cabinets With A Bigger Killer Instinct Machine"
         }
       ]
     }
