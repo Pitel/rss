@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-17T06:13:54.108Z</id>
+    <id>urn:2022-01-17T08:13:53.358Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-17T06:13:54.108Z</updated>
+    <updated>2022-01-17T08:13:53.358Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GCC 12 pomůže proti útokům Trojan Source]]></title>
+        <id>www.root.cz-actuality-43226</id>
+        <link href="https://www.root.cz/zpravicky/gcc-12-pomuze-proti-utokum-trojan-source/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-17T07:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Nová zranitelnost Trojan Source napadá zdrojové kódy, které na pohled vypadají v pořádku, přeloží se však jinak. Mohou za to unicode znaky pro řízení toku textu (bidirectional, BiDi), které mohou zobrazený text přehodit CVE-2021–42574, případně použití unicode znaku, který však vypadá podobně, nebo stejně jako jiný znak. Například H a Н (ruské N). Takové znaky jsou nazývány homoglyfy a zranitelnost má označení CVE-2021–42694. RedHat vytvořil skript, který v repozitářích detekuje tyto problémy.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idris dostal novou verzi backendu pro JVM]]></title>
+        <id>www.root.cz-actuality-43225</id>
+        <link href="https://www.root.cz/zpravicky/idris-dostal-novou-verzi-backendu-pro-jvm/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-17T06:50:31.000Z</updated>
+        <summary type="html"><![CDATA[Funkcionální jazyk Idris dostal novou verzi backendu pro JVM. Dohání tak oficiální verzi Idrisu 0.5.1, která vyšla v září 2021.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Calculon)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27. stretnutie komunity Cloud Native – Kubernetes (online)]]></title>
+        <id>www.root.cz-actuality-43224</id>
+        <link href="https://www.root.cz/zpravicky/27-stretnutie-komunity-cloud-native-kubernetes-online-43224/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-17T06:49:09.000Z</updated>
+        <summary type="html"><![CDATA[19.1.2021 od 18:00 do 20:00]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: anonymní)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NBA Player Gets Zelda Sound Played Every Time He Scores]]></title>
         <id>1848370205</id>
@@ -23,6 +53,16 @@ Read more...]]></summary>
         <link href="http://www.abclinuxu.cz/zpravicky/systemrescue-9.00"/>
         <updated>2022-01-17T02:04:44.000Z</updated>
         <summary type="html"><![CDATA[Byla vydána verze 9.00 linuxové distribuce SystemRescue, původně SystemRescueCd. Přehled novinek v changelogu. Linux byl povýšen na verzi 5.15.14. Vylepšena byla podpora NTFS.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mumble 1.4.230]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mumble-1.4.230</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mumble-1.4.230"/>
+        <updated>2022-01-17T01:53:10.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová stabilní verze 1.4.230 (první z řady 1.4.x, viz změna číslování verzí) open source program pro hlasovou komunikaci Mumble (Wikipedie, GitHub). Přehled novinek v příspěvku na blogu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
         </author>
@@ -78,6 +118,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[It's been over two years since Mumble 1.3 was released for this open-source VoIP / voice chat program that is popular with gamers and open-source enthusiasts while today it's been succeeded by Mumble 1.4...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JACK1 0.126.0, JACK2 1.9.20, jack-example-tools 1 a New Session Manager 1.5.3]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/jack1-0.126.0-jack2-1.9.20-jack-example-tools-1-a-new-session-manager-1.5.3</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/jack1-0.126.0-jack2-1.9.20-jack-example-tools-1-a-new-session-manager-1.5.3"/>
+        <updated>2022-01-16T23:31:54.000Z</updated>
+        <summary type="html"><![CDATA[Byly vydány nové verze JACK Audio Connection Kitu (Wikipedie): JACK1 0.126.0 a JACK2 1.9.20. Nástroje a příklady byly vyčleněny do nového samostatného repozitáře jack-example-tools verze 1. To usnadní balíčkování JACKu a PipeWire (pipewire-jack) v linuxových distribucích. Vydán byl také New Session Manager 1.5.3.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1549,16 +1599,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SuperTux ve službě Steam]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/supertux-ve-sluzbe-steam</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/supertux-ve-sluzbe-steam"/>
-        <updated>2022-01-14T01:58:25.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři klasické 2D plošinovky s tučňákem Tuxem SuperTux na Twitteru oznámili, že SuperTux je nově k dispozici také ve službě Steam.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Valve says Steam Deck shipping is ‘on track’ for February, so keep those fingers crossed]]></title>
         <id>https://www.destructoid.com/?p=304347</id>
         <link href="https://www.destructoid.com/valve-says-steam-deck-shipping-on-track-february-2022-keep-those-fingers-crossed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=valve-says-steam-deck-shipping-on-track-february-2022-keep-those-fingers-crossed"/>
@@ -1753,16 +1793,6 @@ The post also acknowledges Riot Games' recent history, including their settlemen
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/flatpak-1.12.3-a-1.10.6-resi-bezpecnostni-chybu-cve-2021-43860</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/flatpak-1.12.3-a-1.10.6-resi-bezpecnostni-chybu-cve-2021-43860"/>
-        <updated>2022-01-13T21:33:01.000Z</updated>
-        <summary type="html"><![CDATA[Flatpak 1.12.3 a 1.10.6 řeší bezpečnostní chybu CVE-2021-43860. Oprávnění zobrazována při instalaci aplikace se nemusela shodovat se skutečnými požadovanými oprávněními. Aplikaci tak mohla být udělena oprávnění, se kterými by uživatel nesouhlasil.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3229,16 +3259,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UPS HAT pro Raspberry Pi]]></title>
-        <id>www.root.cz-actuality-43199</id>
-        <link href="https://www.root.cz/zpravicky/ups-hat-pro-raspberry-pi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-10T14:23:51.000Z</updated>
-        <summary type="html"><![CDATA[V prosinci na Kickstarteru začala kampaň s UPS HAT pro Raspberry Pi. Podporovány jsou všechny modely, ale rozměrově HAT odpovídá velkým Raspberry Pi 1, 2, 3 a 4. Použity jsou dvě Li-ion 18650 baterie (není součástí balení). Nabíjí se externím zdrojem 8,4 V 2 A. UPS umožňuje v reálném čase sledovat napětí a proudy přes I2C.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dying Light 2 will take 500 hours to "fully complete", devs say]]></title>
         <id>https://www.rockpapershotgun.com/dying-light-2-will-take-500-hours-to-fully-complete-devs-say</id>
         <link href="https://www.rockpapershotgun.com/dying-light-2-will-take-500-hours-to-fully-complete-devs-say"/>
@@ -3247,26 +3267,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla po kritice pozastavila přijímání darů v kryptoměnách]]></title>
-        <id>www.root.cz-actuality-43198</id>
-        <link href="https://www.root.cz/zpravicky/mozilla-po-kritice-pozastavila-prijimani-daru-v-kryptomenach/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-10T10:04:37.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla ve čtvrtek na Twitteru oznámila, že pozastavila přijímání darů v kryptoměnách. Stalo se to po té, co Mozilla na Silvestra připomněla na Twitteru, že přijímá dary v kryptoměnách a pod příspěvkem se objevilo mnoho negativních komentářů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyšlo jádro 5.16 s podporou Intel AMX a vyšším výkonem GPU AMD]]></title>
-        <id>www.root.cz-actuality-43197</id>
-        <link href="https://www.root.cz/zpravicky/vyslo-jadro-5-16/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-10T08:13:04.000Z</updated>
-        <summary type="html"><![CDATA[Včera Linus Torvalds vydal jádro 5.16. Mezi novinky patří podpora FUTEX2, která pomůže výkonu ve Wine obzvláště her. Nová je podpora instrukcí Intelu AMX (Advanced Matrix Extensions), které najdeme patrně již letos v procesorech Sapphire Rapids. Jádro 5.16 také přinese vyšší výkon pro integrované GPU AMD.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
