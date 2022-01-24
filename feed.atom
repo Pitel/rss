@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-24T06:14:29.006Z</id>
+    <id>urn:2022-01-24T08:37:40.737Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-24T06:14:29.006Z</updated>
+    <updated>2022-01-24T08:37:40.737Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Naučte se pracovat s Dockerem a kontejnery (školení)]]></title>
+        <id>www.root.cz-actuality-39529</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pracovat-s-dockerem-a-kontejnery-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-24T07:51:01.000Z</updated>
+        <summary type="html"><![CDATA[Docker je dnes technologie, která proces vývoje, testování a provozování softwaru velmi zjednodušuje. Provozujte cokoliv a kdekoliv. Už nečekejte na nastavení svého serveru nebo na aktualizaci nějaké knihovny. Mějte prostředí jako součást vaší aplikace.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testovací 64bitový Armbian pro Raspberry Pi 4]]></title>
+        <id>www.root.cz-actuality-43249</id>
+        <link href="https://www.root.cz/zpravicky/testovaci-64bitovy-armbian-pro-raspberry-pi-4/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-24T06:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Armbian je speciální populární distribuce určená pro různé jednodeskové počítače (SBC) s procesory ARM. Často výrobce SBC nedodává aktuální distribuci či aktuální jádro a Armbian je v těchto případech dobrou alternativou. Koncem loňského roku vyšel překvapivě Armbian pro Raspberry Pi 4. Zakladatel Armbianu Igor Pečovnik se totiž opakovaně v minulosti negativně vyjadřoval o možné podpoře Armbianu pro Raspberry Pi hlavně kvůli uzavřenosti bootloaderu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LVFS Exploring Alternate, Open-Source Firmware For Capable End-Of-Life Devices]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LVFS-Alternative-Firmware</id>
@@ -3249,26 +3269,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC 12 pomůže proti útokům Trojan Source]]></title>
-        <id>www.root.cz-actuality-43226</id>
-        <link href="https://www.root.cz/zpravicky/gcc-12-pomuze-proti-utokum-trojan-source/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-17T07:26:20.000Z</updated>
-        <summary type="html"><![CDATA[Nová zranitelnost Trojan Source napadá zdrojové kódy, které na pohled vypadají v pořádku, přeloží se však jinak. Mohou za to unicode znaky pro řízení toku textu (bidirectional, BiDi), které mohou zobrazený text přehodit CVE-2021–42574, případně použití unicode znaku, který však vypadá podobně, nebo stejně jako jiný znak. Například H a Н (ruské N). Takové znaky jsou nazývány homoglyfy a zranitelnost má označení CVE-2021–42694. RedHat vytvořil skript, který v repozitářích detekuje tyto problémy.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idris dostal novou verzi backendu pro JVM]]></title>
-        <id>www.root.cz-actuality-43225</id>
-        <link href="https://www.root.cz/zpravicky/idris-dostal-novou-verzi-backendu-pro-jvm/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-17T06:50:31.000Z</updated>
-        <summary type="html"><![CDATA[Funkcionální jazyk Idris dostal novou verzi backendu pro JVM. Dohání tak oficiální verzi Idrisu 0.5.1, která vyšla v září 2021.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Calculon)</name>
         </author>
     </entry>
     <entry>
