@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-25T06:12:05.215Z</id>
+    <id>urn:2022-01-25T08:12:21.078Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-25T06:12:05.215Z</updated>
+    <updated>2022-01-25T08:12:21.078Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -98,6 +98,28 @@ Read the full article on nintendolife.com]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ian Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevConf.CZ 2022 začíná tento pátek]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/devconf.cz-2022-zacina-tento-patek</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/devconf.cz-2022-zacina-tento-patek"/>
+        <updated>2022-01-25T01:41:59.000Z</updated>
+        <summary type="html"><![CDATA[V pátek 28. ledna začíná 14. ročník konference DevConf.CZ.  Jde o každoroční komunitní konferenci pro vývojáře, administrátory,  DevOps inženýry, testery, autory dokumentace a další přispěvatele či  uživatele technologií open source. Konference proběhne podruhé online, a  to v termínu 28. - 29. ledna.
+Letošní program nabídne více než 100 přednášek v podání 150 přednášejících z celého  světa. Každý den se se můžete těšit na minimálně 6 souběžných streamů s  přednáškami, workshopy a meetupy. Kromě toho si pro vás organizátoři  připravili hromadu dalších interaktivních aktivit: protáhněte se během  online jógy nebo lekce tance; naučte se, jak správně připravit kávu  během živé ochutnávky pod vedením profesionálního baristy z pražírny Doubleshot; nebo se zapojte do simulované bezpečnostní výzvy Capture the Flag. Také pracujeme na vlastní 8-bitové mapě na platformě  WorkAdventure, která bude sloužit k socializaci s ostatními účastníky, přednášejícími a organizátory.
+Na konferenci je potřeba se zaregistrovat: https://hopin.com/events/devconf-cz-2022]]></summary>
+        <author>
+            <name>Dorka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 2.35.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/git-2.35.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/git-2.35.0"/>
+        <updated>2022-01-25T01:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 2.35.0 distribuovaného systému správy verzí Git. Přispělo 93 vývojářů, z toho 35 nových. Přehled novinek v příspěvku na blogu GitHubu a v poznámkách k vydání.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1415,16 +1437,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bug bounty pro LibreOffice, LEOS, Mastodon, Odoo a CryptPad]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/bug-bounty-pro-libreoffice-leos-mastodon-odoo-a-cryptpad</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/bug-bounty-pro-libreoffice-leos-mastodon-odoo-a-cryptpad"/>
-        <updated>2022-01-23T13:38:57.000Z</updated>
-        <summary type="html"><![CDATA[Evropská komise vyhlašuje bug bounty program pro aplikace LibreOffice, LEOS, Mastodon, Odoo a CryptPad. Až 5 000 eur si může odnést objevitel bezpečnostní chyby v uvedených aplikacích, 20 % bonus dostane, pokud chybu rovnou opraví. Celková odměna určená pro objevitele chyb je 200 000 eur. Aplikace byly vybrány, protože se používají v evropských veřejných službách.]]></summary>
-        <author>
-            <name>Zdeněk Crhonek</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nasazení open-source řešení ve francouzských školách]]></title>
         <id>www.root.cz-actuality-43248</id>
         <link href="https://www.root.cz/zpravicky/nasazeni-open-source-reseni-ve-francouzskych-skolach/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1719,16 +1731,6 @@ Check out the rest of our podcast on the Video Gameography hub. If you'd like to
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Briar Desktop pro Linux]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/briar-desktop-pro-linux</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/briar-desktop-pro-linux"/>
-        <updated>2022-01-22T08:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Briar (Wikipedie) je aplikace poskytující peer-to-peer šifrované posílání zpráv a diskusní fóra. Briar nespoléhá na centrální server. Zprávy jsou synchronizovány přímo mezi uživateli pomocí Bluetooth, Wi-Fi, Toru nebo také offline (SD karty a USB disky). Dosud byl podporován pouze Android. Včera byla na Twitteru oznámena první beta verze Briar Desktopu pro Linux. Zdrojové kódy jsou k dispozici na GitLabu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2084,7 +2086,8 @@ Read more]]></summary>
 This month, the copy of Game Informer Gold that is up for grabs is for our Halo Infinite issue. The Gold edition features an entirely different cover, with Master Chief's antagonist, Escharum, taking the spotlight. We only printed a limited number of this Gold variant. The winner of this sweepstakes will get one of these issues. Only one person will win.
 Click image thumbnails to view larger version
  
-                                                                                                             
+ 
+                                                                                                            
 
 For more info on Game Informer Gold, watch this short video featuring our first Game Informer Gold issue #340:
 Click here to watch embedded media
@@ -2293,7 +2296,8 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 You can buy each of them individually for 1,500 V-Bucks – both are equipped with a unique quiver back bling. If you desire both characters, you can purchase them together in a bundle for the reduced price of 2,400. This collection comes with the back blings of note and also Hawkeye-themed harvesting tools, a glider, and a loading screen. The glider can be purchased separately for 800 V-Bucks.
 Click image thumbnails to view larger version
  
-                                                                                                             
+ 
+                                                                                                            
 
 In addition to the Marvel content, Epic has once again made Cuddle Team Leader available for purchase for 2,000 V-Bucks. The store is currently flush with dance emotes and a wide variety of Fortnite game character skins. Like all Marvel heroes who join this fight, the Hawkeyes likely won't be around for long.]]></summary>
         <author>
