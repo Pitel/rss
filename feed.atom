@@ -1,10 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-26T08:11:35.164Z</id>
+    <id>urn:2022-01-26T10:10:50.898Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-26T08:11:35.164Z</updated>
+    <updated>2022-01-26T10:10:50.898Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AMDVLK 2022.Q1.2 Released With Vulkan 1.3 Support]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDVLK-2022.Q1.2</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDVLK-2022.Q1.2"/>
+        <updated>2022-01-26T10:02:50.000Z</updated>
+        <summary type="html"><![CDATA[AMDVLK as AMD's official open-source Vulkan Linux driver derived from their Radeon Software driver sources but using the LLVM shader compiler back-end is out with a new release. AMD is ready with day-after support for the newly-launched Vulkan 1.3 specification for AMDVLK...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Království Tonga je po tsunami odříznuté od komunikace, oprava kabelu potrvá nejméně měsíc]]></title>
+        <id>www.root.cz-actuality-43257</id>
+        <link href="https://www.root.cz/zpravicky/kralovstvi-tonga-je-po-tsunami-odriznute-od-komunikace-oprava-kabelu-potrva-nejmene-mesic/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-26T10:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Podmořský kabel, který spojuje ostrovní Království Tonga se zbytkem světa, je po nedávném tsunami vážně poškozený. Pro sto tisíc místních obyvatel výpadek zasáhl veškerou komunikaci včetně té telefonní. Pomocí družicového spoje z místní univerzity se podařilo alespoň částečně obnovit provoz mobilní 2G sítě, ale spojení je nestabilní a připojení k internetu přes něj nefunguje prakticky vůbec.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Vulkan Linux Driver Lands Dynamic Rendering Support]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=ANV-Lands-Dynamic-Rendering</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=ANV-Lands-Dynamic-Rendering"/>
+        <updated>2022-01-26T09:56:42.000Z</updated>
+        <summary type="html"><![CDATA[As part of pushing it across the Vulkan 1.3 milestone, Intel's open-source graphics driver developers have merged their VK_KHR_dynamic_rendering support to mainline...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's Direct3D 12 Code For Mesa Now Supports OpenGL Tessellation Functionality]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=D3D12-Mesa-Tessellation</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=D3D12-Mesa-Tessellation"/>
+        <updated>2022-01-26T09:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's D3D12 Gallium3D code for Mesa 22.0 can now handle tessellations to expose GL_ARB_tessellation_shader in exposing OpenGL over Direct3D 12...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress 5.9 Josephine přináší novou práci s tématy vzhledu]]></title>
+        <id>www.root.cz-actuality-43256</id>
+        <link href="https://www.root.cz/zpravicky/wordpress-5-9-josephine-prinasi-novou-praci-s-tematy-vzhledu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-26T09:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři po půl roce představili novou verzi populárního redakčního systému WordPress ve verzi 5.9 s kódovým jménem Josephine. Hlavní novinkou je změna v přístupu k editaci webu, který je nově založen na editovatelných blocích. S tím přichází i nové výchozí téma vzhledu s názvem Twenty Twenty-Two. WordPress je teď ve výchozím stavu přizpůsobitelnější, umožňuje snadné přizpůsobení jednotlivých bloků a jejich barev.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dvanáct let stará chyba v Polkit umožňuje získat práva roota]]></title>
+        <id>www.root.cz-actuality-43255</id>
+        <link href="https://www.root.cz/zpravicky/dvanact-let-stara-chyba-v-polkit-umoznuje-ziskat-prava-roota/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-26T09:12:32.000Z</updated>
+        <summary type="html"><![CDATA[Dvanáct let stará chyba byla objevena v systémovém nástroji Polkit. Chyba nazvaná PwnKit umožňuje neprivilegovanému útočníkovi získat práva roota a jen pár hodin po zveřejnění informací o chybě se objevily první skutečné útoky.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Vagante - A Roguelike Too Empty To Make An Impact]]></title>
+        <id>https://www.nintendolife.com/#article-125921</id>
+        <link href="https://www.nintendolife.com/reviews/switch-eshop/vagante"/>
+        <updated>2022-01-26T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A class below the rest.
+Over the past decade, few genres have boomed as much as the roguelike. Indie games like The Binding of Isaac, Crypt of the Necrodancer, Dead Cells and Hades have brought attention to a genre once thought to be far too punishing for a mainstream audience, even if the core run-based gameplay is tweaked slightly into a -lite or a -like-like to be a little more forgiving. Even major publishers have dipped their toes in the water, such as with the Pokémon Mystery Dungeon series and Cadence of Hyrule.
+Vagante, on the other hand, is made by a small indie team, who have been working on the game for nearly 10 years. While the dedication to work on any game for a decade is admirable, how does a game like Vagante fair in such an increasingly crowded genre?
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rojadirecta Operator Faces Multi-Year Prison Sentence in Upcoming Trial]]></title>
+        <id>https://torrentfreak.com/?p=214322</id>
+        <link href="https://torrentfreak.com/rojadirecta-operator-faces-multi-year-prison-sentence-in-upcoming-trial-220126/"/>
+        <updated>2022-01-26T08:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Popular sports streaming site Rojadirecta finds itself at the center of a criminal lawsuit in Spain. The prosecution seeks a four-year prison sentence for the operator and up to two years for five accomplices. Spanish football league LaLiga and Mediapro demand even higher sentences and also want six million euros in damages.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitlab CI: automatizujte přímo v Gitlabu (školení)]]></title>
         <id>www.root.cz-actuality-38836</id>
@@ -66,11 +150,11 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: The Rock Will Star In A New Video Game Movie]]></title>
+        <title type="html"><![CDATA[Random: The Rock Will Star In A New "Badass" Video Game Movie]]></title>
         <id>https://www.nintendolife.com/#article-126386</id>
-        <link href="https://www.nintendolife.com/news/2022/01/random-the-rock-will-star-in-a-new-video-game-movie"/>
+        <link href="https://www.nintendolife.com/news/2022/01/random-the-rock-will-star-in-a-new-badass-video-game-movie"/>
         <updated>2022-01-26T04:05:00.000Z</updated>
-        <summary type="html"><![CDATA["There will be an announcement this year".
+        <summary type="html"><![CDATA["One that I’ve played for years".
 Dwayne "The Rock" Johnson has told Men's Journal he'll be starring in another video game movie - describing it as an adaptation based on one of the "most badass games" that he's been playing for years.
 
 "I can’t tell you which game in particular we’re doing, but there will be an announcement this year. We’re going to bring one of the biggest, most badass games to the screen—one that I’ve played for years. I’m really excited to bring it to fans around the world."
@@ -1185,19 +1269,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Kart 8 Deluxe To Undergo Maintenance Later Today]]></title>
-        <id>https://www.nintendolife.com/#article-126332</id>
-        <link href="https://www.nintendolife.com/news/2022/01/mario-kart-8-deluxe-to-undergo-maintenance-later-today"/>
-        <updated>2022-01-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Making online play temporarily unavailable.
-Nintendo has announced that Mario Kart 8 Deluxe will be receiving a spot of maintenance today, leaving its online features unavailable for a few hours.
-The game's online functionalities will be inaccessible from 4:30pm to 9pm PT today, 25th January (that's 7:30pm to midnight ET, and the following morning at 12:30am to 5am GMT). Nintendo notes that this is "expected and standard" maintenance, clearly intending to quell any thoughts that new content could be arriving in-game.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2340,16 +2411,6 @@ Check out the rest of our podcast on the Video Gameography hub. If you'd like to
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 5.17 Adds RISC-V sv48 Support For Being Able To Handle More Memory]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-RISC-V-sv48</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-RISC-V-sv48"/>
-        <updated>2022-01-22T10:21:32.000Z</updated>
-        <summary type="html"><![CDATA[In addition to Linux 5.17 bringing support for the low-cost StarFive RISC-V platform among other RISC-V updates, more changes for this royalty-free processor ISA were sent in on Friday...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
         <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-177</id>
         <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-177"/>
@@ -2394,16 +2455,6 @@ The report highlights that after TT struck gold with its early Lego titles durin
         <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Releases Quake II RTX 1.6 With Support For AMD FidelityFX FSR]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Quake-II-RTX-1.6</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Quake-II-RTX-1.6"/>
-        <updated>2022-01-21T23:00:12.000Z</updated>
-        <summary type="html"><![CDATA[It's been nearly one year since NVIDIA's last update to Quake II RTX as their port of Quake II to using Vulkan ray-tracing extensions for RTX path-traced global illumination. Fortunately, that changed today as they are out with a big update in the form of Quake II RTX v1.6...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2466,16 +2517,6 @@ If you'd like to get in touch with the All Things Nintendo podcast, you can do s
 For more Game Informer podcasts, be sure to check out The Game Informer Show, which covers the weekly happenings of the video game industry, and Video Gameography with host Ben Reeves, which explores the history of video games – one series at a time!]]></summary>
         <author>
             <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Intel Raptor Lake Additions Arrive In Time For Linux 5.17]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-More-Raptor-Lake-5.17</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-More-Raptor-Lake-5.17"/>
-        <updated>2022-01-21T20:41:50.000Z</updated>
-        <summary type="html"><![CDATA[While the Linux 5.17 merge window is closing this weekend with the debut of 5.17-rc1, managing to come in at the last minute are a few more additions for Intel's next-generation Raptor Lake processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2615,7 +2656,8 @@ Read more]]></summary>
 This month, the copy of Game Informer Gold that is up for grabs is for our Halo Infinite issue. The Gold edition features an entirely different cover, with Master Chief's antagonist, Escharum, taking the spotlight. We only printed a limited number of this Gold variant. The winner of this sweepstakes will get one of these issues. Only one person will win.
 Click image thumbnails to view larger version
  
-                                                                                                             
+ 
+                                                                                                            
 
 For more info on Game Informer Gold, watch this short video featuring our first Game Informer Gold issue #340:
 Click here to watch embedded media
@@ -2774,7 +2816,8 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 You can buy each of them individually for 1,500 V-Bucks – both are equipped with a unique quiver back bling. If you desire both characters, you can purchase them together in a bundle for the reduced price of 2,400. This collection comes with the back blings of note and also Hawkeye-themed harvesting tools, a glider, and a loading screen. The glider can be purchased separately for 800 V-Bucks.
 Click image thumbnails to view larger version
  
-                                                                                                             
+ 
+                                                                                                            
 
 In addition to the Marvel content, Epic has once again made Cuddle Team Leader available for purchase for 2,000 V-Bucks. The store is currently flush with dance emotes and a wide variety of Fortnite game character skins. Like all Marvel heroes who join this fight, the Hawkeyes likely won't be around for long.]]></summary>
         <author>
@@ -3409,36 +3452,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 21.04 Hirsute Hippo končí svůj životní cyklus, je čas aktualizovat]]></title>
-        <id>www.root.cz-actuality-43235</id>
-        <link href="https://www.root.cz/zpravicky/ubuntu-21-04-hirsute-hippo-konci-svuj-zivotni-cyklus-je-cas-aktualizovat/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-19T08:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 21.04 Hirsute Hippo vyšlo 22. dubna 2021 a přineslo Wayland ve výchozí instalaci, integraci Microsoft Active Directory a třeba taky vývojové prostředí Flutter. Detaily si můžete přečíst v naší recenzi nazvané Ubuntu 21.04: téměř dokonalý desktop poprvé s Waylandem a starším GNOME.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Igor Sysoev opouští vývoj Nginx, chce se věnovat rodině a svým projektům]]></title>
-        <id>www.root.cz-actuality-43234</id>
-        <link href="https://www.root.cz/zpravicky/igor-sysoev-opousti-vyvoj-nginx-chce-se-venovat-rodine-a-svym-projektum/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-19T07:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Igor Sysoev začal s vývojem webového serveru Nginx v létě roku 2002. Jeho kód dnes pohání velkou část webu, včetně mnoha velikých služeb. V roce 2011 byla založena společnost Nginx, Inc., která se o další rozvoj serveru stará. V roce 2019 firmu koupila společnost F5.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 7.0 vylepšuje témata vzhledu a podporu periférií]]></title>
-        <id>www.root.cz-actuality-43233</id>
-        <link href="https://www.root.cz/zpravicky/wine-7-0-vylepsuje-temata-vzhledu-a-podporu-periferii/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-19T07:26:50.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři uvolnili sedmou verzi Wine, což je implementace aplikačního rozhraní z MS Windows pro Linux, macOS a další platformy. Nová verze vylepšuje například podporu joysticků, témata vzhled, podporu HiDPI, podporu OpenCL.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Captain Picard Tea Order]]></title>
         <id>https://xkcd.com/2570/</id>
         <link href="https://xkcd.com/2570/"/>
@@ -3834,17 +3847,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manga Artist Maki Murakami Targets Large Pirate Site NyaHentai.com]]></title>
-        <id>https://torrentfreak.com/?p=213366</id>
-        <link href="https://torrentfreak.com/manga-artist-maki-murakami-targets-large-pirate-site-nyahentai-com-220115/"/>
-        <updated>2022-01-15T14:32:21.000Z</updated>
-        <summary type="html"><![CDATA[Japanese manga artist Maki Murakami has gone to court in the United States after several pirate sites published her work without permission. Among the platforms is NyaHentai, a large pirate service with an estimated 24 million visits per month, making it Japan's 75th most visited site overall. Murakami's legal team is attempting to find out who runs this platform and several more.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
