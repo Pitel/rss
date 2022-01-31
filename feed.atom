@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-31T04:12:42.498Z</id>
+    <id>urn:2022-01-31T06:12:12.273Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-31T04:12:42.498Z</updated>
+    <updated>2022-01-31T06:12:12.273Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Numerous Linux/X11 Display Drivers Can No Longer Even Properly Build]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-Driver-Shambles-2022</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-Driver-Shambles-2022"/>
+        <updated>2022-01-31T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While many Linux enthusiasts like to cite Linux's stellar support for older hardware platforms, in reality that isn't always the case. For instance with many old X.Org user-space mode-setting drivers for powering old graphics cards at least for display purposes, they can no longer even build with with modern toolchains / software components. Given the lack of bug reports around such issues, there are very likely few users trying some of these vintage hardware combinations...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let's Check Out Ocarina Of Time's PC 'Port']]></title>
         <id>1848449738</id>
@@ -2529,16 +2539,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Bloomberg píše o tom, že se Nvidia připravuje na zrušení své nabídky na koupi společnosti ARM. Obchod za čtyřicet miliard dolarů se nikam dále neposouvá, protože firma má problém získat souhlas antimonopolních úřadů. Podle nejmenovaného člověka zevnitř už prý firma informovala své partnery o tom, že se transakce neuskuteční.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coreboot Merges Support For Intel's Arm-Based PSE Offload Engine]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-PSE-In-Coreboot</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-PSE-In-Coreboot"/>
-        <updated>2022-01-27T10:23:26.000Z</updated>
-        <summary type="html"><![CDATA[As of yesterday Intel's contributed Programmable Services Engine "PSE" support has been merged into mainline Coreboot for supporting this Arm-based dedicated offload engine found within select Intel processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
