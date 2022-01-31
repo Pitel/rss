@@ -1,18 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-01-31T08:12:32.157Z</id>
+    <id>urn:2022-01-31T10:10:54.172Z</id>
     <title>osmos::feed</title>
-    <updated>2022-01-31T08:12:32.157Z</updated>
+    <updated>2022-01-31T10:10:54.172Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Btrfs Extent Tree v2 Work Progressing For Improving The File-System's On-Disk Format]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Btrfs-Extent-Tree-v2-Next</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Btrfs-Extent-Tree-v2-Next"/>
+        <updated>2022-01-31T10:05:48.000Z</updated>
+        <summary type="html"><![CDATA[You may recall the news from a few months ago about the work to improve Btrfs' on-disk format in addressing "painful parts" of its design. That "extrent-tree-v2" work has been progressing and recently was queued up into the Btrfs for-next code albeit hidden behind a debug flag...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metroid Prime Hunters Designer Would Love To See The Game Remade Today]]></title>
+        <id>https://www.nintendolife.com/#article-126632</id>
+        <link href="https://www.nintendolife.com/news/2022/01/metroid-prime-hunters-designer-would-love-to-see-the-game-remade-today"/>
+        <updated>2022-01-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA["It would be great to see those guys at full resolution".
+When you consider how beloved the Metroid series is, it's remarkable that more people don't talk about Metroid Prime Hunters.
+One of the key early titles for the Nintendo DS (a demo was memorably bundled with the console at launch), Hunters was a spin-off of a spin-off; it formed part of the Prime sub-series that began on the GameCube but was intended to be a real showcase of the DS' unique talents. It was developed by Nintendo Software Technology rather than Retro Studios, with Masamichi Abe (Pikmin, Mario vs. Donkey Kong: Minis March Again) acting as director.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Numerous Linux/X11 Display Drivers Can No Longer Even Properly Build]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-Driver-Shambles-2022</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-Driver-Shambles-2022"/>
-        <updated>2022-01-31T05:00:00.000Z</updated>
+        <updated>2022-01-31T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[While many Linux enthusiasts like to cite Linux's stellar support for older hardware platforms, in reality that isn't always the case. For instance with many old X.Org user-space mode-setting drivers for powering old graphics cards at least for display purposes, they can no longer even build with with modern toolchains / software components. Given the lack of bug reports around such issues, there are very likely few users trying some of these vintage hardware combinations...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Major Manga Publishers Prepare to Sue Cloudflare Over Pirate Sites]]></title>
+        <id>https://torrentfreak.com/?p=214504</id>
+        <link href="https://torrentfreak.com/major-manga-publishers-prepare-to-sue-cloudflare-over-pirate-sites-220131/"/>
+        <updated>2022-01-31T09:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Four major manga publishers are preparing to sue US-based CDN company Cloudflare for allowing pirate sites to use its services. Rather than file a copyright infringement lawsuit in the United States, Shueisha, Kodansha, Shogakukan, and Kadokawa will file their complaint in Japan, demanding millions in damages and an end to the distribution of pirated content.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's ConnMan 1.41 Released With WPA3-SAE WPA_Supplicant Support, New IWD Too]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=ConnMan-1.41-IWD-1.23</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=ConnMan-1.41-IWD-1.23"/>
+        <updated>2022-01-31T09:32:44.000Z</updated>
+        <summary type="html"><![CDATA[Intel open-source engineer Marcel Holtmann is marking the end of January with new releases to their ConnMan Linux network connection manager software along with a new IWD as their iNet Wireless Daemon as an alternative to WPA_Supplicant on Linux systems...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokračuje portace GNU Coreutils do Rustu, některé nástroje jsou rychlejší]]></title>
+        <id>www.root.cz-actuality-43267</id>
+        <link href="https://www.root.cz/zpravicky/pokracuje-portace-gnu-coreutils-do-rustu-nektere-nastroje-jsou-rychlejsi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-31T09:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Silvestre Lederu na svém blogu popsal práce na projektu rust/coreutils, jde o přepsání GNU Coreutils do Rustu. Výhodou bude větší bezpečnost nástrojů a kupodivu v některých případech jsou nástroje i rychlejší. Jde například o head a cut.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasaďte moderní web server s Nginx (online školení)]]></title>
+        <id>www.root.cz-actuality-38548</id>
+        <link href="https://www.root.cz/zpravicky/nasadte-moderni-web-server-s-nginx-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-01-31T09:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Nginx je dnes přibližně na třetině web serverů na internetu a toto číslo stále roste. Je výkonný, spolehlivý, má spoustu funkcí a dobře se spravuje. Pokud potřebujete dobrý web server pro svůj projekt, bude Nginx správnou volbou.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Cyberpunk 2077 art appears on PlayStation database, PS5 release imminent?]]></title>
+        <id>https://www.destructoid.com/?p=306240</id>
+        <link href="https://www.destructoid.com/cyberpunk-2077-ps5-port-artwork-leak-playstation-network/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cyberpunk-2077-ps5-port-artwork-leak-playstation-network"/>
+        <updated>2022-01-31T09:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Notorious RPG could be prepping for launch While CD Projekt RED is yet to officially confirm a release date for...
+The post New Cyberpunk 2077 art appears on PlayStation database, PS5 release imminent? appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Charts: Pokémon Legends: Arceus Accounted For Almost Half Of All Boxed Games Sold Last Week]]></title>
+        <id>https://www.nintendolife.com/#article-126631</id>
+        <link href="https://www.nintendolife.com/news/2022/01/uk-charts-pokemon-legends-arceus-accounted-for-almost-half-of-all-boxed-games-sold-last-week"/>
+        <updated>2022-01-31T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fourth biggest Pokémon UK game launch of all time.
+Pokémon Legends: Arceus stormed into the UK charts last week, claiming the top spot and accounting for almost half of all boxed games sold in the country over the past week (thanks, GamesIndustry.biz).
+Arriving just two months after Pokémon Brilliant Diamond and Shining Pearl, Arceus comfortably outsold those titles and is the fourth biggest Pokémon UK game launch of all time. It's also the best-selling Pokémon game where there's just a single version rather than two – the previous holder of that record was Pokémon Yellow, which saw release on the Game Boy way back in 2000.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1652,32 +1740,6 @@ The post EGX Birmingham 2022 canceled due to ongoing COVID-19 concerns appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: Check Out This 1986 Choose-Your-Own-Adventure Book Where You Play As Zelda]]></title>
-        <id>https://www.nintendolife.com/#article-126561</id>
-        <link href="https://www.nintendolife.com/news/2022/01/random-check-out-this-1986-choose-your-own-adventure-book-where-you-play-as-zelda"/>
-        <updated>2022-01-28T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Explore the story of Ganon's long-lost brother.
-Fantastic game history archiving news, everybody! History of Hyrule, a prolific Zelda archivist, has just uploaded a high-quality scan of The Legend of Zelda: The Mirage Castle, a choose-your-own-adventure book from 1986, shortly after the release of the first Legend of Zelda game.
-Because The Mirage Castle was released so long ago, it has a lot of weird and interesting Zelda lore that has since been scrubbed from the story, like a character called Fairy Fanny and Ganon's younger brother, Demon General Gaia. Zelda's father is a character we've met a few times over the last 30 years, but we've never known him as "King Graham II", as he's called in the book.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deals: Pokémon Legends: Arceus Drops To Just £34.99 In The UK On Launch Day]]></title>
-        <id>https://www.nintendolife.com/#article-126559</id>
-        <link href="https://www.nintendolife.com/news/2022/01/deals-pokemon-legends-arceus-drops-to-just-p34-99-in-the-uk-on-launch-day"/>
-        <updated>2022-01-28T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[That's £15 off RRP already!
-Amazingly, Pokémon Legends: Arceus is already available for an absolute steal in the UK on launch day, with one retailer dropping the product's price down to just £34.99.
-The retailer in question is Currys, which recently confirmed that Legends: Arceus has just become its most pre-ordered game of all time. Perhaps the new, super-low price point is in celebration of this fact – but it doesn't matter why, just get on this deal while it's still live!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel Preparing Resizable BAR Support For Their Arc Graphics On Linux]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-DG2-ReBAR-Linux-Prepare</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-DG2-ReBAR-Linux-Prepare"/>
@@ -2055,17 +2117,6 @@ Booty said he met Boon on his very first day in the games industry,…]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Death Stranding Director’s Cut is a $10 upgrade on PC, too]]></title>
-        <id>https://www.destructoid.com/?p=305965</id>
-        <link href="https://www.destructoid.com/death-stranding-directors-cut-is-a-10-upgrade-on-pc-too/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=death-stranding-directors-cut-is-a-10-upgrade-on-pc-too"/>
-        <updated>2022-01-27T23:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Steam and Epic Games Store upgrade available for returning PC players on March 30, 2022 The enhanced Death Stranding Director’s...
-The post Death Stranding Director’s Cut is a $10 upgrade on PC, too appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Jordan Devore</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Joe Danger Infinity Relaunches On iOS Today Thanks To A Touching Fan Request]]></title>
         <id>117100</id>
         <link href="https://www.gameinformer.com/2022/01/27/joe-danger-infinity-relaunches-on-ios-today-thanks-to-a-touching-fan-request"/>
@@ -2225,16 +2276,6 @@ The legendary 3v3 team fighter is back and aims to “shatter all expectations!�
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Vulkan 1.3 Support All Ready For Mesa 22.0]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Mesa-22.0-Vulkan-1.3</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Mesa-22.0-Vulkan-1.3"/>
-        <updated>2022-01-27T18:45:24.000Z</updated>
-        <summary type="html"><![CDATA[As expected, Intel's open-source "ANV" driver is ready to go with Vulkan 1.3 for Mesa 22.0...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2497,16 +2538,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Odborníci Národního úřadu pro kybernetickou a informační bezpečnost (NÚKIB) a Vojenského zpravodajství vypracovali materiál Cestujte (kyber)bezpečně: doporučení pro cesty do zahraničí (pdf), který má českým sportovcům mířícím na Olympiádu v Pekingu i veřejnosti přiblížit základy kyberbezpečnosti a poradit jim, jak používat technologie, aby byla jejich komunikace v zahraničí bezpečnější.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PipeWire 0.3.44 Released With Latency Improvements, Minimal PW Server Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=PipeWire-0.3.44-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=PipeWire-0.3.44-Released"/>
-        <updated>2022-01-27T11:55:51.000Z</updated>
-        <summary type="html"><![CDATA[This will hopefully be the year that PipeWire becomes commonplace on the Linux desktop across all major distributions for audio/video stream management. But for as good as PipeWire is already, frequent point releases continue evolving the functionality and ironing out compatibility improvements for existing JACK and PulseAudio integration. PipeWire 0.3.44 is out today as another step in the right direction...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3423,11 +3454,11 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 01/24/2022]]></title>
+        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 01/31/2022]]></title>
         <id>https://torrentfreak.com/?p=186926</id>
         <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
         <updated>2022-01-23T22:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Eternals' tops the chart, followed by ‘Spider-Man: No Way Home'. 'Ghostbusters: Afterlife' completes the top three.
+        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'The 355' tops the chart, followed by ‘Eternals'. 'The Ice Age Adventures of Buck Wild' completes the top three.
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
@@ -3594,16 +3625,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Czkawka 4.0 nástroj k odstranění nepotřebných souborů v Rustu]]></title>
-        <id>www.root.cz-actuality-43246</id>
-        <link href="https://www.root.cz/zpravicky/czkawka-4-0-nastroj-k-odstraneni-nepotrebnych-souboru-v-rustu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-21T16:49:04.000Z</updated>
-        <summary type="html"><![CDATA[Nástroj Czkawka (polsky škytavka) už jsme měli v Softwarové sklizni. Jde o nástroj pro odstraňování nepotřebných a duplicitních souborů. Je napsaný v Rustu a ve středu vyšel ve verzi 4.0.0. Nová je podpora více vláken, což zrychluje vyhledávání asi 2–3× na 4jádrovém procesoru a při použití SSD. Nově také je možné vyhledávat podobná videa stejně jako podobné obrázky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cute dog photography game Pupperazzi is actually kind of haunting]]></title>
         <id>https://www.rockpapershotgun.com/cute-dog-photography-game-pupperazzi-is-actually-kind-of-haunting</id>
         <link href="https://www.rockpapershotgun.com/cute-dog-photography-game-pupperazzi-is-actually-kind-of-haunting"/>
@@ -3658,16 +3679,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft kupuje společnost Activision Blizzard za téměř 69 miliard dolarů]]></title>
-        <id>www.root.cz-actuality-43245</id>
-        <link href="https://www.root.cz/zpravicky/microsoft-kupuje-spolecnost-activision-blizzard-za-temer-69-miliard-dolaru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-21T12:41:58.000Z</updated>
-        <summary type="html"><![CDATA[V úterý Microsoft oznámil záměr koupit herní společnost Activision Blizzard za téměř 69 miliard dolarů. Activision Blizzard vlastní hry jako Warcraft, Diablo, Starcraft, Overwatch, Call of Duty a Candy Crash. Patrně se nedočkáme linuxových portů (ale můžeme se nechat překvapit). Mohlo by však dojít k většímu prodeji her přes Steam, který doposud prodává asi jen Call of Duty. Na Steamu je pak pohodlně možné použít Proton a hrát hry pro Windows v Linuxu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3911,17 +3922,6 @@ Windjammers 2 falls firmly into the latter category. After successfully resurrec
 Read more]]></summary>
         <author>
             <name>Hirun Cryer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Years Ago the Feds Shut Down Megaupload]]></title>
-        <id>https://torrentfreak.com/?p=213725</id>
-        <link href="https://torrentfreak.com/10-years-ago-the-feds-shut-down-megaupload-220120/"/>
-        <updated>2022-01-20T08:46:02.000Z</updated>
-        <summary type="html"><![CDATA[A decade has passed since Megaupload's servers were raided on behalf of the U.S. Government. On the same day, helicopters and police swarmed the estate of founder Kim Dotcom. The criminal enforcement action was supposed to put the larger-than-life Internet entrepreneur in the shadows, but the opposite happened.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
