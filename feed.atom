@@ -1,18 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-02T08:11:57.077Z</id>
+    <id>urn:2022-02-02T10:11:02.340Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-02T08:11:57.077Z</updated>
+    <updated>2022-02-02T10:11:02.340Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Chrome 98 umí pořídit screenshot a testuje nového průvodce nastavením soukromí]]></title>
-        <id>www.root.cz-actuality-43275</id>
-        <link href="https://www.root.cz/zpravicky/chrome-98-umi-poridit-screenshot-a-testuje-noveho-pruvodce-nastavenim-soukromi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-02-02T07:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři uvolnili novou verzi prohlížeče Chrome, tentokrát s označením 98. Nová verze přináší nástroj pro pořizování screenshotů stránek, který najdete v adresním řádku v menu pro sdílení. Implementována je také nová sada barevných vektorových fontů COLRv1, což se projevuje v lépe škálovatelných obrázcích emoji.]]></summary>
+        <title type="html"><![CDATA[NIX.CZ má v Bratislavě nový přípojný bod u společnosti VNET]]></title>
+        <id>www.root.cz-actuality-43279</id>
+        <link href="https://www.root.cz/zpravicky/nix-cz-ma-v-bratislave-novy-pripojny-bod-u-spolecnosti-vnet/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-02T10:03:22.000Z</updated>
+        <summary type="html"><![CDATA[Společnost VNET představila projekt, díky kterému chce společně se sdružením NIX.CZ zvýšit spolehlivost připojení a objem přenesených dat svého současného peeringového uzlu. V rámci partnerství obou organizací vznikl nový aktivní bod, v němž je nyní možné se přímo propojit, mimo jiných, také s největšími internetovými společnostmi, jako jsou Amazon, Meta (Facebook), Google, Akamai či CloudFlare. Slovenští uživatelé internetu určitě také ocení snížení latence a větší spolehlivost při připojování ke vzdálenému obsahu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Say It Too Loud, But PS5 Has Outsold Wii U In A Year]]></title>
+        <id>https://www.nintendolife.com/#article-126762</id>
+        <link href="https://www.nintendolife.com/news/2022/02/dont-say-it-too-loud-but-ps5-has-outsold-wii-u-in-a-year"/>
+        <updated>2022-02-02T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[...to the surprise of no one?
+Despite only being available for just over a year, Sony's PlayStation 5 has outsold the Wii U.
+The PS5 sold in 17.3 million units as of December 31st, 2021. It launched in November 2020. The Wii U, which launched in 2012, has sold 13.56 million as of December 31st, 2019.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSF-Tailored Trisquel 10.0 Released - Adds 32-bit Arm, Defaults To GNU Linux-Libre 5.4]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Trisquel-10.0-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Trisquel-10.0-Released"/>
+        <updated>2022-02-02T09:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Trisquel 10.0 was released on Tuesday as the latest major release of this operating system that is one of the few GNU/Linux distributions endorsed by the Free Software Foundation. While it has the lbessing of the FSF, it's a bit behind on the software feature front...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU akcelerace AMD HIP pro CyclesX stihne až červnový Blender 3.2]]></title>
+        <id>www.root.cz-actuality-43278</id>
+        <link href="https://www.root.cz/zpravicky/gpu-akcelerace-amd-hip-pro-cyclesx-stihne-az-cervnovy-blender-3-2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-02T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[AMD již nějakou dobu vyvíjí sympatický balík HIP, neboli C++ Runtime API a Kernel Language pro snadnou portaci aplikací na GPU AMD i Nvidia. Blender s vydáním 3.0 přines podporu AMD HIP pro svůj engine CyclesX, avšak v danou dobu pouze pro Windows. Linuxová podpora byla v plánu pro Blender 3.1.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitlab CI: automatizujte přímo v Gitlabu (školení)]]></title>
+        <id>www.root.cz-actuality-38836</id>
+        <link href="https://www.root.cz/zpravicky/gitlab-ci-automatizujte-primo-v-gitlabu-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-02T08:51:16.000Z</updated>
+        <summary type="html"><![CDATA[Automatizace pomocí continuous integration přímo v Gitlabu. CI vám pomůže automatizovat rutinní procesy a ušetří vám hromadu času. Pomůže vám od automatického testování, buildy po nasazování. Chcete vědět víc? Přijďte na naše školení GitLab CI, které se uskuteční 7. února a proběhne plně online. Školí Ondřej Sika.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt zjednodušuje licencování, už nebude vadit expirovaná vývojářská licence]]></title>
+        <id>www.root.cz-actuality-43277</id>
+        <link href="https://www.root.cz/zpravicky/qt-zjednodusuje-licencovani-uz-nebude-vadit-expirovana-vyvojarska-licence/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-02T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The Qt Company přichází s novým modelem licencí na knihovny Qt. Celkově zavádí čtyři typy licencí, cílem pochopitelně je udržet stávající a přitáhnout nové zájemce, aby se zlepšilo financování společnosti.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podpora Intel Software Defined Silicon míří do Linuxu 5.17 a 5.18]]></title>
+        <id>www.root.cz-actuality-43276</id>
+        <link href="https://www.root.cz/zpravicky/podpora-intel-software-defined-silicon-miri-do-linuxu-5-17-a-5-18/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-02T08:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Víme, že funkcionalita umožňující dodatečnou softwarovou aktivaci vlastností CPU Intel, když si je uživatel doplatí, je v přípravě. Samotný Intel zatím plně plány neohlásil, ale z patchů, které míří do Linuxu, je zjevné, že podpora Software Defined Silicon (SDSi) bude jednoho nepříliš vzdáleného dne součástí Linuxu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -266,9 +329,9 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shovel Knight Dev Reveals 'Mina The Follower', A Top-Down Adventure With Zelda And Castlevania Vibes]]></title>
+        <title type="html"><![CDATA[Shovel Knight Dev Reveals 'Mina The Hollower', A Top-Down Adventure With Zelda And Castlevania Vibes]]></title>
         <id>https://www.nintendolife.com/#article-126699</id>
-        <link href="https://www.nintendolife.com/news/2022/02/shovel-knight-dev-reveals-mina-the-follower-a-top-down-adventure-with-zelda-and-castlevania-vibes"/>
+        <link href="https://www.nintendolife.com/news/2022/02/shovel-knight-dev-reveals-mina-the-hollower-a-top-down-adventure-with-zelda-and-castlevania-vibes"/>
         <updated>2022-02-01T23:15:00.000Z</updated>
         <summary type="html"><![CDATA[Yacht Club's latest gets the 8-bit top-down.
 Following the the promise of a "groundbreaking" reveal during a broadcast on G4's Twitch stream channel, Yacht Club Games, developer of Shovel Knight, has pulled back the curtain on an all-new title called Mina the Hollower.
@@ -1398,20 +1461,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mortal Kombat Co-Creator Ed Boon To Be Inducted Into AIAS Hall Of Fame]]></title>
-        <id>https://www.nintendolife.com/#article-126523</id>
-        <link href="https://www.nintendolife.com/news/2022/02/mortal-kombat-co-creator-ed-boon-to-be-inducted-into-aias-hall-of-fame"/>
-        <updated>2022-02-01T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Update: Ed thanks everyone for the support.
-Update : Boon has shared a response on social media. While he was aware he would be receiving the award, he wasn't prepared for so many kind responses:
-
-I'd been given a heads up before & had time to process & appreciate this announcement.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gotham Knights, The Next Spider-Man Movie Trilogy, Something Is Killing The Children | From Panel To Podcast]]></title>
         <id>117120</id>
         <link href="https://www.gameinformer.com/2022/02/01/gotham-knights-the-next-spider-man-movie-trilogy-something-is-killing-the-children-from"/>
@@ -2500,16 +2549,6 @@ Check out the rest of our podcast on the Video Gameography hub. If you'd like t
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust-Written Replacement To GNU Coreutils Progressing, Some Binaries Now Faster]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-Coreutils-Jan-2022</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-Coreutils-Jan-2022"/>
-        <updated>2022-01-29T12:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Along with the broader industry trend of transitioning security-sensitive code to memory-safe languages like Rust, there has been an effort to write a Rust-based replacement to GNU Coreutils. For nearly a year that Rust Coreutils has been able to run a basic Debian system while more recently they have been increasing their level of GNU Coreutils compatibility and in some cases now even outperforming the upstream project...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
         <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-178</id>
         <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-178"/>
@@ -3369,16 +3408,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dvanáct let stará chyba v Polkit umožňuje získat práva roota]]></title>
-        <id>www.root.cz-actuality-43255</id>
-        <link href="https://www.root.cz/zpravicky/dvanact-let-stara-chyba-v-polkit-umoznuje-ziskat-prava-roota/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-26T09:12:32.000Z</updated>
-        <summary type="html"><![CDATA[Dvanáct let stará chyba byla objevena v systémovém nástroji Polkit. Chyba nazvaná PwnKit umožňuje neprivilegovanému útočníkovi získat práva roota a jen pár hodin po zveřejnění informací o chybě se objevily první skutečné útoky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rojadirecta Operator Faces Multi-Year Prison Sentence in Upcoming Trial]]></title>
         <id>https://torrentfreak.com/?p=214322</id>
         <link href="https://torrentfreak.com/rojadirecta-operator-faces-multi-year-prison-sentence-in-upcoming-trial-220126/"/>
@@ -3607,16 +3636,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CESNET připomene konferencí 30. výročí připojení ČSFR k internetu]]></title>
-        <id>www.root.cz-actuality-43254</id>
-        <link href="https://www.root.cz/zpravicky/cesnet-pripomene-konferenci-30-vyroci-pripojeni-csfr-k-internetu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-25T08:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Příští měsíc, 13. února, uplyne 30 let od chvíle, kdy se Česká a Slovenská Federativní Republika (ČSFR) připojila k celosvětové síti internet. Sdružení CESNET ve spolupráci se sdruženími CZ.NIC a NIX.CZ nám kulaté výročí připomenou výroční konferencí 30 let internetu v České republice, která proběhne ve čtvrtek 10. února.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Distribuční novinky 1-2/2022]]></title>
         <id>http://www.abclinuxu.cz/clanky/distribucni-novinky-1-2-2022</id>
         <link href="http://www.abclinuxu.cz/clanky/distribucni-novinky-1-2-2022"/>
@@ -3646,16 +3665,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevConf.CZ 2022 začíná tento pátek]]></title>
-        <id>www.root.cz-actuality-43253</id>
-        <link href="https://www.root.cz/zpravicky/devconf-cz-2022-zacina-tento-patek/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-24T19:19:01.000Z</updated>
-        <summary type="html"><![CDATA[V pátek 28. ledna začíná 14. ročník konference DevConf.CZ. Jde o každoroční komunitní konferenci pro vývojáře, administrátory, DevOps inženýry, testery, autory dokumentace a další přispěvatele či uživatele technologií open source. Konference proběhne podruhé online, a to v termínu 28. – 29. ledna.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: anonymní)</name>
         </author>
     </entry>
     <entry>
@@ -3700,16 +3709,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Justin Towell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padl nový rekord v počtu připojených uživatelů ve Steamu 29,2 miliónů]]></title>
-        <id>www.root.cz-actuality-43252</id>
-        <link href="https://www.root.cz/zpravicky/padl-novy-rekord-v-poctu-pripojenych-uzivatelu-ve-steamu-29-2-milionu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-24T14:20:17.000Z</updated>
-        <summary type="html"><![CDATA[O víkendu padl nový rekord v počtu současně připojených uživatelů ve Steamu, bylo jich 29,2 miliónů. Padl také rekord hráčů současně ve hře, bylo jich 8,5 miliónů. Nejvíce se hraje CS:GO, Dota2, PUBG, Yu-Gi-Oh! Master Duel, Apex Legends a GTA V.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
