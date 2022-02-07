@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-07T06:12:21.123Z</id>
+    <id>urn:2022-02-07T08:12:21.288Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-07T06:12:21.123Z</updated>
+    <updated>2022-02-07T08:12:21.288Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nasaďte moderní web server s Nginx (online školení)]]></title>
+        <id>www.root.cz-actuality-38548</id>
+        <link href="https://www.root.cz/zpravicky/nasadte-moderni-web-server-s-nginx-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-07T08:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Nginx je dnes přibližně na třetině web serverů na internetu a toto číslo stále roste. Je výkonný, spolehlivý, má spoustu funkcí a dobře se spravuje. Pokud potřebujete dobrý web server pro svůj projekt, bude Nginx správnou volbou.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Graphics System Controller Support Getting Buttoned Up For Linux]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-GSC-Linux-v5</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-GSC-Linux-v5"/>
+        <updated>2022-02-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While much of the Intel DG2/Alchemist open-source driver support has already been upstreamed into the Linux kernel, Mesa for OpenGL and Vulkan, and related components like IGC and Compute-Runtime, there are various bits still pending ahead of the Intel Arc graphics cards set to make their debut in the next few months. One of those pieces still working their way upstream is enabling the GSC block, the Graphics System Controller...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FEX-Emu: rychlá emulace x86/x86_64 na Aarch64 včetně her a Protonu]]></title>
+        <id>www.root.cz-actuality-43292</id>
+        <link href="https://www.root.cz/zpravicky/fex-emu-rychla-emulace-x86-x86-64-na-aarch64-vcetne-her-a-protonu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-07T07:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Pokud chcete emulovat instrukce x86/x86_64 na 64bitových procesorech ARM, můžete použít pomalé QEMU nebo o něco rychlejší Box86 a Box64. FEX-Emu by měl být ještě rychlejší, cílí na hry a to včetně her pro Windows. Ty se budou spouštět přes buď přes Wine nebo pomocí Steam Proton, který je na Wine založený.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenMandriva Lx 4.3 Released With Completed Arm 64-bit Port, Sticks To Using LLVM]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenMandriva-Lx-4.3</id>
@@ -48,6 +78,16 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inkscape 1.1.2 a 1.2 alpha. Soutěž o obrázek v okně O Inkscapu 1.2]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/inkscape-1.1.2-a-1.2-alpha.-soutez-o-obrazek-v-okne-o-inkscapu-1.2</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/inkscape-1.1.2-a-1.2-alpha.-soutez-o-obrazek-v-okne-o-inkscapu-1.2"/>
+        <updated>2022-02-07T00:21:47.000Z</updated>
+        <summary type="html"><![CDATA[Svobodný multiplatformní vektorový grafický editor Inkscape byl vydán ve verzích 1.1.2 a 1.2 alpha. Finální verze 1.2 je plánována na květen a přinese podporu vícestránkových dokumentů nebo vylepšené zachytávání objektů. Do 6. března se lze zapojit do soutěže o obrázek v okně O Inkscapu 1.2.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1923,16 +1963,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Studio Code a VSCodium 1.64]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/visual-studio-code-a-vscodium-1.64</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/visual-studio-code-a-vscodium-1.64"/>
-        <updated>2022-02-04T02:39:36.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 1.64 editoru zdrojových kódů Visual Studio Code (Wikipedie). Přehled novinek i s náhledy a animovanými gify v poznámkách k vydání. Ve verzi 1.64 vyšlo také VSCodium, tj. komunitní sestavení Visual Studia Code bez telemetrie a licenčních podmínek Microsoftu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20 let AbcLinuxu]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/-20-let-abclinuxu</id>
         <link href="http://www.abclinuxu.cz/zpravicky/-20-let-abclinuxu"/>
@@ -2463,16 +2493,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa's "Dozen" Close To Providing Vulkan Over Direct3D 12]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Dozen-VLK-D3D12</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Dozen-VLK-D3D12"/>
-        <updated>2022-02-03T10:39:23.000Z</updated>
-        <summary type="html"><![CDATA[Not only is Microsoft after having OpenGL and OpenCL layered atop Direct3D 12 for usage by Windows Subsystem for Linux (WSL2) or where the host has no native GL/CL drivers available, but they are also after Vulkan support on top of D3D12. It's looking like Mesa may be close to merging the "Dozen" driver that provides this preliminary Vulkan on Direct3D 12 support...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3335,16 +3355,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Může AI pomoci vylepšit pravidla šachu?]]></title>
-        <id>www.root.cz-actuality-43269</id>
-        <link href="https://www.root.cz/zpravicky/muze-ai-pomoci-predelat-pravidla-sachu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-31T16:17:39.000Z</updated>
-        <summary type="html"><![CDATA[AlphaZero je umělá inteligence vytvořená firmou DeepMind (Google), která umí hrát šachy, go a šógi. V novém článku se vědci Nenad Tomašev a Ulrich Paquet  z DeepMind spolu s bývalým mistrem světa Vladimirem Kramnikem snažili trochu pozměnit pravidla šachu, aby se hra stala zábavnější a aby například v ní ubylo nerozhodných partií.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apex Legends Season 12 gameplay trailer reveals Sabotaged Olympus]]></title>
         <id>https://www.rockpapershotgun.com/apex-legends-season-12-gameplay-trailer-reveals-sabotaged-olympus</id>
         <link href="https://www.rockpapershotgun.com/apex-legends-season-12-gameplay-trailer-reveals-sabotaged-olympus"/>
@@ -3419,16 +3429,6 @@ Intel graphics chief Raja Koduri is at least well aware of the pressure, tweetin
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V červnu se v Brně uskuteční další komunitní setkání českých a slovenských správců sítí]]></title>
-        <id>www.root.cz-actuality-43268</id>
-        <link href="https://www.root.cz/zpravicky/v-cervnu-se-v-brne-uskutecni-dalsi-komunitni-setkani-ceskych-a-slovenskych-spravcu-siti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-01-31T10:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Letošní ročník komunitního setkání správců sítí z České republiky a Slovenska (CSNOG 2022) se uskuteční 20. a 21. června v Brně. Posláním akce je umožnit sdílení zkušenosti a praktických řešení, která mohou zvýšit kvalitu českých a slovenských sítí, a podělit se o názory na aktuální síťařská témata. Další informace a novinky budou organizátoři postupně zveřejňovat na komunitních webových stránkách a na sociálních sítích Facebook nebo Twitter.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: anonymní)</name>
         </author>
     </entry>
     <entry>
