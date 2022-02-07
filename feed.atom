@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-07T04:12:42.237Z</id>
+    <id>urn:2022-02-07T06:12:21.123Z</id>
     <title>osmos::feed</title>
-    <updated>2022-02-07T04:12:42.237Z</updated>
+    <updated>2022-02-07T06:12:21.123Z</updated>
     <generator>osmosfeed 1.12.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenMandriva Lx 4.3 Released With Completed Arm 64-bit Port, Sticks To Using LLVM]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenMandriva-Lx-4.3</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenMandriva-Lx-4.3"/>
+        <updated>2022-02-07T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenMandriva Lx 4.3 was released this FOSDEM weekend for this distribution derived from the once great Mandriva Linux, formerly Mandrake...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Batman: Arkham Collection Switch potentially leaked by leaky retailer]]></title>
         <id>https://www.destructoid.com/?p=307178</id>
@@ -2461,16 +2471,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Dozen-VLK-D3D12"/>
         <updated>2022-02-03T10:39:23.000Z</updated>
         <summary type="html"><![CDATA[Not only is Microsoft after having OpenGL and OpenCL layered atop Direct3D 12 for usage by Windows Subsystem for Linux (WSL2) or where the host has no native GL/CL drivers available, but they are also after Vulkan support on top of D3D12. It's looking like Mesa may be close to merging the "Dozen" driver that provides this preliminary Vulkan on Direct3D 12 support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arch Linux Now Provides Debug Packages, Debuginfod Integration]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Arch-Linux-Debug-Packages</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Arch-Linux-Debug-Packages"/>
-        <updated>2022-02-03T10:12:18.000Z</updated>
-        <summary type="html"><![CDATA[It took them until 2022, but Arch Linux now provides debug packages for easing the process of debugging software packages rather than having to recompile the software yourself with debug symbols included...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
