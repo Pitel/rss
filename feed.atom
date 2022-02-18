@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-18T10:11:38.641Z</id>
+    <id>urn:2022-02-18T12:17:09.329Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-02-18T10:11:38.641Z</updated>
+    <updated>2022-02-18T12:17:09.329Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bezpečnostní chyba CVE-2022-22945 ve VMware]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/bezpecnostni-chyba-cve-2022-22945-ve-vmware</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/bezpecnostni-chyba-cve-2022-22945-ve-vmware"/>
+        <updated>2022-02-18T12:04:07.000Z</updated>
+        <summary type="html"><![CDATA[Byly zveřejněny informace o bezpečnostní chybě CVE-2022-22945 ve VMware, konkrétně ve VMware NSX Data Center for vSphere (NSX-V) a VMware Cloud Foundation (Cloud Foundation). Jedná se o CLI shell injection s CVSSv3 8.8. Útočník zadá za zranitelný příkaz řetězec ;sh${IFS}>&2; a stane se rootem.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: Where To Pre-Order 'Live A Live' On Switch]]></title>
+        <id>https://www.nintendolife.com/#article-127552</id>
+        <link href="https://www.nintendolife.com/guides/where-to-pre-order-live-a-live-on-switch"/>
+        <updated>2022-02-18T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Buy A Buy a copy here...
+Square Enix's latest RPG heading to Switch is Live A Live (actually stylised as LIVE A LIVE), which launches on the console on 22nd July 2022.
+It's not technically new, of course, being a revival of the original Live A Live that launched on the Super Famicom exclusively in Japan. This new version finally gives those of us in the west the chance to check it out, however, and with it being presented in the same gorgeous HD-2D visual style as Square Enix's Octopath Traveler and TRIANGLE STRATEGY, it looks to be one of the year's more intriguing releases on Switch.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspbian OS 64bit průměrně téměř o 50 % rychlejší než 32bit]]></title>
+        <id>www.root.cz-actuality-43345</id>
+        <link href="https://www.root.cz/zpravicky/raspbian-os-64bit-prumerne-temer-o-50-rychlejsi-nez-32bit/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-18T11:49:02.000Z</updated>
+        <summary type="html"><![CDATA[Server Phoronix minulý týden testoval Raspbian OS 64bit, který oficiálně vyšel teprve začátkem února. Nový 64bitový Raspbian OS byl průměrně téměř o 50 % rychlejší než 32bitový. Testovalo se na Raspberry Pi 400 se 4 GB RAM. V dalších testech z úterý byl 64bit v průměru o 41 % rychlejší.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.18 Scheduler Change To Further Boost AMD EPYC Performance For Some Workloads]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Linux-5.18-Sched-Zen-LLC</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Linux-5.18-Sched-Zen-LLC"/>
+        <updated>2022-02-18T11:05:14.000Z</updated>
+        <summary type="html"><![CDATA[While AMD EPYC processors already deliver great performance under Linux, with the Linux 5.18 kernel this spring is a scheduler improvement that can provide measurable speed-ups for various workloads on processors where there are multiple last level caches (LLCs) per node, such as with the case of EPYC...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: This New Japanese Pokémon Show Has An Actual Pikachu Car]]></title>
+        <id>https://www.nintendolife.com/#article-127585</id>
+        <link href="https://www.nintendolife.com/news/2022/02/random-this-new-japanese-pokemon-show-has-an-actual-pikachu-car"/>
+        <updated>2022-02-18T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pi-car-chu, Pikarchu?
+Pokémon is a franchise with a dizzying range of spin-off games, merchandise, films and of course TV shows. There are also plenty that pass us by in the West, of course, with a new show announced for Japanese TV that could be rather fun.
+It's a variety show called 'Pokemon to Doko Iku!?', which will have an abbreviated title of PokeDoko and will begin its run in April. More importantly, it has a Pikachu car, which you can call Pi-car-chu, Pikarchu or whatever you want.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Sends In DG2-G12 Support For Linux 5.18 Along With Other Changes]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Linux-5.18-DG2-G12</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Linux-5.18-DG2-G12"/>
+        <updated>2022-02-18T10:25:15.000Z</updated>
+        <summary type="html"><![CDATA[Building off Intel graphics driver code already staged for the upcoming Linux 5.18 merge window, another round of feature changes were sent in this week to DRM-Next for adding to the queue ahead of this next kernel cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Linux Graphics Driver Could See Improved Test Coverage Thanks To Google]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-GSoC-2022-AMDGPU</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-GSoC-2022-AMDGPU"/>
+        <updated>2022-02-18T10:09:19.000Z</updated>
+        <summary type="html"><![CDATA[While the X.Org Foundation didn't participate in Google Summer of Code last year amid GSoC project changes, with this year's GSoC design having incorporate feedback from last year's changes, X.Org is hoping to once again participate in this summer initiative that sees student developers contribute to and engage with open-source projects. So far under the X.Org umbrella there is one project idea being solicited that has willing mentors and that is for improving the unit testing coverage of the AMDGPU kernel driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hacking v praxi: od sociálního inženýrství po bankomaty (školení)]]></title>
         <id>www.root.cz-actuality-40997</id>
@@ -1321,32 +1397,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Risqué 'Duel Princess' Returns To PC Following Switch And Steam Delisting]]></title>
-        <id>https://www.nintendolife.com/#article-127528</id>
-        <link href="https://www.nintendolife.com/news/2022/02/the-risque-duel-princess-returns-to-pc-following-switch-and-steam-delisting"/>
-        <updated>2022-02-17T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Stormed the Japanese eShop chart before being yanked, apparently.
-Qureate’s tower-defence RPG Duel Princess is available again on PC following its delisting from the Switch eShop and Steam store last month.
-The game – which features a bevvy of anime-style ladies in rather compromising positions – was pulled from the Japanese Switch eShop in January, with Qureate refusing to specify what the issue was. The company did state that it intended to bring it back at some point.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Two Point Campus' Archaeology Course Channels The Spirit Of Indiana Jones]]></title>
-        <id>https://www.nintendolife.com/#article-127525</id>
-        <link href="https://www.nintendolife.com/news/2022/02/video-two-point-campus-archaeology-course-channels-the-spirit-of-indiana-jones"/>
-        <updated>2022-02-17T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Dig in.
-Sega has released a video for its forthcoming Two Point Campus, and this one focuses on the game's Archaeology Course.
-Here's some PR:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Turris OS 5.3 zajistí plnou funkčnost a bezpečnost i první generaci zařízení z roku 2013]]></title>
         <id>www.root.cz-actuality-43342</id>
         <link href="https://www.root.cz/zpravicky/turris-os-5-3-zajisti-plnou-funkcnost-a-bezpecnost-i-prvni-generaci-zarizeni-z-roku-2013/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1388,7 +1438,7 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pro Gamer Fired After Saying Short Men 'Don't Have Human Rights']]></title>
+        <title type="html"><![CDATA[Pro Gamer Fired After Saying Men Under 5 ft 7 in 'Don't Have Human Rights' [Update]]]></title>
         <id>1848553238</id>
         <link href="https://kotaku.com/tekken-esports-pro-gamer-japan-osaka-stream-red-bull-al-1848553238"/>
         <updated>2022-02-17T11:00:00.000Z</updated>
@@ -1736,16 +1786,6 @@ The Game Informer staff has selected 10 games that we consider to be the PlaySta
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking pletacích strojů]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/hacking-pletacich-stroju</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/hacking-pletacich-stroju"/>
-        <updated>2022-02-16T20:42:02.000Z</updated>
-        <summary type="html"><![CDATA[Zuzana Ševčíková v rozhovoru pro Radio Wave (nebo v článku pro Material Times) představuje širšímu publiku hacking pletacích strojů, který spočívá v instalaci programovatelných čipů do (starších) sériově vyráběných pletacích strojů, reverzní inženýrství Stevea Conklina (přednáška) a projekt AYAB (all yarns are beautiful) – a komunitu sdílející vzory.]]></summary>
-        <author>
-            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -3344,16 +3384,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vyšla nová verze pfSense CE 2.6.0-RELEASE a pfSense Plus 22.01-RELEASE]]></title>
-        <id>www.root.cz-actuality-43322</id>
-        <link href="https://www.root.cz/zpravicky/vysla-nova-verze-pfsense-ce-2-6-0-release-a-pfsense-plus-22-01-release/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-02-14T15:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Dnes vyšla nová verze firewallu pfSense CE 2.6.0-RELEASE a rovněž pfSense Plus 22.01-RELEASE. Tyto verze jsou vystavěny na základech FreeBSD 12.3-STABLE.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: SmEjDiL)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Total War: Warhammer 3 review: a heavyweight RTS with transformative changes to multiplayer]]></title>
         <id>https://www.rockpapershotgun.com/total-war-warhammer-3-review</id>
         <link href="https://www.rockpapershotgun.com/total-war-warhammer-3-review"/>
@@ -3394,26 +3424,6 @@ Click here to watch embedded media
 “With the launch of Horizon Fo…]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA 510.54 Linux Driver Released]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-510.54-Linux-Driver</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-510.54-Linux-Driver"/>
-        <updated>2022-02-14T14:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Two weeks ago NVIDIA released the 510.47.03 Linux driver as their first stable driver in the 510 series. Today that has been succeded by the NVIDIA 510.54 stable update...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Completes Its Acquisition Of Xilinx]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Completes-Xilinx-Deal</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Completes-Xilinx-Deal"/>
-        <updated>2022-02-14T14:20:09.000Z</updated>
-        <summary type="html"><![CDATA[As was expected with last week AMD receiving all necessary regulatory approvals for its acquisition of Xilinx, today the deal successfully closed...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3483,16 +3493,6 @@ Capcom fans have been enjoying some fantastic games as of late. Between Resident
 Perhaps as a Valentine’s Day surprise, Capcom tweeted out a random link today and upon clicking it, you’re brought to a relatively blank screen that features a countdown both in days and in hours. At first glance, it’s not really teasing anything, ex…]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarks - Is PowerTOP Tuning Worthwhile For Modern AMD Linux Laptops?]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=PowerTOP-ThinkPad-Ryzen-5000</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=PowerTOP-ThinkPad-Ryzen-5000"/>
-        <updated>2022-02-14T13:15:39.000Z</updated>
-        <summary type="html"><![CDATA[While PowerTOP was immensely helpful when the Intel open-source project started out in 2007 for reporting untuned kernel parameters and noting what's keeping the CPU from reaching its deeper sleep states, over the past decade Linux has greatly improved when it comes to power management and better behavior out-of-the-box. PowerTOP continues to see occasional commits and new releases, but there's less talk about it these days than going back a number of years when it was a must-have for x86_64 laptops. In any case I was curious to see if following its tips still provided any meaningful difference on a modern AMD Ryzen powered laptop...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
