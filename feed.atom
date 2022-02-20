@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-20T10:11:21.667Z</id>
+    <id>urn:2022-02-20T12:15:48.309Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-02-20T10:11:21.667Z</updated>
+    <updated>2022-02-20T12:15:48.309Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel IBT Patches For Linux Back On Track]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-IBT-Self-Hosting-Linux</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-IBT-Self-Hosting-Linux"/>
+        <updated>2022-02-20T12:06:38.000Z</updated>
+        <summary type="html"><![CDATA[Last month Intel posted a new set of Linux patches for shadow stack support as part of the Control-flow Enforcement Technology (CET) found within their latest processors. Also part of Intel's CET is Indirect Branch Tracking (IBT) while Intel said they were going to first focus on shadow stack (SS) and worry about IBT later. Less than one month later, new Indirect Branch Tracking patches for the Linux kernel have been taking shape...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa's Virgl Preparing To Transition To Using NIR Over TGSI]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Virgl-NIR-WIP</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Virgl-NIR-WIP"/>
+        <updated>2022-02-20T12:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Mesa's Virgl code as part of the Virgil 3D GPU project allows for OpenGL/3D acceleration within QEMU virtual machines with the driver calls then being passed onto the host GPU. Mesa's Virgl code to this stage has relied upon the Gallium3D TGSI intermediate representation while they are working on moving it to the modern and superior NIR...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-629</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-629"/>
+        <updated>2022-02-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for nudging the fridge door shut with your knee. Before you make contact, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 37 Looks To Make pkexec Optional For Improved Security]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-37-Optional-pkexec</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-37-Optional-pkexec"/>
+        <updated>2022-02-20T10:17:43.000Z</updated>
+        <summary type="html"><![CDATA[Following the nasty local privilege escalation vulnerability that was disclosed last month for Polkit's pkexec, Fedora developers are hoping to make pkexec optional later this year with Fedora 37...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Dialtown: Phone Dating Sim]]></title>
+        <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=308652</id>
+        <link href="https://www.destructoid.com/reviews/review-dialtown-phone-dating-sim/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-dialtown-phone-dating-sim"/>
+        <updated>2022-02-20T09:30:35.000Z</updated>
+        <summary type="html"><![CDATA[I feel like I will face COSMIC REPERCUSSIONS for writing this review I guess I’m getting sort of a reputation....
+The post Review: Dialtown: Phone Dating Sim appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Zoey Handley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
+        <id>https://www.destructoid.com/?p=308832</id>
+        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-186/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-186"/>
+        <updated>2022-02-20T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[February Fever Hi, hello, good morrow, good morning, and welcome to Whatcha Been Playing? We are slap bang in the...
+The post Whatcha been playing this week, Destructoid? appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metroid Prime 4 Dev Retro Studios Is Advertising Job Openings On ArtStation]]></title>
         <id>https://www.nintendolife.com/#article-127641</id>
@@ -383,17 +446,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Intel's forthcoming Arc Graphics "Alchemist" (DG2) graphics cards do support Resizable BAR functionality as covered when they previously published Linux patches for it. They are also now working on a DG2 feature for "small BAR" support...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
-        <id>https://www.destructoid.com/?p=308832</id>
-        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-186/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-186"/>
-        <updated>2022-02-19T11:00:42.000Z</updated>
-        <summary type="html"><![CDATA[February Fever Hi, hello, good morrow, good morning, and welcome to Whatcha Been Playing? We are slap bang in the...
-The post Whatcha been playing this week, Destructoid? appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -2102,17 +2154,6 @@ The post Pokemon Legends: Arceus players are crossing water with Bibarel bridges
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This hilarious Kingdom Hearts PS2 versus Switch cloud comparison video highlights the crazy state of the industry]]></title>
-        <id>https://www.destructoid.com/?p=309013</id>
-        <link href="https://www.destructoid.com/kingdom-hearts-ps2-versus-switch-cloud-comparison-video/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kingdom-hearts-ps2-versus-switch-cloud-comparison-video"/>
-        <updated>2022-02-17T18:30:59.000Z</updated>
-        <summary type="html"><![CDATA[The cloud was supposed to save us If you want a laugh, and possibly a good cry once you think...
-The post This hilarious Kingdom Hearts PS2 versus Switch cloud comparison video highlights the crazy state of the industry appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Carter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Horizon Forbidden West | New Gameplay Today Live]]></title>
         <id>117322</id>
         <link href="https://www.gameinformer.com/new-gameplay-today-live/2022/02/17/horizon-forbidden-west-new-gameplay-today-live"/>
@@ -3005,16 +3046,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD P-State Support Coming For The CPUPower Tool]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=CPUPower-AMD-P-State</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=CPUPower-AMD-P-State"/>
-        <updated>2022-02-16T10:13:35.000Z</updated>
-        <summary type="html"><![CDATA[With the forthcoming Linux 5.17 kernel there is the new AMD P-State driver aiming to provide better power efficiency than the ACPI CPUFreq driver that has long been used on AMD platforms. For complementing that AMD P-State driver, AMD has also been working on adding their CPU P-State support to Linux's cpupower tool...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[U.S. Copyright Office Consultation Triggers Massive “Upload Filter” Opposition]]></title>
         <id>https://torrentfreak.com/?p=215080</id>
         <link href="https://torrentfreak.com/u-s-copyright-office-consultation-triggers-massive-upload-filter-opposition-220216/"/>
@@ -3035,16 +3066,6 @@ Eventually I decided on corn, a warm yellow to keep things light and breezy. To 
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton 7.0 Released With More Games Running On Linux, EAC Support, Many Other Updates]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Proton-7.0-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Proton-7.0-Released"/>
-        <updated>2022-02-16T09:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of the Steam Deck beginning to ship at month's end, Valve overnight released Proton 7.0-1 as the newest version of their software that allows many Windows games to run on Linux with great success. Proton 7.0 is rebased against the new upstream Wine 7.0 while also having many other changes in tow...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3131,16 +3152,6 @@ The live-action TV series features Idris Elba’s Knuckles, who makes his debut
 2022 is indeed a big year for Sonic. As previously mentioned, his first open-world game Sonic Frontiers is slated to arrive later this year. You can read about how that game was originally intended to release in 2021 here.]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canonical Will Begin Certifying Gigabyte Servers For Ubuntu Linux]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Gigabyte-Certified-SRV</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Gigabyte-Certified-SRV"/>
-        <updated>2022-02-15T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Gigabyte and Canonical today announced that they will be working together to certify Gigabyte server hardware moving forward for use under Ubuntu Server...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4652,17 +4663,6 @@ Ahem. Well, if Danny Trejo can show up in this kickflip 'em up, what other cameo
 Read more]]></summary>
         <author>
             <name>Brendan Caldwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Factorio expansion goal is to feel "as big an addition as the whole vanilla game"]]></title>
-        <id>https://www.rockpapershotgun.com/factorio-expansion-goal-is-to-feel-as-big-an-addition-as-the-whole-vanilla-game</id>
-        <link href="https://www.rockpapershotgun.com/factorio-expansion-goal-is-to-feel-as-big-an-addition-as-the-whole-vanilla-game"/>
-        <updated>2022-02-07T16:29:14.000Z</updated>
-        <summary type="html"><![CDATA[One year after announcing a paid expansion for Factorio, the developers still haven't revealed much of what it'll bring. But they have now confirmed something that might not be big but is large: they plan for the expansion to feel as big as the whole base game all over again. Factorio is not a small game, so that's an impressive plan.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
         </author>
     </entry>
     <entry>
