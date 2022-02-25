@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-25T08:12:59.370Z</id>
+    <id>urn:2022-02-25T10:11:42.858Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-02-25T08:12:59.370Z</updated>
+    <updated>2022-02-25T10:11:42.858Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora 37's Silverblue & Kinoite Look To Default To Read-Only /sysroot]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-37-sysroot-read-only</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-37-sysroot-read-only"/>
+        <updated>2022-02-25T10:05:56.000Z</updated>
+        <summary type="html"><![CDATA[The Fedora Silverblue and Fedora Kinoite immutable OS spins of Fedora Linux are looking at mounting /sysroot read-only by default for where the operating system assets are stored...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Sends In More Graphics Driver Changes For Linux 5.18]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Linux-5.18-More-Displays</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Linux-5.18-More-Displays"/>
+        <updated>2022-02-25T09:48:44.000Z</updated>
+        <summary type="html"><![CDATA[Intel on Wednesday sent in another batch of i915 kernel graphics driver updates to DRM-Next for queuing ahead of next month's Linux 5.18 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon GO's 2022 Roadmap Has Been Revealed]]></title>
+        <id>https://www.nintendolife.com/#article-127885</id>
+        <link href="https://www.nintendolife.com/news/2022/02/pokemon-gos-2022-roadmap-has-been-revealed"/>
+        <updated>2022-02-25T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA["Think of this like a guide for the upcoming months".
+Pokémon GO developer Niantic has revealed the 2022 roadmap for the game.
+The studio has stated that it will be focusing its efforts on "improving Pokémon GO and bringing fun, exciting updates to Trainers around the world," and has admitted that it has been hard to implement ideas based on the company's three core 'pillars' – real-world social interaction, exercise and exploration – over the past two years, a reference to the ongoing COVID-19 pandemic.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux RNG Improvements Aim For Better VM Security]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-RNG-VM-Forks</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-RNG-VM-Forks"/>
+        <updated>2022-02-25T09:25:21.000Z</updated>
+        <summary type="html"><![CDATA[In addition to performance improvements for Linux's RNG code, Jason Donenfeld has also been working on security improvements around the kernel's random number generator code in the context of virtual machines. New patches he has been working on aim to address the issue of potentially having the same stream of random numbers when forking/cloning a VM...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring launch patch to address stability issues on console]]></title>
+        <id>https://www.destructoid.com/?p=310039</id>
+        <link href="https://www.destructoid.com/elden-ring-patch-version-102-playstation-xbox-bugs-glitch/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=elden-ring-patch-version-102-playstation-xbox-bugs-glitch"/>
+        <updated>2022-02-25T09:00:57.000Z</updated>
+        <summary type="html"><![CDATA[No word on PC update as of yet Today sees the official launch of one of the highest-rated video games...
+The post Elden Ring launch patch to address stability issues on console appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ResearchGate Wins (& Loses) Scientific Publishers’ Copyright Lawsuit]]></title>
+        <id>https://torrentfreak.com/?p=215345</id>
+        <link href="https://torrentfreak.com/researchgate-wins-loses-scientific-publishers-copyright-lawsuit-220225/"/>
+        <updated>2022-02-25T08:23:58.000Z</updated>
+        <summary type="html"><![CDATA[In 2017, publishers Elsevier and American Chemical Society filed a copyright lawsuit against research sharing platform ResearchGate, claiming that 50 of their articles were made available without permission. A court in Germany has now prohibited ResearchGate from making those titles available but refused to award damages due to the plaintiffs' failure to demonstrate acquisition rights.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Funkce getrandom() v linuxovém jádře bude 800× rychlejší]]></title>
         <id>www.root.cz-actuality-43370</id>
@@ -71,9 +136,8 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2022/02/knockout-city-is-going-free-to-play-velan-studios-will-replace-ea-as-games-publisher"/>
         <updated>2022-02-25T05:00:00.000Z</updated>
         <summary type="html"><![CDATA["Strap in, brawlers".
-Some changes are coming to Knockout City - with developer Velan Studios announcing the game will be going free-to-play.
-
-"Knockout City is going free-to-play, beginning this spring with Season 6! We’re really excited to bring our game to millions of new players around the world, by removing the price tag entirely."
+Some changes are coming to Knockout City - with developer Velan Studios announcing the game will be dropping the "price tag entirely" and going free-to-play as of Season 6.
+In the same announcement, the studio also revealed how it would be taking over EA's responsibilities as the game's publisher under this new model. Velan also used the opportunity to thank the EA Originals label for the support and for introducing the game to the world.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1345,19 +1409,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deckbuilder 'Roguebook' Gets An Expansion Ahead Of Spring Switch Release]]></title>
-        <id>https://www.nintendolife.com/#article-127827</id>
-        <link href="https://www.nintendolife.com/news/2022/02/deckbuilder-roguebook-gets-an-expansion-ahead-of-spring-switch-release"/>
-        <updated>2022-02-24T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Out today on PlayStation and Xbox.
-Its hybrid nature has made the Switch a good home for deckbuilding games, which are often equally suited to quick blasts on the go or extended sessions on the TV. Another on the way soon is Roguebook, published by Nacon and developed by Abrakam Entertainment (Faeria) and co-designed by Richard Garfield, the creator of Magic: The Gathering; it's due on Switch this Spring.
-It's been out on PC since Summer 2021 and launches today on PlayStation / Xbox platforms, the latter of which has been used as the launch point for Fugoro, a new playable character. Overall the game's had a positive reception on Steam, so could be one to watch when it eventually makes its way to Switch in the coming months.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Posts New ASI Patches For KVM To Help Fight Off Speculative Execution Attacks]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-New-ASI-KVM-2022</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-New-ASI-KVM-2022"/>
@@ -1968,17 +2019,6 @@ According to Bioware GM Gary McKay, the unofficially titled Dragon Age 4 is curr
 Bioware says this up…]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cafe Owner Simulator needs a lot more renovation]]></title>
-        <id>https://www.destructoid.com/?p=309731</id>
-        <link href="https://www.destructoid.com/impressions-cafe-owner-simulator-pc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=impressions-cafe-owner-simulator-pc"/>
-        <updated>2022-02-23T18:00:44.000Z</updated>
-        <summary type="html"><![CDATA[And maybe also some coffee The demo for Cafe Owner Simulator just kept getting more confusing for me. For starters,...
-The post Cafe Owner Simulator needs a lot more renovation appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Zoey Handley</name>
         </author>
     </entry>
     <entry>
@@ -3025,16 +3065,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCC 12 Adds Support For AArch64 Shadow Call Stack]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-Lands-Shadow-Call-Stack</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-Lands-Shadow-Call-Stack"/>
-        <updated>2022-02-22T09:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Squeezing into the GCC 12 compiler release is support for the Shadow Call Stack functionality on 64-bit Arm (AArch64)...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Elon Musk Suggests That Piracy is Appealing Once Again]]></title>
         <id>https://torrentfreak.com/?p=215373</id>
         <link href="https://torrentfreak.com/elon-musk-suggests-that-piracy-is-appealing-once-again-220222/"/>
@@ -3181,16 +3211,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FBDEV Console Patches Optimize Performance - Print Directory Listing ~25% Faster]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=FBDEV-Console-Faster-2022</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FBDEV-Console-Faster-2022"/>
-        <updated>2022-02-21T20:16:41.000Z</updated>
-        <summary type="html"><![CDATA[With there being some renewed development interest around FBDEV with the kernel subsystem now having a maintainer, restoring hardware-accelerated scrolling, and other patches pending to clean-up and optimize the frame-buffer device code, there is also a new performance optimization series...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Matching All 45 U.S. Presidents To All 45 Chrono Cross Party Members]]></title>
         <id>35436</id>
         <link href="https://www.gameinformer.com/b/features/archive/2017/08/07/matching-all-45-u-s-presidents-to-all-45-chrono-cross-party-members.aspx"/>
@@ -3224,16 +3244,6 @@ Street Fighter 6 was announced late last night, and I can’t stop watching the 
 Capcom is no stranger to live service games, nor do they lack experience in seasonal content. Street Fighter V had plenty of both, with four seaso…]]></summary>
         <author>
             <name>John Carson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Lattner Formally Steps Down From Swift's Core Team]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Lattner-Leaves-Swift-Core-Team</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Lattner-Leaves-Swift-Core-Team"/>
-        <updated>2022-02-21T18:41:43.000Z</updated>
-        <summary type="html"><![CDATA[LLVM project founder Chris Lattner who began developing the Swift programming language back in 2010 during his time at Apple is now leaving that programming language's core team...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4387,17 +4397,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Dokonce ani na Svatého Valentýna nezmeškáte s Goodoffer24 příležitost k dobrému nákupu, protože jsou zde supernabídky se slevou až 91 % na mnoho software! Mezi nimi je určitě jednou z nejlákavějších doživotní licence na Windows 10 PRO za pouhých € 13, u které je možnost zdarma upgradovat na Windows 11 v okamžiku dostupnosti. Jako vždy zde hovoříme o doživotní licenci s 30denní zkušební dobou, po které vám bude v případě jakýchkoliv problémů licence vyměněna. Také připomínáme jedinečnou nabídku balíku Office, kterou můžete ve verzi 2016 získat díky superslevám až 91 % za pouhých € 23!]]></summary>
         <author>
             <name>Reklama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK High Court Grants the MPA its First “Pirate” Cyberlocker Blocking Order]]></title>
-        <id>https://torrentfreak.com/?p=215091</id>
-        <link href="https://torrentfreak.com/uk-high-court-grants-the-mpa-its-first-pirate-cyberlocker-blocking-order-220215/"/>
-        <updated>2022-02-15T08:58:22.000Z</updated>
-        <summary type="html"><![CDATA[The UK High Court has ordered six of the country's largest ISPs to block access to Mixdrop.me and Mixdrop.co. The injunction was requested on behalf of Netflix and several major Hollywood studios. The Motion Picture Association notes that this is the first blocking action in the UK that's aimed at a cyberlocker service hosting movies and TV shows.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
