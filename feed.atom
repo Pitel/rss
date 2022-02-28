@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-02-28T06:14:47.981Z</id>
+    <id>urn:2022-02-28T08:13:21.444Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-02-28T06:14:47.981Z</updated>
+    <updated>2022-02-28T08:13:21.445Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ReiserFS je označen jako zastaralý a bude odstraněn v roce 2025]]></title>
+        <id>www.root.cz-actuality-43380</id>
+        <link href="https://www.root.cz/zpravicky/reiserfs-je-oznacen-jako-zastaraly-a-bude-odstranen-v-roce-2025/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-28T07:16:12.000Z</updated>
+        <summary type="html"><![CDATA[Minulý týden bylo navrženo a diskutováno odstranění ReiserFS z linuxového jádra. V pátek pak Jan Kára poslal záplatu, která označuje ReiserFS 4 za zastaralý a předpokládá odstranění v za tři roky v roce 2025.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruská státní síťová infrastruktura byla odpojena od internetu]]></title>
+        <id>www.root.cz-actuality-43379</id>
+        <link href="https://www.root.cz/zpravicky/ruska-statni-sitova-infrastruktura-byla-odpojena-od-internetu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-02-28T07:10:50.000Z</updated>
+        <summary type="html"><![CDATA[Ruský největší poskytovatel připojení, společnost Rostelecom, přestala do zahraničí v BGP oznamovat prefixy státní síťové infrastruktury (AS196747). Síť je tedy dostupná jen uvnitř Ruska a různými nástroji je možné sledovat, kdy přesně došlo ke změně v BGP.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Battlefield 2042 Pulls Russian Helicopter Skin 'In Light Of Current Events']]></title>
         <id>1848600439</id>
@@ -15,6 +35,16 @@
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wings 3D 2.2.9]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/wings-3d-2.2.9</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/wings-3d-2.2.9"/>
+        <updated>2022-02-28T00:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Wings 3D, tj. open source 3D modelovací program naprogramovaný v programovacím jazyce Erlang a zaměřený na modelování pomocí subdivision a inspirovaný programy Nendo a Mirai od Izware, byl vydán v nové opravné verzi 2.2.9. Ke stažení bude také ve formátu flatpak z Flathubu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2068,16 +2098,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[dahliaOS Linux 220222]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/dahliaos-linux-220222</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/dahliaos-linux-220222"/>
-        <updated>2022-02-25T14:05:16.000Z</updated>
-        <summary type="html"><![CDATA[Byl vydán dahliaOS Linux 220222. Dle vývojářů dahliaOS se jedná o operační systém přinášející to nejlepší z GNU/Linuxu and Fuchsia OS. Jako desktopové prostředí se používá Pangolin Desktop. Vyzkoušet jej lze ve webovém prohlížeči.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tiny Combat Arena early access review: a stylised and supersonic dogfighting sortie]]></title>
         <id>https://www.rockpapershotgun.com/tiny-combat-arena-early-access-review</id>
         <link href="https://www.rockpapershotgun.com/tiny-combat-arena-early-access-review"/>
@@ -3975,16 +3995,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Po pěti letech vyšel FreeDOS 1.3]]></title>
-        <id>www.root.cz-actuality-43352</id>
-        <link href="https://www.root.cz/zpravicky/vysel-freedos-1-3-po-peti-letech/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-02-21T16:53:45.000Z</updated>
-        <summary type="html"><![CDATA[Po pěti letech od verze 1.2 včera vyšla verze 1.3 operačního systému FreeDOS. Nově obsahuje FreeCOM 0.85a, jádro 2043 a podporu FAT32 pro 8086. Nově disketová verze používá kompresi a je potřeba jen polovina disket.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rainbow Six Siege's seventh year will bring three maps]]></title>
         <id>https://www.rockpapershotgun.com/rainbow-six-sieges-seventh-year-will-bring-three-maps</id>
         <link href="https://www.rockpapershotgun.com/rainbow-six-sieges-seventh-year-will-bring-three-maps"/>
@@ -4004,16 +4014,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rychlý linker mold 1.1 umí LTO]]></title>
-        <id>www.root.cz-actuality-43351</id>
-        <link href="https://www.root.cz/zpravicky/rychly-linker-mold-1-1-umi-lto/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-02-21T15:16:06.000Z</updated>
-        <summary type="html"><![CDATA[Velmi rychlý linker mold, o kterém jsme již psali, vyšel dnes ve verzi 1.1. Hlavní novinkou je podpora LTO (link time optimization). Dřívější verze mold LTO neuměly a kód posílaly jiným linkerům (bfd, lld, gold). LTO v mold je zatím jen o kousek rychlejší, než klasické linkery, protože zatím nebyla cílem rychlost LTO. To by se mělo časem změnit.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
