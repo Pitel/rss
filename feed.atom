@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-01T06:14:14.801Z</id>
+    <id>urn:2022-03-01T08:13:33.533Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-01T06:14:14.801Z</updated>
+    <updated>2022-03-01T08:13:33.533Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MPlayer 1.5 přináší vlastní GUI]]></title>
+        <id>www.root.cz-actuality-43385</id>
+        <link href="https://www.root.cz/zpravicky/mplayer-1-5-prinasi-vlastni-gui/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-01T08:11:34.000Z</updated>
+        <summary type="html"><![CDATA[Necelé tři roky vývoje a na světě je nový MPlayer 1.5 s několika změnami. Jelikož FFmpeg již neposkytuje ffmpeg12vpdau, přechází MPlayer na samostatné ffmpeg1vpdau a ffmpeg2vpdau. Knihovna live555 je nyní zastaralou a ve výchozím nastavení deaktivovaná. GUI má opravenou chybnou velikost okna při návratu z fullscreenu, upraveno je rozpoznávání argumentu příkazové řádky -fs pro fullscreen vedle nastavení v GUI (předvolba load_fullscreen). MPlayer také konečně dostal vlastní výchozí GUI, takže není potřeba žádné vnější.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smartmontools 7.3 Released For Monitoring Disk Drive SMART Status]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Smartmontools-7.3</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Smartmontools-7.3"/>
+        <updated>2022-03-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Smartmontools 7.3 was released as the first update to this open-source package in more than one year for providing a utility (smartctl) and daemon (smartd) for monitoring the SMART capabilities built into modern (S)ATA / NVMe / SCSI / SAS disk drives...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorry Folks, But There's Still No Release Date For Digimon Survive]]></title>
+        <id>https://www.nintendolife.com/#article-127949</id>
+        <link href="https://www.nintendolife.com/news/2022/03/sorry-folks-but-theres-still-no-release-date-for-digimon-survive"/>
+        <updated>2022-03-01T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Here's a new trailer instead.
+Original story : Digimon Con kicked off with a special Q&A featuring the Digimon Survive team. Unfortunately, the whole thing began with an apology to fans for not being able to provide any new information.
+In short, there's still no release date, but producer Kazumasa Habu and the team hope fans can wait just a bit longer.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marvel's Fortnite Crossover, The Week's New Books, And A New Show To Watch | From Panel To Podcast]]></title>
         <id>117426</id>
@@ -61,6 +94,16 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Wasmer 2.2 was released on Monday for this WebAssembly (WASM) run-time that aims to "run any code on any client" with this open-source stack working across operating systems / platforms and supporting a variety of programming languages...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armbian 22.02]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/armbian-22.02</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/armbian-22.02"/>
+        <updated>2022-03-01T03:35:15.000Z</updated>
+        <summary type="html"><![CDATA[Armbian, tj. linuxová distribuce založená na Debianu a Ubuntu pro jednodeskové počítače na platformě ARM, byl vydán ve verzi 22.02. Nově je podporováno také Raspberry Pi.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1583,19 +1626,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Introducing Pokémon Scarlet And Violet's New Starters - Which One Will You Choose?]]></title>
-        <id>https://www.nintendolife.com/#article-127961</id>
-        <link href="https://www.nintendolife.com/news/2022/02/introducing-pokemon-scarlet-and-violets-new-starters-which-one-will-you-choose"/>
-        <updated>2022-02-27T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Say hello to Sprigatito, Fuecoco and Quaxly.
-
-During the reveal of Pokémon Scarlet and Violet, trainers got a look at the new starter pocket monsters. Once again, they're grass, fire and water type. Here's a breakdown of each one, courtesy of the game website:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pokémon Presents: All The Big News You Need To Know]]></title>
         <id>1848599670</id>
         <link href="https://kotaku.com/pokemon-presents-violet-scarlet-go-alola-arceus-switch-1848599670"/>
@@ -1911,16 +1941,6 @@ The post Smash Bros. a no-go for Evo appeared first on Destructoid.]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platforma Ideas@Mozilla končí. Nahradí ji Mozilla Connect]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/platforma-ideas-mozilla-konci.-nahradi-ji-mozilla-connect</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/platforma-ideas-mozilla-konci.-nahradi-ji-mozilla-connect"/>
-        <updated>2022-02-26T21:58:16.000Z</updated>
-        <summary type="html"><![CDATA[V červnu loňského roku Mozilla spustila platforma Ideas@Mozilla pro sběr zpětné vazby, ale také návrhů na nové funkce a obecně komunikaci s uživateli. Tento týden dostali registrovaní uživatelé email s informací, že Ideas@Mozilla končí a nahradí ji Mozilla Connect.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3346,16 +3366,6 @@ If you want to help our neighbors overseas, you can donate directly to the Ukrai
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red Hat Eyeing Innovative eBPF Uses For Linux's HID Subsystem]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-eBPF-For-HID</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-eBPF-For-HID"/>
-        <updated>2022-02-24T20:14:04.000Z</updated>
-        <summary type="html"><![CDATA[eBPF for sandboxed programs running in the kernel have shown to be very useful beyond the original BPF origins in the networking subsystem to also be very practical for other security, tracing, and other general use-cases for an in-kernel JIT virtual machine. Red Hat has sent out initial patches extending eBPF for making use of it within the HID subsystem for input devices...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[You Can Now See Which Of Your Steam Library Games Are Compatible With The Steam Deck]]></title>
         <id>117389</id>
         <link href="https://www.gameinformer.com/2022/02/24/you-can-now-see-which-of-your-steam-library-games-are-compatible-with-the-steam-deck"/>
@@ -4004,16 +4014,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Dnes si představíme Malování přepracované pomocí webových technologií, vyzkoušíme vývojářské nástroje, nastavíme zkratky pro rychlý přístup k přenosným programům a seznámíme se s přehrávačem YouTube videí.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ovladač OpenChrome pro GPU VIA UniChrome stále žije, přidává podporu pro Linux 5.18]]></title>
-        <id>www.root.cz-actuality-43359</id>
-        <link href="https://www.root.cz/zpravicky/ovladac-openchrome-pro-gpu-via-unichrome-stale-zije-pridava-podporu-pro-linux-5-18/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-02-22T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Phoronix připomíná, že v rámci Linuxu se i nadále myslí na uživatele, či dnes už spíše nadšené fanoušky grafických jader rodiny Chrome společnosti VIA. Tato grafická jádra, která bývala pod různými názvy před 15 lety součástí čipsetů jako P4M900 (pro Pentia 4/D) či K8M890 (pro S939/AM2 Athlony) a starších, jsou stále užívána a dokud existuje jediný vývojář udržující jejich podporu v Linuxu (či spíše mimo hlavní jádro), budou použitelná i nadále.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
