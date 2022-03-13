@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-13T12:16:54.090Z</id>
+    <id>urn:2022-03-13T14:10:27.729Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-13T12:16:54.090Z</updated>
+    <updated>2022-03-13T14:10:27.729Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Radeon Vulkan Driver "RADV" Adds KHR_ray_query Support]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-Lands-KHR_ray_query</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-Lands-KHR_ray_query"/>
+        <updated>2022-03-13T13:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Back in Q4 the Mesa 21.3 release added Vulkan ray-tracing support for the RADV driver. That RADV ray-tracing support has continued to mature and see performance optimizations. The latest major achievement for RADV's ray-tracing support is implementing support for the Vulkan KHR_ray_query extension...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feature: We Talked To The Godzilla-Obsessed Devs Of Kaiju Co-Op Beat-'Em-up, Dawn Of The Monsters]]></title>
         <id>https://www.nintendolife.com/#article-128517</id>
@@ -3469,16 +3479,6 @@ The next brutal gauntlet is Disgaea 6 Complete, with a newly announced released 
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Lands Mitigations For Spectre-BHB / BHI On Intel & Arm, Plus An AMD Change Too]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Spectre-BHI-Linux-Mitigations</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Spectre-BHI-Linux-Mitigations"/>
-        <updated>2022-03-08T20:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Within minutes of the BHI speculative execution vulnerability going public, patches were merged into the mainline Linux kernel Git tree for mitigating this offshoot from Spectre V2. The Intel and Arm processors affected by BHI (also referred to as Spectre-BHB) have mitigation work plus a change also impacts AMD processors too...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
