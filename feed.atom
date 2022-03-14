@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-14T06:14:04.647Z</id>
+    <id>urn:2022-03-14T08:13:45.972Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-14T06:14:04.647Z</updated>
+    <updated>2022-03-14T08:13:45.972Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hacking v praxi: od sociálního inženýrství po bankomaty (školení)]]></title>
+        <id>www.root.cz-actuality-40997</id>
+        <link href="https://www.root.cz/zpravicky/hacking-v-praxi-od-socialniho-inzenyrstvi-po-bankomaty-skoleni-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-14T08:02:58.000Z</updated>
+        <summary type="html"><![CDATA[Přijďte prozkoumat tajuplný svět hackingu a množství jeho jednotlivých zákoutí. Průvodcem na této cestě vám bude zkušený etický hacker s mnohaletou praxí, který se s vámi podělí o své zkušenosti. Stačí navštívit naše školení Hacking v praxi 1, na kterém proniknete do světa útočníků a jejich obětí. Školení proběhne v naší pražské školicí místnosti ve dnech 28. až 30. března.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alternativa pro YouTube na Androidu bez reklam Vanced končí]]></title>
+        <id>www.root.cz-actuality-43440</id>
+        <link href="https://www.root.cz/zpravicky/alternativa-pro-youtube-na-androidu-bez-reklam-vanced-konci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-14T07:42:03.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři alternativní aplikace pro sledování YouTube na Androidu bez reklam Vanced v neděli oznámili, že končí. Důvod nebyl zmíněn, ale patrně Google dosáhl svého hrozbou žaloby.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nalezení bezpečnostní chyby CVE-2022-25636 a jejího využití k lokální eskalaci práv]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/nalezeni-bezpecnostni-chyby-cve-2022-25636-a-jejiho-vyuziti-k-lokalni-eskalaci-prav</id>
@@ -3726,26 +3746,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox má dvě kritické zranitelnosti, už se zneužívají v praxi]]></title>
-        <id>www.root.cz-actuality-43416</id>
-        <link href="https://www.root.cz/zpravicky/firefox-ma-dve-kriticke-zranitelnosti-uz-se-zneuzivaji-v-praxi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-07T09:27:10.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla vydala mimořádnou aktualizaci prohlížeče Firefox, která řeší dvě závažné zranitelnosti. Ty jsou už v praxi zneužívány, takže se doporučuje s aktualizací neváhat. Chyby nesou označení CVE-2022–26485 a CVE-2022–26486 a obě spočívají v chybné práci s paměti. První se nachází ve zpracování parametrů v XSLT (Extensible Stylesheet Language Transformations), druhá pak v meziprocesové komunikaci (IPC) ve WebGPU.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chyba v linuxových cgroups umožňuje útočníkovi uniknout z kontejneru]]></title>
-        <id>www.root.cz-actuality-43414</id>
-        <link href="https://www.root.cz/zpravicky/chyba-v-linuxovych-cgroups-umoznuje-utocnikovi-uniknout-z-kontejneru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-07T09:20:16.000Z</updated>
-        <summary type="html"><![CDATA[Byla objevena velmi vážná zranitelnost v kódu linuxových cgroups, která umožňuje útočníkovi opustit kontejner aplikace a spustit vlastní kód v hostitelském systému. Chyba se nachází ve funkci jádra zvané control groups v1, která dovoluje organizovat procesy do hierarchické struktury a limitovat přístup k různým zdrojům jako je čas procesoru, paměť či přístup k síti. Právě na tom staví linuxové kontejnery včetně dalších nadstaveb jako Docker či Kubernetes.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
