@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-13T22:10:09.026Z</id>
+    <id>urn:2022-03-14T00:46:40.600Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-13T22:10:09.026Z</updated>
+    <updated>2022-03-14T00:46:40.600Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nalezení bezpečnostní chyby CVE-2022-25636 a jejího využití k lokální eskalaci práv]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/nalezeni-bezpecnostni-chyby-cve-2022-25636-a-jejiho-vyuziti-k-lokalni-eskalaci-prav</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/nalezeni-bezpecnostni-chyby-cve-2022-25636-a-jejiho-vyuziti-k-lokalni-eskalaci-prav"/>
+        <updated>2022-03-13T23:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Nick Gregory na svých stránkách sepsal, jak nalezl bezpečnostní chybu CVE-2022-25636 v Linuxu a následně její využití k lokální eskalaci práv: Jedné noci před pár týdny jsem se nudil. Bylo tu několik dalších projektů, na kterých jsem mohl pracovat, ale žádný z nich mi nepřipadal nijak zvlášť zajímavý, a tak jsem se rozhodl udělat nějakou náhodnou kontrolu kódu jádra…]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fish shell 3.4.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/fish-shell-3.4.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/fish-shell-3.4.0"/>
+        <updated>2022-03-13T23:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 3.4.0 interaktivního shellu fish (friendly interactive shell, Wikipedie). Přehled novinek v poznámkách k vydání. Nově lze například pro substituci příkazů vedle (cmd) používat také $(cmd).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Týden na ITBiz: Strategie freemium má své limity]]></title>
+        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-todo</id>
+        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-todo"/>
+        <updated>2022-03-13T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Papírové dokumenty se budou digitalizovat méně. Nová zpráva IDC predikuje dopady rusko-ukrajinské války na globální trh ICT. Strategie freemium má své limity. Uchovávání údajů o nakupujících v košíku online obchodů. Umělá inteligence pracovní trh zasáhla podstatně. Bezpečnost systému Kubernetes v roce 2022.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: špiníme roury linuxového jádra]]></title>
+        <id>www.root.cz-text-15951</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-spinime-roury-linuxoveho-jadra/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-13T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Tento týden se opět nevyhneme válečným tématům, kde pravidelně přispívají všechny strany konfliktu. Dále probereme nedostatečné zabezpečení UPS vedoucí k přehrání firmware nebo závažnou zranitelnost Dirty Pipe.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: CESNET CERTS)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 37 omezí 32bitové balíčky, FreeBSD zrychluje bootování]]></title>
+        <id>www.root.cz-text-15949</id>
+        <link href="https://www.root.cz/clanky/fedora-37-omezi-32bitove-balicky-freebsd-zrychluje-bootovani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-13T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Fedora 37 hodlá v rámci posupného ukončení podpory i686 omezit 32bitové balíčky. Projektu FreeBSD vydal beta verzi 13.1 a zprávu o vývoji za poslední kvartál. Operační systém MorpOS vydal novou verzi s lepším výkonem a stabilitou.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Week In Games: GTA V Is Almost Here. Again. (Again.)]]></title>
         <id>1848648053</id>
@@ -2596,16 +2646,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Závažné zranitelnosti v implementacích UEFI]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/zavazne-zranitelnosti-v-implementacich-uefi</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/zavazne-zranitelnosti-v-implementacich-uefi"/>
-        <updated>2022-03-09T23:49:42.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Binarly publikovala informace o 16 závažných zranitelnostech v implementaci UEFI v zařízeních HP. Před měsícem o 23 závažných zranitelnostech v implementaci UEFI v zařízeních Fujitsu, Siemens, Dell, HP, HPE, Lenovo, Microsoft, Intel a Bull Atos.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gran Turismo 7 Review - Earning Its Place On The Podium]]></title>
         <id>117534</id>
         <link href="https://www.gameinformer.com/review/gran-turismo-7/earning-its-place-on-the-podium"/>
@@ -2724,16 +2764,6 @@ The trailer shows off a Valkyrie slaying all manner of monsters using flashy swo
 The reimagined combat folds in gameplay elements from Valkyrie Profile games such as special attacks and combos. Whether or not you control a party of characters assigned to in…]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac Studio a M1 Ultra]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/mac-studio-a-m1-ultra</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/mac-studio-a-m1-ultra"/>
-        <updated>2022-03-09T22:53:38.000Z</updated>
-        <summary type="html"><![CDATA[Apple včera představil několik svých novinek. Zdůraznit lze nový stolní Mac Mac Studio a novým čipem M1 Ultra. Poslední člen rodiny čipů M1 vznikl spojením dvou čipů M1 Max. M1 Ultra má tedy na sobě 20 CPU jader a 62 GPU jader.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2912,6 +2942,9 @@ Release:
                       	March 18, 2022
 			
             
+Rating:
+      Mature
+      
 Stranger of Paradise Final Fantasy Origins launches next week, but if you’re still on the fence after previous trailers as well as a pair of demos, one final demo will become available on PlayStation consoles today.
 Like the two previous demos, this one is totally free and can be accessed on PlayStation 5 and PlayStation 4. There's no word on what it entails, but the past two demos let players explore sizable dungeons so it's probably safe to assume this third slice offers a similarly substantial sample. 
 Strange of Paradise Final Fantasy Origin launches March 18 on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, and PC. You can read the PC specs for the game here.]]></summary>
@@ -3756,16 +3789,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CentOS vydává Automotive Stream Distribution, Armbian podporuje Raspberry Pi]]></title>
-        <id>www.root.cz-text-15936</id>
-        <link href="https://www.root.cz/clanky/centos-vydava-automotive-stream-distribution-armbian-podporuje-raspberry-pi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-06T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[CentOS oznámil vydání distribuce pro automobilový průmysl Automotive Stream Distribution (AutoSD). Armbian vyšel ve verzi 22.02 s podporou Raspberry Pi a UEFI. Linux Mint hodlá nástroj pro správu Bluetooth Blueberry vyměnit za Blueman.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 03/07/2022]]></title>
         <id>https://torrentfreak.com/?p=186926</id>
         <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
@@ -3819,16 +3842,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Našli první exoplanetu v obyvatelné zóně mrtvé hvězdy. Účinek temné hmoty by mohl být patrný i ve Sluneční soustavě. Experiment KATRIN rekordně snížil horní hranici hmotnosti neutrina. Kvarky nedokážou vysvětlit spin neutronu. Jak rychle probíhá fotoelektrický jev. Válka a budoucnost Mezinárodní kosmické stanice. Baterie lithium-síra.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-source ovladač pro GPU PowerVR, Rusko chce legalizovat softwarové pirátství]]></title>
-        <id>www.root.cz-text-15938</id>
-        <link href="https://www.root.cz/clanky/open-source-ovladac-pro-gpu-powervr-rusko-chce-legalizovat-softwarove-piratstvi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-05T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Intel je otevřen připojení do konsorcia, které koupí ARM, vliv frekvence DDR5 na výkon Intel Alder Lake, Brave 1.36.109 vylepšuje peněženku, OpenBLAS řeší, jestli vyhodit podporu ruských CPU Elbrus.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4503,16 +4516,6 @@ Read more]]></summary>
         <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-8-2022"/>
         <updated>2022-02-25T23:01:00.000Z</updated>
         <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
-        <author>
-            <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ScienceMag.cz: Změny elektrické vodivosti s pamětí]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-zmeny-elektricke-vodivosti-s-pameti</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-zmeny-elektricke-vodivosti-s-pameti"/>
-        <updated>2022-02-24T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Jak fungují solitony v kvantové fyzice. Kvantové tření a proudění vody v uhlíkových nanotrubičkách. Kvazičástice se zlomky elektrického náboje. Raketa pro start z Marsu. Fúze černých děr druhé generace.]]></summary>
         <author>
             <name>Redakce</name>
         </author>
