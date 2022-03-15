@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-15T08:13:44.712Z</id>
+    <id>urn:2022-03-15T10:12:41.301Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-15T08:13:44.712Z</updated>
+    <updated>2022-03-15T10:12:41.301Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[More AMD "GFX940" Enablement Work Landing In LLVM]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-GFX940-MM-LLVM</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-GFX940-MM-LLVM"/>
+        <updated>2022-03-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this month AMD began publishing code for their "GFX940" graphics block as a new CDNA GPU, presumably what will be the AMD Instinct MI300 series as their next-gen datacenter GPU. More GFX940 open-source driver enablement work is getting underway...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Preparing Linux Support To Handle Live Microcode Updates Affecting SGX]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-SGX-Live-Microcode-Update</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-SGX-Live-Microcode-Update"/>
+        <updated>2022-03-15T09:33:07.000Z</updated>
+        <summary type="html"><![CDATA[While there have already been a number of vulnerabilities exhibited for Intel's Software Guard Extensions (SGX) from Prime+Probe to Plundervolt, Spectre-like attacks, SGAxe, and others, it looks like they expect more still to come in the future. Intel engineers are working on the ability for SGX to gracefully handle live CPU microcode updates without a reboot, which these days is increasingly driven for security mitigations and system administrators wanting to apply said updates right away while foregoing downtime...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom na mikrořadiči Raspberry Pi Pico]]></title>
+        <id>www.root.cz-actuality-43447</id>
+        <link href="https://www.root.cz/zpravicky/doom-na-mikroradici-raspberry-pi-pico/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-15T09:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Původní hra Doom vyšla před třiceti lety a potřebovala tehdy PC opatřené alespoň procesorem 386. Od té doby jsme se ovšem dostali o pořádný kus dál, což dokládá také čerstvá portace Dooma na mikrořadič Raspberry Pi Pico. Nejde pravda o nijak významnou a užitečnou aplikaci, ale hra ukazuje, jak může být řadič RP2040 výkonný v rukou zkušeného programátora.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's CBL-Mariner Linux Distro Updated For March With Many Security Fixes]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Microsoft-CBL-Mariner-March-22</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Microsoft-CBL-Mariner-March-22"/>
+        <updated>2022-03-15T09:21:04.000Z</updated>
+        <summary type="html"><![CDATA[It's been nearly one year since Microsoft published CBL-Mariner 1.0 as their internal Linux distribution in use at the WIndows company. Microsoft continues building upon CBL-Mariner and using it for a variety of use-cases from within Azure (for Sphere OS) to WSL and much more. They continue publishing monthly ISO releases for those wanting to use this Microsoft Linux spin for their own uses...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zranitelnost Dirty Pipe ohrožuje celou řadu zařízení firmy QNAP]]></title>
+        <id>www.root.cz-actuality-43446</id>
+        <link href="https://www.root.cz/zpravicky/zranitelnost-dirty-pipe-ohrozuje-celou-radu-zarizeni-firmy-qnap/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-15T09:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Společnost QNAP, známý výrobce síťových úložišť (NAS), v pondělí varovala před zneužitím čerstvého bezpečnostního problému linuxového jádra nazvaného Drity Pipe. Vážná chyba umožňuje v operačním systému přepisovat části paměti, které by měly být pouze ke čtení. Útočník tak může navýšit svá oprávnění a ovládnout celý systém.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Izrael byl zasažen rekordním DDoS útokem, nefungovaly vládní weby]]></title>
+        <id>www.root.cz-actuality-43445</id>
+        <link href="https://www.root.cz/zpravicky/izrael-byl-zasazen-rekordnim-ddos-utokem-nefungovaly-vladni-weby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-15T09:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Většina izraelských vládních webů byla nefunkčních kvůli ohromnému DDoS útoku. Obranné složky tvrdí, že jde o největší volumetrický útok, který kdy tento stát zasáhl. Zasažena byla mnohá ministerstva jako obrany, zdravotnictví nebo spravedlnosti, vypadl také web předsedy vlády.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PanVK Pulls Back From Advertising Vulkan 1.1 For Now]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=PanVK-No-Vulkan-1.1-Right-Now</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=PanVK-No-Vulkan-1.1-Right-Now"/>
+        <updated>2022-03-15T09:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Panfrost's PanVK Vulkan driver for Arm Mali graphics hardware had been exposing Vulkan API 1.1 support but that was premature and has now been reverted to Vulkan 1.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Court Overturns ‘Pirate’ IPTV Prison Sentences Due to Unenforceable Copyrights]]></title>
+        <id>https://torrentfreak.com/?p=216018</id>
+        <link href="https://torrentfreak.com/court-overturns-pirate-iptv-prison-sentences-due-to-unenforceable-copyrights-220315/"/>
+        <updated>2022-03-15T08:36:39.000Z</updated>
+        <summary type="html"><![CDATA[The Patent and Market Court of Appeal has overturned the prison sentences of three men who were criminally prosecuted for their involvement with IPTV service ATN. The Swedish court ruled that, while the service broadcasted copyrighted content from beIN in 2016, these rights are not enforceable as Qatar hadn't signed up to the Rome Convention at the time. 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random: Smash Ultimate Rollback Netcode Mod "Proof Of Concept" Up And Running On Switch]]></title>
         <id>https://www.nintendolife.com/#article-128617</id>
@@ -972,7 +1053,7 @@ Gearbox Software’s own Randy Pitchford revealed the news with a tweet thanking
         <link href="https://www.nintendolife.com/news/2022/03/deckbuilder-city-wars-tokyo-reign-gets-a-new-name-and-overview-trailer"/>
         <updated>2022-03-14T12:30:00.000Z</updated>
         <summary type="html"><![CDATA[Will have over 140 cards.
-Last year we shared details of Chrono Trigger, a deckbuilding roguelike from Mojo Bones, the developers of excellent 3DS eShop title Siesta Fiesta. It's now changed name to City Wars: Tokyo Reign, and has an extensive overview trailer that highlights how it'll work.
+Last year we shared details of Chrono Faction, a deckbuilding roguelike from Mojo Bones, the developers of excellent 3DS eShop title Siesta Fiesta. It's now changed name to City Wars: Tokyo Reign, and has an extensive overview trailer that highlights how it'll work.
 As you can see it has its own spin on the genre, opting for a timeline UI approach and a battlefield that evolves and keeps you on your toes; it'll also have over 140 cards to obtain and will be a premium title (not free-to-play with microtransactions).
 Read the full article on nintendolife.com]]></summary>
         <author>
@@ -3121,16 +3202,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel's Linux Graphics Driver Improving DRRS Support For Better Power-Savings]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Linux-Improve-DRRS</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Linux-Improve-DRRS"/>
-        <updated>2022-03-10T10:29:50.000Z</updated>
-        <summary type="html"><![CDATA[A set of 13 patches were posted overnight for improving the Intel Linux kernel graphics driver's handling of the power-savings feature Display Refresh Rate Switching (DRRS) for laptops...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Square Enix announce new strategy RPG The DioField Chronicle]]></title>
         <id>https://www.rockpapershotgun.com/square-enix-announce-new-strategy-rpg-the-diofield-chronicle</id>
         <link href="https://www.rockpapershotgun.com/square-enix-announce-new-strategy-rpg-the-diofield-chronicle"/>
@@ -3139,16 +3210,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AmigaOS-Like MorphOS 3.16 Released With Better Performance]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=MorphOS-3.16-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=MorphOS-3.16-Released"/>
-        <updated>2022-03-10T10:03:20.000Z</updated>
-        <summary type="html"><![CDATA[MorphOS as the AmigaOS-like operating system now in development for more than two decades and targeting PowerPC hardware is out with version 3.16 as its first major release in over a year...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3201,16 +3262,6 @@ Click here to watch embedded media
 Trek to Yomi launches this spring, so it shouldn't be much longer before we get our hands on it. You can find it on PlayStation and Xbox consoles and PC.]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 22.0 Released With Vulkan 1.3, Many Open-Source Intel & AMD Driver Improvements]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-22.0-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-22.0-Released"/>
-        <updated>2022-03-09T23:13:09.000Z</updated>
-        <summary type="html"><![CDATA[Mesa 22.0 is out today as the quarterly feature update to this collection of open-source OpenGL and Vulkan graphics drivers used widely by Linux systems...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3442,16 +3493,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steam Deck AMD APU Performance For Non-Gaming CPU Workloads]]></title>
-        <id>https://www.phoronix.com/vr.php?view=30957</id>
-        <link href="https://www.phoronix.com/vr.php?view=30957"/>
-        <updated>2022-03-09T19:47:52.000Z</updated>
-        <summary type="html"><![CDATA[Since the release at the end of February of Valve's Steam Deck there has been numerous Phoronix readers wondering about the CPU performance of the Steam Deck's AMD APU in non-gaming workloads and just how viable the Steam Deck could be for a converged device for desktop uses. Here is some commentary on that front and benchmark results.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Who Are Ya? is like Wordle but with football players]]></title>
         <id>https://www.rockpapershotgun.com/who-are-ya-is-like-wordle-but-with-football-players</id>
         <link href="https://www.rockpapershotgun.com/who-are-ya-is-like-wordle-but-with-football-players"/>
@@ -3598,16 +3639,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prometheus: moderní monitoringový nástroj a sběrač metrik (školení)]]></title>
-        <id>www.root.cz-actuality-43419</id>
-        <link href="https://www.root.cz/zpravicky/prometheus-moderni-monitoringovy-nastroj-a-sberac-metrik/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-09T08:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Prometheus je moderní monitoringový nástroj a metrics server. Umožňuje sbírat metrická data z vaší aplikace a většiny komponent vaší infrastruktury a nad těmito daty dělat grafy (v Grafaně) a vytvářet varování. Prometheus spadá pod CNCF, stejně jako Kubernetes. Pokud chcete podrobně sledovat stav infrastruktury a služeb, zúčastněte se našeho dvoudenního školení Prometheus.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Qua]]></title>
         <id>https://xkcd.com/2591/</id>
         <link href="https://xkcd.com/2591/"/>
@@ -3647,16 +3678,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Dnes si představíme databázového klienta, budeme spouštět skripty v Pythonu, přehrajeme video z YouTube na chytré televizi a nakonec vytvoříme zreprodukovatelný experiment.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 98 přináší upravené stahování a HTML element dialog]]></title>
-        <id>www.root.cz-actuality-43423</id>
-        <link href="https://www.root.cz/zpravicky/firefox-98-prinasi-upravene-stahovani-a-html-element-dialog/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-08T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jednou z novinek je vylepšený dialog stahování. Firefox (konečně?) po vzoru jiných bude automaticky soubory stahovat, bez ptaní se, co s nimi provést (dosud bylo výchozí nastavení jiné), nadále je zachována možnost jedním kliknutím soubor spustit (podrobněji v článku na domovském webu).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -3713,16 +3734,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bundle for Ukraine: stovky her bez DRM na itch.io]]></title>
-        <id>www.root.cz-actuality-43424</id>
-        <link href="https://www.root.cz/zpravicky/bundle-for-ukraine-stovky-her-bez-drm-na-itch-io/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-08T18:03:44.000Z</updated>
-        <summary type="html"><![CDATA[Server itch.io otevřel další vele-bundle obsahu bez DRM pro podporu „dobrých“ hnutí, tentokráte pro Ukrajinu. Nabízeno je 991 položek, převážně her (557), z toho 233 pro Linux, za minimální cenu 10 dolarů. Výtěžek má jít rovným dílem mezi dvě charity pomáhající na Ukrajině.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Michal Smrž)</name>
         </author>
     </entry>
     <entry>
@@ -4222,17 +4233,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Brendan Caldwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hollywood & Netflix Obtain High Court Orders to Block Dozens of Pirate Sites]]></title>
-        <id>https://torrentfreak.com/?p=215775</id>
-        <link href="https://torrentfreak.com/hollywood-netflix-obtain-high-court-orders-to-block-dozens-of-pirate-sites-220304/"/>
-        <updated>2022-03-04T09:15:19.000Z</updated>
-        <summary type="html"><![CDATA[The major Hollywood studios and Netflix, which together form the MPA, have obtained permission from the High Court in London to block dozens of additional pirate sites. The long list includes torrent sites TorrentGalaxy, Zooqle, TorrentLeech, MagnetDL and GloTorrents, plus a selection of unblocking portals and release blogs/DDL sites.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
