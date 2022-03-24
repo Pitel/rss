@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-24T06:14:03.983Z</id>
+    <id>urn:2022-03-24T08:13:41.236Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-24T06:14:03.983Z</updated>
+    <updated>2022-03-24T08:13:41.236Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GNOME 42 přináší náhradu Geditu i systémový tmavý režim]]></title>
+        <id>www.root.cz-actuality-43483</id>
+        <link href="https://www.root.cz/zpravicky/gnome-42-prinasi-nahradu-geditu-i-systemovy-tmavy-rezim/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-24T07:36:35.000Z</updated>
+        <summary type="html"><![CDATA[Na světě je „stopařovské“ vydání GNOME s řadou zajímavých novinek. Předně zde najdeme systémový tmavý režim (včetně podpory u všech obsažených wallpaperů), vylepšené zachytávání screenshotů záznam desktopu v podobě videa, nový textový editor, obecně rychlejší běh.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragon Quest Creator Yuji Horii Receives GDC Lifetime Achievement Award]]></title>
         <id>https://www.nintendolife.com/#article-129285</id>
@@ -16,6 +26,16 @@ If you're familiar with Dragon Quest, one other name you've likely heard before 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ovladače PowerVR GPU jako open source]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/ovladace-powervr-gpu-jako-open-source</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/ovladace-powervr-gpu-jako-open-source"/>
+        <updated>2022-03-24T04:52:49.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Imagination Technologies uvolnila ovladače vybraných PowerVR GPU jako open source. Historici mohou zkoumat původní zdrojové kódy k PowerVR Series 1 GPU. Do open source 3D grafické knihovny Mesa byl začleněn Vulkan ovladač pro PowerVR Rogue GPU (mesa-dev), zatím pro GX6250, AXE-1-16M a BXS-4-64.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1088,7 +1108,7 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CrossOver 21.2 s opravou zobraozvání MS Office 365]]></title>
+        <title type="html"><![CDATA[CrossOver 21.2 s opravou zobrazování MS Office 365]]></title>
         <id>www.root.cz-actuality-43479</id>
         <link href="https://www.root.cz/zpravicky/crossover-21-2-s-opravou-zobraozvani-ms-office-365/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-03-23T10:44:14.000Z</updated>
@@ -2074,32 +2094,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Since the release of the Linux 5.17 kernel the leading question in my inbox has been from readers asking how to actually make use of the AMD P-State driver. Right now this driver isn't the default over ACPI CPUFreq and I haven't seen any Linux distribution vendors announce their plans to immediately default to this new driver, but over the months ahead I expect that to change. In any case, if wanting to use amd_pstate on Linux 5.17 today here is a brief how-to guide for making the transition...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RSS Guard 4.2.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/rss-guard-4.2.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/rss-guard-4.2.0"/>
-        <updated>2022-03-22T11:35:35.000Z</updated>
-        <summary type="html"><![CDATA[Právě vyšla nová verze desktopové RSS čtečky RSS Guard. RSS Guard je čtečka, která cílí jak na začátečníky tak pokročilé uživatelé a podporuje všechny rozšířené syndikační formáty a mnoho online služeb. RSS Guard nabízí rozhraní pro zásuvné moduly, přes které lze doimplementovat podporu pro další služby.
-
-Změn v nové verzi 4.2.0 je nyní nezvykle mnoho a mezi největší patří:
-
-- podpora manuálního řazení položek v seznamu kanálů
-- podpora zobrazování víceřádkových nadpisů v seznamu zpráviček
-- nastavitelný formát datumu/času u zpráviček - navíc i možnost nastavení relativního času, či samostatného formátu pro dnešní zprávičky
-- zobrazení počtu nepřečtených zpráviček v taskbaru (Linux, Windows), zobrazení průběhu stahování barvičkou v taskbaru (Windows)
-- "čtecí režím" pro zobrazení zjednodušené varianty webové stránky
-- zrychlení synchronizace Gmailu
-- funkce "share-to-published" pro TT-RSS
-- a další...
-
-
-Nová verze obsahuje hodně UX oprav a úprav, opravena byl problém s kódováním znaků v MariaDB backendu, hodně věcí bylo přepsáno ve střevech programu.
-
-Navíc má autor rozkopané hned 2 nové pluginy - Newsblur a Reddit. Jejich uvedení se ale nedá očekávat v horizontů dnů či týdnů.]]></summary>
-        <author>
-            <name>skunkOS</name>
         </author>
     </entry>
     <entry>
@@ -3965,16 +3959,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-Mobile a Vodafone postaví společně optické přípojky pro milion domácností]]></title>
-        <id>www.root.cz-actuality-43460</id>
-        <link href="https://www.root.cz/zpravicky/t-mobile-a-vodafone-postavi-spolecne-opticke-pripojky-pro-milion-domacnosti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-17T10:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Společnosti T-Mobile a Vodafone oznámily zahájení spolupráce na budování rozsáhlé pasivní optické sítě v Česku. Cílem je během několika následujících let přinést optickou přípojku do téměř milionu českých domácností. Projekt v praxi přinese i efektivnější a šetrnější postup výstavby, bude například potřeba výrazně méně samostatných výkopových prací, vysvětlují výhody spolupráce obě společnosti.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
