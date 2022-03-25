@@ -1,18 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-25T06:14:57.985Z</id>
+    <id>urn:2022-03-25T08:13:42.721Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-25T06:14:57.985Z</updated>
+    <updated>2022-03-25T08:13:42.721Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[MDN má předplatné Plus a Supporter]]></title>
+        <id>www.root.cz-actuality-43484</id>
+        <link href="https://www.root.cz/zpravicky/mdn-ma-predplatne-plus-a-supporter/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-25T07:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla včera oznámila, že MDN (Mozilla Developer Network) má nové předplatné Plus 5 a Supporter 10. Stojí 5 a 10 dolarů měsíčně, případně 50 a 100 dolarů ročně. Oproti MDN Core, které zůstává zdarma, má Plus navíc možnost ukládat články do kolekce, automaticky hlídat změny článků a offline přístup.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prometheus: moderní monitoringový nástroj a sběrač metrik (školení)]]></title>
+        <id>www.root.cz-actuality-43419</id>
+        <link href="https://www.root.cz/zpravicky/prometheus-moderni-monitoringovy-nastroj-a-sberac-metrik/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-03-25T07:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Prometheus je moderní monitoringový nástroj a metrics server. Umožňuje sbírat metrická data z vaší aplikace a většiny komponent vaší infrastruktury a nad těmito daty dělat grafy (v Grafaně) a vytvářet varování. Prometheus spadá pod CNCF, stejně jako Kubernetes. Pokud chcete podrobně sledovat stav infrastruktury a služeb, zúčastněte se našeho dvoudenního školení Prometheus.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Song "Stars In The Sky" Released For Sonic The Hedgehog 2 Movie]]></title>
         <id>https://www.nintendolife.com/#article-129339</id>
         <link href="https://www.nintendolife.com/news/2022/03/new-song-stars-in-the-sky-released-for-sonic-the-hedgehog-2-movie"/>
         <updated>2022-03-25T05:00:00.000Z</updated>
         <summary type="html"><![CDATA[Performed by 'Kid Cudi'.
+
 Following on from the release of "Speed Life" by Stéphane Legar last week, we've now got another video clip, this time by singer, rapper and song writer Kid Cudi. This track is titled "Stars in the Sky" and admittedly does a better job incorporating references to the Sonic video games and his second big-screen outing, arriving in cinemas soon.
-You can hear the full song in the music video below:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -129,6 +149,16 @@ If this week's premiere episode is any indication, new episodes of Halo will g
 Halo stars Pablo Schreiber as John–117, AKA Master Chief, Jen Taylor as Cortana, and Natascha McElhone as Dr. Catherine Halsey.]]></summary>
         <author>
             <name>John Carson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDN Plus. Prémiové funkce MDN Web Docs za 5 nebo 10 dolarů měsíčně]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mdn-plus.-premiove-funkce-mdn-web-docs-za-5-nebo-10-dolaru-mesicne</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mdn-plus.-premiove-funkce-mdn-web-docs-za-5-nebo-10-dolaru-mesicne"/>
+        <updated>2022-03-24T23:53:47.000Z</updated>
+        <summary type="html"><![CDATA[Článek na Mozilla Hacks (YouTube) představuje MDN Plus, tj. prémiové funkce MDN Web Docs za 5 nebo 10 dolarů měsíčně. Jedná se o kolekce, notifikace a offline verzi. V Česku zatím nedostupné.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2133,16 +2163,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dokument s pokyny pro výzkumníky v dokumentaci Linuxu]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/dokument-s-pokyny-pro-vyzkumniky-v-dokumentaci-linuxu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/dokument-s-pokyny-pro-vyzkumniky-v-dokumentaci-linuxu"/>
-        <updated>2022-03-23T04:08:19.000Z</updated>
-        <summary type="html"><![CDATA[V návaznosti na incident výzkumníků Minnesotské univerzity zkoumajících proveditelnost nenápadného začlenění bezpečnostních chyb do Linuxu byl do dokumentace Linuxu přidán dokument researcher-guidelines.rst s pokyny pro výzkumníky.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 5.18's DAMON Adds DAMOS Configuration Interface]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-DAMON-DAMOS</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-DAMON-DAMOS"/>
@@ -3955,16 +3975,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terraform: spravujte infrastrukturu jako kód (školení)]]></title>
-        <id>www.root.cz-actuality-41046</id>
-        <link href="https://www.root.cz/zpravicky/terraform-spravujte-infrastrukturu-jako-kod-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-18T08:59:20.000Z</updated>
-        <summary type="html"><![CDATA[Terraform vám umožní spravovat infrastrukturu jako kód, to znamená verzovanou v Gitu, přidávání zdrojů pomocí merge (pull) requestů a mnoho dalších výhod. Ukážeme si, jak Terraform pracuje, jak jej používat v týmu a jak jím spravovat infrastrukturu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Advanced Techniques]]></title>
         <id>https://xkcd.com/2595/</id>
         <link href="https://xkcd.com/2595/"/>
@@ -4028,16 +4038,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pražský Matfyz pořádá jarní soustředění pro programátory začátečníky]]></title>
-        <id>www.root.cz-actuality-43462</id>
-        <link href="https://www.root.cz/zpravicky/prazsky-matfyz-porada-jarni-soustredeni-pro-programatory-zacatecniky-2022/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-03-17T20:48:34.000Z</updated>
-        <summary type="html"><![CDATA[Korespondenční seminář z programování (KSP) pražského Matfyzu po dvou letech opět pořádá jarní soustředění pro začátečníky. Zváni jsou všichni středoškoláci a starší základoškoláci, kteří se chtějí naučit programovat, lépe uvažovat o informatických úlohách a poznat nové podobně smýšlející kamarády.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: kubapelc)</name>
         </author>
     </entry>
     <entry>
