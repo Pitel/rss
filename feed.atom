@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-27T10:11:53.771Z</id>
+    <id>urn:2022-03-27T12:17:29.944Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-27T10:11:53.771Z</updated>
+    <updated>2022-03-27T12:17:29.944Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[libdisplay-info Started To Address The Wayland Fragmentation Around EDID/DisplayID]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=libdisplay-info</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=libdisplay-info"/>
+        <updated>2022-03-27T11:50:26.000Z</updated>
+        <summary type="html"><![CDATA[There has been a known problem for some time that with the increasing number of different Wayland compositors out there, there is a lot of fragmentation when it comes to display EDID/DisplayID handling. Thankfully libdisplay-info has been started with hopes of addressing that issue...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-633</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-633"/>
+        <updated>2022-03-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for watching The Undertaker throw Mankind off the top of the Hell In A Cell. Before you wince, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WirePlumber 0.4.9 Fixes Surround Sound For Some Linux Games]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=WirePlumber-0.4.9</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=WirePlumber-0.4.9"/>
+        <updated>2022-03-27T10:48:06.000Z</updated>
+        <summary type="html"><![CDATA[WirePlumber is the increasingly used session/policy manager for PipeWire for audio/video streams on the Linux desktop. Out this weekend is WirePlumber 0.4.9 with some important fixes and improvements...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.18 Xen USB Driver To Harden Against Malicious Hosts]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-USB-Thunderbolt</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-USB-Thunderbolt"/>
+        <updated>2022-03-27T10:17:39.000Z</updated>
+        <summary type="html"><![CDATA[The many USB and Thunderbolt feature patches have landed into the in-development Linux 5.18 kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE Plasma 5.25 Seeing Touch Gesture Additions, More Fixes & Other Work]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-Plasma-5.25-Many-Wallpapers</id>
@@ -2464,36 +2505,6 @@ The post PlayStation system update now live on PS4 and PS5 appeared first on Des
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel IGC 1.0.10713 Adds Ray-Tracing Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-IGC-1.0.10713</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-IGC-1.0.10713"/>
-        <updated>2022-03-24T09:54:50.000Z</updated>
-        <summary type="html"><![CDATA[The Intel Graphics Compiler (IGC) that is open-source and used by the driver stacks on both Windows and Linux is up to version 1.0.10713 and with this milestone is functional ray-tracing support in preparation for upcoming Intel Arc graphics processors with hardware ray-tracing support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.18 Graphics Driver Changes From FreeSync Video Mode To New Intel Hardware]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-DRM</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-DRM"/>
-        <updated>2022-03-24T09:43:10.000Z</updated>
-        <summary type="html"><![CDATA[David Airlie has submitted the Direct Rendering Manager (DRM) driver updates for the Linux 5.18 kernel that includes the many graphics/display driver changes this cycle...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.18 Crypto Has Arm Optimizations, AVX For SM3, Xilinx SHA3 Driver]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-Crypto</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-Crypto"/>
-        <updated>2022-03-24T09:02:28.000Z</updated>
-        <summary type="html"><![CDATA[The crypto subsystem updates have landed in the Linux 5.18 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[YouTube Rippers Appeal $83 Million Piracy Verdict]]></title>
         <id>https://torrentfreak.com/?p=216585</id>
         <link href="https://torrentfreak.com/youtube-rippers-appeal-83-million-piracy-verdict-220324/"/>
@@ -4529,19 +4540,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The "occasional stunning oil-painting backdrop" was about the only nice word Ed had to say in his Babylon's Fall review. PlatinumGames first foray into making a live service is otherwise a mess, with repetitive missions, dull combat, confusing stats and loot, and more problems besides.
 
 Publishers and co-developers Square Enix aren't giving up, however. They've launched a survey asking how they can deliver a "better game experience", but it's the graphics they're focused on.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfect Dark development beset by "fast and furious" staff departures]]></title>
-        <id>https://www.rockpapershotgun.com/perfect-dark-development-beset-by-fast-and-furious-staff-departures</id>
-        <link href="https://www.rockpapershotgun.com/perfect-dark-development-beset-by-fast-and-furious-staff-departures"/>
-        <updated>2022-03-15T21:34:59.000Z</updated>
-        <summary type="html"><![CDATA[A new Perfect Dark game was announced back in 2020, but it seems like development hasn't been going smoothly. A new report from VGC says that as many as half of the core development team have quit the project in the past year, including several people on the senior design team. Sources say these departures are partly responsible for Crystal Dynamics being drafted to work on the game late last year.
 
  
 Read more]]></summary>
