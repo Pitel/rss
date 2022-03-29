@@ -1,10 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-03-29T08:14:09.222Z</id>
+    <id>urn:2022-03-29T10:12:32.077Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-03-29T08:14:09.222Z</updated>
+    <updated>2022-03-29T10:12:32.077Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Prepares Linux For ATS-M No-Display Server GPUs]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-ATS-M-Linux-Patches</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-ATS-M-Linux-Patches"/>
+        <updated>2022-03-29T10:08:29.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year with the Intel Media Driver 22 there was enablement of "ATS-M" with references to "Arctic Sound Mainstream" . Now the Linux kernel patches have arrived with the changes needed on their end for this DG2-based discrete GPU that now sums up ATS-M as a display-less GPU for servers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Starts Working On New Sound Code For Upcoming Platforms With Linux 5.18]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-Sound</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-Sound"/>
+        <updated>2022-03-29T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The sound subsystem updates were sent in last week for the ongoing Linux 5.18 merge window. There is a lot of new audio hardware enablement and other improvements to find with this sound pull for the new kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Chart Data Shows That Brits Are In Love With Mario, But Only After FIFA And CoD]]></title>
+        <id>https://www.nintendolife.com/#article-129483</id>
+        <link href="https://www.nintendolife.com/news/2022/03/new-chart-data-shows-that-brits-are-in-love-with-mario-but-only-after-fifa-and-cod"/>
+        <updated>2022-03-29T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[GfK publishes UK’s top 30 best-selling computer games since 1995.
+"Brand new analysis" from sales tracking firm GfK has lifted the lid on the UK's top 30 best-selling pieces of gaming software since 1995 – and it should come as no real shock to learn that Mario ranks very highly indeed.
+The new chart has been ranked in order of revenue generated, and while FIFA and Call of Duty take the top two places, everyone's favourite Italian plumber is in third place. The titles that contributed most to this success were Mario Kart Wii, Mario Kart 8, and New Super Mario Bros.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Has A Problem With Linux Server Reboots Too Slow Due To Too Many NVMe Drives]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-Linux-Too-Many-NVMe</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-Linux-Too-Many-NVMe"/>
+        <updated>2022-03-29T09:30:01.000Z</updated>
+        <summary type="html"><![CDATA[Hyperscaler problems these days? Linux servers taking too long to reboot due to having too many NVMe drives. Thankfully Google is working on an improvement to address this where some of their many-drive servers can take more than one minute for the Linux kernel to carry out its shutdown tasks while this work may benefit other users too albeit less notably...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Take A Look At Some Impressive Hi-Res Nintendo Switch Sports Screens]]></title>
+        <id>https://www.nintendolife.com/#article-129478</id>
+        <link href="https://www.nintendolife.com/news/2022/03/take-a-look-at-some-impressive-hi-res-nintendo-switch-sports-screens"/>
+        <updated>2022-03-29T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Wii've come a long way.
+The postponement of Advance Wars 1 + 2: Re-Boot Camp has slowed the frenetic first-party release slate down a little, but Nintendo still has a notable game arriving in April. Of course, it's Nintendo Switch Sports, a sequel/reboot of the iconic Wii Sports, while also taking some cues from its ambitious follow-up Wii Sports Resort.
+This time around we'll be playing around in SPOCCO Square, which looks rather like an Olympic Village / Campus to us, with a lovely location and stylish facilities.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.18 Switches From Zero Length Arrays To Flexible Array Members]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-Flexible-Arrays</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.18-Flexible-Arrays"/>
+        <updated>2022-03-29T09:19:31.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2020 the Linux kernel tried adding flexible array members to replace zero length arrays but that time the code was reverted shortly thereafter. For Linux 5.18 the tree-wide change of replacing zero length arrays with C99 flexible array members was merged and appears to be all in good shape this time...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abermore review: an indie Thief-’em-up that steals your time in the worst way]]></title>
+        <id>https://www.rockpapershotgun.com/abermore-review</id>
+        <link href="https://www.rockpapershotgun.com/abermore-review"/>
+        <updated>2022-03-29T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It all started going wrong when I died taking on the old McDuckitt job. In Abermore, you play as a thief making a name for themselves in its titular city. Every day you wake up, leave your apartment and hit the streets, chatting to the locals, picking up a bit of info, even gambling a bit. The folks you meet are from the shadier side of society and they'll hire you for jobs. Sometimes it’s simple burglary, sometimes it's breaking a vase, or snatching a specific bit of loot. There’s even a guy who keeps trying to offer me wet work! It all boils down to the same thing though: sneaking around some rich guy’s place, disabling the security, avoiding or taking down the occupants, and getting out without being caught. Afterwards, I fence the loot and head to bed.
+It's all building up to Abermore's central heist: The Feast of the Lucky Few. It's also my only chance to rescue the famous Hanged Man, a dame I met on the boat over here. They're the thief of thieves! A living legend! But the tyrant king grabbed her before we got ashore and she’ll be executed in eighteen days if I don’t break her out. That’s eighteen nights to prepare, eighteen jobs to build the resources, the connections I need for the heist of a life time. A terrible shame, then, that alarm bells started ringing almost as soon as I started playing.
+Read more]]></summary>
+        <author>
+            <name>Caelyn Ellis</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tributes Pour In For 'Coffee Talk' Developer Fahmi]]></title>
+        <id>https://www.nintendolife.com/#article-129477</id>
+        <link href="https://www.nintendolife.com/news/2022/03/tributes-pour-in-for-coffee-talk-developer-fahmi"/>
+        <updated>2022-03-29T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA["He was kind, respectful, and a positive influence to so many".
+The games industry has been paying tribute to the developer of Coffee Talk, Mohammad Fahmi, who has sadly passed away aged 32. The cause of death has not yet been disclosed.
+The news was broken by the game's official Twitter account:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian ‘Loop Hero’ Dev Approves Piracy After Sanctions Hobble Steam]]></title>
         <id>https://torrentfreak.com/?p=216814</id>
@@ -31,7 +122,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>www.root.cz-actuality-43493</id>
         <link href="https://www.root.cz/zpravicky/intel-uvedl-5-5ghz-core-i9-12900ks-zachoval-241w-limit-spotreby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-03-29T07:27:54.000Z</updated>
-        <summary type="html"><![CDATA[Dostatečný počet výběrových čipů se konečně nashromáždil, a tak Intel může uvést na trh výběrové Core i9–12900KS. Oproti standardnímu modelu 12900K narůstají maximální frekvence procesorů v různých režimech běhu. Maximální strop je u tohoto modelu 5,5 GHz (jde o tzv. Thermal Velocity Boost omezený teplotou CPU a počtem výběrových jader CPU, na která Intel tuto frekvenci dovolí nastavit), obecně „velká“ jádra dostala o 200 GHz vyšší takt, „malá jádra“ pak +100 MHz.]]></summary>
+        <summary type="html"><![CDATA[Dostatečný počet výběrových čipů se konečně nashromáždil, a tak Intel může uvést na trh výběrové Core i9–12900KS. Oproti standardnímu modelu 12900K narůstají maximální frekvence procesorů v různých režimech běhu. Maximální strop je u tohoto modelu 5,5 GHz (jde o tzv. Thermal Velocity Boost omezený teplotou CPU a počtem výběrových jader CPU, na která Intel tuto frekvenci dovolí nastavit), obecně „velká“ jádra dostala o 200 MHz vyšší takt, „malá jádra“ pak +100 MHz.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -60,16 +151,6 @@ His new film Sonic the Hedgehog 2 arrives globally in cinemas soon. If you're st
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Has A Problem With Linux Server Reboots Too Slow Due To Too Many NVMe Drives]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-Linux-Too-Many-NVMe</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-Linux-Too-Many-NVMe"/>
-        <updated>2022-03-29T04:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Hyperscaler problems these days? Linux servers taking too long to reboot due to having too many NVMe drives. Thankfully Google is working on an improvement to address this where some of their many-drive servers can take more than one minute for the Linux kernel to carry out its shutdown tasks while this work may benefit other users too albeit less notably...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1480,19 +1561,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soapbox: Kirby Returns To Remind Us That Escapism Isn't A Dirty Word]]></title>
-        <id>https://www.nintendolife.com/#article-129315</id>
-        <link href="https://www.nintendolife.com/features/soapbox-kirby-returns-to-remind-us-that-escapism-isnt-a-dirty-word"/>
-        <updated>2022-03-27T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A source of simple joy.
-
-Soapbox articles give our team a chance to share some personal perspectives; today it's the turn of Tom Whitehead to talk about why gaming matters more to him than ever before.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[libdisplay-info Started To Address The Wayland Fragmentation Around EDID/DisplayID]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=libdisplay-info</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=libdisplay-info"/>
@@ -1562,32 +1630,6 @@ Read more]]></summary>
 The post Whatcha been playing this week, Destructoid? appeared first on Destructoid.]]></summary>
         <author>
             <name>Chris Moyse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Switch Online Could Learn A Lot From Xbox Game Pass]]></title>
-        <id>https://www.nintendolife.com/#article-129418</id>
-        <link href="https://www.nintendolife.com/news/2022/03/video-switch-online-could-learn-a-lot-from-xbox-game-pass"/>
-        <updated>2022-03-27T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alex and Felix share their thoughts.
-Subscription services have become increasingly popular over the past few years, and leading the charge on the gaming front is Microsoft's Game Pass service.
-It's become an incredibly huge success for the company - with new games added on a weekly basis, and major titles arriving day one on the service. It's got to the point where it's now impossible for competitors like Sony to ignore. In fact, a revamped PS Plus subscription service is rumoured to be getting announced next week.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There's "No Clear Timeline" For Kirby's Game Stories, According To HAL Laboratory's General Director]]></title>
-        <id>https://www.nintendolife.com/#article-129416</id>
-        <link href="https://www.nintendolife.com/news/2022/03/theres-no-clear-timeline-for-kirbys-game-stories-according-to-hal-laboratorys-general-director"/>
-        <updated>2022-03-27T03:05:00.000Z</updated>
-        <summary type="html"><![CDATA[It's not like The Legend of Zelda.
-HAL Laboratory general director Shinya Kumazaki revealed in a recent interview with The Washington Post that the Kirby series has "no clear timeline" when it comes to the stories in each game. Yes, that's right - despite all the theories, there's apparently no particular order.
-The main reason behind this according to Kumazaki is to "avoid being constrained" by past settings, and it also allows the team to prioritise the "optimal gameplay experience" for each entry. Here's the full exchange:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2032,16 +2074,6 @@ Flang.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wine 7.5 Released With HLSL Compiler Support For Bundled VKD3D]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-7.5-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-7.5-Released"/>
-        <updated>2022-03-25T22:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Wine 7.5 is out as the latest bi-weekly software update for enjoying Windows games and applications under Linux, macOS, and other platforms...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rockstar announces paid GTA+ subscription service for Grand Theft Auto Online]]></title>
         <id>https://www.destructoid.com/?p=313616</id>
         <link href="https://www.destructoid.com/rockstar-announces-gta-paid-subscription-service-grand-theft-auto-online/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=rockstar-announces-gta-paid-subscription-service-grand-theft-auto-online"/>
@@ -2291,16 +2323,6 @@ The post Gun Jam is a rhythm FPS where beats drop in time with bullets appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Dozen" Merged Into Mesa For Implementing Vulkan On Direct3D 12]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-On-Direct3D-12-Dzn-Merge</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-On-Direct3D-12-Dzn-Merge"/>
-        <updated>2022-03-25T17:20:17.000Z</updated>
-        <summary type="html"><![CDATA[Merged a few minutes ago into Mesa 22.1 is the "Dozen" project implementing Vulkan atop Direct3D 12 APIs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tiny Tina's Wonderlands | Game Informer Live]]></title>
         <id>117692</id>
         <link href="https://www.gameinformer.com/2022/03/25/tiny-tinas-wonderlands-game-informer-live"/>
@@ -2328,16 +2350,6 @@ For more on Tiny Tina’s Wonderlands, check out our review in which Andrew Rein
 If you enjoy our livestreams but haven’t subscribed to our Twitch channel, know that doing so not only gives you notifications and access to special emotes. You’ll also be given entry to the official Game Informer Discord channel, where our welcoming community members, moderators, and staff gather to talk games, entertainment, food, and organize hangouts!]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD's GPUOpen Releases Vulkan Memory Allocator 3.0]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-Memory-Allocator-3.0</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkan-Memory-Allocator-3.0"/>
-        <updated>2022-03-25T17:10:32.000Z</updated>
-        <summary type="html"><![CDATA[AMD today released Vulkan Memory Allocator 3.0 under their GPUOpen umbrella as this library to better manage memory allocation and resources for this graphics API and make it more similar to APIs like OpenGL and Direct3D...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2435,7 +2447,7 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/the-curse-of-the-early-game-demo"/>
         <updated>2022-03-25T15:59:48.000Z</updated>
         <summary type="html"><![CDATA[Ever since the very first trailer for Tunic appeared all the way back in 2017, my Zelda senses have been a-tingling. I'm always up for a good Zelda-like, and everything I saw of Tunic back then seemed to confirm that this was 100% a game I would like and enjoy. 
-You can probably imagine my excitement, then, when Microsoft announced there would finally be a playable demo to people download during last year's E3. However, as I briefly mentioned in my post about Tunic's brilliant in-game instruction manual yesterday, I actually came away from that demo a bit disheartened. With just a single (and quite unforgiving) dungeon to explore, I was left thinking it hewed a bit too close to the Soulsian school of combat difficulty than I'd like. Upon playing the final game, however... Delight! Magic! Joy! I actually can't get enough of it. To think I almost dismissed what's now one of my early game of the year contenders on the basis of that one 20 minute demo now seems incredibly hasty on my part, but with so many games now being shoved down our throats on a daily basis, those first impressions can somtimes be devastatingly powerful. 
+You can probably imagine my excitement, then, when Microsoft announced there would finally be a playable demo to people download during last year's E3. However, as I briefly mentioned in my post about Tunic's brilliant in-game instruction manual yesterday, I actually came away from that demo a bit disheartened. With just a single (and quite unforgiving) dungeon to explore, I was left thinking it hewed a bit too close to the Soulsian school of combat difficulty than I'd like. Upon playing the final game, however... Delight! Magic! Joy! I actually can't get enough of it. To think I almost dismissed what's now one of my early game of the year contenders on the basis of that one 20 minute demo now seems incredibly hasty on my part, but with so many games now being shoved down our throats on a daily basis, those first impressions can be devastatingly powerful. 
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
@@ -4552,17 +4564,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Brendan Caldwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This factory-building game is set inside a destructible alien planet]]></title>
-        <id>https://www.rockpapershotgun.com/this-factory-building-game-is-set-inside-a-destructible-alien-planet</id>
-        <link href="https://www.rockpapershotgun.com/this-factory-building-game-is-set-inside-a-destructible-alien-planet"/>
-        <updated>2022-03-16T16:50:17.000Z</updated>
-        <summary type="html"><![CDATA[You've covered an alien world with a sprawling megafactory in Factorio. You've done the same in a first-person view in Satisfactory. Hell, you've converted half the galaxy to factory in Dyson Sphere Program. Reader dear, you still might be interested in an upcoming factory-building game, Techtonica. It's a first-person industrialiser set beneath the surface of an alien planet, complete with destructible terrain to carve out space for your mechanical machinations. Check out the announcement trailer below.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
         </author>
     </entry>
     <entry>
