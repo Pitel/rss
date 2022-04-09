@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-09T10:11:33.230Z</id>
+    <id>urn:2022-04-09T12:17:38.040Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-04-09T10:11:33.230Z</updated>
+    <updated>2022-04-09T12:17:38.040Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feature: Backlog Club: Week Zero - Hello, And Welcome To Backlog Club]]></title>
+        <id>https://www.nintendolife.com/#article-129584</id>
+        <link href="https://www.nintendolife.com/features/backlog-club-week-zero-hello-and-welcome-to-backlog-club"/>
+        <updated>2022-04-09T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let's dig into that pile of shame.
+Rule number one of Backlog Club: Work through your pile of unplayed video games one at a time, and discuss them with other people. Rule number two of Backlog Club: Don't talk about Backlog Club.
+Just kidding! Tell everyone. Please.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openSUSE Tumbleweed Prepares To Jump On GCC 12]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Tumbleweed-Preps-GCC-12</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Tumbleweed-Preps-GCC-12"/>
+        <updated>2022-04-09T10:50:44.000Z</updated>
+        <summary type="html"><![CDATA[As of this week with openSUSE's Tumbleweed rolling-release distribution it is using GCC 12's libgcc standard libraries and preparing to shift to GCC 12 as the default compiler once ready...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Older AMD GPUs + Intel Alder Lake Is Causing ASPM Problems For Linux Users]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Disabling-ASPM-VI-ADL</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Disabling-ASPM-VI-ADL"/>
+        <updated>2022-04-09T10:18:09.000Z</updated>
+        <summary type="html"><![CDATA[Older AMD GPUs paired with Intel Alder Lake Platforms is leading to hangs during suspend/resume cycles so a patch is pending for the Linux kernel to disable Active State Power Management (ASPM) in such combinations...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
         <id>https://www.destructoid.com/?p=315196</id>
@@ -1335,19 +1368,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Raspberry Pi OS je od verze 2022-04-04 bez výchozího uživatelského jména "pi" s heslem "raspberry". Uživatel si nově definuje své uživatelské jméno a heslo při prvním bootu. Nastavit je lze i v Raspberry Pi Imageru. Uživatelé stávajících instalací si mohou uživatelské jméno "pi" přejmenovat pomocí příkazu "sudo rename-user". Verze Raspberry Pi OS (Legacy) se změna netýká. Důvodem změny je vedle zvýšení bezpečnosti především soulad s legislativou, viz například obří pokuty a zákaz výchozích hesel v britském zákoně.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metroid Dread's Second Free Update Is Now Available, Here Are The Full Patch Notes]]></title>
-        <id>https://www.nintendolife.com/#article-129956</id>
-        <link href="https://www.nintendolife.com/news/2022/04/metroid-dreads-second-free-update-is-now-available-here-are-the-full-patch-notes"/>
-        <updated>2022-04-08T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Boss Rush mode has arrived!
-Back in February, Nintendo and MercurySteam announced Metroid Dread for the Switch would be receiving two new updates.
-The first update adding "Dread" and "Rookie" modes was released on the same day as the announcement and now the second update has finally been released - adding in a Boss Rush Mode.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2798,16 +2818,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux's Speculation Handling Was Messed Up After Resuming From Suspend For Boot CPU]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Resume-Spec-Boot-CPU</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Resume-Spec-Boot-CPU"/>
-        <updated>2022-04-05T23:36:26.000Z</updated>
-        <summary type="html"><![CDATA[Hitting the mainline Linux Git tree today was a rather interesting fix... It turns out that when Linux was resuming from S3 suspend, it wasn't correctly restoring the MSRs for the boot CPU around handling speculative execution mitigations...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Half-Life Alyx: Levitation is an ambitious VR mod coming this year]]></title>
         <id>https://www.rockpapershotgun.com/half-life-alyx-levitation-is-an-ambitious-vr-mod-coming-this-year</id>
         <link href="https://www.rockpapershotgun.com/half-life-alyx-levitation-is-an-ambitious-vr-mod-coming-this-year"/>
@@ -3000,16 +3010,6 @@ Find the complete list below.
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Branch Sampling "BRS" Feature To Land With Linux 5.19]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Branch-Sampling-v5.19</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Branch-Sampling-v5.19"/>
-        <updated>2022-04-05T19:40:55.000Z</updated>
-        <summary type="html"><![CDATA[While there are many new features with Linux 5.18 with its merge window having just ended days ago, feature code is already beginning to accumulate within the various "-next" branches for what will be Linux 5.19 this summer. Patches merged today get AMD Branch Sampling (BRS) functionality in place for Zen 3 processors with that next kernel cycle...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
