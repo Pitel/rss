@@ -1,16 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-16T10:13:15.595Z</id>
+    <id>urn:2022-04-16T12:18:33.910Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-04-16T10:13:15.595Z</updated>
+    <updated>2022-04-16T12:18:33.910Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Adding Linux Idle Driver Support For Alder Lake]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Idle-Alder-Lake</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Idle-Alder-Lake"/>
+        <updated>2022-04-16T12:00:17.000Z</updated>
+        <summary type="html"><![CDATA[While Intel Alder Lake has been out for roughly a half-year now and has been working out well on Linux particularly with v5.16+ kernels, the "intel_idle" driver for CPU idle time management hasn't supported these latest Intel desktop/mobile processors but now there is that support on the way for possible power-savings benefits...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlus Mobile RPG 'Megami Tensei Gaiden: Shinyaku Last Bible' Announced For Switch eShop]]></title>
+        <id>https://www.nintendolife.com/#article-130274</id>
+        <link href="https://www.nintendolife.com/news/2022/04/atlus-mobile-rpg-megami-tensei-gaiden-shinyaku-last-bible-announced-for-switch-eshop"/>
+        <updated>2022-04-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Will be another 'G-Mode Archives+' release.
+
+G-Mode has announced it will release the Atlus-made RPG Megami Tensei Gaiden: Shinyaku Last Bible as a 'G-MODE Archives+' title for Switch eShop in Japan. As you might already know, this is a spin-off of the Megami Tensei series, and was originally released on mobile devices in Japan in 2007.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neovim 0.7]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/neovim-0.7</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/neovim-0.7"/>
+        <updated>2022-04-16T10:25:25.000Z</updated>
+        <summary type="html"><![CDATA[Textový editor Neovim byl vydán ve verzi 0.7. Přehled novinek v příspěvku na blogu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNU C Library Dropping Various SSSE3 Optimized Code Paths]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Glibc-Dropping-SSSE3-Paths</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Glibc-Dropping-SSSE3-Paths"/>
         <updated>2022-04-16T10:03:13.000Z</updated>
         <summary type="html"><![CDATA[The latest GNU C Library (Glibc) development code this week has begun dropping various SSSE3 optimized code paths...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MediaTek Preparing Stateless AV1 Video Linux Decode Driver For Newer SoCs]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=MediaTek-AV1-Decode-Linux</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=MediaTek-AV1-Decode-Linux"/>
+        <updated>2022-04-16T10:01:33.000Z</updated>
+        <summary type="html"><![CDATA[MediaTek this week posted their initial "request for comments" code on stateless AV1 decoder support for their video codec driver...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -27,10 +70,20 @@ The post Whatcha been playing this week, Destructoid? appeared first on Destruct
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Huawei Working On UEFI Mirrored Memory Support For Linux AArch64]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-AArch64-Mirrored-Memory</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-AArch64-Mirrored-Memory"/>
+        <updated>2022-04-16T09:55:45.000Z</updated>
+        <summary type="html"><![CDATA[Since 2015 the Linux kernel has supported UEFI mirrored memory functionality for x86/x86_64 while now Huawei is working on adding that functionality for AArch64...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hra Iris and the Giant na GOG zdarma]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/hra-iris-and-the-giant-na-gog-zdarma</id>
         <link href="http://www.abclinuxu.cz/zpravicky/hra-iris-and-the-giant-na-gog-zdarma"/>
-        <updated>2022-04-16T09:54:49.000Z</updated>
+        <updated>2022-04-16T09:54:47.000Z</updated>
         <summary type="html"><![CDATA[Roguelike hra Iris and the Giant je na portále GOG.com zdarma, akce trvá do 17. dubna.]]></summary>
         <author>
             <name>Fluttershy, yay!</name>
@@ -1062,20 +1115,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Download it today.
 Alongside the Mario Golf update for Switch Online's N64 Expansion Pack library, Nintendo has also released a new update for its battle royale game, Tetris 99.
 Instead of a themed update, this time around its a patch, bumping the game up to Version 2.3.0. It addresses multiple issues to improve the overall experience. Here are the full patch notes, courtesy of Nintendo's official support page:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Golf Now Available On Switch Online's Expansion Pack]]></title>
-        <id>https://www.nintendolife.com/#article-129906</id>
-        <link href="https://www.nintendolife.com/news/2022/04/mario-golf-now-available-on-switch-onlines-expansion-pack"/>
-        <updated>2022-04-15T01:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Tee off with this N64 classic.
-Update : Mario Golf has now been made available to Switch Online Expansion Pack subscribers. You'll be able to access it via the Nintendo 64 games library, once you've updated the N64 app to version 2.2.0.
-
-Original article : Nintendo recently uploaded an updated version of its Switch Online trailer featuring a number of upcoming N64 titles for the Expansion Pack service. One of them was the 1999 N64 title Mario Golf.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2664,16 +2703,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oracle Solaris 11.4 CBE (Common Build Environment)]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/oracle-solaris-11.4-cbe-common-build-environment</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/oracle-solaris-11.4-cbe-common-build-environment"/>
-        <updated>2022-04-13T01:43:36.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Oracle nedávno představila Solaris 11.4 CBE (Common Build Environment) pro vývojáře svobodného a open source softwaru a osobní nekomerční použití. Ke stažení je potřebný Oracle účet a souhlas s licencí (Oracle Technology Network Early Adopter License Agreement for Oracle Solaris).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel Updates ControlFlag AI-Driven Project To Spot Possible Bugs In PHP Code]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-ControlFlag-1.1-PHP</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-ControlFlag-1.1-PHP"/>
@@ -3076,16 +3105,6 @@ Purchase]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Launches HIP-RT Ray-Tracing Library]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-HIP-RT</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-HIP-RT"/>
-        <updated>2022-04-12T16:12:51.000Z</updated>
-        <summary type="html"><![CDATA[The newest software addition under AMD's GPUOpen software umbrella is HIP-RT as a ray-tracing library for HIP...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cover Reveal - Evil Dead: The Game]]></title>
         <id>117841</id>
         <link href="https://www.gameinformer.com/cover/2022/04/12/cover-reveal-evil-dead-the-game"/>
@@ -3275,16 +3294,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-Source Coreboot Port Working On A Retail Intel Alder Lake MSI Motherboard]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Coreboot-Start-ADL-MSI-Dasharo</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Coreboot-Start-ADL-MSI-Dasharo"/>
-        <updated>2022-04-12T12:45:35.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to running open-source Coreboot on retail motherboards it's sadly mostly a matter of generations-old platforms like various AMD Opteron server motherboards, old ThinkPads, many generation old motherboards for out-of-date Intel CPUs, and other dated hardware. To much excitement, 3mdeb has been porting Coreboot and the Dasharo open-source firmware to the MSI PRO Z690-A (DDR4) motherboards... Yes, finally Coreboot on a retail and broadly available motherboard that's latest-generation!..]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Check out this free magazine full of advice on getting into the games industry]]></title>
         <id>https://www.rockpapershotgun.com/check-out-this-free-magazine-full-of-advice-on-getting-into-the-games-industry</id>
         <link href="https://www.rockpapershotgun.com/check-out-this-free-magazine-full-of-advice-on-getting-into-the-games-industry"/>
@@ -3293,16 +3302,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu's Zsys For OpenZFS Linux Installs Sees First Update In A Year]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Zsys-0.5.9</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Zsys-0.5.9"/>
-        <updated>2022-04-12T12:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of Ubuntu 22.04 LTS shipping next week, a new version of their Zsys daemon/client for ZFS-based Linux installations has been issued...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
