@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-17T10:11:48.961Z</id>
+    <id>urn:2022-04-17T12:18:09.590Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-04-17T10:11:48.961Z</updated>
+    <updated>2022-04-17T12:18:09.590Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GNOME 42 Mutter Lands Fix For Using The Old "Radeon" Graphics Driver]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-42-Radeon-DRM-Fix</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-42-Radeon-DRM-Fix"/>
+        <updated>2022-04-17T12:05:31.000Z</updated>
+        <summary type="html"><![CDATA[There have been bug reports recently for those using GNOME Shell 42 whether it be the likes of Ubuntu 22.04 or Fedora (Silverblue) 36 Beta over crashes or blank screens appearing when making use of the Radeon DRM/KMS kernel driver. That older Radeon DRM driver is for pre-GCN 1.2 graphics processors (aside from those on GCN 1.0/1.1 that switch to using the AMDGPU kernel driver with optional module parameters) while now Mutter has landed a fix for this issue...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: What Legend Of Zelda Games Can We Expect To Fill The Gap In 2022?]]></title>
+        <id>https://www.nintendolife.com/#article-130280</id>
+        <link href="https://www.nintendolife.com/news/2022/04/video-what-legend-of-zelda-games-can-we-expect-to-fill-the-gap-in-2022"/>
+        <updated>2022-04-17T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Alex, Zion and Felix share their thoughts.
+At the end of last month, Nintendo announced it would be delaying the release of The Legend of Zelda: Breath of the Wild 2.
+While there are still plenty of Switch games to look forward to this year, there's obviously no longer a Zelda game coming out later this year. There have already been requests for Nintendo to port Wind Waker and Twilight Princess to the Switch, so how about that?
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature: Artist Larry Achiampong's Life Of Nintendo, Creativity And Inspiration]]></title>
+        <id>https://www.nintendolife.com/#article-130222</id>
+        <link href="https://www.nintendolife.com/features/artist-larry-achiampongs-life-of-nintendo-creativity-and-inspiration"/>
+        <updated>2022-04-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA["That’s the beauty of video games, it’s our way of life".
+
+While there are often discussions around the merits of gaming as an artform, we perhaps talk less about examples of games helping to inspire other contemporary art. Yet as years pass it's an inevitability, as the role of games in the lives of millions has transformed since the mid- to late-'90s. We're gradually seeing more creative work and art outside of gaming with those tell-tale signs, those nods and echoes that gamers of all ages and types can instinctively understand and appreciate.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Intel TSX Fixes For The Linux Kernel Queue Up, Forces Off TSX "Development Mode"]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-TSX-2022-Fixes-Linux</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-TSX-2022-Fixes-Linux"/>
+        <updated>2022-04-17T10:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Two Intel TSX (Transactional Synchronization Extensions) fixes were submitted today ahead of Linux 5.18-rc3 and are also marked for back-porting to existing Linux stable kernels. One of the fixes is for addressing a case where systems could still be left vulnerable to the TSX Asynchronous Abort (TAA) vulnerability and the other is where TSX may not get turned off...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-636</id>
@@ -1219,19 +1265,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hectic Survival Arcade Shooter 'Groundskeeper2' Is Out Now On Switch]]></title>
-        <id>https://www.nintendolife.com/#article-130251</id>
-        <link href="https://www.nintendolife.com/news/2022/04/hectic-survival-arcade-shooter-groundskeeper2-is-out-now-on-switch"/>
-        <updated>2022-04-15T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[And for less than a fiver!
-Action-packed, roguelike-inspired shooter Groundskeeper2 has blasted its way onto Switch. And, better still, it won't even cost you a £5 note!
-This hectic survival game sees you get dropped into the middle of a war between robots. Each level is randomised, so every time you go back to the game, you'll experience something different. For a note, this is something you could easily spend hours and hours on, and the retro-style pixel visuals are pretty cute to boot!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's the deal with all the wacky golf games?]]></title>
         <id>https://www.rockpapershotgun.com/whats-the-deal-with-all-the-wacky-golf-games</id>
         <link href="https://www.rockpapershotgun.com/whats-the-deal-with-all-the-wacky-golf-games"/>
@@ -1241,19 +1274,6 @@ You ride this bus long enough, you see games move in cycles similar to fashion d
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random: Classic Kirby Goes Supersize With This Irresistible 30th Anniversary Plush]]></title>
-        <id>https://www.nintendolife.com/#article-130250</id>
-        <link href="https://www.nintendolife.com/news/2022/04/random-classic-kirby-goes-supersize-with-this-irresistible-30th-anniversary-plush"/>
-        <updated>2022-04-15T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[More to squeeze and more to love.
-Did you know Kirby's 30th birthday is coming up soon? The pink puffball's 30th anniversary is on 27th April, which is when Kirby's Dream Land first came out in Japan in 1992. He wasn't pink here then, due to a misunderstanding and the Game Boy's lack of colour, but we know the truth, Nintendo.
-There are already a lot of celebrations planned for Kirby following the release of his first 3D adventure Kirby and the Forgotten Land, including a concert this August. Still, we've got the best kind of celebration to talk about today: giant plushies.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2761,16 +2781,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCC 12's Static Analyzer Adds Taint Mode, Begins Assembly Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Static-Analyzer</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Static-Analyzer"/>
-        <updated>2022-04-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat continues advancing the GNU Compiler Collection's static analysis capabilities. With the upcoming GCC 12 release are yet more improvements to this still-experimental static analyzer...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple již vyrábí iPhone 13 v Indii]]></title>
         <id>www.root.cz-actuality-43541</id>
         <link href="https://www.root.cz/zpravicky/apple-jiz-vyrabi-iphone-13-v-indii/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2798,16 +2808,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Na internetu píšou, že začít s automatizací správy serverů můžete do půl hodiny. Dokážeme vám, že s Ansible to je pravda. Stačí navštívit naše pražské školení Ansible – úvod do automatizace a pak navazující Ansible – role a AWX.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zink OpenGL-On-Vulkan Has Many Improvements With Mesa 22.1]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-Mesa-22.1-Changes</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-Mesa-22.1-Changes"/>
-        <updated>2022-04-13T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With Mesa 22.1 due to be branched in the next day or so as the feature freeze for this quarterly Mesa update, Valve developer Mike Blumenkrantz has penned a new blog post outlining all of the Zink changes accomplished this cycle...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
