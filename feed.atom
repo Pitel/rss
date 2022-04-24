@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-24T14:10:41.068Z</id>
+    <id>urn:2022-04-24T16:15:06.703Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-04-24T14:10:41.068Z</updated>
+    <updated>2022-04-24T16:15:06.703Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RADV LBVH Ray-Tracing Code Lands In Mesa 22.2]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-LBVH-Lands</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-LBVH-Lands"/>
+        <updated>2022-04-24T15:39:54.000Z</updated>
+        <summary type="html"><![CDATA[The Mesa Radeon Vulkan driver "RADV" LBVH support has landed for boosting the Vulkan ray-tracing potential for this open-source driver. The LBVH patch series is what I reported on earlier this month for at least one workload going from around 13 to 250 FPS boost...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: WATA And The Grey Areas Of Game Preservation - Is There Any Better Way?]]></title>
+        <id>https://www.nintendolife.com/#article-130403</id>
+        <link href="https://www.nintendolife.com/features/talking-point-wata-and-the-grey-areas-of-game-preservation-is-there-any-better-way"/>
+        <updated>2022-04-24T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[WATAAARGH.
+The game industry is youthful compared to other areas of entertainment and recorded culture - younger than film and TV, and of course a baby compared to printed works. Yet we're now decades into the history of gaming, especially if you go back to the systems of the 1970s, perhaps even a little earlier. Even if you choose to focus on the 'modern' post-crash era of gaming, we're rapidly approaching 40 years within that narrower perspective.
+We see this every day as fans, of course - franchises like The Legend of Zelda, Super Mario and Sonic the Hedgehog are over 30-35 years old. We have commemorative products and re-releases on a regular basis, and the way we appreciate and consume retro games is also continually evolving.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon uvolnil 51jazyčnou datovou sadu pro porozumění jazykům]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/amazon-uvolnil-51jazycnou-datovou-sadu-pro-porozumeni-jazykum</id>
@@ -1233,19 +1256,6 @@ The post At last, Sonic Spinball made it to the Switch appeared first on Destruc
         <summary type="html"><![CDATA[Dead good.
 Rebellion has got a pretty great track record when it comes to porting its schlocky range of shooters over to Nintendo Switch, with both Zombie Army Trilogy and Sniper Elite 4 the most recent examples of how this developer manages to successfully squeeze a whole lot of slo-mo headshots, shambling zombie hordes and co-operative carnage onto the diminutive console without sacrificing too much in the way of performance or playability.
 Zombie Army 4: Dead War is the studio's latest bombastic offering, a game that's been available on other platforms since February of 2020, and it's one the team found to be its toughest assignment to date in terms of getting it up and running within the rather restrictive memory limitations on Switch. We're not surprised, this is a big old action-packed game after all, and we were a tad concerned at hearing about the technical struggles in the build-up to our review period. As it turns out, we needn't have worried at all, as Rebellion has continued its streak here with another solid port that serves up a great big bloody feast of Nazi zombie-slaying action.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The SNES Classic Is The UK's King Of The Micro-Consoles]]></title>
-        <id>https://www.nintendolife.com/#article-130539</id>
-        <link href="https://www.nintendolife.com/news/2022/04/the-snes-classic-is-the-uks-king-of-the-micro-consoles"/>
-        <updated>2022-04-22T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[N64 Mini when, Nintendo?
-Prior to the arrival of the Switch, one of the most exciting developments in the world of Nintendo hardware was the NES Classic, a micro-console filled with 8-bit titles that made the company a tidy sum of cash. It was quickly followed by the SNES Classic Edition – not to mention similar products from the likes of Sega, Konami, SNK and Sony – and more recently we've seen the A500 Mini hit store shelves.
-Our friends over at GamesIndustry.biz have been breaking down some data provided by GfK to see how these unique pieces of hardware have fared in the UK marketplace. It should come as no great shock to learn that Nintendo takes the top two places thanks to the SNES and NES Classic Editions, while Sony's much-maligned PlayStation Classic is in third. Sega's excellent Mega Drive / Genesis Mini is in fourth place, followed by the Game & Watch: Super Mario Bros, which is included in this list by the virtue of it being a 'retro' console.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2863,16 +2873,6 @@ Well, not all, because Blizzard also showed off that Wrath of the Lich King is c
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa Prepares To Drop Old GLSL-To-TGSI - Big Code Removal, Win For Performance & Fixes]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Stripping-GLSL-To-TGSI</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-Stripping-GLSL-To-TGSI"/>
-        <updated>2022-04-20T11:37:32.000Z</updated>
-        <summary type="html"><![CDATA[A project more than one year in the making by Emma Anholt is about to mark its completion with GLSL-to-TGSI set to be removed from Mesa whereby Gallium3D will always go through the NIR intermediate representation while older drivers still dependent upon TGSI will make use of the NIR-To-TGSI pass. Using NIR means better performance and getting rid of the GLSL-to-TGSI code path means freeing up more than twenty thousand lines of code...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
