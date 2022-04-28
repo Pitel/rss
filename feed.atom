@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-28T04:05:19.578Z</id>
+    <id>urn:2022-04-28T06:17:24.242Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-04-28T04:05:19.578Z</updated>
+    <updated>2022-04-28T06:17:24.242Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora bude zatím BIOS dále podporovat]]></title>
+        <id>www.root.cz-actuality-43591</id>
+        <link href="https://www.root.cz/zpravicky/fedora-bude-zatim-bios-dale-podporovat/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-04-28T06:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Na začátku dubna se hovořilo o tom, že Fedora diskutuje o zrušení distribuční podpory klasického zavádění pomocí BIOSu. Na setkání výboru FESCO (Fedora Engineering Steering Committee) však bylo jednomyslně rozhodnuto, že návrh se zamítá. Alespoň prozatím. Pracovní skupina (SIG, Special Interest Group) však bude zároveň požádána, aby přišla s novým plánem na podporu BIOSu ve Fedoře.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Formát souboru security.txt má vlastní standard RFC]]></title>
+        <id>www.root.cz-actuality-43590</id>
+        <link href="https://www.root.cz/zpravicky/format-souboru-security-txt-ma-vlastni-standard-rfc/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-04-28T06:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Po pěti letech práce vzniklo nové RFC s číslem 9116, které popisuje formát souboru security.txt. V něm je možné najít informace o komunikačních kanálech, které mohou být použity pro nahlášení objevené bezpečnostní chyby. Dokument popisuje strojově zpracovatelný formát tohoto souboru, který umožní bezpečnostním odborníkům bez překážek předat provozovateli informace o zranitelnostech. Pro příklad můžete navštívit třeba google.com/.well-known/security.txt.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Castlevania Season 4 Launches On Blu-ray This July]]></title>
+        <id>https://www.nintendolife.com/#article-130759</id>
+        <link href="https://www.nintendolife.com/news/2022/04/castlevania-season-4-launches-on-blu-ray-this-july"/>
+        <updated>2022-04-28T05:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Get the final season of the Netflix animation.
+Believe it or not but the Castlevania animated series on Netflix actually came to a conclusion last year. It was a 10-part epic following the first three successful seasons of the show.
+If you would like to be able to revisit the show whenever you want without the assistance of a streaming service, VIZ Media will be releasing the complete fourth season on Blu-Ray this July.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Issues Joy-Con Safety Warning Ahead Of Switch Sports Release]]></title>
         <id>https://www.nintendolife.com/#article-130757</id>
@@ -1272,19 +1305,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Level Games Is Seeking New Talent For Future Nintendo Projects]]></title>
-        <id>https://www.nintendolife.com/#article-130695</id>
-        <link href="https://www.nintendolife.com/news/2022/04/next-level-games-is-seeking-new-talent-for-future-nintendo-projects"/>
-        <updated>2022-04-27T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA["We're hiring".
-
-Ahead of the release of Mario Strikers: Battle League this June on the Switch, Canadian-based developer Next Level Games has put out the call for new team members.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3632,26 +3652,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Zabezpečení firem proti hackerským útokům závisí na mnoha faktorech a právě na ně se zaměří nový webcast magazínu Computerworld. Proběhne 4. května v živém webovém vysílání a představí vám cloudový přístup, který vám pomůže včas identifikovat a zmírnit možné hrozby.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CZ.NIC začal zveřejňovat seznam domén vyřazených z DNS]]></title>
-        <id>www.root.cz-actuality-43565</id>
-        <link href="https://www.root.cz/zpravicky/cz-nic-zacal-zverejnovat-seznam-domen-vyrazenych-z-dns/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-04-21T12:43:07.000Z</updated>
-        <summary type="html"><![CDATA[Správce české národní domény CZ.NIC začal zveřejňovat seznam domén vyřazených z DNS. V tuto chvíli je vyřazeno asi 760 domén. Nejčastějším problémem jsou nesprávné údaje o majiteli domény, pak také domény vyřazené na základě článku 17 pravidel (šíření virů, botnet, phishing). A v neposlední řadě také rozhodnutím orgánů činných v trestném řízení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Program Prague PostgreSQL Developer Day]]></title>
-        <id>www.root.cz-actuality-43564</id>
-        <link href="https://www.root.cz/zpravicky/program-prague-postgresql-developer-day/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-04-21T12:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Byl oznámen program letošního ročníku konference Prague PostgreSQL Developer Day, konané v termínu 1. – 2. 6. 2022  na ČVUT FIT, Thákurova 9, Praha.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Tomáš Vondra)</name>
         </author>
     </entry>
     <entry>
