@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-29T06:15:09.778Z</id>
+    <id>urn:2022-04-29T08:15:51.557Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-04-29T06:15:09.778Z</updated>
+    <updated>2022-04-29T08:15:51.557Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vytvořte si bezpečnou VPN pomocí OpenVPN (školení)]]></title>
+        <id>www.root.cz-actuality-41285</id>
+        <link href="https://www.root.cz/zpravicky/vytvorte-si-bezpecnou-vpn-pomoci-openvpn-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-04-29T07:29:50.000Z</updated>
+        <summary type="html"><![CDATA[VPN umožňuje bezpečně propojit různá zařízení pomocí šifrovaných tunelů. Umožňuje také zapojit uživatele do vnitřní sítě přes zabezpečený přístupový bod. Na našem školení VPN a bezpečné připojení k síti s OpenVPN si prakticky ukážeme, jak to celé nastavit a zprovoznit.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds se vyjádřil k situaci s ovladačem NTFS]]></title>
+        <id>www.root.cz-actuality-43593</id>
+        <link href="https://www.root.cz/zpravicky/linus-torvalds-se-vyjadril-k-situaci-s-ovladacem-ntfs/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-04-29T06:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Nový ovladač v jádře pro souborový systém NTFS od Paragon Software byl zařazen do jádra 5.15, ale od té doby nedostal žádnou opravu a je prakticky neudržovaný. K situaci se ve středu vyjádřil Linus Torvalds.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kickstarter DIY Kit Transforms GBA Into Console-Like HDMI System]]></title>
         <id>https://www.nintendolife.com/#article-130824</id>
@@ -12,7 +32,7 @@
         <updated>2022-04-29T05:45:00.000Z</updated>
         <summary type="html"><![CDATA[No soldering required.
 A new Kickstarter campaign by IntecGaming aims to convert the Game Boy Advance into a console-like experience. Its 'GBA HDMI Kit' has so far raised just over $10,000 USD (with a goal of $49,697) and promises to be highly portable, easy to operate and a fun DIY device.
-It also comes with built-in Bluetooth received - allowing it to support all sorts of gamepads (PS4, PS5, Switch Pro, Xbox One). Retro gaming mod YouTube channel Macho Nacho Productions was sent a kit, and has uploaded an entire breakdown - showing the unboxing, installation and how it works.
+It also comes with built-in Bluetooth receiver, allowing it to support all sorts of gamepads (PS4, PS5, Switch Pro, Xbox One). Retro gaming mod YouTube channel Macho Nacho Productions was sent a kit, and has uploaded an entire breakdown - showing the unboxing, installation and how it works.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -3743,16 +3763,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jonathan Carter byl potřetí zvolen do čela projektu Debian]]></title>
-        <id>www.root.cz-actuality-43568</id>
-        <link href="https://www.root.cz/zpravicky/jonathan-carter-byl-potreti-zvolen-do-cela-projektu-debian/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-04-21T19:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Debian zveřejnil výsledky každoroční volby vedoucího projektu. Opět se jím stal Jonathan Carter, který tak projekt povede třetí rok v řadě. Poprvé byl zvolen v roce 2020 a následující rok svou pozici obhájil. Tradičně se volilo Condorcetovou metodou, při které voliči oznámkují své kandidáty podle preferencí. Všechny detaily o hlasování najdete na webu Debianu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It Takes Two is getting a movie adaptation produced by The Rock]]></title>
         <id>https://www.rockpapershotgun.com/it-takes-two-is-getting-a-movie-adaptation-produced-by-the-rock</id>
         <link href="https://www.rockpapershotgun.com/it-takes-two-is-getting-a-movie-adaptation-produced-by-the-rock"/>
@@ -3814,16 +3824,6 @@ Before that we have a big more egg chat to get out of the way, and a decent disc
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro 5.15 dostane opravu pro Alder Lake]]></title>
-        <id>www.root.cz-actuality-43567</id>
-        <link href="https://www.root.cz/zpravicky/jadro-5-15-dostane-opravu-pro-alder-lake/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-04-21T14:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Nedávno jsme psali o rozdílu ve výkonu mezi jádry 5.15 a 5.16 na nových procesorech Intel Alder Lake. V průměru byl rozdíl ve výkonu asi 14 %, ale v některých testech i třeba 32 %. Jádro 5.15 LTS přitom bude v novém (patrně dnešním) vydání Ubuntu 22.04 LTS. Vývojář Canonicalu Dimitri Ledkov poslal v pondělí tuto backportovanou opravu do jádra 5.15 a ta byla přijata.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
