@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T10:13:37.027Z</id>
+    <id>urn:2022-05-15T12:21:50.952Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-05-15T10:13:37.027Z</updated>
+    <updated>2022-05-15T12:21:50.952Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Patches Aim To Mitigate An Inconsistent Performance / NUMA Imbalancing Issue]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Fix-Inconsistent-NUMA</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Fix-Inconsistent-NUMA"/>
+        <updated>2022-05-15T11:57:26.000Z</updated>
+        <summary type="html"><![CDATA[An interesting Linux kernel patch series was posted this week to address inconsistent NUMA imbalancing behavior for at least some workloads. In such cases these patches address performance differences seen over the past number of Linux kernel releases going on for a while...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Adding A Quirk To Improve Power Management For Intel Arc "Alchemist" GPUs]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-DG2-PCIe-ASPM-Quirk</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-DG2-PCIe-ASPM-Quirk"/>
+        <updated>2022-05-15T10:28:10.000Z</updated>
+        <summary type="html"><![CDATA[In addition to Linux 5.19 being the kernel set to have DG2/Alchemist graphics support in better shape with the IDs now (finally) being added and compute support being ready, this next kernel should boast improved power management handling for these "Alchemist" Arc Graphics GPUs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD/Xilinx Solarflare Network Driver Restructuring Queued For Linux 5.19]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Solarflare-SFC-Siena-Linux-5.19</id>
@@ -2844,16 +2864,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Gets Back To Working On Linear Address Masking Support For The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-LAM-Linux-Kernel-May-2022</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-LAM-Linux-Kernel-May-2022"/>
-        <updated>2022-05-11T09:37:14.000Z</updated>
-        <summary type="html"><![CDATA[Back in December 2020 Intel's programming reference manual was updated to cover Linear Address Masking (LAM) as a future CPU feature and there was some GNU toolchain activity around LAM while not much to report on the effort since then -- until today. A revised "request for comments" has been posted on the Intel Linear Address Masking enabling for the Linux kernel that allows for using untranslated address bits of 64-bit linear addresses to be used for storing arbitrary software metadata...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[U.S. Senator Targets Disney With Bill Limiting Copyright Protection Term]]></title>
         <id>https://torrentfreak.com/?p=218626</id>
         <link href="https://torrentfreak.com/u-s-senator-targets-disney-with-bill-limiting-copyright-protection-term-220511/"/>
@@ -2872,16 +2882,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Ve společnosti 3mdeb už nějakou dobu pracují na otevřeném firmwaru („BIOSu“) pro základní desku MSI PRO Z690-A WiFi DDR4 platformy Intel Alder Lake. Postaven je na open-source platformě distribuce Dasharo, samozřejmě za využití projektu Coreboot. Autoři nyní hlásí pokročení k dalšímu milníku, kdy už zbývá jen zprovoznění SuperIO a případně další pokročilejší možnosti nastavování parametrů desky.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 22.1-rc5 Released With Dozens Of Fixes For Zink, RADV & Intel Vulkan Drivers]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-22.1-rc5-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-22.1-rc5-Released"/>
-        <updated>2022-05-11T09:13:51.000Z</updated>
-        <summary type="html"><![CDATA[There was hope that Mesa 22.1 would have been released this week but instead it's been diveted to at least next week due to more than 90 patches flowing in the past week. As such, today we have Mesa 22.1-rc5 for another week of testing...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
