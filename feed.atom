@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-15T08:14:37.578Z</id>
+    <id>urn:2022-05-15T10:13:37.027Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-05-15T08:14:37.578Z</updated>
+    <updated>2022-05-15T10:13:37.027Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AMD/Xilinx Solarflare Network Driver Restructuring Queued For Linux 5.19]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Solarflare-SFC-Siena-Linux-5.19</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Solarflare-SFC-Siena-Linux-5.19"/>
+        <updated>2022-05-15T10:06:31.000Z</updated>
+        <summary type="html"><![CDATA[The Solarflare "SFC" network driver within the Linux kernel for their high performance network adapters, owned by Xilinx and now owned by AMD, is seeing some restructuring with the next version of the Linux kernel. The intention is on shifting older network hardware to a separate kernel module/driver so improvements and new hardware support can be the focus with this main Solarflare Linux network driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-640</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-640"/>
+        <updated>2022-05-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for turning on the extractor fan before you hop in the shower. Before you hear the low rumble, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm MSM Driver With Linux 5.19 Adds DSC, Preps For Mesa Driver Within A VM]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=MSM-For-Linux-5.19-Changes</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=MSM-For-Linux-5.19-Changes"/>
+        <updated>2022-05-15T09:32:19.000Z</updated>
+        <summary type="html"><![CDATA[MSM DRM driver and Freedreno creator Rob Clark continues leading the charge on open-source Qualcomm Adreno graphics/display support for Linux in this effort that started out as a reverse-engineering project years ago. This past week Rob sent in the last batch of MSM Direct Rendering Manager driver updates intended for the Linux 5.19 kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random: Daisy Fans Are Worried She's Been Dropped From Mario Strikers]]></title>
         <id>https://www.nintendolife.com/#article-131473</id>
@@ -2854,16 +2885,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-Source Firmware For The MSI Alder Lake Motherboard Taking Shape]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Dasharo-0.3-MSI-Z690-A</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Dasharo-0.3-MSI-Z690-A"/>
-        <updated>2022-05-11T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last month was the surprising news of open-source Coreboot working on a readily available Intel Alder Lake motherboard. That work for the MSI PRO Z690-A WiFi DDR4 motherboard is being carried out by independent firmware consulting firm 3mdeb and using the Dasharo open-source firmware distribution with Coreboot...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel vydal nové mikrokódy CPU řešící 41 chyb, první aktualizace pro Alder Lake]]></title>
         <id>www.root.cz-actuality-43630</id>
         <link href="https://www.root.cz/zpravicky/intel-vydal-nove-mikrokody-cpu-resici-41-chyb-prvni-aktualizace-pro-alder-lake/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2871,16 +2892,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Nový balík Security Advisory od Intelu řeší věci, které známe pod interním označením INTEL-SA-000617, resp. obecným CVE-2022–21151. Celkově je řešeno 16 věcí, které záplatují celkem 41 známých bezpečnostních chyb s maximálně medium závažností, v existujícím softwaru i hardwaru Intelu, přičemž 76 % těchto chyb bylo nalezeno přímo inženýry Intelu. Jde o první aktualizace mikrokódu CPU pro současnou generaci procesorů Alder Lake (např. Core i9–12900K).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel oneAPI Level Zero Loader 1.8 Released For Supporting New L0 Features]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-oneAPI-L0-Loader-1.8</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-oneAPI-L0-Loader-1.8"/>
-        <updated>2022-05-11T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Another Intel (open-source) software update coinciding with the company's Vision 2022 conference is a new oneAPI Level Zero Loader release...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4020,17 +4031,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trek To Yomi review: a trek that's stunning and tiresome in equal measure]]></title>
-        <id>https://www.rockpapershotgun.com/trek-to-yomi-review</id>
-        <link href="https://www.rockpapershotgun.com/trek-to-yomi-review"/>
-        <updated>2022-05-05T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trek To Yomi is a stylish side-scroller of a samurai slasher, with an aesthetic that'll have you mashing the print screen key at every corner. Like a seasoned ronin, the combat is clean and refined. The story is simple and elegant. The visuals are straight out of a classic samurai flick. But while it gets a lot of things right, it's also a literal trek to the underworld: the scenery is stunning, but your legs hurt, and your arms ache from killing all the bandits. So many bandits! The lack of enemy variety hurts what could've been a sensational hike - but it's still a trek worth embarking on if you break it up with a few pitstops.
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
         </author>
     </entry>
     <entry>
