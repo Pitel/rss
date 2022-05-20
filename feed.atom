@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T03:10:41.555Z</id>
+    <id>urn:2022-05-20T04:21:26.657Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-05-20T03:10:41.555Z</updated>
+    <updated>2022-05-20T04:21:26.657Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Switch Online's N64 Update Is Live (Version 2.3.0), Here's What's Included]]></title>
+        <id>https://www.nintendolife.com/#article-131736</id>
+        <link href="https://www.nintendolife.com/news/2022/05/switch-onlines-n64-update-is-live-version-2-3-0-heres-whats-included"/>
+        <updated>2022-05-20T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Find out what's changed behind-the-scenes.
+Switch Online's Nintendo 64 application received an update earlier today bumping it up to Version 2.3.0. Apart from the release of Kirby 64: The Crystal Shards, it seems Nintendo has also made some adjustments behind the scenes.
+Nintendo doesn't release patch notes for app updates like this one, but there are other ways of finding out what's changed. Well-known Nintendo dataminer OatmealDome reveals adjustments to a number of existing N64 titles including Star Fox 64, Dr. Mario 64 and Mario Golf - which serves as a reminder Nintendo is continually improving the overall experience of the N64 library on Switch.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux To Introduce The Ability To Set The Hostname Before Userspace Starts]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Kernel-Hostname-Set</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Kernel-Hostname-Set"/>
+        <updated>2022-05-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While the hostname on Linux systems is widely relied upon for different applications, setting the hostname is usually left up to user-space by the init system at boot. However, should any user-space processes try to read the system hostname prior to it being set, it could lead to unintended results. So now finally in 2022 there is a kernel parameter working its way upstream with "hostname=" should you want to ensure the hostname is set before user-space is started...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Files Patent To Combat Online Cheating And Software Modification]]></title>
         <id>https://www.nintendolife.com/#article-131735</id>
@@ -1302,19 +1325,6 @@ As reported by Polygon, Nathan Harris filed the suit with Orange County's Califo
 Between 2019 and 2020, It is alleged that Harris' daughter has spent in the re…]]></summary>
         <author>
             <name>Chris Moyse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feature: Aggro Crab Tells Us All About Their Clawsome New Game, 'Another Crab's Treasure']]></title>
-        <id>https://www.nintendolife.com/#article-131607</id>
-        <link href="https://www.nintendolife.com/features/aggro-crab-tells-us-all-about-their-clawsome-new-game-another-crabs-treasure"/>
-        <updated>2022-05-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🦀🦀🦀🦀🦀🦀🦀🦀.
-You thought I forgot about Crab News Thursday, didn't you? Well I didn't. I was just waiting for the perfect Crab News to surface, and thanks to last week's Indie World presentation, I have finally found it: Another Crab's Treasure, the upcoming PC and Nintendo Switch game from Aggro Crab, the studio behind dystopian office-based dungeon crawler, Going Under. They describe the game as a "shells-like", which is to say that it's a (Dark) Souls-like... with a hermit crab for a protagonist.
-So obviously I had to reach out to Aggro Crab for a totally legit crab-focused interview, in which we cover topics from the serious (like the mechanics of Another Crab's Treasure) to the silly (like how much crab merch they own)...
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3094,16 +3104,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Projekt FreeBSD má novou aktualizační verzi 13.1. Ta vylepšuje podporu UEFI bootu na platformě AMD64, nástroj freebsd-update pak umí automatické snapshoty boot prostředí, což by mělo eliminovat riziko nevratných chyb při aktualizacích.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon Software for Linux 22.10.2 Brings RX 6650/6750/6950 XT Support, RHEL 9 Compatible]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Software-Linux-22.10.2</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Software-Linux-22.10.2"/>
-        <updated>2022-05-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week AMD quietly released a new Radeon Software for Linux driver package focused on providing their fully open-source "Open" and "PRO" (featuring some proprietary components, OpenGL / Vulkan) for enterprise Linux distributions...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
