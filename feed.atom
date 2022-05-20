@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-20T06:15:28.641Z</id>
+    <id>urn:2022-05-20T08:15:25.628Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-05-20T06:15:28.641Z</updated>
+    <updated>2022-05-20T08:15:25.628Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Naučte se Kubernetes na našem dvoudenním školení]]></title>
+        <id>www.root.cz-actuality-41195</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-kubernetes-na-nasem-dvoudennim-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-05-20T06:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes je dnes nejrozšířenější platformou na hostovaní Docker kontejneru a je podporován velkými hráči na trhu (Google, Amazon, Microsoft) skrz Cloud Native Computing Foundation. Kuberneres pro provoz používají všechny velikosti firem, od startupu po korporace. Pojďme se naučit jej používat na dvoudenním kurzu Úvod do Kubernetes, který proběhne v naší pražské školicí místnosti ve dnech 30. a 31. května. Školení proběhne v naší pražské školicí místnosti.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jádro bude umět nastavit hostname]]></title>
+        <id>www.root.cz-actuality-43664</id>
+        <link href="https://www.root.cz/zpravicky/jadro-bude-umet-nastavit-hostname/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-05-20T06:21:37.000Z</updated>
+        <summary type="html"><![CDATA[V současnosti se nastavuje hostname z userspace, stará se o to init a používá se většinou /etc/hostname. Jsou ale některé případy, kdy je potřeba hostname ještě před přimoutováním /. Například mdadm potřebuje hostname a porovnává ho se záznamem homehost pro rozlišení lokálního pole a dočasně připojeného cizího pole.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PAC-MAN 99 'Deluxe Pack' And 'Mode Unlock' Currently 50% Off (US)]]></title>
         <id>https://www.nintendolife.com/#article-131737</id>
@@ -3828,16 +3848,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ovladač AMD má 4 milióny řádků, NVIDIA začíná na 1 miliónu]]></title>
-        <id>www.root.cz-actuality-43641</id>
-        <link href="https://www.root.cz/zpravicky/ovladac-amd-ma-4-miliony-radku-nvidia-zacina-na-1-milionu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-05-13T11:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Ovladač grafických karet AMD AMDGPU pro CGN 1.2 a novější přesáhne v jádře 5.19 4 milióny řádků. Jde o největší ovladač v linuxovém jádře na počet řádků. Je to způsobeno také automaticky generovanými hlavičkovými soubory zvlášť pro každé nové GPU.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Genshin Impact devs unveil their next stylish action RPG, Zenless Zone Zero]]></title>
         <id>https://www.rockpapershotgun.com/genshin-impact-devs-unveil-their-next-stylish-action-rpg-zenless-zone-zero</id>
         <link href="https://www.rockpapershotgun.com/genshin-impact-devs-unveil-their-next-stylish-action-rpg-zenless-zone-zero"/>
@@ -3848,16 +3858,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 7.2 dostal poslední aktualizaci, aktualizujte na 7.3]]></title>
-        <id>www.root.cz-actuality-43640</id>
-        <link href="https://www.root.cz/zpravicky/libreoffice-7-2-dostal-posledni-aktualizaci-aktualizujte-na-7-3/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-05-13T10:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Včera vyšel LibreOffice 7.2.7, jedná se o poslední aktualizaci před koncem podpory řady 7.2, který nastane za měsíc tedy 12. června 2022. Ve verzi 7.2.7 bylo opraveno 47 chyb (RC1 a RC2).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
