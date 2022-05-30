@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-05-30T06:18:37.754Z</id>
+    <id>urn:2022-05-30T08:16:58.403Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-05-30T06:18:37.754Z</updated>
+    <updated>2022-05-30T08:16:58.403Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AMD-Powered Frontier Supercomputer Tops Top500 At 1.1 Exaflops, Tops Green500 Too]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Top500-Green500-Frontier</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Top500-Green500-Frontier"/>
+        <updated>2022-05-30T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of ISC 2022 happening this week in Hamburg, Germany, the new Top500 supercomputer and Green500 energy efficiency lists have been published...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (online školení)]]></title>
+        <id>www.root.cz-actuality-40574</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-05-30T06:51:21.000Z</updated>
+        <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ROS 2 Humble Hawksbill]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/ros-2-humble-hawksbill</id>
@@ -2620,16 +2640,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Arc Graphics Get Linux Driver Fix To Support HDMI 4K@30]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-DG2-HDMI-4K-30-Linux-Fix</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-DG2-HDMI-4K-30-Linux-Fix"/>
-        <updated>2022-05-26T09:46:18.000Z</updated>
-        <summary type="html"><![CDATA[While from the outside it looks like DG2/Alchemist enablement under Linux is starting to settle down with Linux 5.19 beginning to expose compute support for these new Arc Graphics discrete GPUs, beginning to add in production PCI IDs, and other refinements, the enablement battle isn't yet over...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[30. stretnutie komunity Cloud Native – Kubernetes (hybrid)]]></title>
         <id>www.root.cz-actuality-43678</id>
         <link href="https://www.root.cz/zpravicky/30-stretnutie-komunity-cloud-native-kubernetes-hybrid/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -4070,16 +4080,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro bude umět nastavit hostname]]></title>
-        <id>www.root.cz-actuality-43664</id>
-        <link href="https://www.root.cz/zpravicky/jadro-bude-umet-nastavit-hostname/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-05-20T06:21:37.000Z</updated>
-        <summary type="html"><![CDATA[V současnosti se nastavuje hostname z userspace, stará se o to init a používá se většinou /etc/hostname. Jsou ale některé případy, kdy je potřeba hostname ještě před přimoutováním /. Například mdadm potřebuje hostname a porovnává ho se záznamem homehost pro rozlišení lokálního pole a dočasně připojeného cizího pole.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
