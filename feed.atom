@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-01T03:58:51.198Z</id>
+    <id>urn:2022-06-01T05:14:31.215Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-01T03:58:51.198Z</updated>
+    <updated>2022-06-01T05:14:31.215Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Video: Bandai Namco Releases New Commercial For Digimon Survive]]></title>
+        <id>https://www.nintendolife.com/#article-132273</id>
+        <link href="https://www.nintendolife.com/news/2022/06/video-bandai-namco-releases-new-commercial-for-digimon-survive"/>
+        <updated>2022-06-01T04:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Landing on Switch this July.
+Next month sees the long-awaited arrival of the turn-based tactical RPG, Digimon Survive. We've already seen some trailers and new gameplay footage, and now we've got a commercial to add to this.
+It shows a little bit of everything - including new cutscenes and gameplay, along with characters and Digimon.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19 Adds Support For XSAVEC When Running As A VM Guest]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.19-XSAVEC-Support</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.19-XSAVEC-Support"/>
+        <updated>2022-06-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Various hypervisors expose support for the XSAVEC instruction as an XSAVE with compaction as an efficiency optimization. However, the Linux kernel doesn't currently make use of XSAVEC as an alternative to XSAVES (supervisor mode) but that is now changing with Linux 5.19...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Konami Terminating Super Bomberman R Online, Will Move Forward With "New Projects"]]></title>
         <id>https://www.nintendolife.com/#article-132272</id>
@@ -1329,19 +1352,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Romancing SaGa Minstrel Song Gets A Remaster On Switch This Winter]]></title>
-        <id>https://www.nintendolife.com/#article-132229</id>
-        <link href="https://www.nintendolife.com/news/2022/05/romancing-saga-minstrel-song-gets-a-remaster-on-switch-this-winter"/>
-        <updated>2022-05-31T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Music to the ears of many.
-Square Enix's SaGa series is not one we expected a renaissance from in recent years. Known for their unusual levelling techniques, unique mechanics, and interesting stories that span generations, the games have had a mixed level of success in the West. But with ports of Romancing SaGa 2 and 3, and a remaster of PS1 cult classic SaGa Frontier (among many other rereleases), the series' devoted following has been rewarded in recent times.
-And they're going to keep on reaping the benefits of this revival too. Today, Square Enix held an official series live stream where it revealed its next SaGa-related project — Romancing SaGa Minstrel Song, originally a PS2 exclusive and a remake of the first Romancing SaGa game, is getting a remaster later this year, and it's coming to all consoles!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nouveau Gallium3D Begins Landing RTX 30 "Ampere" GPU Driver Code]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Nouveau-Gallium3D-RTX-30-IR</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Nouveau-Gallium3D-RTX-30-IR"/>
@@ -2409,16 +2419,6 @@ Lego also gave us our first look at a forthcoming set based on Andor, a new Disn
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FAT-File-Creation-Birth-5.19"/>
         <updated>2022-05-28T09:21:44.000Z</updated>
         <summary type="html"><![CDATA[Finally for FAT file-systems with the in-development Linux 5.19 kernel is support via the statx() system call for reporting a file's birth/creation time...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Developers Land More Bug Fixes Ahead Of Plasma 5.25]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-Plasma-5.25-More-Fixes</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-Plasma-5.25-More-Fixes"/>
-        <updated>2022-05-28T09:03:05.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of next month's big Plasma 5.25 release, KDE developers are wrapping up May with more bug fixes for polishing up this open-source desktop...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
