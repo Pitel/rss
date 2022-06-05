@@ -1,17 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-05T08:14:04.866Z</id>
+    <id>urn:2022-06-05T10:11:08.955Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-05T08:14:04.866Z</updated>
+    <updated>2022-06-05T10:11:08.955Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Ships Big Update To Their CBL-Mariner 2.0 Linux Distribution]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=CBL-Mariner-2.0.20220527</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=CBL-Mariner-2.0.20220527"/>
+        <updated>2022-06-05T09:19:38.000Z</updated>
+        <summary type="html"><![CDATA[Last month Microsoft published their first production release of CBL-Mariner 2.0 as an updated version of their in-house Linux distribution used for a variety of purposes from Windows Subsystem for Linux to Azure. This week Microsoft released a rather hefty stable update to their CBL-Mariner 2.0 distribution...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple eFuse Driver, Intel Habana Labs Driver Improvements Lead char/misc In Linux 5.19]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.19-char-misc</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.19-char-misc"/>
+        <updated>2022-06-05T08:55:09.000Z</updated>
+        <summary type="html"><![CDATA[Greg Kroah-Hartman on Friday submitted the "char/misc" changes for the Linux 5.19 kernel. Char/misc continues to be the "catch all" area of the kernel for drivers and code not fitting formally within other kernel subsystems. Leading on this front for Linux 5.19 is the introduction of the Apple eFuse driver for M1 systems and Intel-owned Habana Labs continues improving their AI accelerator driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch Network Failure Prevents Users From Accessing eShop And Digital Games]]></title>
         <id>https://www.nintendolife.com/#article-132490</id>
         <link href="https://www.nintendolife.com/news/2022/06/switch-network-failure-prevents-users-from-accessing-eshop-and-digital-games"/>
         <updated>2022-06-05T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[Nintendo apologises for the inconvenience.
-If you've been having online difficulties with your Nintendo Switch earlier today, it's not just you. Nintendo's network services have been experiencing some problems - supposedly preventing users from not only accessing the Switch eShop but also launching applications and digital games from the home menu.
+If you've been having online difficulties with your Nintendo Switch earlier today, it's not just you. Nintendo's network services have been experiencing some problems - supposedly preventing users from not only accessing the Switch eShop but also launching applications and certain digital games from the home menu.
 Nintendo appears to have resolved this problem after a number of hours - issuing the following notices over time on its customer support Twitter account:
 Read the full article on nintendolife.com]]></summary>
         <author>
@@ -35,8 +55,18 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[FEX-Emu 2206 Released For Enjoying x86/x86_64 Apps & Games On Arm]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=FEX-Emu-2206</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FEX-Emu-2206"/>
-        <updated>2022-06-05T04:00:00.000Z</updated>
+        <updated>2022-06-05T04:00:01.000Z</updated>
         <summary type="html"><![CDATA[FEX-Emu 2206 has been released as the newest version of this user-space, open-source software for being able to run x86/x86_64 applications and games on AArch64 (Arm) hardware...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux Celebrates First Triangle On The Apple M1 With Fully Open-Source Driver]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Asahi-Linux-First-Triangle</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Asahi-Linux-First-Triangle"/>
+        <updated>2022-06-05T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While there has been progress with the Mesa code targeting Apple M1 to run basic tests like glmark2, that has traditionally been an effort running under macOS with its kernel driver. This week the Asahi Linux crew celebrated their first rendered triangle running with a fully open-source driver stack...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -59,16 +89,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Distribuce Tails specializující se ochranu online soukromí uživatele byla vydána ve verzi 5.1. Jde o první větší aktualizaci od vydání 5.0 založeného na Debianu 11 „Bullseye“, takže vedle pravidelných oprav webového prohlížeče Tor Browser (11.0.14) nebo e-mailového klienta Thunderbird (91.9), také ladí integraci nástrojů jako Kleopatra, průvodce připojením k Toru atd.]]></summary>
         <author>
             <name>Fluttershy, yay!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux Celebrates First Triangle On The Apple M1 With Fully Open-Source Driver]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Asahi-Linux-First-Triangle</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Asahi-Linux-First-Triangle"/>
-        <updated>2022-06-04T23:15:21.000Z</updated>
-        <summary type="html"><![CDATA[While there has been progress with the Mesa code targeting Apple M1 to run basic tests like glmark2, that has traditionally been an effort running under macOS with its kernel driver. This week the Asahi Linux crew celebrated their first rendered triangle running with a fully open-source driver stack...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2550,16 +2570,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IO_uring Continues Advancing In 2022 With New Features For Pushing Linux I/O]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=KR2022-IO_uring</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=KR2022-IO_uring"/>
-        <updated>2022-06-01T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Kernel Recipes 2022 conference kicked off today in Paris, France. Kicking off the event was Linux block subsystem maintainer and lead IO_uring developer Jens Axboe to talk about all of the recent and ongoing work around this major advancement to Linux I/O in recent years...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Will Arnett Will Voice Sweet Tooth In Live-Action Twisted Metal Series]]></title>
         <id>118336</id>
         <link href="https://www.gameinformer.com/gamer-culture/2022/06/01/will-arnett-will-voice-sweet-tooth-in-live-action-twisted-metal-series"/>
@@ -2585,16 +2595,6 @@ Yet like a newly minted Wretch squaring up to Margit the Fell Omen for the first
 Read more]]></summary>
         <author>
             <name>Rick Lane</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Launches New Silicon Design Portal For Open-Source Projects]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-Open-Silicon-Portal</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Google-Open-Silicon-Portal"/>
-        <updated>2022-06-01T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has been helping small open-source projects get started in chip fabrication with Google covering the costs and partnering with SkyWater Technology using their open-source process design kit (PDK). While the chip manufacturing is done on a 130nm process (SKY130), this effort has proven to be a big success for open-source hardware projects with limited funding and Google today announced a new silicon design portal...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
