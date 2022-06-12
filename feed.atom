@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-12T08:13:24.858Z</id>
+    <id>urn:2022-06-12T10:11:34.181Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-12T08:13:24.858Z</updated>
+    <updated>2022-06-12T10:11:34.181Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.20 To Have Power Management / Turbo Fix For AMX-Enabled Intel CPUs]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.20-AMX-PM-Fix</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.20-AMX-PM-Fix"/>
+        <updated>2022-06-12T09:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Last month I wrote about a new set of Linux patches that provide for better power management on AMX-enabled "Sapphire Rapids" servers. The patches help ensure AMX-enabled CPUs can reach their lower power states for maximum power-savings and that also helps ensure other CPU cores have a larger thermal/power budget for hitting their rated turbo frequencies. That change/fix will be coming in the Linux 5.20 cycle later this summer...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Libinput 1.21 Released With Improvements To  Flat Acceleration Profile For Touchpads]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=libinput-1.21</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=libinput-1.21"/>
+        <updated>2022-06-12T09:06:29.000Z</updated>
+        <summary type="html"><![CDATA[José Expósito continues with recently stepping up to manage libinput releases, the input handling library that for the modern Linux desktop is now widely used across both X.Org and Wayland environments. Libinput 1.21 debuted this weekend with various improvements over the prior release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
+        <id>https://www.destructoid.com/?p=328394</id>
+        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-200/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-200"/>
+        <updated>2022-06-12T09:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Gimme a boost
+Howdy pardners, and welcome to Whatcha Been Playing. We are in the midst of "Not-E3" stream week, and while Geoff Keighley's Manage Your Expectations Fest is already behind us, there are still a helluva lot of streams happening — many of them this weekend, which is awesome for teams of writers who don't want a day off. I guess this is the news month of the year, and even without the Endless Entertainment Expo we still find ourselves bombarded with news, trailers, reveals, and updates.
+I hope that you've enjoyed the festivities thus far. Please join us here at Destructoid for the coming week's news and streams. As good boy Occams has told me time and again, it's you, the community, and your feedback to the tidal wave of news that really makes this season fun and engaging.
+It's…]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Game Freak Had Plans For 65,535 Versions Of The Original Pokémon Game]]></title>
         <id>https://www.nintendolife.com/#article-132926</id>
         <link href="https://www.nintendolife.com/news/2022/06/game-freak-had-plans-for-65535-versions-of-the-original-pokemon-game"/>
         <updated>2022-06-12T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[But Shigeru Miyamoto didn't think it was the best idea.
-Pokémon has always had two different versions, but before the original games were released on Game Boy in 1996 Game Freak had plans for something else.
-In new translations of old Japanese interviews (via the YouTube channel Did You Know Gaming), it's revealed how Game Freak wanted 65,353 different versions of the first generation Pokémon games.
+Pokémon has always had two different versions, but before the original games were released on Game Boy in 1996, Game Freak had plans for something else.
+In new translations of old Japanese interviews (via the YouTube channel Did You Know Gaming), it's revealed how Game Freak wanted 65,535 different versions of the first generation Pokémon games.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -960,19 +993,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Ahead of the KDE Plasma 5.25 desktop release next week, KDE developers have been busy this past week with last minute fixes ahead of that half-year update as well as beginning early work for Plasma 5.26...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
-        <id>https://www.destructoid.com/?p=328394</id>
-        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-200/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-200"/>
-        <updated>2022-06-11T10:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Gimme a boost
-Howdy pardners, and welcome to Whatcha Been Playing. We are in the midst of "Not-E3" stream week, and while Geoff Keighley's Manage Your Expectations Fest is already behind us, there are still a helluva lot of streams happening — many of them this weekend, which is awesome for teams of writers who don't want a day off. I guess this is the news month of the year, and even without the Endless Entertainment Expo we still find ourselves bombarded with news, trailers, reveals, and updates.
-I hope that you've enjoyed the festivities thus far. Please join us here at Destructoid for the coming week's news and streams. As good boy Occams has told me time and again, it's you, the community, and your feedback to the tidal wave of news that really makes this season fun and engaging.
-It's…]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -3779,16 +3799,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red Hat Enterprise Linux 9.0 Performing Well, Great Benefit To Newer Intel Xeon & AMD EPYC Servers]]></title>
-        <id>https://www.phoronix.com/vr.php?view=31189</id>
-        <link href="https://www.phoronix.com/vr.php?view=31189"/>
-        <updated>2022-06-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last month RHEL 9.0 reached GA as the newest major update to Red Hat Enterprise Linux. Since then I've been trying out RHEL 9.0 on a few servers. To little surprise, especially for latest-generation Intel Xeon Scalable and AMD EPYC servers, RHEL 9.0 is offering significant uplift compared to the existing RHEL8 series. Here are some Red Hat Enterprise Linux 9.0 benchmarks comparing the performance to RHEL 8.6.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dragon Age: Dreadwolf QA contractors vote unanimously to unionise]]></title>
         <id>https://www.rockpapershotgun.com/dragon-age-dreadwolf-qa-contractors-vote-unanimously-to-unionise</id>
         <link href="https://www.rockpapershotgun.com/dragon-age-dreadwolf-qa-contractors-vote-unanimously-to-unionise"/>
@@ -3811,16 +3821,6 @@ To be fair, it’s not all bad. Some of it is great even, but I’ve jumped betw
 Read more]]></summary>
         <author>
             <name>Danielle Lucas</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUSE Linux Enterprise 15 SP4 Released - Switches To NVIDIA's Open Kernel Driver, Adds AMD SEV-ES]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=SUSE-Linux-Enterprise-15-SP4</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=SUSE-Linux-Enterprise-15-SP4"/>
-        <updated>2022-06-07T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In kicking off SUSECON, SUSE has announced the release of SUSE Linux Enterprise 15 Service Pack 4. Notable with SLE 15 SP4, SUSE is already switching to using NVIDIA's open-source GPU kernel-mode driver that NVIDIA open-sourced last month and is under active development and has a long road ahead before it's even feasible for upstreaming into the mainline kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
