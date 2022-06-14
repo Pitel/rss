@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-14T06:15:09.669Z</id>
+    <id>urn:2022-06-14T07:54:53.231Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-14T06:15:09.669Z</updated>
+    <updated>2022-06-14T07:54:53.231Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google po sedmnácti letech vypne službu Talk]]></title>
+        <id>www.root.cz-actuality-43732</id>
+        <link href="https://www.root.cz/zpravicky/google-po-sedmnacti-letech-vypne-sluzbu-google-talk/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-06-14T07:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Google definitivně vypne prastarou službu Google Talk, kterou provozoval od roku 2005. Byla postavena na protokolu XMPP a dnes je možné ji používat už jen přes klienty třetích stran jako Pidgin a Gajim. Služba ale bude i zbývajícím uživatelům vypnuta 16. června.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Live-Action One Punch Man Movie Is In Development]]></title>
         <id>1849056947</id>
@@ -691,6 +701,54 @@ Bright Memory: Infinite is available now on PC, it will launch on PS5, Xbox Seri
 The post Bright Memory: Infinite brings its controlled chaos to consoles this year appeared first on Destructoid.]]></summary>
         <author>
             <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Dolphin Beta 3 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-3-now.html</id>
+        <link href="https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-3-now.html"/>
+        <updated>2022-06-13T17:24:00.002Z</updated>
+        <summary type="html"><![CDATA[Android Studio - Dolphin | 2021.3.1 Beta 3 is now available in the Beta channel.
+ If you already have an Android Studio build on the Beta channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
+ For information on new features and changes in all preview builds of Android Studio Dolphin, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
+ General fixes and features
+ The following is list of general fixes in Android Studio Electric Eel Canary 2. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
+ Android Gradle Plugin
+  
+    
+Issue #231326529: processReleaseManifest: package found in source AndroidManifest.xml false negative
+    
+Issue #229979216: Make dokka-core as compile time dependency and load it at runtime
+    
+Issue #231326529: AGP 7.2.0-rc01 :buildSrc:generatePrecompiledScriptPluginAccessors - shadow/bundletool/com/android/prefs/AndroidLocation$AndroidLocationException
+  
+
+Compose Preview
+  
+    
+Issue #231326529: ComposePreviewRepresentations leak through message bus connections in FastPreviewManager
+  
+
+Updater
+  
+    
+Issue #232941844: Patcher on M1 does not work for EE c1 to EE c2]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Electric Eel Canary 4 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-4.html</id>
+        <link href="https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-4.html"/>
+        <updated>2022-06-13T17:24:00.001Z</updated>
+        <summary type="html"><![CDATA[Android Studio - Electric Eel | 2022.1.1 Canary 4 is now available in the Canary and Dev channels.
+ If you already have an Android Studio build on the Canary or Dev channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
+ For information on new features and changes in all preview builds of Android Studio Electric Eel, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
+ General fixes and features
+ The following is list of general fixes in Android Studio Electric Eel Canary 4. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a …]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
         </author>
     </entry>
     <entry>
@@ -4095,6 +4153,20 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Android Studio Electric Eel Canary 3 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-3.html</id>
+        <link href="https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-3.html"/>
+        <updated>2022-06-06T18:13:00.001Z</updated>
+        <summary type="html"><![CDATA[Android Studio - Electric Eel | 2022.1.1 Canary 3 is now available in the Canary and Dev channels.
+ If you already have an Android Studio build on the Canary or Dev channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
+ For information on new features and changes in all preview builds of Android Studio Electric Eel, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
+ General fixes and features
+ The following is list of general fixes in Android Studio Electric Eel Canary 3. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a …]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Python 3.11 beta 1 ukazuje podstatné zrychlení]]></title>
         <id>www.root.cz-actuality-43711</id>
         <link href="https://www.root.cz/zpravicky/python-3-11-beta-1-ukazuje-podstatne-zrychleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -4110,16 +4182,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.root.cz/zpravicky/orange-pi-800-pocitac-v-klavesnici-a-alternativa-k-raspberry-pi-400/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-06-06T13:50:34.000Z</updated>
         <summary type="html"><![CDATA[Alternativa k počítači v klávesnici Raspberry Pi 400 od čínského výrobce Orange Pi se jmenuje Orange Pi 800. Je postavena na CPU Rockchip RK3399 (šest jader, 2× Cortex-A72 1,8 GHz a 4× Cortex-A53 1,4 GHz) a obsahuje 4 GB RAM, 64 GB eMMC a microSD kartu, HDMI výstup s rozlišením 4k a VGA výstup s rozlišením FullHD.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pozdní nahrávání mikrokódu pro x86 je pokládáno za loterii]]></title>
-        <id>www.root.cz-actuality-43709</id>
-        <link href="https://www.root.cz/zpravicky/pozdni-nahravani-mikrokodu-pro-x86-je-pokladano-za-loterii/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-06T13:20:01.000Z</updated>
-        <summary type="html"><![CDATA[Do jádra 5.19 se dostala záplata od Thomase Gleixnera a Borislava Petkova, která ve výchozím stavu vypíná pozdní nahrávání mikrokódu, protože to v některých případech nefunguje a jedná se tedy o loterii. Tato konfigurace MICROCODE_OLD_INTERFACE (deprecated) je přejmenována na MICROCODE_LATE_LOADING (dangerous). Pozdní aktualizace mikrokódu používala /dev/cpu/microcode a nástroje iucode_tool nebo microcode.ctl. Nově bude při použití pozdní aktualizace jádro také označeno (tainted).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
@@ -4283,6 +4345,51 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Vznik života a kvantové tečky. Hledání Dysonových sfér u bílých trpaslíků. Poprvé syntetizovali materiál při tlaku, jaký panuje v jádru Uranu. Drony mohou rozsypávat bezdrátové senzory.]]></summary>
         <author>
             <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Chipmunk | 2021.2.1 Patch 1 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-202121-patch-1.html</id>
+        <link href="https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-202121-patch-1.html"/>
+        <updated>2022-05-25T17:04:00.000Z</updated>
+        <summary type="html"><![CDATA[Android Studio - Chipmunk | 2021.2.1 Patch 1 is now available in the Stable channel.
+ If you already have an Android Studio build on the Stable channel, you can get the update by clicking Help > Check for Update (Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
+ General fixes and features
+ The following is list of general fixes in Android Studio Chipmunk Patch 1. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
+ Android App Bundles
+  
+    
+Issue #230361284: bundletool does not package baseline profiles correctly
+  
+
+Dexer (D8)
+  
+    
+Issue #218298666: Art / Dalvik VMs prior to version 8 does not support the fix for JDK-8272564
+  
+
+IntelliJ
+  
+    
+Issue #225751091: File watcher failed to start on Ubuntu 20.04
+    
+Issue #206465485: MBP 15" 2018 Touch Bar menu is missed.
+  
+
+Run
+  
+    
+Issue #232134751: Devices option is not visible and unable to run the app even though app module is available.
+  
+
+Shrinker (R8)
+  
+    
+Issue #228791247: Why does R8 doesn't backport default interface methods but D8 does?
+    
+Issue #218400336: CIRCULAR REFERENCE: com.android.tools.r8.internal.R10: Unexpected type in conversion to primitive: OBJECT]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
         </author>
     </entry>
     <entry>
