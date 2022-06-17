@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-17T04:25:28.788Z</id>
+    <id>urn:2022-06-17T06:14:55.959Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-17T04:25:28.788Z</updated>
+    <updated>2022-06-17T06:14:55.959Z</updated>
     <generator>osmosfeed 1.14.4</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL 14.4 opravuje závažnou chybu]]></title>
+        <id>www.root.cz-actuality-43742</id>
+        <link href="https://www.root.cz/zpravicky/postgresql-14-4-opravuje-zavaznou-chybu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-06-17T06:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Včera vyšla opravná verze PostgreSQL 14.4. Kromě jiných chyb je opravena závažná chyba v příkazu VACUUM. Tato chyba mohla způsobit poškození indexů vytvořených příkazem CREATE INDEX CONCURRENTLY nebo  REINDEX CONCURRENTLY.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Stěhule)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Total War: WARHAMMER III pro Linux]]></title>
+        <id>www.root.cz-actuality-43743</id>
+        <link href="https://www.root.cz/zpravicky/total-war-warhammer-iii-pro-linux/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-06-17T06:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Ferral Interactive včera vydal strategickou hru Total War: WARHAMMER III pro Linux. Koupit je možné v obchodě Ferral, na Steamu či v HumbleBundle za shodnou cenu 59,99 eur. Bohužel opět multiplayer je omezen a můžete hrát jen s hráči na stejném OS. Pokud tedy chcete hrát s hráči na Windows, je potřeba použít Proton (Wine).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome To Sushi Town]]></title>
         <id>1849074702</id>
@@ -24,7 +44,7 @@ Read more...]]></summary>
         <updated>2022-06-17T03:15:00.000Z</updated>
         <summary type="html"><![CDATA[Take a look.
 It's absolutely packed out with game releases and announcements this month, and one other thing you won't want to miss out on is Monster Hunter Rise: Sunbreak - a new DLC for the latest entry in the Monster Hunter series.
-Ahead of the release later this month on 30th June, Capcom has revealed the new armour sets based on the Gore Magala and Espinas. These two monsters were shown featured in the latest trailer for Monster Hunter Rise: Sunbreak during the Capcom showcase.
+Ahead of the release later this month on 30th June, Capcom has revealed the new armour sets based on the Gore Magala and Espinas. These two monsters were featured in the latest trailer for Monster Hunter Rise: Sunbreak during the Capcom showcase.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -47,8 +67,8 @@ Read more...]]></summary>
         <link href="https://www.nintendolife.com/news/2022/06/gallery-square-enix-shares-brand-new-screenshots-of-crisis-core-final-fantasy-vii-reunion"/>
         <updated>2022-06-17T01:45:00.000Z</updated>
         <summary type="html"><![CDATA[Coming to Nintendo Switch later this year.
+
 In case you missed it, Square Enix has announced the action-RPG Crisis Core: Final Fantasy VII Reunion will be coming to multiple platforms including the Nintendo Switch this winter.
-It claims to go "way beyond" a simple HD remaster - being a more "beautiful and accessible" version of Crisis Core and offering updated 3D models, full voiceovers and new music arrangements.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -105,11 +125,21 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2022/06/square-enix-reveals-crisis-core-final-fantasy-vii-reunion-arriving-on-switch-later-this-year"/>
         <updated>2022-06-17T00:25:00.000Z</updated>
         <summary type="html"><![CDATA["going way beyond just a simple HD remaster".
-In surprise news for Switch fans, Square Enix has announced a remaster of the action-RPG prequel Crisis Core: Final Final Fantasy VII. It originally debuted on the PlayStation Portable in 2007.
-It's officially titled Crisis Core: Final Fantasy VII Reunion and will be launching across multiple platforms including Nintendo's system this winter. This new version will feature updated 3D models, full voiceovers and new music arrangements.
+In surprise news for Nintendo Switch fans, Square Enix has announced a remaster of the action-RPG prequel Crisis Core: Final Final Fantasy VII. It originally made its debut on the PlayStation Portable in 2007.
+This new version is officially titled Crisis Core: Final Fantasy VII Reunion and will be launching across multiple platforms including Nintendo's hybrid system this winter. The remaster will feature updated 3D models, full voiceovers and new music arrangements.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache NetBeans 14]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/apache-netbeans-14</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/apache-netbeans-14"/>
+        <updated>2022-06-16T23:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Organizace Apache Software Foundation (ASF) vydala verzi 14 integrovaného vývojového prostředí a vývojové platformy napsané v Javě NetBeans (Wikipedie). Přehled novinek na GitHubu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -118,7 +148,7 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2022/06/capcom-has-officially-announced-dragons-dogma-ii"/>
         <updated>2022-06-16T23:45:00.000Z</updated>
         <summary type="html"><![CDATA["Sorry to have kept you waiting".
-Earlier on, Capcom held a special 10th anniversary Dragon's Dogma video broadcast. At the very end of the presentation, director Hideaki Itsuno revealed Dragon's Dogma II is now officially in development.
+Earlier on, Capcom held a special 10th anniversary Dragon's Dogma video broadcast. At the very end of the presentation, director Hideaki Itsuno announced Dragon's Dogma II is currently in development.
 
 "Sorry to have kept you waiting! Dragon's Dogma 2 is currently in development. Everyone in the development team is hard at work creating a game that we hope you will enjoy! Please look forward to it."
 Read the full article on nintendolife.com]]></summary>
@@ -2352,16 +2382,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nová zranitelnost procesorů Intel: MMIO (Memory Mapped I/O) Stale Data]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/nova-zranitelnost-procesoru-intel-mmio-memory-mapped-i-o-stale-data</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/nova-zranitelnost-procesoru-intel-mmio-memory-mapped-i-o-stale-data"/>
-        <updated>2022-06-15T08:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Intel zveřejnil informace o nové zranitelnosti MMIO (Memory Mapped I/O) Stale Data ve svých procesorech. Podrobnosti v technické dokumentaci Intelu. V upstreamu Linuxu je již řešeno (processor_mmio_stale_data.rst).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel Arc A380 Desktop Graphics Launch In China]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Arc-A380-China</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Arc-A380-China"/>
@@ -4439,26 +4459,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Včera byla vydána aktualizovaná verze enterprisové distribuce SUSE Linux Enterprise 15 SP4 (SLES), dnes na ni navazuje komunitní edice openSUSE Leap 15.4, sestavovaná ze stejných zdrojů.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME Mutter dostává podporu VRR]]></title>
-        <id>www.root.cz-actuality-43717</id>
-        <link href="https://www.root.cz/zpravicky/gnome-mutter-dostava-podporu-vrr/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-08T08:59:25.000Z</updated>
-        <summary type="html"><![CDATA[Variabilní snímková frekvence jako součást běhu desktopového prostředí, je v projektu GNOME zas o krok blíž. Do kódu kompozitoru Mutter doputovaly příslušné patche, podpora VRR byla vyvíjena poslední dva roky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (online školení)]]></title>
-        <id>www.root.cz-actuality-40574</id>
-        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-08T08:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
