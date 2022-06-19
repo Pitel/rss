@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-19T08:13:23.021Z</id>
+    <id>urn:2022-06-19T10:11:53.778Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-19T08:13:23.021Z</updated>
+    <updated>2022-06-19T10:11:53.778Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EXT4 Has A Nice One-Line Performance Fix For Cases When Delayed Allocation Is Disabled]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=EXT4-No-Delalloc-Perf-Fix</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=EXT4-No-Delalloc-Perf-Fix"/>
+        <updated>2022-06-19T10:00:03.000Z</updated>
+        <summary type="html"><![CDATA[When an EXT4 file-system is running low on free space (or when toggled via the "nodelalloc" mount option), EXT4's delayed allocation mode can be disabled. This can result in a significant performance hit but now a patch is pending for what should land in Linux 5.20 with recovering that performance when delayed allocation is disabled...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-643</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-643"/>
+        <updated>2022-06-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for melting into a puddle. Before you bubble on the pavement, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 2.37-rc1 Released With "git -v" & "git -h" Convenient Options]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Git-2.37-rc1-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Git-2.37-rc1-Released"/>
+        <updated>2022-06-19T09:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Following an initial rc0 tag earlier in the week, Git 2.37-rc1 was released on Friday for helping to facilitate testing for the next version of this leading, open-source distributed revision control system...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reggie: Nintendo's Transition From Switch Will Be A "Significant Challenge"]]></title>
+        <id>https://www.nintendolife.com/#article-133313</id>
+        <link href="https://www.nintendolife.com/news/2022/06/reggie-nintendos-transition-from-switch-will-be-a-significant-challenge"/>
+        <updated>2022-06-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Repeated success has only been achieved "a handful of times".
+Former Nintendo of America boss Reggie shared his thoughts recently about how Nintendo could prepare for the Switch's successor, and the same topic has come up once again during an interview with CNET.
+He previously mentioned how important the "content pipeline" would be for Nintendo next generation, and now he's added to this, reiterating how maintaining and capitalising on the success of the Switch will still be a "significant challenge".
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LEGO Star Wars: The Skywalker Saga Now Has 5 Million Players Across The Galaxy]]></title>
         <id>https://www.nintendolife.com/#article-133311</id>
@@ -1245,19 +1289,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Od vydání Ubuntu 22.04 uživatelé často kritizují pomalý start Firefoxu, který je nově ve výchozím nastavení dodávaný jako snap. Canonical  se tedy zaměřil na zlepšení výkonu snapu. Výsledky shrnují dva zápisky v blogu Canonicalu od Olivera Smitha z konce května a ze včerejška.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Key Art For Witchbeam's Next Game Is Hidden Somewhere In 'Unpacking']]></title>
-        <id>https://www.nintendolife.com/#article-133270</id>
-        <link href="https://www.nintendolife.com/news/2022/06/key-art-for-witchbeams-next-game-is-hidden-somewhere-in-unpacking"/>
-        <updated>2022-06-17T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you found it?
-In a recent blog post, developer Witchbeam has announced that key art for its next game is hidden somewhere in the surprise indie hit Unpacking.
-Better still, it seems no one has found it yet! Or at least, no one has come forward with any kind of discovery at the time of writing.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2787,26 +2818,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft's "Dozen" Prepares For Vulkan 1.1 Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Microsoft-Dzn-Vulkan-1.1-Nears</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Microsoft-Dzn-Vulkan-1.1-Nears"/>
-        <updated>2022-06-15T09:40:18.000Z</updated>
-        <summary type="html"><![CDATA[Merged earlier this year into Mesa was "Dozen" for Vulkan on Direct3D 12 for use with Microsoft's Windows Subsystem for Linux or in Windows cases where there may be a D3D12 driver installed but no Vulkan support. This is akin to the layering work Microsoft already supports for leveraging Mesa to provide OpenCL and OpenGL atop Direct3D 12. That "Dozen" driver is now readying Vulkan 1.1 support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux SoC Patches Revised For The AMD Pensando Elba]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Pensando-Elba-Patches</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Pensando-Elba-Patches"/>
-        <updated>2022-06-15T09:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year Pensando engineers began posting Linux patches for enabling their Elba DPU SoC. This data processing unit is powered by 16 x Arm Cortex-A72 cores and designed for supporting up to dual 200GE networking with this SoC intended for high-end networking equipment. It didn't take long for the AMD integration less than one month after AMD completed its Pensando acquisition with the new Linux patches now reflected as the AMD Pensando Elba...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The first Intel Arc graphics card has arrived… in China]]></title>
         <id>https://www.rockpapershotgun.com/the-first-intel-arc-graphics-card-has-arrived-in-china</id>
         <link href="https://www.rockpapershotgun.com/the-first-intel-arc-graphics-card-has-arrived-in-china"/>
@@ -4270,19 +4281,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every League Of Legends champion will soon be available via Game Pass]]></title>
-        <id>https://www.rockpapershotgun.com/every-league-of-legends-champion-will-soon-be-available-via-game-pass</id>
-        <link href="https://www.rockpapershotgun.com/every-league-of-legends-champion-will-soon-be-available-via-game-pass"/>
-        <updated>2022-06-12T17:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Here's a thing: Riot's games are coming to Game Pass, including League Of Legends, Valorant and Legends Of Runeterra. Those are free-to-play games, which means what you'll really getting for your subscription is access to some of the bits that would normally be locked behind real money or the grind. In League Of Legends, for example, a Game Pass subscription will unlock all 160+ of the MOBA's champions.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
     <entry>
