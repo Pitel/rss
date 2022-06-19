@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-18T22:10:14.154Z</id>
+    <id>urn:2022-06-19T00:59:45.678Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-18T22:10:14.154Z</updated>
+    <updated>2022-06-19T00:59:45.678Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Bizarre Case Of Zstd's Very Slow Performance On Arch Linux]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Arch-Linux-Bizarre-Zstd</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Arch-Linux-Bizarre-Zstd"/>
+        <updated>2022-06-18T23:40:23.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday I posted benchmarks of six Linux distributions on the HP Dev One, the exciting new Linux laptop launched by HP in collaboration with System76 that is using their Pop!_OS distribution. From those benchmarks one of the bizarre findings was that the Zstd compression performance on Arch Linux simply sucked, but some interested developers dove in and found the rather bizarre culprit why their Zstd performance is so poor in relation to other Linux distributions on the same version...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Legend Of Heroes: Trails From Zero is getting a fancy English PC port 12 years later]]></title>
         <id>https://www.rockpapershotgun.com/the-legend-of-heroes-trails-from-zero-is-getting-a-fancy-english-pc-port-12-years-later</id>
@@ -2806,16 +2816,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc A380 Desktop Graphics Launch In China]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Arc-A380-China</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Arc-A380-China"/>
-        <updated>2022-06-15T08:23:59.000Z</updated>
-        <summary type="html"><![CDATA[Overnight Intel announced that the Arc A380 desktop GPU has launched in China and will begin appearing in the Chinese market this month...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
