@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-20T06:16:34.618Z</id>
+    <id>urn:2022-06-20T08:17:05.450Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-20T06:16:34.618Z</updated>
+    <updated>2022-06-20T08:17:05.450Z</updated>
     <generator>osmosfeed 1.15.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Více k Telegram Premium]]></title>
+        <id>www.root.cz-actuality-43749</id>
+        <link href="https://www.root.cz/zpravicky/vice-k-telegram-premium/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-06-20T07:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Včera Telegram na blogu oznámil, že má více jak 700 miliónů aktivních uživatelů měsíčně a že patří do první pětky nejvíce stahovaných aplikací v roce 2022. Také bylo detailně rozebrán Telegram Premium, o kterém jsme nedávno informovali.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zvýšení rychlosti EXT4 při nedostatku místa]]></title>
+        <id>www.root.cz-actuality-43748</id>
+        <link href="https://www.root.cz/zpravicky/zvyseni-rychlosti-ext4-pri-nedostatku-mista/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-06-20T06:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Souborový systém EXT4 při nedostatku místa vypne odloženou alokaci (delayed allocation), která snižuje zátěž procesoru a také snižuje fragmentaci souborů. Také je možné odloženou alokaci vypnout pomocí parametrů mount jako je nodelalloc nebo také  mode=ordered.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft věnuje 10 000 dolarů Nadaci GNOME]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/microsoft-venuje-10-000-dolaru-nadaci-gnome</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/microsoft-venuje-10-000-dolaru-nadaci-gnome"/>
+        <updated>2022-06-20T03:13:08.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft prostřednictvím svého fondu Free and Open Source Software Fund (FOSS Fund) přispívá open source komunitám a projektům, jejíchž software používá. V květnu byla vybrána a 10 000 dolarů získá Nadace GNOME.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Breath of the Wild Guardian Cosplay Is A Sight To Behold]]></title>
         <id>1848966767</id>
@@ -1404,7 +1434,7 @@ https://twitter.com/StreetFighter/status/1537540682704879617?s=20&t=Drwti_cr2yV8
         <id>www.root.cz-actuality-43746</id>
         <link href="https://www.root.cz/zpravicky/zranitelnost-procesoru-intel-mmio-stale-data/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-06-17T13:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Nedlouho po zranitelnosti Herzbleed procesorů AMD a Intel tu máme zranitelnost procesorů Intel: MMIO Stale Data. Chyba je označena jako CVE-2022–21123 a jde v podstatě o nedostatečné smazání sdílené vyrovnávací paměti procesoru, kudy by mohly lokálně uniknout citlivé informace mezi dvěma procesy.]]></summary>
+        <summary type="html"><![CDATA[Nedlouho po zranitelnosti Herztbleed procesorů AMD a Intel tu máme zranitelnost procesorů Intel: MMIO Stale Data. Chyba je označena jako CVE-2022–21123 a jde v podstatě o nedostatečné smazání sdílené vyrovnávací paměti procesoru, kudy by mohly lokálně uniknout citlivé informace mezi dvěma procesy.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
@@ -2370,16 +2400,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Příští pondělí a úterý se v Brně uskuteční další komunitní setkání nejen českých a slovenských správců sítí – CSNOG 2022. V programu této dvoudenní akce, která nabídne i prostor pro jednání a sdílení osobních zkušeností, najdou zájemci příspěvky zástupců organizací CZ.NIC, NIX.CZ, Kernun, NS1, Global NOG Alliance, Qrator Labs, Silicon Hill ČVUT nebo ČTÚ či Free Moscow University. Kompletní program včetně registračního formuláře jsou k dispozici na webu setkání. Organizátory CSNOG 2022 jsou sdružení CESNET, CZ.NIC a NIX.CZ.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: anonymní)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLAP (CLever Audio Plug-in API), nové open source API pro komunikaci mezi hostitelským audio programem a zásuvnými moduly]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/clap-clever-audio-plug-in-api-nove-open-source-api-pro-komunikaci-mezi-hostitelskym-audio-programem-a-zasuvnymi-moduly</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/clap-clever-audio-plug-in-api-nove-open-source-api-pro-komunikaci-mezi-hostitelskym-audio-programem-a-zasuvnymi-moduly"/>
-        <updated>2022-06-16T02:11:03.000Z</updated>
-        <summary type="html"><![CDATA[Článek na Libre Arts představuje nové open source API CLAP (CLever Audio Plug-in API) pro komunikaci mezi hostitelským audio programem a zásuvnými moduly. Po několika letech práce jej společně představily společnosti Bitwig a u-he. Jedná se o alternativu k VST, AU nebo LV2.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4372,16 +4392,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nový rekord výpočtu π od Google]]></title>
-        <id>www.root.cz-actuality-43723</id>
-        <link href="https://www.root.cz/zpravicky/novy-rekord-vypoctu-od-google/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-10T11:28:51.000Z</updated>
-        <summary type="html"><![CDATA[Ještě v březnu jsme psali, že rekord v počtu cifer čísla π je 63 biliónů. Ve středu však byl zveřejněn nový rekord výpočtu π, které bylo spočítáno na 100 biliónů cifer. Za výpočtem stojí  Emma Haruka Iwao z Google a k výpočtu byl použit Google Cloud se 128 virtuálními CPU a 864 GB RAM. Při výpočtu není až tak důležitá hrubá síla, jako spíše úložiště. K dispozici bylo 663 TB, z toho bylo použito 515 TB. Celkově bylo zapsáno 38,5 PB a přečteno 43,5 PB.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Forwarding Piracy Warnings Violates Privacy Law, Dutch Court Rules]]></title>
         <id>https://torrentfreak.com/?p=220049</id>
         <link href="https://torrentfreak.com/forwarding-piracy-warnings-violates-privacy-law-dutch-court-rules-220610/"/>
@@ -4390,16 +4400,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Přijďte na školení MikroTik od základů po velkou síť a odnesete si router]]></title>
-        <id>www.root.cz-actuality-39043</id>
-        <link href="https://www.root.cz/zpravicky/prijdte-na-skoleni-mikrotik-od-zakladu-po-velkou-sit-a-odnesete-si-router/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-10T07:25:24.000Z</updated>
-        <summary type="html"><![CDATA[Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
