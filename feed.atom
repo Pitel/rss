@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T06:14:57.227Z</id>
+    <id>urn:2022-06-24T08:14:46.527Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-24T06:14:57.227Z</updated>
+    <updated>2022-06-24T08:14:46.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Prometheus: moderní monitoringový nástroj a sběrač metrik (školení)]]></title>
+        <id>www.root.cz-actuality-43419</id>
+        <link href="https://www.root.cz/zpravicky/prometheus-moderni-monitoringovy-nastroj-a-sberac-metrik/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-06-24T07:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Prometheus je moderní monitoringový nástroj a metrics server. Umožňuje sbírat metrická data z vaší aplikace a většiny komponent vaší infrastruktury a nad těmito daty dělat grafy (v Grafaně) a vytvářet varování. Prometheus spadá pod CNCF, stejně jako Kubernetes. Pokud chcete podrobně sledovat stav infrastruktury a služeb, zúčastněte se našeho dvoudenního školení Prometheus.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opět navrhnuto -O3 pro jádro]]></title>
+        <id>www.root.cz-actuality-43764</id>
+        <link href="https://www.root.cz/zpravicky/opet-navrhnuto-o3-pro-jadro/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-06-24T07:11:26.000Z</updated>
+        <summary type="html"><![CDATA[Pokusů o zapnutí optimalizace kódu jádra kompilátorem pomocí přepínače -O3 bylo již hodně. V současnosti se jádro překládá s přepínačem -O2, jen pro exotickou architekturu ARC (Argonaut RISCS Core) je tu možnost zapnout -O3. Také Linus byl proti zapnutí -O3. Argumentuje se často horším a pomalejším kódem při použití GCC.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Trails: How Bungie Identified a Mass Sender of Fake DMCA Notices]]></title>
+        <id>https://torrentfreak.com/?p=220595</id>
+        <link href="https://torrentfreak.com/digital-trails-how-bungie-identified-a-mass-sender-of-fake-dmca-notices-220624/"/>
+        <updated>2022-06-24T06:55:05.000Z</updated>
+        <summary type="html"><![CDATA[In response to persons unknown sending large numbers of fake DMCA notices to YouTube while impersonating its anti-piracy partner, Bungie filed a lawsuit in the US seeking millions in damages. At the time the name of the 'Doe' defendant was unknown. This is how a Bungie investigation followed digital breadcrumbs to track down and identify that person by name and physical address. 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch Online's N64 Update Is Live (Version 2.4.0), Here's What's Included]]></title>
         <id>https://www.nintendolife.com/#article-133547</id>
@@ -605,7 +636,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.rockpapershotgun.com/the-blade-runner-games-new-remaster-looks-worse</id>
         <link href="https://www.rockpapershotgun.com/the-blade-runner-games-new-remaster-looks-worse"/>
         <updated>2022-06-23T17:11:21.000Z</updated>
-        <summary type="html"><![CDATA[There are three reasons to consider playing the new 'Enhanced Edition' of Blade Runner over the version which hit GOG in 2019: 1) it has subtitles; 2) it has controller support; 3) it's on consoles. Beyond that, Nightdive's remastering has made Westwood's 1997 adventure game look notably uglier and you'd be better off with GOG's ScummVM version. The Enhanced Edition is out today and I've been flicking back and forth between the two versions, tutting. The Enhanced Edition still looks like a 25-year-old game, only now it looks 25 years old, blurry, and unlike itself.
+        <summary type="html"><![CDATA[There are two reasons to consider playing the new 'Enhanced Edition' of Blade Runner over the version which hit GOG in 2019: 1) it has controller support; 2) it's on consoles. Beyond that, Nightdive's remastering has made Westwood's 1997 adventure game look notably uglier and you'd be better off with GOG's ScummVM version. The Enhanced Edition is out today and I've been flicking back and forth between the two versions, tutting. The Enhanced Edition still looks like a 25-year-old game, only now it looks 25 years old, blurry, and unlike itself.
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
@@ -3993,16 +4024,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Česko-slovenské setkání správců sítí CSNOG 2022 se blíží]]></title>
-        <id>www.root.cz-actuality-43741</id>
-        <link href="https://www.root.cz/zpravicky/cesko-slovenske-setkani-spravcu-siti-csnog-2022-se-blizi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-16T06:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Příští pondělí a úterý se v Brně uskuteční další komunitní setkání nejen českých a slovenských správců sítí – CSNOG 2022. V programu této dvoudenní akce, která nabídne i prostor pro jednání a sdílení osobních zkušeností, najdou zájemci příspěvky zástupců organizací CZ.NIC, NIX.CZ, Kernun, NS1, Global NOG Alliance, Qrator Labs, Silicon Hill ČVUT nebo ČTÚ či Free Moscow University. Kompletní program včetně registračního formuláře jsou k dispozici na webu setkání. Organizátory CSNOG 2022 jsou sdružení CESNET, CZ.NIC a NIX.CZ.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: anonymní)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pick up 16GB of Crucial DDR5-4800 RAM for under £90]]></title>
         <id>https://www.rockpapershotgun.com/pick-up-16gb-of-crucial-ddr5-4800-ram-for-under-90</id>
         <link href="https://www.rockpapershotgun.com/pick-up-16gb-of-crucial-ddr5-4800-ram-for-under-90"/>
@@ -4160,16 +4181,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Otevřený firmware Dasharo pro MSI Z690-A WiFi DDR4 je dokončen]]></title>
-        <id>www.root.cz-actuality-43738</id>
-        <link href="https://www.root.cz/zpravicky/otevreny-firmware-dasharo-pro-msi-z690-a-wifi-ddr4-je-dokoncen/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-15T10:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Existuje-li pro fanouška open-source důvod, proč koupit jednu jedinou konkrétní desku do svého PC, pak jde o MSI Z690-A WiFi DDR4. Deska, která pojme aktuální procesory Intel Alder Lake, je první mainstreamovou a běžně dostupnou deskou, která je schopna běžet s open-source firmwarem Dasharo od společnosti 3mdeb, který dospěl do verze 1.0.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4363,17 +4374,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Umíte vymyslet software, naprogramovat ho, zabalit do kontejneru a předat do produkce? Také vám říkali, že se open sourcem nedá uživit? Přijďte to zkusit u nás!]]></summary>
         <author>
             <name>Reklama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube and Facebook Are the Top ‘Pirate Sites’ in Denmark]]></title>
-        <id>https://torrentfreak.com/?p=220140</id>
-        <link href="https://torrentfreak.com/youtube-and-facebook-are-the-top-pirate-sites-in-denmark-220614/"/>
-        <updated>2022-06-14T08:58:18.000Z</updated>
-        <summary type="html"><![CDATA[There has been no shortage of anti-piracy initiatives in Denmark in recent years. Shutdowns, raids, arrests, and site-blocking orders have repeatedly made headlines. Against this backdrop, it's surprising to see that piracy has become more popular, with YouTube and Facebook now the top sources to access content illegally. Meanwhile, password sharing is a growing concern too. 
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
