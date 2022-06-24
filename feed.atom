@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-06-24T04:32:38.507Z</id>
+    <id>urn:2022-06-24T06:14:57.227Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-06-24T04:32:38.507Z</updated>
+    <updated>2022-06-24T06:14:57.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -102,8 +102,8 @@ Read more...]]></summary>
         <link href="https://www.nintendolife.com/news/2022/06/chris-pratt-on-voicing-mario-says-its-unlike-anything-youve-heard-in-the-mario-world"/>
         <updated>2022-06-24T00:05:00.000Z</updated>
         <summary type="html"><![CDATA[An "updated" voice.
+
 Last September, Nintendo announced Chris Pratt would voice Mario in his upcoming movie. Chris at the time mentioned how he had been "working hard" to perfect the voice of the character, but we're still yet to hear what it sounds like.
-Now, in a new exclusive with Variety, Pratt's spoken once again about voicing Mario - this time stating how he's "really proud" of the voice and that it's "unlike anything you've heard in the Mario world before".
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -4494,51 +4494,6 @@ Thank you very much for your support!
 >]]></summary>
         <author>
             <name>nospam@scummvm.org (The ScummVM Team)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Chipmunk | 2021.2.1 Patch 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-202121-patch-1.html</id>
-        <link href="https://androidstudio.googleblog.com/2022/05/android-studio-chipmunk-202121-patch-1.html"/>
-        <updated>2022-05-25T17:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Chipmunk | 2021.2.1 Patch 1 is now available in the Stable channel.
- If you already have an Android Studio build on the Stable channel, you can get the update by clicking Help > Check for Update (Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
- General fixes and features
- The following is list of general fixes in Android Studio Chipmunk Patch 1. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
- Android App Bundles
-  
-    
-Issue #230361284: bundletool does not package baseline profiles correctly
-  
-
-Dexer (D8)
-  
-    
-Issue #218298666: Art / Dalvik VMs prior to version 8 does not support the fix for JDK-8272564
-  
-
-IntelliJ
-  
-    
-Issue #225751091: File watcher failed to start on Ubuntu 20.04
-    
-Issue #206465485: MBP 15" 2018 Touch Bar menu is missed.
-  
-
-Run
-  
-    
-Issue #232134751: Devices option is not visible and unable to run the app even though app module is available.
-  
-
-Shrinker (R8)
-  
-    
-Issue #228791247: Why does R8 doesn't backport default interface methods but D8 does?
-    
-Issue #218400336: CIRCULAR REFERENCE: com.android.tools.r8.internal.R10: Unexpected type in conversion to primitive: OBJECT]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
