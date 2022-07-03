@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-03T10:12:26.967Z</id>
+    <id>urn:2022-07-03T12:19:21.130Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-03T10:12:26.967Z</updated>
+    <updated>2022-07-03T12:19:21.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[When Time Comes For GTK5, It Might Be Wayland-Only On Linux]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GTK5-Might-Drop-X11</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GTK5-Might-Drop-X11"/>
+        <updated>2022-07-03T10:48:10.000Z</updated>
+        <summary type="html"><![CDATA[While GTK4 is still in its early stages and it will presumably be some years before "GTK5" even begins to take shape, GNOME developers are already thinking of ditching X11 support for that next major GTK release -- effectively making it Wayland-only on Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Týden na ITBiz: Umělá inteligence prý narazí na meze matematických paradoxů]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-umela-inteligence-pry-narazi-na-meze-matematickych-paradoxu</id>
@@ -2608,16 +2618,6 @@ So, I sat down with the game's creative director Jonathan Jacques-Belletête in 
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking The Linux Kernel With An "-O3" Optimized Build]]></title>
-        <id>https://www.phoronix.com/vr.php?view=31250</id>
-        <link href="https://www.phoronix.com/vr.php?view=31250"/>
-        <updated>2022-06-29T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stemming from last weeks Linux kernel patches suggesting an -O3 experimental option for all CPU architectures and Linus Torvalds rather quickly shooting it down, here are some fresh benchmarks looking at the Linux kernel performance when the kernel image is rebuilt with the -O3 optimization level rather than -O2.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
