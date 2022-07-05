@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-05T06:14:57.048Z</id>
+    <id>urn:2022-07-05T08:17:32.360Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-05T06:14:57.048Z</updated>
+    <updated>2022-07-05T08:17:32.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GTK5 už jenom na Waylandu?]]></title>
+        <id>www.root.cz-actuality-43799</id>
+        <link href="https://www.root.cz/zpravicky/gtk5-uz-jenom-na-waylandu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-07-05T07:38:18.000Z</updated>
+        <summary type="html"><![CDATA[Matthias Clasen z Red Hatu založil v projektu GTK návrh zvážit, zdali by GTK5 nemělo přijít na svět už bez podpory X11. Komentuje to jednoduše: situace s X11 se nijak nelepší a Wayland je již široce podporován. Emmanuele Bassi v zásadě souvhlasí, X11 už nedostává žádnou novou funkcionalitu a framework GTK se již delší dobu architektonicky posouvá směrem k Waylandu, jeho API se tak běhu na X11 stále vzdaluje. Dodává také, že řeči jsou jedna věc, ale pokud kód [podpory X11] nikdo nenapíše, tak prostě nebude.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenShift a OKD: nejrozšířenější platforma pro hostování dockerových kontejnerů (školení)]]></title>
+        <id>www.root.cz-actuality-43522</id>
+        <link href="https://www.root.cz/zpravicky/openshift-a-okd-nejrozsirenejsi-platforma-pro-hostovani-dockerovych-kontejneru-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-07-05T07:12:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenShift jsou dnes nejrozšířenější platformou na hostování dockerových kontejnerů a jsou podporovány velkými hráči na trhu (Google, Amazon, Microsoft) skrz Cloud Native Computing Foundation. OpenShift pro provoz používají všechny velikosti firem, od startupu po korporace. OKD (dříve OpenShift Origin) je kompletní platforma pro správu a orchestraci.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shuntaro Furukawa Reveals What Nintendo Is Doing To Combat Info Leaks & Security Threats]]></title>
         <id>https://www.nintendolife.com/#article-133991</id>
@@ -3596,26 +3616,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFmpeg dostává akceleraci AV1 přes Nvidia VDPAU]]></title>
-        <id>www.root.cz-actuality-43775</id>
-        <link href="https://www.root.cz/zpravicky/ffmpeg-dostava-akceleraci-av1-pres-nvidia-vdpau/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-28T09:26:22.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia přispěla do projektu FFmpeg zprovoznění hardwarové akcelerace dekódování AV1 videa přes rozhraní VDPAU, což je věc dostupná na poslední generaci firemních karet GeForce RTX 3×xx „Ampere“. Podpora také vyžaduje knihovnu libvdpau 1.5 či vyšší.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 102 s Transform Streams a Geoclue na Linuxu]]></title>
-        <id>www.root.cz-actuality-43774</id>
-        <link href="https://www.root.cz/zpravicky/firefox-102-s-transform-streams-a-geoclue-na-linuxu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-06-28T09:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla vydala Firefox 102 přinášející pár novinek. Na Linuxu to je zejména použitelná geolokační služba Geoclue, obecně pak stodvojka podporuje Transform Streams.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
