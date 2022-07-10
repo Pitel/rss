@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-10T08:13:36.684Z</id>
+    <id>urn:2022-07-10T10:11:45.470Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-10T08:13:36.684Z</updated>
+    <updated>2022-07-10T10:11:45.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-645</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-645"/>
+        <updated>2022-07-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for accidentally rubbing your eyes after handling chilli. Before you cry, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux To Drop "nordrand" Option - Users Should Instead Switch To "random.trust_cpu"]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Drop-No-RdRand</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Drop-No-RdRand"/>
+        <updated>2022-07-10T09:55:06.000Z</updated>
+        <summary type="html"><![CDATA[The Linux kernel has long honored the "nordrand" kernel parameter to disable kernel use of the Intel RDRAND and RDSEED instructions if not trusting them -- either out of security concerns that they could be compromised by the vendor or running into hardware/firmware issues around RdRand usage. But the Linux kernel is preparing to drop that kernel parameter with users encouraged to use the more generic "random.trust_cpu" parameter...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WayVNC 0.5 VNC Server For wlroots-Based Wayland Compositors Released]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=WayVNC-0.5-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=WayVNC-0.5-Released"/>
+        <updated>2022-07-10T09:41:43.000Z</updated>
+        <summary type="html"><![CDATA[WayVNC 0.5 was released on Saturday as a feature update to this VNC server for Wayland compositors leveraging the WLROOTS library...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Libreboot 20220710 Released As Coreboot Downstream Focused On Boot Firmware Freedom]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Libreboot-20220710</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Libreboot-20220710"/>
+        <updated>2022-07-10T09:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Leah Rowe has announced the release of Libreboot 20220710, the downstream of Coreboot that takes a firm approach to ensure boot firmware freedom with avoiding proprietary blobs even when it means reduced hardware coverage/support. As such with avoiding the likes of the Intel FSP, the supported list of motherboards is quite limited...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Developers Already Making Great Strides On Plasma 5.26]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-9-July-2022</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-9-July-2022"/>
+        <updated>2022-07-10T09:13:02.000Z</updated>
+        <summary type="html"><![CDATA[KDE developer Nate Graham is out with his weekly recap of all the interesting KDE changes this week, which includes building up of more work targeting Plasma 5.26 this autumn as well as KDE application enhancements and more...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SD Gundam Battle Alliance Locks In August Release, Here's Another Look]]></title>
         <id>https://www.nintendolife.com/#article-132097</id>
@@ -2510,16 +2561,6 @@ Issue #236262744: Android lint permission check flakily crashing]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RADV Lands VK_EXT_shader_module_identifier, VKD3D-Proton Prepares Usage]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=VK_EXT_shader_module_ident</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=VK_EXT_shader_module_ident"/>
-        <updated>2022-07-06T18:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Last week's Vulkan 1.3.219 release introduced the VK_EXT_shader_module_identifier that was worked on in part by Valve. This ability for software to query an identifier associated with a Vulkan shader module is seeing quick driver adoption and is preparing for use within VKD3D-Proton as an efficiency improvement...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Matrix Awakens Will Be Delisted This Week]]></title>
         <id>118744</id>
         <link href="https://www.gameinformer.com/2022/07/06/the-matrix-awakens-will-be-delisted-this-week"/>
@@ -2778,16 +2819,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AlmaLinux 9, openSUSE Leap 15.4, Ubuntu 22.04, Debian 11.3 & Clear Linux Benchmarks]]></title>
-        <id>https://www.phoronix.com/vr.php?view=31269</id>
-        <link href="https://www.phoronix.com/vr.php?view=31269"/>
-        <updated>2022-07-06T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Given the recent releases of openSUSE Leap 15.4 and AlmaLinux 9.0, here are some fresh Linux server/workstation-oriented benchmarks on a dual Intel Xeon Platinum 8380 "Ice Lake" platform and running the fresh releases of various enterprise Linux choices.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[JiuShark’s tower-style SSD cooler looks silly, but heralds some toasty PCIe 5.0 drives]]></title>
         <id>https://www.rockpapershotgun.com/jiusharks-tower-style-ssd-cooler-looks-silly-but-heralds-some-toasty-pcie-50-drives</id>
         <link href="https://www.rockpapershotgun.com/jiusharks-tower-style-ssd-cooler-looks-silly-but-heralds-some-toasty-pcie-50-drives"/>
@@ -2814,26 +2845,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora May Finally Provide Official Support For The Raspberry Pi 4]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-37-Raspberry-Pi-4</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-37-Raspberry-Pi-4"/>
-        <updated>2022-07-06T09:54:52.000Z</updated>
-        <summary type="html"><![CDATA[For as popular as the Raspberry Pi 4 has been since its 2019 launch, Fedora hasn't officially supported this Arm single board computer with its Linux distribution. But now thanks to the upstream, open-source graphics acceleration finally coming together for the Raspberry Pi 4, with Fedora 37 they may end up finally providing "official" support for this popular, low-cost developer board...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Hiring For Another Open-Source GPU Driver Developer With Multimedia Expertise]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-2022-Multimedia-Hiring</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-2022-Multimedia-Hiring"/>
-        <updated>2022-07-06T09:45:00.000Z</updated>
-        <summary type="html"><![CDATA[It's great seeing AMD continuing to hire for more Linux/open-source driver developers. Beyond their many roles they are still working to fill on the CPU side of the house, they have a new job posting in hiring for their open-source GPU driver stack with a focus on multimedia efforts...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3849,20 +3860,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Rachel Watts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WH40K: Chaos Gate - Daemonhunters' devs are still "trying to perfect" their powerful Space Marines]]></title>
-        <id>https://www.rockpapershotgun.com/wh40k-chaos-gate-daemonhunters-devs-are-still-trying-to-perfect-their-powerful-space-marines</id>
-        <link href="https://www.rockpapershotgun.com/wh40k-chaos-gate-daemonhunters-devs-are-still-trying-to-perfect-their-powerful-space-marines"/>
-        <updated>2022-07-01T11:00:11.000Z</updated>
-        <summary type="html"><![CDATA[Adapting an established property in any medium has got to be a pretty tricky proposition. Satisfying the long term fans while keeping things approachable for newcomers on top of, well, making a good game. Add in the complexities of making a turn-based game based on an existing turn-based game and it’s surprising that developers don’t just collapse into gibbering, tentacle-waving Chaos Spawn.
-
-
-Complex Games, the developers of recent XCOM-like Warhammer 40,000: Chaos Gate – Daemonhunters not only managed to resist the mutating power of the Warp, but produced an absolute cracker of a game. Suspecting pacts with Dark Powers were behind it, I put on my big Inquisitorial hat and set off to question Noah Decter-Jackson, the game’s Creative Director.
-Read more]]></summary>
-        <author>
-            <name>Caelyn Ellis</name>
         </author>
     </entry>
     <entry>
