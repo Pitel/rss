@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-13T03:35:51.263Z</id>
+    <id>urn:2022-07-13T04:30:44.232Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-13T03:35:51.263Z</updated>
+    <updated>2022-07-13T04:30:44.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[XWayland 22.1.3 Released Due To XKB Security Vulnerabilities]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=XWayland-22.1.3-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=XWayland-22.1.3-Released"/>
+        <updated>2022-07-13T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Disclosed on Tuesday were two new X.Org Server security vulnerabilities concerning possible local privilege escalation and remote code execution. X.Org Server 21.1.4 was released with these mitigations to the XKB extension while XWayland is also vulnerable and has now been patched with XWayland 22.1.3...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random: Nintendo's Doug Bowser Praises "Super Fun" Skateboard Game OlliOlli World]]></title>
         <id>https://www.nintendolife.com/#article-134409</id>
         <link href="https://www.nintendolife.com/news/2022/07/random-nintendos-doug-bowser-praises-super-fun-skateboard-game-olliolli-world"/>
         <updated>2022-07-13T03:15:00.000Z</updated>
         <summary type="html"><![CDATA["Feels like an upgrade from my old skate days".
-We're used to hearing about the games Xbox's Phil Spencer is playing, but what's Nintendo of America's president Doug Bowser been enjoying recently?
-It seems he actually completed OlliOlli World not long ago - congratulating British developer Roll7 on creating a "super fun skateboarding x side scrolling platformer". If you've played this game, you'll know it's no easy feat getting across the line.
+We're used to hearing about the games Xbox's Phil Spencer is playing, but what's Nintendo of America's president Doug Bowser been enjoying recently? It seems he actually completed OlliOlli World not long ago - congratulating British developer Roll7 on creating a "super fun skateboarding x side scrolling platformer". If you've played this game, you'll know it's no easy feat.
+Roll7 responded to Doug, acknowledging how "rad" he was for playing the game through. It seems Doug has a bit of a soft spot for the skateboarding genre, as he was a bit of a skateboarding legend back in his younger years. Even the Birdman Tony Hawk would be impressed.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2394,16 +2404,6 @@ Pokémon Snap joined Switch Online last month, making today’s news a nice doub
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=MSI-Z690-A-Upstream-Coreboot"/>
         <updated>2022-07-08T17:30:14.000Z</updated>
         <summary type="html"><![CDATA[The past few months we have been closely covering the Coreboot port to an MSI retail motherboard for Intel Alder Lake. This port carried out by the 3mdeb consulting firm has been with their downstream "Dasharo" firmware based on Coreboot while as of yesterday the motherboard port has begun landing in upstream Coreboot...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu Achieves A ~50% Reduction In Start Time For Firefox Snap]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Firefox-Snap-50p-Reduction</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Firefox-Snap-50p-Reduction"/>
-        <updated>2022-07-08T16:32:27.000Z</updated>
-        <summary type="html"><![CDATA[Canonical engineers have been continuing their quest to improve the start-up time for the Snap version of Mozilla Firefox that is used by default on Ubuntu 22.04 LTS. With the latest improvements now pushed to the Firefox Snap, they are seeing around a 50% reduction in start-time for the web browser...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
