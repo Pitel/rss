@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-17T16:15:16.833Z</id>
+    <id>urn:2022-07-17T18:13:06.550Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-17T16:15:16.833Z</updated>
+    <updated>2022-07-17T18:13:06.550Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Current Retbleed Performance Costs With An AMD Ryzen 7 4800U]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Retbleed-Ryzen-7-4800U</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Retbleed-Ryzen-7-4800U"/>
+        <updated>2022-07-17T16:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Following some weekend benchmarks here are more complementary numbers on the Retbleed mitigation performance benchmark costs. These additional numbers are on a Zen 2 based AMD Ryzen 7 4800U APU that has been common both to laptops as well as embedded/low-profile devices for thin client computing, IoT / edge use-cases, and more...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA['Yu-Gi-Oh! Rush Duel: Dawn of the Battle Royale!! Let’s Go! Go Rush!!' Announced For Switch]]></title>
         <id>https://www.nintendolife.com/#article-134603</id>
@@ -2598,16 +2608,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kamiab Ghorbanpour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking The Linux 5.19 Kernel Built With "-O3 -march=native"]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.19-O3-March-Native</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.19-O3-March-Native"/>
-        <updated>2022-07-13T10:30:27.000Z</updated>
-        <summary type="html"><![CDATA[Following the upstream discussions over -O3'ing the Linux kernel last month I ran some fresh benchmarks of the Linux kernel built with -O2 versus -O3. After the -O3 optimized kernel build results weren't too impressive, a number of Phoronix readers were virtually shouting that "-O3 -march=native" is where it's at for fun and performance... To appease those even though in the past it hasn't proven worthwhile and upstream kernel developers are against it, here are those numbers...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
