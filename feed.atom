@@ -1,10 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-18T08:16:30.667Z</id>
+    <id>urn:2022-07-18T10:18:40.953Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-18T08:16:30.667Z</updated>
+    <updated>2022-07-18T10:18:40.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Laying Out Guidelines To Avoid Kernel Updates Breaking Firmware Compatibility]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-No-Firmware-Breakage</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-No-Firmware-Breakage"/>
+        <updated>2022-07-18T10:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Stemming from my article last week noting how Linux 5.19 Git broke Intel Alder Lake P graphics support due to requiring new firmware while not retaining backwards compatibility with the existing Intel GuC firmware, a solution is still being worked on prior to Linux 5.19 final whether it be a revert or the proposed patch working on GuC v69/70 firmware compatibility. Linux firmware guidelines are also being proposed to ensure kernel developers in the future don't try to break firmware support guarantees...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XFS Improvement For Linux 5.20 Enhances Scalability For Large Core Count Systems]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.20-XFS-Scalability</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.20-XFS-Scalability"/>
+        <updated>2022-07-18T09:45:49.000Z</updated>
+        <summary type="html"><![CDATA[One of several improvements being prepared for the XFS file-system with the upcoming Linux 5.20 cycle is focused on improving the CIL scalability for systems with many CPU cores...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More ASUS Motherboards Will Have Working Sensor Support With Linux 5.20]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.20-ASUS-EC-Sensors</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.20-ASUS-EC-Sensors"/>
+        <updated>2022-07-18T09:32:45.000Z</updated>
+        <summary type="html"><![CDATA[The ASUS-EC-Sensors driver that provides better and faster hardware sensor reading for ASUS motherboards on Linux and premiered earlier this year in Linux 5.18 is continuing to broaden its list of supported ASUS motherboards...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: Mario Kart 64 Nearly Had A 'No Item' Mode To Appeal To F-Zero Fans]]></title>
+        <id>https://www.nintendolife.com/#article-134618</id>
+        <link href="https://www.nintendolife.com/news/2022/07/random-mario-kart-64-nearly-had-a-no-item-mode-to-appeal-to-f-zero-fans"/>
+        <updated>2022-07-18T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Remember F-Zero?
+If you look at the Mario Kart franchise and the F-Zero franchise, it's pretty easy to determine which of the two has been more successful. On the one hand, Mario Kart has seen major releases all the way up to 2020 with Mario Kart Live: Home Circuit, and will see a whole bunch of DLC launched for Mario Kart 8 Deluxe all the way through to the end of 2023. Then on the flip side, F-Zero - oh, our poor dear F-Zero - hasn't seen a major release in nearly 20 ruddy years when F-Zero Climax launched in Japan in 2004 - so we didn't even get it in the west! Grumble...
+It seems strange, then, to imagine that Nintendo would think to implement a mode within Mario Kart to potentially help the game reach F-Zero fans. Well, that's what very nearly happened with Mario Kart 64 during development of the game in the mid '90s. According to director Hideki Konno, Mario Kart 64 actually once featured a 'no-item' mode that would allow players to focus on the act of driving and compete in "serious races". Eventually, however, the mode was dropped from the final game due to the fact that players demoing the title refrained from choosing the mode.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Longtime Intel Linux Engineer Joins Google]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ben-Widawsky-Leaves-Intel</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ben-Widawsky-Leaves-Intel"/>
+        <updated>2022-07-18T09:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Ben Widawsky who had been at Intel for the past seventeen years, most of which were spent improving their open-source Linux graphics driver as well as other Linux kernel contributions, has joined Google...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stalld 1.17 Brings LoongArch Support, Bug Fixes For Thread Stall Detection & Boosting]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Stalld-1.17-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Stalld-1.17-Released"/>
+        <updated>2022-07-18T09:03:40.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat released Stalld 1.17 this past week as the newest version of this open-source daemon used for thread stall detection and boosting on Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Charts: LEGO Star Wars: The Skywalker Saga Returns To The Top]]></title>
+        <id>https://www.nintendolife.com/#article-134617</id>
+        <link href="https://www.nintendolife.com/news/2022/07/uk-charts-lego-star-wars-the-skywalker-saga-returns-to-the-top"/>
+        <updated>2022-07-18T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[While Klonoa falls out of the top 20.
+The UK charts are in – and hopefully, many of you have been staying inside and playing video games! But there’s been a bit of a change up top again as one of 2022’s biggest sellers, LEGO Star Wars: The Skywalker Saga, has shot back up to number one. Seems like the impending heat means people just want to get cosy with something familiar!
+That means F1 22 has lost its grip on pole position after two weeks at the top, but it’s now comfortably in second. And racing seems to be the thing as chart favourite Mario Kart 8 Deluxe boosts into third.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bungie Sues Twitch-Streaming Destiny Cheater ‘MiffysWorld’ For Being Awful]]></title>
         <id>https://torrentfreak.com/?p=221567</id>
@@ -21,7 +97,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>1849188685</id>
         <link href="https://kotaku.com/fifa-23-ac-milan-body-camera-gopro-giroud-goal-ea-1849188685"/>
         <updated>2022-07-18T00:57:00.000Z</updated>
-        <summary type="html"><![CDATA[During a recent pre-season friendly between defending Italian champions AC Milan and German side (and GamesCom attendee favourites) FC Köln, the presenters tried something I don’t ever remember seeing on a football field before: they strapped cameras to some of the players so that anyone watching from home could get…
+        <summary type="html"><![CDATA[During a recent pre-season friendly between defending Italian champions AC Milan and German side (and GamesCom attendee favourites) FC Köln, the presenters tried something I don’t ever remember seeing on a football field before: they strapped cameras to some of the players, so that anyone watching from home could get…
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
@@ -32,7 +108,7 @@ Read more...]]></summary>
         <id>1849188645</id>
         <link href="https://kotaku.com/sims-4-sexual-orientation-gender-gay-straight-1849188645"/>
         <updated>2022-07-18T00:50:00.000Z</updated>
-        <summary type="html"><![CDATA[When the next Sims 4 expansion—High School Years—is released, it will be accompanied by an update to the base experience that will introduce a new feature for all players: a ‘Sexual Orientation’ toggle.
+        <summary type="html"><![CDATA[When the next Sims 4 expansion—High School Years—is released, it will be accompanied by an update to the base experience adding a new feature for all players: a ‘Sexual Orientation’ toggle.
 
 Read more...]]></summary>
         <author>
@@ -157,7 +233,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[Světový den emodži]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/svetovy-den-emodzi</id>
         <link href="http://www.abclinuxu.cz/zpravicky/svetovy-den-emodzi"/>
-        <updated>2022-07-17T14:05:05.000Z</updated>
+        <updated>2022-07-17T14:05:04.000Z</updated>
         <summary type="html"><![CDATA[Vše nejlepší k dnešnímu Světovému dni emodži.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -357,6 +433,19 @@ Warframe has long been one of the most successful free-to-play games out there, 
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: Where To Pre-Order Bayonetta 3 On Switch]]></title>
+        <id>https://www.nintendolife.com/#article-134436</id>
+        <link href="https://www.nintendolife.com/guides/where-to-pre-order-bayonetta-3-on-switch"/>
+        <updated>2022-07-16T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[And the special Trinity Masquerade Edition.
+After years and years of waiting, we finally have a release date for Bayonetta 3. The game launches exclusively on Nintendo Switch on 28th October 2022.
+Pre-orders for the game have already started to appear ahead of its upcoming launch, and we'll be keeping this page up to date with all the best offers and links to the game's special Trinity Masquerade Edition as and when retailers decide to drop them.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1312,19 +1401,6 @@ Elden Ring continues to move copies, and has now hit a new sales milestone. The
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pokémon Center Japan Is Selling A Very Big And Very Round Spheal]]></title>
-        <id>https://www.nintendolife.com/#article-134573</id>
-        <link href="https://www.nintendolife.com/news/2022/07/pokemon-center-japan-is-selling-a-very-big-and-very-round-spheal"/>
-        <updated>2022-07-15T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Sphealin' cute, might delete later.
-Everyone knows the best Pokémon are the spherical ones, and Pokémon Center Japan has finally seen the light, announcing a new "life size" Spheal plush.
-(For the record, Spheal is about 80cm tall. Or... wide. Because he is round. The plush is 80 × 98 × 100cm.)
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sega Genesis Mini 2 Arrives In North America This October]]></title>
         <id>118790</id>
         <link href="https://www.gameinformer.com/2022/07/15/sega-genesis-mini-2-arrives-in-north-america-this-october"/>
@@ -1400,19 +1476,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intellivision's Offices Are Now Empty And Available, If You Want Them]]></title>
-        <id>https://www.nintendolife.com/#article-134571</id>
-        <link href="https://www.nintendolife.com/news/2022/07/intellivisions-offices-are-now-empty-and-available-if-you-want-them"/>
-        <updated>2022-07-15T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[To let.
-
-The Southern Californian offices of Intellivision, the company behind the beleaguered Wii-style family-friendly Amiico console, are now standing empty and available to lease.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel informuje zákazníky o zvýšení cen kvůli inflaci, prý až o 20 %]]></title>
         <id>www.root.cz-actuality-43822</id>
         <link href="https://www.root.cz/zpravicky/intel-informuje-zakazniky-o-zvyseni-cen-kvuli-inflaci-pry-az-o-20/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1459,19 +1522,6 @@ Live A Live launches on Nintendo Switch July 22. You can download a demo from th
 The post Live A Live releases final trailer ahead of next week’s launch appeared first on Destructoid.]]></summary>
         <author>
             <name>Chris Moyse</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Rare Announces Limited Physical Version Of Aerial_Knight's Never Yield]]></title>
-        <id>https://www.nintendolife.com/#article-134522</id>
-        <link href="https://www.nintendolife.com/news/2022/07/super-rare-announces-limited-physical-version-of-aerialknights-never-yield"/>
-        <updated>2022-07-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Includes "Da Update".
-Super Rare Games continue to be one of the busiest physical game retailers on the planet, with today's announcement that they will be putting action-side-scrolling parkour game Aerial_Knight's Never Yield on a physical cartridge for the first time.
-The physical cartridge includes the game, the new levels, music, and modes available in "Da Update", a full-colour manual, interior artwork, a sticker, and trading cards.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2304,36 +2354,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FUTEX2 Begins Sorting Out NUMA Awareness]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=FUTEX2-NUMA-Awareness-RFC</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FUTEX2-NUMA-Awareness-RFC"/>
-        <updated>2022-07-14T08:56:34.000Z</updated>
-        <summary type="html"><![CDATA[Merged last year for Linux 5.16 was the FUTEX2 system call for improving the FUTEX interface on Linux and with the original motivation for those improvements to wait on multiple futexes so Wine/Proton can better match Microsoft Windows' behavior for a more optimal Linux gaming experience. Beyond the performance/efficiency benefit of FUTEX2, other improvements have also been talked about while we are now beginning to see action on one of them: NUMA awareness...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME Builder 43 Alpha Released After Being Ported To GTK 4]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-Builder-43-Alpha</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-Builder-43-Alpha"/>
-        <updated>2022-07-14T08:39:54.000Z</updated>
-        <summary type="html"><![CDATA[GNOME Builder as the desktop's integrated development environment (IDE) is the latest software project to be ported to the GTK 4 toolkit...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Initial Intel Meteor Lake Graphics Support Ready For Linux 5.20]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Meteor-Lake-i915-Linux-5.20</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Meteor-Lake-i915-Linux-5.20"/>
-        <updated>2022-07-14T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The last set of drm-intel-gt-next changes intended for Linux 5.20 have now been submitted for pulling into DRM-Next. This pull has some notable changes, including initial Meteor Lake graphics bring-up...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tři bezpečnostní chyby v UEFI ohrožují desítky modelů notebooků Lenovo]]></title>
         <id>www.root.cz-actuality-43820</id>
         <link href="https://www.root.cz/zpravicky/tri-bezpecnostni-chyby-v-uefi-ohrozuji-desitky-modelu-notebooku-lenovo/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2351,16 +2371,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Společnost Red Hat jmenovala Matta Hickse svým prezidentem a výkonným ředitelem. Hicks, který dříve působil jako výkonný viceprezident společnosti Red Hat pro produkty a technologie, vystřídá Paula Cormiera, který bude zastávat funkci předsedy představenstva společnosti Red Hat.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockchip RkVDEC Linux Driver Being Prepared For HEVC/H.265 Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RkVDEC-HEVC-Patches</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RkVDEC-HEVC-Patches"/>
-        <updated>2022-07-14T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The RkVDEC driver that is mainlined in the Linux kernel for supporting accelerated video decoding on select Rockchip SoCs has so far been focused on H.264 and VP9 video codec support. With a new patch series out on Wednesday, HEVC/H.265 acceleration is being ironed out...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2404,16 +2414,6 @@ When Sonic Team set out to create Sonic Frontiers, it wanted to give players mor
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarking The Linux Mitigated Performance For Retbleed: It's Painful]]></title>
-        <id>https://www.phoronix.com/scan.php?page=article&amp;item=retbleed-benchmark&amp;num=1</id>
-        <link href="https://www.phoronix.com/scan.php?page=article&amp;item=retbleed-benchmark&amp;num=1"/>
-        <updated>2022-07-13T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday Retbleed was made public as a new speculative execution attack exploiting return instructions. While the "good" news is Retbleed only impacts prior generations of AMD and Intel processors, the bad news is the mitigated performance impact on Linux is quite severe. Since yesterday I have been benchmarking the newly-merged Linux patches on various Intel and AMD processors affected by Retbleed. It's very bad if you are on an affected processor.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
