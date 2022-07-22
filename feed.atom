@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-22T04:39:06.201Z</id>
+    <id>urn:2022-07-22T06:16:10.943Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-22T04:39:06.201Z</updated>
+    <updated>2022-07-22T06:16:10.943Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Deno 1.24]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/deno-1.24</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/deno-1.24"/>
+        <updated>2022-07-22T00:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Deno (Wikipedie), běhové prostředí (runtime) pro JavaScript a TypeScript, bylo vydáno ve verzi 1.24. Přehled novinek v poznámkách k vydání.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russian Teams Won't Be In FIFA 23]]></title>
         <id>1849317507</id>
@@ -2009,16 +2019,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUADEC 2022]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/guadec-2022</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/guadec-2022"/>
-        <updated>2022-07-19T10:43:25.000Z</updated>
-        <summary type="html"><![CDATA[GUADEC 2022, tj. letošní konference vývojářů a uživatelů desktopového prostředí GNOME, proběhne od 20. do 25. července v Mexiku ve městě Guadalajara. Na programu je řada zajímavých přednášek. Dění kolem konference lze sledovat na Twitteru.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4093,50 +4093,6 @@ Lint
   
     
 Issue #233912817: Lint UnusedIds incorrectly fails when using ViewBinding as suggested by official docs]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Dolphin Beta 4 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-4-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2022/06/android-studio-dolphin-beta-4-now.html"/>
-        <updated>2022-06-22T18:01:00.002Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Dolphin | 2021.3.1 Beta 4 is now available in the Beta channel.
- If you already have an Android Studio build on the Beta channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
- For information on new features and changes in all preview builds of Android Studio Dolphin, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
- General fixes and features
- The following is list of general fixes in Android Studio Dolphin Beta 4. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
- ART
-  
-    
-Issue #231903117: [R8 3.3.40] dex2oat speed-profile invocation appears to hang on Android 8 device
-  
-
-Android Gradle Plugin
-  
-    
-Issue #234865137: Lint crashing in Kotlin 1.7.0-RC2 build
-  
-
-Import/Sync
-  
-    
-Issue #234353685: Build problem with multiple product flavours in new version
-  
-
-Logcat
-  
-    
-Issue #234989652: 2GB used by 9000 DeviceImpl held by AndroidLogcatService
-  
-
-Updater
-  
-    
-Issue #234613774: IncompatibleClassChangeError with R8 - 3.3.28 (Android API < 25)
-    
-Issue #232379893: Gradle 7.2.0 causing APK build error com.android.tools.r8.CompilationFailedException]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
