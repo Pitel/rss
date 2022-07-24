@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-24T10:12:31.955Z</id>
+    <id>urn:2022-07-24T12:20:15.862Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-24T10:12:31.955Z</updated>
+    <updated>2022-07-24T12:20:15.862Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Fedora Linux Rawhide Kernel Is Becoming Too Slow With Its Many Debug Options]]></title>
+        <id>https://www.phoronix.com/news/Fedora-Rawhide-Debug-Too-Slow</id>
+        <link href="https://www.phoronix.com/news/Fedora-Rawhide-Debug-Too-Slow"/>
+        <updated>2022-07-24T10:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Fedora is one of the Linux distributions that ships with a plethora of debug options during its "Rawhide" development phase to ease in diagnosing issues that turn up during testing rather than building everything in a release mode during the development cycle. While these debug options are good for debugging, the performance impact continues adding up and reaching a point that the Fedora Rawhide debug kernel is too slow for some tasks...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19-rc8 Still Getting Bandaged From Retbleed Mitigation Fallout]]></title>
+        <id>https://www.phoronix.com/news/Linux-5.19-More-Retbleed-Fixes</id>
+        <link href="https://www.phoronix.com/news/Linux-5.19-More-Retbleed-Fixes"/>
+        <updated>2022-07-24T10:43:46.000Z</updated>
+        <summary type="html"><![CDATA[While normally big CPU security mitigation work done behind closed-doors is in good shape for the vulnerability embargo date, Retbleed has been an exception. Nearly two weeks since Retbleed was made public, the Linux kernel patches around it continue with more now sent in today ahead of Linux 5.19-rc8 to address fallout from the mitigation handling...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel GSC Support Continues To Get Squared Away For DG2/Alchemist]]></title>
+        <id>https://www.phoronix.com/news/Intel-GSC-Arc-Alchemist-v6</id>
+        <link href="https://www.phoronix.com/news/Intel-GSC-Arc-Alchemist-v6"/>
+        <updated>2022-07-24T10:25:42.000Z</updated>
+        <summary type="html"><![CDATA[While much of Intel's Arc Graphics DG2/Alchemist enablement appears to be in decent shape for Linux 5.20 with the small BAR support expected to land, the compute support being exposed to user-space in 5.19, etc, one of the few remaining pieces is the GSC support. The Intel GSC is their new Graphics System Controller found with their discrete GPU and used for security-related operations...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-647</id>
@@ -2257,16 +2287,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IO_uring Zerocopy Send Is Ready For Linux 5.20 Networking]]></title>
-        <id>https://www.phoronix.com/news/Linux-5.20-IO_uring-ZC-Send</id>
-        <link href="https://www.phoronix.com/news/Linux-5.20-IO_uring-ZC-Send"/>
-        <updated>2022-07-20T09:52:14.000Z</updated>
-        <summary type="html"><![CDATA[The long in development work around IO_uring zero-copy send for the Linux kernel's networking subsystem is now ready for mainline...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dead Cells team say the game isn’t dead yet and set out roadmap for 2022]]></title>
         <id>https://www.rockpapershotgun.com/dead-cells-team-say-the-game-isnt-dead-yet-and-set-out-roadmap-for-2022</id>
         <link href="https://www.rockpapershotgun.com/dead-cells-team-say-the-game-isnt-dead-yet-and-set-out-roadmap-for-2022"/>
@@ -2277,26 +2297,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME 43 Alpha Released With Browser Improvements, More GTK 4 Porting]]></title>
-        <id>https://www.phoronix.com/news/GNOME-43-Alpha</id>
-        <link href="https://www.phoronix.com/news/GNOME-43-Alpha"/>
-        <updated>2022-07-20T09:39:23.000Z</updated>
-        <summary type="html"><![CDATA[Released this morning was the alpha of the GNOME 43 desktop...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lavapipe Vulkan Software Implementation Now Compliant With Vulkan 1.3]]></title>
-        <id>https://www.phoronix.com/news/Lavapipe-Vulkan-1.3-Official</id>
-        <link href="https://www.phoronix.com/news/Lavapipe-Vulkan-1.3-Official"/>
-        <updated>2022-07-20T09:17:04.000Z</updated>
-        <summary type="html"><![CDATA[The Mesa Lavapipe driver that provides a CPU-based Vulkan implementation is now officially compliant with the Vulkan 1.3 specification...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
