@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-26T08:15:02.751Z</id>
+    <id>urn:2022-07-26T10:13:12.576Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-26T08:15:02.751Z</updated>
+    <updated>2022-07-26T10:13:12.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.20 To Enable THP SWAP On 64-bit Arm For Better Swapping Performance]]></title>
+        <id>https://www.phoronix.com/news/Linux-5.20-THP-SWAP-ARM64</id>
+        <link href="https://www.phoronix.com/news/Linux-5.20-THP-SWAP-ARM64"/>
+        <updated>2022-07-26T10:04:10.000Z</updated>
+        <summary type="html"><![CDATA[The "THP_SWAP" option for the Linux kernel allows swapping transparent huge-pages in one piece without splitting. With Linux 5.20 the 64-bit Arm kernel (ARM64 / AArch64) will now support this option as a performance optimization...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(Update) Ubisoft’s Roller Champions to wind down months into launch]]></title>
+        <id>https://www.destructoid.com/?p=336244</id>
+        <link href="https://www.destructoid.com/roller-champions-shut-down-rumor-jeff-grubb-ubisoft/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roller-champions-shut-down-rumor-jeff-grubb-ubisoft"/>
+        <updated>2022-07-26T09:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Have the wheels fallen off?
+[Update: In a new statement, Ubisoft has denied that Roller Champions is getting "canceled" after the current season ends. It did, however, note that it is currently planning on extending the current season "Disco Fever", indefinitely as it works on a litany of issues, implements cross-invites, and puts together a major update to address all player concerns. You can read the full statement in the tweet below.]
+https://twitter.com/RollerChampions/status/1551627079267110912?s=20&t=hS60y3z6IuIqRYsnsJRS3w
+According to rumors circulating the information superhighway, Ubisoft's futuristic multiplayer release Roller Champions is already getting set to hit the bricks, mere months after its arrival. The free-to-play title, which launched in beta in summer 2021, only rece…]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latte Dock Development Officially Ends As Popular KDE Desktop Dock]]></title>
+        <id>https://www.phoronix.com/news/Latte-Dock-Ends</id>
+        <link href="https://www.phoronix.com/news/Latte-Dock-Ends"/>
+        <updated>2022-07-26T09:48:49.000Z</updated>
+        <summary type="html"><![CDATA[For the past several years Latte Dock has been a popular macOS-like "dock" for the KDE Plasma desktop but development has now ceased...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Releases OSPRay Studio 0.11.1 For Ray-Traced, Interactive Visualizations]]></title>
+        <id>https://www.phoronix.com/news/OSPRay-Studio-0.11.1</id>
+        <link href="https://www.phoronix.com/news/OSPRay-Studio-0.11.1"/>
+        <updated>2022-07-26T09:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2020 Intel announced OSPRay Studio as an interactive, ray-traced visualizer that was added to their oneAPI software suite and powered by their OSPRay engine. Released on Monday was the latest update to this open-source program...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora nebude obsahovat kód pod licencí CC0]]></title>
+        <id>www.root.cz-actuality-43846</id>
+        <link href="https://www.root.cz/zpravicky/fedora-nebude-obsahovat-kod-pod-licenci-cc0/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-07-26T09:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Fedora informuje o změně přístupu k velmi otevřené licenci CC0. Do budoucna Fedora nebude moci obsahovat ve svém kódu cokoli licencované pod licencí Creative Commons Zero, zkráceně CC0.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Firmware Engineers Make An Important Power Improvement For Sapphire Rapids]]></title>
+        <id>https://www.phoronix.com/news/Sapphire-Rapids-C1-C1E-Fix</id>
+        <link href="https://www.phoronix.com/news/Sapphire-Rapids-C1-C1E-Fix"/>
+        <updated>2022-07-26T09:20:47.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year I wrote about the Intel Idle driver support being prepared for Xeon "Sapphire Rapids" CPUs but a limitation with these forthcoming Xeon Scalable processors was that C1 and C1E c-states handling are now mutually exclusive. Unlike earlier Xeon processors, C1 and C1E states couldn't be enabled at the same time. Fortunately, via new Intel firmware they have managed to overcome this limitation...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EuroBSDCon bude ve Vídni od 15. do 18. září]]></title>
+        <id>www.root.cz-actuality-43845</id>
+        <link href="https://www.root.cz/zpravicky/eurobsdcon-bude-ve-vidni-od-15-do-18-zari/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-07-26T08:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Putovní konference EuroBSDCon se bude tento rok konat ve Vídni ve dnech 15. – 18. září. Program konference je jako vždy nabitý a rozdělený do třech přednáškových řad. Před konferencí ve čtvrtek a pátek se konají workshopy. Oba dny tradičně vede tutoriál Marshall Kirk McKusick o vnitřnostech FreeBSD. Zbylé jednodenní tutoriály jsou o FreeBSD Jails, správě sítě s OpenBSD a Ansiblu (nejspíš se zaměřením na FreeBSD).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: kaliszad)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla napsala otevřený dopis Kongresu USA, vyšel v The Washington Post]]></title>
         <id>www.root.cz-actuality-43844</id>
@@ -742,18 +815,6 @@ The post A Stray mod that lets you play as Garfield? I’m in appeared first on 
         <summary type="html"><![CDATA[Čínská firma Shenzhen SINOVOIP Co., Ltd. vydává nový jednodeskový počítač vhodný například na router Banana Pi BPI-W3. Počítač je založen na RockChip RK3588 (4× Cortex-A55 1,8 GHz, 4× Cortex-A75 2,4 GHz, GPU Mali-G610 MP4 a 6 TOPS NPU).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rumor: Ubisoft’s Roller Champions to wind down scant months into launch]]></title>
-        <id>https://www.destructoid.com/?p=336244</id>
-        <link href="https://www.destructoid.com/roller-champions-shut-down-rumor-jeff-grubb-ubisoft/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roller-champions-shut-down-rumor-jeff-grubb-ubisoft"/>
-        <updated>2022-07-25T14:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Have the wheels fallen off?
-According to rumors circulating the information superhighway, Ubisoft's futuristic multiplayer release Roller Champions is already getting set to hit the bricks, mere months after its arrival. The free-to-play title, which launched in beta in summer 2021, only received its official launch in May of this year.
-The rumor comes from industry pundit and noted spoiler Jeff Grubb on the XboxEra podcast. Speaking for one of his many sources, Grubb suggests that Ubisoft is getting set to pull the plug on Roller Champions once it reaches its third season. While Ubisoft recently noted in a financial call that the title was coasting pretty well, developer Ubisoft Montreal has been very quiet in regards to updates, while the player count on Steam dwindles in double figures.…]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -2020,16 +2081,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel's Open-Source Vulkan Driver For Ray-Tracing Gets "Like A 100x Improvement"]]></title>
-        <id>https://www.phoronix.com/news/Intel-Vulkan-RT-100x-Improve</id>
-        <link href="https://www.phoronix.com/news/Intel-Vulkan-RT-100x-Improve"/>
-        <updated>2022-07-21T23:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Linux graphics driver developers continue to be very busy polishing the DG2/Alchemist graphics card support for forthcoming Intel Arc Graphics hardware... Merged today to the open-source Intel Mesa Vulkan driver was a ray-tracing focused fix that yields "like a 100x (not joking) improvement." Even more of a kicker? The change is one line of code for the massive improvement...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vampire Survivors patch 0.9.0 adds new boss rush mode]]></title>
         <id>https://www.rockpapershotgun.com/vampire-survivors-patch-090-adds-new-boss-rush-mode</id>
         <link href="https://www.rockpapershotgun.com/vampire-survivors-patch-090-adds-new-boss-rush-mode"/>
@@ -2155,16 +2206,6 @@ In creating a game about a road trip, you could say Gone Home developer Fullbrig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Qualcomm Working On Vulkan Image Processing With New v1.3.222 Extensions]]></title>
-        <id>https://www.phoronix.com/news/Vulkan-1.3.222-Released</id>
-        <link href="https://www.phoronix.com/news/Vulkan-1.3.222-Released"/>
-        <updated>2022-07-21T18:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Released today was Vulkan 1.3.222 as the newest Vulkan spec with various clarifications/corrections plus two new extensions coming out of Qualcomm...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Destiny 2 Showcase Airs Next Month]]></title>
         <id>118819</id>
         <link href="https://www.gameinformer.com/2022/07/21/destiny-2-showcase-airs-next-month"/>
@@ -2222,16 +2263,6 @@ Purchase]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feral Releases GameMode 1.7]]></title>
-        <id>https://www.phoronix.com/news/Feral-GameMode-1.7</id>
-        <link href="https://www.phoronix.com/news/Feral-GameMode-1.7"/>
-        <updated>2022-07-21T16:20:07.000Z</updated>
-        <summary type="html"><![CDATA[The Linux game porters at Feral Interactive have released GameMode 1.7 as the newest version of their daemon that can ensure your CPU frequency scaling governor is set to "performance" mode, among other system performance optimizations, automatically when launching games...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2361,16 +2392,6 @@ Boisterous business discussions and the clanking of silverware ring out from the
 After a sho…]]></summary>
         <author>
             <name>Andrew Reiner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 7 PRO 6850U "Rembrandt" Linux Benchmarks]]></title>
-        <id>https://www.phoronix.com/review/amd-ryzen7-6850u</id>
-        <link href="https://www.phoronix.com/review/amd-ryzen7-6850u"/>
-        <updated>2022-07-21T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I've begun testing the AMD Ryzen 7 PRO 6850U "Rembrandt" SoC under Linux and have some preliminary benchmarks of this Zen 3+ chip up against a variety of Intel and AMD notebooks on hand. Here is the first of several articles looking at the AMD Ryzen 7 PRO 6850U Linux performance using a Lenovo ThinkPad X13 Gen3.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3608,26 +3629,6 @@ Let’s rock, baby! Season 6 of Video Gameography gets stylish as we examine the
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google uvolnil Chrome OS Flex, ze staršího počítače udělá Chromebook]]></title>
-        <id>www.root.cz-actuality-43825</id>
-        <link href="https://www.root.cz/zpravicky/google-uvolnil-chrome-os-flex-ze-starsiho-pocitace-udela-chromebook/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-07-16T11:40:42.000Z</updated>
-        <summary type="html"><![CDATA[O Chromeboocích jsme na Rootu mnohokrát psali, jedná se o velmi jednoduše použitelné počítače, které nabízejí uživatelům především práci na webu. Použitý operační systém Chrome OS je nenáročný na správu a běžným uživatelům nabízí jednoduché prostředí webového prohlížeče. Abyste mohli používat Chrome OS, musíte si ale koupit specializované zařízení, na kterém je předinstalován.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slax má testovací verzi postavenou opět na Slackware]]></title>
-        <id>www.root.cz-actuality-43824</id>
-        <link href="https://www.root.cz/zpravicky/slax-ma-testovaci-verzi-postavenou-opet-na-slackware/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-07-16T11:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Živá distribuce Slax bývala tradičně postavená na Slackware, proto také ta podobnost názvů. V roce 2016 ale Tomáš Matějíček udělal velkou anketu mezi uživateli a zjistil, že jim na použité distribuci tolik nezáleží, stejně jako není podstatné použité desktopové prostředí. Proto Slax od roku 2017 vychází se základem postaveným na Debianu a s prostředím Fluxbox.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
