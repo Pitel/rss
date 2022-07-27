@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-27T04:46:36.786Z</id>
+    <id>urn:2022-07-27T06:15:11.548Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-27T04:46:36.786Z</updated>
+    <updated>2022-07-27T06:15:11.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Záplatování RETBLEED na 32bitovém Linuxu: zapomeňte, nedává příliš smysl]]></title>
+        <id>www.root.cz-actuality-43849</id>
+        <link href="https://www.root.cz/zpravicky/zaplatovani-retbleed-na-32bitovem-linuxu-zapomente-nedava-prilis-smysl/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-07-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zatímco v rámci 64bitového Linuxu už se RETBLEED dávno řeší, o 32bitové variantě jádra to říci nelze a může se klidně stát, že ani nikdy záplatováno nebude. Přišlo se na to jednoduše, neb v Linaro provozují ještě některé 32bitové stroje s Debianem a ty jsou proti RETBLEED o po posledních patchích stále nechráněny.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Our Favorite Cosplay From Anime Expo 2022]]></title>
         <id>1849336093</id>
@@ -26,6 +36,16 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20 let Valgrindu]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/-20-let-valgrindu</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/-20-let-valgrindu"/>
+        <updated>2022-07-27T01:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Nicholas Nethercote se na svém blogu věnuje 20 letům Valgrindu. Valgrind (Wikipedie) je sada nástrojů pro debugování a profilování programů. Verze 1.0.0 byla vydána 27. července 2002.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2229,16 +2249,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nokia 5110 Communicator]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/nokia-5110-communicator</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/nokia-5110-communicator"/>
-        <updated>2022-07-22T15:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Představen byl Nokia 5110 Communicator.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bicycle commuting in PUBG is fun, silly, and sometimes even smart]]></title>
         <id>https://www.rockpapershotgun.com/tour-de-jeux-pubg-bicycle-commuting-is-fun-silly-and-sometimes-even-smart</id>
         <link href="https://www.rockpapershotgun.com/tour-de-jeux-pubg-bicycle-commuting-is-fun-silly-and-sometimes-even-smart"/>
@@ -3626,16 +3636,6 @@ After being separated from their furry friends, the unnamed cat (we'll call "Str
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook začal šifrovat sledovací odkazy jako reakci na ochrany prohlížečů]]></title>
-        <id>www.root.cz-actuality-43827</id>
-        <link href="https://www.root.cz/zpravicky/facebook-zacal-sifrovat-sledovaci-odkazy-jako-reakci-na-ochrany-prohlizecu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-07-18T15:55:19.000Z</updated>
-        <summary type="html"><![CDATA[Prohlížeče se snaží chránit uživatele před sledováním ze strany nejrůznějších služeb. Firefox například začal nedávno odstraňovat sledovací kódy, mimo jiné i fbclid, který používá Facebook. Tedy používal, protože sociální síť začala používat nové schéma pro odkazy, kterým přímo bojuje proti snahám prohlížečů části odkazů odstraňovat.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[At long last, RPS premium supporters can now claim their next free game key]]></title>
         <id>https://www.rockpapershotgun.com/at-long-last-rps-premium-supporters-can-now-claim-their-next-free-game-key</id>
         <link href="https://www.rockpapershotgun.com/at-long-last-rps-premium-supporters-can-now-claim-their-next-free-game-key"/>
@@ -4066,34 +4066,6 @@ Testing
 
 
 Issue #235570662: Fix Unit tests execution fr directories in EE]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Electric Eel Canary 6 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-6.html</id>
-        <link href="https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-6.html"/>
-        <updated>2022-06-27T16:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Electric Eel | 2022.1.1 Canary 6 is now available in the Canary and Dev channels.
- If you already have an Android Studio build on the Canary or Dev channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
- For information on new features and changes in all preview builds of Android Studio Electric Eel, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
- General fixes and features
- The following is list of general fixes in Android Studio Electric Eel Canary 6. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
- Android Gradle Plugin
-  
-    
-Issue #233511980: Wrong file name in output file for transforming SingleArtifact.AAR
-    
-Issue #234820480: JdkImageInput should be less sensitive to inconsequential changes
-    
-Issue #179285976: Dynamic feature conflicts with `android.uniquePackageNames`
-  
-
-Lint
-  
-    
-Issue #233912817: Lint UnusedIds incorrectly fails when using ViewBinding as suggested by official docs]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
