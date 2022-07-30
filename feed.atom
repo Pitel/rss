@@ -1,16 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-30T06:13:56.166Z</id>
+    <id>urn:2022-07-30T08:14:35.591Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-30T06:13:56.166Z</updated>
+    <updated>2022-07-30T08:14:35.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
+        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-201</id>
+        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-201"/>
+        <updated>2022-07-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[To have an extremely timely conversation: how do you feel about this year's games so far? And how do you feel about this question in the first place? I've had a cracking gaming year, and I thinnnk that's down to lots of new games? Maybe? This type of question has always brushed over the fact that people play games for years and start 'old' games all the time, and maybe it's less useful than ever now every other game is a live service. But I've had a good gaming year, and that's what matters. So what are you playing this weekend? Here's what we're clicking on!
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There It Is: Analogue Pocket Just Got Its Long-Awaited Jailbreak]]></title>
         <id>1849351231</id>
         <link href="https://kotaku.com/analogue-pocket-jailbreak-game-boy-advance-nintendo-1849351231"/>
         <updated>2022-07-30T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Analogue Pocket’s always turned heads: first for being the most authentic-seeming Game Boy replacement ever announced, then for taking an extraordinary length of time to finally come out. But come out it did, and it was pretty good. For some, its biggest drawback was that it required old, increasingly expensive…
+        <summary type="html"><![CDATA[Analogue Co.’s Pocket has always turned heads: first for being the most authentic-seeming Game Boy replacement ever announced, then for taking an extraordinary length of time to finally come out. But come out it did, and it was pretty good. For some, its biggest drawback was that it required old, increasingly…
 Read more...]]></summary>
         <author>
             <name>Alexandra Hall</name>
@@ -700,7 +711,7 @@ Speaking in a conversation on the Destiny Reddit, community manager Dylan "dmg04
         <title type="html"><![CDATA[Fedora Hatch 2022]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/fedora-hatch-2022</id>
         <link href="http://www.abclinuxu.cz/zpravicky/fedora-hatch-2022"/>
-        <updated>2022-07-29T10:44:43.000Z</updated>
+        <updated>2022-07-29T10:44:42.000Z</updated>
         <summary type="html"><![CDATA[Fedora Hatch 2022 se uskuteční 11. srpna v prostorách Red Hat Brno. Přijďte se podívat na přednášky věnované Fedoře a seznámit se s dalšími nadšenci v rámci social eventu po hlavní části programu. Vstup po registraci zdarma.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -3886,17 +3897,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's better: demos or gibs?]]></title>
-        <id>https://www.rockpapershotgun.com/whats-better-demos-or-gibs</id>
-        <link href="https://www.rockpapershotgun.com/whats-better-demos-or-gibs"/>
-        <updated>2022-07-20T18:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Last time, you decided that bullet time is better than sex cutscenes. I was alarmed by how close this result was. We continue with another question of bits, picking playing bits of a game or seeing bits of a body. What's better: demos or gibs?
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[After MPA Chopped Off PrimeWire’s Head, HydraWire.tv Grew Back]]></title>
         <id>https://torrentfreak.com/?p=221747</id>
         <link href="https://torrentfreak.com/after-mpa-chopped-off-primewires-head-hydrawire-tv-grew-back-220720/"/>
@@ -4041,44 +4041,6 @@ Issue #183650753: Warning on too low buildToolsVersion isn't accurate\
 Lint
 
 Issue #236262744: Android lint permission check flakily crashing]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Electric Eel Canary 7 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-7.html</id>
-        <link href="https://androidstudio.googleblog.com/2022/06/android-studio-electric-eel-canary-7.html"/>
-        <updated>2022-06-30T19:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Electric Eel | 2022.1.1 Canary 7 is now available in the Canary and Dev channels.
-If you already have an Android Studio build on the Canary or Dev channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Electric Eel, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
-General fixes and features
-The following is list of general fixes in Android Studio Electric Eel Canary 7. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
-Android Gradle Plugin
-
-Issue #233102273: No ability to add "STORED" zip entries to apk after AGP introduced zipflinger in 4.1.0
-
-Compose
-
-
-Issue #236141674: Compose Previews in app modules fail to find resources in multi-module projects
-
-
-
-Lint
-
-Issue #233355652: Lint crashes on empty kt files
-
-Resources
-
-
-Issue #236727034: EEL Canary 5 - custom views unable to instantiate and display in xml editor
-
-Testing
-
-
-Issue #235570662: Fix Unit tests execution fr directories in EE]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
