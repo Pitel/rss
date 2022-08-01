@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-07-31T22:11:00.225Z</id>
+    <id>urn:2022-08-01T01:13:34.867Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-07-31T22:11:00.225Z</updated>
+    <updated>2022-08-01T01:13:34.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.19]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/linux-5.19</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/linux-5.19"/>
+        <updated>2022-07-31T22:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Po 10 týdnech vývoje od vydání Linuxu 5.18 oznámil Linus Torvalds vydání Linuxu 5.19 (LKML). Díky týmu Asahi tentokrát na MacBooku. Přehled nových vlastností a vylepšení na stránce Linux Kernel Newbies. Příští verze pravděpodobně nebude 5.20 ale už 6.0.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: Akamai proti DDoS útokům]]></title>
         <id>www.root.cz-text-16160</id>
@@ -1778,16 +1788,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Workstation vs Silverblue: zabrané místo na disku]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/workstation-vs-silverblue-zabrane-misto-na-disku</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/workstation-vs-silverblue-zabrane-misto-na-disku"/>
-        <updated>2022-07-28T20:43:31.000Z</updated>
-        <summary type="html"><![CDATA[Často se neměnným systémům s kontejnerizovanými aplikacemi vyčítá, že jsou náročnější na množství místa na disku. Jorge Castro se rozhodl udělat srovnání Fedora Workstation a Fedora Silverblue, aby si ověřil, jestli to je pravda a jak velký problém to představuje. Když oba systémy nainstaloval, varianta Workstation zabírala 3 GB, Silverblue 6,8 GB. To je docela podstatný rozdí, ale jak Jorge poznamenává, nikdo nepoužívá systém ve výchozí instalaci. Rozhodl se tedy nainstalovat 10 populárních aplikací (LibreOffice, OBS, Steam, Blender, Thunderbird, Krita, Kdenlive, VLC, GIMP, Discord). Do Workstation instaloval aplikace v RPM balíčcích, do Silverblue ve Flatpaku. Po jejich instalaci byl rozdíl mezi Workstation a Silverblue podstatně menší: 7,1 vs 8,3 GB.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Warhammer 40k: Darktide has been delayed again until November]]></title>
         <id>https://www.rockpapershotgun.com/warhammer-40k-darktide-has-been-delayed-again-until-november</id>
         <link href="https://www.rockpapershotgun.com/warhammer-40k-darktide-has-been-delayed-again-until-november"/>
@@ -3527,7 +3527,7 @@ Read more]]></summary>
         <id>www.root.cz-text-16149</id>
         <link href="https://www.root.cz/clanky/webovy-instalator-opensuse-nova-verze-apache-openoffice-4-1-13/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-07-23T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vydáno GNOME 43.alpha, KDE s metadaty u PNG a GPS souřadnicemi, FFmpeg 5.1 s JPEG XL a vylepšeními pro AV1 / AVIF, webový instalátor openSUSE D-Installer 0.4, blížeji začlenění do Tumbleweedu.]]></summary>
+        <summary type="html"><![CDATA[Vydáno GNOME 43.alpha, KDE s metadaty u PNG a GPS souřadnicemi, FFmpeg 5.1 s JPEG XL a vylepšeními pro AV1 / AVIF, webový instalátor openSUSE D-Installer 0.4, blíže začlenění do Tumbleweedu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
