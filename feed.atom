@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-02T06:15:00.951Z</id>
+    <id>urn:2022-08-02T08:15:34.934Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-02T06:15:00.951Z</updated>
+    <updated>2022-08-02T08:15:34.934Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Steam ukazuje víc než 1% podíl Linuxu, Radeonů už je víc než Intel GPU]]></title>
+        <id>www.root.cz-actuality-43864</id>
+        <link href="https://www.root.cz/zpravicky/steam-ukazuje-vic-nez-1-podil-linuxu-radeonu-uz-je-vic-nez-intel-gpu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-02T07:39:28.000Z</updated>
+        <summary type="html"><![CDATA[Podíl Linuxu na platformě Steam, kterou lze považovat za velmi vypovídající o rozložení výrobců CPU a GPU v počítačích hráčů, stále kolísá kolem 1 %, přičemž nyní dosahuje 1,23 %. To není až tak podstatné, zajímavější ač nepřekvapivý je rostoucí podíl CPU i GPU AMD.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 To Disable Printing On Consoles With Real-Time Kernels]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-RT-Skip-Console-Print</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-RT-Skip-Console-Print"/>
+        <updated>2022-08-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of getting PREEMPT_RT support ready to be mainlined at long last for real-time kernel builds, a number of Linux 6.0 (nee 5.20) pull requests have revolved around additional RT preparatory changes. With the printk changes for Linux 6.0, the console drivers will now be skipped in RT mode...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random: Pixel Artist Reimagines Super Mario Land Series For Game Boy Advance]]></title>
         <id>https://www.nintendolife.com/#article-135340</id>
@@ -959,7 +979,7 @@ If it's like past presentations, we'll likely get a trailer or two for the upcom
         <link href="https://www.nintendolife.com/news/2022/08/zelda-pokemon-and-final-fantasy-music-will-feature-at-the-first-ever-video-game-proms"/>
         <updated>2022-08-01T13:45:00.000Z</updated>
         <summary type="html"><![CDATA[The concert is tonight.
-The BBC Proms is probably one of the most well-known classical music concerts in the world. This eight-week extravaganza holds daily concerts for various classical music composers and film scores. But in 2022, the Proms is making by holding its first-ever video game concert.
+The BBC Proms is probably one of the most well-known classical music concerts in the world. This eight-week extravaganza holds daily concerts for various classical music composers and film scores. But in 2022, the Proms is making history by holding its first-ever video game concert.
 Conducted by Robert Ames, the show starts tonight at 7:30pm in the Royal Albert Hall. Some of gaming's most well-known tunes will debut at this annual event and hopefully kick off a new trend of featuring the medium every year. The prominence of video game music has grown hugely over the past few years, with franchises like Kirby winning Grammy Awards.
 Read the full article on nintendolife.com]]></summary>
         <author>
@@ -1427,6 +1447,17 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Po 10 týdnech vývoje od vydání Linuxu 5.18 oznámil Linus Torvalds vydání Linuxu 5.19 (LKML). Díky týmu Asahi tentokrát na MacBooku. Přehled nových vlastností a vylepšení na stránce Linux Kernel Newbies. Příští verze pravděpodobně nebude 5.20 ale už 6.0.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 08/01/2022]]></title>
+        <id>https://torrentfreak.com/?p=186926</id>
+        <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
+        <updated>2022-07-31T22:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Jurassic World Dominion' tops the chart, followed by ‘The Gray Man'. 'Doctor Strange in the Multiverse of Madness' completes the top three.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
@@ -2263,16 +2294,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/GCC-12.2-Compiler-In-August"/>
         <updated>2022-07-29T09:39:15.000Z</updated>
         <summary type="html"><![CDATA[The GNU Compiler Collection (GCC) developers are preparing for an August release of GCC 12.2 as the first stable point release update to this year's GCC 12 series...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM 16 Enabling Scalable Vectorization By Default For RISC-V]]></title>
-        <id>https://www.phoronix.com/news/LLVM-RISC-V-Vectorization-Def</id>
-        <link href="https://www.phoronix.com/news/LLVM-RISC-V-Vectorization-Def"/>
-        <updated>2022-07-29T09:26:01.000Z</updated>
-        <summary type="html"><![CDATA[With LLVM 15 branched and main now open for LLVM 16, one of the early changes for this next compiler release cycle is enabling scalable vectorization by default for RISC-V with supported targets for RISC-V vector instructions...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -3844,17 +3865,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 07/25/2022]]></title>
-        <id>https://torrentfreak.com/?p=186926</id>
-        <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
-        <updated>2022-07-24T22:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Jurassic World Dominion' tops the chart, followed by ‘The Gray Man'. 'Doctor Strange in the Multiverse of Madness' completes the top three.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Týden na ITBiz: Soud řeší, zda lze umělé inteligenci přiřknout autorství patentu]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-soud-resi-zda-lze-umele-inteligenci-prirknout-autorstvi-patentu</id>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-soud-resi-zda-lze-umele-inteligenci-prirknout-autorstvi-patentu"/>
@@ -3933,16 +3943,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Carbon: nový jazyk od Googlu má být nástupcem C++]]></title>
-        <id>www.root.cz-actuality-43839</id>
-        <link href="https://www.root.cz/zpravicky/carbon-novy-jazyk-od-googlu-ma-byt-nastupcem-c/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-07-23T21:08:05.000Z</updated>
-        <summary type="html"><![CDATA[Google představil nový programovací jazyk Carbon, navržený jako bezpečnější náhrada za C++. Deklarovaným cílem je kromě bezpečnosti také snadná interoperabilita s C++, koncepčně se jazyk podobá Rustu. Projekt je v experimentálním stadiu, v současnosti se pracuje na verzi 0.1.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Calculon)</name>
         </author>
     </entry>
     <entry>
