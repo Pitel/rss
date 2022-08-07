@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-07T18:14:02.602Z</id>
+    <id>urn:2022-08-07T20:12:42.121Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-07T18:14:02.602Z</updated>
+    <updated>2022-08-07T20:12:42.121Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSUSE Tumblewed Planning To Finally End ReiserFS Support]]></title>
+        <id>https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS</id>
+        <link href="https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS"/>
+        <updated>2022-08-07T19:38:02.000Z</updated>
+        <summary type="html"><![CDATA[SUSE had been one of the big supporters of ReiserFS two decades ago when it was using the ReiserFS file-system by default but that practice ended in 2006. While SUSE/openSUSE hasn't defaulted to ReiserFS for many years, it has remained an install-time option and retained support for mounting ReiserFS file-systems, but that practice is likely soon ending...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Realtek R8188EU Driver Sees "Huge Cleanups" With Linux 6.0]]></title>
         <id>https://www.phoronix.com/news/Linux-6.0-Staging</id>
@@ -2351,16 +2361,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Stephen Lacy na Twitteru chybně informoval o napadení 35 tisíc projektů na GitHubu malwarem. Napadeny měly být i projekty jako crypto, golang, python, js, bash, docker, k8s, malware najdeme v npm skriptech, Docker obrazech či instalační dokumentaci. Nicméně tomu tak není.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulkan 1.3.224 Introduces Another New Extension To Help Valve's Steam Play]]></title>
-        <id>https://www.phoronix.com/news/Vulkan-1.3.224-Released</id>
-        <link href="https://www.phoronix.com/news/Vulkan-1.3.224-Released"/>
-        <updated>2022-08-04T09:04:24.000Z</updated>
-        <summary type="html"><![CDATA[Vulkan 1.3.224 was released earlier today and with this spec update comes VK_EXT_attachment_feedback_loop_layout as another extension started by Valve developers and will help their Steam Play (Proton) efforts...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
