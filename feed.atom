@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-07T08:14:02.824Z</id>
+    <id>urn:2022-08-07T10:12:17.444Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-07T08:14:02.824Z</updated>
+    <updated>2022-08-07T10:12:17.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[BUS1 Working On "r-linux" - A Rust Capability-Based Linux Runtime]]></title>
+        <id>https://www.phoronix.com/news/BUS1-r-linux</id>
+        <link href="https://www.phoronix.com/news/BUS1-r-linux"/>
+        <updated>2022-08-07T10:09:18.000Z</updated>
+        <summary type="html"><![CDATA[BUS1 started out as a Linux kernel IPC module following the failure of KDBUS and while there still are occasional commits to that out-of-tree BUS1 kernel module, the involved (Red Hat) developers have been primarily working on Dbus-Broker as the high performance, user-space D-Bus implementation that delivers greater speed and reliability over the reference D-Bus code. Now also popping up under the BUS1 umbrella is "r-linux" as a Rust-written, capability-based Linux runtime...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-649</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-649"/>
+        <updated>2022-08-07T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for indulging in a Walkers grab bag. Before you reach in, let's read this week's best writing about games (and game related things).
+ Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RISC-V With Linux 6.0 Improves Svpbmt, More Useful Default Kernel Configuration]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-RISC-V</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-RISC-V"/>
+        <updated>2022-08-07T09:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Each new kernel cycle there continues to be more maturity to the RISC-V processor architecture code. With Linux 6.0 there are a few new features wired up as well as bug fixes / clean-ups...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Fixes Broken Keyboards On Ryzen 6000 Laptops, Power Management Additions]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-ACPI-PM</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-ACPI-PM"/>
+        <updated>2022-08-07T09:39:21.000Z</updated>
+        <summary type="html"><![CDATA[The ACPI and power management changes for the in-development Linux 6.0 landed this week with continued preparations for upcoming Intel and AMD hardware as well as improving existing hardware support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBDEV Updates For Linux 6.0 Bring Fixes For The Atari Graphics Chipset Driver]]></title>
+        <id>https://www.phoronix.com/news/Atari-FBDEV-Linux-6.0</id>
+        <link href="https://www.phoronix.com/news/Atari-FBDEV-Linux-6.0"/>
+        <updated>2022-08-07T09:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year a developer stepped up willing to maintain Linux's FBDEV subsystem for frame-buffer device drivers since it fell into an unmaintained state in 2016 but even prior to that had been on the decline in the era of more proper DRM/KMS drivers. Helge Deller continues that work overseeing the frame-buffer device "FBDEV" subsystem and this week sent in the new patches for Linux 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Round Up: EVO 2022 Every Nintendo Switch Announcement & More]]></title>
         <id>https://www.nintendolife.com/#article-135593</id>
@@ -2347,16 +2398,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valve Expanding Steam Deck Availability To Asian Markets]]></title>
-        <id>https://www.phoronix.com/news/Valve-Steam-Deck-In-Asia</id>
-        <link href="https://www.phoronix.com/news/Valve-Steam-Deck-In-Asia"/>
-        <updated>2022-08-04T00:45:19.000Z</updated>
-        <summary type="html"><![CDATA[In addition to continuing to ramp up their Steam Deck production to fulfill existing pre-order reservations this calendar year thanks to addressing supply chain bottlenecks, Valve announced today that in partnership with Komodo they are bringing this Linux-powered gaming console to Asian markets...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Společnost GlobalFoundries se připojila k iniciativě Google Open Source Silicon]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/spolecnost-globalfoundries-se-pripojila-k-iniciative-google-open-source-silicon</id>
         <link href="http://www.abclinuxu.cz/zpravicky/spolecnost-globalfoundries-se-pripojila-k-iniciative-google-open-source-silicon"/>
@@ -2364,16 +2405,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[V červnu Google ve spolupráci se Skywater Technologies a Efabless představil iniciativu Open Source Silicon umožňující komukoli navrhnout open source integrovaný obvod a nechat si jej zdarma vyrobit. Při představení byla k dispozici pouze výrobní technologie 130 nm. Před týdnem bylo oznámeno, že společnost Skywater Technologies nabízí už také výrobní technologii 90 nm. Včera se k iniciativě Open Source Silicon připojila společnost GlobalFoundries a nabídla výrobní technologii 180 nm.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 22.2-rc1 Released With AMD RDNA3 & Intel Alchemist Primed, Vulkan Additions]]></title>
-        <id>https://www.phoronix.com/news/Mesa-22.2-rc1-Released</id>
-        <link href="https://www.phoronix.com/news/Mesa-22.2-rc1-Released"/>
-        <updated>2022-08-03T23:30:00.000Z</updated>
-        <summary type="html"><![CDATA[After a few week delay to allow additional features to land, feature development on Mesa 22.2 has ended with Mesa 22.2-rc1 now being available ahead of its stable release in the coming weeks...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2422,16 +2453,6 @@ With Android Studio Chipmunk Patch 2 and Android Gradle 7.2.2, you can compile a
  The following is list of general fixes in Android Studio Chipmunk Patch 2. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by rep…]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GlobalFoundries Partners With Google's Open-Source Silicon Effort To Provide 180nm Tech]]></title>
-        <id>https://www.phoronix.com/news/Google-GloFo-GF180MCU</id>
-        <link href="https://www.phoronix.com/news/Google-GloFo-GF180MCU"/>
-        <updated>2022-08-03T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the past two years Google has been spearheading an effort to make silicon design more open-source and allowing more projects to get started in chip fabrication. That got started with a partnership with SkyWater Technology and Google covering the costs for open-source projects to see their initial chips fabricated on a 130nm process. Google's Open-Source Silicon Design Initiative recently announced SkyWater 90nm manufacturing will get underway for future manufacturing runs. Today the news out of Google's open-source group is that GlobalFoundries has joined this initiative and is providing 180nm manufacturing access...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2485,16 +2506,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 Adding Run-Time Verification For Running On Safety Critical Systems]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-Runtime-Verification</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-Runtime-Verification"/>
-        <updated>2022-08-03T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Another big ticket feature has made it for the Linux 6.0 kernel: the Runtime Verification infrastructure for running Linux on safety-critical systems...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4319,17 +4330,6 @@ Since I've been playing Monster Hunter Rise, which is largely a succession of ev
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rally Point: The Battle For Polytopia is this summer's low-intensity strategy game]]></title>
-        <id>https://www.rockpapershotgun.com/the-rally-point-the-battle-for-polytopia-is-this-summers-low-intensity-strategy-game</id>
-        <link href="https://www.rockpapershotgun.com/the-rally-point-the-battle-for-polytopia-is-this-summers-low-intensity-strategy-game"/>
-        <updated>2022-07-27T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Strategy games are the go-to option when you're looking for something to really get your brain working. But they can seem unreachable when your synapses are being melted from without rather than through overuse. Happily, we found an excellent solution last summer, and being a wily fox, I had a plan ready for this year. 2022's now-traditional Low-Intensity Strategy Game For When Burny Light Make Think Hard is, of course, The Battle For Polytopia.
-Read more]]></summary>
-        <author>
-            <name>Sin Vega</name>
         </author>
     </entry>
     <entry>
