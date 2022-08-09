@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-09T06:16:12.020Z</id>
+    <id>urn:2022-08-09T08:15:12.226Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-09T06:16:12.020Z</updated>
+    <updated>2022-08-09T08:15:12.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jak aktualizovat z Linux Mint 20.3 na 21]]></title>
+        <id>www.root.cz-actuality-43886</id>
+        <link href="https://www.root.cz/zpravicky/jak-aktualizovat-z-linux-mint-20-3-na-21/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-09T08:07:35.000Z</updated>
+        <summary type="html"><![CDATA[Před týdnem vyšel Linux Mint 21 Vanessa. Včera byl zveřejněn návod, jak aktualizovat verzi 20.3 na 21. Nově je potřeba GUI nástroj mintupgrade: sudo apt install mintupgrade. Poté jej pustíte: sudo mintupgrade a pak pokračujete podle instrukcí.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Promotes Its H.265/HEVC User-Space API To Stable]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Media</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Media"/>
+        <updated>2022-08-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With the Linux 6.0 multimedia subsystem changes, the H.265/HEVC user-space API is now being considered stable...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mario Kart Tour Teases September Multiplayer Update, Will Add "New Ways To Play"]]></title>
         <id>https://www.nintendolife.com/#article-135673</id>
@@ -37,6 +57,16 @@ Read the full article on nintendolife.com]]></summary>
         <link href="http://www.abclinuxu.cz/zpravicky/probiha-siggraph-2022-konference-a-vystava-venovana-pocitacove-grafice"/>
         <updated>2022-08-09T02:36:15.000Z</updated>
         <summary type="html"><![CDATA[Ve Vancouveru probíhá konference a výstava SIGGRAPH 2022 (Special Interest Group on Computer Graphics and Interactive Techniques) věnována počítačové grafice. Řada firem představuje své novinky. Intel například představil profesionální grafické karty Arc Pro A50, A40 a A30M (Mobile).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letošní OpenAlt proběhne o víkendu 17. a 18. září. Přednášky lze přihlásit do 15. srpna]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/letosni-openalt-probehne-o-vikendu-17.-a-18.-zari.-prednasky-lze-prihlasit-do-15.-srpna</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/letosni-openalt-probehne-o-vikendu-17.-a-18.-zari.-prednasky-lze-prihlasit-do-15.-srpna"/>
+        <updated>2022-08-09T02:34:32.000Z</updated>
+        <summary type="html"><![CDATA[Konference OpenAlt 2022 proběhne o víkendu 17. a 18. září na FIT VUT v Brně. Přednášky lze přihlásit do 15. srpna.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
         </author>
@@ -2127,16 +2157,6 @@ Amidst all th…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8+1 audio editorů pro Linux, které nejsou Audacity]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/-8plus1-audio-editoru-pro-linux-ktere-nejsou-audacity</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/-8plus1-audio-editoru-pro-linux-ktere-nejsou-audacity"/>
-        <updated>2022-08-05T13:42:49.000Z</updated>
-        <summary type="html"><![CDATA[Alexandre Prokoudine publikoval na serveru Libre Arts článek 8+1 audio editorů pro Linux, které nejsou Audacity. Věnuje se editorům: Sweep, mhWaveEdit / gWaveEdit, KWave, ReZound, EKO, Snd, Gtk Wave Cleaner, WaveSurfer a SoX.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Here Are Capcom’s Top 10 Best Selling Games]]></title>
         <id>118906</id>
         <link href="https://www.gameinformer.com/2022/08/05/here-are-capcoms-top-10-best-selling-games"/>
@@ -2229,16 +2249,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0's Perf Tooling Ready For AMD Zen 4 IBS]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-Zen4-IBS-Perf-Tools</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-Zen4-IBS-Perf-Tools"/>
-        <updated>2022-08-05T09:52:32.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year AMD began posting Linux kernel patches for >a href="https://www.phoronix.com/news/AMD-Zen-4-IBS-Linux">Instruction Based Sampling (IBS) extensions coming with Zen 4 processors. With Linux 5.19 the Zen 4 IBS extensions landed while now with Linux 6.0 the perf tools have been updated for dealing with Zen 4 IBS...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3568,16 +3578,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtuální Bastlírna vol. 17: Už váš Průša Mini tiskne přes WiFi?]]></title>
-        <id>www.root.cz-actuality-43862</id>
-        <link href="https://www.root.cz/zpravicky/virtualni-bastlirna-vol-17-uz-vas-prusa-mini-tiskne-pres-wifi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-01T19:08:58.000Z</updated>
-        <summary type="html"><![CDATA[Prázdniny pokračují a i když okurková sezóna je v plném proudu, technických novinek je požehnaně. I přes slunce lákající k výletům stále pátráme v internetovém prostoru po nových zajímavostech, které bychom Vám přinesli. A jaké to budou?]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: bkralik)</name>
         </author>
     </entry>
     <entry>
