@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-15T06:16:01.294Z</id>
+    <id>urn:2022-08-15T08:15:07.896Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-15T06:16:01.294Z</updated>
+    <updated>2022-08-15T08:15:07.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Glibc 2.36 rozbíjí EasyAntiCheat ve hrách]]></title>
+        <id>www.root.cz-actuality-43898</id>
+        <link href="https://www.root.cz/zpravicky/glibc-2-36-rozbiji-easyanticheat-ve-hrach/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-15T08:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Knihovna Glibc 2.36 vyšla teprve 2. srpna a mezi novinkami je také odstranění sekce DT_HASH. Již asi 15 let se používá lepší DT_GNU_HASH, ale doposud se pro Glibc používaly obě sekce současně pomocí přepínače pro ld --hash-style=both.  Od verze 2.36 se používá jen --hash-style=gnu a aplikace s DT_HASH tím pádem nefungují. Důvodem odstranění je úspora asi 1 % velikosti dynamických knihoven.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WireGuard: nasazujeme VPN rychle a jednoduše (online školení)]]></title>
+        <id>www.root.cz-actuality-41660</id>
+        <link href="https://www.root.cz/zpravicky/wireguard-nasazujeme-vpn-rychle-a-jednoduse-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-15T07:54:53.000Z</updated>
+        <summary type="html"><![CDATA[VPN umožňuje bezpečně propojit různá zařízení pomocí šifrovaných tunelů. Umožňuje také zapojit uživatele do vnitřní sítě přes zabezpečený přístupový bod. Na školení si prakticky ukážeme, jak to celé nastavit a zprovoznit pomocí nejnovějšího protokolu WireGuard.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Pirate’ Spider-Man Remastered Steam Keys Sell Out in Sanctioned Russia]]></title>
+        <id>https://torrentfreak.com/?p=222769</id>
+        <link href="https://torrentfreak.com/pirate-spider-man-remastered-steam-keys-sell-out-in-sanctioned-russia-220815/"/>
+        <updated>2022-08-15T07:41:22.000Z</updated>
+        <summary type="html"><![CDATA[Spider-Man Remastered launched last Friday to decent reviews but gamers in Russia face problems buying from Steam. A local online store managed to get some Steam activation keys but sold out, despite selling them for close to the most expensive price in the world. Right now, Russians can either wait for new stock or take advantage of the game being cracked on day one.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.0-rc1]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/linux-6.0-rc1</id>
@@ -4468,16 +4499,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nový ovladač AMD Platform Management Framework vylepší běh desktopů i notebooků]]></title>
-        <id>www.root.cz-actuality-43877</id>
-        <link href="https://www.root.cz/zpravicky/novy-ovladac-amd-platform-management-framework-vylepsi-beh-desktopu-i-notebooku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-04T13:44:10.000Z</updated>
-        <summary type="html"><![CDATA[AMD vyvíjí nový ovladač, jehož cílem je zlepšit celkově běh strojů s firemními procesory, aby ty byly tišší, energeticky efektivnější a obecně chytřejší při řízení svých provozních parametrů, a to díky adaptování na chování uživatele a prostředí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lonely Mountains: Downhill goes murderously fast but appreciates stopping for a good view]]></title>
         <id>https://www.rockpapershotgun.com/lonely-mountains-downhill-goes-murderously-fast-but-appreciates-a-beautiful-view</id>
         <link href="https://www.rockpapershotgun.com/lonely-mountains-downhill-goes-murderously-fast-but-appreciates-a-beautiful-view"/>
@@ -4525,27 +4546,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mnoho projektů na GitHubu mělo klon s malwarem, GitHub rychle zakročil]]></title>
-        <id>www.root.cz-actuality-43876</id>
-        <link href="https://www.root.cz/zpravicky/mnoho-projektu-na-githubu-melo-klon-s-malwarem-github-rychle-zakrocil/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-04T09:09:45.000Z</updated>
-        <summary type="html"><![CDATA[Stephen Lacy na Twitteru chybně informoval o napadení 35 tisíc projektů na GitHubu malwarem. Napadeny měly být i projekty jako crypto, golang, python, js, bash, docker, k8s, malware najdeme v npm skriptech, Docker obrazech či instalační dokumentaci. Nicméně tomu tak není.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charter Settles Piracy Liability Lawsuits With Major Record Labels]]></title>
-        <id>https://torrentfreak.com/?p=222395</id>
-        <link href="https://torrentfreak.com/charter-settles-piracy-liability-lawsuits-with-major-record-labels-220804/"/>
-        <updated>2022-08-04T08:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Charter Communications and several major record labels have settled their lawsuits over the ISP's handling of repeat copyright infringers. The deal was signed around the same time that the ISP's daughter company Bright House settled its case. No further details are available but with hundreds of millions of dollars in damages at stake, negotiations must have been tough.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
