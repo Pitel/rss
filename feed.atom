@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-17T08:15:51.552Z</id>
+    <id>urn:2022-08-17T10:13:29.428Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-17T08:15:51.552Z</updated>
+    <updated>2022-08-17T10:13:29.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Patch Sparks Differing Views Over External Monitor Handling With iGPU vs. dGPU]]></title>
+        <id>https://www.phoronix.com/news/Linux-Laptop-Monitor-iGPU-dGPU</id>
+        <link href="https://www.phoronix.com/news/Linux-Laptop-Monitor-iGPU-dGPU"/>
+        <updated>2022-08-17T10:05:23.000Z</updated>
+        <summary type="html"><![CDATA[Canonical kernel engineer Kai-Heng Feng posted a patch on Tuesday for capable laptops to switch their external monitor connections to be routed through a laptop's discrete GPU rather than the integrated GPU. With select laptops this can be done with an ACPI call but raises questions among upstream developers rather this change is indeed desirable...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire Emblem Warriors: Three Hopes Surpasses 1 Million Units Shipped]]></title>
+        <id>https://www.nintendolife.com/#article-136109</id>
+        <link href="https://www.nintendolife.com/news/2022/08/fire-emblem-warriors-three-hopes-surpasses-1-million-units-shipped"/>
+        <updated>2022-08-17T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Milestone reached in less than 2 months.
+It's been announced that Fire Emblem Warriors: Three Hopes has now surpassed 1 million units shipped worldwide, marking a significant milestone for the latest entry from developers Omega Force and Team Ninja.
+The achievement encompasses sales across physical and digital formats, though it's currently not known what the sales split is across the various territories. What's noteworthy, however, is the milestone has seemingly been reached much quicker than the game's predessecor, Fire Emblem Warriors, which reached 1 million units shipped roughly 7 months after its launch in September 2017. Three Hopes, on the other hand, launched a little less than 2 months ago in June 2022 (with no 3DS version, either!).
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MMO Tower Of Fantasy cracks down on server wait times and cheats]]></title>
+        <id>https://www.rockpapershotgun.com/mmo-tower-of-fantasy-cracks-down-on-server-wait-times-and-cheats</id>
+        <link href="https://www.rockpapershotgun.com/mmo-tower-of-fantasy-cracks-down-on-server-wait-times-and-cheats"/>
+        <updated>2022-08-17T09:50:42.000Z</updated>
+        <summary type="html"><![CDATA[Recently launched sci-fantasy gacha MMO Tower Of Fantasy is trying to tackle server queues and cheats, the developers have promised. In a message posted to the official site, Tower Of Fantasy’s devs Hotta Studio say they’ve now implemented increased server caps and improved server recommendation logic for PC. There’s also a queue timer, if you find your feet tapping while you’re waiting to join. You can watch the game’s launch trailer below if you missed it last week.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Výkon Apple M1 a M2 oproti aktuálním CPU Intel Alder Lake a AMD Ryzen]]></title>
+        <id>www.root.cz-actuality-43906</id>
+        <link href="https://www.root.cz/zpravicky/vykon-apple-m1-a-m2-oproti-aktualnim-cpu-intel-alder-lake-a-amd-ryzen/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-17T09:35:39.000Z</updated>
+        <summary type="html"><![CDATA[Phoronix změřil výkon obou generací ARM SoC rodiny Apple Silicon oproti nejnovějším Ryzenům od AMD a Core 12. generace od Intelu. Výsledky jsou poměrně zajímavé, v průměru lze říci, že Ryzeny (konkrétně Ryzen 9 5900HX a Ryzen 7 Pro 6850U) jsou stále nejlepší, Intel je v závěsu (model Core i7 1280P), ale Apple M2 už k dotažení moc nechybí (M1 pak není o moc horší). Bavíme se přitom o linuxových testech, kde podpora čipů rodin M1 a M2 je teprve vyvíjena, přičemž Apple spíše linuxové podpoře naházel klacky pod nohy, kterými se vývojáři z Asahi Linuxu už více než rok a půl postupně prokousávají.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: Azure Striker Gunvolt 3 Has A Save Data-Corrupting Bug On Switch]]></title>
+        <id>https://www.nintendolife.com/#article-136102</id>
+        <link href="https://www.nintendolife.com/news/2022/08/psa-azure-striker-gunvolt-3-has-a-save-data-corrupting-bug-on-switch"/>
+        <updated>2022-08-17T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Inti Creates is working on a fix.
+Inti Creates, the developer behind Azure Striker Gunvolt 3 — the long-awaited third mainline game in the series — has acknowledged that there's a save data-corrupting bug in the Switch version of the game.
+Sharing the information on Twitter, the bug can occur when you delete a save file and then change the settings or language options on the title screen. This will then cause the last played save file to get corrupted. The issue only appears to have happened since the game was updated to ver. 1.0.2.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podpora Intel oneAPI pro Blender 3.3 na dobré cestě]]></title>
+        <id>www.root.cz-actuality-43905</id>
+        <link href="https://www.root.cz/zpravicky/podpora-intel-oneapi-pro-blender-3-3-na-dobre-ceste/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-17T08:20:08.000Z</updated>
+        <summary type="html"><![CDATA[Počáteční podpora GPU akcelerace skrze rozhraní Intel oneAPI v blížícím se Blenderu 3.3 je na dobré cestě. Nově bychom se oproti počáteční podpoře cílící na platformu Windows měli dočkat se záříjovým vydáním Blenderu 3.3 i podpory v rámci verze pro Linux.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ELK Stack: naučte se Elasticsearch, Logstash a Kibana (školení)]]></title>
         <id>www.root.cz-actuality-40262</id>
@@ -1181,19 +1250,6 @@ For more previews of some of the biggest games of 2022 and beyond, be sure to he
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: New Zelda: Breath Of The Wild Glitch Means You'll Never Be Short Of Materials]]></title>
-        <id>https://www.nintendolife.com/#article-136013</id>
-        <link href="https://www.nintendolife.com/news/2022/08/random-new-zelda-breath-of-the-wild-glitch-means-youll-never-be-short-of-materials"/>
-        <updated>2022-08-16T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Is 999 enough?
-The Inventory Slot Transfer is one of the most well-known glitches in The Legend of Zelda: Breath of the Wild, used in countless tricks such as keeping the Bow of Light or duplicating certain items and weapons. We wouldn't have tons of other glitches without Inventory Slot Transfer, and we wouldn't still be finding new secrets and exploits in the game today.
-Gaming Reinvented has once again shared another useful way of utilising Inventory Slot Transfer — this time, to get up to 999 of any material. Just in case you need a few spares! No more farming or spending ages searching for rare materials like giant ancient cores.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Juri & Kimberly get their pout on in Street Fighter 6 Game Face vid]]></title>
         <id>https://www.destructoid.com/?p=339830</id>
         <link href="https://www.destructoid.com/street-fighter-6-juri-kimberly-game-face-trailer-capcom/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=street-fighter-6-juri-kimberly-game-face-trailer-capcom"/>
@@ -1241,19 +1297,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[ChimeraOS byla vydána ve verzi 34. Jedná se o linuxovou distribuci vycházející z Arch Linuxu zaměřenou na hráče počítačových her.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Cells' 'Enter The Panchaku' Free Update Gets Slight Delay On Switch]]></title>
-        <id>https://www.nintendolife.com/#article-135490</id>
-        <link href="https://www.nintendolife.com/news/2022/08/dead-cells-enter-the-panchaku-free-update-gets-slight-delay-on-switch"/>
-        <updated>2022-08-16T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Update: "We've hit a snag".
-Update : Switch (and other console) owners will have to wait a bit longer for Dead Cells' 30th free update as Motion Twin has announced earlier today that it's hit a big of a "snag" in certifying the update for consoles.
-Don't worry, the wait won't be too much longer — just another week — but the team thanked fans for being patient over on Twitter.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2675,16 +2718,6 @@ Join me, Marcus Stewart, along with Andrew Reiner and Blake Hester, as we revisi
 Read more...]]></summary>
         <author>
             <name>Sisi Jiang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon Pro Software For Enterprise 22.Q2 For Linux Released]]></title>
-        <id>https://www.phoronix.com/news/Radeon-Pro-22-Q2-Linux</id>
-        <link href="https://www.phoronix.com/news/Radeon-Pro-22-Q2-Linux"/>
-        <updated>2022-08-12T16:45:13.000Z</updated>
-        <summary type="html"><![CDATA[Released in June was the Radeon PRO Software for Enterprise 21.Q2 to deliver AMD's enterprise-vetted graphics driver stack to Windows users. Meanwhile recently debuting is the long-awaited adjacent Radeon Pro Software for Enterprise for Linux driver update...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4308,16 +4341,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Douglas Crockford: JavaScript brzdí pokrok a měl by jít do důchodu]]></title>
-        <id>www.root.cz-actuality-43885</id>
-        <link href="https://www.root.cz/zpravicky/douglas-crockford-javascript-brzdi-pokrok-a-mel-by-jit-do-duchodu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-08T13:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Douglas Crockford, který před dvaceti lety JS obhajoval a vytvořil formát JSON, řekl v rozhovoru pro Evrone, že JS brzdí rozvoj a měl by jít jako ostatní dinosauří jazyky do důchodu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nintendo Announces Splatoon 3 Direct For This Week]]></title>
         <id>118916</id>
         <link href="https://www.gameinformer.com/2022/08/08/nintendo-announces-splatoon-3-direct-for-this-week"/>
@@ -4332,16 +4355,6 @@ While waiting for Wednesday’s Direct, check out this Splatoon 3-themed Switch 
 Are you excited about Splatoon 3? Let us know in the comments below!]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zranitelnost Twitteru a únik informací o 5,4 miliónech účtů]]></title>
-        <id>www.root.cz-actuality-43884</id>
-        <link href="https://www.root.cz/zpravicky/zranitelnost-twitteru-a-unik-informaci-o-5-4-milionech-uctu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-08T13:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Twitter trpěl od června 2021 zranitelností, která byla nahlášena v bounty hunt programu v lednu 2022 a také byla opravena. Pokud chcete založit nový účet a zadáte e-mail nebo telefon, který již účet založený má, tak se zobrazí název účtu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4526,17 +4539,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
-        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-202</id>
-        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-202"/>
-        <updated>2022-08-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're entering another stretch of summer games busyness, following NotE3. This month we have events including German game bonanza Gamescom, Bethesda's QuakeCon, the indie horror showcase EEK3, and, starting today, Japanese indie fest BitSummit. But those are futuregames. For now, what are you playing this weekend? Here's what we're clicking on!
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
         </author>
     </entry>
     <entry>
