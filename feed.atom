@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-19T08:02:45.446Z</id>
+    <id>urn:2022-08-19T08:15:20.276Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-19T08:02:45.446Z</updated>
+    <updated>2022-08-19T08:15:20.276Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zranitelnost knihovny zlib až do verze 1.2.12]]></title>
+        <id>www.root.cz-actuality-43912</id>
+        <link href="https://www.root.cz/zpravicky/zranitelnost-knihovny-zlib-az-do-verze-1-2-12/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-19T08:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Tento měsíc se objevila zranitelnost hojně využívané knihovny zlib CVE-2022–37434. Zranitelnost spočívá v přetečení bufferu, což umožní útočníkovi číst libovolné části paměti. Zranitelné jsou jen aplikace, které volají inflateGetHeader. Například nodejs  inflateGetHeader nepoužívá a není tedy zranitelná.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Shimano)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Z-Library: 98m Articles & Books Blocked in India to Protect 10 Books About Tax]]></title>
         <id>https://torrentfreak.com/?p=222982</id>
@@ -27,9 +37,9 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quake's Fourth Major Update Adds Threewave Capture The Flag Mod]]></title>
+        <title type="html"><![CDATA[Quake's Fourth Major Update Adds Classic Capture The Flag Mod]]></title>
         <id>https://www.nintendolife.com/#article-136261</id>
-        <link href="https://www.nintendolife.com/news/2022/08/quakes-fourth-major-update-adds-threewave-capture-the-flag-mod"/>
+        <link href="https://www.nintendolife.com/news/2022/08/quakes-fourth-major-update-adds-classic-capture-the-flag-mod"/>
         <updated>2022-08-19T06:05:00.000Z</updated>
         <summary type="html"><![CDATA[The iconic mod is back as a free update.
 QuakeCon is taking place this weekend, and as part of this id Software has shared some announcements for its games.
@@ -3685,16 +3695,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQUIP: zranitelnost AMD Zen2, Zen3 a Apple M1]]></title>
-        <id>www.root.cz-actuality-43891</id>
-        <link href="https://www.root.cz/zpravicky/squip-zranitelnost-amd-zen2-zen3-a-apple-m1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-10T13:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Včera AMD zveřejnilo detaily zranitelnosti SQUIP (Scheduler Queue Usage via Interference Probing) CVE-2021–46778. Nové procesory AMD Zen2, Zen3 a Apple M1 mají sdílené fronty pro mikroinstrukce. Pokud proces na stejném jádře přesně měří obsazenost této fronty, může se dozvědět, co dělá jádro – sourozenec (SMT). Uhodnout jde například RSA klíč. Ve skutečnosti Apple M1 nemá SMT, ale pokud by v budoucnu Apple měl procesory se SMT, tak by také patrně byly zranitelné.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
