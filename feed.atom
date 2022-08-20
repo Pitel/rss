@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-20T10:12:32.986Z</id>
+    <id>urn:2022-08-20T12:20:11.591Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-20T10:12:32.986Z</updated>
+    <updated>2022-08-20T12:20:11.591Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Meteor Lake Support Lands Within The Intel Graphics Compiler "IGC"]]></title>
+        <id>https://www.phoronix.com/news/Intel-IGC-Meteor-Lake</id>
+        <link href="https://www.phoronix.com/news/Intel-IGC-Meteor-Lake"/>
+        <updated>2022-08-20T11:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Intel's open-source Linux bring-up for Meteor Lake continues. The latest open-source patches on the Meteor Lake front are for the Intel Graphics Compiler (IGC) changes for these 14th Gen CPU graphics...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa Zink Improvements For OpenGL-On-Vulkan Reportedly Make It Faster Than Radeon OpenGL]]></title>
+        <id>https://www.phoronix.com/news/Zink-2022-Refactor-Faster</id>
+        <link href="https://www.phoronix.com/news/Zink-2022-Refactor-Faster"/>
+        <updated>2022-08-20T10:25:39.000Z</updated>
+        <summary type="html"><![CDATA[The latest Mesa 22.3-devel code for Zink's OpenGL on Vulkan implementation has hit an important milestone with the latest code refactoring: it looks like this OpenGL implementation atop the Vulkan API with the RADV driver is beginning to outpace AMD's RadeonSI Gallium3D driver providing native OpenGL support for Radeon GPUs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
         <id>https://www.destructoid.com/?p=339580</id>
@@ -3272,16 +3292,6 @@ For more previews of some of the biggest games of 2022 and beyond, be sure to he
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD CPU Microcode Loading On Linux Being Fixed Up To Be Per-Thread]]></title>
-        <id>https://www.phoronix.com/news/AMD-CPU-Linux-Microcode-Thread</id>
-        <link href="https://www.phoronix.com/news/AMD-CPU-Linux-Microcode-Thread"/>
-        <updated>2022-08-16T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Up to this point loading updated CPU microcode on AMD processors under Linux has checked just to ensure every physical CPU core was loaded with the new microcode but not sibling threads for SMT processors. While logically that makes sense, it turns out some AMD microcode updates do carry out per-thread modifications that means the microcode updating needs to be carried out on every thread. A Linux fix is on its way to the kernel to adjust that behavior...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Unity rejects AppLovin’s $17.5b takeover offer]]></title>
         <id>https://www.rockpapershotgun.com/unity-rejects-applovins-175b-takeover-offer</id>
         <link href="https://www.rockpapershotgun.com/unity-rejects-applovins-175b-takeover-offer"/>
@@ -3292,16 +3302,6 @@ For more previews of some of the biggest games of 2022 and beyond, be sure to he
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Ampere GA103 Support For Nouveau Being Sent In For Linux 6.0]]></title>
-        <id>https://www.phoronix.com/news/Nouveau-GA103-Linux-6.0-Fix</id>
-        <link href="https://www.phoronix.com/news/Nouveau-GA103-Linux-6.0-Fix"/>
-        <updated>2022-08-16T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[As part of today's "drm-misc-fixes" pull request, NVIDIA Ampere GA103 GPU support is set to be added to the Nouveau DRM driver with Linux 6.0...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
