@@ -1,10 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-26T08:16:29.231Z</id>
+    <id>urn:2022-08-26T10:13:31.964Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-26T08:16:29.231Z</updated>
+    <updated>2022-08-26T10:13:31.964Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Intel Patch Series To Further Help Alder Lake / Hybrid CPUs On Linux]]></title>
+        <id>https://www.phoronix.com/news/Intel-ITM3-Sched-More-Hybrid</id>
+        <link href="https://www.phoronix.com/news/Intel-ITM3-Sched-More-Hybrid"/>
+        <updated>2022-08-26T10:08:10.000Z</updated>
+        <summary type="html"><![CDATA[In the year since Intel announced 12th Gen Core "Alder Lake" processors there have been a number of patches tuning the Linux kernel's scheduler and other code to better deal with the mix of the performance and efficient cores. While that looked to be all buttoned up for a number of months now with Alder Lake CPUs performing well on Linux, another patch series further adjusting the Linux sched/fair code was published to help with these Intel hybrid processor designs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vedlejší podnikatelská činnost: Zálohy a daňové přiznání]]></title>
+        <id>http://www.abclinuxu.cz/clanky/vedlejsi-podnikatelska-cinnost-zalohy-a-danove-priznani</id>
+        <link href="http://www.abclinuxu.cz/clanky/vedlejsi-podnikatelska-cinnost-zalohy-a-danove-priznani"/>
+        <updated>2022-08-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Jste zaměstnáni a k tomu si přivyděláváte občasnou brigádou? Pokud se neorientujete v tom, kdy platit zálohy na sociální a zdravotní pojištění a v jakém případě vedlejší příjem zdanit, abyste neporušili živnostenský zákon, přečtěte si naše shrnutí.]]></summary>
+        <author>
+            <name>Reklama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Smooth Sync Support Being Worked On For Linux Graphics Driver]]></title>
+        <id>https://www.phoronix.com/news/Intel-Smooth-Sync-Linux</id>
+        <link href="https://www.phoronix.com/news/Intel-Smooth-Sync-Linux"/>
+        <updated>2022-08-26T09:36:21.000Z</updated>
+        <summary type="html"><![CDATA[While Intel GPUs support VESA Adaptive-Sync, for Arc Graphics Intel announced Smooth Sync as what amounts to a dithering filter to make screen tearing less of an issue when not running with vsync enabled or lacking an Adaptive-Sync display...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Game Freak Confirms Pokémon Legends: Arceus Started Development Before Sword & Shield's Launch]]></title>
+        <id>https://www.nintendolife.com/#article-136686</id>
+        <link href="https://www.nintendolife.com/news/2022/08/game-freak-confirms-pokemon-legends-arceus-started-development-before-sword-and-shields-launch"/>
+        <updated>2022-08-26T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[And Scarlet & Violet started in 2019.
+Game Freak held a talk during the Computer Entertainment Developers Conference 2022 (CEDEC) yesterday, 25th August, and the company shared a lot of information about how it developed assets for every Pokémon game, from Pokémon Red & Blue all the way through to the most recent entry in the series, Pokémon Legends: Arceus.
+Hosted by Keiichi Maezawa, Game Freak detailed how it uses many different effects like ShaderFX and how its implementation has improved over the years. And during the talk, the company confirmed that the development of Legends Arceus started in the fall of 2018 — a full year before the generation VIII games, Pokémon Sword & Shield, launched.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Developing THP Shrinker To Avoid Linux Memory Waste]]></title>
+        <id>https://www.phoronix.com/news/Linux-THP-Shrinker</id>
+        <link href="https://www.phoronix.com/news/Linux-THP-Shrinker"/>
+        <updated>2022-08-26T09:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Meta/Facebook engineers have announced their work on THP Shrinker as a way for Linux's Transparent Hugepages (THP) to be more efficient and avoiding memory waste by removing under-utilized transparent hugepages...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More ASUS ROG Laptop Improvements Queued Ahead Of Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/ASUS-ROG-More-With-Linux-6.1</id>
+        <link href="https://www.phoronix.com/news/ASUS-ROG-More-With-Linux-6.1"/>
+        <updated>2022-08-26T09:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to the work of independent developer Luke Jones and as part of his Asusctl Linux project, ASUS laptops continue seeing better feature support on Linux and with the v6.1 cycle kicking off in October are more ASUS ROG laptop enhancements that have been readied...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice Working On New Gestures Support]]></title>
+        <id>https://www.phoronix.com/news/LibreOffice-New-Gestures</id>
+        <link href="https://www.phoronix.com/news/LibreOffice-New-Gestures"/>
+        <updated>2022-08-26T09:06:06.000Z</updated>
+        <summary type="html"><![CDATA[While LibreOffice has supported some input gestures in the past like swiping and long presses with the GTK front-end as well as some Android and iOS specific additions, it looks like greater gesture support is on the way for this cross-platform, open-source office suite...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumour: Nintendo Dataminers Think They've Uncovered A Splatoon World Map]]></title>
+        <id>https://www.nintendolife.com/#article-136684</id>
+        <link href="https://www.nintendolife.com/news/2022/08/rumour-nintendo-dataminers-think-theyve-uncovered-a-splatoon-world-map"/>
+        <updated>2022-08-26T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Texture extracted from Ammo Knights.
+
+Ahead of the Splatoon 3 World Premiere Splatfest this weekend, Nintendo dataminers think they've uncovered something special. It apparently could be an official Splatoon world map, discovered alongside texture files associated with the in-game shop Ammo Knights.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cetrifikáty Google lze získat přes ACME]]></title>
+        <id>www.root.cz-actuality-43926</id>
+        <link href="https://www.root.cz/zpravicky/cetrifikaty-google-lze-ziskat-pres-acme/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-26T08:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Bezplatné automaticky aktualizované certifikáty přes protokol ACME (Automatic Certificate Management Environment) začal poskytovat Let's Encrypt od roku 2015. Od té doby je možné bezplatné certifikáty přes ACME získat také například v ZeroSSL.com, Bypass.com a SSL.com.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WireGuard: nasazujeme VPN rychle a jednoduše (online školení)]]></title>
         <id>www.root.cz-actuality-41660</id>
@@ -1242,19 +1338,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Magnet-Magic Metroidvania Sequel 'Teslagrad 2' Confirmed For Switch]]></title>
-        <id>https://www.nintendolife.com/#article-136620</id>
-        <link href="https://www.nintendolife.com/news/2022/08/magnet-magic-metroidvania-sequel-teslagrad-2-confirmed-for-switch"/>
-        <updated>2022-08-25T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA["Any sufficiently advanced technology is indistinguishable from magic".
-As part of the Future Games Show at Gamescom, we saw a little bit more of Teslagrad 2 — the sequel to critically-acclaimed metroidvania Teslagrad — as well as a release date and a confirmation that it'll come to Switch.
-Like the original game, Teslagrad 2 is all about using electromagnetic magic powers to traverse a steampunk world inhabited by strange otherworldly creatures, but this time there's a twist — you'll be travelling back in time to defeat ancient monsters and explore long-forgotten ruins in old world Scandinavia.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Atomic Async Page Flips Proposed, Valve's Gamescope Compositor Has Support Pending]]></title>
         <id>https://www.phoronix.com/news/Atomic-Async-Page-Flips</id>
         <link href="https://www.phoronix.com/news/Atomic-Async-Page-Flips"/>
@@ -1285,19 +1368,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guitar Hero Meets Street Fighter In This Rhythm-Based Brawler Coming Soon To Switch]]></title>
-        <id>https://www.nintendolife.com/#article-136619</id>
-        <link href="https://www.nintendolife.com/news/2022/08/guitar-hero-meets-street-fighter-in-this-rhythm-based-brawler-coming-soon-to-switch"/>
-        <updated>2022-08-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rock and brawl.
-Gamescom's Future Games Show might have just revealed the most unexpected genre mashup of the year. God of Rock is a fighting game in which your success in combat is dependent on your ability to keep rhythm with a Guitar Hero-esque music tab at the bottom of the screen.
-We have all felt the pressure of losing your groove on Guitar Hero — the crowd start booing and the band struggles to keep up — but God of Rock will up the stakes just a little as you watch your character get punched, kicked, and slapped each time you slip up. We know that mosh pits can get violent, but jeez.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3660,16 +3730,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flatpak 1.14 Released With Improvements For Sandboxed Linux Apps]]></title>
-        <id>https://www.phoronix.com/news/Flatpak-1.14-Released</id>
-        <link href="https://www.phoronix.com/news/Flatpak-1.14-Released"/>
-        <updated>2022-08-23T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Flatpak 1.14 has been released as the newest feature release for this leading open-source solution for sandboxing and distribution of Linux applications...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GOT Prequel “House of the Dragon” Premiered Early on Pirate Sites]]></title>
         <id>https://torrentfreak.com/?p=223113</id>
         <link href="https://torrentfreak.com/got-prequel-house-of-the-dragon-premiered-early-on-pirate-sites-220823/"/>
@@ -3813,16 +3873,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GNOME 43's Mutter Lands Max BPC Property Support To Deal With Monitor Issues]]></title>
-        <id>https://www.phoronix.com/news/GNOME-43-Does-Max-BPC</id>
-        <link href="https://www.phoronix.com/news/GNOME-43-Does-Max-BPC"/>
-        <updated>2022-08-22T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this summer was the patch series for GNOME's Mutter to make use of the Linux DRM/KMS "max BPC" property for the drivers exposing the maximum bits per color supported. That code has now been merged in time for next month's GNOME 43 release and in turn will help deal with some scenarios where users may encounter screen flickering, brief blackouts, and other problems related to available monitor bandwidth...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Game Awards Return This December]]></title>
         <id>119007</id>
         <link href="https://www.gameinformer.com/2022/08/22/the-game-awards-return-this-december"/>
@@ -3881,16 +3931,6 @@ The upside - besides Santo Ileso being a generally nice place to visit, as Alice
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux May Have OpenGL 2.1 For Apple M1/M2 By Year's End]]></title>
-        <id>https://www.phoronix.com/news/Asahi-Linux-GL-2.1-EOY2022</id>
-        <link href="https://www.phoronix.com/news/Asahi-Linux-GL-2.1-EOY2022"/>
-        <updated>2022-08-22T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Alyssa Rosenzweig who is known for her work on the Panfrost open-source, reverse-engineered Arm Mali driver and has been spending nearly two years now involved with the Asahi Linux crew working on reverse-engineered Apple M1/M2 graphics support has shared a new status update...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4031,26 +4071,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zink OpenGL-On-Vulkan Benchmarks Are Very Competitive To Radeon OpenGL Driver]]></title>
-        <id>https://www.phoronix.com/review/zink-radeon-august2022</id>
-        <link href="https://www.phoronix.com/review/zink-radeon-august2022"/>
-        <updated>2022-08-22T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With this weekend having seen more Zink refactoring code land and Zink being faster than RadeonSI at least for some operations, it was time to fire up some fresh benchmarks of this generic OpenGL-on-Vulkan implementation. From the newest Mesa code this weekend after the latest Zink patches were merged, here is a look at how the Zink performance is compared to the RadeonSI Gallium3D driver's native OpenGL support. All of the testing was done using an AMD Radeon RX 6800 XT graphics card.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu Now Supports The Allwinner D1 Powered Nezha RISC-V Board]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-Nezha-RISC-V-SBC</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-Nezha-RISC-V-SBC"/>
-        <updated>2022-08-22T09:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Last week Canonical announced official Ubuntu RISC-V images for the StarFive VisionFive board while this week they are expanding their supported RISC-V line-up to also include the Nezha single board computer powered by the Allwinner D1 SoC...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4592,16 +4612,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vylepšené řízení spotřeby procesorů AMD P-State v Linuxu 6.0 nebude]]></title>
-        <id>www.root.cz-actuality-43904</id>
-        <link href="https://www.root.cz/zpravicky/vylepsene-rizeni-spotreby-procesoru-amd-p-state-v-linuxu-6-0-nebude/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-16T12:46:32.000Z</updated>
-        <summary type="html"><![CDATA[AMD nadále pilně pracuje na kódu implementujícím P-State řízení chodu CPU, které bude výrazně efektivnější než generický ACPU CPUFreq ovladač, který nyní Ryzeny a dalších produkty od AMD používají. Vývojáři však nestíhají všechny potřebné úpravy tak, aby se stihlo začleňovací okno pro jádro Linux 6.0.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[€8.5m Copyright Infringement Verdict Against Vimeo Stands on Appeal]]></title>
         <id>https://torrentfreak.com/?p=222827</id>
         <link href="https://torrentfreak.com/e8-5m-copyright-infringement-verdict-against-vimeo-stands-on-appeal-220816/"/>
@@ -4725,16 +4735,6 @@ To play any of these supported releases, you will need a daily development build
         <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-31-2022"/>
         <updated>2022-08-05T22:01:00.000Z</updated>
         <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
-        <author>
-            <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ScienceMag.cz: Spin a náboj elektronu se mohou pohybovat různými rychlostmi]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-spin-a-naboj-elektronu-se-mohou-pohybovat-ruznymi-rychlostmi</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-spin-a-naboj-elektronu-se-mohou-pohybovat-ruznymi-rychlostmi"/>
-        <updated>2022-08-05T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Připravili hmotu se dvěma rozměry času – v kvantovém počítači. Rozpad atomových jader vytvářející temnou hmotu nenašli. Magnetické monopóly mohou teoreticky vznikat i dnes, srážkami. Nestabilní plazma: čeští fyzici testovali náhlé kolapsy energie v tokamaku. Nový typ uhlíkového vlákna by mohl přiblížit výtah na oběžnou dráhu.]]></summary>
         <author>
             <name>Redakce</name>
         </author>
