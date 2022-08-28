@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-28T08:15:08.814Z</id>
+    <id>urn:2022-08-28T10:13:17.988Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-28T08:15:08.814Z</updated>
+    <updated>2022-08-28T10:13:17.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 22.10 To Ship With WebP Image Support Out-Of-The-Box]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-22.10-webp-pixbuf-loader</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-22.10-webp-pixbuf-loader"/>
+        <updated>2022-08-28T09:39:54.000Z</updated>
+        <summary type="html"><![CDATA[Prior to this past week's Ubuntu 22.10 feature freeze, webp-pixbuf-loader was promoted to the main archive for allowing WebP images to have thumbnail support within the GNOME desktop on this next Ubuntu release and being able to open up WebP image files within the GNOME image viewer and the like...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Radeon Linux OpenGL Driver Makes More Optimizations, Eyes GL Threading By Default]]></title>
+        <id>https://www.phoronix.com/news/RadeonSI-GLThread-Default-MR</id>
+        <link href="https://www.phoronix.com/news/RadeonSI-GLThread-Default-MR"/>
+        <updated>2022-08-28T09:23:34.000Z</updated>
+        <summary type="html"><![CDATA[Longtime AMD open-source Linux graphics developer Marek Olšák is at it again with some interesting optimizations for RadeonSI Gallium3D and is eyeing at enabling OpenGL threading by default...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 HID Changes Accumulating: More Tablets, Intel Meteor Lake ISH Support]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Early-Changes</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Early-Changes"/>
+        <updated>2022-08-28T08:55:16.000Z</updated>
+        <summary type="html"><![CDATA[A number of noteworthy changes have begun queuing for the Human Interface Devices (HID) subsystem ahead of the Linux 6.1 merge window opening up in just over one month...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sonic Frontiers Switch File Size Seemingly Revealed]]></title>
         <id>https://www.nintendolife.com/#article-136760</id>
@@ -2968,16 +2998,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel To Split Off Their Old Haswell/Broadwell Vulkan Code Into Separate Driver]]></title>
-        <id>https://www.phoronix.com/news/Intel-HASVK-Old-Vulkan-Gen7-8</id>
-        <link href="https://www.phoronix.com/news/Intel-HASVK-Old-Vulkan-Gen7-8"/>
-        <updated>2022-08-24T10:09:21.000Z</updated>
-        <summary type="html"><![CDATA[The current Intel open-source "ANV" Vulkan driver within Mesa supports graphics hardware going back to the "Gen7" graphics found with Ivy Bridge / Haswell. However, Intel open-source Linux graphics driver engineers are preparing to separate the old Ivy Bridge / Haswell (Gen7) and Broadwell (Gen8) graphics into a separate Mesa driver so they can better focus on improving their modern Vulkan driver that would then be limited to Skylake Gen9 graphics and newer...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Space For The Unbound devs walk away from “predatory” publisher PQube]]></title>
         <id>https://www.rockpapershotgun.com/a-space-for-the-unbound-devs-walk-away-from-predatory-publisher-pqube</id>
         <link href="https://www.rockpapershotgun.com/a-space-for-the-unbound-devs-walk-away-from-predatory-publisher-pqube"/>
@@ -3001,16 +3021,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["xisxwayland" Version Two Released For This Simple X.Org Program]]></title>
-        <id>https://www.phoronix.com/news/X-Is-XWayland-v2</id>
-        <link href="https://www.phoronix.com/news/X-Is-XWayland-v2"/>
-        <updated>2022-08-24T09:31:34.000Z</updated>
-        <summary type="html"><![CDATA[The X.Org project "xisxwayland" is out with a new version of this simple program that can be easily called by shell scripts and other simple uses for checking to see whether the running X.Org Server is a genuine X11 server or more commonly these days an XWayland server running within a Wayland environment...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Čtyřjádrový RISC-V minipočítač StarFive VisionFive 2 na Kickstarteru]]></title>
         <id>www.root.cz-actuality-43923</id>
         <link href="https://www.root.cz/zpravicky/ctyrjadrovy-risc-v-minipocitac-starfive-visionfive-2-na-kickstarteru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3018,16 +3028,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Na KickStarteru běží kampaň na příští generaci RISC-V minipočítače od StarFive. VisionFive 2 dostal do vínku 64bit RISC-V SoC se čtyřmi CPU jádry a multimediálním enginem zvládajícím akceleraci videa až po 4k/60p H.265, dva Gbit/s Ethernety, HDMI 2.0 a mnoho další výbavy.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa CI Begins Making Use Of Mold Linker For "Substantial" Performance Improvement]]></title>
-        <id>https://www.phoronix.com/news/Mesa-CI-Begins-Mold</id>
-        <link href="https://www.phoronix.com/news/Mesa-CI-Begins-Mold"/>
-        <updated>2022-08-24T09:12:19.000Z</updated>
-        <summary type="html"><![CDATA[For speeding up the actual Mesa continuous integration (CI) process itself with frequently building new revisions of Mesa3D, their CI infrastructure is beginning to make use of the Mold linker as a high performance alternative to the GNU Gold and LLVM LLD linkers. This is yielding a "substantial" performance improvement in tests for being able to turnaround CI jobs faster and in turn allowing Mesa developers to be more efficient...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
