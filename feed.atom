@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-31T06:52:26.049Z</id>
+    <id>urn:2022-08-31T08:15:19.915Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-08-31T06:52:26.049Z</updated>
+    <updated>2022-08-31T08:15:19.915Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chrome 105 přináší API HTML Sanitizer, Container Queries či vylepšení běhu PWA]]></title>
+        <id>www.root.cz-actuality-43939</id>
+        <link href="https://www.root.cz/zpravicky/chrome-105-prinasi-api-html-sanitizer-container-queries-ci-vylepseni-behu-pwa/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-31T08:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Nějaké zásadní novinky pro koncové uživatele od Chrome 105 nečekejme. Tvůrci tentokrát pracovali zejména na věcech v pozadí, například implementaci API HTML Sanitizer (což pomůže proti XSS) či CSS Container Queries a pseudo třídu :modal (více na MDN).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fake ‘YouTube’ DMCA Notices Exploit Suspension Fears to Install Malware]]></title>
+        <id>https://torrentfreak.com/?p=223487</id>
+        <link href="https://torrentfreak.com/fake-youtube-dmca-notices-exploit-suspension-fears-to-install-malware-220831/"/>
+        <updated>2022-08-31T08:01:05.000Z</updated>
+        <summary type="html"><![CDATA[To make their victims more compliant, online scammers often imply that something of value is under threat if immediate action isn't taken. Bank accounts are often mentioned but nothing is off limits. A scam currently doing the rounds warns of copyright strikes on genuine YouTube accounts, but after targeting a security researcher, the scam's secrets are now public.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google rozšířil svůj program bug bounty také na otevřené projekty]]></title>
+        <id>www.root.cz-actuality-43938</id>
+        <link href="https://www.root.cz/zpravicky/google-rozsiril-svuj-program-bug-bounty-take-na-otevrene-projekty/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-08-31T06:58:11.000Z</updated>
+        <summary type="html"><![CDATA[Google spustil nový program bug bounty (odměna za nalezenou chybu), který je součástí projektu Open Source Software Vulnerability Rewards Program (OSS VRP) a pokrývá open-source projekty vyvíjené Googlem. Jedná se například o populární nástroje Bazel, Angular, Golang, Protocol buffers nebo Fuchsia.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NÚKIB varuje před phishingovou kampaní s cílem zneužít bankovní identitu]]></title>
         <id>www.root.cz-actuality-43937</id>
@@ -4472,16 +4503,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kdenlive 22.08 přidává paralelní kódování a podporu AVIF, HEIF/HEIC i JPEG XL]]></title>
-        <id>www.root.cz-actuality-43918</id>
-        <link href="https://www.root.cz/zpravicky/kdenlive-22-08-pridava-paralelni-kodovani-a-podporu-avif-heif-heic-i-jpeg-xl/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-23T07:24:21.000Z</updated>
-        <summary type="html"><![CDATA[Ve stejné době jako samotný balík KDE aplikací Gear 22.08 přichází na scénu i nová verze nelineární video střižny Kdenlive 22.08. Přináší řadu vylepšení v uživatelském rozhraní pro jednodušší práci s nástroji, nechybí ani proxy clip encoding pro rozhraní NVENC a VA-API.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OG GTA Dev: Rockstar Hit My GTA Prototype Videos With DMCA Notices]]></title>
         <id>https://torrentfreak.com/?p=223075</id>
         <link href="https://torrentfreak.com/og-gta-dev-rockstar-hit-my-gta-prototype-videos-with-dmca-notices-220822/"/>
@@ -4490,16 +4511,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hra had pro terminál]]></title>
-        <id>www.root.cz-actuality-43917</id>
-        <link href="https://www.root.cz/zpravicky/hra-had-pro-terminal/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-22T13:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Možná si pamatujete hru had na starých telefonech Nokia. Nyní si můžete zahrát sssnake (smart and sexy snake) v terminálu. Budete potřebovat jen vývojářskou verzi knihovny ncurses, tedy balíček libncurses-dev nebo ncurses-devel.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4552,17 +4563,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[VMware představuje ochranu aplikačních prostředí pro AWS. Fortinet vylepšuje svou konvergovanou bezpečnostní platformu novou sadou firewallů FortiGate. Výrobcům čipů po rekordním růstu hrozí nejhorší pokles za 10 let. IBM Quantum Computing. Grafen je supravodivý i ve 4 nebo 5 vrstvách, magické úhly se liší.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New UFC Copyright Lawsuit Rejects Fair Use Defense For Documentary Makers]]></title>
-        <id>https://torrentfreak.com/?p=223009</id>
-        <link href="https://torrentfreak.com/new-ufc-copyright-lawsuit-rejects-fair-use-defense-for-documentary-makers-220820/"/>
-        <updated>2022-08-20T14:50:33.000Z</updated>
-        <summary type="html"><![CDATA[The UFC's ruthless approach to IP disputes often matches the brutality seen in the Octagon. UFC chief Dana White is famous for his rants against streaming pirates but this week documentary makers are feeling the heat. Their film features former UFC champion Michael Bisping and lots of unlicensed UFC action clips. Fair use, perhaps? Don't even try it, UFC warns.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
