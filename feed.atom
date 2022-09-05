@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-05T06:41:48.755Z</id>
+    <id>urn:2022-09-05T08:16:10.428Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-05T06:41:48.755Z</updated>
+    <updated>2022-09-05T08:16:10.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Devuanu včera vypršel klíč, co dělat?]]></title>
+        <id>www.root.cz-actuality-43958</id>
+        <link href="https://www.root.cz/zpravicky/denuvanu-vcera-vyprsel-klic-co-delat/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-05T07:49:38.000Z</updated>
+        <summary type="html"><![CDATA[Distribuce Devuan je v podstatě Debian bez systemd. Včera však vypršel klíč BB23C00C61FC752C k repozitářům z roku 2017. Už jsou k dispozici nové klíče devuan-keyring_2022.09.04_all.deb, ty ale běžným způsobem nenainstalujete. Co může uživatel v takovém případě dělat? První možností je instalovat balíček klíčů bez kontroly klíči:]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pirate IPTV: Couple Sold Illegal Subscriptions & Laundered Money]]></title>
+        <id>https://torrentfreak.com/?p=223682</id>
+        <link href="https://torrentfreak.com/pirate-iptv-couple-sold-illegal-subscriptions-laundered-money-220905/"/>
+        <updated>2022-09-05T07:43:05.000Z</updated>
+        <summary type="html"><![CDATA[A man has gone on trial in Sweden accused of selling pirate IPTV subscriptions and pre-configured set-top boxes. A two-year investigation led to the seizure of almost $93,000 in cash and a Tesla. After claiming she was unaware of her partner's activities, a woman faces money laundering charges. 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking v praxi: od sociálního inženýrství po bankomaty (školení)]]></title>
+        <id>www.root.cz-actuality-40997</id>
+        <link href="https://www.root.cz/zpravicky/hacking-v-praxi-od-socialniho-inzenyrstvi-po-bankomaty-skoleni-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-05T07:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Přijďte prozkoumat tajuplný svět hackingu a množství jeho jednotlivých zákoutí. Průvodcem na této cestě vám bude zkušený etický hacker s mnohaletou praxí, který se s vámi podělí o své zkušenosti. Stačí navštívit naše školení Hacking v praxi 1, na kterém proniknete do světa útočníků a jejich obětí. Školení proběhne v naší pražské školicí místnosti ve dnech 19. až 21. září.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtuální Bastlírna vol. 18: jak si doma udělat pořádek v hardware]]></title>
         <id>www.root.cz-actuality-43957</id>
@@ -62,6 +93,16 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU Grep 3.8]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/gnu-grep-3.8</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/gnu-grep-3.8"/>
+        <updated>2022-09-04T23:11:07.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze 3.8 programu GNU Grep (Wikipedie), tj. programu, jenž čte data ze souborů nebo standardního vstupu a na základě regulárního výrazu vypíše na standardní výstup řádky, které danému regulárnímu výrazu vyhovují, nebo nevyhovují. Uživatelé egrepu a fgrepu jsou nově upozorňování, že příkazy egrep a fgrep jsou zastaralé a měl by se místo nich používat grep -E a grep -F.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1916,16 +1957,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brave 1.43]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/brave-1.43</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/brave-1.43"/>
-        <updated>2022-09-01T23:26:14.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 1.43 webového prohlížeče Brave (Wikipedie, GitHub). Postavena je na Chromiu 105. Z novinek lze zdůraznit možnost zobrazení až 48 webů na domovské stránce (Twitter) nebo překlad stránek pomocí Lingvanex (Twitter).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Game Dev Uses Steam To Yell About Keffals And Be Transphobic For Some Reason (Update)]]></title>
         <id>1849487860</id>
         <link href="https://kotaku.com/keffals-steam-dev-rant-domina-sorrenti-patch-notes-pc-1849487860"/>
@@ -3451,16 +3482,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAlt má program, proběhne už 17. a 18. září v Brně]]></title>
-        <id>www.root.cz-actuality-43935</id>
-        <link href="https://www.root.cz/zpravicky/openalt-ma-program-probehne-uz-17-a-18-zari-v-brne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-30T13:56:27.000Z</updated>
-        <summary type="html"><![CDATA[Konference OpenAlt má program přednášek a po dvou letech online vrací k osobnímu setkávání. Forma bude jako obvykle hybridní, konferenci bude možné sledovat offline i online zároveň. Letos byl opuštěn tradiční listopadový termín a konference OpenAlt proběhne už o víkendu 17. a 18. září 2022 na FIT VUT v Brně.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The original Mafia is going free on Steam for a limited time to mark the series 20th anniversary]]></title>
         <id>https://www.rockpapershotgun.com/the-original-mafia-is-going-free-on-steam-for-a-limited-time-to-mark-the-series-20th-anniversary</id>
         <link href="https://www.rockpapershotgun.com/the-original-mafia-is-going-free-on-steam-for-a-limited-time-to-mark-the-series-20th-anniversary"/>
@@ -3534,16 +3555,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD ohlásila Zen 4, slušný nárůst IPC, AVX-512 ale i výrazný nárůst spotřeby]]></title>
-        <id>www.root.cz-actuality-43934</id>
-        <link href="https://www.root.cz/zpravicky/amd-ohlasila-zen-4-slusny-narust-ipc-avx-512-ale-i-vyrazny-narust-spotreby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-30T08:29:01.000Z</updated>
-        <summary type="html"><![CDATA[Společnost AMD ohlásila čtvrtou generaci procesorů architektury Zen, vyráběnou 5nm procesem u TSMC. Desktopové Ryzeny reprezentuje vlajkový model Ryzen 9 7950X s 16 CPU jádry (32× HT) schopný běhu na frekvenci až 5,85 GHz (PBO boost), ale s TDP 170W a až 230W maximální spotřebou. AMD též přešla z pinů na plošky, tedy „socket“ AM5 je LGA, podobně jako procesory Intel posledních 15 let. Nechybí DDR5, PCI Express 5.0 a další současná výbava. Jako první jde v září na trh čipset X670, B650 se objeví v říjnu. Nové Ryzeny budou v prodeji od 27. září.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4478,17 +4489,6 @@ Original Story, 8/25/22, 8:09 a.m.
 Sony Interactive Entertainment revealed that it raised the price of PlayStation 5 consoles, both the digital disc drive edit…]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yout.com Site Blocking ‘Whack-a-Mole’ Continues in Peru]]></title>
-        <id>https://torrentfreak.com/?p=223105</id>
-        <link href="https://torrentfreak.com/yout-com-site-blocking-whack-a-mole-continues-in-peru-220825/"/>
-        <updated>2022-08-25T09:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Popular stream-ripping site Yout.com finds itself blocked again by Peruvian ISPs. Just a few months ago the service protested a similar blockade. The Government isn't easily defeated though, as it simply requested another temporary blockade, pending an investigation. And while the formal deadline has passed, getting the blockade lifted is easier said than done.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
