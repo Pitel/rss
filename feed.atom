@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T04:17:21.744Z</id>
+    <id>urn:2022-09-06T06:55:33.935Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-06T04:17:21.744Z</updated>
+    <updated>2022-09-06T06:55:33.935Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa dostane softwarový fallback pro S3TC]]></title>
+        <id>www.root.cz-actuality-43962</id>
+        <link href="https://www.root.cz/zpravicky/mesa-dostane-softwarovy-fallback-pro-s3tc/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-06T06:24:40.000Z</updated>
+        <summary type="html"><![CDATA[Za pár týdnů uběhne 5 let od expirace většiny patentů na mechanismus ztrátové komprese textur S3TC, vyvinutý na bázi dřívějších algoritmů v S3 Graphics ve druhé polovině 90. let. S3TC je historicky široce používaný kompresní mechanismus, který mívá velmi širokou podporu v grafickém hardwaru a jeho ovladačích, nicméně i tak existují GPU implementace, které S3TC neumí. Pro ně vzniká softwarový fallback v rámci projektu Mesa.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random: Wii U Emulation On Valve's Steam Deck Supports Gyro Controls]]></title>
         <id>https://www.nintendolife.com/#article-137164</id>
@@ -23,7 +33,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.nintendolife.com/#article-137162</id>
         <link href="https://www.nintendolife.com/news/2022/09/toby-fox-provides-deltarune-development-update-no-new-chapters-this-year"/>
         <updated>2022-09-06T02:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Instead teases some anniversary plans.
+        <summary type="html"><![CDATA[But there are some anniversary plans.
 Undertale creator Toby Fox has shared a development update on his current project Deltarune. If you have been wondering where the next chapter is, it seems there won't be any new chapters released this year.
 Toby shared this news via his Twitter account:
 Read the full article on nintendolife.com]]></summary>
@@ -3385,16 +3395,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google rozšířil svůj program bug bounty také na otevřené projekty]]></title>
-        <id>www.root.cz-actuality-43938</id>
-        <link href="https://www.root.cz/zpravicky/google-rozsiril-svuj-program-bug-bounty-take-na-otevrene-projekty/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-31T06:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Google spustil nový program bug bounty (odměna za nalezenou chybu), který je součástí projektu Open Source Software Vulnerability Rewards Program (OSS VRP) a pokrývá open-source projekty vyvíjené Googlem. Jedná se například o populární nástroje Bazel, Angular, Golang, Protocol buffers nebo Fuchsia.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
