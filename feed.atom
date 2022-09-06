@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-06T06:55:33.935Z</id>
+    <id>urn:2022-09-06T08:16:25.884Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-06T06:55:33.935Z</updated>
+    <updated>2022-09-06T08:16:25.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EU chce opravitelné telefony s aktualizacemi 5 let od ukončení prodejů]]></title>
+        <id>www.root.cz-actuality-43963</id>
+        <link href="https://www.root.cz/zpravicky/eu-chce-opravitelne-smartphony-s-aktualizacemi-5-let-od-ukonceni-prodeju/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-06T07:47:32.000Z</updated>
+        <summary type="html"><![CDATA[Legislativci Evropské unie připravují nová pravidla řešící opravitelnost chytrých telefonů a tabletů ve snaze redukovat množství e-odpadu, který tento segment produkuje.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mesa dostane softwarový fallback pro S3TC]]></title>
         <id>www.root.cz-actuality-43962</id>
@@ -125,6 +135,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Compiler Explorer: až nečekaně užitečný nástroj pro vývojáře]]></title>
+        <id>www.root.cz-text-16200</id>
+        <link href="https://www.root.cz/clanky/compiler-explorer-az-necekane-uzitecny-nastroj-pro-vyvojare/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-05T22:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Seznámíme se s užitečným projektem, který se nazývá Compiler Explorer. Jedná se o webovou aplikaci, která dokáže přeložit zdrojové kódy napsané v různých jazycích buď do assembleru zvoleného procesoru nebo (pro určité jazyky) do bajtkódu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SharePoint jako síťový disk přes WebDAV aneb přístup z Linuxu]]></title>
         <id>www.root.cz-text-16156</id>
         <link href="https://www.root.cz/clanky/sharepoint-jako-sitovy-disk-pres-webdav-aneb-pristup-z-linuxu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -132,16 +152,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[S rostoucí popularitou Office 365 se může linuxový uživatel dostat do situace, kdy bude nucen pracovat se soubory uloženými na platformě SharePoint. Ukážeme si proto rozumný způsob jak toho dosáhnout pomocí rozšíření WebDAV.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Radek Svatoň)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compiler Explorer: až nečekaně užitečný nástroj pro vývojáře]]></title>
-        <id>www.root.cz-text-16200</id>
-        <link href="https://www.root.cz/clanky/compiler-explorer-az-necekane-uzitecny-nastroj-pro-vyvojare/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-05T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Seznámíme se s užitečným projektem, který se nazývá Compiler Explorer. Jedná se o webovou aplikaci, která dokáže přeložit zdrojové kódy napsané v různých jazycích buď do assembleru zvoleného procesoru nebo (pro určité jazyky) do bajtkódu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
         </author>
     </entry>
     <entry>
@@ -3372,16 +3382,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/debian-bude-hlasovat-o-nesvobodnych-firmwarech-na-stole-jsou-tri-navrhy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-08-31T08:30:00.000Z</updated>
         <summary type="html"><![CDATA[Steve McIntyre, vývojář a někdejší šéf projektu Debian, se rozhodl řešit chaos kolem přístupu Debianu k nesvbodným firmwarům. Projekt tak čeká hlasování o obecném usnesení, přičemž navrženy jsou tři možnosti, co s tím.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 105 přináší API HTML Sanitizer, Container Queries či vylepšení běhu PWA]]></title>
-        <id>www.root.cz-actuality-43939</id>
-        <link href="https://www.root.cz/zpravicky/chrome-105-prinasi-api-html-sanitizer-container-queries-ci-vylepseni-behu-pwa/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-08-31T08:08:17.000Z</updated>
-        <summary type="html"><![CDATA[Nějaké zásadní novinky pro koncové uživatele od Chrome 105 nečekejme. Tvůrci tentokrát pracovali zejména na věcech v pozadí, například implementaci API HTML Sanitizer (což pomůže proti XSS) či CSS Container Queries a pseudo třídu :modal (více na MDN).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
