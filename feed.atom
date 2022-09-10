@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-10T12:22:05.705Z</id>
+    <id>urn:2022-09-10T14:11:49.186Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-10T12:22:05.705Z</updated>
+    <updated>2022-09-10T14:11:49.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Aims To Squeeze More EPYC Performance Out Of Linux With User-Space Hinting For Tasks]]></title>
+        <id>https://www.phoronix.com/news/AMD-User-Space-Hiting-Linux</id>
+        <link href="https://www.phoronix.com/news/AMD-User-Space-Hiting-Linux"/>
+        <updated>2022-09-10T13:36:44.000Z</updated>
+        <summary type="html"><![CDATA[AMD engineers are working to better optimize the Linux kernel's scheduler for split-LLC (last level cache) processor designs, namely to benefit their EPYC server processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Tinykin - A Wholesome Platforming Spin On Pikmin]]></title>
+        <id>https://www.nintendolife.com/#article-137168</id>
+        <link href="https://www.nintendolife.com/reviews/switch-eshop/tinykin"/>
+        <updated>2022-09-10T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Good things come in small packages.
+Splashteam, developer of the humourous 2D platformer Splasher, is back again but with a different cast of curious creatures in its newest project, Tinykin. It's an imaginative and very pleasant 3D platformer that challenges you to think outside the box and find a new purpose in everyday objects — especially since they'll be the only thing to help you escape the '90s house you've found yourself in. But it's okay, you're not alone; Tinykin is filled to the brim with intriguing NPCs to guide the way.
+You take on the role of Milodane, an explorer and astronaut who finds himself in a cluttered house on planet Earth, but this house has an unusual atmosphere, and there are no humans. Instead, each room is infested with an array of talkative insects who quickly request Milo's help for the rewards of something we see as a mundane household object, but to Milo, they are the key to repairing his ship and finally heading home.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crikey! TY The Tasmanian Tiger 4 Is Getting A Nintendo Switch Release]]></title>
         <id>https://www.nintendolife.com/#article-137429</id>
@@ -12,7 +35,7 @@
         <updated>2022-09-10T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Celebrating 20 years down under.
 The Aussie developer Krome Studios has today announced TY the Tasmanian Tiger 4 is "coming soon" to Switch.
-This particular entry in the series originally made its debut on PC in 2015 and is a new 2D adventure featuring the award-winning art of TY's creator, Steve Stamatiadis, and 40 levels of platforming adventures. The Switch version will come with some enhancements, including English voiceovers, more music, and remastered cut scenes (via Nintendo Everything).
+This particular entry in the series originally debuted on PC in 2013 (eventually landing on Steam in 2015) and is a new 2D adventure featuring the art of TY's creator, Steve Stamatiadis, and 40 levels of platforming adventures. The Switch version will come with some enhancements, including English voiceovers, more music, and remastered cut scenes (via Nintendo Everything).
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1548,19 +1571,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These Stunning Hollow Knight Mini Figurines Need A Home On Your Shelf]]></title>
-        <id>https://www.nintendolife.com/#article-137360</id>
-        <link href="https://www.nintendolife.com/news/2022/09/these-stunning-hollow-knight-mini-figurines-need-a-home-on-your-shelf"/>
-        <updated>2022-09-09T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Collect all eight.
-
-While we wait on the next Hollow Knight: Silksong update, Fangamer has announced its Hollow Knight mini figurine line is now available for purchase.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Railbound Is A Beautiful Puzzle Game About Dogs And Trains]]></title>
         <id>1849515242</id>
         <link href="https://kotaku.com/railbound-pc-mac-ios-impressions-dog-train-puzzle-1849515242"/>
@@ -2891,16 +2901,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/Blender-More-oneAPI-GPU"/>
         <updated>2022-09-07T09:49:10.000Z</updated>
         <summary type="html"><![CDATA[Blender 3.3 is set to be released today and one of the exciting enhancements with this open-source, cross-platform 3D modeling software update is initial support for Intel oneAPI/SYCL GPU acceleration. Intel Arc Graphics discrete GPUs can now enjoy this accelerated Cycles back-end, permitting your driver stack is new enough on Windows or Linux and are using their new dGPUs and not existing integrated graphics. But this is just the start of their oneAPI GPU-accelerated push for Blender...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest Mesa AGX Work Points To More Apple M1/M2 Similarities With PowerVR Graphics]]></title>
-        <id>https://www.phoronix.com/news/Mesa-AGX-More-PVR-Reference</id>
-        <link href="https://www.phoronix.com/news/Mesa-AGX-More-PVR-Reference"/>
-        <updated>2022-09-07T09:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Since Apple introduced the M1 two years ago as their in-house Apple Silicon for laptops and desktops with a powerful AArch64 processor and custom-designed graphics processor, there has been much speculation about whether the Apple M1 (and now M2) graphics are a clean-sheet Apple design or derived from Imagination PowerVR graphics that Apple had been using with earlier SoCs. There has been some similarities brought up before with the Asahi Linux team working on enabling the Apple M1/M2 under Linux while the latest Mesa driver activity points to more common bits between PowerVR graphics hardware and the Apple AGX graphics...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
