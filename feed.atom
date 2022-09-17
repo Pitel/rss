@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-17T10:13:31.382Z</id>
+    <id>urn:2022-09-17T12:22:38.841Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-17T10:13:31.382Z</updated>
+    <updated>2022-09-17T12:22:38.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Call Depth Tracking For Less Costly Retbleed Mitigation Hopes To Land Soon]]></title>
+        <id>https://www.phoronix.com/news/Call-Depth-Tracking-Hope-Soon</id>
+        <link href="https://www.phoronix.com/news/Call-Depth-Tracking-Hope-Soon"/>
+        <updated>2022-09-17T11:05:55.000Z</updated>
+        <summary type="html"><![CDATA[Longtime Linux kernel engineer Peter Zijlstra with Intel has sent out his latest "Call Depth Tracking" patches as a mitigiation for Retbleed that aims to be less costly on system performance than the current mitigation approach. With this latest patch series, he indicates he hopes to soon get this code mainlined...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux's Display Brightness/Backlight Interface Is Finally Being Overhauled]]></title>
+        <id>https://www.phoronix.com/news/2022-Linux-Backlight-Overhaul</id>
+        <link href="https://www.phoronix.com/news/2022-Linux-Backlight-Overhaul"/>
+        <updated>2022-09-17T10:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Hans de Goede of Red Hat has been involved with many great Linux desktop/laptop hardware improvements over the years for work that would have otherwise likely gone unaddressed. One of the initiatives he has been focusing on recently that has long been a sore point for Linux laptops has been the user-space backlight/brightness interface. This week at Linux Plumbers Conference was a presentation on this effort that has long been ripe for improvement...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
         <id>https://www.destructoid.com/?p=343810</id>
@@ -779,6 +799,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Phoronix Oktoberfest Special Begins, Premium Now Accept Stripe & Corporate Subscriptions Available]]></title>
+        <id>https://www.phoronix.com/news/Oktoberfest-Sale-2022</id>
+        <link href="https://www.phoronix.com/news/Oktoberfest-Sale-2022"/>
+        <updated>2022-09-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A decade ago there used to be an annual Phoronix pilgrimage (and closest thing in many years to taking a vacation/holiday/day-off for me) to Oktoberfest and a meet-up of Phoronix readers. While Oktoberfest is kicking off this weekend in Munich after a two year hiatus due to the pandemic, unfortunately, there is no Phoronix event. But will be in spirit and making use of the occasion by running the annual "Oktoberfest sale" if wishing to show your support for all the Linux hardware reviews, benchmarking, and open-source news carried out each and every day. Additionally, Stripe is now accepted for Phoronix Premium subscriptions as an alternative to PayPal. Phoronix Premium corporate subscriptions are also now being offered...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lost Ark starts knocking them back early as Arktoberfest begins today]]></title>
         <id>https://www.rockpapershotgun.com/lost-ark-starts-knocking-them-back-early-as-arktoberfest-begins-today</id>
         <link href="https://www.rockpapershotgun.com/lost-ark-starts-knocking-them-back-early-as-arktoberfest-begins-today"/>
@@ -1215,16 +1245,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Avast koupil oblíbené rozšíření webových prohlížečů I don't care about cookies, jež automaticky povoluje používání cookies.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phoronix Oktoberfest Special Begins, Premium Now Accept Stripe & Corporate Subscriptions Available]]></title>
-        <id>https://www.phoronix.com/news/Oktoberfest-Sale-2022</id>
-        <link href="https://www.phoronix.com/news/Oktoberfest-Sale-2022"/>
-        <updated>2022-09-16T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A decade ago there used to be an annual Phoronix pilgrimage (and closest thing in many years to taking a vacation/holiday/day-off for me) to Oktoberfest and a meet-up of Phoronix readers. While Oktoberfest is kicking off this weekend in Munich after a two year hiatus due to the pandemic, unfortunately, there is no Phoronix event. But will be in spirit and making use of the occasion by running the annual "Oktoberfest sale" if wishing to show your support for all the Linux hardware reviews, benchmarking, and open-source news carried out each and every day. Additionally, Stripe is now accepted for Phoronix Premium subscriptions as an alternative to PayPal. Phoronix Premium corporate subscriptions are also now being offered...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2997,16 +3017,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.1 To Try Enabling HID++ For All Logitech Bluetooth Devices]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Try-Logitech-HID-BT</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Try-Logitech-HID-BT"/>
-        <updated>2022-09-14T09:36:04.000Z</updated>
-        <summary type="html"><![CDATA[A change queued in HID-next ahead of the Linux 6.1 cycle aims to enable HID++ protocol usage for all Logitech Bluetooth devices...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[3D engine Godot má již 17. alfa verzi řady 4.0, vybral přes 8 miliónů dolarů]]></title>
         <id>www.root.cz-actuality-43986</id>
         <link href="https://www.root.cz/zpravicky/3d-engine-godot-ma-jiz-17-alfa-verzi-rady-4-0-vybral-pres-8-milionu-dolaru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3109,16 +3119,6 @@ Additionally, it seems Atreus is hiding critical information from his father, Kr
 We’ll have to wait to find the answers to these questions when God Of War Ragnarök releases on November 8. In the meantime, let me know your story theories in the comments below!]]></summary>
         <author>
             <name>Alex Van Aken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MGLRU Looks Like One Of The Best Linux Kernel Innovations Of The Year]]></title>
-        <id>https://www.phoronix.com/news/MGLRU-LPC-2022</id>
-        <link href="https://www.phoronix.com/news/MGLRU-LPC-2022"/>
-        <updated>2022-09-13T23:35:14.000Z</updated>
-        <summary type="html"><![CDATA[Hopefully being mainlined next cycle with Linux 6.1 is the Multi-Gen LRU, or better known as MGLRU, as a superior alternative to the kernel's existing page reclamation code. Assuming it lands for Linux 6.1 as the last complete kernel cycle of 2022, this would make it one of the most exciting innovations to make it into the kernel this year...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
