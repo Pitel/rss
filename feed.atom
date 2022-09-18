@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-18T12:23:04.617Z</id>
+    <id>urn:2022-09-18T14:11:06.205Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-18T12:23:04.618Z</updated>
+    <updated>2022-09-18T14:11:06.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Piracy Advertising Researchers Fall Victim to Ransomware Attacks]]></title>
+        <id>https://torrentfreak.com/?p=224174</id>
+        <link href="https://torrentfreak.com/piracy-advertising-researchers-fall-victim-to-ransomware-attacks/"/>
+        <updated>2022-09-18T14:05:04.000Z</updated>
+        <summary type="html"><![CDATA[New research shared by the entertainment industry-backed Digital Citizens Alliance finds that 12% of all ads on pirate streaming sites are linked to malware. The problem is so bad that the researchers fell prey to multiple ransomware attacks. Intriguingly, the findings also suggest that pirate sites are 'safer' than before, although that greatly depends on which studies you look at.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux getrandom() vDSO Patch Updated For ~15x Speedup]]></title>
+        <id>https://www.phoronix.com/news/Linux-getrandom-vDSO-v2</id>
+        <link href="https://www.phoronix.com/news/Linux-getrandom-vDSO-v2"/>
+        <updated>2022-09-18T13:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Over the summer Jason Donenfeld of WireGuard fame proposed adding getrandom() to the vDSO for better performance to enjoy by user-space developers. This past week he sent out the latest version of this proposed kernel patch where he's seeing around a ~15x speed-up with this change...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MGLRU v15 Published For Last Minute Testing Of This Major Linux Improvement]]></title>
+        <id>https://www.phoronix.com/news/MGLRU-v15-Published</id>
+        <link href="https://www.phoronix.com/news/MGLRU-v15-Published"/>
+        <updated>2022-09-18T13:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Google engineer Yu Zhao this morning published MGLRU v15, the latest revision to this patch series dealing with improving the Linux kernel's page reclamation code. Multi-Gen LRU "MGLRU" has proven to offer performance benefits and particularly improve the Linux experience when dealing with low-memory situations...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: Square Enix Shares 20 Minutes Of Octopath Traveler II Gameplay Footage]]></title>
+        <id>https://www.nintendolife.com/#article-137903</id>
+        <link href="https://www.nintendolife.com/news/2022/09/video-square-enix-shares-20-minutes-of-octopath-traveler-ii-gameplay-footage"/>
+        <updated>2022-09-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Launching on Switch February 2023.
+One of the many surprises of the Nintendo Direct earlier this week was the announcement of Octopath Traveler II, a direct follow-up to Square Enix's 2018 retro-inspired RPG featuring HD-2D graphics.
+This next one will follow eight new travellers as they journey through the land of Solista. Each one has their own story to tell and their paths even intertwine. If you're curious to see more after the initial announcement trailer, the good news is Square Enix has shown off 20 minutes of new gameplay footage at this year's Tokyo Game Show.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rumor: GTA 6 ‘leak’ includes dev footage, screens, and plot details]]></title>
         <id>https://www.destructoid.com/?p=344961</id>
@@ -1478,19 +1522,6 @@ The post Wo Long has a limited-time demo on PS5 and Xbox Series X/S appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lots Of Splatoon amiibo Have Been Restocked To Coincide With Splatoon 3's Launch]]></title>
-        <id>https://www.nintendolife.com/#article-137845</id>
-        <link href="https://www.nintendolife.com/news/2022/09/lots-of-splatoon-amiibo-have-been-restocked-to-coincide-with-splatoon-3s-launch"/>
-        <updated>2022-09-16T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[And they all work with the new game.
-If you've been having a blast with Splatoon 3 and want to unlock some extra in-game goodies, or if you're simply wanting to fill in the gaps of your ever-growing amiibo collection, you'll be pleased to know that plenty of Splatoon series amiibo have been restocked.
-As well as looking lovely on your shelf, all Splatoon amiibo unlock special rewards in the newly-released Splatoon 3 (you can check the full list of rewards here: Splatoon 3 amiibo Unlocks And Rewards - Full List).
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The first two classic Suikoden RPGs are coming to PC as an HD remaster]]></title>
         <id>https://www.rockpapershotgun.com/the-first-two-classic-suikoden-rpgs-are-coming-to-pc-as-an-hd-remaster</id>
         <link href="https://www.rockpapershotgun.com/the-first-two-classic-suikoden-rpgs-are-coming-to-pc-as-an-hd-remaster"/>
@@ -2648,16 +2679,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Endeavour OS  22.9 "Artemis Nova" Released]]></title>
-        <id>https://www.phoronix.com/news/Endeavour-OS-22.9-Released</id>
-        <link href="https://www.phoronix.com/news/Endeavour-OS-22.9-Released"/>
-        <updated>2022-09-14T23:20:26.000Z</updated>
-        <summary type="html"><![CDATA[Endeavour OS 22.9 "Artemis Nova" is out today as the newest version of this enthusiast-oriented Linux distribution built around Arch Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Překladače jazyka C pro historické osmibitové mikroprocesory]]></title>
         <id>www.root.cz-text-16216</id>
         <link href="https://www.root.cz/clanky/prekladace-jazyka-c-pro-historicke-osmibitove-mikroprocesory/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2717,16 +2738,6 @@ Read more...]]></summary>
         <link href="https://www.phoronix.com/review/linux60-5950x-12900k"/>
         <updated>2022-09-14T18:50:21.000Z</updated>
         <summary type="html"><![CDATA[Ahead of Intel Raptor Lake and AMD Zen 4, it's a lot of fresh CPU re-testing at Phoronix under Linux with the bleeding-edge software stack of the latest Linux kernel as well as many new/updated benchmarks, the latest motherboard BIOSes, and more. As over the past year there has been a lot of work by Intel open-source engineers around better tuning the Linux kernel for their hybrid architecture, here are some fresh side-by-side benchmarks of the Intel Core i9 12900K against the AMD Ryzen 9 5950X.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RADV Driver Sees Dramatic Improvement To Reduce CPU Overhead For Draw Calls]]></title>
-        <id>https://www.phoronix.com/news/RADV-Lower-Draw-CPU-Overhead</id>
-        <link href="https://www.phoronix.com/news/RADV-Lower-Draw-CPU-Overhead"/>
-        <updated>2022-09-14T18:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Mike Blumenkrantz has been working under contract for Valve on the open-source Zink OpenGL-on-Vulkan implementation for Mesa but that work has carried over into the Mesa Vulkan drivers too where there is common overlap. His recent work has been focused on lowering the CPU overhead of some operations with the RADV Vulkan driver...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -4677,17 +4688,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 The post The latest update to Raspberry Pi OS appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Simon Long</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$0.50 Per Month Pirate IPTV Packages Hit By beIN Emergency Injunction]]></title>
-        <id>https://torrentfreak.com/?p=223869</id>
-        <link href="https://torrentfreak.com/0-50-per-month-pirate-iptv-packages-hit-by-bein-emergency-injunction-220907/"/>
-        <updated>2022-09-07T08:20:50.000Z</updated>
-        <summary type="html"><![CDATA[beIN Media Group says it has won an emergency injunction to stop a Tunisian retailer selling pirate IPTV subscriptions. At the time of writing, MyTek offers pirate packages alongside the official package offered by beIN. One costs around $220 per year, the other costs $9 for 18 months.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
