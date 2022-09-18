@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-17T22:12:29.433Z</id>
+    <id>urn:2022-09-18T01:17:18.610Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-17T22:12:29.433Z</updated>
+    <updated>2022-09-18T01:17:18.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Engineers Argue For Linux "ASI" To Better Deal With Speculative Execution Attacks]]></title>
+        <id>https://www.phoronix.com/news/Google-LPC-ASI-2022</id>
+        <link href="https://www.phoronix.com/news/Google-LPC-ASI-2022"/>
+        <updated>2022-09-17T23:42:45.000Z</updated>
+        <summary type="html"><![CDATA[Proposed a few years ago was Kernel Address Space Isolation (KASI / ASI) for limiting data leaks with the growing number of speculative execution attacks on CPUs. Several organizations have been involved with Address Space Isolation efforts for the Linux kernel including IBM, Oracle, and Google with various approaches. Google engineers earlier this year posted a newer iteration of ASI focused on KVM use for the cloud / VMs. ASI still hasn't made it to the mainline kernel but Google engineers this week at LPC argued that it should be the path forward for mainline in better dealing with these CPU security vulnerabilities...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Týden na ITBiz: Krychlový arsenid boru by mohl konkurovat křemíku]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-krychlovy-arsenid-boru-by-mohl-konkurovat-kremiku</id>
@@ -87,16 +97,6 @@ One of my most anticipated games of this fall is also one of the silliest on the
 This extensive trailer works as a refresher for what the Monster Rancher series is, giving you a look at everything that goes into raising …]]></summary>
         <author>
             <name>CJ Andriessen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Engineers Argue For Linux "ASI" To Better Deal With Speculative Execution Attacks]]></title>
-        <id>https://www.phoronix.com/news/Google-LPC-ASI-2022</id>
-        <link href="https://www.phoronix.com/news/Google-LPC-ASI-2022"/>
-        <updated>2022-09-17T18:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Proposed a few years ago was Kernel Address Space Isolation (KASI / ASI) for limiting data leaks with the growing number of speculative execution attacks on CPUs. Several organizations have been involved with Address Space Isolation efforts for the Linux kernel including IBM, Oracle, and Google with various approaches. Google engineers earlier this year posted a newer iteration of ASI focused on KVM use for the cloud / VMs. ASI still hasn't made it to the mainline kernel but Google engineers this week at LPC argued that it should be the path forward for mainline in better dealing with these CPU security vulnerabilities...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
