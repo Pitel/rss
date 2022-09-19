@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T10:15:09.826Z</id>
+    <id>urn:2022-09-19T12:29:13.574Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-19T10:15:09.826Z</updated>
+    <updated>2022-09-19T12:29:13.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Začaly práce na ovladači e1000 v Rustu]]></title>
+        <id>www.root.cz-actuality-43996</id>
+        <link href="https://www.root.cz/zpravicky/zacaly-prace-na-ovladaci-e1000-v-rustu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-19T12:15:22.000Z</updated>
+        <summary type="html"><![CDATA[Podpora pro moduly napsané v Rustu ještě sice není v mainline jádře, ale už se o ní dlouho hovoří. Nedávno jsme tu měli ovladač pro NVMe s rychlostí srovnatelnou s tradičním ovladačem v C.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Meteor Lake Enablement Readied For Intel Graphics Driver With Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Final-i915-PR</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Final-i915-PR"/>
+        <updated>2022-09-19T11:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Along with the last drm-intel-gt-next pull for Linux 6.1, a final drm-intel-next pull request of new feature code was submitted to DRM-Next ahead of the upcoming Linux 6.1 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacker News jako retro desktop s MacOS 8 z devadesátek]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/hacker-news-jako-retro-desktop-s-macos-8-z-devadesatek</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/hacker-news-jako-retro-desktop-s-macos-8-z-devadesatek"/>
+        <updated>2022-09-19T10:51:57.000Z</updated>
+        <summary type="html"><![CDATA[Hacker News jako retro desktop s MacOS 8 z devadesátek (Hacker News, GitHub).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More AMD Ryzen Laptops See Suspend-To-Idle Fix]]></title>
+        <id>https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux</id>
+        <link href="https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux"/>
+        <updated>2022-09-19T10:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this month I wrote about AMD working on s2idle fixes for some AMD Ryzen 6000 series "Rembrandt" laptops. At the time it was just for select ASUS laptops known to have a bug in the firmware resulting in suspend-to-idle issues while now additional models not only from ASUS but also Lenovo have been uncovered...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PacketFence 12]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/packetfence-12</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/packetfence-12"/>
+        <updated>2022-09-19T10:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová major verze 12 svobodného systému pro řízení přístupu k síti (NAC) PacketFence (Wikipedie). Přehled novinek v oznámení o vydání. Pro uživatele předchozích verzí jsou k dispozici poznámky k aktualizaci.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Sonic Will Apparently Be Mandatory For Some Bosses In Sonic Frontiers]]></title>
+        <id>https://www.nintendolife.com/#article-137921</id>
+        <link href="https://www.nintendolife.com/news/2022/09/super-sonic-will-apparently-be-mandatory-for-some-bosses-in-sonic-frontiers"/>
+        <updated>2022-09-19T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA["There will be bosses that blue Sonic can't even scratch".
+Sega's 'open-zone' Sonic Frontiers is racing toward its launch on November 8th and we've now got a bit more context around boss battles and how Super Sonic will factor into them.
+In speaking with IGN, Sonic Frontiers director Morio Kishimoto states that Super Sonic will be mandatory in order to defeat certain bosses discovered within the open zones:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loongson Preparing Linux For LoongArch Laptops]]></title>
+        <id>https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep</id>
+        <link href="https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep"/>
+        <updated>2022-09-19T10:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Chinese hardware vendor Loongson Technology continues working on the LoongArch code for the Linux kernel for their in-house CPU ISA derived from MIPS64. Now that the initial code has been mainlined since 5.19 and some of the necessary other critical bits of code are getting squared away, recently they have been working on other missing functionality for supporting their initial LoongArch-based Loongson 3A5000 series SoCs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apologetka X11 zkouší Wayland]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/apologetka-x11-zkousi-wayland</id>
@@ -1504,19 +1577,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Every Nintendo Switch Online Sega Genesis / Mega Drive Game Ranked]]></title>
-        <id>https://www.nintendolife.com/#article-128931</id>
-        <link href="https://www.nintendolife.com/guides/every-nintendo-switch-online-sega-genesis-mega-drive-game-ranked"/>
-        <updated>2022-09-16T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[All the Sega Mega Drive games, ranked by you.
-Updated with Nintendo's September 2022 additions to the Genesis / Mega Drive catalogue — Alisia Dragoon, Beyond Oasis (The Story of Thor) and Earthworm Jim.
-Remember, the ranking below is dynamic and will change according to each game's User Rating in our database. If you haven't previously, feel free to rate the new games and let's see where they settle on the list. Enjoy!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Omega Strikers is a fast-paced new competitive multiplayer game from former Riot devs]]></title>
         <id>https://www.destructoid.com/?p=344845</id>
         <link href="https://www.destructoid.com/omega-strikers-odyssey-interactive-competitive-knockout-action-closed-beta/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=omega-strikers-odyssey-interactive-competitive-knockout-action-closed-beta"/>
@@ -2345,16 +2405,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Lands HEVC Video Encode/Decode Within Mesa Using VA-API To Direct3D 12]]></title>
-        <id>https://www.phoronix.com/news/HEVC-VA-API-To-D3D12-Mesa</id>
-        <link href="https://www.phoronix.com/news/HEVC-VA-API-To-D3D12-Mesa"/>
-        <updated>2022-09-15T17:31:56.000Z</updated>
-        <summary type="html"><![CDATA[In addition to Microsoft continuing to work on OpenGL and OpenCL atop Direct3D 12 by leveraging Mesa in order to benefit Windows Subsystem for Linux (WSL2) and related use-cases, Microsoft engineers have also been working on exposing video acceleration to Linux software backed by Direct3D 12 Video Acceleration...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Drippiest Splatoon 3 Players We've Seen So Far]]></title>
         <id>1849539965</id>
         <link href="https://kotaku.com/splatoon-3-switch-inkling-octoling-fashion-amiibo-gear-1849539965"/>
@@ -2485,16 +2535,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KDE Plasma 5.26 Beta Released With New "Plasma Bigscreen" Interface For TVs]]></title>
-        <id>https://www.phoronix.com/news/KDE-Plasma-5.26-Beta</id>
-        <link href="https://www.phoronix.com/news/KDE-Plasma-5.26-Beta"/>
-        <updated>2022-09-15T14:30:39.000Z</updated>
-        <summary type="html"><![CDATA[The KDE community has today released the beta of the upcoming Plasma 5.26 desktop...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This discounted 1000W 80+ Platinum power supply is ready for RTX 4090]]></title>
         <id>https://www.rockpapershotgun.com/this-1000w-80-platinum-power-supply-is-ready-for-rtx-4090</id>
         <link href="https://www.rockpapershotgun.com/this-1000w-80-platinum-power-supply-is-ready-for-rtx-4090"/>
@@ -2503,16 +2543,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Official Raspberry Pi Handbook 2023]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/the-official-raspberry-pi-handbook-2023</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/the-official-raspberry-pi-handbook-2023"/>
-        <updated>2022-09-15T14:21:17.000Z</updated>
-        <summary type="html"><![CDATA[Byl vydán The Official Raspberry Pi Handbook 2023 (pdf), tj. oficiální dvousetstránková příručka k Raspberry Pi se spoustou nápadů, tipů, projektů a recenzí.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2547,16 +2577,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Engineers Held Several Interesting Talks At This Week's Linux Conferences]]></title>
-        <id>https://www.phoronix.com/news/AMD-Dublin-Linux-Talks-2022</id>
-        <link href="https://www.phoronix.com/news/AMD-Dublin-Linux-Talks-2022"/>
-        <updated>2022-09-15T13:35:21.000Z</updated>
-        <summary type="html"><![CDATA[While we are used to seeing Intel engineers dominating the speaker lists at various Linux events around the world, it's been a number of years since AMD engineers held multiple presentations like they did this week for the Linux Plumbers Conference and now the Open-Source Summit EU taking place in Dublin, Ireland...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2645,16 +2665,6 @@ Before we dive too far into this thing: if you’re here because you’ve got a 
 Read more]]></summary>
         <author>
             <name>Steve Hogarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galene 0.6]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/galene-0.6</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/galene-0.6"/>
-        <updated>2022-09-15T10:45:41.000Z</updated>
-        <summary type="html"><![CDATA[Galene je videokonferenční server. Implementován je v programovacím jazyce Go. Pro WebRTC využívá Pion. Zdrojové kódy jsou k dispozici na GitHubu pod licencí MIT. V sobotu byla vydána verze 0.6.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4561,16 +4571,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Specifikace dedikovaných grafických karet Intel ARC]]></title>
-        <id>www.root.cz-actuality-43973</id>
-        <link href="https://www.root.cz/zpravicky/specifikace-dedikovanych-grafickych-karet-intel-arc/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-09T12:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Intel včera publikoval specifikace svých dedikovaných grafických karet ARC A380, A580, A750 a A770. Podobně jako u procesorů bude model začínající 3 s nejnižším výkonem, 5 bude střední a 7 s nejvyšším výkonem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
