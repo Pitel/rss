@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-19T08:21:49.510Z</id>
+    <id>urn:2022-09-19T10:15:09.826Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-19T08:21:49.510Z</updated>
+    <updated>2022-09-19T10:15:09.826Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Apologetka X11 zkouší Wayland]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/apologetka-x11-zkousi-wayland</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/apologetka-x11-zkousi-wayland"/>
+        <updated>2022-09-19T09:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Artemis Everfree publikovala na svém blogu příspěvek s názvem An X11 Apologist Tries Wayland (Apologetka X11 zkouší Wayland). Mimo jiné tvrdí, že hry ji na X11 nikdy neběžely tak plynule jako na Waylandu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Porting Begins For Intel's "e1000" Linux Network Driver]]></title>
+        <id>https://www.phoronix.com/news/Intel-e1000-Rust-Driver-WIP</id>
+        <link href="https://www.phoronix.com/news/Intel-e1000-Rust-Driver-WIP"/>
+        <updated>2022-09-19T09:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Adding to the growing examples and early drivers being worked on for the Linux kernel to showcase the possibilities of using the Rust programming language within the kernel, an early port of Intel's e1000 wired networking driver has started...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: Kit And Krysta Claim They Were Nearly Fired Over Nuzlocke Pokémon Run]]></title>
+        <id>https://www.nintendolife.com/#article-137917</id>
+        <link href="https://www.nintendolife.com/news/2022/09/random-kit-and-krysta-claim-they-were-nearly-fired-over-nuzlocke-pokemon-run"/>
+        <updated>2022-09-19T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA["This is on the same level as a hack or ROM".
+Well then, here's your 'Bizarre News Story of the Week™'. In a clip posted on Twitter via the latest episode of the Kit and Krysta podcast, the ex-Nintendo employees received a question from one of their Patreon supporters on whether they had ever played a 'Nuzlocke run' of Pokémon.
+This prompted the pair to recount a story in which they pitched an idea to The Pokémon Company to play a Nuzlocke run on an episode of 'Nintendo Minute'. Apparently, their suggestion was not only promptly shut down, but they allegedly came close to being fired, with The Pokémon Company stating that the Nuzlocke Challenge is "on the same level as a hack or ROM".
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radiant Silvergun Is Hopefully Coming Back To North American Switch eShop Soon]]></title>
+        <id>https://www.nintendolife.com/#article-137648</id>
+        <link href="https://www.nintendolife.com/news/2022/09/radiant-silvergun-is-hopefully-coming-back-to-north-american-switch-eshop-soon"/>
+        <updated>2022-09-19T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Live Wire issues statement.
+Update : Publisher Live Wire has shared an update on the disappearance of Radiant Silvergun from the North American eShop.
+The company states that the game was removed from digital shop fronts because "the product's rating has changed" which is similar to what happened with Mushihimesama last year. Live Wire has submitted the new data to the product board and is waiting for a response, but is hoping that sales will resume on 20th September (PT), though it has acknowledged that the exact dates and times haven't been determined.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Charts: Splatoon 3 Holds Firm In Another Strong Week For Nintendo]]></title>
+        <id>https://www.nintendolife.com/#article-137916</id>
+        <link href="https://www.nintendolife.com/news/2022/09/uk-charts-splatoon-3-holds-firm-in-another-strong-week-for-nintendo"/>
+        <updated>2022-09-19T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Splat-tastic!
+We've got the latest UK Charts for your curious eyes and its another strong week for Nintendo, with Splatoon 3 once again coming in at number one.
+The sequel launched on September 9th to critical acclaim (including our own glowing review) and has clearly proven to be a smash hit with audiences. Over in Japan, it performed even better, becoming the fastest selling Switch game within just three days of its launch.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jason Donenfeld připravil getrandom() ve vDSO]]></title>
+        <id>www.root.cz-actuality-43995</id>
+        <link href="https://www.root.cz/zpravicky/jason-donenfeld-pripravil-getrandom-ve-vdso/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-19T08:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Jason Donenfeld, vývojář WireGuardu, kritizoval nedávné přidání funkce arc4random() do Glibc. Funkce je určená pro kvalitní náhodná čísla a již nějakou dobu nepoužívá arc4. Jason kritizoval spíše způsob inicializace (seed) a připravil rozhraní pro funkci getrandom() v jaderném vDSO (virtual dynamic shared object). Ta jde pak použít jednoduše i v user-space a má všechny výhody a bezpečnou náhodnou inicializaci jaderné implementace.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fotogalerie: na festivalu Maker Faire míchala parfémy uměla inteligence]]></title>
         <id>www.root.cz-text-16227</id>
@@ -302,6 +371,16 @@ The 80-some clips seemingly show everything from full, in-game scenarios to clea
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phoronix Oktoberfest Special Begins, Premium Now Accept Stripe & Corporate Subscriptions Available]]></title>
+        <id>https://www.phoronix.com/news/Oktoberfest-Sale-2022</id>
+        <link href="https://www.phoronix.com/news/Oktoberfest-Sale-2022"/>
+        <updated>2022-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A decade ago there used to be an annual Phoronix pilgrimage (and closest thing in many years to taking a vacation/holiday/day-off for me) to Oktoberfest and a meet-up of Phoronix readers. While Oktoberfest kicked off this weekend in Munich after a two year hiatus due to the pandemic, unfortunately, there is no Phoronix event. But will be in spirit and making use of the occasion by running the annual "Oktoberfest sale" if wishing to show your support for all the Linux hardware reviews, benchmarking, and open-source news carried out each and every day. Additionally, Stripe is now accepted for Phoronix Premium subscriptions as an alternative to PayPal. Phoronix Premium corporate subscriptions are also now being offered...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -981,16 +1060,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phoronix Oktoberfest Special Begins, Premium Now Accept Stripe & Corporate Subscriptions Available]]></title>
-        <id>https://www.phoronix.com/news/Oktoberfest-Sale-2022</id>
-        <link href="https://www.phoronix.com/news/Oktoberfest-Sale-2022"/>
-        <updated>2022-09-16T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A decade ago there used to be an annual Phoronix pilgrimage (and closest thing in many years to taking a vacation/holiday/day-off for me) to Oktoberfest and a meet-up of Phoronix readers. While Oktoberfest is kicking off this weekend in Munich after a two year hiatus due to the pandemic, unfortunately, there is no Phoronix event. But will be in spirit and making use of the occasion by running the annual "Oktoberfest sale" if wishing to show your support for all the Linux hardware reviews, benchmarking, and open-source news carried out each and every day. Additionally, Stripe is now accepted for Phoronix Premium subscriptions as an alternative to PayPal. Phoronix Premium corporate subscriptions are also now being offered...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nightdive are remastering classic FPS Rise Of The Triad]]></title>
         <id>https://www.rockpapershotgun.com/nightdive-are-remastering-classic-fps-rise-of-the-triad</id>
         <link href="https://www.rockpapershotgun.com/nightdive-are-remastering-classic-fps-rise-of-the-triad"/>
@@ -1463,19 +1532,6 @@ Each team plays on a top-down arena, with a goal on either side. The idea is to 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: Nintendo Confirms How To Pronounce Zelda: Tears Of The Kingdom]]></title>
-        <id>https://www.nintendolife.com/#article-137858</id>
-        <link href="https://www.nintendolife.com/news/2022/09/random-nintendo-confirms-how-to-pronounce-zelda-tears-of-the-kingdom"/>
-        <updated>2022-09-16T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yes, it's tears, not tears.
-
-Well, thank goodness that's over with!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Looks Like I Don’t Need To Replay Crisis Core After All]]></title>
         <id>119227</id>
         <link href="https://www.gameinformer.com/tokyo-game-show/2022/09/16/looks-like-i-dont-need-to-replay-crisis-core-after-all"/>
@@ -1535,19 +1591,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: Game Development Lecturers Are Already Showing Off Sakurai's Videos]]></title>
-        <id>https://www.nintendolife.com/#article-137855</id>
-        <link href="https://www.nintendolife.com/news/2022/09/random-game-development-lecturers-are-already-showing-off-sakurais-videos"/>
-        <updated>2022-09-16T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Class is now in session.
-Masahiro Sakurai's YouTube videos are causing quite a stir in the video game community. With short, snappy delivery and easy-to-understand fundamentals, they're proving a hit with both industry veterans and newcomers alike.
-Now, as expected, it appears as though Sakurai's videos are already being utilised in game development lectures. Not particularly surprising in itself, but we must admit, we weren't quite expecting them to show up just yet. The first has been shared by artist @JokarioArt via Automaton; the individual is sat in a game-making class during which the lecturer proceeds to demonstrate one of Sakurai's videos - the one on creating realistic trees, if you want to know!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nintendo Switch Online adds Sega Genesis titles Alisia Dragoon, Earthworm Jim, and Beyond Oasis]]></title>
         <id>https://www.destructoid.com/?p=344807</id>
         <link href="https://www.destructoid.com/nintendo-switch-online-sega-genesis-alisia-dragoon-earthworm-jim-beyond-oasis/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nintendo-switch-online-sega-genesis-alisia-dragoon-earthworm-jim-beyond-oasis"/>
@@ -1583,19 +1626,6 @@ When Resident Evil 4 Remake was revealed during a PlayStation State of Play held
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: NBA 2K23 - Michael Jordan Challenge Is A Slam Dunk In Another Solid Switch Port]]></title>
-        <id>https://www.nintendolife.com/#article-137762</id>
-        <link href="https://www.nintendolife.com/reviews/nintendo-switch/nba-2k23"/>
-        <updated>2022-09-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A 'Magic' season for Switch b-ball.
-It's once again reached that time of year when another entry in the NBA 2K franchise slam-dunks onto our consoles. Yes, it's sometimes difficult to muster much excitement for these annual instalments, and it's easy to dismiss them as just another incremental update that looks and plays almost identically to the previous season's effort. However, NBA 2K23 is worth getting a little more jazzed about than usual, as it combines an excellent new Michael Jordan Challenge mode with, what we reckon, is the best on-court action we've seen from the series thus far, even if this Switch port has had to make some cuts here and there.
-Let's kick things off with that new Michael Jordan Challenge mode, which feels like a fully fleshed-out and richly rewarding part of the game. Here you'll take part in 15 specific challenges based on events from across MJ's career, with each and every one of them presented in exacting detail, featuring era-specific stadiums, kits, commentary and screen filters that give the whole thing a delightfully aged look. This is no throwaway mode, it's a full-on history lesson to sink your teeth into that really brings MJ's early career and biggest NBA moments back to life.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2651,16 +2681,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["Nest" Is An Interesting New Take On Linux Kernel Scheduling For Better CPU Performance]]></title>
-        <id>https://www.phoronix.com/news/Nest-Linux-Scheduling-Warm-Core</id>
-        <link href="https://www.phoronix.com/news/Nest-Linux-Scheduling-Warm-Core"/>
-        <updated>2022-09-15T10:11:29.000Z</updated>
-        <summary type="html"><![CDATA[There has been a number of different efforts in recent time to further enhance the Linux kernel's scheduler to better adapt to modern hardware architectures whether it be for Intel hybrid CPU designs, adapting to new CPU cache configurations, or just better scaling with today's ever-increasing core counts. Another scheduler effort detailed this week is "Nest" that aims to keep tasks on "warm cores" with hopes of lower latency due to being already at higher clock/performance states and ideally operating at an optimal turbo/boost frequency. The Nest developers find that their scheduler "improves performance 10%-2x and can reduce energy usage" with modern hardware...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kiriko Is Overwatch 2's New Kunai-Wielding Support Character]]></title>
         <id>119201</id>
         <link href="https://www.gameinformer.com/tokyo-game-show/2022/09/15/kiriko-is-overwatch-2s-new-kunai-wielding-support-character"/>
@@ -2767,16 +2787,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Společnost Backblaze zveřejnila statistiky spolehlivosti SSD disků za první pololetí 2022]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/spolecnost-backblaze-zverejnila-statistiky-spolehlivosti-ssd-disku-za-prvni-pololeti-2022</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/spolecnost-backblaze-zverejnila-statistiky-spolehlivosti-ssd-disku-za-prvni-pololeti-2022"/>
-        <updated>2022-09-15T01:26:10.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Backblaze zveřejnila statistiky spolehlivosti SSD disků ve svých datových centrech za první pololetí 2022: "V tuto chvíli můžeme prohlásit, že SSD jsou spolehlivější než HDD, přinejmenším když jsou používány pro bootování našich systémů".]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4559,16 +4569,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/specifikace-dedikovanych-grafickych-karet-intel-arc/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-09-09T12:41:41.000Z</updated>
         <summary type="html"><![CDATA[Intel včera publikoval specifikace svých dedikovaných grafických karet ARC A380, A580, A750 a A770. Podobně jako u procesorů bude model začínající 3 s nejnižším výkonem, 5 bude střední a 7 s nejvyšším výkonem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ransomware DeadBolt napadá QNAP NAS]]></title>
-        <id>www.root.cz-actuality-43972</id>
-        <link href="https://www.root.cz/zpravicky/ransomware-deadbolt-napada-qnap-nas/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-09T12:25:10.000Z</updated>
-        <summary type="html"><![CDATA[Ransomware DeadBolt napadalo NAS firmy QNAP již počátkem tohoto roku přes zranitelnost v QTS a QuTS hero. Poté zašifruje soubory a požaduje výkupné. Začátkem září se DeadBolt vrátil, tentokrát napadá QNAP přes chybu ve službě pro fotografie PhotoStation vystavenou do internetu CVE-2022–27593.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
