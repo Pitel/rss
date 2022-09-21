@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T06:48:38.608Z</id>
+    <id>urn:2022-09-21T08:21:38.458Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-21T06:48:38.608Z</updated>
+    <updated>2022-09-21T08:21:38.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nvidia představila GeForce RTX 4000]]></title>
+        <id>www.root.cz-actuality-44004</id>
+        <link href="https://www.root.cz/zpravicky/nvidia-predstavila-geforce-rtx-4000/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-21T08:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Nvidia zveřejnila detailní informace o nové generaci grafických karet RTX 4000 s kódovým jménem Ada Lovelace. Nejvyšší model GeForce RTX 4090 používá GPU vyráběné 4nm procesem u TSMC, karta sama pak má TDP 450 W (plus se hovoří o OC režimu u nereferenčních karet se spotřebou až 660 W).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian hlasuje o nesvobodných firmwarech, na stole je šest možností]]></title>
+        <id>www.root.cz-actuality-44003</id>
+        <link href="https://www.root.cz/zpravicky/debian-hlasuje-o-nesvobodnych-firmwarech-na-stole-je-sest-moznosti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-21T06:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Projekt Debian řeší, jak přistupovat k distribuci souborů s firmwarem, které nejsou distribuovány pod svobodnou licencí. Vývojáři mají nyní šanci se do konce měsíce k této otázce vyjádřit interním hlasováním. Na stole byly původně tři možnosti, nakonec je jich šest:]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitlab CI: automatizujte přímo v Gitlabu (školení)]]></title>
         <id>www.root.cz-actuality-38836</id>
@@ -50,6 +70,16 @@ Read the full article on nintendolife.com]]></summary>
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wasmtime 1.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/wasmtime-1.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/wasmtime-1.0"/>
+        <updated>2022-09-21T02:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Wasmtime, tj. rychlé a bezpečné běhové prostředí pro WebAssembly, dospělo do verze 1.0. Za projektem stojí nezisková organizace Bytecode Alliance představená v listopadu 2019.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1897,16 +1927,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PacketFence 12]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/packetfence-12</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/packetfence-12"/>
-        <updated>2022-09-19T10:28:36.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová major verze 12 svobodného systému pro řízení přístupu k síti (NAC) PacketFence (Wikipedie). Přehled novinek v oznámení o vydání. Pro uživatele předchozích verzí jsou k dispozici poznámky k aktualizaci.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Loongson Preparing Linux For LoongArch Laptops]]></title>
         <id>https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep</id>
         <link href="https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep"/>
@@ -1942,16 +1962,6 @@ Read more...]]></summary>
         <link href="https://www.root.cz/clanky/fotogalerie-na-festivalu-maker-faire-michala-parfemy-umela-inteligence/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-09-19T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[O víkendu proběhl v Praze pátý ročník kreativního festivalu Maker Faire. Dvoudenní přehlídka nadšení a kreativity se přesunula do areálu holešovické tržnice, kam se vtěsnalo na 130 makerů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naučte se pracovat s Dockerem a kontejnery (školení)]]></title>
-        <id>www.root.cz-actuality-39529</id>
-        <link href="https://www.root.cz/zpravicky/naucte-se-pracovat-s-dockerem-a-kontejnery-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-19T07:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Docker je dnes technologie, která proces vývoje, testování a provozování softwaru velmi zjednodušuje. Provozujte cokoliv a kdekoliv. Už nečekejte na nastavení svého serveru nebo na aktualizaci nějaké knihovny. Mějte prostředí jako součást vaší aplikace.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
@@ -4364,16 +4374,6 @@ Byl vylepšen herní engine, kde bylo opraveno hlavně časté padání a zamrz�
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jak si vytvořit „ransomwarový štít“? Přihlaste se na webcast]]></title>
-        <id>www.root.cz-actuality-43979</id>
-        <link href="https://www.root.cz/zpravicky/jak-si-vytvorit-ransomwarovy-stit-prihlaste-se-na-webcast/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-13T06:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Nejčastějším terčem ransomwarových útoků jsou malé a střední podniky (SMB), přestože se většina lidí – včetně těch, odpovědných za IT – domnívá, že se kybernetičtí útočníci zaměřují hlavně na velké bohaté firmy s nekonečnými zdroji.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
