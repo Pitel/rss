@@ -1,10 +1,97 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-21T08:21:38.458Z</id>
+    <id>urn:2022-09-21T10:14:44.188Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-21T08:21:38.458Z</updated>
+    <updated>2022-09-21T10:14:44.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud Tau T2A Ampere Altra vs. T2D AMD EPYC Performance]]></title>
+        <id>https://www.phoronix.com/review/gce-tau-t2a-t2d</id>
+        <link href="https://www.phoronix.com/review/gce-tau-t2a-t2d"/>
+        <updated>2022-09-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the summer Google announced Tau T2A as the first Google Cloud Compute Engine VM to run on Arm. The T2A series is powered by Ampere Altra processors and complement the Tau T2D series powered by AMD EPYC 7003 "Milan" processors that launched last year. I have been trying out the Tau T2A series for the past several weeks and have some initial benchmarks to share today for showing how the Ampere Altra Arm VMs can perform against the existing T2D series.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D-printed PIKON camera]]></title>
+        <id>https://www.raspberrypi.com/?p=87482</id>
+        <link href="https://www.raspberrypi.com/news/3d-printed-pikon-camera/"/>
+        <updated>2022-09-21T09:41:26.000Z</updated>
+        <summary type="html"><![CDATA[YouTuber Kevin McAleer wanted a portable, sturdy all-in-one Raspberry Pi-powered camera, so he designed one himself. Meet PIKON. Kevin was inspired by the DSLR camera he looks at every time he livestreams, so he set about creating something a bit like it in Fusion 360. His plan was to be able to use this a […]
+The post 3D-printed PIKON camera appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Ashley Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: The Pokémon Company Has No Issues With Nuzlocke Runs]]></title>
+        <id>https://www.nintendolife.com/#article-137917</id>
+        <link href="https://www.nintendolife.com/news/2022/09/random-the-pokemon-company-has-no-issues-with-nuzlocke-runs"/>
+        <updated>2022-09-21T09:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Another official statement has been made.
+Update : In a statement mimicking its response to Joe Merrick, The Pokémon Company has doubled down on its stance regarding Nuzlocke runs, stating to Eurogamer that "The Pokémon Company International does not have any issues with fans or creators playing the video games with Nuzlocke rules".
+It's further indication that perhaps the story told from Kit and Krysta - while possibly true to a certain degree - was perhaps not the entire picture. As mentioned in the original article, it's likely that The Pokémon Company had more of an issue promoting the Nuzlocke Challenge in an official capacity, rather than taking umbrage with the Nuzlocke Challenge as a concept.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa Radeon Driver "RADV" Ray-Tracing Performance Becoming Viable For Linux Gaming]]></title>
+        <id>https://www.phoronix.com/news/RADV-RT-Performance-Viable</id>
+        <link href="https://www.phoronix.com/news/RADV-RT-Performance-Viable"/>
+        <updated>2022-09-21T09:23:30.000Z</updated>
+        <summary type="html"><![CDATA[In addition to a ~10% performance boost seen yesterday for RADV ray-tracing performance with Quake II RTX, another merge request also made it to Mesa 22.3 for much more significantly bolstering the RADV ray-tracing performance. With all of the recent RADV ray-tracing work, we are finally reaching a point where it's becoming viable for Linux gamers on this open-source driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC Progressing On OpenMP 5.x, OpenACC 2.7+ GPU Offloading & More AMD Improvements]]></title>
+        <id>https://www.phoronix.com/news/GCC-13-More-GPU-Offload</id>
+        <link href="https://www.phoronix.com/news/GCC-13-More-GPU-Offload"/>
+        <updated>2022-09-21T09:07:25.000Z</updated>
+        <summary type="html"><![CDATA[This past weekend was the GNU Tools Cauldron where Siemens presented a status update on the work around GPU accelerator offloading for the GNU Compiler Collection (GCC) and the work being done around OpenMP and OpenACC support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sound Open Firmware 2.3 Released With Support For AMD Rembrandt, Intel Raptor Lake]]></title>
+        <id>https://www.phoronix.com/news/Sound-Open-Firmware-2.3</id>
+        <link href="https://www.phoronix.com/news/Sound-Open-Firmware-2.3"/>
+        <updated>2022-09-21T08:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Sound Open Firmware is what started as an open-source Intel effort to push towards more open sound/DSP firmware and has grown since that point into a Linux Foundation project also supported by other vendors like Mediatek, AMD, Realtek, and others. Sound Open Firmware 2.3 was released on Tuesday as the latest advancement for this open-source audio DSP firmware stack...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Hardware Ray-Tracing Hopes To Be Ready For Blender 3.5]]></title>
+        <id>https://www.phoronix.com/news/AMD-HIP-RT-Blender-3.5-Plans</id>
+        <link href="https://www.phoronix.com/news/AMD-HIP-RT-Blender-3.5-Plans"/>
+        <updated>2022-09-21T08:39:48.000Z</updated>
+        <summary type="html"><![CDATA[While Blender 3.2 introduced AMD HIP on Linux support for GPU acceleration and the recent Blender 3.3 extended the AMD GPU Cycles acceleration back to GFX9/Vega GPUs, for those wanting AMD ray-tracing support within Blender it's not expected to come until Blender 3.5...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Master Detective Archives: Rain Code 'Mysteriful' Limited Edition Revealed]]></title>
+        <id>https://www.nintendolife.com/#article-138030</id>
+        <link href="https://www.nintendolife.com/news/2022/09/master-detective-archives-rain-code-mysteriful-limited-edition-revealed"/>
+        <updated>2022-09-21T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Pre-orders now live.
+Announced during the latest Nintendo Direct showcase, Master Detective Archives: Rain Code is the new detective action title from the minds behind the Danganronpa series.
+Due for launch in Spring 2023 (the pre-order pages currently display a launch date of June 30th, 2023, but this is likely a placeholder), pre-orders for the game have now gone live and you can even splash out on a newly announced 'Mysteriful Limited Edition' for a cool $109.99. This will include a steelbook, an artbook, a 6.5" Shinigami plush, and an official soundtrack on CD. Pre-order links can be found at the bottom of the page.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia představila GeForce RTX 4000]]></title>
         <id>www.root.cz-actuality-44004</id>
@@ -1085,7 +1172,7 @@ Read more]]></summary>
         <updated>2022-09-20T11:45:00.000Z</updated>
         <summary type="html"><![CDATA[Heads rolled.
 We often laud Rare's incredible library of games on the N64, and while the focus has recently been on its seminal movie tie-in shooter GoldenEye 007 over the past week, we want to turn your attention to Perfect Dark for just a few minutes. Footage of one of the game's cut features from E3 1999 has been shared online.
-Perfect Head mode was intended to use photos imported from the Game Boy Camera via the Transfer Pak. This would allow you to pop your face — albeit a little more polygonal than in real life — onto the heads of guards. The feature was eventually cut from the game due to tech issues, but it was shown off during E3 1999 (thanks, Time Extension!).
+As highlighted by @Musical1250 on Twitter (thanks Time Extension!), the archived footage comes from Hard4Games' YouTube video (see below), as provided to them by livingaretrogaminglife.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1709,19 +1796,6 @@ The post Phil Spencer once again muses on the possibility of Final Fantasy XIV o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eiyuden Chronicle: Hundred Heroes Tokyo Game Show Trailer Is Its Best Yet]]></title>
-        <id>https://www.nintendolife.com/#article-137948</id>
-        <link href="https://www.nintendolife.com/news/2022/09/eiyuden-chronicle-hundred-heroes-tokyo-game-show-trailer-is-its-best-yet"/>
-        <updated>2022-09-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Voice acting included.
-Last week, we were a bit swept up in all of that Suikoden news from Konami, weren't we? However, the series' spiritual successor also got its own time in the spotlight during the Tokyo Game Show too. Eiyuden Chronicle: Hundred Heroes got a brand new trailer, and this is the most detailed look we've seen of the upcoming turn-based RPG.
-This brand-new trailer expands on the one we got during Gamescom in August, and it looks gorgeous. This is also the first trailer to show us the game's voice acting, which was actually a stretch goal during the game's Kickstarter campaign. And while we were hoping for a more concrete release date, we're still happy to see the game is on-track for 2023.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cyberpunk 2077 Becomes Steam Top Seller Again After Netflix Anime Show]]></title>
         <id>1849553540</id>
         <link href="https://kotaku.com/cyberpunk-2077-players-edgerunners-netflix-anime-1849553540"/>
@@ -1751,19 +1825,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[In addition to Intel having closed out last week by submitting their last batch of feature updates to DRM-Next for kernel graphics driver changes slated for Linux 6.1, AMD engineers also did the same with their likely last major set of AMDGPU driver changes intended for this next kernel cycle...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Voice Of Cards: The Beasts Of Burden - The Ace Of The Deck In Yoko Taro's Card RPG Series]]></title>
-        <id>https://www.nintendolife.com/#article-137540</id>
-        <link href="https://www.nintendolife.com/reviews/switch-eshop/voice-of-cards-the-beasts-of-burden"/>
-        <updated>2022-09-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I choose you!
-Fun fact: at this time last year, we had only just learned of the existence of Voice of Cards: The Isle Dragon Roars. Not only has that game and its sequel—Voice of Cards: The Forsaken Maiden—come out since then, but we’ve now received yet another sequel in Voice of Cards: The Beasts of Burden. As you’d probably expect, this newest entry is largely cut from the same cloth as its predecessors, but with some meaningful nips and tucks here and there that help to give it its own personality.
-The Beasts of Burden follows the story of a girl named Al’e (by default, you can name her whatever you want) who dreams of one day seeing the stars. Al’e lives in an underground village beset by frequent monster attacks, which are slowly chipping away at their limited supplies and remaining residents. Al’e is quite the capable warrior, but while she’s out fending off yet another monster swarm, another group of monsters manages to sneak into the village and kill everyone there. Grieving the loss of her mother and friends, Al’e is then whisked to the surface by a mysterious boy who seems to want to help. Here, she learns that she holds a special power that allows her to control monsters to do her bidding. Armed with this newfound ability and aided by her new ally, Al’e sets out on a quest for revenge against the ones behind the incident that destroyed her home.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2157,16 +2218,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MGLRU v15 Published For Last Minute Testing Of This Major Linux Improvement]]></title>
-        <id>https://www.phoronix.com/news/MGLRU-v15-Published</id>
-        <link href="https://www.phoronix.com/news/MGLRU-v15-Published"/>
-        <updated>2022-09-18T13:24:39.000Z</updated>
-        <summary type="html"><![CDATA[Google engineer Yu Zhao this morning published MGLRU v15, the latest revision to this patch series dealing with improving the Linux kernel's page reclamation code. Multi-Gen LRU "MGLRU" has proven to offer performance benefits and particularly improve the Linux experience when dealing with low-memory situations...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The GTA 6 leaks benefit precisely no one]]></title>
         <id>https://www.rockpapershotgun.com/the-gta-6-leaks-benefit-precisely-no-one</id>
         <link href="https://www.rockpapershotgun.com/the-gta-6-leaks-benefit-precisely-no-one"/>
@@ -2179,16 +2230,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GStreamer Now Able To Ship Rust-Written Plugins]]></title>
-        <id>https://www.phoronix.com/news/GStreamer-Ship-Rust-Plugins</id>
-        <link href="https://www.phoronix.com/news/GStreamer-Ship-Rust-Plugins"/>
-        <updated>2022-09-18T09:50:49.000Z</updated>
-        <summary type="html"><![CDATA[Along with the Linux kernel preparing for its initial Rust integration, Rusticl landing in Mesa this week as the first major Rust usage within Mesa, and Cloudflare announcing an Nginx HTTP proxy replacement written in Rust, some additional Rust adoption news for the week is that the GStreamer project is now ready to ship Rust-written plug-ins as part of their official binary releases...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fotogalerie: neděle na konferenci OpenAlt 2022 obrazem]]></title>
         <id>www.root.cz-text-16224</id>
         <link href="https://www.root.cz/clanky/fotogalerie-nedele-na-konferenci-openalt-2022-obrazem/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2196,16 +2237,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[V neděli 18. září probíhá druhý den konference OpenAlt. Čtyři desítky přednášek, workshopy, stánky a další doprovodný program čeká na účastníky v Brně. Podívejte se s námi na obrázky z právě probíhající akce.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Engineers Argue For Linux "ASI" To Better Deal With Speculative Execution Attacks]]></title>
-        <id>https://www.phoronix.com/news/Google-LPC-ASI-2022</id>
-        <link href="https://www.phoronix.com/news/Google-LPC-ASI-2022"/>
-        <updated>2022-09-17T23:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Proposed a few years ago was Kernel Address Space Isolation (KASI / ASI) for limiting data leaks with the growing number of speculative execution attacks on CPUs. Several organizations have been involved with Address Space Isolation efforts for the Linux kernel including IBM, Oracle, and Google with various approaches. Google engineers earlier this year posted a newer iteration of ASI focused on KVM use for the cloud / VMs. ASI still hasn't made it to the mainline kernel but Google engineers this week at LPC argued that it should be the path forward for mainline in better dealing with these CPU security vulnerabilities...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2289,16 +2320,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux's Load Balancer Still Needs To Be Better Adapted For Intel Hybrid CPUs]]></title>
-        <id>https://www.phoronix.com/news/Linux-Load-Balancer-Hybrid-Need</id>
-        <link href="https://www.phoronix.com/news/Linux-Load-Balancer-Hybrid-Need"/>
-        <updated>2022-09-17T15:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Over the past year since launching Intel Alder Lake processors, Intel engineers have made a number of improvements to the Linux kernel for better dealing with the hybrid processor approach mixing P and E cores. While Alder Lake is running great with recent kernels and the P vs. E core selection for tasks on Linux is better than it was at launch, there still are areas for improvement as raised by Intel engineers this week...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3473,16 +3494,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Watch our Dead Island 2 interview below:]]></summary>
         <author>
             <name>Alex Van Aken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core i9 12900K vs. AMD Ryzen 9 5950X On Linux 6.0]]></title>
-        <id>https://www.phoronix.com/review/linux60-5950x-12900k</id>
-        <link href="https://www.phoronix.com/review/linux60-5950x-12900k"/>
-        <updated>2022-09-14T18:50:21.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of Intel Raptor Lake and AMD Zen 4, it's a lot of fresh CPU re-testing at Phoronix under Linux with the bleeding-edge software stack of the latest Linux kernel as well as many new/updated benchmarks, the latest motherboard BIOSes, and more. As over the past year there has been a lot of work by Intel open-source engineers around better tuning the Linux kernel for their hybrid architecture, here are some fresh side-by-side benchmarks of the Intel Core i9 12900K against the AMD Ryzen 9 5950X.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4798,17 +4809,6 @@ The post Raspberry Pi inside wearable tech and cosplay appeared first on Raspber
         <summary type="html"><![CDATA[Přehled srpnových vydání Jaderných novin: stav vydání jádra, citáty týdne a seznam článků týkajících se jádra.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foggy environment monitor]]></title>
-        <id>https://www.raspberrypi.com/?p=86839</id>
-        <link href="https://www.raspberrypi.com/news/foggy-environment-monitor/"/>
-        <updated>2022-09-05T10:03:09.000Z</updated>
-        <summary type="html"><![CDATA[I happened across a LinkedIn post that Zachary Bethel shared about his team’s device to collect environmental data during the foggy summers at the University of California, Santa Cruz (UCSC). They have completed field testing and finalised the product. This is a Carbon Grant funded project — that’s a pot of money set aside to fund student […]
-The post Foggy environment monitor appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Ashley Whittaker</name>
         </author>
     </entry>
     <entry>
