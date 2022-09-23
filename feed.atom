@@ -1,10 +1,131 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-23T08:17:42.317Z</id>
+    <id>urn:2022-09-23T10:14:19.300Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-23T08:17:42.317Z</updated>
+    <updated>2022-09-23T10:14:19.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The MagPi’s smart and spooky Halloween party!]]></title>
+        <id>https://www.raspberrypi.com/?p=87584</id>
+        <link href="https://www.raspberrypi.com/news/the-magpis-smart-and-spooky-halloween-party/"/>
+        <updated>2022-09-23T10:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Halloween parties are great. When else do you have an excuse to eat unusual amounts of sweets while watching a marathon of The Simpsons episodes, and maybe partaking of a beverage that is a) smoking and b) served out of a cauldron? This year, let’s make this a Halloween party to remember by performing some […]
+The post The MagPi’s smart and spooky Halloween party! appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Rob Zwetsloot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MultiVersus' next fighter is unveiled today, and it sounds like it's Rick]]></title>
+        <id>https://www.rockpapershotgun.com/multiversus-next-fighter-is-unveiled-today-and-it-sounds-like-its-rick</id>
+        <link href="https://www.rockpapershotgun.com/multiversus-next-fighter-is-unveiled-today-and-it-sounds-like-its-rick"/>
+        <updated>2022-09-23T10:09:49.000Z</updated>
+        <summary type="html"><![CDATA[There’s a new fighter announcement incoming from Warner Bros. licensed brawler MultiVersus today, with three already revealed characters yet to release in season one. My money’s on Rick And Morty’s Rick Sanchez, but Stripe from Gremlins and the DC Universe’s Black Adam are still set to arrive too. You’ll have to wait until 6pm BST/7pm CEST/10am PST to find out who the next fighter is, according to a tweet from the MultiVersus team.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radeon R600 Gallium3D Switches To Modern NIR Backend By Default]]></title>
+        <id>https://www.phoronix.com/news/R600g-NIR-Default-Mesa-22.3</id>
+        <link href="https://www.phoronix.com/news/R600g-NIR-Default-Mesa-22.3"/>
+        <updated>2022-09-23T10:07:09.000Z</updated>
+        <summary type="html"><![CDATA[After the persistent work by developer Gert Wollny with a desire to improve the aging "R600g" driver that provides open-source OpenGL support for Radeon HD 2000 through HD 6000 series graphics cards, this Gallium3D driver in Mesa 22.3 will now use the NIR back-end by default...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reminder: The Phoronix Premium Autumn Sale Is On]]></title>
+        <id>https://www.phoronix.com/news/Premium-2022-Autumn-Reminder</id>
+        <link href="https://www.phoronix.com/news/Premium-2022-Autumn-Reminder"/>
+        <updated>2022-09-23T09:47:40.000Z</updated>
+        <summary type="html"><![CDATA[Just a friendly reminder that if you wish to show your support for Phoronix this autumn season and help in allowing me to continue Linux hardware testing and the like, the annual Phoronix Premium sale is currently taking place...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire Emblem Engage Continues To Look Stunning In New Gameplay Clips]]></title>
+        <id>https://www.nintendolife.com/#article-138175</id>
+        <link href="https://www.nintendolife.com/news/2022/09/fire-emblem-engage-continues-to-look-stunning-in-new-gameplay-clips"/>
+        <updated>2022-09-23T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[From the official Japanese Twitter.
+September 2022's Nintendo Direct opened with the official reveal of Fire Emblem Engage, a brand new Fire Emblem game, which is releasing next January. And, in the days since, the official Japanese Fire Emblem Twitter account has been sharing clips of some of your future squad members in combat — and it looks pretty darn beautiful.
+First up is the main protagonist, who the internet has dubbed 'Colgate-chan'. They're actually called Alear — not quite as catchy, is it? — and they're a Divine Dragon. This short snippet shows our red and blue-haired hero inflicting a critical hit on his opponent, and from the animation to the beautiful colours, we're impressed.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux RSEQ Patches Updated For Allowing Faster getcpu() In C Libraries]]></title>
+        <id>https://www.phoronix.com/news/Linux-RSEQ-Faster-getcpu</id>
+        <link href="https://www.phoronix.com/news/Linux-RSEQ-Faster-getcpu"/>
+        <updated>2022-09-23T09:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Restartable Sequences "RSEQ" has been one of the nice additions to the Linux kernel in recent years and can allow for faster user-space operations on per-CPU data by providing a shared data structure ABI between each user-space thread and the kernel. RSEQ has been in the process of being extended to provide even more performance benefits...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Smaller DRM Drivers See Last Minute Updates Ahead Of Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Final-DRM-Misc-Next</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Final-DRM-Misc-Next"/>
+        <updated>2022-09-23T09:16:02.000Z</updated>
+        <summary type="html"><![CDATA[A final batch of drm-misc-next feature changes intended for the Linux 6.1 Linux kernel has been submitted to DRM-Next. This pull consists of some core DRM code improvements as well as updates to the smaller DRM/KMS drivers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Vulkan Linux Driver Lands A "Bunch" Of Ray Query Fixes]]></title>
+        <id>https://www.phoronix.com/news/Intel-ANV-Ray-Query-Fixes</id>
+        <link href="https://www.phoronix.com/news/Intel-ANV-Ray-Query-Fixes"/>
+        <updated>2022-09-23T09:01:20.000Z</updated>
+        <summary type="html"><![CDATA[As part of getting their Vulkan ray-tracing support into good shape, a handful of patches were merged today for Mesa 22.3 in fixing up the ANV driver's ray query code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liveblog: Texts from EGX]]></title>
+        <id>https://www.rockpapershotgun.com/liveblog-texts-from-egx</id>
+        <link href="https://www.rockpapershotgun.com/liveblog-texts-from-egx"/>
+        <updated>2022-09-23T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The RPS treehouse is quiet today, with most the gang gone to that London for EGX 2022. We're running a Steam Deck Zone filled with minicomps and have a showcase of games with weird controller experiences, and I imagine they'll also be playing games, chatting, attending talks, loitering, expanding their LinkedIn networks, and other such expo activities. Kindly, they're going to check in across the day, texting us all with updates on what they're seeing, doing, and (I imagine) eating. And Ollie might join in from home with cat photos.
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackerspace base64 v Brně: laboratoř plná šikovných bastlířů (fotogalerie)]]></title>
+        <id>www.root.cz-text-16229</id>
+        <link href="https://www.root.cz/clanky/hackerspace-base64-v-brne-laborator-plna-sikovnych-bastliru-fotogalerie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-23T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hackerspace base64 je místem setkávání lidí, kteří se nebojí realizovat zajímavé projekty vlastními silami. Najdete tu dobře vybavenou laboratoř, dílnu a spoustu nápadů čekajících na realizaci.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Takaya Imamura Celebrates Star Fox Adventures' 20th Anniversary]]></title>
+        <id>https://www.nintendolife.com/#article-138172</id>
+        <link href="https://www.nintendolife.com/news/2022/09/takaya-imamura-celebrates-star-fox-adventures-20th-anniversary"/>
+        <updated>2022-09-23T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[The creator of Fox McCloud shares new art.
+Too many GameCube games are turning 20 at the moment, and it's making us feel old. But, on the plus side, it's also making us feel nostalgic. Star Fox Adventures is the latest GameCube game to hit the big two-zero today, 23rd September, in North America. And Star Fox's character designer Takaya Imamura is celebrating with some brand new art.
+The Nintendo legend — who retired from the company last year — shared some new art of Krystal, one of Star Fox Adventures' new characters who would go on to join Fox McCloud and the team in later space-faring journeys.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detective Pikachu 2 Game "Nearing Release" According To Pokémon Job Profile]]></title>
         <id>https://www.nintendolife.com/#article-138168</id>
@@ -80,7 +201,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>1849571865</id>
         <link href="https://kotaku.com/madden-23-ea-sports-strike-pack-ultimate-team-1849571865"/>
         <updated>2022-09-23T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Some of the biggest streamers in the Madden community have announced they’re going on “pack strike”, creating a hashtag and refusing to spend any money on Madden 23's Ultimate Team mode until publisher Electronic Arts make some changes.
+        <summary type="html"><![CDATA[Some of the biggest streamers in the Madden community have announced they’re going on “pack strike,” creating a hashtag and refusing to spend any money on Madden 23's Ultimate Team mode until publisher Electronic Arts makes some changes.
 
 Read more...]]></summary>
         <author>
@@ -174,7 +295,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>1849571329</id>
         <link href="https://kotaku.com/steam-valve-sales-charts-most-played-pc-popular-1849571329"/>
         <updated>2022-09-22T23:10:00.000Z</updated>
-        <summary type="html"><![CDATA[People like to buy games from and play games in Steam, but anyone interested in really poking around the site (like us, it’s our job) has two things they want to know: which games are selling the most copies, and which games are being played the most.
+        <summary type="html"><![CDATA[People like to buy games from, and play games in, Steam, but anyone interested in really poking around the site (like us, it’s our job) has two things they want to know: which games are selling the most copies, and which games are being played the most.
 
 Read more...]]></summary>
         <author>
@@ -1290,32 +1411,6 @@ Read the full article on nintendolife.com]]></summary>
 The post Ceres-1 Portable: a retro-inspired laptop | HackSpace #59 appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ben Everard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide: Where To Pre-Order Mario + Rabbids Sparks Of Hope On Switch - Best Deals And Special Editions]]></title>
-        <id>https://www.nintendolife.com/#article-131353</id>
-        <link href="https://www.nintendolife.com/guides/where-to-pre-order-mario-plus-rabbids-sparks-of-hope-on-switch-best-deals-and-special-editions"/>
-        <updated>2022-09-22T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cheapest prices, pre-order bonuses and more.
-Thanks to the latest Nintendo Direct Mini: Partner Showcase, we finally have news on Mario + Rabbids Sparks of Hope's release date: it'll launch on Switch on 20th October 2022.
-Those who remember the game's reveal trailer from last year will know that Sparks of Hope looks set to give fans of the original Mario + Rabbids another fantastic helping of strategy-focused goodness. If you're already sold on the premise of a sequel, you'll be pleased to know that pre-orders have already started to appear – and that there are some special Gold and Cosmic Editions available, too!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capcom Fighting Collection Receives A Free QoL Update September 27th]]></title>
-        <id>https://www.nintendolife.com/#article-138088</id>
-        <link href="https://www.nintendolife.com/news/2022/09/capcom-fighting-collection-receives-a-free-qol-update-september-27th"/>
-        <updated>2022-09-22T03:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Viewable hitboxes, new gem colours and more!
-The official Street Fighter Twitter account has revealed the Capcom Fighting Collection will be receiving a sizable update next week on September 27th.
-Players can look forward to viewable hitboxes, new coloured gems in the game Puzzle Fighter, and the ability to view your opponent's connection status within a match. Here's the tweet:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2640,46 +2735,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox 105 Now Available - Better Linux Performance Under Memory Pressure]]></title>
-        <id>https://www.phoronix.com/news/Mozilla-Firefox-105.0</id>
-        <link href="https://www.phoronix.com/news/Mozilla-Firefox-105.0"/>
-        <updated>2022-09-20T10:21:42.000Z</updated>
-        <summary type="html"><![CDATA[While a number of recent Firefox releases have been rather "boring" on the Linux front with not many notable changes, Firefox 105.0 is out this morning and this time around is a bit more significant...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenMandriva Speeding Up Their AArch64 Linux Development With Ampere Altra]]></title>
-        <id>https://www.phoronix.com/news/OpenMandriva-Ampere-Altra</id>
-        <link href="https://www.phoronix.com/news/OpenMandriva-Ampere-Altra"/>
-        <updated>2022-09-20T10:05:20.000Z</updated>
-        <summary type="html"><![CDATA[Ampere Computing has provided a 160-core Ampere Altra server with 128GB of RAM to the OpenMandriva project to help in speeding up their AArch64 Linux packaging and development efforts...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Releases AOMP 16.0-0 As Their Radeon GPU OpenMP Offloading Compiler]]></title>
-        <id>https://www.phoronix.com/news/AMD-AOMP-16.0-0</id>
-        <link href="https://www.phoronix.com/news/AMD-AOMP-16.0-0"/>
-        <updated>2022-09-20T09:53:08.000Z</updated>
-        <summary type="html"><![CDATA[AMD engineers today released AOMP 16.0-0 as the newest version of their LLVM/Clang downstream compiler where they stage their latest development patches focused on Radeon GPU OpenMP offloading...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM 15.0.1 Released With Nearly Three Dozen Fixes]]></title>
-        <id>https://www.phoronix.com/news/LLVM-15.0.1-Released</id>
-        <link href="https://www.phoronix.com/news/LLVM-15.0.1-Released"/>
-        <updated>2022-09-20T09:37:35.000Z</updated>
-        <summary type="html"><![CDATA[It's been two weeks since the release of LLVM 15.0 and its sub-projects like Clang 15.0 so per their rapid release rhythm, out today is LLVM 15.0.1 with the initial batch of fixes...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[French Publishers Win Z-Library Piracy Blocking Order]]></title>
         <id>https://torrentfreak.com/?p=224356</id>
         <link href="https://torrentfreak.com/french-publishers-win-z-library-piracy-blocking-order-220920/"/>
@@ -2810,16 +2865,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Amazon Engineer Adds LTR Encode Support To Open-Source AMD Radeon Linux Driver]]></title>
-        <id>https://www.phoronix.com/news/RadeonSI-VCN-LTR-Encode</id>
-        <link href="https://www.phoronix.com/news/RadeonSI-VCN-LTR-Encode"/>
-        <updated>2022-09-19T19:55:48.000Z</updated>
-        <summary type="html"><![CDATA[Merged today for Mesa 22.3 is support with the RadeonSI Gallium3D driver's Video Core Next (VCN) code to support video encoding with LTR mode...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vyšel Return to Monkey Island, linuxová verze bude brzy]]></title>
         <id>www.root.cz-actuality-43997</id>
         <link href="https://www.root.cz/zpravicky/vysel-return-to-monkey-island-linuxova-verze-bude-brzy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2933,16 +2978,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: 0-day zranitelnost pluginu WPGateway]]></title>
-        <id>www.root.cz-text-16223</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-0-day-zranitelnost-pluginu-wpgateway/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-18T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V dnešním dílu pravidelných týdenních bezpečnostních postřehů se podíváme na zranitelnost pluginu WPGateway, záplatování RCE zranitelností v IPsec ve Windows, na vždy aktuální phishing a další zajímavosti.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: CSIRT.CZ)</name>
         </author>
     </entry>
     <entry>
@@ -4785,34 +4820,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valve show off working Steam Deck prototypes for the first time]]></title>
-        <id>https://www.rockpapershotgun.com/valve-show-off-working-steam-deck-prototypes-for-the-first-time</id>
-        <link href="https://www.rockpapershotgun.com/valve-show-off-working-steam-deck-prototypes-for-the-first-time"/>
-        <updated>2022-09-13T09:56:14.000Z</updated>
-        <summary type="html"><![CDATA[The Steam Deck is finally releasing across Asia this month, and ahead of its appearance at the Tokyo Game Show (complete with unnervingly large replica of the handheld), Valve held their own launch event with a display of several prototype designs. Unlike the mere low-res images of abandoned Steam Deck designs we’ve already seen, however, these were mostly functional PC gaming machines. That’s according to Valve engineer Pierre-Loup Griffais, who shared a video of an early, more rounded-looking Deck booting to SteamOS and loading up Half-Life 2.
-
- 
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metal: Hellsinger review - a rhythm shooter that can be anybody's tempo]]></title>
-        <id>https://www.rockpapershotgun.com/metal-hellsinger-review</id>
-        <link href="https://www.rockpapershotgun.com/metal-hellsinger-review"/>
-        <updated>2022-09-13T09:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Correctly striking a succession of notes in a rhythm game gives me a huge high, but I'm more familiar with feeling the corresponding low. A succession of missed notes whizzing past sounds like an ode to my failure, and in mashups that mix demanding rhythms with another genre - like Crypt Of The Necrodancer, say - these reminders of my musical inadequacy often drown out even the simplest pleasures. 
-
-Often but not always. Metal: Hellsinger's mix of rhythm game and Doom 2016-style shooter kept me tapping my foot as I battled through hell - even as I failed regularly, and even as someone who doesn't care for metal music.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What If? 2 Flowchart]]></title>
         <id>https://xkcd.com/2672/</id>
         <link href="https://xkcd.com/2672/"/>
@@ -4871,17 +4878,6 @@ The post Picamera2 beta release appeared first on Raspberry Pi.]]></summary>
 The post 90’s retro tech: Intel Pentium Pro | Custom PC #230 appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ben Hardwidge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The latest update to Raspberry Pi OS]]></title>
-        <id>https://www.raspberrypi.com/?p=86822</id>
-        <link href="https://www.raspberrypi.com/news/the-latest-update-to-raspberry-pi-os/"/>
-        <updated>2022-09-07T11:11:41.000Z</updated>
-        <summary type="html"><![CDATA[We’ve just released the latest version of Raspberry Pi OS. This time around, it is mostly a wrapping-up of all the bug fixes and new versions of software which have been released since the previous image in April; but there are a few small tweaks to the user experience which we should probably mention… New […]
-The post The latest update to Raspberry Pi OS appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Simon Long</name>
         </author>
     </entry>
     <entry>
