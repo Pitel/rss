@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-25T08:16:36.627Z</id>
+    <id>urn:2022-09-25T10:14:18.729Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-25T08:16:36.627Z</updated>
+    <updated>2022-09-25T10:14:18.729Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GNOME 43.1 To Support Wayland On The AMD-Xilinx Kria KR260]]></title>
+        <id>https://www.phoronix.com/news/GNOME-43.1-Xilinx-KR260</id>
+        <link href="https://www.phoronix.com/news/GNOME-43.1-Xilinx-KR260"/>
+        <updated>2022-09-25T09:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year AMD-Xilinx announced a Linux-powered robotics starter kit making use of Xilinx's Kria KR26 SOM featuring a Zynq Ultrascale+ with four Cortex-A53 cores and Mali graphics. While robotics focused, there is a DisplayPort output and over the summer Canonical has been working to get this board playing nicely with a Wayland-powered GNOME desktop...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generic EFI Compressed Boot Support Prepped Ahead Of Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Generic-EFI-Zboot</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Generic-EFI-Zboot"/>
+        <updated>2022-09-25T09:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Linux kernel developer Ard Biesheuvel has been working on a patch series implementing EFI generic compressed boot support that can be easily used by architectures like AArch64, LoongArch, and RISC-V...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Man Sky's 4.0 Update Will Be "Fully Focused" On The Nintendo Switch Launch]]></title>
+        <id>https://www.nintendolife.com/#article-138224</id>
+        <link href="https://www.nintendolife.com/news/2022/09/no-man-skys-4-0-update-will-be-fully-focused-on-the-nintendo-switch-launch"/>
+        <updated>2022-09-25T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[And "delivering that technical miracle".
+One of the many titles coming to the Nintendo Switch next month is the ambitious space epic No Man's Sky.
+The release of the game lines up with the 4.0 update, and if you're wondering what else might be included, it seems the Switch version is "the focus" of this next game update. Hello Games' founder Sean Murray clarified this in a series of tweets:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anime-Style 3D-2D Shoot 'Em Up Angelian Trigger Locks In A Switch Release]]></title>
         <id>https://www.nintendolife.com/#article-138223</id>
@@ -1283,19 +1316,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Sitcom The IT Crowd, v Česku vysílaný jako Ajťáci a Partička IT, měl být natočen také v německé a americké verzi. Němci natočili 6 dílů. Američané pouze pilot. Velký špatný.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hori Reveals New Pokémon-Themed Designs For The Switch Split Pad Fit]]></title>
-        <id>https://www.nintendolife.com/#article-138158</id>
-        <link href="https://www.nintendolife.com/news/2022/09/hori-reveals-new-pokemon-themed-designs-for-the-switch-split-pad-fit"/>
-        <updated>2022-09-23T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Pikachu, Mimikyu and Gengar!
-
-Accessory-maker Hori has revealed it's teaming up with The Pokémon Company to release Pokémon-themed Split Pad Fit.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2601,26 +2621,6 @@ The post 3D-printed PIKON camera appeared first on Raspberry Pi.]]></summary>
         <link href="https://www.phoronix.com/news/RADV-RT-Performance-Viable"/>
         <updated>2022-09-21T09:23:30.000Z</updated>
         <summary type="html"><![CDATA[In addition to a ~10% performance boost seen yesterday for RADV ray-tracing performance with Quake II RTX, another merge request also made it to Mesa 22.3 for much more significantly bolstering the RADV ray-tracing performance. With all of the recent RADV ray-tracing work, we are finally reaching a point where it's becoming viable for Linux gamers on this open-source driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC Progressing On OpenMP 5.x, OpenACC 2.7+ GPU Offloading & More AMD Improvements]]></title>
-        <id>https://www.phoronix.com/news/GCC-13-More-GPU-Offload</id>
-        <link href="https://www.phoronix.com/news/GCC-13-More-GPU-Offload"/>
-        <updated>2022-09-21T09:07:25.000Z</updated>
-        <summary type="html"><![CDATA[This past weekend was the GNU Tools Cauldron where Siemens presented a status update on the work around GPU accelerator offloading for the GNU Compiler Collection (GCC) and the work being done around OpenMP and OpenACC support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sound Open Firmware 2.3 Released With Support For AMD Rembrandt, Intel Raptor Lake]]></title>
-        <id>https://www.phoronix.com/news/Sound-Open-Firmware-2.3</id>
-        <link href="https://www.phoronix.com/news/Sound-Open-Firmware-2.3"/>
-        <updated>2022-09-21T08:49:22.000Z</updated>
-        <summary type="html"><![CDATA[Sound Open Firmware is what started as an open-source Intel effort to push towards more open sound/DSP firmware and has grown since that point into a Linux Foundation project also supported by other vendors like Mediatek, AMD, Realtek, and others. Sound Open Firmware 2.3 was released on Tuesday as the latest advancement for this open-source audio DSP firmware stack...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
