@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-28T06:48:44.930Z</id>
+    <id>urn:2022-09-28T08:20:01.160Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-28T06:48:44.930Z</updated>
+    <updated>2022-09-28T08:20:01.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome 106 přináší SerialPort BYOB a spoustu bezpečnostních oprav]]></title>
+        <id>www.root.cz-actuality-44026</id>
+        <link href="https://www.root.cz/zpravicky/google-chrome-106-prinasi-serialport-byob-a-spoustu-bezpecnostnich-oprav/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-28T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Celkem dvě desítky bezpečnostních oprav, včetně pěti s vysokým CVE ratingem a osmi se středním přináší nová verze webového prohlížeče Chrome 106. Další novinky jsou spíše menšího charakteru, například podpora délkové jednotky ic v CSS či končící podpora ne-ASCII znaků v sušenkových doménových atributech.Přibyla naopak podpora čtečky SerialPort BYOB, API Intl.NumberFormat v3 a vylepšení WebCodecs.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel představil 13. generaci Core, Raptor Lake přidává jádra i megahertzy]]></title>
+        <id>www.root.cz-actuality-44025</id>
+        <link href="https://www.root.cz/zpravicky/intel-predstavil-13-generaci-core-raptor-lake-pridava-jadra-i-megahertzy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-28T07:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Zatímco AMD již před několika desítkami hodin uvedla na trh Zen 4, u Intelu si ještě tři týdny počkáme, nová generace Raptor Lake je v tuto chvíli jen oficiálně představena, prodeje však začnou až 20. října (jinými slovy: vyplatí se počkat na reálná srovnání v nezávislých testech).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (online školení)]]></title>
+        <id>www.root.cz-actuality-40574</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-28T07:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SNK Celebrates Art Of Fighting 30th Anniversary With A New Illustration]]></title>
         <id>https://www.nintendolife.com/#article-138346</id>
@@ -3397,16 +3427,6 @@ The post 3D-printed PIKON camera appeared first on Raspberry Pi.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gitlab CI: automatizujte přímo v Gitlabu (školení)]]></title>
-        <id>www.root.cz-actuality-38836</id>
-        <link href="https://www.root.cz/zpravicky/gitlab-ci-automatizujte-primo-v-gitlabu-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-21T06:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Automatizace pomocí continuous integration přímo v Gitlabu. CI vám pomůže automatizovat rutinní procesy a ušetří vám hromadu času. Pomůže vám od automatického testování, buildy po nasazování. Chcete vědět víc? Přijďte na naše školení GitLab CI, které se uskuteční 3. října. Proběhne v Praze a můžete se ho zúčastnit také online. Školí Ondřej Sika.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pilot Priority List]]></title>
         <id>https://xkcd.com/2675/</id>
         <link href="https://xkcd.com/2675/"/>
@@ -3580,26 +3600,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 105 vylepšuje chování při nedostatku paměti]]></title>
-        <id>www.root.cz-actuality-44001</id>
-        <link href="https://www.root.cz/zpravicky/firefox-105-vylepsuje-chovani-pri-nedostatku-pameti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-20T14:17:41.000Z</updated>
-        <summary type="html"><![CDATA[Na světě je nové vydání prohlížeče Firefox 105. „Ohnivá liška“ nově třeba umí z dialogu náhledu tisku nechat vytisknout jen aktuální stránku. Dále podporuje rozdělené service workery k kontextu třetí strany, gesto „švenknutí dvěma prsty“ po touchpadu na platformě Windows plus prohlížeč nyní splňuje specifikaci User Timing L3. Vyhledávání ve velkém seznamu položek je nyní dvakrát rychlejší, což se povedlo nahrazením dosavadní implementace array.includes a array.indexOf SIMD verzí kódu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konference Open source řešení v sítích proběhne 10. listopadu v Karviné]]></title>
-        <id>www.root.cz-actuality-44000</id>
-        <link href="https://www.root.cz/zpravicky/konference-open-source-reseni-v-sitich-probehne-10-listopadu-v-karvine/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-20T14:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Karvinská Obchodně podnikatelská fakulta Slezské univerzity v Opavě spolu s hlavním partnerem a organizátorem firmou Foresight Cyber pořádá opět po dvou letech konferenci Open source řešení v sítích 2022. Sedmý ročník konference se uskuteční 10. listopadu 2022 v aule OPF v Karviné, Univerzitní náměstí 1934/3.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
