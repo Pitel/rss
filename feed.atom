@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-29T04:14:35.347Z</id>
+    <id>urn:2022-09-29T06:51:40.611Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-29T04:14:35.347Z</updated>
+    <updated>2022-09-29T06:51:40.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bash 5.2 vylepšuje parsování substituce příkazů]]></title>
+        <id>www.root.cz-actuality-44029</id>
+        <link href="https://www.root.cz/zpravicky/bash-5-2-vylepsuje-parsovani-substituce-prikazu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-29T06:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři oznámili vydání shellu Bash ve verzi 5.2. Nejvýznamnější novinkou je přepracovaný kód pro parsování substituce příkazů, který nyní rekurzivně volá parser bison. To nahrazuje ad-hoc parsování používané v předchozích verzích a umožňuje lepší kontrolu syntaxe a zachycení syntaktických chyb mnohem dříve.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve McIntyre o tom, jak a proč volil v otázce firmwarů v Debianu]]></title>
+        <id>www.root.cz-actuality-44028</id>
+        <link href="https://www.root.cz/zpravicky/steve-mcintyre-o-tom-jak-a-proc-volil-v-otazce-firmwaru-v-debianu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-29T05:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Až do 1. října hlasují vývojáři Debianu o tom, jak se postavit k distribuci firmwarů k periferiím přímo na instalačních médiích. Hlasování podnítil Steve McIntyre, vývojář a někdejší šéf projektu Debian, který nyní také na blogu napsal, jak a proč v tomto případě hlasoval.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraria's Huge New 'Labor Of Love' Update Is Now Live, Here's What's Included]]></title>
+        <id>https://www.nintendolife.com/#article-138410</id>
+        <link href="https://www.nintendolife.com/news/2022/09/terrarias-huge-new-labor-of-love-update-is-now-live-heres-whats-included"/>
+        <updated>2022-09-29T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[And it's entirely free.
+
+Although Re-Logic issued its 'Journey's End' update for Terraria on the Nintendo Switch earlier this year, it's not done with the game just yet.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bayonetta 1 & 2 Receive New Update Ahead Of Third Game's Launch]]></title>
         <id>https://www.nintendolife.com/#article-138408</id>
@@ -772,17 +805,6 @@ Described as "the land of the beast," the game's world (Azuma) seems to be fairl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RPS Time Capsule: the games worth saving from 2011]]></title>
-        <id>https://www.rockpapershotgun.com/rps-time-capsule-the-games-worth-saving-from-2011</id>
-        <link href="https://www.rockpapershotgun.com/rps-time-capsule-the-games-worth-saving-from-2011"/>
-        <updated>2022-09-28T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's been a hot minute since we last gathered round the RPS Time Capsule vault (thanks, Gamescom), but at long last we have returned with another cracking year of PC games to preserve: 2011. In hindsight, it's a bit of an interesting year for Time Capsuling purposes, as we're now getting to the point where games from this era are getting their own remakes and remasters, or fancier, super duper director's cut special editions. We've included the original 2011 release of one of these games in this month's Time Capsule, but there's another notable exception we've decided to save for further down the line. I mean, seriously, would you really recommend vanilla Skyrim from 2011 over 2016's Special Edition?
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Low-intensity action platformer Itorah is hard to put down]]></title>
         <id>https://www.rockpapershotgun.com/low-intensity-action-platformer-itorah-is-hard-to-put-down</id>
         <link href="https://www.rockpapershotgun.com/low-intensity-action-platformer-itorah-is-hard-to-put-down"/>
@@ -792,6 +814,17 @@ Itorah, however, feels pure in the sense of capturing the essence, the heart of 
 Read more]]></summary>
         <author>
             <name>Sin Vega</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RPS Time Capsule: the games worth saving from 2011]]></title>
+        <id>https://www.rockpapershotgun.com/rps-time-capsule-the-games-worth-saving-from-2011</id>
+        <link href="https://www.rockpapershotgun.com/rps-time-capsule-the-games-worth-saving-from-2011"/>
+        <updated>2022-09-28T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's been a hot minute since we last gathered round the RPS Time Capsule vault (thanks, Gamescom), but at long last we have returned with another cracking year of PC games to preserve: 2011. In hindsight, it's a bit of an interesting year for Time Capsuling purposes, as we're now getting to the point where games from this era are getting their own remakes and remasters, or fancier, super duper director's cut special editions. We've included the original 2011 release of one of these games in this month's Time Capsule, but there's another notable exception we've decided to save for further down the line. I mean, seriously, would you really recommend vanilla Skyrim from 2011 over 2016's Special Edition?
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
         </author>
     </entry>
     <entry>
@@ -1254,16 +1287,12 @@ As well as the voice acting, Hob's Barrow has an appropriately creepsome soundtr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scizor And Scyther Are The Latest Pokémon To Join Pokémon Unite]]></title>
-        <id>https://www.nintendolife.com/#article-138344</id>
-        <link href="https://www.nintendolife.com/news/2022/09/scizor-and-scyther-are-the-latest-pokemon-to-join-pokemon-unite"/>
-        <updated>2022-09-28T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[And more Pokémon are on the way.
-Pokémon Unite for Switch and mobile devices has continued the expansion of its fighter roster with the release of the Pokémon Scizor and Scyther.
-Scyther (the bug and flying-type) and its evolved form Scizor (the bug and steel-type) come with a whole range of moves, which you can see in the character spotlight above.
-Read the full article on nintendolife.com]]></summary>
+        <title type="html"><![CDATA[Wing Lift]]></title>
+        <id>https://xkcd.com/2678/</id>
+        <link href="https://xkcd.com/2678/"/>
+        <updated>2022-09-28T04:00:00.000Z</updated>
         <author>
-            <name>Nintendo Life | Latest Updates</name>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -3648,16 +3677,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesa 22.2: přípravy na AMD RDNA3, vylepšení podpory Intel Arc či API Vulkan]]></title>
-        <id>www.root.cz-actuality-44006</id>
-        <link href="https://www.root.cz/zpravicky/mesa-22-2-pripravy-na-amd-rdna3-vylepseni-podpory-intel-arc-ci-api-vulkan/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-21T13:39:46.000Z</updated>
-        <summary type="html"><![CDATA[Zhruba dva týdny později oproti původním plánům, vychází nová verze balíku Mesa 22.2. Ta přináší vylepšení podpory prakticky všech GPU architektur, zejména těch velkých, kde mnoho novinek připravuje půdu pro budoucí AMD Radeony generace RDNA3 (na trh přijdou začátkem listopadu) a další vylepšují podporu Intel Arc či obecně API Vulkan. Na 150 patchů bylo do této verze backportováno z vývojové větve budoucí Mesy 22.3.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scorn's gross meat palace isn't that scary, but its writhing mass of hardcore puzzles did put the fear in me]]></title>
         <id>https://www.rockpapershotgun.com/scorns-gross-meat-palace-isnt-that-scary-but-its-writhing-mass-of-hardcore-puzzles-did-put-the-fear-in-me</id>
         <link href="https://www.rockpapershotgun.com/scorns-gross-meat-palace-isnt-that-scary-but-its-writhing-mass-of-hardcore-puzzles-did-put-the-fear-in-me"/>
@@ -3715,16 +3734,6 @@ Read more]]></summary>
 The post 3D-printed PIKON camera appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia představila GeForce RTX 4000]]></title>
-        <id>www.root.cz-actuality-44004</id>
-        <link href="https://www.root.cz/zpravicky/nvidia-predstavila-geforce-rtx-4000/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-21T08:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Nvidia zveřejnila detailní informace o nové generaci grafických karet RTX 4000 s kódovým jménem Ada Lovelace. Nejvyšší model GeForce RTX 4090 používá GPU vyráběné 4nm procesem u TSMC, karta sama pak má TDP 450 W (plus se hovoří o OC režimu u nereferenčních karet se spotřebou až 660 W).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4033,15 +4042,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyday Carry]]></title>
-        <id>https://xkcd.com/2674/</id>
-        <link href="https://xkcd.com/2674/"/>
-        <updated>2022-09-19T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
