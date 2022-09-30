@@ -1,10 +1,156 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-09-30T08:25:14.289Z</id>
+    <id>urn:2022-09-30T10:16:02.171Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-09-30T08:25:14.289Z</updated>
+    <updated>2022-09-30T10:16:02.171Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora 38 bude mít GnuTLS akcelerováno přes jaderný KTLS]]></title>
+        <id>www.root.cz-actuality-44039</id>
+        <link href="https://www.root.cz/zpravicky/fedora-38-bude-mit-gnutls-akcelerovano-pres-jaderny-ktls/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-30T10:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Fedora již nějakou dobu zkoumá možnost akcelerovat knihovnu GnuTLS přes jaderný KTLS. Jednak jde využít HW akcelerace šifrování, ale i bez ní je KTLS rychlejší, protože umožní použití více vláken a méně přepínání kontextu. Fedora Engineering and Steering Committee ve středu schválil GnuTLS s KTLS pro Fedoru 38.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zink Enables OpenGL Threading For "Huge Perf Gains"]]></title>
+        <id>https://www.phoronix.com/news/Zink-Enables-GLThread</id>
+        <link href="https://www.phoronix.com/news/Zink-Enables-GLThread"/>
+        <updated>2022-09-30T10:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Recently the open-source AMD OpenGL driver "RadeonSI" enabled OpenGL threading by default for the "glthread" option that has long been opt-in on a per-game/app basis. Along with that has been a number of glthread-related improvements to this code that punts executing OpenGL calls to a separate CPU thread. The Zink OpenGL-on-Vulkan driver has now unconditionally enabled OpenGL threading too...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World of Warcraft: Dragonflight expansion will lift off November 28]]></title>
+        <id>https://www.destructoid.com/?p=346343</id>
+        <link href="https://www.destructoid.com/world-of-warcraft-dragonflight-expansion-november-28-pc-release-date-blizzard/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=world-of-warcraft-dragonflight-expansion-november-28-pc-release-date-blizzard"/>
+        <updated>2022-09-30T10:00:11.000Z</updated>
+        <summary type="html"><![CDATA[Through the Dragon's Eye
+Activision Blizzard has announced a release date for Dragonflight, the newest expansion to its iconic fantasy MMO World of Warcraft — the new content will be made available to all players on November 28.
+World of Warcraft: Dragonflight, like the many, many WoW expansions that have come before it, will welcome players to a brand new locale — The Dragon Isles. This long forgotten continent will comprise or four new areas — The Waking Shores, The Azure Span, The Ohn'ahran Plains, and the opulent kingdom of Thaldraszus — each packed out with quests to be undertaken, dungeons to be raided, and loot to be gathered, providing hours upon hours of new adventure for the community.
+https://www.youtube.com/watch?v=UANuDDQTNKY
+Alongside the new locations, Dragonflight will also play host to a metamorphic new class, the Dracthyr Evoker. These characters can switch between their human and dragon forms, and will represent the first-ever "hybrid class" in WoW's long and storied history. In addition, as the expansion's title suggests, Dragonflight will feature a brand new, fully overhauled flight system, allowing players to take to the air with the greatest of ease in more deliberately controlled, skill-based aviation. What's that in the sky?
+World of Warcraft: Dragonflight will launch globally on Monday, November 28, for specific times for your chosen territory, check out the details over on the official Dragonflight website. Good luck, scalies!
+The post World of Warcraft: Dragonflight expansion will lift off November 28 appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homicidal All-Stars asks: 'What if Running Man was a turn-based tactics game?']]></title>
+        <id>https://www.rockpapershotgun.com/homicidal-all-stars-asks-what-if-running-man-was-a-turn-based-tactics-game</id>
+        <link href="https://www.rockpapershotgun.com/homicidal-all-stars-asks-what-if-running-man-was-a-turn-based-tactics-game"/>
+        <updated>2022-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever wondered what the 1987 film Running Man might look like as a turn-based tactics game (see also last year's Netflix sensation Squid Game, if the Running Man reference doesn't quite do it for you), then Homicidal All-Stars probably comes pretty close. It's the debut game from Artificer, a new studio formed by a bunch of ex-CreativeForge devs who worked on the first Hard West and Phantom Doctrine, and it centres on a woman called Scarlett who finds herself competing in the deadly TV show that gives the game its name. Like Running Man, Squid Game and all those other 'deadly games' you know and love, Homicidal All-Stars is about folks who down on their luck fighting for their lives, where their only consolation prize in these dystopian bloodbaths is not getting pulped at the end of it. 
+For Scarlett, this means mowing down scumbags in classic turn-based fashion with a bunch of other friendly competitors she's teamed up with, but this is far from a straightforward XCOM-like. Between fights, you'll also be navigating its trap-filled arenas in third-person, dodging sniper turrets, disabling tripwires, and dashing over spiky/fiery/horrible pits to get to the end of each 'episode'. It's a refreshing mix based on an early preview build I've been playing recently, especially when its gameshow hook allows for its malicious host, Orion Ford, to start meddling with your success. "He’s the person behind the worst of the twists," creative director and Artificer CEO Kacper Szymczak tells me. "He’ll start filling the level with poisonous gas, he’ll turn off the lights, drop explosive barrels everywhere, to name just a few."
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ovladač GPU pro Apple M1 funguje s GNOME]]></title>
+        <id>www.root.cz-actuality-44038</id>
+        <link href="https://www.root.cz/zpravicky/ovladac-gpu-pro-apple-m1-funguje-s-gnome/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-09-30T09:56:12.000Z</updated>
+        <summary type="html"><![CDATA[Ovladač GPU pro Apple M1, který vyvíjí Lina Asahi, dokáže nyní pustit GNOME, YouTube, Firefox a hru Neverball. Je to dobrý krok k použitelnosti Asahi Linuxu na počítačích s Apple ARM, ale na výkon potřebný pro moderní hry si budeme ještě muset počkat.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Adds AV1 Decode Support To Their Mesa D3D12 Driver]]></title>
+        <id>https://www.phoronix.com/news/Microsoft-AV1-D3D12-Decode</id>
+        <link href="https://www.phoronix.com/news/Microsoft-AV1-D3D12-Decode"/>
+        <updated>2022-09-30T09:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft engineers continue working on improving their Direct3D 12 driver within Mesa for benefiting Windows Subsystem for Linux (WSL2) usage and similar...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's How The 14-Foot Tall LEGO Bowser Was Built]]></title>
+        <id>https://www.nintendolife.com/#article-138481</id>
+        <link href="https://www.nintendolife.com/news/2022/09/heres-how-the-14-foot-tall-lego-bowser-was-built"/>
+        <updated>2022-09-30T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[King Koopa-sized.
+San Diego Comic Con had a pretty monstrous-sized Koopa built all out of LEGO bricks to deal with back in July. We were stunned by this 14-foot tall LEGO Bowser back when it was first shown off, and now LEGO has decided to share some behind-the-scenes footage of just how dear Bowser was put together.
+Using the 2,807-piece Bowser set as a reference, this ginormous structure took 3,290 hours to build — that's over 137 days. And if you thought over 2,800 bricks was a lot, try 663,900. It's a LEGO fan's dream.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 22.10 (Kinetic Kudu) Final Beta]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/ubuntu-22.10-kinetic-kudu-final-beta</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/ubuntu-22.10-kinetic-kudu-final-beta"/>
+        <updated>2022-09-30T09:16:23.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána finální beta verze Ubuntu 22.10 s kódovým názvem Kinetic Kudu. Přehled novinek v poznámkách k vydání. Dle plánu by Ubuntu 22.10 mělo vyjít 20. října 2022.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 22.10 Beta Released For Linux 5.19 + GNOME 43 Powered Linux Desktop]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-22.10-Beta-Released</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-22.10-Beta-Released"/>
+        <updated>2022-09-30T09:15:01.000Z</updated>
+        <summary type="html"><![CDATA[On Thursday night Canonical released the beta of next month's Ubuntu 22.10 "Kinetic Kudu" Linux distribution update...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NieR: Automata on Switch ought to have come earlier but it’s nearly perfect]]></title>
+        <id>https://www.destructoid.com/?p=346246</id>
+        <link href="https://www.destructoid.com/nier-automata-nintendo-switch-impressions-late-but-nearly-perfect/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nier-automata-nintendo-switch-impressions-late-but-nearly-perfect"/>
+        <updated>2022-09-30T09:00:31.000Z</updated>
+        <summary type="html"><![CDATA[It's fun 2B fashionably late
+NieR: Automata was first released in 2017, just close enough to the Switch launch date that it could have helped define the console's larger identity. It's definitely a "Style over Horsepower" game, and did little to tax the hardware of the now last-gen PS4. It's also developed by PlatinumGames, who've done a lot to build their audience on Nintendo consoles in recent years. Between The Wonderful 101, the full Bayonetta franchise, and Astral Chain, the Switch is where the bulk of their character action games live now. That's another reason why it's felt a little weird to see NieR: Automata on every major platform but Switch for all these years, but then again, weird has always been Nier's thing.
+Now the game is finally headed to Switch on October 4, 2022, and I'…]]></summary>
+        <author>
+            <name>Jonathan Holmes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel, Microsoft & Arm Continue Advancing The Cloud-Hypervisor With v27 Released]]></title>
+        <id>https://www.phoronix.com/news/Cloud-Hypervisor-27</id>
+        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-27"/>
+        <updated>2022-09-30T08:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-Hypervisor as what started as an open-source project by Intel and now run under the Linux Foundation umbrella as a Rust-based, modern-focused hypervisor for cloud workloads keeps on advancing. In addition to Intel, Microsoft and Arm continue investing significant resources into Cloud-Hypervisor for this security-focused VMM for running Windows and Linux guests...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: Scrapped Super Mario World Files Include This Tiny Guy, And We're In Love]]></title>
+        <id>https://www.nintendolife.com/#article-138460</id>
+        <link href="https://www.nintendolife.com/news/2022/09/random-scrapped-super-mario-world-files-include-this-tiny-guy-and-were-in-love"/>
+        <updated>2022-09-30T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[He smol.
+There are a multitude of things that get left out of video games during development and are either hidden away in the finished code or wiped off the face of the earth before we can get our eager Nintendo-obsessed eyes on them. One extremely small detail removed from Super Mario World has recently been brought to our attention by @MarioBrothBlog, and, we don't want to appear over-dramatic here, but we are heartbroken.
+Deep within the game's development files, a tiny green creature can be found, going by the name of either "One-Character-kun" or "Mr. One Character" in reference to his diminutive size being the equivalent of a single character of text.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDVLK 2022.Q3.5 Released With Several Improvements]]></title>
+        <id>https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released</id>
+        <link href="https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released"/>
+        <updated>2022-09-30T08:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Prior to ending out the third quarter, AMD's graphics driver team has released AMDVLK 2022.Q3.5 as their newest open-source Vulkan Linux driver update...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[France Claims it Has Cut Live Sports Piracy By 50% in Six Months]]></title>
         <id>https://torrentfreak.com/?p=224753</id>
@@ -828,7 +974,7 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Overwatch 2! Penko Park! PICROSS S8!
 The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop in your region. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy!
 Switch eShop - Highlights
-Overwatch 2 (Blizzard, 4th Oct, $39.99) - After years of bringing a colorful cast of characters together in online* team-based combat, the world has changed. Trouble is cropping up across the globe, and it’s not just the Null Sector. It’s time to reunite and stand with your fellow heroes! More extraordinary heroes will be joining the cast of Overwatch, including Sojourn, Junker Queen and Kiriko, who join the fight in Season 1. Travel the world and experience new ways to play as you brawl it out on the battlefield in a reimagined 5-v-5 battle system. Dive into action, unleash your power and spearhead a new era in Overwatch 2. Choose your hero and jump into the fight by downloading Overwatch 2 on Oct. 4.
+Overwatch 2 (Blizzard, 4th Oct, $0.00/$39.99) - After years of bringing a colorful cast of characters together in online* team-based combat, the world has changed. Trouble is cropping up across the globe, and it’s not just the Null Sector. It’s time to reunite and stand with your fellow heroes! More extraordinary heroes will be joining the cast of Overwatch, including Sojourn, Junker Queen and Kiriko, who join the fight in Season 1. Travel the world and experience new ways to play as you brawl it out on the battlefield in a reimagined 5-v-5 battle system. Dive into action, unleash your power and spearhead a new era in Overwatch 2. Choose your hero and jump into the fight by downloading Overwatch 2 on Oct. 4.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1284,32 +1430,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Includes additional language support.
 PlatinumGames' anticipated release Bayonetta 3 is finally launching on the Nintendo Switch next month, and ahead of its launch, Nintendo has issued a new update for the original Bayonetta and Bayonetta 2 on the system.
 Version 1.1.0 for both games includes additional language support options. Here are the patch notes for both:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Survey Asks Fans What Pokémon Games & Spin-Offs They Want]]></title>
-        <id>https://www.nintendolife.com/#article-138407</id>
-        <link href="https://www.nintendolife.com/news/2022/09/nintendo-survey-asks-fans-what-pokemon-games-and-spin-offs-they-want"/>
-        <updated>2022-09-29T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A new Mystery Dungeon, another remake and more...
-Every now and then companies will send out surveys to diehard fans asking what kind of games they would like to see in the future based on certain franchises. We've seen Atlus and others like Capcom do this, and most recently it seems Nintendo has issued one, specifically about Pokémon.
-As highlighted by a post on the MysteryDungeon subreddit (via My Nintendo News), Nintendo has begun sending out surveys to anyone signed up to receive My Nintendo promotions and newsletters. The survey wants to know what kind of games Pokémon fans would like to see from the series in the future.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch Online N64 Controllers Were Restocked Today, Did You Get One? (US)]]></title>
-        <id>https://www.nintendolife.com/#article-138403</id>
-        <link href="https://www.nintendolife.com/news/2022/09/switch-online-n64-controllers-were-restocked-today-did-you-get-one-us"/>
-        <updated>2022-09-29T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[And they sold out in record time again.
-
-One of the best ways to enhance the Switch Online + Expansion Pack service is to pick up some of Nintendo's retro controllers. Earlier today, it seems there was another surprise restock of Nintendo 64 controllers in the US for Switch Online members.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1888,18 +2008,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wild Hearts, that EA and Omega Force hunting project, was properly revealed this morning]]></title>
-        <id>https://www.destructoid.com/?p=346107</id>
-        <link href="https://www.destructoid.com/wild-hearts-that-ea-and-omega-force-project-revealed-footage-trailer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wild-hearts-that-ea-and-omega-force-project-revealed-footage-trailer"/>
-        <updated>2022-09-28T14:05:25.000Z</updated>
-        <summary type="html"><![CDATA["An epic adventure set in a fantasy world inspired by feudal Japan"
-Just a few weeks ago we learned that Wild Hearts was now in the mix: an action game from the minds over at Omega Force and...Electronic Arts? Hunting games are rising in popularity even more so thanks to the success of Monster Hunter World and Rise, and now more companies are getting back into the genre that once flourished on platforms like the PSP. Thanks to its debut trailer, we now have a better idea of what to actually expect.
-Described as "the land of the beast," the game's world (Azuma) seems to be fairly varied, with several different biomes. We see that the area is "fraught with danger," as the player character fights giant monsters (Kemono, which were once peaceful) with unconventional weapons like umbrellas and …]]></summary>
-        <author>
-            <name>Chris Carter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RPS Time Capsule: the games worth saving from 2011]]></title>
         <id>https://www.rockpapershotgun.com/rps-time-capsule-the-games-worth-saving-from-2011</id>
         <link href="https://www.rockpapershotgun.com/rps-time-capsule-the-games-worth-saving-from-2011"/>
@@ -1961,22 +2069,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Team Samurai Shodown take a slash in King of Fighters XV October 4]]></title>
-        <id>https://www.destructoid.com/?p=346082</id>
-        <link href="https://www.destructoid.com/king-of-fighters-xv-samurai-shodown-team-release-date-snk-october/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=king-of-fighters-xv-samurai-shodown-team-release-date-snk-october"/>
-        <updated>2022-09-28T13:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Let's Get Ippon
-SNK has announced the release date for the next team of DLC fighters headed toward its fab scrapper The King of Fighters XV — Team Samurai, consisting of Samurai Shodown stars Haohmaru, Nakoruru, and Darli Dagger, will be available to download on PC and console platforms from October 4.
-The new faction is, obviously, something of a crossover affair, and will see the SamSho posse step up to the plate against KoF's finest. I'm not 100% sure how Queensbury Rules Darli's enormous saw-sword is in a fistfight, but given that the KoF krew have literal superpowers, we can probably let it slide. While Haohmaru and Nakoruru are series veterans, this is only Darli's second gaming appearance, having made her debut in the ace 2019 Samurai Shodown release.
-https://www.youtube.com/watch?v=HxTHBgpCMfo
-Team Samurai will represent the fourth batch of DLC characters to join KoF XV's enormous roster since the title's initial launch earlier this year. The next season, which will kick off in 2023, has already promised to bring about the return of some KoF veterans. These include Kyo Kusanagi's well-meaning protege Shingo Yabuki, and the honorable taekwondo expert and criminal reformer Kim Kaphwan. Given Street Fighter 6's imminent launch and its wickedly redesigned Juri, it looks like it is going to be a fine year for windy, billowing taekwondo pants.
-The King of Fighters XV is available now on PlayStation, PC, and Xbox Series X platforms — Additionally, Samurai Shodown 2019 will receive a rollback netcode update next spring, which will hopefully bring about a resurgence of interest in the solid, if misunderstood, fighting title.
-The post Team Samurai Shodown take a slash in King of Fighters XV October 4 appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Moyse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Overwatch 2: It Will Take New Players About 100 Matches To Unlock All Original Heroes]]></title>
         <id>119269</id>
         <link href="https://www.gameinformer.com/2022/09/28/overwatch-2-it-will-take-new-players-about-100-matches-to-unlock-all-original-heroes"/>
@@ -1996,16 +2088,6 @@ The new FTUE addresses that feedback directly. In phase one, players will need t
         <summary type="html"><![CDATA[Last week the Rust-written Apple Direct Rendering manager (DRM) Linux driver for supporting Apple M1/M2 graphics managed to rendered its first cube. Asahi Linux contributor Asahi Lina today is back at it and working on getting more of this experimental kernel driver working for the Linux desktop...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora Linux bez hardwarové podpory H.264, H.265 a VC-1]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/fedora-linux-bez-hardwarove-podpory-h.264-h.265-a-vc1</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/fedora-linux-bez-hardwarove-podpory-h.264-h.265-a-vc1"/>
-        <updated>2022-09-28T12:35:46.000Z</updated>
-        <summary type="html"><![CDATA[Mesa umí skrze VA-API hardwarovou podporu H.264, H.265 a VC-1. Ve Fedora Linuxu ale musí být tato podpora z důvodů softwarových patentů zakázána.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2054,8 +2136,7 @@ Read more...]]></summary>
         <id>https://www.rockpapershotgun.com/intel-announce-13th-gen-raptor-lake-cpus-confirm-arc-a770-limited-edition-gpu-release-date</id>
         <link href="https://www.rockpapershotgun.com/intel-announce-13th-gen-raptor-lake-cpus-confirm-arc-a770-limited-edition-gpu-release-date"/>
         <updated>2022-09-28T11:01:40.000Z</updated>
-        <summary type="html"><![CDATA[Seems it’s that time of year again: the annual Intel CPU refresh is upon us, with CEO Pat Gelsinger announcing the 13th Gen "Raptor Lake" processor family onstage at Intel Innovation 2022 last night. These chips will stick to the hybrid Performance core/Efficiency core design introduced by the 12th Gen Alder Lake range – probably wisely, given that includes some of the best gaming CPUs ever – but ups the E-core counts, L2 cache capacities and clock speeds. Raptor Lake will go on sale on October 20th, a few weeks after the just-launched AMD Ryzen 7000 series.
-The showcase also included a few key details on the Intel Arc A770 Limited Edition, the top-ranking graphics card in the long-delayed Arc Alchemist lineup of gaming GPUs. This will also launch next month, on October 12th, and cost $329. Honestly, part of me was wondering if we’ll ever see the day, but yes: there really will be an Intel graphics card on the market. Even if it is more of an RTX 3060 rival than a cheap RTX 4080 alternative.
+        <summary type="html"><![CDATA[Update 30/9: In addition to the flagship Arc A770 Limited Edition, Intel have confirmed US prices and a release date for the Arc A770 and the Arc A750. These graphics cards will also launch on October 12th, same as the A770 Limited Edition, and cost $329 and $289 respectively.
 Read more]]></summary>
         <author>
             <name>James Archer</name>
@@ -2714,16 +2795,6 @@ The original story continues bel…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Thanks Microsoft: RadeonSI Enables Async VA-API For Faster Video Acceleration]]></title>
-        <id>https://www.phoronix.com/news/RadeonSI-VCN-Async-Mesa-22.3</id>
-        <link href="https://www.phoronix.com/news/RadeonSI-VCN-Async-Mesa-22.3"/>
-        <updated>2022-09-27T11:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Last week I wrote about how Microsoft landed a VA-API improvement in Mesa to support faster Video Acceleration API encoding with FFmpeg. That code was initially only wired up for the Microsoft D3D12 driver within Mesa for WSL use-cases, but now AMD has taken advantage of the new capability for RadeonSI Gallium3D usage with their Radeon GPUs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rick lands in MultiVersus today, while a new update doubles levelling time]]></title>
         <id>https://www.rockpapershotgun.com/rick-lands-in-multiversus-today-while-a-new-update-doubles-levelling-time</id>
         <link href="https://www.rockpapershotgun.com/rick-lands-in-multiversus-today-while-a-new-update-doubles-levelling-time"/>
@@ -2748,16 +2819,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesa 22.3 Lands Open-Source Radeon Driver CPU Overhead Optimizations]]></title>
-        <id>https://www.phoronix.com/news/Mesa-22.3-Radeon-Lower-Overhead</id>
-        <link href="https://www.phoronix.com/news/Mesa-22.3-Radeon-Lower-Overhead"/>
-        <updated>2022-09-27T10:20:20.000Z</updated>
-        <summary type="html"><![CDATA[There have been some notable merges this week for Mesa 22.3, particularly as it concerns the open-source Radeon graphics driver code...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Assassin’s Creed Valhalla free update gives Eivor more tombs to raid today]]></title>
         <id>https://www.rockpapershotgun.com/assassins-creed-valhalla-free-update-gives-eivor-more-tombs-to-raid-today</id>
         <link href="https://www.rockpapershotgun.com/assassins-creed-valhalla-free-update-gives-eivor-more-tombs-to-raid-today"/>
@@ -2771,16 +2832,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pyston 2.3.5 Released As Speedy Alternative To CPython]]></title>
-        <id>https://www.phoronix.com/news/Pyston-2.3.5-Released</id>
-        <link href="https://www.phoronix.com/news/Pyston-2.3.5-Released"/>
-        <updated>2022-09-27T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pyston as what was born at Dropbox as a speedy open-source Python implementation is out with a new update as it continues to focus on maximizing performance. Dropbox ceased work on Pyston years ago while the developers continued and since last year joined Anaconda to continue their performant Python quest...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD vydala Zen 4, posílá do důchodu většinu dosavadních CPU]]></title>
         <id>www.root.cz-actuality-44021</id>
         <link href="https://www.root.cz/zpravicky/amd-vydala-zen-4-posila-do-duchodu-vetsinu-dosavadnich-cpu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2788,16 +2839,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Do obchodů pomalu míří čerstvě uvedená generace procesorů AMD Zen 4, reprezentovaná mimo jiné 16jádrovým Ryzenem 7950X, 12jádrovým Ryzenem 7900X či 8jádrem 7700X a 6jádrem 7600X. Obecně lze říci, že procesory jsou oproti předchozí generaci dražší (nejvyšší model přes 20 tisíc Kč a i desky a DDR5 Paměti budou dražší), hladovější (TDP nejvyššího modelu vzrostlo z 105 na 170 W), ale výrazně výkonnější (+13% IPC, maximální frekvence sahá k 5,7 až 5,85 GHz, přibyla např. též instrukční sada AVX-512 a podpora DDR5 a PCI Express 5.0).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VKD3D 1.5 Lands In Wine For Updated Direct3D 12 Over Vulkan]]></title>
-        <id>https://www.phoronix.com/news/VKD3D-1.5-Released</id>
-        <link href="https://www.phoronix.com/news/VKD3D-1.5-Released"/>
-        <updated>2022-09-27T09:46:27.000Z</updated>
-        <summary type="html"><![CDATA[VKD3D 1.5 was recently tagged as the newest version of this Direct3D 12 over Vulkan implementation used by Wine and originally an upstream to Valve's VKD3D-Proton. VKD3D 1.5 has been integrated into Wine Git ahead of next week's Wine 7.19 release...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2820,16 +2861,6 @@ The post Meet Carrie Sundra: Art, LEDs, and a political message or two appeared 
 Read more]]></summary>
         <author>
             <name>Hayden Hefford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-Speed Mold 1.5 Linker Released With PPC64LE, SPARC64 & RISC-V BE Targets]]></title>
-        <id>https://www.phoronix.com/news/Mold-1.5-Linker-Released</id>
-        <link href="https://www.phoronix.com/news/Mold-1.5-Linker-Released"/>
-        <updated>2022-09-27T09:17:59.000Z</updated>
-        <summary type="html"><![CDATA[Mold 1.5 is out today as the newest version of this open-source, high-speed linker alternative to the likes of GNU Gold and LLVM LLD...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3256,16 +3287,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arch Linux ukončil podporu pro Python 2]]></title>
-        <id>www.root.cz-actuality-44016</id>
-        <link href="https://www.root.cz/zpravicky/arch-linux-ukoncil-podporu-pro-python-2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-26T05:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Arch Linux oznámil, že odstranil balíčky pro Python 2. Jeho podpora skončila v roce 2020 a vývojáři Archu od té doby aktivně snižovali počty balíčků, které na něm závisely. Nakonec byly odstraněny i balíčky se samotným programovacím jazykem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Two Key System]]></title>
         <id>https://xkcd.com/2677/</id>
         <link href="https://xkcd.com/2677/"/>
@@ -3473,16 +3494,6 @@ For Game Informer's other podcast, be sure to check out The Game Informer Sho
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google chystá otevřený formát, který nahradí Dolby Vision a Dolby Atmos]]></title>
-        <id>www.root.cz-actuality-44015</id>
-        <link href="https://www.root.cz/zpravicky/google-chysta-otevreny-format-ktery-nahradi-dolby-vision-a-dolby-atmos/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-23T17:05:30.000Z</updated>
-        <summary type="html"><![CDATA[Dolby Vision je technologie pro HDR video a Dolby Atmos pro prostorový zvuk doprovázející video. Obě technologie jsou však proprietární a placené. Dolby nejvíce vydělává na poplatcích od výrobců hardware. Například výrobce TV s podporou Dolby Vision platí 2–3 dolary za licenci.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4334,17 +4345,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/the-rog-zephyrus-g14-my-favourite-amd-gaming-laptop-is-300-off-at-best-buy"/>
         <updated>2022-09-18T22:28:04.000Z</updated>
         <summary type="html"><![CDATA[Asus' Zephyrus G14 is my favourite all-AMD gaming laptop, and today the latest generation model is going cheap at Best Buy. This specification packs in a Ryzen 9 6900HS processor, Radeon RX 6700S GPU, 1TB NVMe SSD, 16GB of DDR5 and a 14-in 1440p 120Hz screen - and it's been discounted from $1650 to $1350, saving you $300. That's an awesome price for this level of performance, all in a compact 14-in chassis that's easy to tote around or work with on the go. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD's fastest gaming processor is down to $375]]></title>
-        <id>https://www.rockpapershotgun.com/amds-fastest-gaming-processor-is-down-to-375</id>
-        <link href="https://www.rockpapershotgun.com/amds-fastest-gaming-processor-is-down-to-375"/>
-        <updated>2022-09-18T22:09:55.000Z</updated>
-        <summary type="html"><![CDATA[The 'world's fastest gaming CPU', according to AMD, is on sale in the US today. The Ryzen 7 5800X3D is down from $450 to $375 via Antonline's Ebay store, an awesome price for an extremely quick eight-core and 16-thread processor blessed with AMD's new stacked L3 cache design, which allows it to beat almost every current-gen CPU in gaming performance. 
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
