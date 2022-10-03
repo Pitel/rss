@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-03T03:23:54.386Z</id>
+    <id>urn:2022-10-03T04:48:04.354Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-10-03T03:23:54.386Z</updated>
+    <updated>2022-10-03T04:48:04.354Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[V dněšním díle postřehů z bezpečnosti se podíváme na nejnovější útočné techniky hackerských skupin Lazarus a Fancy Bear, novou zero-day zranitelnost na MS Exchange serverech a také jak Apple omezuje svobodu přístupu k informacím v Rusku.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: ALEF-CSIRT)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/linux-6.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/linux-6.0"/>
+        <updated>2022-10-02T22:14:05.000Z</updated>
+        <summary type="html"><![CDATA[Po 9 týdnech vývoje od vydání Linuxu 5.19 oznámil Linus Torvalds vydání Linuxu 6.0 (LKML): "Je snad každému jasné, že změna major verze je spíš o tom, že mi dojdou prsty na rukou a nohou, než o převratných změnách". Přehled novinek a vylepšení na stránce Linux Kernel Newbies.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1522,16 +1532,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Microsoft engineers continue working on improving their Direct3D 12 driver within Mesa for benefiting Windows Subsystem for Linux (WSL2) usage and similar...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.10 (Kinetic Kudu) Final Beta]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ubuntu-22.10-kinetic-kudu-final-beta</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ubuntu-22.10-kinetic-kudu-final-beta"/>
-        <updated>2022-09-30T09:16:23.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána finální beta verze Ubuntu 22.10 s kódovým názvem Kinetic Kudu. Přehled novinek v poznámkách k vydání. Dle plánu by Ubuntu 22.10 mělo vyjít 20. října 2022.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
