@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-04T04:54:18.373Z</id>
+    <id>urn:2022-10-04T06:26:00.252Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-10-04T04:54:18.373Z</updated>
+    <updated>2022-10-04T06:26:00.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[IceWM 3.0.0 přináší podporu více panelů v jednom okně]]></title>
+        <id>www.root.cz-actuality-44046</id>
+        <link href="https://www.root.cz/zpravicky/icewm-3-0-0-prinasi-podporu-vice-panelu-v-jednom-okne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-10-04T06:18:40.000Z</updated>
+        <summary type="html"><![CDATA[Na světě je nová hlavní verze desktopového prostředí, tedy pardon, grafického rozhraní pro X11 IceWM. Trojková verze tak završuje číselnou éru 2.99.x a přináší zejména podporu tzv. tabbed windows, kdy rám okna může nově nést přepínání mezi více panely (další okno jako nový panel v jiném oknu vyrobí uživatel přetažením tohoto okna pomocí prostředního tlačítka/kolečka myši za současného držení Shiftu).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Introduces The Cast Of Bayonetta 3]]></title>
         <id>https://www.nintendolife.com/#article-138606</id>
@@ -116,6 +126,16 @@ Those with a Prime Gaming sub can also pick up base Fallout 76 for free until 
 https://www.youtube.com/wa…]]></summary>
         <author>
             <name>Eric Van Allen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 2.38.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/git-2.38.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/git-2.38.0"/>
+        <updated>2022-10-03T22:57:09.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 2.38.0 distribuovaného systému správy verzí Git. Přispělo 92 vývojářů, z toho 24 nových. Přehled novinek v příspěvku na blogu GitHubu a v poznámkách k vydání. Součástí balíčku je nově příkaz scalar. Jedná se o stejnojmenné rozšíření gitu od Microsoftu pro velké repozitáře.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1472,16 +1492,6 @@ At EGX I had the good fortune to sit down with several ti…]]></summary>
         <summary type="html"><![CDATA[While the Steam on Linux marketshare has been consistently increasing this year since the launch of the Arch Linux powered Steam Deck, the September 2022 numbers are in and surprisingly there is a slight pull-back in Linux use...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neovim 0.8.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/neovim-0.8.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/neovim-0.8.0"/>
-        <updated>2022-10-02T00:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Textový editor Neovim byl vydán ve verzi 0.8.0. Mj. (zatím částečně) přechází na treesitter jako výchozí.]]></summary>
-        <author>
-            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -3539,16 +3549,6 @@ Still. AMD’s next-gen, RDNA 3-based GPUs are an unknown quantity, and the RTX 
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MGLRU už je ve větvi mm-stable, možná stihne začlenění do Linuxu 6.1]]></title>
-        <id>www.root.cz-actuality-44023</id>
-        <link href="https://www.root.cz/zpravicky/mglru-uz-je-ve-vetvi-mm-stable-mozna-stihne-zacleneni-do-linuxu-6-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-09-27T14:40:03.000Z</updated>
-        <summary type="html"><![CDATA[Framework MGLRU možná stihne začlenění do jádra 6.1. O MGLRU jsme psali už v lednu, v červenci došlo na přehnaný optimismus o možném začlenění do jádra 5.20 (tedy 6.0), který následovaly informace o zahrnutí kódu do vetvě mm-unstable Andrewa Mortona. Zde MGLRU prodělal další ladění kvality kódu a nyní to opravdu vypadá, že začlenění je na spadnutí. Projekt se totiž přesouvá do větve  mm-stable.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
