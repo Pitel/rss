@@ -1,10 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-11T06:39:08.488Z</id>
+    <id>urn:2022-10-11T08:23:28.026Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-10-11T06:39:08.488Z</updated>
+    <updated>2022-10-11T08:23:28.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Control temperature and humidity with Raspberry Pi Pico]]></title>
+        <id>https://www.raspberrypi.com/?p=88407</id>
+        <link href="https://www.raspberrypi.com/news/control-temperature-and-humidity-with-raspberry-pi-pico/"/>
+        <updated>2022-10-11T07:21:06.000Z</updated>
+        <summary type="html"><![CDATA[Hesam Moshiri (aka MyVanitar) used Raspberry Pi Pico, a digital SHTC3 sensor, and a TFT display to build a temperature and humidity monitor to help you keep an eye on your environment. His version is equipped with relays so the device can control heating and cooling in response to the sensor readings, keeping conditions within […]
+The post Control temperature and humidity with Raspberry Pi Pico appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Ashley Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Finishes Gutting Out The Old a.out Code]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Gutting-Out-a.out</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Gutting-Out-a.out"/>
+        <updated>2022-10-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2019 the Linux kernel finally deprecated a.out support for that format superseded by ELF long ago. Since earlier this year kernel developers moved ahead with beginning to remove a.out support, including the old x86 a.out support. Now with Linux 6.1 some lingering remnants of a.out are being cleared away...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: Remember To Update Your Switch Joy-Con And Pro Controllers]]></title>
+        <id>https://www.nintendolife.com/#article-138987</id>
+        <link href="https://www.nintendolife.com/news/2022/10/psa-remember-to-update-your-switch-joy-con-and-pro-controllers"/>
+        <updated>2022-10-11T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The latest Switch firmware update has arrived.
+Nintendo earlier today released a new firmware update for the Switch and it seems there might be some controller updates to go with it according to a number of users who have already downloaded the update.
+Obviously, this is just a little PSA to remind you, in general, to update your Joy-Con and Pro Controllers if you haven't done it in a while. In saying this, Dataminer OatmealDome does mention how the Bluetooth firmware in the Pro Controller has been updated:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE Plasma 5.27 bude poslední Qt5, stříháme metr do příchodu KDE Plasma 6.0]]></title>
         <id>www.root.cz-actuality-44074</id>
@@ -45,8 +79,8 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2022/10/nintendo-switch-system-update-15-0-0-is-now-live-here-are-the-full-patch-notes"/>
         <updated>2022-10-11T01:35:00.000Z</updated>
         <summary type="html"><![CDATA[Download it today.
-Nintendo has just released another new firmware update for the Switch. It bumps the system up to version 15.0.0.
-According to the company's official support page, this latest update includes makes some minor adjustments, allows screenshots to be taken in the NSO application and also comes with some general stability improvements.
+Nintendo has just released another new firmware update for the Switch. This is the first major update it has released since June, and it's skipped ahead from Version 14.1.2 all the way up to 15.0.0.
+This latest update might not be what everyone was necessarily hoping for but it does come with some handy adjustments and improvements. Screenshots can now also be taken while in the NSO application. Below are the full patch notes, courtesy of Nintendo's official support page:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1360,19 +1394,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[The HID subsystem updates have been submitted for the ongoing linux 6.1 merge window of which there are several notable driver additions for bettering the hardware support on several fronts...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get A Free Nintendo Live Banner In Splatoon 3 With This QR Code]]></title>
-        <id>https://www.nintendolife.com/#article-138904</id>
-        <link href="https://www.nintendolife.com/news/2022/10/get-a-free-nintendo-live-banner-in-splatoon-3-with-this-qr-code"/>
-        <updated>2022-10-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Just scan it in SplatNet 3.
-
-As part of the Nintendo Live 2022 celebrations this weekend, Nintendo is giving out a special item for Splatoon 3.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2707,16 +2728,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 Networking Brings WiFi EHT & MLO Preparations, New ASICs Enabled]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Networking</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Networking"/>
-        <updated>2022-10-06T17:30:45.000Z</updated>
-        <summary type="html"><![CDATA[The networking feature pull for the Linux 6.1 kernel brings 127k lines of new code and 50k lines of code removed as a rather hearty set of wired/wireless networking driver updates and core improvements this round...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4827,17 +4838,6 @@ General fixes and features
 Here is a list of general fixes in Android Studio Flamingo Canary 2. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Carrie Sundra: Art, LEDs, and a political message or two]]></title>
-        <id>https://www.raspberrypi.com/?p=87619</id>
-        <link href="https://www.raspberrypi.com/news/meet-carrie-sundra-art-leds-and-a-political-message-or-two/"/>
-        <updated>2022-09-27T09:41:24.000Z</updated>
-        <summary type="html"><![CDATA[HackSpace magazine talked to Carrie Sundra and it was SUPER interesting. Contrary to what the liars at school told you all those years ago, swearing is big, clever, and funny. So, when we saw the FUnicorn display by Alpenglow Industries, we just had to talk to its creator. What does it mean? Why make everything […]
-The post Meet Carrie Sundra: Art, LEDs, and a political message or two appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Ben Everard</name>
         </author>
     </entry>
     <entry>
