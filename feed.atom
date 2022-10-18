@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-18T08:23:47.808Z</id>
+    <id>urn:2022-10-18T10:17:55.215Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-10-18T08:23:47.808Z</updated>
+    <updated>2022-10-18T10:17:55.215Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Coreboot 4.18 Released With AMD Morgana & Intel Meteor Lake SoC Support]]></title>
+        <id>https://www.phoronix.com/news/Coreboot-4.18-Released</id>
+        <link href="https://www.phoronix.com/news/Coreboot-4.18-Released"/>
+        <updated>2022-10-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Coreboot 4.18 had been planned for release in August but after that slipped, this newest Coreboot feature release is now shipping and comes with many hardware support improvements and other changes for this open-source system firmware implementation...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD CPU Microcode Fix For Linux To Patch Every Logical Thread Nears Mainline]]></title>
+        <id>https://www.phoronix.com/news/AMD-CPU-Microcode-Per-Thread</id>
+        <link href="https://www.phoronix.com/news/AMD-CPU-Microcode-Per-Thread"/>
+        <updated>2022-10-18T09:42:50.000Z</updated>
+        <summary type="html"><![CDATA[Back in August I wrote about a patch to change AMD's CPU microcode loading on Linux to now patch every logical CPU thread rather than just per physical core. It turned out that at least some CPU microcode updates do make per-thread modifications while the Linux kernel microcode handling for AMD was just applying microcode updates at run-time on a per-core basis. That patch was seemingly forgotten about but has now been queued up as part of x86 "urgent" changes for the mainline kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capcom are holding a Resident Evil showcase this week]]></title>
+        <id>https://www.rockpapershotgun.com/capcom-are-holding-a-resident-evil-showcase-this-week</id>
+        <link href="https://www.rockpapershotgun.com/capcom-are-holding-a-resident-evil-showcase-this-week"/>
+        <updated>2022-10-18T09:33:10.000Z</updated>
+        <summary type="html"><![CDATA[It’s officially the spooky season now, so that makes it a highly appropriate juncture for some survival horror. Good job that Capcom have announced they’re streaming a Resident Evil showcase this Thursday, October 20th, then. They’ve even roped in Resident Evil Village’s Merchant to narrate the trailer for it. Watch below for a quick look at what’s coming up in the showcase stream.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Releases Its Linux Distribution Update For October 2022]]></title>
+        <id>https://www.phoronix.com/news/CBL-Mariner-2.0-October-2022</id>
+        <link href="https://www.phoronix.com/news/CBL-Mariner-2.0-October-2022"/>
+        <updated>2022-10-18T09:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released its monthly update to CBL-Mariner 2.0, its in-house Linux distribution serving a variety of purposes from WSL to Azure...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Megaupload Pair Remain RIAA & MPA Lawsuit Targets Despite Guilty Pleas]]></title>
+        <id>https://torrentfreak.com/?p=224897</id>
+        <link href="https://torrentfreak.com/megaupload-pair-remain-targets-in-riaa-and-mpa-lawsuits-despite-guilty-pleas-221018/"/>
+        <updated>2022-10-18T09:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year, former Megaupload executives Mathias Ortmann and Bram van der Kolk signed a plea deal to avoid extradition to the United States. They remain defendants in civil lawsuits filed by the MPA and RIAA but their guilty pleas will undoubtedly change the course of these battles. 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa's Gallium3D Finishes Gutting Out Its Graw Interface]]></title>
+        <id>https://www.phoronix.com/news/Mesa-Gallium3D-Graw-Dropped</id>
+        <link href="https://www.phoronix.com/news/Mesa-Gallium3D-Graw-Dropped"/>
+        <updated>2022-10-18T09:14:59.000Z</updated>
+        <summary type="html"><![CDATA[Two weeks ago a bunch of old Mesa code got removed including the XvMC front-end, Rbug as a remote debugging interface, and some of Graw that was to serve as a raw Gallium3D interface without a traditional Gallium front-end. Some of Graw was accidentally left in the source tree while now that has been caught and eliminated in further lightening the size of Mesa...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil Showcase stream set for Thursday, October 20]]></title>
+        <id>https://www.destructoid.com/?p=347588</id>
+        <link href="https://www.destructoid.com/resident-evil-showcase-october-20-live-stream-capcom-4-remake-village-dlc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=resident-evil-showcase-october-20-live-stream-capcom-4-remake-village-dlc"/>
+        <updated>2022-10-18T08:48:59.000Z</updated>
+        <summary type="html"><![CDATA[Hey, it's that dawg...
+Capcom has announced that it will be hosting a brand new Resident Evil Showcase presentation later this week, complete with new trailers, updates, and details regarding its upcoming releases as they pertain to the iconic survival horror franchise.
+Specifically, the broadcast will feature new footage and news surrounding both the upcoming Resident Evil Village: Gold Edition, the Winters Expansion DLC, and the highly anticipated remake of franchise favorite Resident Evil 4.  So anybody with a knack for battling either giant vampiric countesses or diminutive Napoleonic cult leaders will most certainly want to tune in and get up to speed on the ghoulish goings-on. With only 10 days to go until Gold Edition's launch, it's a fine time for it.
+https://youtu.be/3Ss4_4bZhQI
+The Resident Evil Showcase will take place Thursday, October 20 at 15:00 PT / 18:00 ET / 23:00 BST and can be viewed on the official Capcom/Resident Evil YouTube and Twitch channels, as well as their respective social media platforms.  While the length of the broadcast was not revealed, Capcom rarely tends to stray beyond the 30-minute mark for their presentations. God forbid everybody tried that.
+Resident Evil Village: Gold Edition launches October 28 on PlayStation, PC, and Xbox platforms.
+The post Resident Evil Showcase stream set for Thursday, October 20 appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splatoon 3 Is Already The Best-Selling Video Game Of 2022 In Japan]]></title>
+        <id>https://www.nintendolife.com/#article-139362</id>
+        <link href="https://www.nintendolife.com/news/2022/10/splatoon-3-is-already-the-best-selling-video-game-of-2022-in-japan"/>
+        <updated>2022-10-18T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[That's a lot of squid.
+Splatoon 3 just continues to splatter ink over all sorts of records, especially in Japan where the IP is huge. And it's just surpassed another one — with the release of the Japan Monthly Report for September 2022, it's now been confirmed that Splatoon 3 is the best-selling video game in Japan in 2022.
+The data from the report was shared by Game Data Library on Twitter, and it reveals that Nintendo's third ink-based shooter sold just over 2.9 million retail units in the month of September alone. That means, in just a month, it's surpassed Pokémon Legends: Arceus' 2.295 million retail unit sales.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tails 5.5 aktualizuje jádro, Firefox i Thundebrird]]></title>
         <id>www.root.cz-actuality-44099</id>
@@ -50,11 +143,11 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Twitch Star Amouranth Says 'I'm Free', Is Seeking 'Legal And Emotional Counsel']]></title>
+        <title type="html"><![CDATA[Twitch Star Amouranth Says 'I'm Free,' Is Seeking 'Legal And Emotional Counsel']]></title>
         <id>1849670703</id>
         <link href="https://kotaku.com/amouranth-twitch-return-safe-accounts-update-stream-1849670703"/>
         <updated>2022-10-18T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Streamer and content creator Kaitlyn Siragusa, aka Amouranth, has recorded a video for the first time since the events of Sunday evening—when she first revealed that she was in an abusive relationship with her husband—to update fans on what has been happening, saying she’s “happy that I’m free”. 
+        <summary type="html"><![CDATA[Streamer and content creator Kaitlyn Siragusa, aka Amouranth, has recorded her first video since she first revealed on Sunday that she was in an abusive relationship with her husband. The video was to update fans on what has been happening, adding that she’s “happy that I’m free.”
 
 Read more...]]></summary>
         <author>
@@ -128,7 +221,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>1849669827</id>
         <link href="https://kotaku.com/cosplay-universe-documentary-stan-lee-yaya-han-nigri-1849669827"/>
         <updated>2022-10-18T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been covering cosplay  for well over a decade now, and in that time I’ve seen loads of books, posts, YouTube videos and even TV series about the subject. What I had never seen, until now, was someone actually go and make a documentary as slick and comprehensive as Cosplay Universe.
+        <summary type="html"><![CDATA[I’ve been covering cosplay  for well over a decade now, and in that time I’ve seen loads of books, posts, YouTube videos, and even TV series about the subject. What I had never seen, until now, was someone actually go and make a documentary as slick and comprehensive as Cosplay Universe.
 
 Read more...]]></summary>
         <author>
@@ -150,7 +243,7 @@ Read more...]]></summary>
         <id>1849669665</id>
         <link href="https://kotaku.com/ea-shut-down-close-servers-mirrors-edge-command-conquer-1849669665"/>
         <updated>2022-10-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Electronic Arts has moved quietly to begin the process of shutting down the online servers for a bunch of old games, some of them absolute classics, some you would be forgiven for having forgotten all about.
+        <summary type="html"><![CDATA[Electronic Arts has moved quietly to begin the process of shutting down the online servers for a bunch of old games. Some of them are absolute classics, some you would be forgiven for having forgotten all about.
 
 Read more...]]></summary>
         <author>
@@ -1264,6 +1357,17 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 10/17/2022]]></title>
+        <id>https://torrentfreak.com/?p=186926</id>
+        <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
+        <updated>2022-10-16T22:30:40.000Z</updated>
+        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Bullet Train' tops the chart, followed by ‘Clerks III'. 'Hellraiser' completes the top three.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Twitch Star Amouranth Says She Is Being Abused By Her Husband [Update]]]></title>
         <id>1849664778</id>
         <link href="https://kotaku.com/amouranth-says-she-is-being-abused-by-her-husband-1849664778"/>
@@ -1520,19 +1624,6 @@ Regardless, it is the weekend, and I hope that this one finds you and yours very
         <summary type="html"><![CDATA[Spooky Fall is also returning.
 
 During the Minecraft Dungeons segment at Minecraft Live 2022, Mojang announced it would be releasing Season 3 of the action-RPG dungeon-crawling adventure officially titled the Fauna Faire. It's apparently "all about pets" - and will feature a variety of new animal mobs such as otters, penguins, and even hedgehogs.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft's New Mob Vote Has Been Decided, The Sniffer Wins]]></title>
-        <id>https://www.nintendolife.com/#article-139284</id>
-        <link href="https://www.nintendolife.com/news/2022/10/minecrafts-new-mob-vote-has-been-decided-the-sniffer-wins"/>
-        <updated>2022-10-16T05:15:00.000Z</updated>
-        <summary type="html"><![CDATA[An ancient overworld creature returns.
-
-During this year's Minecraft Live broadcast, fans were ask to pick from the Rascal, Sniffer and Tuff Golem as the next mob.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2191,22 +2282,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Star Trek: Resurgence now delayed until April 2023]]></title>
-        <id>https://www.destructoid.com/?p=347391</id>
-        <link href="https://www.destructoid.com/star-trek-resurgence-delayed-april-2023-dramatic-labs-pc-playstation-xbox/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=star-trek-resurgence-delayed-april-2023-dramatic-labs-pc-playstation-xbox"/>
-        <updated>2022-10-14T16:00:37.000Z</updated>
-        <summary type="html"><![CDATA[May the Force be with You
-Fledgling studio Dramatic Labs has announced that its graphic adventure game Star Trek: Resurgence will no longer meet its 2022 release date — The space opera adaptation will now launch in April 2023 on PlayStation, PC, and Xbox platforms.
-"Production has been advancing steadily all summer, but we have made the difficult decision to move our release date out of 2022 in order to give the game a final coat of polish, and create a truly immersive Star Trek experience," writes the developer in a statement posted to Twitter.
-"Our love and admiration for Star Trek is instrumental to this decision. We're proud of what we've accomplished so far, and this continues to be a passion project for everyone here. We are incredibly grateful — and excited — to be able to work within a universe that means so much to so many. We can't wait for you to see it all and look forward to taking you on an adventure unlike any Star Trek game that's come before."
-Originally revealed at The Game Awards just last year, Star Trek: Resurgence is a narrative experience in the vein of Telltale Games' litany of choice-based adventure games. Studio Dramatic Labs is itself made up of former Telltale Games employees, and thus one can likely expect the people politics, dramatic tension, and moral decision-making of games such as The Walking Dead, The Wolf Among Us, and Batman: The Telltale Series.
-Star Trek: Resurgence will launch April 2023 on PlayStation, PC, and Xbox platforms.
-The post Star Trek: Resurgence now delayed until April 2023 appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Moyse</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Have You Played... Star Trek Online?]]></title>
         <id>https://www.rockpapershotgun.com/have-you-played-star-trek-online</id>
         <link href="https://www.rockpapershotgun.com/have-you-played-star-trek-online"/>
@@ -2536,16 +2611,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GNU Toolchain Leaders Support Moving Their Infrastructure Under The Linux Foundation]]></title>
-        <id>https://www.phoronix.com/news/GNU-Toolchain-Leaders-LF-IT</id>
-        <link href="https://www.phoronix.com/news/GNU-Toolchain-Leaders-LF-IT"/>
-        <updated>2022-10-14T10:09:46.000Z</updated>
-        <summary type="html"><![CDATA[Brought up in September was the proposal of moving the GNU toolchain infrastructure under the Linux Foundation's IT services. The GNU Toolchain leaders have now come out formally in support of this proposed move...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scorn Impressions | New Gameplay Today]]></title>
         <id>119347</id>
         <link href="https://www.gameinformer.com/ngt/2022/10/14/scorn-impressions-new-gameplay-today"/>
@@ -2571,36 +2636,6 @@ For more previews of some of the biggest games of 2022 and beyond, be sure to he
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 To Allow Faster File Sharing Between Host & Guests With 9P VirtIO Optimization]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Faster-9P</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Faster-9P"/>
-        <updated>2022-10-14T09:42:08.000Z</updated>
-        <summary type="html"><![CDATA[The 9P network protocol is commonly used -- such as with QEMU's 9pfs pass-through file-system --  for being able to share certain directories/files on host machines with the guest operating systems. With Linux 6.1 the 9p code has seen a nice set of optimizations that can allow for faster communication between the host and guest(s)...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Publishes New Media Driver, oneVPL GPU Runtime "2022Q3" Releases]]></title>
-        <id>https://www.phoronix.com/news/Intel-2022Q3-Media</id>
-        <link href="https://www.phoronix.com/news/Intel-2022Q3-Media"/>
-        <updated>2022-10-14T09:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Intel has published their "2022Q3" releases for their open-source Media Driver with VA-API support as well as their Intel oneVPL GPU Runtime...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA-VAAPI-Driver 0.0.7 Released For Enjoying VA-API With NVIDIA's Proprietary Driver]]></title>
-        <id>https://www.phoronix.com/news/NVIDIA-VAAPI-Driver-0.0.7</id>
-        <link href="https://www.phoronix.com/news/NVIDIA-VAAPI-Driver-0.0.7"/>
-        <updated>2022-10-14T09:09:00.000Z</updated>
-        <summary type="html"><![CDATA[The NVIDIA-VAAPI-Driver is the open-source, community-developed Video Acceleration API (VA-API) implementation that is built to make use of NVIDIA's NVDEC interface exposed by their proprietary Linux graphics driver stack. In turn this VA-API implementation is notable since it allows for NVIDIA GPU video acceleration with Firefox that targets VA-API but not the NVIDIA interfaces...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4065,17 +4100,6 @@ The post Voodoo2: 3dfx’s final dedicated 3d gaming card | Custom PC #231 appea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 10/17/2022]]></title>
-        <id>https://torrentfreak.com/?p=186926</id>
-        <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
-        <updated>2022-10-09T22:30:40.000Z</updated>
-        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Bullet Train' tops the chart, followed by ‘Clerks III'. 'Hellraiser' completes the top three.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jaderné noviny – přehled za září 2022]]></title>
         <id>http://www.abclinuxu.cz/clanky/jaderne-noviny-prehled-za-zari-2022</id>
         <link href="http://www.abclinuxu.cz/clanky/jaderne-noviny-prehled-za-zari-2022"/>
@@ -4150,19 +4174,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Přibývá aplikací, v nichž je umělá inteligence základem. O deduplikaci s člověkem z praxe. Průvodce výběrem cloudu pro správce dat. Elektronika z jediného izotopu křemíku lépe odvádí teplo. O 6 měsíců později: role kybernetických útoků ve válce na Ukrajině.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call Of Duty: Modern Warfare 2's PC trailer brags of 4K and ultrawide support (and not much else)]]></title>
-        <id>https://www.rockpapershotgun.com/call-of-duty-modern-warfare-2s-pc-trailer-brags-of-4k-and-ultrawide-support-1</id>
-        <link href="https://www.rockpapershotgun.com/call-of-duty-modern-warfare-2s-pc-trailer-brags-of-4k-and-ultrawide-support-1"/>
-        <updated>2022-10-08T21:53:42.000Z</updated>
-        <summary type="html"><![CDATA[Modern Warfare 2's remake edges ever closer and the day after the launch trailer brings a dedicated PC trailer. It crows about, well, all the things my PC isn't powerful enough to run, frankly. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
     <entry>
@@ -4262,17 +4273,6 @@ For more, read Game Informer's Mortal Kombat 11 review and then read about how 
 Do you hope NetherRealm's next game is Mortal Kombat 12 or something else? Let us know in the comments below!]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie Ask Court to Dismiss AimJunkies’ ‘False’ Hacking Claims]]></title>
-        <id>https://torrentfreak.com/?p=225136</id>
-        <link href="https://torrentfreak.com/bungie-ask-court-to-dismiss-aimjunkies-bogus-hacking-claims-221007/"/>
-        <updated>2022-10-07T14:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Bungie has responded to the "hacking" claim submitted to the court last month by cheat developer AimJunkies. According to the game developer, these allegations are patently false and not properly pleaded either. Bungie asks the court to dismiss all counterclaims, arguing that the cheaters throw around untrue claims to see if they stick.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
