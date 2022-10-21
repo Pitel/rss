@@ -1,10 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-21T08:19:12.814Z</id>
+    <id>urn:2022-10-21T10:16:59.306Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-10-21T08:19:12.814Z</updated>
+    <updated>2022-10-21T10:16:59.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Initial AMD Zen 4 "znver4" Support Merged Into GCC 13]]></title>
+        <id>https://www.phoronix.com/news/GCC-13-AMD-Zen-4-Znver4</id>
+        <link href="https://www.phoronix.com/news/GCC-13-AMD-Zen-4-Znver4"/>
+        <updated>2022-10-21T10:09:49.000Z</updated>
+        <summary type="html"><![CDATA[Last Thursday AMD finally sent out the basic enablement patch for AMD Zen 4 "znver4" with the GCC compiler. Once again it was tardy with Ryzen 7000 series processors already shipping and sadly the cost tables (tuning) is still catering to Zen 3 rather than updated for Zen 4. While as of today this -march=znver4 support has been merged into GCC 13...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2 kicks off the first of three double XP weekends today]]></title>
+        <id>https://www.rockpapershotgun.com/overwatch-2-kicks-off-the-first-of-three-double-xp-weekends-today</id>
+        <link href="https://www.rockpapershotgun.com/overwatch-2-kicks-off-the-first-of-three-double-xp-weekends-today"/>
+        <updated>2022-10-21T10:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the start of Overwatch 2’s first double XP weekend, one of three lined up for the hero shooter before the end of season one. You’ll be able to net your heroes twice the match XP until October 24th, starting at 7pm BST/8pm CEST/11am PDT today and ending the same time on Monday, but the bonus doesn’t apply to daily and weekly challenges. Blizzard have also revealed that Overwatch 2’s first seasonal event, Halloween Terror, begins on October 25th.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First Pokémon Scarlet And Violet Trading Card Sets Have Been Announced]]></title>
+        <id>https://www.nintendolife.com/#article-139614</id>
+        <link href="https://www.nintendolife.com/news/2022/10/the-first-pokemon-scarlet-and-violet-trading-card-sets-have-been-announced"/>
+        <updated>2022-10-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Paldea Collection releases next year.
+With a brand new Pokémon generation comes a brand new wave of Pokémon cards. The Pokémon Company International has announced the Paldea Collection, the first official Pokémon Trading Card Game set for Scarlet & Violet.
+Revealed on the official website, the three sets are themed after your starter Pokémon — Sprigatito, Fuecoco, and Quaxly. Each set comes with foil promo cards for the starters and set and an enamel pin to match their chosen set.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stratis Storage 3.3 Released - Easily Make Use Of Expanded RAID Arrays]]></title>
+        <id>https://www.phoronix.com/news/Stratis-Storage-3.3</id>
+        <link href="https://www.phoronix.com/news/Stratis-Storage-3.3"/>
+        <updated>2022-10-21T09:54:19.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat's storage team responsible for the Stratis solution has released a new feature update...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlatinumGames issues statement on Bayonetta 3 voice actor controversy]]></title>
+        <id>https://www.destructoid.com/?p=347874</id>
+        <link href="https://www.destructoid.com/platinumgames-statment-bayonetta-3-voice-actor-controversy-taylor-hale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=platinumgames-statment-bayonetta-3-voice-actor-controversy-taylor-hale"/>
+        <updated>2022-10-21T09:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Which Witch?
+PlatinumGames has finally broken its silence on the ugly Bayonetta 3 voice actor controversy that has been the height of internet discourse for the past week — In a new statement posted to Twitter, the studio reaffirmed its solidarity with actor Jennifer Hale, who will portray the gunslinging witch in the new sequel, which hits the shelves next week after years of anticipation.
+The incredibly straight statement, lacking any sense of drama and finely worded as if it has passed through several legal departments, outlines Platinum's desire to continue forward with Hale as the "new Bayonetta", while thanking all those who have contributed to the franchise's past success, (though choosing not to reference anybody in particular by name.
+https://twitter.com/platinumgames/status/15833…]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Adds Mesa Support For Building Against The DirectX 12 Agility SDK]]></title>
+        <id>https://www.phoronix.com/news/Microsoft-Mesa-Agility-SDK</id>
+        <link href="https://www.phoronix.com/news/Microsoft-Mesa-Agility-SDK"/>
+        <updated>2022-10-21T09:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Windows users are increasingly making use of Mesa with Microsoft investing in supporting a number of different open, industry standard APIs and then layering them atop the underlying Direct3D 12 driver for the likes of WSL2 usage. OpenGL, OpenCL, Vulkan, and VA-API video acceleration have been the primary targets for Microsoft engineers working on Mesa with the Windows Subsystem for Linux in mind while also posing other possible use-cases where the host may lack native drivers for those APIs. For bettering Mesa on Windows, Microsoft has now added support for compiling against the DirectX 12 Agility SDK...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pilotwings 64's 'Birdman' Stage Is Significantly More Stressful On Switch]]></title>
+        <id>https://www.nintendolife.com/#article-139619</id>
+        <link href="https://www.nintendolife.com/news/2022/10/pilotwings-64s-birdman-stage-is-significantly-more-stressful-on-switch"/>
+        <updated>2022-10-21T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Issues with improved frame rate.
+When Pilotwings 64 flew onto the Switch's N64 library earlier this month, we were ready for an overall relaxing time. The improved frame rate and tighter Switch controls would be able to take this game that we were big fans of back on the N64 and only improve our playing experience further, right?
+Wrong! While, for the most part, we remain big fans of the game and continue to have a good time with it, it looks like the Switch is playing havoc with some sections of the flying experience - notably in the game's bonus 'Birdman' level.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Getting Rumble Support For Latest Microsoft Xbox Controllers]]></title>
+        <id>https://www.phoronix.com/news/Linux-Latest-Xbox-Rumble-Driver</id>
+        <link href="https://www.phoronix.com/news/Linux-Latest-Xbox-Rumble-Driver"/>
+        <updated>2022-10-21T09:25:30.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to a Google engineer in communication with Microsoft engineers, the "hid-microsoft" upstream Linux driver is seeing work to support the rumble mode on newer Xbox controllers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVX-VNNI-INT8 & AVX-IFMA Land In GCC 13]]></title>
+        <id>https://www.phoronix.com/news/AVX-VNNI-INT8-AVX-IFMA-GCC-13</id>
+        <link href="https://www.phoronix.com/news/AVX-VNNI-INT8-AVX-IFMA-GCC-13"/>
+        <updated>2022-10-21T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[As part of Intel's work starting to enable the compiler support for their Sierra Forest CPUs, AVX-VNNI-INT8 and AVX-IFMA support has been merged into the GCC 13 compiler for supporting these instructions being first introduced with Intel's Sierra Forest and Grand Ridge...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hans Niemann žaluje Magnuse Carlsena o 100 miliónů dolarů, protože prohlašoval, že podvádí v šachu]]></title>
+        <id>www.root.cz-actuality-44109</id>
+        <link href="https://www.root.cz/zpravicky/hans-niemann-zaluje-magnuse-carlsena-o-100-milionu-dolaru-protoze-prohlasoval-ze-podvadi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-10-21T08:47:46.000Z</updated>
+        <summary type="html"><![CDATA[O kauze podvádění Hanse Niemanna (19 let) v šachu jsme tu před nedávnem psali. Včera Hans podal žalobu na velmistra Magnuse Carlsena (31 let), protože prohlašoval, že Hans podvádí. Stejně je žalován server Chess.com, protože zde dostal Hans ban pro podvádění. Hans požaduje odškodnění 100 miliónů dolarů. Více detailů ve vlastní žalobě (pdf).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mario Rabbids Sparks Of Hope And A Plague Tale Requiem Review | GI Show]]></title>
+        <id>119359</id>
+        <link href="https://www.gameinformer.com/podcast/2022/10/21/mario-rabbids-sparks-of-hope-and-a-plague-tale-requiem-review-gi-show"/>
+        <updated>2022-10-21T08:45:13.000Z</updated>
+        <summary type="html"><![CDATA[In this week's episode of The Game Informer Show, the crew chats about Mario + Rabbids Sparks of Hope, our A Plague Tale: Requiem review, and why we've still been enjoying Overwatch 2 despite the rocky launch. 
+
+
+Follow us on social media: Alex Van Aken (@itsVanAken), Marcus Stewart (@MarcusStewart7), Wesley LeBlanc (@LeBlancWes)
+The Game Informer Show is a weekly gaming podcast covering the latest video game news, industry topics, exclusive reveals, and reviews. Join host Alex Van Aken every Thursday for a chat about your favorite games – past and present – with Game Informer staff, developers, and special guests from around the industry. Listen on Apple Podcasts, Spotify, or your favorite podcast app.
+Matt Storm, the freelance audio editor for The Game Informer Show. Matt is an experienced podcast host and producer who's been speaking into a microphone for over a decade. You should listen to Matt's shows like the "Fun" And Games Podcast and Reignite, a Mass Effect podcast. 
+
+
+Jump to the timestamps to get to a particular point of discussion:
+00:00:00 - Intro
+00:04:25 - A Plague Tale: Requiem
+00:20:07 - Mario + Rabbids Sparks of Hope
+00:36:22 - Overwatch 2
+00:47:31 - Listener Questions and Housekeeping]]></summary>
+        <author>
+            <name>Alex Van Aken</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Packer: automatizované vytváření obrazů pro veřejné i privátní cloudy (školení)]]></title>
         <id>www.root.cz-actuality-43553</id>
@@ -31,7 +166,7 @@ The post Spooky skeleton and petrified pumpkin robots appeared first on Raspberr
         <id>1849685358</id>
         <link href="https://kotaku.com/bayonetta-3-jennifer-hale-hellena-taylor-voice-actor-1849685358"/>
         <updated>2022-10-21T04:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The story behind the casting of the lead voice acting role for the third game in the Bayonetta series has been a complete mess, involving allegations of terrible pay, conflicting accounts and Non-Disclosure Agreements. In an attempt to put the whole thing to bed the  developers of the title, PlatinumGames, have…
+        <summary type="html"><![CDATA[The story behind the casting of the lead voice acting role for the third game in the Bayonetta series has been a complete mess, involving allegations of terrible pay, conflicting accounts, and non-disclosure agreements. In an attempt to put the whole thing to bed, the  developers of the title, PlatinumGames, have…
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
@@ -1487,34 +1622,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: Digital Foundry's Technical Analysis Of Mario + Rabbids Sparks Of Hope]]></title>
-        <id>https://www.nintendolife.com/#article-139546</id>
-        <link href="https://www.nintendolife.com/news/2022/10/video-digital-foundrys-technical-analysis-of-mario-plus-rabbids-sparks-of-hope"/>
-        <updated>2022-10-20T03:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Sequel falls short of matching Kingdom Battle's visuals.
-Digital Foundry is back with another Switch technical analysis, and this time the focus is on Mario + Rabbids Sparks of Hope.
-From a visual standpoint, DF's Oliver Mackenzie feels Sparks of Hope isn't a technical evolution of its five-year-old predecessor, which is a "totally fair trade-off" given the "more interesting world design and larger combat arenas". Sparks of Hopes' environmental assets are apparently "simpler and flatter", and other areas are described as being stripped back.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch Sports Version 1.2.3 Is Now Live, Second Hotfix Arrives]]></title>
-        <id>https://www.nintendolife.com/#article-139355</id>
-        <link href="https://www.nintendolife.com/news/2022/10/nintendo-switch-sports-version-1-2-3-is-now-live-second-hotfix-arrives"/>
-        <updated>2022-10-20T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's what's included.
-Update : The second Nintendo Switch Sports patch has now been rolled out. This one bumps the game up to Version 1.2.3. Here's what's included in this small update, courtesy of Nintendo's Japanese support page (via Nintendo Everything):
-Version 1.2.3 (Released October 19th, 2022)
-
-Bug Fix
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[coreboot 4.18]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/coreboot-4.18</id>
         <link href="http://www.abclinuxu.cz/zpravicky/coreboot-4.18"/>
@@ -2098,24 +2205,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Počítačovou hru The Sims 4 lze nově stáhnout zdarma (free-to-play). Na Linuxu přes ProtonDB běží na úrovni Gold.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Hill Transmission YouTube page seemingly leaks new titles]]></title>
-        <id>https://www.destructoid.com/?p=347675</id>
-        <link href="https://www.destructoid.com/silent-hill-tranmission-youtube-leaks-ascension-silent-hill-2-remake-leak-konami/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=silent-hill-tranmission-youtube-leaks-ascension-silent-hill-2-remake-leak-konami"/>
-        <updated>2022-10-19T13:30:34.000Z</updated>
-        <summary type="html"><![CDATA[The fog is lifting...
-Later today, Konami will take to the digital stage for a special presentation focusing on future releases in the MIA horror series, Silent Hill — Bafflingly, however, the YouTube channel prepped for this afternoon's "Silent Hill Transmission" already contains code seemingly identifying several as-yet-unannounced entries.
-Possible spoilers — direct from the developer itself, mind — follow.
-Firstly, the YouTube channel description blurb includes a placeholder for "Silent Hill 2" on the PlayStation Store, suggesting a pre-order link for a potential remaster/remake. In addition, digging into the site's address bar and embed code has lifted the lid on an array of mysterious terms, all of which may or may not relate to one, or numerous, new entries. You wait years for a new Silent Hill etc... etc...
-https://www.youtube.com/watch?v=oRvRWBQNrSI
-Among the titles discovered in the embed code are "Silent Hill", "Silent Hill 2", "Silent Hill F", and "Silent Hill: Ascension". At a guess, this would suggest that Konami's stream may include the reveal of a brand new entry — Silent Hill: Ascension — as well as the announcement of the aforementioned remake/remaster of Silent Hill 2. The 2001 release is very much a fan-favorite in the series' spooky canon of releases and, as such, a prime candidate to make a grand return on modern platforms.
-As for the identity of "Silent Hill F", this could just be a mere placeholder. I'm willing to bet that it stands for "Silent Hill: Frogger" — a sure thing given that Konami also owns that classic, road-crossing IP.
-The truth will out this evening, when Konami finally takes to the airwaves for its Silent Hill Transmission stream. You can check out the news for yourself at 14:00 PT / 17:00 ET / 22:00 BST, and we'll be sure to bring you up to spend on all the gory details right here on Destructoid... Just try to look surprised, ok?
-The post Silent Hill Transmission YouTube page seemingly leaks new titles appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -2894,16 +2983,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Releases Its Linux Distribution Update For October 2022]]></title>
-        <id>https://www.phoronix.com/news/CBL-Mariner-2.0-October-2022</id>
-        <link href="https://www.phoronix.com/news/CBL-Mariner-2.0-October-2022"/>
-        <updated>2022-10-18T09:22:20.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has released its monthly update to CBL-Mariner 2.0, its in-house Linux distribution serving a variety of purposes from WSL to Azure...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Megaupload Pair Remain RIAA & MPA Lawsuit Targets Despite Guilty Pleas]]></title>
         <id>https://torrentfreak.com/?p=224897</id>
         <link href="https://torrentfreak.com/megaupload-pair-remain-targets-in-riaa-and-mpa-lawsuits-despite-guilty-pleas-221018/"/>
@@ -2912,16 +2991,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa's Gallium3D Finishes Gutting Out Its Graw Interface]]></title>
-        <id>https://www.phoronix.com/news/Mesa-Gallium3D-Graw-Dropped</id>
-        <link href="https://www.phoronix.com/news/Mesa-Gallium3D-Graw-Dropped"/>
-        <updated>2022-10-18T09:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Two weeks ago a bunch of old Mesa code got removed including the XvMC front-end, Rbug as a remote debugging interface, and some of Graw that was to serve as a raw Gallium3D interface without a traditional Gallium front-end. Some of Graw was accidentally left in the source tree while now that has been caught and eliminated in further lightening the size of Mesa...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2956,16 +3025,6 @@ The post Taking care of urban nature with Raspberry Pi appeared first on Raspber
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proton 7.0-5 RC Gets More Windows Games Running On Linux]]></title>
-        <id>https://www.phoronix.com/news/Proton-7.0-5-RC</id>
-        <link href="https://www.phoronix.com/news/Proton-7.0-5-RC"/>
-        <updated>2022-10-17T23:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Valve is preparing to roll-out Proton 7.0-5 as the newest version of this Wine-derived software that powers Steam Play for enjoying Windows games on Linux. For facilitating some testing prior to the formal Proton 7.0-5, a release candidate was published today...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Návod: jak použít Ubuntu Pro zdarma a zajistit si tak desetiletou podporu]]></title>
         <id>www.root.cz-text-16271</id>
         <link href="https://www.root.cz/clanky/navod-jak-pouzit-ubuntu-pro-zdarma-a-zajistit-si-tak-desetiletou-podporu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2994,26 +3053,6 @@ The post Taking care of urban nature with Raspberry Pi appeared first on Raspber
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[libcamera Celebrates Its First Release As Camera Support Library For Linux]]></title>
-        <id>https://www.phoronix.com/news/libcamera-First-Release</id>
-        <link href="https://www.phoronix.com/news/libcamera-First-Release"/>
-        <updated>2022-10-17T19:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Libcamera has been in development for several years now as an open-source camera support library that works across Linux, Android, and Chrome OS platforms. Due to interest from seeing tagged releases, the libcamera crew has published their first official release of this open-source camera stack...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open 3D Engine 22.10 Released With Better Multiplayer Support, Usability Improvements]]></title>
-        <id>https://www.phoronix.com/news/O3DE-22.10-Released</id>
-        <link href="https://www.phoronix.com/news/O3DE-22.10-Released"/>
-        <updated>2022-10-17T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of O3DCON kicking off tomorrow in Austin, Texas as a developer event around the Open 3D Engine game engine backed by the Linux Foundation and numerous organizations, O3DE 22.10 has been released...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3856,16 +3895,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rekordní útok na server Minecraftu 2,5 Tb/s]]></title>
-        <id>www.root.cz-actuality-44087</id>
-        <link href="https://www.root.cz/zpravicky/rekordni-utok-na-server-minecraftu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-10-14T13:28:39.000Z</updated>
-        <summary type="html"><![CDATA[Na asi největší server Minecraftu Wynncraft mířil rekordní DDoS útok. Útok měl rekordní tok až 2,5 Tb/s, ale hráči si ničeho nevšimli, protože Cloudflare útok úspěšně odfiltroval.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Valve register mysterious new Neon Prime trademark in the US]]></title>
         <id>https://www.rockpapershotgun.com/valve-register-mysterious-new-neon-prime-trademark-in-the-us</id>
         <link href="https://www.rockpapershotgun.com/valve-register-mysterious-new-neon-prime-trademark-in-the-us"/>
@@ -4326,19 +4355,6 @@ The developers at Max Inferno Studios read this article and decided that, you kn
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Have you played... Dead Rising?]]></title>
-        <id>https://www.rockpapershotgun.com/have-you-played-dead-rising-1</id>
-        <link href="https://www.rockpapershotgun.com/have-you-played-dead-rising-1"/>
-        <updated>2022-10-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Friends, let me admit something up top. I am the most tedious of Dead Rising apologists. I love its in-game timer. I adore its linear mission structure that is completely at odds with the expansive semi-open world shopping mall in which it takes place. Hell, I even like its severely stripped down Wii port. I firmly believe that Dead Rising is an all-time great, but also understand why folks have (reasonably) cooled on the game’s particular quirks. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Liam Richardson</name>
         </author>
     </entry>
     <entry>
@@ -4826,22 +4842,6 @@ Returning favorites from 2019's Modern Warfare like Ghost and Price make an app
 For more about Call of Duty: Modern Warfare II, check out this extended campaign gameplay trailer and then read about Farm 18, a Shoothouse-inspired map coming to the game's multiplayer. Read our Call of Duty preview for new details about Modern Warfare II, Warzone 2, Warzone Mobile, and more after that. 
 Call of Duty: Modern Warfare II hits PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, and PC on October 28. 
 Is Call of Duty: Modern Warfare II a day-one purchase for you? Let us know in the comments below!]]></summary>
-        <author>
-            <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Pokémon Scarlet And Violet Trailer Showcases New Evolutions, TM Crafting, And More]]></title>
-        <id>119316</id>
-        <link href="https://www.gameinformer.com/2022/10/06/new-pokemon-scarlet-and-violet-trailer-showcases-new-evolutions-tm-crafting-and-more"/>
-        <updated>2022-10-06T13:19:23.000Z</updated>
-        <summary type="html"><![CDATA[As we approach the release of Pokémon Scarlet and Pokémon Violet next month, Nintendo and The Pokémon Company have continued to release new trailers for the ninth generation of the series. That continues today with the most expansive trailer yet, running more than 14 minutes long.
-Today's trailer features quite a lot – new evolutions, new Pokémon, ways your party Pokémon can help you, new map functionality, legendary motorcycles, Team Star, custom TMs and so much more. You can check it out for yourself below: 
-
-
-As you can see, this new trailer features a ton of information about Pokémon Scarlet and Pokémon Violet. 
-For more, check out this video about Wiglett, the new Diglett-like Pokémon, and then watch the latest trailer that shows off new school rivalries, gym leaders, and more. Watch this trailer all about competitive play in the 9th generation of Pokémon after that, and then read our preview of Pokémon Scarlet and Violet to find out everything you need to know about the Paldea region. 
-What do you think about today's trailer? Let us know in the comments below!]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
         </author>
