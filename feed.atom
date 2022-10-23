@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-23T10:14:19.416Z</id>
+    <id>urn:2022-10-23T12:26:54.940Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-10-23T10:14:19.416Z</updated>
+    <updated>2022-10-23T12:26:54.940Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - Timesplitters 2]]></title>
+        <id>https://www.nintendolife.com/#article-139620</id>
+        <link href="https://www.nintendolife.com/news/2022/10/poll-box-art-brawl-duel-timesplitters-2"/>
+        <updated>2022-10-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA["Heir apparent to GoldenEye".
+Hi folks, and welcome to another edition of Box Art Brawl!
+Last time, we took a look at the fourth entry in Capcom's Mega Man franchise: Mega Man 4 for the NES. It wasn't a close one, either; far from it! A whopping 79% of you preferred the Japanese variant, with the EU version bringing in 15% of the vote, and the North American version trailing significantly at 7%.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-654</id>
@@ -42,6 +55,16 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/Intel-IFS-No-Longer-Broken"/>
         <updated>2022-10-23T09:12:07.000Z</updated>
         <summary type="html"><![CDATA[A new Linux driver introduced by Intel earlier this year was the In-Field Scan for making use of new silicon failure testing functionality with upcoming Intel server CPUs. The IFS driver and associated hardware capability is for detecting potential problems not caught by parity or ECC checks on systems in production. In-Field Scan was merged in Linux 5.19 but then shortly thereafter the driver was marked "broken" due to some driver design issues coming to light. New patches for IFS have been posted to improve the driver's design and remove that "broken" tag...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Linux Kernel May Finally Phase Out Intel i486 CPU Support]]></title>
+        <id>https://www.phoronix.com/news/Intel-i486-Linux-Possible-Drop</id>
+        <link href="https://www.phoronix.com/news/Intel-i486-Linux-Possible-Drop"/>
+        <updated>2022-10-23T09:03:38.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds has backed the idea of possibly removing Intel 486 (i486) processor support from the Linux kernel...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -123,7 +146,7 @@ Every year at Destructoid has been diffe…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Buffer Overflow s implementaci SHA-3, GCC 13 s optimalizacemi pro AMD Zen 4]]></title>
+        <title type="html"><![CDATA[Buffer Overflow v implementaci SHA-3, GCC 13 s optimalizacemi pro AMD Zen 4]]></title>
         <id>www.root.cz-text-16281</id>
         <link href="https://www.root.cz/clanky/buffer-overflow-s-implementaci-sha-3-gcc-13-s-optimalizacemi-pro-amd-zen-4/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2022-10-22T22:00:00.000Z</updated>
@@ -1499,19 +1522,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bayonetta 3 Dev Responds To Voice Actor Dispute In Official Statement]]></title>
-        <id>https://www.nintendolife.com/#article-139607</id>
-        <link href="https://www.nintendolife.com/news/2022/10/bayonetta-3-dev-responds-to-voice-actor-dispute-in-official-statement"/>
-        <updated>2022-10-21T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Platinum thanks past and present contributors.
-There was plenty of drama last weekend when the original voice of Bayonetta Hellena Taylor uploaded a series of videos on social media accusing developer PlatinumGames and Hideki Kamiya of an insulting wage offer.
-This followed with a report by Bloomberg and separate anonymous sources claiming Taylor was originally offered more than previously mentioned. The new voice actor in Bayonetta 3 Jennifer Hale even chimed in - explaining how she couldn't really say anything due to an NDA, but calling for peace on all sides.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bubble Universes]]></title>
         <id>https://xkcd.com/2688/</id>
         <link href="https://xkcd.com/2688/"/>
@@ -2822,16 +2832,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa OpenGL Threading Messed Up Cursor Handling With KDE Wayland - Fixed Now]]></title>
-        <id>https://www.phoronix.com/news/Mesa-GLThread-KWin-Wayland</id>
-        <link href="https://www.phoronix.com/news/Mesa-GLThread-KWin-Wayland"/>
-        <updated>2022-10-19T12:42:05.000Z</updated>
-        <summary type="html"><![CDATA[If you habitually ride Mesa Git for the latest and greatest open-source AMD Radeon graphics driver code and use the KDE Plasma desktop with Wayland, you may have noticed a glitchy cursor recently. Fortunately, that's now fixed up with today's Mesa Git code and ended up stemming from the recent global enabling of Mesa OpenGL threading...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
