@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-10-30T08:15:35.870Z</id>
+    <id>urn:2022-10-30T10:13:20.458Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-10-30T08:15:35.870Z</updated>
+    <updated>2022-10-30T10:13:20.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sigstore Reaches GA For Working To Secure The Open-Source Software Supply Chain]]></title>
+        <id>https://www.phoronix.com/news/Sigstore-Reaches-GA</id>
+        <link href="https://www.phoronix.com/news/Sigstore-Reaches-GA"/>
+        <updated>2022-10-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sigstore that is backed by Google, Red Hat, GitHub, and other prominent organizations with an aim to secure the open-source software supply chain has reached general availability and issued the "v1.0" releases for their key software components...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneXPlayer Linux Platform Driver Sent Out For AMD-Powered Gaming Handheld]]></title>
+        <id>https://www.phoronix.com/news/OneXPlayer-Linux-Platform-Drv</id>
+        <link href="https://www.phoronix.com/news/OneXPlayer-Linux-Platform-Drv"/>
+        <updated>2022-10-30T09:48:10.000Z</updated>
+        <summary type="html"><![CDATA[For those interested in the OneXPlayer  handheld gaming consoles, a x86 platform driver for the Linux kernel has been posted for getting working sensor support on the AMD-powered OneXPlayer Mini...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[108 Patches Sent Out In Latest Revision Of Intel TDX KVM Support For Linux]]></title>
+        <id>https://www.phoronix.com/news/Intel-TDX-KVM-v10-Patches</id>
+        <link href="https://www.phoronix.com/news/Intel-TDX-KVM-v10-Patches"/>
+        <updated>2022-10-30T09:20:09.000Z</updated>
+        <summary type="html"><![CDATA[Back in Linux 5.19 the initial code for Intel Trust Domain Extensions (TDX) was merged while still an ongoing matter is getting the Kernel-based Virtual Machine (KVM) integration merged that is now up to its tenth revision and spans 108 patches...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hideki Kamiya Thanks Nintendo For Helping Make Bayonetta 3 A Reality]]></title>
         <id>https://www.nintendolife.com/#article-140122</id>
@@ -3082,36 +3112,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Vedle již dříve uvedené podpory RISC-V strojů jako SiFive HiFive Unmatched, Allwinner D1 Nezha či VisionFive RISC-V přidává Canonical na seznam podporovaných pro běh s Ubuntu také superlevnou destičku Sipeed LicheeRV, kterou lze koupit na AliExpressu kolem 500 Kč.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nouveau Linux DRM Driver Making Progress On NVIDIA GSP Support]]></title>
-        <id>https://www.phoronix.com/news/NVIDIA-GSP-Nouveau-Progress</id>
-        <link href="https://www.phoronix.com/news/NVIDIA-GSP-Nouveau-Progress"/>
-        <updated>2022-10-26T10:27:57.000Z</updated>
-        <summary type="html"><![CDATA[With the recent Linux 6.1 merge window there sadly weren't any Nouveau Direct Rendering Manager (DRM) driver improvements for getting the RTX 30 "Ampere" OpenGL support working yet with the mainline kernel even with RTX 40 series having launched. Needless to say, there also wasn't any progress on the re-clocking front for getting the GTX 900 series and later running in a performant manner on this open-source driver. But the Nouveau developers at Red Hat haven't simply been idling but rather have been working on the NVIDIA GPU System Processor (GSP) support for improving the RTX 20 "Turing" support and newer...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC Rust Patches Updated Ahead Of Hopeful Landing In GCC 13]]></title>
-        <id>https://www.phoronix.com/news/GCC-Rust-v3-Front-End</id>
-        <link href="https://www.phoronix.com/news/GCC-Rust-v3-Front-End"/>
-        <updated>2022-10-26T10:00:20.000Z</updated>
-        <summary type="html"><![CDATA[An updated version of the Rust "gccrs" front-end for the GNU Compiler Collection (GCC) was sent out today for review. The GCC Rust "v3" patches address developer comments raised during earlier review as they try to get this new Rust programming language support merged in time for GCC 13...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 40 Looking At Tightening C Language Legacy Support Ahead Of GCC 14]]></title>
-        <id>https://www.phoronix.com/news/Fedora-40-Proposal-Modern-C</id>
-        <link href="https://www.phoronix.com/news/Fedora-40-Proposal-Modern-C"/>
-        <updated>2022-10-26T09:40:55.000Z</updated>
-        <summary type="html"><![CDATA[A change proposal drafted for next year's Fedora 40 is looking at "porting Fedora to modern C" by ensuring the contained C source code of packages is compliant with strict C99 compilers...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
