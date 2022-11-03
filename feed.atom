@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-03T06:16:16.535Z</id>
+    <id>urn:2022-11-03T08:17:53.402Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-11-03T06:16:16.535Z</updated>
+    <updated>2022-11-03T08:17:53.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[mojeID ukončuje možnost přihlašování pomocí aplikace Autentikátor a OTP]]></title>
+        <id>www.root.cz-actuality-44158</id>
+        <link href="https://www.root.cz/zpravicky/mojeid-ukoncuje-moznost-prihlasovani-pomoci-aplikace-autentikator-a-otp/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-11-03T07:48:12.000Z</updated>
+        <summary type="html"><![CDATA[Uživatelům služby mojeID dorazila do e-mailové schránky zpráva o tom, že k 1. prosinci končí možnost se přihlašovat pomocí staré aplikace mojeID Autentikátor nebo opisováním jednorázového hesla OTP. V obou případech jde o metody, které nejsou akreditované pro použití s NIA (Národní bod pro Identifikaci a Autentizaci).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slovenský poslanec vyřadil na týden celý parlament zapojením síťového kabelu]]></title>
+        <id>www.root.cz-actuality-44157</id>
+        <link href="https://www.root.cz/zpravicky/slovensky-poslanec-vyradil-na-tyden-cely-parlament-zapojenim-sitoveho-kabelu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-11-03T07:14:15.000Z</updated>
+        <summary type="html"><![CDATA[V budově slovenského parlamentu došlo k týdennímu výpadku počítačové sítě, takže poslanci museli na týden přerušit schůzi. To, co původně vypadalo jako kybernetický útok, se nakonec ukázalo jen chybou v konfiguraci sítě. Její nedostatky vlastně jen omylem odhalil poslanec Róbert Halák, který objevil volný síťový kabel a zapojil ho do blízké zásuvky.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sega Reveals Sonic Frontiers 'Ares Island' Theme Song]]></title>
         <id>https://www.nintendolife.com/#article-140399</id>
@@ -68,6 +88,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Blender Apps]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/blender-apps</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/blender-apps"/>
+        <updated>2022-11-03T01:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři svobodného 3D softwaru Blender představili  koncept Blender Apps aneb aplikace postavené nad Blenderem. Aplikace by byly multiplatformní, běžely by na platformách, kde běží Blender. Distribuovány by byly jako soubor .blendx v případě, že je Blender nainstalovaný nebo jako balíček, jehož součástí by vedle .blendx byl i samotný Blender (~200MB).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mega Man 11 Becomes Best-Selling Entry In The Series' 35-Year History]]></title>
         <id>https://www.nintendolife.com/#article-140390</id>
         <link href="https://www.nintendolife.com/news/2022/11/mega-man-11-becomes-best-selling-entry-in-the-series-35-year-history"/>
@@ -100,6 +130,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Byla vydána nová verze 1.73 editoru zdrojových kódů Visual Studio Code (Wikipedie). Přehled novinek i s náhledy a animovanými gify v poznámkách k vydání. Ve verzi 1.73 vyšlo také VSCodium, tj. komunitní sestavení Visual Studia Code bez telemetrie a licenčních podmínek Microsoftu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OSGeoLive 15.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/osgeolive-15.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/osgeolive-15.0"/>
+        <updated>2022-11-02T23:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Živá distribuce OSGeoLive byla vydána ve verzi 15.0. Je založená na Lubuntu, nově 22.04, a obsahuje velké množství open-source geoinformatických aplikací.]]></summary>
+        <author>
+            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -2269,26 +2309,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zig 0.10.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/zig-0.10.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/zig-0.10.0"/>
-        <updated>2022-11-01T01:51:18.000Z</updated>
-        <summary type="html"><![CDATA[Po více než deseti měsících vývoje byla vydána nová verze 0.10.0 programovacího jazyka Zig (GitHub, Wikipedie). Přispělo 272 vývojářů. Přehled novinek v obšírných poznámkách k vydání. Hlavní novinkou je Self-Hosted Compiler.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MagPi 123, HackSpace 60, Wireframe 67 a Custom PC 231]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/magpi-123-hackspace-60-wireframe-67-a-custom-pc-231</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/magpi-123-hackspace-60-wireframe-67-a-custom-pc-231"/>
-        <updated>2022-11-01T01:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Nová čísla časopisů od nakladatelství Raspberry Pi: MagPi 123 (pdf), HackSpace 60 (pdf), Wireframe 67 (pdf) a Custom PC 231 (pdf).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sega's Lost 'Erotic Thriller' Has Been Found]]></title>
         <id>1849725923</id>
         <link href="https://kotaku.com/sega-segasoft-pc-mac-saturn-playstation-ps1-fmv-1849725923"/>
@@ -3679,16 +3699,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fedora 37 vyjde až 15. listopadu kvůli chybě v OpenSSL]]></title>
-        <id>www.root.cz-actuality-44133</id>
-        <link href="https://www.root.cz/zpravicky/fedora-37-vyjde-az-15-listopadu-kvuli-chybe-v-openssl/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-10-28T10:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Fedora 37 měla podle plánu vyjít již tento týden v úterý, ale v knihovně OpenSSL se objevila závažná zranitelnost, která bude zveřejněna a opravena až 1. listopadu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Some of Nvidia's RTX 4090 power adapters are, err... melting]]></title>
         <id>https://www.rockpapershotgun.com/some-of-nvidias-rtx-4090-power-adapters-are-err-melting</id>
         <link href="https://www.rockpapershotgun.com/some-of-nvidias-rtx-4090-power-adapters-are-err-melting"/>
@@ -3697,16 +3707,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk se stal majitelem Twitteru, hned propustil vedení]]></title>
-        <id>www.root.cz-actuality-44132</id>
-        <link href="https://www.root.cz/zpravicky/elon-musk-se-stal-majitelem-twitteru-hned-propustil-vedeni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-10-28T09:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Dnes ráno se Elon Musk stal majitelem Twitteru a hned propustil vyšší vedení. Na svém Twitteru pak zveřejnil „the bird is freed“. Zatím není jasné, kdo Twitter povede.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
