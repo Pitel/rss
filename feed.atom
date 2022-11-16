@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-16T06:15:00.969Z</id>
+    <id>urn:2022-11-16T08:17:02.330Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-11-16T06:15:00.969Z</updated>
+    <updated>2022-11-16T08:17:02.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rancher: provozujte Kubernetes na vlastním hardware (online školení)]]></title>
+        <id>www.root.cz-actuality-41082</id>
+        <link href="https://www.root.cz/zpravicky/rancher-provozujte-kubernetes-na-vlastnim-hardware-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-11-16T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Pokud chcete provozovat Kuberneres na vlastním hardware, Rancher je jednoduchý a efektivní způsob, jak toho docílit. Umožní vám jednoduše vytvořit a spravovat Kubernets cluster na vlastních virtuálních serverech. Používat Rancher se naučíte na dalším školení Rancher – Kubernetes na vlastním hardware, které proběhne 29. listopadu a uskuteční se hybridně, tedy v naší pražské školicí místnosti a zároveň online.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Level-5's Mech RPG Megaton Musashi Is Going Free-To-Play On Switch This December]]></title>
         <id>https://www.nintendolife.com/#article-133918</id>
@@ -30,6 +40,16 @@ Obviously, there are a lot of choices when it comes to Pokémon games. This incl
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Česko.Digital získává podporu přes 7 milionů korun od Google.org na rozvoj digitálních dovedností Čechů]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/cesko.digital-ziskava-podporu-pres-7-milionu-korun-od-google.org-na-rozvoj-digitalnich-dovednosti-cechu</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/cesko.digital-ziskava-podporu-pres-7-milionu-korun-od-google.org-na-rozvoj-digitalnich-dovednosti-cechu"/>
+        <updated>2022-11-16T03:59:08.000Z</updated>
+        <summary type="html"><![CDATA[Česko.Digital získává podporu přes 7 milionů korun od Google.org na rozvoj digitálních dovedností Čechů. Česko.Digital je komunita expertních dobrovolníků z mnoha oborů od IT přes projektové řízení až po marketing. Jejím cílem je budoucnost, ve které technologie slouží lidem, bez ohledu na čas, místo nebo sociální podmínky. Tato vize, společně s úspěšnými projekty, které Česko.Digital již realizovalo, zaujala společnost Google. Google.org, filantropická odnož Googlu, se rozhodla organizaci podpořit na 2 roky částkou 300 tisíc USD (přibližně 7,3 milionů korun), které Česko.Digital investuje do rozvoje komunity a do cílených aktivit, které pomohou snížit dopady digitálních nerovností (tzv. digital divide).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2083,16 +2103,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mold 1.7.0, pravděpodobná změna licence]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/mold-1.7.0-pravdepodobna-zmena-licence</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/mold-1.7.0-pravdepodobna-zmena-licence"/>
-        <updated>2022-11-13T23:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Moderní linker mold, rychlejší alternativa k GNU gold nebo LLVM lld, byl vydán ve verzi 1.7.0. Autor zvažuje změnu licence ze svobodné AGPL na nesvobodnou, pravděpodobně Business Source License (BSL), pokud se mu nepovede zajistit financování dalšího vývoje.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pick up Crucial's BX500 1TB SSD for £56 after a 24% discount]]></title>
         <id>https://www.rockpapershotgun.com/pick-up-crucials-bx500-1tb-ssd-for-56-after-a-24-discount</id>
         <link href="https://www.rockpapershotgun.com/pick-up-crucials-bx500-1tb-ssd-for-56-after-a-24-discount"/>
@@ -4136,16 +4146,6 @@ In Sonic Frontiers, Sega finds the intersection of the series’ linear past and
 Running through the open zones is often a joyful experience. …]]></summary>
         <author>
             <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro se chová jinak k procesům začínajícím na X]]></title>
-        <id>www.root.cz-actuality-44167</id>
-        <link href="https://www.root.cz/zpravicky/jadro-se-chova-jinak-k-procesum-zacinajicim-na-x/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-11-07T13:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Vývojář Jason Donenfeld, známý pro svůj Wireguard, našel v linuxovém jádře divnou věc. V xorg byl kód DDX (Device Dependent X) nedobře naprogramován pro grafické atomické operace. Aby vše fungovalo, objevila se před třemi roky záplata, která vypne grafické atomické operace pro všechny procesy začínající písmenem X.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
