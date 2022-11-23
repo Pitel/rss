@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-11-23T06:14:03.852Z</id>
+    <id>urn:2022-11-23T08:15:03.994Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-11-23T06:14:03.852Z</updated>
+    <updated>2022-11-23T08:15:03.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Alpine Linux 3.17.0 přináší OpenSSL 3.0 a DHCP server ISC Kea]]></title>
+        <id>www.root.cz-actuality-44209</id>
+        <link href="https://www.root.cz/zpravicky/alpine-linux-3-17-0-prinasi-openssl-3-0-a-dhcp-server-isc-kea/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-11-23T07:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Po půl roce od předchozího vydání byla uvolněna nová pravidelná verze linuxové distribuce Alpine Linux, tentokrát s označením 3.17.0. Výchozí verzí knihovny OpenSSL je nyní 3.0, starší verzi 1.1 je možné získat skrze balíček  openssl1.1-compat. PHP 8.0 bylo nahrazeno verzí 8.1 a Rust je nyní k dispozici pro všechny podporované platformy.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Legends: Arceus Crowned Nintendo Game Of The Year At Golden Joystick Awards]]></title>
         <id>https://www.nintendolife.com/#article-141554</id>
@@ -12,7 +22,7 @@
         <updated>2022-11-23T05:30:00.000Z</updated>
         <summary type="html"><![CDATA[Elden Ring takes out 'Ultimate' GOTY.
 The 40th Golden Joysticks Awards took place yesterday, and while Elden Ring ended up being crowned the 'ultimate' game of the year for 2022, there was some Nintendo Switch representation.
-The Legend of Zelda: Tears of the Kingdom was awarded "most wanted game" - beating out titles like Spider-Man 2, Street Fighter 6, Final Fantasy VII Rebirth, and the anticipated Bethesda title, Starfield.
+The Legend of Zelda: Tears of the Kingdom was awarded "most wanted game" - beating out titles like Spider-Man 2, Street Fighter 6, Final Fantasy VII Rebirth and the anticipated Bethesda title, Starfield.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -39,6 +49,16 @@ In the lead-up to the January 2023 launch, Nintendo has been introducing new cha
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otevřený dopis FSFE adresovaný zákonodárcům EU o právu instalovat jakýkoli software na jakékoli zařízení]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/otevreny-dopis-fsfe-adresovany-zakonodarcum-eu-o-pravu-instalovat-jakykoli-software-na-jakekoli-zarizeni</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/otevreny-dopis-fsfe-adresovany-zakonodarcum-eu-o-pravu-instalovat-jakykoli-software-na-jakekoli-zarizeni"/>
+        <updated>2022-11-23T04:28:38.000Z</updated>
+        <summary type="html"><![CDATA[Na stránkách Free Software Foundation Europe (FSFE) lze podepsat otevřený dopis FSFE adresovaný zákonodárcům Evropské unie o právu instalovat jakýkoli software na jakékoli zařízení.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -91,6 +111,16 @@ Back in September, Bandai Namco announced Dragon Ball Z: Kakarot would be receiv
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Pico Made in Kenya]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/raspberry-pi-pico-made-in-kenya</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/raspberry-pi-pico-made-in-kenya"/>
+        <updated>2022-11-23T01:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Nadace Raspberry Pi oznámila, že jednočipový počítač Raspberry Pi Pico pro africký trh vyrábí v Keni v Nairobi v Gearbox Europlacer. V plánu je také tamní výroba Pico W a Zero 2 W.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2241,16 +2271,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Společnost Kite se loučí]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/spolecnost-kite-se-louci</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/spolecnost-kite-se-louci"/>
-        <updated>2022-11-20T23:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Kite se loučí. Byl to startup stojící za stejnojmenným AI doplňovačem kódů (YouTube) běžícím také v Linuxu (Wayback Machine ). Většina v Kite vytvořených zdrojových kódů je k dispozici na GitHubu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: co najdeš v kontejneru]]></title>
         <id>www.root.cz-text-16325</id>
         <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-co-najdes-v-kontejneru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2302,16 +2322,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iNet Wireless Daemon (iwd) 2.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/inet-wireless-daemon-iwd-2.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/inet-wireless-daemon-iwd-2.0"/>
-        <updated>2022-11-20T17:06:22.000Z</updated>
-        <summary type="html"><![CDATA[iNet Wireless Daemon (iwd), správce Wi-Fi připojení vyvinutý jako náhrada za wpa_supplicant, byl vydán ve verzi 2.0.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4140,16 +4150,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konference IT 22 je už za týden, registrujte se]]></title>
-        <id>www.root.cz-actuality-44186</id>
-        <link href="https://www.root.cz/zpravicky/konference-it-22-je-uz-za-tyden-registrujte-se/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-11-15T10:21:19.000Z</updated>
-        <summary type="html"><![CDATA[Už za týden, 22. listopadu, pořádá správce české národní domény, sdružení CZ.NIC, konferenci Internet a Technologie (IT 22). Tato akce se letos bude konat v hotelu Grandium (Politických vězňů 913/12, Praha 1) a představeny na ní budou novinky a důležité události spojené s klíčovými projekty v roce 2022.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Vilém Sládek)</name>
         </author>
     </entry>
     <entry>
