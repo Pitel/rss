@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-04T20:10:42.049Z</id>
+    <id>urn:2022-12-04T22:09:35.548Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-12-04T20:10:42.049Z</updated>
+    <updated>2022-12-04T22:09:35.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Lands Revert For "Huge Performance Regressions" From Three Lines Of Code]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Regression-Fix</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Regression-Fix"/>
+        <updated>2022-12-04T21:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the Linux 6.1-rc8 kernel that Linus Torvalds is expected to issue shortly rather than going straight to Linux 6.1 stable, a revert for a small change leading to "huge performance regressions" in select areas has fortunately been caught and reverted...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Pirate Site Blocking Law Allows Intermediaries To File Complaints]]></title>
         <id>https://torrentfreak.com/?p=227476</id>
@@ -1990,11 +2000,11 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Path Of Exile goes roguelike with the Forbidden Sanctum expansion next week]]></title>
-        <id>https://www.rockpapershotgun.com/path-of-exile-goes-roguelike-with-the-forbidden-sanctum-expansion-next-week</id>
-        <link href="https://www.rockpapershotgun.com/path-of-exile-goes-roguelike-with-the-forbidden-sanctum-expansion-next-week"/>
+        <title type="html"><![CDATA[Path Of Exile 2 is coming in 2023, and we'll find out more at Exilecon in July]]></title>
+        <id>https://www.rockpapershotgun.com/path-of-exile-2-is-coming-in-2023-and-well-find-out-more-at-exilecon-in-july</id>
+        <link href="https://www.rockpapershotgun.com/path-of-exile-2-is-coming-in-2023-and-well-find-out-more-at-exilecon-in-july"/>
         <updated>2022-12-01T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Fantasy action RPG Path Of Exile’s been kicking about for nearly a decade, but it’s still receiving hefty chunks of fresh stuff every three months. The latest, roguelike expansion Forbidden Sanctum, was revealed fully today during a livestream by devs Grinding Gear Games. You can see more of what to expect when update 3.20 Forbidden Sanctum opens its doors on December 9th in the trailer below.
+        <summary type="html"><![CDATA[The long-awaited Path Of Exile 2 will be fully unveiled next year, first at Exilecon 2023 before heading to Gamescom in August for European players to check out in the flesh, devs Grinding Gear Games have confirmed. Path Of Exile 2 had been pencilled in for a 2022 release, but it’s now looking like the sequel could arrive in time for the series’ tenth anniversary. A beta is planned, too, and dates for that will be announced when the game is shown at Exilecon.
 
  
 Read more]]></summary>
@@ -2003,11 +2013,11 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Path Of Exile 2 is coming in 2023, and we'll find out more at Exilecon in July]]></title>
-        <id>https://www.rockpapershotgun.com/path-of-exile-2-is-coming-in-2023-and-well-find-out-more-at-exilecon-in-july</id>
-        <link href="https://www.rockpapershotgun.com/path-of-exile-2-is-coming-in-2023-and-well-find-out-more-at-exilecon-in-july"/>
+        <title type="html"><![CDATA[Path Of Exile goes roguelike with the Forbidden Sanctum expansion next week]]></title>
+        <id>https://www.rockpapershotgun.com/path-of-exile-goes-roguelike-with-the-forbidden-sanctum-expansion-next-week</id>
+        <link href="https://www.rockpapershotgun.com/path-of-exile-goes-roguelike-with-the-forbidden-sanctum-expansion-next-week"/>
         <updated>2022-12-01T19:20:00.000Z</updated>
-        <summary type="html"><![CDATA[The long-awaited Path Of Exile 2 will be fully unveiled next year, first at Exilecon 2023 before heading to Gamescom in August for European players to check out in the flesh, devs Grinding Gear Games have confirmed. Path Of Exile 2 had been pencilled in for a 2022 release, but it’s now looking like the sequel could arrive in time for the series’ tenth anniversary. A beta is planned, too, and dates for that will be announced when the game is shown at Exilecon.
+        <summary type="html"><![CDATA[Fantasy action RPG Path Of Exile’s been kicking about for nearly a decade, but it’s still receiving hefty chunks of fresh stuff every three months. The latest, roguelike expansion Forbidden Sanctum, was revealed fully today during a livestream by devs Grinding Gear Games. You can see more of what to expect when update 3.20 Forbidden Sanctum opens its doors on December 9th in the trailer below.
 
  
 Read more]]></summary>
@@ -3128,16 +3138,6 @@ Question is, by tipping the power scales in your favour like this, do you risk d
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 38 Looks To Shift RPM To Sequoia, A Rust-Based OpenPGP Parser]]></title>
-        <id>https://www.phoronix.com/news/Fedora-38-RPM-Sequoia-Rust</id>
-        <link href="https://www.phoronix.com/news/Fedora-38-RPM-Sequoia-Rust"/>
-        <updated>2022-11-30T13:30:38.000Z</updated>
-        <summary type="html"><![CDATA[For the past two decades the RPM package manager software has relied upon its own OpenPGP parser implementation for dealing with package keys and signatures. With Fedora 38 they plan to have their RPM package shifted to use the Rust-written "Sequoia" parser instead...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
