@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-16T06:13:42.189Z</id>
+    <id>urn:2022-12-16T08:12:54.403Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-12-16T06:13:42.189Z</updated>
+    <updated>2022-12-16T08:12:54.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Maka Niu deep-sea imaging system | The MagPi #125]]></title>
+        <id>https://www.raspberrypi.com/?p=90897</id>
+        <link href="https://www.raspberrypi.com/news/maka-niu-deep-sea-imaging-system-the-magpi-125/"/>
+        <updated>2022-12-16T07:53:02.000Z</updated>
+        <summary type="html"><![CDATA[A deep-sea underwater imaging and sensing system made using a Raspberry Pi Zero and Camera Module is making a splash in marine exploration circles. In the latest issue of The MagPi, David Crookes dives in. It would seem there are few limits to where Raspberry Pi can go. The computer has been used in the […]
+The post Maka Niu deep-sea imaging system | The MagPi #125 appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Lucy Hattersley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI zabavila 48 domén spojených se službami pro pronájem DDoS útoků]]></title>
+        <id>www.root.cz-actuality-44284</id>
+        <link href="https://www.root.cz/zpravicky/fbi-zabavila-48-domen-spojenych-se-sluzbami-pro-pronajem-ddos-utoku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-12-16T07:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Ministerstvo spravedlnosti Spojených států amerických zabavilo 48 internetových domén a obvinilo šest osob spojených se službami pro pronájem DDoS útoků. Tyto stránky byly ve většině případů prezentovány jako služby pro stress testing, přičemž jejich primárním účelem bylo poskytování služeb typu DDoS-for-hire.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Michal Spišak)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Btop++: barevnější náhrada za top a htop]]></title>
+        <id>www.root.cz-actuality-44285</id>
+        <link href="https://www.root.cz/zpravicky/btop-barevnejsi-nahrada-za-top-a-htop/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-12-16T06:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Pro monitorování zátěže počítače v příkazové řádce tu máme klasický top nebo moderní a barevný htop. Nedávno jsem narazil na ještě barevnější alternativu Btop++, která by se mohla někomu líbit. Btop++ je dílem Jakoba P. Liljenberga ze Švédska a je napsán v C++. Navazuje tak na své projekty Pbytop a Bashtop v Pythonu a Bashi.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Azure Striker Gunvolt 3's "Biggest Update" Is Now Available On Switch]]></title>
         <id>https://www.nintendolife.com/#article-142625</id>
@@ -49,6 +80,16 @@ Not long after this, Cavill announced he would be reprising his role as Superman
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.66.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/rust-1.66.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/rust-1.66.0"/>
+        <updated>2022-12-16T02:56:53.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze 1.66.0 programovacího jazyka Rust (Wikipedie). Podrobnosti v poznámkách k vydání. Vyzkoušet Rust lze například na stránce Rust by Example.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2234,16 +2275,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Hlavní vývojář Bugzilly, systému pro správu hlášení chyb, Dave Miller zveřejnil plán pro příští vydání – po odmlce od roku 2019. Půjde o aktualizace řad 4.4, 5.0 a 5.1, novou řadu 5.2 nahrazující 5.0, následné ukončení podpory řady 4.4, a vývoj nové velké verze 6. Zápisek obsahuje také náměty, jak přispět: dokumentací, auditem přístupnosti podle americké legislativy, kontrolou hlášených chyb nebo sponzorováním vývojáře.]]></summary>
         <author>
             <name>Fluttershy, yay!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xorg-server 21.1.5 a xwayland 22.1.6 řeší 6 zranitelností]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/xorg-server-21.1.5-a-xwayland-22.1.6-resi-6-zranitelnosti</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/xorg-server-21.1.5-a-xwayland-22.1.6-resi-6-zranitelnosti"/>
-        <updated>2022-12-14T13:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Byl vydán xorg-server 21.1.5 a xwayland 22.1.6. Řešeno je 6 zranitelností (CVE-2022-46340, CVE-2022-46341, CVE-2022-46342, CVE-2022-46343, CVE-2022-46344 a CVE-2022-4283).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4518,26 +4549,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenVPN 2.6 Beta zvyšuje řádově výkon díky hardwarové akceleraci šifrování]]></title>
-        <id>www.root.cz-actuality-44259</id>
-        <link href="https://www.root.cz/zpravicky/openvpn-2-6-beta-zvysuje-radove-vykon-diky-hardwarove-akceleraci-sifrovani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-12-08T09:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři pracují na zásadní nové verzi OpenVPN s označením 2.6, která přinese velmi užitečné novinky. Nyní byla vydána první betaverze, která nabízí zvýšení propustnosti datového kanálu díky podpoře Data Channel Offloading (DCO) dostupné ve Windows, Linuxu a FreeBSD. Čísla jsou zatím velmi slibná, podle vývojářů dochází k řádovému navýšení výkonu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux má ovladač GPU s podporou akcelerace na Apple M]]></title>
-        <id>www.root.cz-actuality-44258</id>
-        <link href="https://www.root.cz/zpravicky/asahi-linux-ma-ovladac-gpu-s-podporou-akcelerace-na-apple-m/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-12-08T08:37:52.000Z</updated>
-        <summary type="html"><![CDATA[Asahi Linux má nyní ovladače GPU, které nabízejí hardwarovou akceleraci desktopu na architektuře Apple Silicon. Uživatelé tak mohou z procesoru vytáhnout výrazně vyšší výkon v graficky náročných operacích. Uživatelům umožňuje například v desktopovém prostředí dosáhnout více než 60 snímků za sekundu ve 4K.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pirate IPTV Man Charged After Police Raid Caught Suspect Red Handed]]></title>
         <id>https://torrentfreak.com/?p=227608</id>
         <link href="https://torrentfreak.com/iptv-man-charged-after-police-raid-caught-suspect-red-handed-221208/"/>
@@ -4718,17 +4729,6 @@ The post Mince Pie Megatest 2022 | Custom PC #233 appeared first on Raspberry Pi
         <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi audio boards for your hi-fi projects]]></title>
-        <id>https://www.raspberrypi.com/?p=90268</id>
-        <link href="https://www.raspberrypi.com/news/raspberry-pi-audio-boards-for-your-hi-fi-projects/"/>
-        <updated>2022-12-02T13:18:19.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2020, we welcomed the IQaudio family of hi-fi audio products into the Raspberry Pi family. This was the first, and so far only, time we’ve acquired electronic products from someone else, rather than developing them ourselves: that we made an exception for IQaudio is a testament to what Gordon, Sharon, and Andrew had […]
-The post Raspberry Pi audio boards for your hi-fi projects appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Eben Upton</name>
         </author>
     </entry>
     <entry>
