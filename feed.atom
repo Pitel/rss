@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-19T06:13:23.201Z</id>
+    <id>urn:2022-12-19T08:13:39.307Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-12-19T06:13:23.201Z</updated>
+    <updated>2022-12-19T08:13:39.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Patches Aim To Boost Linux 9p Performance By ~10x]]></title>
+        <id>https://www.phoronix.com/news/Linux-9p-10x-Performance</id>
+        <link href="https://www.phoronix.com/news/Linux-9p-10x-Performance"/>
+        <updated>2022-12-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new set of patches posted for the Plan 9 (9p) resource sharing protocol code inside the Linux kernel can deliver roughly 10x better performance for file transfers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drupal 10.0.0 vylepšuje grafická témata a editor textu]]></title>
+        <id>www.root.cz-actuality-44295</id>
+        <link href="https://www.root.cz/zpravicky/drupal-10-0-0-vylepsuje-graficka-temata-a-editor-textu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-12-19T07:57:48.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři uvolnili novou verzi redakčního systému Drupal s kulatým označením 10.0.0. Vývoj trval dva a půl roku, přispělo do něj 2129 vývojářů z 616 organizací, kteří vyřešili 4083 problémů. Desítka nabízí nové grafické téma Olivero, které podporuje víceúrovňová menu v responzivní mřížce. Také správa redakčního systému se dočkala nového moderního vzhledu Claro.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache SpamAssassin 4.0.0 vylepšuje práci s různými jazyky v UTF-8]]></title>
+        <id>www.root.cz-actuality-44294</id>
+        <link href="https://www.root.cz/zpravicky/apache-spamassassin-4-0-0-vylepsuje-praci-s-ruznymi-jazyky-v-utf-8/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-12-19T07:36:21.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři uvolnili Apache SpamAssassin 4.0.0, nástroj pro filtrování nevyžádané pošty. Nová verze obsahuje řadu vylepšení a oprav a výrazně zlepšuje práci s textem v různých jazycích a zpracovává obsah v UTF-8. Přibyly také opravy, které výrazně zlepšují klasifikaci a výkon.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP Jet – Architektura – microservices, moduly a MVC]]></title>
+        <id>www.root.cz-text-16372</id>
+        <link href="https://www.root.cz/clanky/php-jet-architektura-microservices-moduly-a-mvc/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-12-19T07:21:32.000Z</updated>
+        <summary type="html"><![CDATA[Mluvím hodně o modularitě, ale to může být dosti matoucí pojem, protože pojem „modul“ se vyskytuje v různých platformách a je chápan různě. Ovšem pojem microservices architecture to ve skutečnosti vystihuje mnohem lépe!]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[XFS Aims To Get Online File-System Repair Support Merged Next Year]]></title>
         <id>https://www.phoronix.com/news/XFS-Online-Repair-2023</id>
@@ -25,6 +65,26 @@
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[postmarketOS 22.12 "The One With Napali Calling"]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/postmarketos-22.12-the-one-with-napali-calling</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/postmarketos-22.12-the-one-with-napali-calling"/>
+        <updated>2022-12-18T23:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři postmarketOS vydali verzi 22.12 s kódový názvem "The One With Napali Calling" tohoto před pěti lety představeného operačního systému pro chytré telefony vycházejícího z optimalizovaného a nakonfigurovaného Alpine Linuxu s vlastními balíčky. Přehled novinek v příspěvku na blogu. Počet podporovaných zařízení stoupl na 31.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PeaZip 9.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/peazip-9.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/peazip-9.0"/>
+        <updated>2022-12-18T23:41:28.000Z</updated>
+        <summary type="html"><![CDATA[Správce archivů PeaZip byl vydán ve verzi 9.0. Vylepšuje podporu komprese mj. PAQ a ZPAQ. Pokračuje modernizace GUI. Více v poznámkách k vydání.]]></summary>
+        <author>
+            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -815,16 +875,6 @@ I didn’t realize it until recently; I had buried this part of my childhood rig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Výroční zpráva Linux Foundation za rok 2022]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/vyrocni-zprava-linux-foundation-za-rok-2022</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/vyrocni-zprava-linux-foundation-za-rok-2022"/>
-        <updated>2022-12-16T22:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Linux Foundation zveřejnila Výroční zprávu za rok 2022 (141 stránkové pdf, infografika). Hostuje už více než 850 open source projektů.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Final Fight 3 SNES is the final Final Fight… on SNES]]></title>
         <id>https://www.destructoid.com/?p=354496</id>
         <link href="https://www.destructoid.com/by-the-wayside-final-fight-3-snes-capcom-retro/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=by-the-wayside-final-fight-3-snes-capcom-retro"/>
@@ -916,16 +966,6 @@ If you'd like to get in touch with the All Things Nintendo podcast, you can emai
 For Game Informer's other podcast, be sure to check out The Game Informer Show with host Alex Van Aken, which covers the weekly happenings of the video game industry!]]></summary>
         <author>
             <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Foundation založila Overture Maps Foundation]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/linux-foundation-zalozila-overture-maps-foundation</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/linux-foundation-zalozila-overture-maps-foundation"/>
-        <updated>2022-12-16T20:57:11.000Z</updated>
-        <summary type="html"><![CDATA[Linux Foundation založila Overture Maps Foundation s cílem vytvářet a sdílet otevřená mapová data. Zakládajícími členy Overture Maps Foundation jsou Amazon Web Services (AWS), Meta, Microsoft a TomTom.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2295,16 +2335,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Claire Jackson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.2 Will Help With Power Savings For Intel Alder Lake N & Raptor Lake P]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.2-Power-Management</id>
-        <link href="https://www.phoronix.com/news/Linux-6.2-Power-Management"/>
-        <updated>2022-12-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There's a fair amount going on in the power management space for both Intel x86_64 and Arm hardware with the Linux 6.2 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3873,16 +3903,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vyšlo jádro 6.1 s MGLRU a Rustem]]></title>
-        <id>www.root.cz-actuality-44270</id>
-        <link href="https://www.root.cz/zpravicky/vyslo-jadro-6-1-s-mglru-a-rustem/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-12-12T10:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Včera Linus Torvalds vydal jádro 6.1. Jádro má kódové jméno Hurr durr I'ma ninja sloth, což je jednak odkaz na meme a druhá část říká, že jsem nindža lenochod. Mezi novinky patří MGLRU pro efektivnější správu paměti, změny v regulaci podsvícení u notebooků, rychlejší BTRFS a podpora jazyka Rust.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Supply chain update – it’s good news!]]></title>
         <id>https://www.raspberrypi.com/?p=90640</id>
         <link href="https://www.raspberrypi.com/news/supply-chain-update-its-good-news/"/>
@@ -3891,26 +3911,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 The post Supply chain update – it’s good news! appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Eben Upton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WireGuard: nasazujeme VPN rychle a jednoduše (online školení)]]></title>
-        <id>www.root.cz-actuality-41660</id>
-        <link href="https://www.root.cz/zpravicky/wireguard-nasazujeme-vpn-rychle-a-jednoduse-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-12-12T09:04:50.000Z</updated>
-        <summary type="html"><![CDATA[VPN umožňuje bezpečně propojit různá zařízení pomocí šifrovaných tunelů. Umožňuje také zapojit uživatele do vnitřní sítě přes zabezpečený přístupový bod. Na školení si prakticky ukážeme, jak to celé nastavit a zprovoznit pomocí nejnovějšího protokolu WireGuard.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xubuntu 23.04 s PipeWire a Flatpakem, Nest Audio s Fuchsia OS]]></title>
-        <id>www.root.cz-text-16354</id>
-        <link href="https://www.root.cz/clanky/xubuntu-23-04-s-pipewire-a-flatpakem-nest-audio-s-fuchsia-os/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-12-12T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Xubuntu 23.04 vyjde s multimediální enginem PipeWire a správcem balíčků Flatpak. Google chce na svůj chytrý reproduktor Nest Audio nainstalovat Fuchsia OS. Tým kolem operačního systému FreeBSD oznámil dostupnost FreeBSD 12.4.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
         </author>
     </entry>
     <entry>
