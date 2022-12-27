@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-12-26T22:09:30.671Z</id>
+    <id>urn:2022-12-27T00:52:02.357Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2022-12-26T22:09:30.671Z</updated>
+    <updated>2022-12-27T00:52:02.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kodi "Matrix" 19.5]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/kodi-matrix-19.5</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/kodi-matrix-19.5"/>
+        <updated>2022-12-26T23:51:35.000Z</updated>
+        <summary type="html"><![CDATA[Multimediální centrum Kodi řady 19 „Matrix“ dostalo poslední opravnou aktualizaci 19.5 před plánovaným dalším velkým vydáním 20.0 „Nexus“. Uživatelé Kodi na Androidu nemohou aktualizovat přes Google Play kvůli neshodě vyžadovaných verzí API; nutné je aktualizovat buď ručně, nebo počkat na Kodi 20.]]></summary>
+        <author>
+            <name>Fluttershy, yay!</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Týden na ITBiz: Elektronový vír slibuje zařízení s nižším odporem]]></title>
+        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-elektronovy-vir-slibuje-zarizeni-s-nizsim-odporem</id>
+        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-elektronovy-vir-slibuje-zarizeni-s-nizsim-odporem"/>
+        <updated>2022-12-26T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Vybudujte linii obrany pro zastavení vlny ransomwarových útoků. Trendy: Předvídání útoků a sítě, které se samy opravují. Elektronový vír slibuje zařízení s nižším odporem. CIO chtějí urychlit návratnost investic do digitálních technologií. Trendy: Automatizace, kontejnery, multicloud a omezení životnosti dat.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: LastPass kápnul božskou, přišel o data uživatelů]]></title>
+        <id>www.root.cz-text-16379</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-lastpass-kapnul-bozskou-prisel-o-data-uzivatelu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-12-26T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[V dnešních povánočních postřezích se podíváme na bližší informace o úniku uživatelských dat z LastPassu, ukradený zdrojový kód společnosti Okta, novinky v oblasti end-to-end šifrování v Gmailu a XSS v ZOOM Whiteboard.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: ALEF-CSIRT)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[postmarketOS podporuje Fairphone 4 a Galaxy Tab 2, Manjaro Linux 22.0 má nové Xfce 4.18]]></title>
+        <id>www.root.cz-text-16377</id>
+        <link href="https://www.root.cz/clanky/postmarketos-podporuje-fairphone-4-a-galaxy-tab-2-manjaro-linux-22-0-ma-nove-xfce-4-18/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2022-12-26T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Linuxová distribuce Ubuntu zřejmě odstraní správce archivů z výchozí instalace. Manjaro Linux 22.0 zřejmě jako první přichází s jádrem 6.1 a Xfce 4.18. Vyšla nová verze operačního systému pro chytré telefony postmarketOS 22.12.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Habana Labs AI Driver Prepares For Move To Linux's New Accelerator Subsystem]]></title>
+        <id>https://www.phoronix.com/news/Habana-Labs-AI-Move-Patches</id>
+        <link href="https://www.phoronix.com/news/Habana-Labs-AI-Move-Patches"/>
+        <updated>2022-12-26T22:30:06.000Z</updated>
+        <summary type="html"><![CDATA[With the in-development Linux 6.2 kernel there is the new compute accelerator "accel" subsystem/framework as part of the Direct Rendering Manager area. The creation of that new subsystem was pulled together by Intel (Habana Labs) and now their AI accelerator driver is preparing to move from the "char/misc" catch-all to this new subsystem...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dead Island 2 Survivor Dani Is An Irish Punk Rocker With A Roller Derby Match To Catch]]></title>
         <id>119648</id>
@@ -2727,16 +2777,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Whoops: Linux's strcmp() For The m68k Has Always Been Broken]]></title>
-        <id>https://www.phoronix.com/news/Linux-m68k-strcmp-Always-Broken</id>
-        <link href="https://www.phoronix.com/news/Linux-m68k-strcmp-Always-Broken"/>
-        <updated>2022-12-21T18:41:49.000Z</updated>
-        <summary type="html"><![CDATA[It turns out the hand-written Assembly code providing an optimized string comparison "strcmp" function for the Motorola 68000 (m68k) processor architecture has "always been broken" and only now uncovered at the end of 2022...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TMNT: The Cowabunga Collection Patch Adds Online Co-Op To SNES Turtles In Time]]></title>
         <id>119704</id>
         <link href="https://www.gameinformer.com/2022/12/21/tmnt-the-cowabunga-collection-patch-adds-online-co-op-to-snes-turtles-in-time"/>
@@ -3048,16 +3088,6 @@ Read more]]></summary>
         <updated>2022-12-21T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla začne testovat instanci Fediverse s názvem Mozilla.Social]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/mozilla-zacne-testovat-instanci-fediverse-s-nazvem-mozilla.social</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/mozilla-zacne-testovat-instanci-fediverse-s-nazvem-mozilla.social"/>
-        <updated>2022-12-21T02:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla na svém blogu oznámila, že začátkem roku 2023 začne testovat veřejně přístupnou instanci Fediverse s názvem Mozilla.Social.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3929,16 +3959,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stíny nad 32bit x86 openSUSE, KDE dále vylepšuje podporu Waylandu a více monitorů]]></title>
-        <id>www.root.cz-text-16370</id>
-        <link href="https://www.root.cz/clanky/stiny-nad-32bit-x86-opensuse-kde-dale-vylepsuje-podporu-waylandu-a-vice-monitoru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-12-17T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel oneAPI 2023 a podpora běhu s GPU AMD a Nvidia, KDE na Waylandu s neceločíselným škálováním, hledá se údržbář 32bit x86 openSUSE, AMD AOCC 4.0 přidává oproti GCC 12.2 slušnou porci výkonu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Relax with these five hour-long soothing scenes in Minecraft]]></title>
         <id>https://www.rockpapershotgun.com/relax-with-these-five-hour-long-soothing-scenes-in-minecraft</id>
         <link href="https://www.rockpapershotgun.com/relax-with-these-five-hour-long-soothing-scenes-in-minecraft"/>
@@ -4219,16 +4239,6 @@ The post Maka Niu deep-sea imaging system | The MagPi #125 appeared first on Ras
         <summary type="html"><![CDATA[Grafenový aerogel chrání proti ohni. Průlom v jaderné fúzi nepřeceňovat. Druhá nejbližší černá díra. Tsunami na Marsu. Fyzika rampouchů. Osmdesáté narozeniny prvního jaderného reaktoru.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ke vztahu fotografie a open-source]]></title>
-        <id>www.root.cz-text-16369</id>
-        <link href="https://www.root.cz/clanky/ke-vztahu-fotografie-a-open-source/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-12-15T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vždycky je bezpečnější jít majoritní vyšlapanou cestou a platí jak pro fotografy s Adobe Lightroomem, tak výrobce fotoaparátů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4892,16 +4902,6 @@ WorkManager Version 2.8.0-rc01]]></summary>
         <link href="http://www.abclinuxu.cz/clanky/jaderne-noviny-prehled-za-listopad-2022"/>
         <updated>2022-12-04T23:01:00.000Z</updated>
         <summary type="html"><![CDATA[Přehled listopadových vydání Jaderných novin: stav vydání jádra, citáty týdne a seznam článků týkajících se jádra.]]></summary>
-        <author>
-            <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ITBiz: Vedení Xixoio čelí podezření z podvodu, škoda je půl miliardy korun]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-vedeni-xixoio-celi-podezreni-z-podvodu-skoda-je-pul-miliardy-korun</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-vedeni-xixoio-celi-podezreni-z-podvodu-skoda-je-pul-miliardy-korun"/>
-        <updated>2022-12-03T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Další pokus o přepisovatelný papír, tentokrát s oxidem titaničitým. 10 nejčastějších chyb při tvorbě cloudové strategie. Vedení Xixoio čelí podezření z podvodu, škoda je půl miliardy korun. Sophos 2023 Threat Report: Zločinci obchodují s kyberkriminalitou. 5 největších mýtů o digitální transformaci v průmyslové výrobě. Tři bezpečnostní cíle pro rok 2023.]]></summary>
         <author>
             <name>Redakce</name>
         </author>
