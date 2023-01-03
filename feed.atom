@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-03T06:11:47.628Z</id>
+    <id>urn:2023-01-03T08:13:40.845Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-01-03T06:11:47.628Z</updated>
+    <updated>2023-01-03T08:13:40.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Slax bude mít desetkrát rychlejší perzistentní úložiště]]></title>
+        <id>www.root.cz-actuality-44328</id>
+        <link href="https://www.root.cz/zpravicky/slax-bude-mit-desetkrat-rychlejsi-perzistentni-uloziste/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-01-03T07:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Tomáš Matějíček na blogu distribuce Slax oznámil novou verzi souborového systému DynFileFS, která už je k dispozici na GitHubu. Ve Slaxu se tento souborový systém používá k ukládání perzistentních změn na flash disky. Původní verze byla ovšem deset let stará, byla napsaná velmi neefektivně a byla tedy velmi pomalá.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Koei Tecmo Brings Fate/Samurai Remnant To Switch In 2023, Here's A First Look]]></title>
         <id>https://www.nintendolife.com/#article-143131</id>
@@ -16,6 +26,26 @@ This title, based on the popular anime game series, will be arriving on the Nint
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mechanická klávesnice Centerpiece s displejem pod klávesami, CPU a GPU]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mechanicka-klavesnice-centerpiece-s-displejem-pod-klavesami-cpu-a-gpu</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mechanicka-klavesnice-centerpiece-s-displejem-pod-klavesami-cpu-a-gpu"/>
+        <updated>2023-01-03T03:58:39.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Finalmouse představila (Twitter, YouTube) mechanickou klávesnici Centerpiece s displejem pod průhlednými klávesami, CPU a GPU. Její cena by měla být 349 dolarů.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slax: DynFileFS 3.00]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/slax-dynfilefs-3.00</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/slax-dynfilefs-3.00"/>
+        <updated>2023-01-03T03:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Tomáš Matějíček oznámil vydání nové major verze 3.00 souborového systému DynFileFS používaného v linuxové distribuci Slax.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1647,26 +1677,6 @@ Read more]]></summary>
         <updated>2022-12-30T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To nej roku 2022 ve službě Steam]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/to-nej-roku-2022-ve-sluzbe-steam</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/to-nej-roku-2022-ve-sluzbe-steam"/>
-        <updated>2022-12-30T03:37:16.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Valve publikovala přehled To nej roku 2022 ve službě Steam aneb ohlédnutí nejen za nejprodávanějšími, nejprodávanějšími nově vydanými a nejhranějšími herními tituly roku 2022.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Některé weby považovaly Firefox 110 za Internet Explorer 11]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/nektere-weby-povazovaly-firefox-110-za-internet-explorer-11</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/nektere-weby-povazovaly-firefox-110-za-internet-explorer-11"/>
-        <updated>2022-12-30T02:56:22.000Z</updated>
-        <summary type="html"><![CDATA[Aktuální stabilní verze Firefoxu je 108, beta verze je 109 a nightly verze je 110. Při testování Firefoxu 110 se zjistilo, že některé weby jej odmítaly a doporučovaly nainstalovat Chrome, Firefox nebo Edge. Považovaly jej za Internet Explorer 11. Problém byl v řetězci User-Agent. Firefox 109 v něm posílá "rv:109.0". Firefox 110 měl posílat "rv:110.0". To bylo ale pro některé weby "stejné" jako "rv:11.0" od Internet Exploreru 11. Firefox 110 tak bude posílat "rv:109.0". Stejně tak další verze Firefoxu až do verze 120.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3819,16 +3829,6 @@ Are you going to replay God of War Ragnarök using this New Game Plus mode next 
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Výrobce telefonů Fairphone odhalil mezi svými zaměstnanci škůdce placené dodavatelem]]></title>
-        <id>www.root.cz-actuality-44308</id>
-        <link href="https://www.root.cz/zpravicky/vyrobce-telefonu-fairphone-odhalil-mezi-svymi-zamestnanci-skudce-placene-dodavatelem/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2022-12-22T17:32:39.000Z</updated>
-        <summary type="html"><![CDATA[CEO Fairphone Eva Gouwensová napsala na firemním blogu, že tento výrobce fair-trade a snadno opravitelných telefonů odhalil v řadách svých zaměstnanců dva škůdce placené jedním z dodavatelů za blíže nespecifikované znevýhodňování Fairphone.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: peci1)</name>
         </author>
     </entry>
     <entry>
