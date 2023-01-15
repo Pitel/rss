@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-15T12:17:24.843Z</id>
+    <id>urn:2023-01-15T14:08:31.467Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-01-15T12:17:24.843Z</updated>
+    <updated>2023-01-15T14:08:31.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Removing Some Old Arm Drivers & Board/Machine Code To Lighten The Kernel By 154k Lines]]></title>
+        <id>https://www.phoronix.com/news/Arm-Spring-Cleaning-2023-Old</id>
+        <link href="https://www.phoronix.com/news/Arm-Spring-Cleaning-2023-Old"/>
+        <updated>2023-01-15T12:28:52.000Z</updated>
+        <summary type="html"><![CDATA[The SoC tree's "for-next" branch has picked up a big set of patches that is set to lighten the kernel by 154k lines of code, documentation, and DeviceTree files in clearing out some old drivers and obsolete board/machine support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - Castlevania II: Belmont's Revenge]]></title>
         <id>https://www.nintendolife.com/#article-143549</id>
@@ -2832,16 +2842,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DragonFlyBSD's HAMMER2 File-System Being Ported To NetBSD]]></title>
-        <id>https://www.phoronix.com/news/NetBSD-HAMMER2-Port</id>
-        <link href="https://www.phoronix.com/news/NetBSD-HAMMER2-Port"/>
-        <updated>2023-01-11T11:26:27.000Z</updated>
-        <summary type="html"><![CDATA[NetBSD continues using the FFS file-system by default while it's offered ZFS support that has been slowly improving -- in NetBSD-CURRENT is the ability to use ZFS as the root file-system if first booting to FFS, for example.  There may be another modern file-system option soon with an effort underway to port DragonFlyBSD's HAMMER2 over to NetBSD...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
