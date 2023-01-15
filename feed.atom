@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-15T10:10:06.696Z</id>
+    <id>urn:2023-01-15T12:17:24.843Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-01-15T10:10:06.696Z</updated>
+    <updated>2023-01-15T12:17:24.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - Castlevania II: Belmont's Revenge]]></title>
+        <id>https://www.nintendolife.com/#article-143549</id>
+        <link href="https://www.nintendolife.com/news/2023/01/poll-box-art-brawl-duel-castlevania-ii-belmonts-revenge"/>
+        <updated>2023-01-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Revenge is sweet.
+Hello folks, welcome to another edition of Box Art Brawl!
+Last time, we took a look at Metroid Prime: Hunters on the Nintendo DS and the end result was pretty unanimous. The vast majority of you prefered the western design over Japan's, with North America and Europe winning with a whopping 86% of the vote! Clearly, the more abstract approach from Japan just didn't sit well with folks.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.3 To Support Making Use Of Intel's New LKGS Instruction (Part Of FRED)]]></title>
+        <id>https://www.phoronix.com/news/Intel-LKGS-Linux-6.3</id>
+        <link href="https://www.phoronix.com/news/Intel-LKGS-Linux-6.3"/>
+        <updated>2023-01-15T11:42:15.000Z</updated>
+        <summary type="html"><![CDATA[As part of Intel's forthcoming Flexible Return and Event Delivery (FRED) specification is the new LKGS instruction for managing the state of the GS segment register in a more flexible manner. With Linux 6.3 the kernel will allow making use of the LKGS instruction where supported on future Intel CPUs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.3 Will Better Handle Missing AMD Radeon Firmware / Unsupported Hardware]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.3-Better-Handle-AMDGPU</id>
+        <link href="https://www.phoronix.com/news/Linux-6.3-Better-Handle-AMDGPU"/>
+        <updated>2023-01-15T11:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Another batch of AMDGPU/AMDKFD feature code was submitted this week to DRM-Next as additional AMD Radeon kernel graphics driver changes slated for Linux 6.3...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic OpenGL ES Compute Shader Support Begins Working For The Apple GPU Linux Driver]]></title>
+        <id>https://www.phoronix.com/news/Apple-Linux-GLES-Compute-Shader</id>
+        <link href="https://www.phoronix.com/news/Apple-Linux-GLES-Compute-Shader"/>
+        <updated>2023-01-15T11:09:42.000Z</updated>
+        <summary type="html"><![CDATA[The open-source developers working on developing the Rust-written Linux DRM kernel driver for Apple M1/M2 graphics as well as the Mesa AGX Gallium3D driver in user-space have now managed to successfully run a basic OpenGL ES 3.1 compute shader on the hardware with this open-source driver stack...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-662</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-662"/>
+        <updated>2023-01-15T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for angling your umbrella so the wind doesn't turn it inside out. Before you duck, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor 29 Released With Better Live Migration, Combined MSHV+KVM Binaries]]></title>
+        <id>https://www.phoronix.com/news/Cloud-Hypervisor-29</id>
+        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-29"/>
+        <updated>2023-01-15T10:55:10.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Hypervisor 29.0 has been released as the open-source virtualization hypervisor that was started by Intel but then began seeing support by the likes of Microsoft and Arm. Cloud Hypervisor was since spunoff to the Linux Foundation where it continues seeing more industry support by the likes of AMD and Ampere...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sword Art Online: Alicization Lycoris DLC 1 Launches On Switch Next Week]]></title>
         <id>https://www.nintendolife.com/#article-143599</id>
@@ -1470,19 +1534,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kirby's Samurai Mini-Game Is Getting Online Support In Return To Dream Land Deluxe]]></title>
-        <id>https://www.nintendolife.com/#article-143546</id>
-        <link href="https://www.nintendolife.com/news/2023/01/kirbys-samurai-mini-game-is-getting-online-support-in-return-to-dream-land-deluxe"/>
-        <updated>2023-01-13T05:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Past meets present.
-Kirby's famous Samurai mini-game will be featured in Kirby's Return to Dream Land Deluxe and today Nintendo has shared a brief teaser.
-It's also mentioned how players will be able to hop online and compete against other player records from all around the world. This minigame will be accessible via the Merry Magoland mode - allowing players to check out all sorts of bite-sized experiences.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Washing Machine Settings]]></title>
         <id>https://xkcd.com/2724/</id>
         <link href="https://xkcd.com/2724/"/>
@@ -2794,26 +2845,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-Source NVIDIA Vulkan Driver "NVK" Begins Running Talos Principle... Slowly]]></title>
-        <id>https://www.phoronix.com/news/NVK-Running-Talos-Game</id>
-        <link href="https://www.phoronix.com/news/NVK-Running-Talos-Game"/>
-        <updated>2023-01-11T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[The NVK open-source Vulkan driver for NVIDIA GPUs that has seen a lot of progress over the past year is now able to run some games like The Talos Principle, which was the launch title for Vulkan 1.0. While the NVK driver is correctly rendering, it's still slow until the kernel driver side is sorted out with re-clocking...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 109 Released With New CSS Features, MathML Core, CHIPS]]></title>
-        <id>https://www.phoronix.com/news/Chrome-109-Released</id>
-        <link href="https://www.phoronix.com/news/Chrome-109-Released"/>
-        <updated>2023-01-11T10:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Google on Tuesday released their first post-holidays update to the cross-platform Chrome web browser...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fedora 38 bude mít unifikované jádro, mdadm BIOS RAID i Xfce 4.18]]></title>
         <id>www.root.cz-actuality-44355</id>
         <link href="https://www.root.cz/zpravicky/fedora-38-bude-mit-unifikovaje-jadro-mdadm-bios-raid-i-xfce-4-18/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2821,16 +2852,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Fedora Engineering and Steering Committee (FESCo) rozhodovala o několika návrzích pro příští 38. vydání plánované na duben tohoto roku. Schválena je jak počáteční fáze nasazování unifikovaného linuxového jádra z hlediska používání Unified Kernel Image (UKI), který se v osmatřicítce objeví jako volitelný RPM, aktualizace instalačních skriptů jádra atd. Přibude podpora systemd-boot a jedním z cílů s nižší prioritou je i převedení cloudových obrazů Fedory na unifikovaná jádra.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.12 Alpha 4 Released For Testing]]></title>
-        <id>https://www.phoronix.com/news/Python-3.12-Alpha-4</id>
-        <link href="https://www.phoronix.com/news/Python-3.12-Alpha-4"/>
-        <updated>2023-01-11T10:02:06.000Z</updated>
-        <summary type="html"><![CDATA[While many haven't even moved yet to the very speedy Python 3.11 that was released back in October, for those wanting to do some bleeding-edge testing the fourth alpha of Python 3.12 is already out...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2882,16 +2903,6 @@ The post Raspberry Pi revives a Smith Corona word processor appeared first on Ra
         <updated>2023-01-11T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 38 Features Approved For Unified Kernel, mdadm BIOS RAID, Xfce 4.18]]></title>
-        <id>https://www.phoronix.com/news/Fedora-38-Early-Jan-Features</id>
-        <link href="https://www.phoronix.com/news/Fedora-38-Early-Jan-Features"/>
-        <updated>2023-01-11T00:18:11.000Z</updated>
-        <summary type="html"><![CDATA[At today's Fedora Engineering and Steering Committee (FESCo) more features were approved for the Fedora 38 release coming up in April...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4057,17 +4068,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 15 best hacking games on PC]]></title>
-        <id>https://www.rockpapershotgun.com/the-best-hacking-games</id>
-        <link href="https://www.rockpapershotgun.com/the-best-hacking-games"/>
-        <updated>2023-01-06T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Who among us hasn't wished to be a cool hacker from the movies, like Hugh Jackman in Swordfish (a classic)? In real life hacking things is apparently quite dangerous and hard, but in video games we can crack the system and mutter "I'm in" under our breath as often as we want. Naturally, there have been some fabulous hacking games on PC over the years, and we've collected what we think are the cream of the crop of the best hacking games to play on PC right now.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
         </author>
     </entry>
     <entry>
