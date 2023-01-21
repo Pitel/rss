@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-21T12:17:29.290Z</id>
+    <id>urn:2023-01-21T14:08:44.623Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-01-21T12:17:29.290Z</updated>
+    <updated>2023-01-21T14:08:44.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Contributes linux_dmabuf v4 Feedback Support To XWayland]]></title>
+        <id>https://www.phoronix.com/news/XWayland-linux_dmabuf-v4</id>
+        <link href="https://www.phoronix.com/news/XWayland-linux_dmabuf-v4"/>
+        <updated>2023-01-21T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA engineer Austin Shafer has contributed linux_dmabuf v4 feedback protocol support for upstream XWayland. This is working towards allowing scan-out modifiers that a compositor advertises to be delivered to X11 applications under (X)Wayland...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Do You Want Weapon Degradation To Return In Zelda: Tears Of The Kingdom?]]></title>
         <id>https://www.nintendolife.com/#article-143730</id>
@@ -3252,16 +3262,6 @@ If you missed the news about the shutdown, last September, Stadia’s VP and Gen
 Stadia’s struggles were no secret. Its first-party studios were shut down just over a year in, with the service being “deprioritized” a year later. While it was an interesting experiment, some experiments are just destined to fail. Rest in peace, Stadia.]]></summary>
         <author>
             <name>Charles Harte</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD CDX Being Prepared For Linux As The Bus Between Future APUs & FPGAs]]></title>
-        <id>https://www.phoronix.com/news/AMD-CDX-APUs-FPGAs-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-CDX-APUs-FPGAs-Linux"/>
-        <updated>2023-01-17T16:14:29.000Z</updated>
-        <summary type="html"><![CDATA[After quietly posting a "request for comments" patch series a few months back to no fanfare, AMD today published their post-RFC patch series today for introducing the AMD CDX bus to the Linux kernel. AMD CDX is ultimately for the interface/bus between the APU and FPGA(s) with future hardware...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
