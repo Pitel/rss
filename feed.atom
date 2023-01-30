@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-01-30T06:13:51.945Z</id>
+    <id>urn:2023-01-30T08:13:50.723Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-01-30T06:13:51.945Z</updated>
+    <updated>2023-01-30T08:13:50.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Naučte se Kubernetes na našem dvoudenním školení]]></title>
+        <id>www.root.cz-actuality-41195</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-kubernetes-na-nasem-dvoudennim-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-01-30T07:57:41.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes je dnes nejrozšířenější platformou na hostovaní Docker kontejnerů a je podporován velkými hráči na trhu (Google, Amazon, Microsoft) skrz Cloud Native Computing Foundation. Kuberneres pro provoz používají všechny velikosti firem, od startupu po korporace. Pojďme se naučit jej používat na dvoudenním kurzu Úvod do Kubernetes, který proběhne v naší pražské školicí místnosti ve dnech 20. a 21. února. Školení proběhne v naší pražské školicí místnosti a můžete se ho zúčastnit i online.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Alex Martinez: bringing computing education and making to Puerto Rico]]></title>
+        <id>https://www.raspberrypi.com/?p=92415</id>
+        <link href="https://www.raspberrypi.com/news/meet-alex-martinez-bringing-computing-education-and-making-to-puerto-rico/"/>
+        <updated>2023-01-30T07:23:48.000Z</updated>
+        <summary type="html"><![CDATA[Pi Wars may famously be an offshoot of CamJam, but it’s not just limited to makers from that pocket of England. It's reached the Caribbean island of Puerto Rico thanks to makerspace organiser Alex Martinez.
+The post Meet Alex Martinez: bringing computing education and making to Puerto Rico appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Rob Zwetsloot</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GIMP 3.0 Aiming To Release In 2023]]></title>
         <id>https://www.phoronix.com/news/GIMP-3.0-Plans-In-2023</id>
@@ -25,6 +46,16 @@
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[coreboot 4.19]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/coreboot-4.19</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/coreboot-4.19"/>
+        <updated>2023-01-30T00:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 4.19 svobodné náhrady proprietárních BIOSů a UEFI coreboot (Wikipedie). Na seznamu podporovaných desek přibylo 16 desek. Odstraněno bylo 30 desek.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2022,17 +2053,6 @@ The following is list of general fixes in Android Studio Giraffe Canary 2. These
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Have You Played... Planet Zoo?]]></title>
-        <id>https://www.rockpapershotgun.com/have-you-played-planet-zoo-1</id>
-        <link href="https://www.rockpapershotgun.com/have-you-played-planet-zoo-1"/>
-        <updated>2023-01-26T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Snow leopards are my absolute favourite animals in the world. I would die happy if I ever got the chance to see one  in real life (from a great distance of course, lest it de-grundle me). Alas, the closest that most of us will get in our lives is to play Planet Zoo - easily the best zoo simulator out there right now.
- Read more]]></summary>
-        <author>
-            <name>Ollie Toms</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shoulders Of Giants smashes together frogs, mechs and 00s weirdness]]></title>
         <id>https://www.rockpapershotgun.com/shoulders-of-giants-smashes-together-frogs-mechs-and-00s-weirdness</id>
         <link href="https://www.rockpapershotgun.com/shoulders-of-giants-smashes-together-frogs-mechs-and-00s-weirdness"/>
@@ -2042,6 +2062,17 @@ Consider the progress of information. It's a sci-fi roguelike best played, I thi
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have You Played... Planet Zoo?]]></title>
+        <id>https://www.rockpapershotgun.com/have-you-played-planet-zoo-1</id>
+        <link href="https://www.rockpapershotgun.com/have-you-played-planet-zoo-1"/>
+        <updated>2023-01-26T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Snow leopards are my absolute favourite animals in the world. I would die happy if I ever got the chance to see one  in real life (from a great distance of course, lest it de-grundle me). Alas, the closest that most of us will get in our lives is to play Planet Zoo - easily the best zoo simulator out there right now.
+ Read more]]></summary>
+        <author>
+            <name>Ollie Toms</name>
         </author>
     </entry>
     <entry>
@@ -2470,16 +2501,6 @@ The post Exoskeleton walking aid | The MagPi #126 appeared first on Raspberry Pi
         <summary type="html"><![CDATA[Mezi zajímavé vlastnosti knihovny Polars patří schopnost pracovat s daty, jejichž objem je větší než volná kapacita operační paměti. Protože se jedná o velmi důležitou vlastnost, budeme se touto technikou zabývat dnes.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FFhistory: Historie FFmpeg]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ffhistory-historie-ffmpeg</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ffhistory-historie-ffmpeg"/>
-        <updated>2023-01-25T22:57:40.000Z</updated>
-        <summary type="html"><![CDATA[Kosťa Šiškov v posledních několika týdnech na svém blogu vzpomínal na různé přispěvatele do projektu FFmpeg: konec forku Libav, úvod, …, shrnutí.]]></summary>
-        <author>
-            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -4348,16 +4369,6 @@ Jump to the timestamps to get to a particular point of discussion:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zveřejněny zdrojové kódy Apple Lisa]]></title>
-        <id>www.root.cz-actuality-44392</id>
-        <link href="https://www.root.cz/zpravicky/zverejneny-zdrojove-kody-apple-lisa/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-01-20T17:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Počítač Apple Lisa z roku 1983 byl jeden z prvních počítačů s GUI a ovládaný myší. Muzeum počítačové historie ke 40. výročí počítače Apple Lisa zveřejnilo zdrojové kódy jeho operačního systému Lisa Office System (Lisa OS) 3.1.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Super Replay | Silent Hill]]></title>
         <id>119564</id>
         <link href="https://www.gameinformer.com/super-replay/2023/01/20/super-replay-silent-hill"/>
@@ -4806,17 +4817,6 @@ Golf Story was one of the biggest surprises in the Switch’s extremely strong f
 As the name suggests, Sports Story expands the world to include other games while creating a more sweeping and ambitious story. As sports go…]]></summary>
         <author>
             <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wearing Raspberry Pi Pico]]></title>
-        <id>https://www.raspberrypi.com/?p=91635</id>
-        <link href="https://www.raspberrypi.com/news/wearing-raspberry-pi-pico/"/>
-        <updated>2023-01-16T07:08:57.000Z</updated>
-        <summary type="html"><![CDATA[It’s #MagPiMonday so we are sharing one of our favourite articles from the latest issue of the official Raspberry Pi magazine. Rob Zwetsloot shows us how wearable tech is now better than ever with Raspberry Pi Pico. Cyber glasses These glasses not only use electronics and Pico to power them, they’re also 3D-printed as well, […]
-The post Wearing Raspberry Pi Pico appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Rob Zwetsloot</name>
         </author>
     </entry>
     <entry>
