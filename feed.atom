@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-05T18:11:35.342Z</id>
+    <id>urn:2023-02-05T20:10:24.775Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-02-05T18:11:35.342Z</updated>
+    <updated>2023-02-05T20:10:24.775Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -240,6 +240,16 @@ In November last year, a federal judge ruled in favour of Nintendo in the 'Sanch
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTTD 13.0]]></title>
+        <id>https://www.openttd.org/news/2023/02/05/openttd-13-0.html</id>
+        <link href="https://www.openttd.org/news/2023/02/05/openttd-13-0.html"/>
+        <updated>2023-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Breaking news: OpenTTD 13.0 is now available! Depending on your perspective, we’re either two months early for our usual April 1st release, or a bit tardy for the Christmas 2022 release we intended. We think the wait has been worth it. This is one of the largest releases we’ve done in several years, with numerous features and improvements covering the user interface, gameplay features, and modding extensions for NewGRF and Game Script creators. Some of the highlights are: Variable interface scaling at whatever size you want (not just 2x and 4x), with optional chunky bevels for that retro feel. This includes better automatic scaling when using HiDPI or mixed DPI setups. Direct access to NewGRF/AI/GS settings from the new game window. Various small tweaks and improvements to several windows. NewGRFs can now provide engine variants that are shown hierarchically in the purchase list. Multi-track level crossings to keep road vehicles from stopping in the middle of the crossing. Custom league tables for GameScripts. More natural rivers which get wider as they flow downstream. And much more, which can be seen in the changelog or the previous release announcements! In addition to these features and improvements, we’ve fixed lots of bugs. (If you played with the RC2 testing release, most were fixed before then. See the changelog for full details.) Download Changelog Bug tracker]]></summary>
+        <author>
+            <name>OpenTTD</name>
         </author>
     </entry>
     <entry>
