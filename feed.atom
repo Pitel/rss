@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-08T06:14:05.183Z</id>
+    <id>urn:2023-02-08T08:14:06.552Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-02-08T06:14:05.183Z</updated>
+    <updated>2023-02-08T08:14:06.552Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Byly vydány nové verze OpenSSL opravující závažnou chybu]]></title>
+        <id>www.root.cz-actuality-44452</id>
+        <link href="https://www.root.cz/zpravicky/byly-vydany-nove-verze-openssl-opravujici-zavaznou-chybu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-08T07:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Jak již bylo avizováno, byly dnes vydány nové verze knihovny OpenSSL 3.0.8 a 1.1.1t. Verze opravují několik zranitelností z nichž jedna je označena jako vysoce závažná (high). Prohlédněte si přehled oprav.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Netolish)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Praktický workshop Nuxt 3: vyzkoušejte si Vue, TypeScript, Tailwind a GraphQL (školení)]]></title>
+        <id>www.root.cz-actuality-44451</id>
+        <link href="https://www.root.cz/zpravicky/prakticky-workshop-nuxt-3-vyzkousejte-si-vue-typescript-tailwind-a-graphql-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-08T07:25:08.000Z</updated>
+        <summary type="html"><![CDATA[Prakticky si vyzkoušíte vytvoření jednoduchého webu s graficky bohatou landing page a dynamickým obsahem. Výsledek bude rychlý, bezpečný a indexovatelný vyhledávačem. Vše si můžete vyzkoušet na našem praktickém workshopu Nuxt 3, který je určen pro vývojáře nebo webaře, kteří si chtějí vyzkoušet nejmodernější webový framework postavený kolem Vue.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware ESXiArgs napadá ve velkém servery VMware ESXi]]></title>
+        <id>www.root.cz-actuality-44450</id>
+        <link href="https://www.root.cz/zpravicky/ransomware-esxiargs-napada-ve-velkem-servery-vmware-esxi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-08T07:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Bezpečnostní odborníci varují před novým ransomwarem ESXiArgs, který po celém světě zneužívá dva roky starou chybu v serveru VMware ESXi. Chyba nese označení CVE-2021–21974 a je způsobena problémem s přetečením haldy ve službě OpenSLP, který může být velmi jednoduše zneužit neautentizovanými útočníky. Záplata je přitom dostupná od 23. února 2021.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transmission 4.0.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/transmission-4.0.0</id>
@@ -26,6 +56,26 @@ There's the option of a standard edition (34,90 €), collector's edition (69,90
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endless OS 5.0.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/endless-os-5.0.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/endless-os-5.0.0"/>
+        <updated>2023-02-08T03:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Endless OS byl vydán ve verzi 5.0.0. Přehled novinek i s náhledy v poznámkách k vydání.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome 110]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/google-chrome-110</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/google-chrome-110"/>
+        <updated>2023-02-08T03:01:01.000Z</updated>
+        <summary type="html"><![CDATA[Google Chrome 110 byl prohlášen za stabilní. Nejnovější stabilní verze 110.0.5481.77 přináší řadu oprav a vylepšení (YouTube). Opraveno bylo 15 bezpečnostních chyb. Vylepšeny byly také nástroje pro vývojáře (YouTube).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2297,16 +2347,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenTTD 13.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/openttd-13.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/openttd-13.0"/>
-        <updated>2023-02-05T23:23:04.000Z</updated>
-        <summary type="html"><![CDATA[OpenTTD (Wikipedie), tj. open source klon počítačové hry Transport Tycoon Deluxe, byl vydán v nové stabilní verzi 13.0. Přehled novinek v seznamu změn. OpenTTD lze instalovat také ze Steamu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jaderné noviny – přehled za leden 2023]]></title>
         <id>http://www.abclinuxu.cz/clanky/jaderne-noviny-prehled-za-leden-2023</id>
         <link href="http://www.abclinuxu.cz/clanky/jaderne-noviny-prehled-za-leden-2023"/>
@@ -2356,24 +2396,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtuální Bastlírna vol. 23: nová major verze KiCadu]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/virtualni-bastlirna-vol.-23-nova-major-verze-kicadu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/virtualni-bastlirna-vol.-23-nova-major-verze-kicadu"/>
-        <updated>2023-02-05T22:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Jako každý měsíc je zde Virtuální Bastlírna s novinkami ze světa bastlení, elektroniky, vědy a techniky. Tento měsíc se navíc opravdu urodilo. Co si tedy bastlíři z projektu MacGyver.sh připravili?
-
-Ze světa software například zajímavá betaverze LTSpice 17.1, která umí počítat charakteristiku spínaných zdrojů z tranzientní simulace. Zároveň je tu první release candidate KiCADu 7 a brzy by měla být plnohodnotná verze 7. Nebo třeba aplikace, kterou můžete vyfotit klíč a jednoduše vytvořit výkres pro klíč, aby šel vyrobit duplikát. Vědci otestovali, jak pomocí sady ESP32 mapovat nejen počet osob v místnosti, ale i jak se zrovna pohybují a co dělají. ST Microelectronics má zase nový nástroj pro vývoj machine learning aplikací.
-
-Novinky jsou ale i ze světa hardware. ST Microelectronics má nové řady procesorů C0 a U5. Renesas zase uvádí na trh řadu nových malých FPGA s předpokládanou cenou $0.5/kus. Česká společnost vyvíjející unikátní kryptočipy má už první vzorky pro testování.
-
-I ze světa bastlení se však najdou novinky. Kupříkladu detekce chemických sloučenin pomocí odezvy na vysokofrekvenční pole, doporučení, jak dělat spolehlivě zapájitelné footprinty 0402 a 0201 součástek nebo jak se dělá plošný spoj, který se umí sám zapájet.
-
-Ať už vás zaujalo cokoliv z nabízených témat, chcete ukázat nějaký svůj bastl a nebo si jen potřebujete postěžovat na nedostatek volného času, dorazte! Příští Virtuální Bastlírna se pod taktovkou projektu MacGyver studentského klubu SiliconHill bude konat v úterý 7. února od 20:00 minimálně do 22:00 (ale obvykle končí o dost později). Odkaz na konferenci se před samotnou akcí objeví na bastlířské wiki.]]></summary>
-        <author>
-            <name>bkralik</name>
         </author>
     </entry>
     <entry>
@@ -4115,36 +4137,6 @@ The post Japanese vineyard makes excellent wine with Raspberry Pi appeared first
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MPV 0.35.1 přináší dílčí opravy nejen pro Wayland a PipeWire]]></title>
-        <id>www.root.cz-actuality-44427</id>
-        <link href="https://www.root.cz/zpravicky/mpv-0-35-1-prinasi-dilci-opravy-nejen-pro-wayland-a-pipewire/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-01T10:11:58.000Z</updated>
-        <summary type="html"><![CDATA[Jak už to u „jedničkový“ verzí bývá, nečekejme ani od nové verze 0.35.1 přehrávače MPV žádné převratné novinky, primárně jde o vydání opravující několik drobností.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call Depth Tracking v Linuxu 6.2 mírní dopad RETBLEED u CPU Intel Skylake až Coffee Lake]]></title>
-        <id>www.root.cz-actuality-44426</id>
-        <link href="https://www.root.cz/zpravicky/call-depth-tracking-v-linuxu-6-2-mirni-dopad-retbleed-u-cpu-intel-skylake-az-coffee-lake/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-01T07:44:52.000Z</updated>
-        <summary type="html"><![CDATA[RETBLEED známe od loňského léta a nedlouho poté se ukázalo, že dopad prvních záplat bude u generací CPU Intel Skylake až Coffee Lake (6. až 9. generace Core) poměrně bolet, v součtu s dalšími záplatami na jiné chyby se tyto procesory mohly výkonově propadnou i o desítky procent. Linux 6.2 v tomto přinese zmírnění, alespoň pro RETBLEED, který si u uvedených CPU vyžádal použití mechanismu Indirect Branch Restricted Speculation (IBRS).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analytické nástroje na Portálu občana a dalších webech nahrazuje Matomo]]></title>
-        <id>www.root.cz-actuality-44425</id>
-        <link href="https://www.root.cz/zpravicky/analyticke-nastroje-na-portalu-obcana-a-dalsich-webech-nahrazuje-nastroj-matomo/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-01T07:38:54.000Z</updated>
-        <summary type="html"><![CDATA[Národní agentura pro komunikační a informační technologie (NAKIT) na Twitteru oznámila, že Portál občana a další weby státní správy začaly místo veřejných analytických nástrojů používat vlastní instanci svobodného analytického nástroje Matomo. Děkujeme zejména zástupcům Iuridicum Remedium, dále Spolku pro ochranu osobních údajů, Ministerstvu zdravotnictví, Reservaticu a našemu DPO Pavlu Burianovi za společnou iniciativu, píše se v oznámení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
