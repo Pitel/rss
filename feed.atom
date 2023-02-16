@@ -1,10 +1,84 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-16T06:14:03.421Z</id>
+    <id>urn:2023-02-16T08:14:10.871Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-02-16T06:14:03.421Z</updated>
+    <updated>2023-02-16T08:14:10.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Numpy zrychluje 17× řazení díky knihovně od Intelu využívající AVX-512]]></title>
+        <id>www.root.cz-actuality-44479</id>
+        <link href="https://www.root.cz/zpravicky/numpy-zrychluje-17-razeni-diky-knihovne-od-intelu-vyuzivajici-avx-512/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-16T08:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Intel nedávno vydal open-source knihovnu hlavičkových souborů C++ pro vysoce výkonné řazení založené na SIMD, která se zpočátku zaměřuje na velmi rychlou implementaci třídění pomocí instrukcí AVX-512. Tento kód byl nyní začleněn do Numpy a zrychluje řazení 10× až 17×.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Elderand - Great, Gory Spritework, But A Merely Solid Metroidvania (Emphasis On The 'Vania)]]></title>
+        <id>https://www.nintendolife.com/#article-143986</id>
+        <link href="https://www.nintendolife.com/reviews/switch-eshop/elderand"/>
+        <updated>2023-02-16T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Gore-trait Of Ruin.
+The genre blend of Metroidvania and Soulslike is a tried and true combination. And it makes sense; two styles of game with a deep focus on exploration and strict difficulty were bound to cross paths. Games like Salt and Sanctuary, Blasphemous, and — of course — Hollow Knight have successfully taken what makes the genres and mashed them into a mini-genre of their own (although some would argue that Dark Souls itself is essentially a Metroidvania already). Debuting developers Mantra and Sinergia Games have thrown their own hat into the ring in the form of Elderand, which further shows why this mix works, even if this particular concoction could do with being more potent.
+You take on the role of a nameless hunter who has washed up in a mysterious land with his crew dead and no bearings to work from. This place is filled with a litany of monsters and threats, and throughout your journey, you unravel a tense plot involving a cult, a serpent society, and a village under threat. While the story is a lot easier to follow than its FromSoftware inspirations, Elderand also tells a lot of its story through the use of item descriptions, letters found across the world, and environmental storytelling. Truth be told, the story didn’t do much for us, with a lot of it being omnipresent text flaring onto the screen. However, the worldbuilding impressed us, each of the game's areas feels cohesive, and you can really see the effects of events prior to the game beginning.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vydání systemd 253 přináší nástroj pro vytváření UKI a podporu pro tokeny FIDO2]]></title>
+        <id>www.root.cz-actuality-44478</id>
+        <link href="https://www.root.cz/zpravicky/vydani-systemd-253-prinasi-nastroj-pro-vytvareni-uki-a-podporu-pro-tokeny-fido2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-16T07:52:51.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři uvolnili novou verzi balíku utilit pro správu linuxového operačního systému systemd 253. Novinek je velká spousta, ale ty nejpodstatnější zahrnují novou utilitu ukify, která pomůže s vytvářením a podepisováním obrazů UKI (Unified Kernel Images) pro zjednodušení bootovacího procesu celého systému.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel vydal mikrokód opravující dvě zranitelnosti SGX a neoprávněné zvýšení oprávnění]]></title>
+        <id>www.root.cz-actuality-44477</id>
+        <link href="https://www.root.cz/zpravicky/intel-vydal-mikrokod-opravujici-dve-zranitelnosti-sgx-a-neopravnene-zvyseni-opravneni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-16T07:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Intel odhalila tři desítky problémů ve svých procesorech a pro současné procesory vydala nový mikrokód, který zmíněné chyby odstraňuje. Zároveň byly ohlášeny a opraveny tři zranitelnosti: INTEL-SA-00767, INTEL-SA-00738 a INTEL-SA-00700.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-timové jádro pro Ubuntu je nyní dostupné v Ubuntu Pro]]></title>
+        <id>www.root.cz-actuality-44476</id>
+        <link href="https://www.root.cz/zpravicky/real-timove-jadro-pro-ubuntu-je-nyni-dostupne-v-ubuntu-pro/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-16T07:18:50.000Z</updated>
+        <summary type="html"><![CDATA[Přibližně před rokem se s vydáním Ubuntu 22.04 LTS objevila také beta verze jádra pro práci v reálném čase, která měla pomoci s nasazením Ubuntu v průmyslovém prostředí, automobilovém průmyslu a dalších podobných odvětvích. Letos na Valentýna bylo real-timové jádro Ubuntu uvolněno pro všechny.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dependency Injection ještě jednou]]></title>
+        <id>www.root.cz-text-16456</id>
+        <link href="https://www.root.cz/clanky/dependency-injection-jeste-jednou/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-16T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[U předešlého článku se nám rozhořela pěkná diskuze. Rozhodl jsem se, že napíšu ještě jeden článek čistě na toto téma bez ohledu na PHP Jet. Tentokrát to bude pouze na téma návrh software.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find us and your fellow Raspberry Pi enthusiasts at an event near you]]></title>
+        <id>https://www.raspberrypi.com/?p=93031</id>
+        <link href="https://www.raspberrypi.com/news/find-us-and-your-fellow-raspberry-pi-enthusiasts-at-an-event-near-you/"/>
+        <updated>2023-02-16T06:36:07.000Z</updated>
+        <summary type="html"><![CDATA[For many years, Raspberry Pi enthusiasts have gathered in person to meet each other, show off their projects, share knowledge, and learn new skills. To support these gatherings, we’ve brought back our event listings website so that you can locate Raspberry Pi community events — often called Raspberry Jams — which happen all over the world.
+The post Find us and your fellow Raspberry Pi enthusiasts at an event near you appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Matt Richardson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Play MLB The Show 23 On Switch For Free Ahead Of Release (North America)]]></title>
         <id>https://www.nintendolife.com/#article-144637</id>
@@ -45,9 +119,9 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disney Dreamlight Valley Gets New Update, Here Are The Full Patch Notes]]></title>
+        <title type="html"><![CDATA[Disney Dreamlight Valley Gets A Massive New Update, Patch Notes Detailed]]></title>
         <id>https://www.nintendolife.com/#article-145224</id>
-        <link href="https://www.nintendolife.com/news/2023/02/disney-dreamlight-valley-gets-new-update-here-are-the-full-patch-notes"/>
+        <link href="https://www.nintendolife.com/news/2023/02/disney-dreamlight-valley-gets-a-massive-new-update-patch-notes-detailed"/>
         <updated>2023-02-16T01:25:00.000Z</updated>
         <summary type="html"><![CDATA[New content, new features & more.
 We got a teaser of the next Disney Dreamlight Valley patch last week and now Gameloft has released the full patch notes ahead of the 16th February launch.
@@ -70,9 +144,9 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dragon Ball: The Breakers - Season 2 Launches Today, Here's What's Included]]></title>
+        <title type="html"><![CDATA[Dragon Ball: The Breakers - Season 2 Launches Today, Adds A New Raider & Map]]></title>
         <id>https://www.nintendolife.com/#article-145162</id>
-        <link href="https://www.nintendolife.com/news/2023/02/dragon-ball-the-breakers-season-2-launches-today-heres-whats-included"/>
+        <link href="https://www.nintendolife.com/news/2023/02/dragon-ball-the-breakers-season-2-launches-today-adds-a-new-raider-and-map"/>
         <updated>2023-02-16T00:55:00.000Z</updated>
         <summary type="html"><![CDATA[The Prince of Saiyans has arrived.
 Update : Ahead of the Season 2 launch, Bandai Namco has now shared an extensive list of patch notes for Version 2.0.0. Here's exactly what you can expect (Bandai Namco via Nintendo Everything):
@@ -1705,19 +1779,6 @@ Taking a seat at an empty table, Hannah stares at the bowl. Atop her soup is a s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talking Point: 20 Years Of The Best Game Boy Ever - How Did You Get Your GBA SP?]]></title>
-        <id>https://www.nintendolife.com/#article-144351</id>
-        <link href="https://www.nintendolife.com/features/talking-point-20-years-of-the-best-game-boy-ever-how-did-you-get-your-gba-sp"/>
-        <updated>2023-02-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Love letters to our SPecial ones.
-
-On 14th February 2003, Nintendo gave Japanese gamers a Valentine's to remember when it released the Game Boy Advance SP.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wanted: Dead review: third-person action that's more dead than alive]]></title>
         <id>https://www.rockpapershotgun.com/wanted-dead-review-third-person-action-thats-more-dead-than-alive</id>
         <link href="https://www.rockpapershotgun.com/wanted-dead-review-third-person-action-thats-more-dead-than-alive"/>
@@ -3223,16 +3284,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP Jet: Dependency Injection, továrny a tak dále]]></title>
-        <id>www.root.cz-text-16445</id>
-        <link href="https://www.root.cz/clanky/php-jet-dependency-injection-tovarny-a-tak-dale/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-10T09:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Dnešní článek bude opět o softwarové architektuře a filozofii frameworku PHP Jet. Tentokrát se podíváme na zajímavé téma Dependency Injection, továren a další zajímavé věci.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Experimentální jádro 6.1 pro Raspberry Pi - aktualizace]]></title>
         <id>www.root.cz-actuality-44460</id>
         <link href="https://www.root.cz/zpravicky/experimentalni-jadro-6-1-pro-raspberry-pi-aktualizace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3640,16 +3691,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.root.cz/zpravicky/nist-standardizuje-sifrovaci-algoritmy-ascon-pro-iot-a-drobna-zarizeni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-02-09T07:26:21.000Z</updated>
         <summary type="html"><![CDATA[Americký National Institute of Standards and Technology (NIST) oznámil, že rodina ověřených šifrovacích a hašovacích algoritmů známá jako Ascon bude standardizována pro aplikace lehké kryptografie. Vybrané algoritmy jsou určeny k ochraně informací vytvářených a přenášených internetem věcí (IoT), včetně mnoha různých drobných senzorů a akčních členů, uvádí NIST ve svém oznámení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora Asahi SIG se zaměří na počítače firmy Apple]]></title>
-        <id>www.root.cz-actuality-44456</id>
-        <link href="https://www.root.cz/zpravicky/fedora-asahi-sig-se-zameri-na-pocitace-firmy-apple/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-09T07:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Eric Curtin na své přednášce na konferenci FOSDEM upozornil na vznik nové pracovní skupiny (SIG – special interest group) zaměřené na provoz distribuce Fedora na počítačích od společnosti Apple s čipy architektury ARM. Cílem je pomoci komunitě Asahi s upstreamem a poskytnout Fedora Workstation založenou na ARM pro ty, kteří vlastní hardware s Apple Silicon, říká Curtin.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
@@ -4337,26 +4378,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Americká CISA zveřejnila nástroj pro obnovu serverů napadených ransomwarem ESXiArgs]]></title>
-        <id>www.root.cz-actuality-44455</id>
-        <link href="https://www.root.cz/zpravicky/americka-cisa-zverejnila-nastroj-pro-obnovu-serveru-napadenych-ransomwarem-esxiargs/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-08T10:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Americký úřad Cybersecurity and Infrastructure Security Agency (CISA) zveřejnil nástroj pro obnovu dat na serverech VMware ESXi, které byly napadeny ransomwarem ESXiArgs. Jedná se o shellový skript ESXiArgs-Recover, který je možné stáhnout na GitHubu. Na většině napadených serverů nedošlo k zašifrování virtuálních disků, ale jen konfiguračních souborů. Proto je možné pomocí skriptu jednoduše znovu vytvořit konfiguraci podle metadat a službu obnovit.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V Brně vznikne centrum pro open source: Czech National OSPO]]></title>
-        <id>www.root.cz-actuality-44454</id>
-        <link href="https://www.root.cz/zpravicky/v-brne-vznikne-centrum-pro-open-source-czech-national-ospo/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-08T10:29:51.000Z</updated>
-        <summary type="html"><![CDATA[Tým Ivana Bartoše během nedávného předsednictví Česka v Radě EU uspořádal open source konferenci v Brně, kde vznikla deklarace, která mimo jiné počítá s tím, že se z moravské metropole stane národní centrum open source. Konkrétně zde má vzniknout Czech National OSPO – Open Source Program Office. To jsou jednotky, které si vytvářejí IT společnosti a veřejné instituce, aby udržovaly vztahy s open-source komunitou. O celém plánu dnes píše Lupa.cz.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cities: Skylines Gets Remastered For PS5 And Xbox Series X/S Next Week]]></title>
         <id>119939</id>
         <link href="https://www.gameinformer.com/2023/02/08/cities-skylines-gets-remastered-for-ps5-and-xbox-series-xs-next-week"/>
@@ -4369,16 +4390,6 @@ Read more]]></summary>
 <p>This new ver…]]></summary>
         <author>
             <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 110 vylepšuje správce hesel a přináší podporu Nvidia RTX Super Resolution]]></title>
-        <id>www.root.cz-actuality-44453</id>
-        <link href="https://www.root.cz/zpravicky/chrome-110-vylepsuje-spravce-hesel-a-prinasi-podporu-nvidia-rtx-super-resolution/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-08T08:30:59.000Z</updated>
-        <summary type="html"><![CDATA[Po předběžném vydání pro úzkou skupinu uživatelů je tu veřejná verze prohlížeče Chrome 110 pro Windows, macOS a Linux. Log změn je velmi dlouhý, byly záplatovány objevené bezpečnostní chyby, ale dočkali jsme se i několika vylepšení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -5046,17 +5057,6 @@ The post How to build a toy chatterbox appeared first on Raspberry Pi.]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet Kevin McAleer: Teacher, maker, builder, programmer, 3D printer, and all-round Renaissance man]]></title>
-        <id>https://www.raspberrypi.com/?p=91770</id>
-        <link href="https://www.raspberrypi.com/news/meet-kevin-mcaleer-teacher-maker-builder-programmer-3d-printer-and-all-round-renaissance-man/"/>
-        <updated>2023-02-02T08:40:54.000Z</updated>
-        <summary type="html"><![CDATA[Starting with an obsession with modular printed robots, then MicroPython, then livestreaming, Kevin has built up kevsrobots.com into a great resource for anyone who wants to get started.
-The post Meet Kevin McAleer: Teacher, maker, builder, programmer, 3D printer, and all-round Renaissance man appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Andrew Gregory</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Goodoffer24 říká – v únoru dáte za doživotní licenci Windows 10 jen €12 a za Office €23]]></title>
         <id>http://www.abclinuxu.cz/clanky/goodoffer24-rika-vunoru-date-za-dozivotni-licenci-windows-10-jen-12-a-za-office-23</id>
         <link href="http://www.abclinuxu.cz/clanky/goodoffer24-rika-vunoru-date-za-dozivotni-licenci-windows-10-jen-12-a-za-office-23"/>
@@ -5236,32 +5236,6 @@ Webkit Version 1.7.0-alpha01
 Webkit Version 1.6.0]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Giraffe Canary 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-1-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/01/android-studio-giraffe-canary-1-now.html"/>
-        <updated>2023-01-17T18:27:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Giraffe | 2022.3.1 Canary 1 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Giraffe, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.    
-The following is list of general fixes in Android Studio Giraffe Canary 1. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate t…]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Flamingo Beta 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-beta-1-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/01/android-studio-flamingo-beta-1-now.html"/>
-        <updated>2023-01-17T18:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Flamingo | 2022.2.1 Beta 1 is now available in the Beta channels.
- If you already have an Android Studio build on the Beta channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
- For information on new features and changes in all preview builds of Android Studio Flamingo, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
- The following is list of general fixes in Android Studio Flamingo Beta 1. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that i…]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
