@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-19T16:12:58.580Z</id>
+    <id>urn:2023-02-19T18:12:17.339Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-02-19T16:12:58.580Z</updated>
+    <updated>2023-02-19T18:12:17.339Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Linux 6.3 Merge Window To Bring Many Exciting Features]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.3-Exciting-Start</id>
+        <link href="https://www.phoronix.com/news/Linux-6.3-Exciting-Start"/>
+        <updated>2023-02-19T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Linux 6.2 merge window is expected to be released in the next few hours and in turn will then formally kick-off the start of the two week long merge window for what will become Linux 6.3. Here's a look ahead at some of the kernel changes expected in this next kernel cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU Debugger 13.1 Brings LoongArch & C-SKY Debugging On Linux, Zstd Debug Sections]]></title>
+        <id>https://www.phoronix.com/news/GNU-Debugger-GDB-13.1</id>
+        <link href="https://www.phoronix.com/news/GNU-Debugger-GDB-13.1"/>
+        <updated>2023-02-19T16:28:38.000Z</updated>
+        <summary type="html"><![CDATA[GDB 13.1 is out today as the newest version of the GNU Debugger for this open-source code debugging solution...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debian Installer Bookworm Alpha 2]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/debian-installer-bookworm-alpha-2</id>
@@ -46,6 +66,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intel's Many Driver Improvements For Linux 6.3 From Meteor Lake To Granite Rapids]]></title>
+        <id>https://www.phoronix.com/news/Intel-Linux-6.3-Changes</id>
+        <link href="https://www.phoronix.com/news/Intel-Linux-6.3-Changes"/>
+        <updated>2023-02-19T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday I provided a glimpse of the AMD changes coming to Linux 6.3 while today the table is turned and looking at the Intel changes on deck for this next Linux kernel version...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Linux 6.3 Brings Audio Support For Tesla's Full Self-Driving SoC]]></title>
         <id>https://www.phoronix.com/news/Linux-6.3-Sound-Changes</id>
         <link href="https://www.phoronix.com/news/Linux-6.3-Sound-Changes"/>
@@ -66,16 +96,6 @@ Speaking to Polygon, Nintendo's Shigeru Miyamoto mentioned how Splatoon was one 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Many Driver Improvements For Linux 6.3 From Meteor Lake To Granite Rapids]]></title>
-        <id>https://www.phoronix.com/news/Intel-Linux-6.3-Changes</id>
-        <link href="https://www.phoronix.com/news/Intel-Linux-6.3-Changes"/>
-        <updated>2023-02-19T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday I provided a glimpse of the AMD changes coming to Linux 6.3 while today the table is turned and looking at the Intel changes on deck for this next Linux kernel version...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2656,16 +2676,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[systemd 253 Released With Ukify Tool, systemd-cryptenroll Unlocking Via FIDO2 Tokens]]></title>
-        <id>https://www.phoronix.com/news/systemd-253</id>
-        <link href="https://www.phoronix.com/news/systemd-253"/>
-        <updated>2023-02-15T19:30:47.000Z</updated>
-        <summary type="html"><![CDATA[After going through several release candidates the past few weeks, systemd 253 has officially shipped today as the newest version of this init system and service manager for Linux systems...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This basic monitor arm is down to $22.79 after two coupon codes]]></title>
         <id>https://www.rockpapershotgun.com/this-basic-monitor-arm-is-down-to-2279-after-two-coupon-codes</id>
         <link href="https://www.rockpapershotgun.com/this-basic-monitor-arm-is-down-to-2279-after-two-coupon-codes"/>
@@ -2731,16 +2741,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Chris Wallace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 23.04 & Debian Prepare For Updated GNOME Triple Buffering Optimization]]></title>
-        <id>https://www.phoronix.com/news/GNOME-Triple-Buffering-23.04</id>
-        <link href="https://www.phoronix.com/news/GNOME-Triple-Buffering-23.04"/>
-        <updated>2023-02-15T17:55:34.000Z</updated>
-        <summary type="html"><![CDATA[For the past few years Ubuntu developer Daniel van Vugt at Canonical has been working on dynamic triple buffering support for the GNOME desktop so that it will switch from double to triple buffering when the GPU is running behind in order to ultimately ramp up the GPU clock speeds / performance state in order to get back to delivering a fluid desktop experience. These triple buffering patches still haven't been upstreamed as of the GNOME 44 release due out next month, but the patches continue to be carried within Debian and Ubuntu among other distributions. An updated version of the code is now on the way to Debian and for April's Ubuntu 23.04 release...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
