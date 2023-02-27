@@ -1,10 +1,122 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-02-27T10:13:24.140Z</id>
+    <id>urn:2023-02-27T12:21:58.111Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-02-27T10:13:24.140Z</updated>
+    <updated>2023-02-27T12:21:58.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Red And Blue Soundtrack Now Available For Stream And Download]]></title>
+        <id>https://www.nintendolife.com/#article-145742</id>
+        <link href="https://www.nintendolife.com/news/2023/02/pokemon-red-and-blue-soundtrack-now-available-for-stream-and-download"/>
+        <updated>2023-02-27T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You'll likely need VPN access though.
+As we celebrate Pokémon Day, the Pokémon Company has released the entire soundtrack for Pokémon Red and Blue (or Green, if you like) for streaming and download.
+The catch is that the Pokémon Sound Library website is region locked to Japan and Asia, meaning you'll need a VPN if you're going to access it. If you're able to visit the site, however, you'll have access to all 45 tracks from the original soundtrack with the ability to download individual .wav versions of each piece of music. The Pokémon Company states that you're free to use the music however you wish so long as you're not generating any revenue from it.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Echoes Within looks like the biggest update to Halo Infinite since launch]]></title>
+        <id>https://www.rockpapershotgun.com/echoes-within-looks-like-the-biggest-update-to-halo-infinite-since-launch</id>
+        <link href="https://www.rockpapershotgun.com/echoes-within-looks-like-the-biggest-update-to-halo-infinite-since-launch"/>
+        <updated>2023-02-27T11:55:47.000Z</updated>
+        <summary type="html"><![CDATA[Halo Infinite has been in an extended slump since its second season began 10-months ago, but 343 Industries are hoping to turn things around when Season 3: Echoes Within starts next week on March 7th. Echoes Within is undeniably the biggest update to Infinite since launch, as it’s adding new maps, weapons and equipment, and expanding the multiplayer’s narrative - which has been a series of perpetual teases so far.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Kaan Serin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.3.242 Released With New NVIDIA Low-Latency Extension]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.3.242-Released</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.3.242-Released"/>
+        <updated>2023-02-27T11:50:00.000Z</updated>
+        <summary type="html"><![CDATA[The Vulkan 1.3.242 spec is now available with a handful of clarifications and fixes to the existing text as well as introducing the new VK_NV_low_latency extension...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Inadvertently Has Been Leaving IBRS-Mitigated Systems Without STIBP]]></title>
+        <id>https://www.phoronix.com/news/Linux-IBRS-With-STIBP-Patch</id>
+        <link href="https://www.phoronix.com/news/Linux-IBRS-With-STIBP-Patch"/>
+        <updated>2023-02-27T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Linux kernel since last year has mistakenly left systems relying on the original Indirect Branch Restricted Speculation (IBRS) for Spectre V2 mitigation without Single Threaded Indirect Branch Predictor (STIBP) coverage for cross-HyperThread dealing with this Spectre vulnerability. There is a patch underway that is resolving this issue for Intel Skylake era systems...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nokia má nové logo]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/nokia-ma-nove-logo</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/nokia-ma-nove-logo"/>
+        <updated>2023-02-27T11:23:12.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Nokia má nové logo (AOCIA).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RADV Working Toward D3D12 FL 12.2 Support With VKD3D-Proton]]></title>
+        <id>https://www.phoronix.com/news/RADV-primitiveUnderestimation</id>
+        <link href="https://www.phoronix.com/news/RADV-primitiveUnderestimation"/>
+        <updated>2023-02-27T11:09:40.000Z</updated>
+        <summary type="html"><![CDATA[The Mesa Radeon Vulkan driver "RADV" is seeing work towards being able to support Direct3D 12 Feature Level 12.2 with VKD3D-Proton to further enhance the Steam Play gaming experience on Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Getting Quirk For Working NVMe PCIe On Surface Pro X, ThinkPad X13s]]></title>
+        <id>https://www.phoronix.com/news/Linux-NVMe-PCIe-Surface-Pro-X</id>
+        <link href="https://www.phoronix.com/news/Linux-NVMe-PCIe-Surface-Pro-X"/>
+        <updated>2023-02-27T10:50:48.000Z</updated>
+        <summary type="html"><![CDATA[A change made to the Linux kernel back in 2016 is causing issues with NVMe PCIe support on some ARM64 devices like the Microsoft Surface Pro X and Lenovo ThinkPad X13s. A new kernel quirk is on the way for aiming to address that and yield working NVMe storage...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BFQ plánovač bude je optimalizován pro disky se dvěma nezávislými sadami hlaviček]]></title>
+        <id>www.root.cz-actuality-44505</id>
+        <link href="https://www.root.cz/zpravicky/bfq-planovac-bude-je-optimalizovan-pro-disky-se-dvema-nezavislymi-sadami-hlavicek/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-02-27T10:43:41.000Z</updated>
+        <summary type="html"><![CDATA[O rotačních discích se dvěma nezávislými sadami hlaviček jsme tu již psali. Jde například o Seagate MACH.2. Jedna sada hlaviček má na starosti spodní polovinu LBA a druhá horní polovinu.  Podpora pro tyto disky je v jádře od 5.16, ale zatím jádro jen ví, které adresy se dají číst odděleně pomocí  /sys/block/sd*/queue/independent_access_ranges/ .]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony vs. Datel: Game Cheat Copyright Questions Referred to EU’s Top Court]]></title>
+        <id>https://torrentfreak.com/?p=231688</id>
+        <link href="https://torrentfreak.com/sony-vs-datel-game-cheat-copyright-questions-referred-to-eus-top-court-230227/"/>
+        <updated>2023-02-27T10:38:33.000Z</updated>
+        <summary type="html"><![CDATA[After more than a decade of litigation in Germany, key questions emerging from a Sony lawsuit targeting cheat maker Datel have been referred to Europe's highest court. The lawsuit concerns cheat mechanisms created for Sony's long-dead Playstation Portable that affected gameplay but ran alongside copyrighted code without directly modifying it.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Activision reconfirms 2023 will see a new Call of Duty release]]></title>
+        <id>https://www.destructoid.com/?p=365725</id>
+        <link href="https://www.destructoid.com/call-of-duty-2023-release-sequel-activision-sledgehammer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=call-of-duty-2023-release-sequel-activision-sledgehammer"/>
+        <updated>2023-02-27T10:30:31.000Z</updated>
+        <summary type="html"><![CDATA[Annual series initially looked to be taking a year off
+Activision has re-confirmed that it intends to release a brand new Call of Duty release in 2023, responding to suggestions that the series would be taking time out this year to focus on DLC and additional content for Call of Duty: Modern Warfare 2 and Call of Duty: Warzone.
+But, following a recent report by Bloomberg, the publisher reached out to new outlets to confirm that a new, premium Call of Duty game will launch in 2023, though further details on the title were not forthcoming. According to Bloomberg, developer Sledgehammer Games had initially begun the project as MW2 DLC, but the scope and scale of the project have seen it expanded into its own title — an "extension" of sorts for the MW2 narrative/timeline.
+It should also be noted that while 2021 release Call of Duty: Vanguard was one of the weakest-selling entries in recent years, Modern Warfare 2 was a resounding success, having the most lucrative launch in Call of Duty history, as well as being the fastest title in the series to reach the $1 billion sales milestone. While this is purely speculation, it's not hard to imagine Activision's "skip a year" plan was a response to Vanguard's sales, with MW2's staggering success quickly putting paid to that tentative decision.
+Call of Duty 2023 is currently in development at Sledgehammer Games.
+The post Activision reconfirms 2023 will see a new Call of Duty release appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nasaďte moderní web server s Nginx (online školení)]]></title>
         <id>www.root.cz-actuality-38548</id>
@@ -1440,19 +1552,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Poll: Octopath Traveler II Is Out Now, Which Character Will You Start With?]]></title>
-        <id>https://www.nintendolife.com/#article-145412</id>
-        <link href="https://www.nintendolife.com/features/poll-octopath-traveler-ii-is-out-now-which-character-will-you-start-with"/>
-        <updated>2023-02-24T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eighth time's a charm.
-It's time lose yourself in the lush world of HD-2D all over again — Octopath Traveler II is out today on Switch (and PS4, PS5, and PC of course). Announced only last September, this surprise sequel does everything a follow up should do — it improves on every single aspect of the original while also staying faithful to it.
-The premise, for instance, is exactly the same as the first Octopath Traveler — before you even dive into the world of Solistia, you need to choose your starting character, the character who will lead your party. And just like in the first game, you can't take out your first character until you've completed their entire story. So choose wisely!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD-Xilinx XDMA Driver Being Merged For Linux 6.3]]></title>
         <id>https://www.phoronix.com/news/AMD-Xilinx-XDMA-Linux-6.3</id>
         <link href="https://www.phoronix.com/news/AMD-Xilinx-XDMA-Linux-6.3"/>
@@ -2200,35 +2299,6 @@ The post Let’s watch the first PlayStation State of Play of 2023 appeared firs
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Nintendo is getting physical Pokemon Scarlet and Violet rewards soon (Update)]]></title>
-        <id>https://www.destructoid.com/?p=350861</id>
-        <link href="https://www.destructoid.com/my-nintendo-is-getting-physical-pokemon-scarlet-and-violet-rewards-soon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=my-nintendo-is-getting-physical-pokemon-scarlet-and-violet-rewards-soon"/>
-        <updated>2023-02-23T20:10:35.000Z</updated>
-        <summary type="html"><![CDATA[A notebook and a highlighter set
-[Update: Well, "soon" ended up being three months! You can find both of the below rewards on this My Nintendo page.]
-Another first part Nintendo release: another My Nintendo reward. This time Pokemon Scarlet and Violet is getting an expected physical item release, and it actually entails two things.
-Here's all we know at the moment:
-"Two new rewards - Pokemon Scarlet and Pokemon Violet partner pokemon mini-notebook and Pokemon Scarlet and Pokemon Violet violet highlighter with case are coming. Stay tuned for more info."
-
-The notebook is adorned with iconography of the new generational starters, and the highlighter set is themed after the two legendaries (and the coloring of Scarlet and Violet itself). It's hard to say what point value these could clock in at when they hit the system, but count on at least 500 Platinum Points per item.
-Also, it's very important to note that nearly all Pokemon items (even the crossover keychain with Splatoon 3) "sell out" of My Nintendo stock shortly after they launch. Make sure you have the points for the one(s) you want!
-As a reminder, if you want physical rewards, you can find our full Platinum Point guide here, which has been updated with details on weekly missions: bookmark it for when you need quick points for a reward. A handful of points is incredibly easy to get, as that’s basically just 15 minutes with Super Mario Run, or a quick sign-on to the 3DS or Wii U 3Shop. Also remember that any shipments are bundled together, so you can pay a flat rate for multiple items instead of paying it each time. Just know that items go out of stock on My Nintendo frequently, and some are never restocked.
-The post My Nintendo is getting physical Pokemon Scarlet and Violet rewards soon (Update) appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Chris Carter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel TPMI Driver Merged As Part Of x86 Platform Driver Updates For Linux 6.3]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.3-platform-drivers-x86</id>
-        <link href="https://www.phoronix.com/news/Linux-6.3-platform-drivers-x86"/>
-        <updated>2023-02-23T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The x86 platform driver updates were merged this week into the Linux 6.3 kernel and include the initial Intel TPMI integration along with several other driver changes...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Metroid Prime Remastered Is Selling Out, Going For $100+ On eBay]]></title>
         <id>1850151219</id>
         <link href="https://kotaku.com/metroid-prime-remastered-sold-out-ebay-restock-switch-1850151219"/>
@@ -2278,16 +2348,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04.2 LTS Released With Linux 5.19 HWE Stack Option]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-22.04.2-LTS-Released</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-22.04.2-LTS-Released"/>
-        <updated>2023-02-23T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Following a small delay, Ubuntu 22.04.2 LTS has been released as the latest point release for this current Long Term Support series for Ubuntu Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Comic Art Gets Copyright Revoked After Office Learns How AI Works]]></title>
         <id>1850150702</id>
         <link href="https://kotaku.com/ai-comic-art-copyright-midjourney-revoked-1850150702"/>
@@ -2307,16 +2367,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender Shifting To Three Releases Per Year, Blender 4.0 In November]]></title>
-        <id>https://www.phoronix.com/news/Blender-4.0-Release-Schedule</id>
-        <link href="https://www.phoronix.com/news/Blender-4.0-Release-Schedule"/>
-        <updated>2023-02-23T18:05:01.000Z</updated>
-        <summary type="html"><![CDATA[While the Blender open-source 3D modeling software decided three years ago that they would aim for quarterly releases and so delivering four releases per year, they have now decided to shift to delivering just three releases per year...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2381,16 +2431,6 @@ It’s easy to describe Bellular Studio’s survival sim as just ‘Frostpunk on
 Read more]]></summary>
         <author>
             <name>Rachel Watts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.3 NFSD Adds AES-SHA2 Encryption, Memory Safety Improvements]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.3-NFS</id>
-        <link href="https://www.phoronix.com/news/Linux-6.3-NFS"/>
-        <updated>2023-02-23T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Network File-System (NFS) client and server changes have landed for the in-development Linux 6.3 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2552,16 +2592,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GParted a GParted Live 1.5.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/gparted-a-gparted-live-1.5.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/gparted-a-gparted-live-1.5.0"/>
-        <updated>2023-02-23T12:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 1.5.0 grafického správce diskových oddílů GParted (GNOME Partition Editor) a také verze 1.5.0 živé distribuce GParted Live, která obsahuje tohoto správce a další nástroje pro zálohování či obnovu dat. Linux byl povýšen na verzi 6.1.12.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4392,16 +4422,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Závažná zranitelnost ClamAV pomocí upravených souborů HFS+ a DMG]]></title>
-        <id>www.root.cz-actuality-44482</id>
-        <link href="https://www.root.cz/zpravicky/zavazna-zranitelnost-clamav-pomoci-upravenych-hfs-a-dmg-souboru-aktualizujte/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-17T09:48:07.000Z</updated>
-        <summary type="html"><![CDATA[V open-source antivirovém programu ClamAV byly ve středu nalezeny dvě závažné zranitelnosti CVE-2023–20032 a CVE-2023–20052. Chybu nalezl Simon Scannell z Google. Jde o přetečení na haldě (heap buffer overflow) při zpracování obrazů souborového systému HFS+ z macOS. Upraveným souborem je možné docílit spuštění libovolného kódu. Soubory DMG (Apple Disk Image) vnitřně obsahují HFS+.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sci-Hub Founder’s High Court Creativity Fails to Dismiss Publishers’ Lawsuit]]></title>
         <id>https://torrentfreak.com/?p=231217</id>
         <link href="https://torrentfreak.com/sci-hub-founders-high-court-creativity-fails-to-dismiss-publishers-lawsuit-230217/"/>
@@ -4638,19 +4658,6 @@ Hiroshi Tamura: For the remake, we wanted to pay great attention to the sound th
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep Rock Galactic devs launch publishing division Ghost Ship Publishing]]></title>
-        <id>https://www.rockpapershotgun.com/deep-rock-galactic-devs-launch-publishing-division-ghost-ship-publishing</id>
-        <link href="https://www.rockpapershotgun.com/deep-rock-galactic-devs-launch-publishing-division-ghost-ship-publishing"/>
-        <updated>2023-02-16T16:39:06.000Z</updated>
-        <summary type="html"><![CDATA[Ghost Ship Games have found major success with their co-op space-mining sim Deep Rock Galactic, and now they’re expanding into indie games publishing with Ghost Ship Publishing. The team have described the initiative as a launchpad for indies in the “rapidly growing Danish games industry and beyond.” Ghost Ship Publishing haven’t announced any games yet, but we’ll get to see their upcoming projects on March 2nd as part of Deep Rock Galactic’s fifth-anniversary livestream.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wild Hearts Review - A Bountiful Hunt]]></title>
         <id>119984</id>
         <link href="https://www.gameinformer.com/review/wild-hearts/a-bountiful-hunt"/>
@@ -4725,17 +4732,6 @@ Call of the Mountain is meant to be PlayStation VR2’s showcase piece, and in s
 Call of the Mountain features a perfunctory cameo from Aloy to remind you that you are in her world, but this gam…]]></summary>
         <author>
             <name>Kyle Hilliard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Call of Duty Cheaters Settle For Millions, Judge Issues Warning to Others]]></title>
-        <id>https://torrentfreak.com/?p=231185</id>
-        <link href="https://torrentfreak.com/two-call-of-duty-cheaters-settle-for-millions-judge-issues-warning-to-others-230216/"/>
-        <updated>2023-02-16T09:41:52.000Z</updated>
-        <summary type="html"><![CDATA[An Activision lawsuit alleging copyright infringement offenses against a group of alleged cheat makers and distributors continues to be eventful. The list of named defendants has grown recently, with the majority believed to reside outside the United States. For two of those defendants, an exit from the lawsuit seems imminent, due to settlement agreements worth a combined $3 million. 
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
