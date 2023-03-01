@@ -1,10 +1,184 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-01T10:12:29.408Z</id>
+    <id>urn:2023-03-01T12:21:50.284Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-01T10:12:29.408Z</updated>
+    <updated>2023-03-01T12:21:50.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux From Scratch a Beyond Linux From Scratch 11.3]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/linux-from-scratch-a-beyond-linux-from-scratch-11.3</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/linux-from-scratch-a-beyond-linux-from-scratch-11.3"/>
+        <updated>2023-03-01T12:15:11.000Z</updated>
+        <summary type="html"><![CDATA[Komunita kolem Linuxu From Scratch (LFS) vydala Linux From Scratch 11.3 a Linux From Scratch 11.3 se systemd. Nové verze knih s návody na instalaci vlastního linuxového systému ze zdrojových kódů přichází s Glibc 2.37, Binutils 2.40 nebo Linuxem 6.1.11. Současně bylo oznámeno vydání verze 11.3 knih Beyond Linux From Scratch (BLFS) a Beyond Linux From Scratch se systemd.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk 2077 joins the list of Steam Deck verified games]]></title>
+        <id>https://www.rockpapershotgun.com/cyberpunk-2077-joins-the-list-of-steam-deck-verified-games</id>
+        <link href="https://www.rockpapershotgun.com/cyberpunk-2077-joins-the-list-of-steam-deck-verified-games"/>
+        <updated>2023-03-01T12:07:37.000Z</updated>
+        <summary type="html"><![CDATA[It’s 2023 and Cyberpunk 2077 finally works… on the Steam Deck, I mean (it’s worked elsewhere for a while now.) The open-world RPG has always been playable on the portable machine, but it’s now Steam Deck verified - meaning Valve have tested it and used their almighty wisdom to determine it’ll run without a hitch. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Kaan Serin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Increasing Linux Security On Hyper-V With VTL/VSM Support]]></title>
+        <id>https://www.phoronix.com/news/Hyper-V-Linux-VTL-VSM</id>
+        <link href="https://www.phoronix.com/news/Hyper-V-Linux-VTL-VSM"/>
+        <updated>2023-03-01T12:07:29.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft engineers continue to work heavily on enhancing the Linux support for Hyper-V considering that in the Azure public cloud at last report was more than 50% of their VMs running Linux. Microsoft has continued implementing more Hyper-V features within the Linux kernel and their latest is working on Virtual Trust Level (VTL) integration as part of Virtual Secure Mode (VSM) handling...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trippy FPS 'POST VOID' Is Bringing The DOOM Vibes To Switch This Month]]></title>
+        <id>https://www.nintendolife.com/#article-145871</id>
+        <link href="https://www.nintendolife.com/news/2023/03/trippy-fps-post-void-is-bringing-the-doom-vibes-to-switch-this-month"/>
+        <updated>2023-03-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Colourful chaos.
+We last heard about POST VOID — the grotesque, psychedelic FPS with more than a little DOOM inspiration sprinkled in — back in August of last year when the game was set for a September 2022 release. That, obviously, did not happen, but publisher Super Rare Originals has now announced that we will finally be able to dive into the void on 16th March. That's only two weeks away!
+Much like the classic FPS games that inspired it, POST VOID is all about making your way through a series of procedurally-generated levels as quickly as you can, shooting anything that stands in your way. One look at the gameplay in the above trailer and you will see that this title from developers YCJY is wild. Expect gory kills, crazy colours and a hefty dose of shredding rock thrown in for good measure.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xf86-video-modesetting TearFree Gets Fixed Up For A/V De-Synchronization Issue]]></title>
+        <id>https://www.phoronix.com/news/xf86-video-modesetting-Fix-TF</id>
+        <link href="https://www.phoronix.com/news/xf86-video-modesetting-Fix-TF"/>
+        <updated>2023-03-01T11:43:54.000Z</updated>
+        <summary type="html"><![CDATA[A few months back the generic xf86-video-modesetting X.Org driver added TearFree page-flipping support. The option eliminates screen tearing without the use of a compositor and was seen as a win by many for this generic DDX driver that works atop the modern DRM/KMS kernel drivers. But a rather annoying issue was discovered that could lead to audio/video synchronization problems was uncovered and is now fixed in the latest driver code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LoongArch With Linux 6.3 Enhances Security With KASLR]]></title>
+        <id>https://www.phoronix.com/news/LoongArch-Linux-6.3</id>
+        <link href="https://www.phoronix.com/news/LoongArch-Linux-6.3"/>
+        <updated>2023-03-01T11:30:42.000Z</updated>
+        <summary type="html"><![CDATA[Loongson engineers continue working to improve their MIPS64-derived, RISC-V-inspired LoongArch CPU architecture code. With the in-development Linux 6.3 kernel are yet more improvements, including now supporting Kernel Address Space Layout Randomization (KASLR) for better security...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risqué Anime RPG 'Mugen Souls' Splashes Onto Switch Next Month]]></title>
+        <id>https://www.nintendolife.com/#article-145868</id>
+        <link href="https://www.nintendolife.com/news/2023/03/risque-anime-rpg-mugen-souls-splashes-onto-switch-next-month"/>
+        <updated>2023-03-01T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Featuring turn-based combat and bubbly baths.
+Eastasiasoft has announced that Mugen Souls will be making its way to the Switch on April 27th, 2023.
+The turn-based RPG is a faithful adaptation of the Japanese original, retaining all content to make this the definitive way to experience the game. Players will explore free-roaming battle maps across expansive worlds, customise their characters' classes and costumes, and even take part in some hot springs mini-games.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Over 200 Apex Legends QA testers have been abruptly laid off by EA]]></title>
+        <id>https://www.rockpapershotgun.com/over-200-apex-legends-qa-testers-have-been-abruptly-laid-off-by-ea</id>
+        <link href="https://www.rockpapershotgun.com/over-200-apex-legends-qa-testers-have-been-abruptly-laid-off-by-ea"/>
+        <updated>2023-03-01T11:04:48.000Z</updated>
+        <summary type="html"><![CDATA[On Tuesday, EA abruptly laid off over 200 quality assurance testers at their LA office Baton Rouge, who were primarily working on their free-to-play battle royale Apex Legends. This news comes from a report by Kotaku which says the layoffs happened over a last-minute Zoom call, according to three of their sources. EA later confirmed the news, calling the layoffs part of their “ongoing global strategy” to expand the “distribution of our Apex Legends testing team.”
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Kaan Serin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200 Apex Legends testers reportedly fired in abrupt Zoom call]]></title>
+        <id>https://www.destructoid.com/?p=366409</id>
+        <link href="https://www.destructoid.com/apex-legends-qa-baton-rouge-layoffs-electronic-arts-ea/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=apex-legends-qa-baton-rouge-layoffs-electronic-arts-ea"/>
+        <updated>2023-03-01T11:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Baton Rouge studio decimated in shock announcement
+Electronic Arts has reportedly fired the testing team for its blockbuster hero shooter Apex Legends — According to a report by Kotaku, the publisher released the entirety of its Baton Rouge-based testing team — believed to be some 200 workers — in an 'out of the blue' Zoom call held yesterday.
+News of the layoffs came suddenly when affected employees took to social media, understandably stunned and upset at the event. According to other former workers, speaking anonymously with Kotaku, the team was called to an urgent, mandatory call with contracting agency Magnit Global at 08:00 on Tuesday morning, where they were informed that the entire Baton Rogue Apex Legends QA team was being disbanded, effective immediately.
+https://twitter.com/TopM…]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Březnový prodej – doživotní licence na Windows 10 za Goodoffer24 € 12 a Office za € 23!]]></title>
+        <id>http://www.abclinuxu.cz/clanky/breznovy-prodej-dozivotni-licence-na-windows-10-za-goodoffer24-12-a-office-za-23</id>
+        <link href="http://www.abclinuxu.cz/clanky/breznovy-prodej-dozivotni-licence-na-windows-10-za-goodoffer24-12-a-office-za-23"/>
+        <updated>2023-03-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ať už hledáte levnější cestu jak postavit nový počítač, nebo jen chcete upgradovat stárnoucí kopii Office, tento soubor nabídek od Goodoffer24 vám pomůže. Ceny, které nabízejí, jsou neskutečné, tak na co čekat?]]></summary>
+        <author>
+            <name>Reklama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.3 Now Suggests The BFQ I/O Scheduler When Building MMC/SD Support]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.3-MMC-BFQ-Suggests</id>
+        <link href="https://www.phoronix.com/news/Linux-6.3-MMC-BFQ-Suggests"/>
+        <updated>2023-03-01T10:56:12.000Z</updated>
+        <summary type="html"><![CDATA[The BFQ I/O scheduler has long been suited well for MMC/SD card storage devices with a single queue now finally with Linux 6.3 the Kconfig setup will suggest/imply that I/O scheduler to help ensure it gets built...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BitTorrent Seedbox Provider Handed Criminal Conviction Over Users’ Piracy]]></title>
+        <id>https://torrentfreak.com/?p=231751</id>
+        <link href="https://torrentfreak.com/bittorrent-seedbox-provider-handed-criminal-conviction-over-users-piracy-230301/"/>
+        <updated>2023-03-01T10:46:44.000Z</updated>
+        <summary type="html"><![CDATA[A man who rented out servers configured for BitTorrent file-sharing use has been handed a three-month suspended sentence in Denmark. Known as 'seedboxes', these pre-configured servers are not illegal per se, but when customers used the devices to break copyright law on known pirate sites, rightsholders held the server provider liable.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelda: Breath Of The Wild's Daruk Rocks Gorgeous New Statue, Pre-Orders Now Open]]></title>
+        <id>https://www.nintendolife.com/#article-145528</id>
+        <link href="https://www.nintendolife.com/news/2023/03/zelda-breath-of-the-wilds-daruk-rocks-gorgeous-new-statue-pre-orders-now-open"/>
+        <updated>2023-03-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to roll.
+Update : After being teased last week, we now have all the details on First 4 Figures' upcoming Daruk statue including that all-important pre-order information.
+The statue is set to release in Q4 of this year and will retail for the expected price of $169.99 without shipping costs. This is a little cheaper than prior First 4 Figures releases and it is made even more so by the reveal of an Early Bird offer, which brings the Goron statue down to $159.99 if ordered before 3rd April.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sons Of The Forest early access review: a gorgeous island filled with cannibals and little else so far]]></title>
+        <id>https://www.rockpapershotgun.com/sons-of-the-forest-early-access-review</id>
+        <link href="https://www.rockpapershotgun.com/sons-of-the-forest-early-access-review"/>
+        <updated>2023-03-01T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the best things a survival game can do is make you want to share your latest experiences with your family and friends At this, Sons Of The Forest succeeds in grand fashion. Often I found myself pausing the game so I could go find my brother and tell him about the latest Big Thing that had just happened. Some of the time, it's even for the right reasons. Perhaps I'd spotted a group of cannibals adopting some startlingly intelligent behaviour. Or maybe one of my NPC companions had just done something particularly endearing in front of me.
+Or, more likely, I'd witnessed another example of the incredible jankiness which, like the island's flesh-nibbling denizens, loves to raid and pillage its way through nearly every aspect of the game. Perhaps I'd just cut down a tree and watched it soar high into the air, glitching all over the place like some demonic new type of tree mutant. Maybe Kelvin had just taken my instruction to gather logs a bit too literally, and deconstructed the entire west side of my house while I wasn't looking.
+Sons Of The Forest's great strength is its ability to utterly transport you into its threatening, unsettling, but genuinely beautiful world. It quickly builds up the player's trust until they're ready to wholeheartedly buy into what at times feels like the next generation of open-world survival and crafting games. But then, at least in its current Early Access state, it breaks that trust just as quickly with a melange of unintuitive systems, game-breaking bugs, and a painful lack of content that makes one of the most gorgeous environments in games feel awfully hollow after a while.
+Read more]]></summary>
+        <author>
+            <name>Ollie Toms</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to unlock the Strand subclass in Destiny 2: Lightfall]]></title>
+        <id>https://www.destructoid.com/?p=366403</id>
+        <link href="https://www.destructoid.com/how-to-unlock-the-strand-subclass-in-destiny-2-lightfall/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-unlock-the-strand-subclass-in-destiny-2-lightfall"/>
+        <updated>2023-03-01T10:00:02.000Z</updated>
+        <summary type="html"><![CDATA[A paracausal superposition?
+It's finally here. Lightfall has been released for Guardians worldwide and with it comes the new Darkness subclass, Strand. The campaign reveals a lot of information about this mysterious new power, and Osiris is present to hold our hands and help us uncover its true capabilities. Some Guardians may remember Beyond Light, where the full power of Stasis wasn't readily available and some steps needed to be completed before we could wield it.
+Strand is no different, and there are some steps to follow to unlock the Strand subclass in Destiny 2. It's reasonably straightforward though, and it's an exciting adventure to set out on. In addition to being a devastating offensive tool, Strand can be used to create a grappling hook for ultra-fast world traversal, to give Gu…]]></summary>
+        <author>
+            <name>Cheri Faulkner</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Scarlet And Violet Tera Raid Bug Replaces Paradox Pokémon With Eggs]]></title>
         <id>https://www.nintendolife.com/#article-145860</id>
@@ -758,7 +932,7 @@ According to Takai, it all started with summons. 
         <id>https://www.rockpapershotgun.com/honkai-star-rail-is-a-stylish-turn-based-jrpg-with-very-similar-energy-to-genshin-impact</id>
         <link href="https://www.rockpapershotgun.com/honkai-star-rail-is-a-stylish-turn-based-jrpg-with-very-similar-energy-to-genshin-impact"/>
         <updated>2023-02-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the last few weeks I've spent a number of hours with Honkai: Star Rail's closed beta, and it certainly seems that MiHoYo's upcoming free-to-play RPG is hoping to capture a similar audience to Genshin Impact's. Star Rail's turn-based battles and JRPG leanings might be a bit of a departure from Genshin's open-world adventuring, but it's definitely, 100%, without a doubt, anime as heck. Oh, and very gacha. There's a lot of currencies. So many currencies. Still, I think it's shaping up to be a decent time.
+        <summary type="html"><![CDATA[Over the last few weeks I've spent a number of hours with Honkai: Star Rail's closed beta, and it certainly seems that MiHoYo's upcoming free-to-play RPG is hoping to capture a similar audience to Genshin Impact. Star Rail's turn-based battles and JRPG leanings might be a bit of a departure from Genshin's open-world adventuring, but it's definitely, 100%, without a doubt, anime as heck. Oh, and very gacha. There's a lot of currencies. So many currencies. Still, I think it's shaping up to be a decent time.
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
@@ -1766,19 +1940,6 @@ The post What’s your favorite Sega Mega Drive soundtrack? appeared first on De
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Meg's Monster - A One-Of-A-Kind Adventure That Hits You In The Feels]]></title>
-        <id>https://www.nintendolife.com/#article-145533</id>
-        <link href="https://www.nintendolife.com/reviews/switch-eshop/megs-monster"/>
-        <updated>2023-02-27T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Trust me, bro. You’re gonna cry.
-There are a lot of forgettable little indie RPGs floating around on the Nintendo Switch eShop, but it’d be a mistake to lump developer Odencat’s Meg’s Monster in with them. In fact, despite appearances of turn-based battles and an underworld filled with monsters to battle, we’d argue that Meg’s Monster isn’t an RPG at all, but rather a game that walks a fine line between the adventure and visual novel genres with light puzzles sprinkled in. It also has humour and heart in equal measure, making for a perfect little game to devote a weekend to.
-Meg’s Monster begins with the titular Meg waking up in a trash heap in the underworld. She soon meets two monsters, Golan and Roy. Golan is quite happy that a child-sized snack waltzed up to them. Roy, on the other hand, has eyes only for an oily substance known as Magic Tar. However, as Golan goes to gobble up Meg, they soon find out her cries trigger an apocalypse. Golan convinces the reluctant and nearly indestructible Roy to keep her safe as they try to find her mom by smuggling her out of the underworld.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Guardians of the Galaxy: Cloud Version to be temporarily delisted on Switch]]></title>
         <id>https://www.destructoid.com/?p=365973</id>
         <link href="https://www.destructoid.com/guardians-of-the-galaxy-cloud-version-temporarily-delisted-on-switch/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=guardians-of-the-galaxy-cloud-version-temporarily-delisted-on-switch"/>
@@ -1933,44 +2094,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Destiny 2: Lightfall preload information: install size and server downtime]]></title>
-        <id>https://www.destructoid.com/?p=365735</id>
-        <link href="https://www.destructoid.com/destiny-2-lightfall-preload-information-install-size-and-server-downtime/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=destiny-2-lightfall-preload-information-install-size-and-server-downtime"/>
-        <updated>2023-02-27T19:00:40.000Z</updated>
-        <summary type="html"><![CDATA[Our end begins
-Destiny 2: Lightfall is set for release on Tuesday, February 28, and players can expect a brand-new campaign mission, quality of life improvements, and the brand-new darkness subclass, Strand. Bungie usually brings plenty of content with its annual expansions and Lightfall is set to be no different.
-The team has already detailed its long-term plans for the game as well as the new subclass, Strand, and its abilities and new in-game vocabulary to be aware of. We've seen an emotional season finale during which Rasputin learned how to trust humanity again, and in doing so sacrificed himself to save the world from the clutches of Beyond Light's main protagonist, Eramis. As guardians globally are now in their final hours of frantically preparing for Lightfall, when can you expect …]]></summary>
-        <author>
-            <name>Cheri Faulkner</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Countdown: 3DS eShop Spotlight - HarmoKnight]]></title>
-        <id>https://www.nintendolife.com/#article-145690</id>
-        <link href="https://www.nintendolife.com/features/countdown-3ds-eshop-spotlight-harmoknight"/>
-        <updated>2023-02-27T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[#4 - Tempo-tation.
-For the month before the 3DS and Wii U eShops close for new purchases on 27th March, each day we're going to highlight a specific eShop game for one of those consoles and give a short pitch as to why we think it deserves your love and attention — before it's too late. The chance to add these to your library will be gone for good soon and, for one reason or another, these eShop-exclusives are close to our hearts.
-Today, Jim nominates HarmoKnight, a rhythm platformer from the team behind Pokémon...
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Should you run the Walking Wake / Iron Leaves event in Pokémon Scarlet & Violet?]]></title>
-        <id>https://www.destructoid.com/?p=365883</id>
-        <link href="https://www.destructoid.com/should-you-run-the-walking-wake-iron-leaves-event-in-pokemon-scarlet-violet/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=should-you-run-the-walking-wake-iron-leaves-event-in-pokemon-scarlet-violet"/>
-        <updated>2023-02-27T18:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Two new Paradox Pokemon appear
-Without even a minute to rest from the surprisingly difficult Pikachu event, Game Freak has given us another Tera Raid challenge to tackle. Just to keep us on our toes, this challenge is a notable departure from the events we've seen until now.
-Walkling Wake and Iron Leaves are two brand new Paradox Pokemon making their debut in Pokemon Scarlet & Violet. Like other Paradox Pokemon, these monsters feature incredible base stats that will be boosted even further via the Protosynthesis and Quark Drive abilities respectively. Both Pokemon can only be obtained via this event, which will run until March 12. Fortunately, Game Freak has specified these monsters “may be… obtainable through other methods,” so another opportunity to catch them may show up in the future.
-…]]></summary>
-        <author>
-            <name>Timothy Monbleau</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Armbian 23.02 ARM/RISC-V OS Released With Linux 6.1 LTS Kernel]]></title>
         <id>https://www.phoronix.com/news/Armbian-23.02-Released</id>
         <link href="https://www.phoronix.com/news/Armbian-23.02-Released"/>
@@ -2021,19 +2144,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Meta představila svou umělou inteligenci LLaMA (Large Language Model Meta AI). Máte na výběr mezi 7, 13, 30 a 65 miliardami parametrů (B čili billion v krátké škále). Pro srovnání ChatGPT založený na GPT-3 od OpenAI má parametrů 175 miliard.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poll: What Did You Think Of The February 2023 Pokémon Presents, Then?]]></title>
-        <id>https://www.nintendolife.com/#article-145769</id>
-        <link href="https://www.nintendolife.com/news/2023/02/poll-what-did-you-think-of-the-february-2023-pokemon-presents-then"/>
-        <updated>2023-02-27T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Feeling sleepy?
-Another Pokémon Presents showcase has come and gone, with new announcements including DLC for Pokémon Scarlet and Violet, a collaboration between Pokémon and Netflix in the form of Pokémon Concierge, the re-emergence of Pokémon Sleep, and more.
-We'll be honest, it wasn't quite the knockout showcase we were hoping for here at Nintendo Life. With the prior announcements that Pokémon Stadium and Pokémon Trading Card Game would be coming to Nintendo Switch Online, we were perhaps looking to be surprised with some release dates or — dare we say it — shadow drops.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2316,16 +2426,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The Linux kernel since last year has mistakenly left systems relying on the original Indirect Branch Restricted Speculation (IBRS) for Spectre V2 mitigation without Single Threaded Indirect Branch Predictor (STIBP) coverage for cross-HyperThread dealing with this Spectre vulnerability. There is a patch underway that is resolving this issue for Intel Skylake era systems...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nokia má nové logo]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/nokia-ma-nove-logo</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/nokia-ma-nove-logo"/>
-        <updated>2023-02-27T11:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Nokia má nové logo (AOCIA).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2697,36 +2797,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google & Intel Making Progress For More Firmware Flexibility Around FSP Blobs]]></title>
-        <id>https://www.phoronix.com/news/Google-Intel-More-FSP-Flexible</id>
-        <link href="https://www.phoronix.com/news/Google-Intel-More-FSP-Flexible"/>
-        <updated>2023-02-25T12:33:52.000Z</updated>
-        <summary type="html"><![CDATA[For modern Intel platforms supporting Coreboot whether it be for Chromebooks or on server platforms, they are still beholden to the Intel Firmware Support Package (FSP) binary blobs. But Google and Intel engineers have been working to enable more flexibility around the FSP binaries by being able to optionally reduce the amount of proprietary firmware executed on the CPU, optionally weeding out some of the optional FSP components, and optimizing the status quo to achieve greater boot speeds...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many Radeon RX 7000 Series "RDNA3" Fixes Land In Mesa 23.1]]></title>
-        <id>https://www.phoronix.com/news/Mesa-23.1-Many-RadeonSI-RDNA3</id>
-        <link href="https://www.phoronix.com/news/Mesa-23.1-Many-RadeonSI-RDNA3"/>
-        <updated>2023-02-25T12:19:22.000Z</updated>
-        <summary type="html"><![CDATA[For those with an AMD Radeon RX 7900 XT or RX 7900 XTX graphics card, the latest Mesa 23.1-devel code as of Friday has seen a number of fixes land for benefiting the GFX11/RDNA3 graphics processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE's Multi-Monitor Support Continues To Be Improved]]></title>
-        <id>https://www.phoronix.com/news/KDE-Better-Multi-Monitor-2023</id>
-        <link href="https://www.phoronix.com/news/KDE-Better-Multi-Monitor-2023"/>
-        <updated>2023-02-25T12:07:48.000Z</updated>
-        <summary type="html"><![CDATA[While last week brought the Plasma 5.27 release as the last feature update to the Plasma 5 series, KDE developers haven't letup in their development efforts with this week continuing to be quite busy for the developers from bug fixing to new features...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Media Sowed Piracy Panic For Years, Their VPN Ads Now Panic Hollywood]]></title>
         <id>https://torrentfreak.com/?p=231300</id>
         <link href="https://torrentfreak.com/media-sowed-piracy-panic-now-their-vpn-promos-panic-hollywood-230225/"/>
@@ -2735,16 +2805,6 @@ Read more...]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.3 ARM64 Changes Land With SME 2 & SME 2.1 Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.3-ARM64-AArch64</id>
-        <link href="https://www.phoronix.com/news/Linux-6.3-ARM64-AArch64"/>
-        <updated>2023-02-25T11:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Along with all of the Arm SoC and board updates that were merged to the mainline Linux 6.3 kernel earlier in the week, the ARM64 (AArch64) architecture changes have also landed for this next Linux kernel version...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4597,17 +4657,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atomic Heart review: a mad science experiment that yields mixed results]]></title>
-        <id>https://www.rockpapershotgun.com/atomic-heart-review</id>
-        <link href="https://www.rockpapershotgun.com/atomic-heart-review"/>
-        <updated>2023-02-20T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve played a lot of strange games, but never one that lurches between greatness and bafflement as hard or as fast as Atomic Heart. It’s a fascinatingly chaotic medley of ideas, and a rare FPS that lacks even the slightest whiff of battle pass-peddling live serfdom, but those ideas so often fail to gel that it can feel like a game made by several different dev teams. For a shooter set within an alternate history Soviet Union, it could perhaps have used some more central planning.
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Atomic Heart | New Gameplay Today]]></title>
         <id>120009</id>
         <link href="https://www.gameinformer.com/ngt/2023/02/20/atomic-heart-new-gameplay-today"/>
@@ -4618,42 +4667,6 @@ Read more]]></summary>
 For more previews and discussions of some of the biggest games of 2023 and beyond, be sure to head over to our YouTube page for NGTs about Metroid Prime Remastered, WWE 2K23, SpongeBob SquarePants: The Cosmic Shake, Tchia, Persona 3 Portable, Vengeful Guardian: Moonrider, Fire Emblem Engage, and more.]]></summary>
         <author>
             <name>Kyle Hilliard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Am Jesus Christ looks like a goofy first-person Jesus sim]]></title>
-        <id>https://www.rockpapershotgun.com/i-am-jesus-christ-looks-like-a-goofy-first-person-jesus-sim</id>
-        <link href="https://www.rockpapershotgun.com/i-am-jesus-christ-looks-like-a-goofy-first-person-jesus-sim"/>
-        <updated>2023-02-20T12:54:21.000Z</updated>
-        <summary type="html"><![CDATA[I see novelty games on Steam every couple of days; things like gun-wielding slime shooters, or hyper-realistic dog-walking sims. They all force a little chuckle out of me, but none of them have made me belly laugh like I Am Jesus Christ, a first-person retelling of Christ’s tale from birth, to death, to rebirth.  
-
-
-I Am Jesus Christ’s genre is slightly murky, although, it almost looks like a giant Skyrim mod complete with unfeeling NPCs, first-person spellcasting, and an open world full of quest markers. The newest trailer shows some of Christ’s cool abilities like walking on water, shooting light beams at Satan, and fishing - which is incidentally what I’m looking forward to the most. 
-
-
-In fairness, the Christ sim looks like a pretty robust and thorough retelling of his journey, depicting scenes like the Last Supper, only this time all the disciples have exclamation marks above their heads. The Steam page also details 30 different miracles (or spells) and a number of different areas to explore. 
- 
-Read more]]></summary>
-        <author>
-            <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lies Of P brings Soulslike mecha-Pinocchio to PC and Game Pass in August]]></title>
-        <id>https://www.rockpapershotgun.com/lies-of-p-brings-soulslike-mecha-pinocchio-to-pc-and-game-pass-in-august</id>
-        <link href="https://www.rockpapershotgun.com/lies-of-p-brings-soulslike-mecha-pinocchio-to-pc-and-game-pass-in-august"/>
-        <updated>2023-02-20T11:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Like all good fairytale characters, Pinocchio gets a revision every couple of years - except for 2022, when he was adapted thrice (mostly in bad films, except for the Del Toro one). The loveable puppet isn’t waiting too long for his next comeback, as the RPG Soulslike Lies Of P is coming to PC and Game Pass in August. 
-
-
-Lies Of P’s newest trailer is mostly a black screen with a lot of VO, but we get a clear look at Pinocchio's daddy Master Gepetto this time. The trailer follows a blob wobbling through very Victorian streets before it slides into some automation and uses the machine’s body as a puppet. The result is a boss-sized monstrosity that sits halfway between Lovecraftian horror and industrial defect. It also reminds me of Gears 5’s weird infected robots, with tentacles and slime hanging off their metallic arms - equally gross and cool.
-
-
-The newest trailer doesn’t show off any Bloodborne-style combat, but we’ve had plenty of looks at that already, including a fight with a gorilla robocop. This Soulslike looks just as aggressive as you’d expect, emphasising quick dodge rolls and last-minute, anxiety-fueled parries. Pinocchio’s arm doubles up as a grappling hook to pull enemies in, which is always cool in a hack n’ slasher, and makes even more sense when you’re playing as a puppet. Also, is it just me or is Pinocchio pretty this time around?
- 
-Read more]]></summary>
-        <author>
-            <name>Kaan Serin</name>
         </author>
     </entry>
     <entry>
@@ -4727,17 +4740,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Wolf 1069 b: exoplaneta, která by mohla stát za hledání života. Hádanka: Římský dvanáctistěn, k čemu to bylo? Nádory slinivky jsou plné peroxidu vodíku.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Publisher Suing YouTube For Piracy Sells ‘Retold’ Version of Prince Harry’s Book]]></title>
-        <id>https://torrentfreak.com/?p=231304</id>
-        <link href="https://torrentfreak.com/publisher-suing-youtube-for-piracy-sells-rewritten-version-of-prince-harrys-book-230218/"/>
-        <updated>2023-02-18T21:56:14.000Z</updated>
-        <summary type="html"><![CDATA[Prince Harry's memoir 'Spare' sold over 3.2 million copies globally in its first week of release. However, since no company has the rights to sell 'Spare' in Russia, major publisher Eksmo-AST - already involved in a lawsuit that accuses YouTube of failing to protect authors' rights - intends to satisfy local demand by publishing a "retelling" of the smash-hit memoir.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
@@ -4860,16 +4862,6 @@ The post Find us and your fellow Raspberry Pi enthusiasts at an event near you a
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-v-evrope-se-letos-ocekava-pokles-prodeje-serveru"/>
         <updated>2023-02-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Operátoři kritické infrastruktury nesouhlasí se zákonem o kyberbezpečnosti. Podniky dnes používají více než 1 000 aplikací. Síťová rychlovka Huawei od distributora Entec. Red Hat spouští Ansible Automation Platform v Google Cloudu. Podniky stojí na křižovatce – nájem, nebo nezájem? Firmy chápou ochranu soukromí jinak než jejich zákazníci. V Evropě se letos očekává pokles prodeje serverů. Projektor jako domácí kino i pomůcka do škol či kanceláří: Jak vybrat ten správný?]]></summary>
-        <author>
-            <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Událo se v týdnu 6/2023]]></title>
-        <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-6-2023</id>
-        <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-6-2023"/>
-        <updated>2023-02-10T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
         <author>
             <name>Redakce</name>
         </author>
