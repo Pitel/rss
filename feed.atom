@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T06:13:02.797Z</id>
+    <id>urn:2023-03-05T08:12:56.445Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-05T06:13:02.797Z</updated>
+    <updated>2023-03-05T08:12:56.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Detective Pikachu's Movie Sequel Might Have Found Its Director]]></title>
+        <id>https://www.nintendolife.com/#article-146046</id>
+        <link href="https://www.nintendolife.com/news/2023/03/detective-pikachus-movie-sequel-might-have-found-its-director"/>
+        <updated>2023-03-05T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A script writer has also reportedly been secured.
+Last month, a Legendary Entertainment rep mentioned how a sequel to the Detective Pikachu movie was still in "active development". If this wasn't convincing enough, we've now got another development.
+According to a Deadline report, Portlandia co-creator Jonathan Krisel is currently in negotiations to direct the live-action sequel starring Pikachu. Along with this, Chris Galetta (The Kings of Summer) is apparently taking on the script-writing duties.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNOME 44 Mutter Adds fractional_scale_v1 Wayland Support]]></title>
         <id>https://www.phoronix.com/news/GNOME-44-fractional_scale_v1</id>
@@ -26,6 +39,26 @@ In addition to Goodra, it seems Lapras will be making its way to Pokémon Unite 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Problém roku 2038, glibc a utmp/utmpx na 64bitových architekturách]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/problem-roku-2038-glibc-a-utmp-utmpx-na-64bitovych-architekturach</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/problem-roku-2038-glibc-a-utmp-utmpx-na-64bitovych-architekturach"/>
+        <updated>2023-03-05T02:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Na vyřešení problému roku 2038 zbývá necelých 15 let. Na 64bitových architekturách obvykle stačí 32bit time_t nahradit 64bit time_t. Co ale kompatibilita s 32bitovými aplikacemi? Thorsten Kukuk v příspěvku na svém blogu upozorňuje na nevyřešený problém glibc a utmp/utmpx na 64bitových architekturách.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Před 20 lety, 6. března 2003, začal soudní spor SCO vs. IBM]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/pred-20-lety-6.-brezna-2003-zacal-soudni-spor-sco-vs.-ibm</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/pred-20-lety-6.-brezna-2003-zacal-soudni-spor-sco-vs.-ibm"/>
+        <updated>2023-03-05T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Před 20 lety, 6. března 2003, začal soudní spor SCO vs. IBM (Wikipedie). Společnost SCO podala žalobu na společnost IBM a požadovala po ní 1 miliardu dolarů za "znehodnocení svého Unixu" tím, že IBM přispěla duševním vlastnictvím SCO do zdrojových kódů Linuxu. Pokračování v článku SCO u soudu prohrála, Linux neutrpěl z června 2010.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1366,19 +1399,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Expect updates for Mega Man, Ghost Trick & more.
 Capcom is hosting its own special 'Spotlight' next week on 9th March. Fans can look forward to a 26-minute broadcast covering all the company's major IP and upcoming and existing releases.
 Some of the titles you can expect to hear more about include Resident Evil 4 Remake, Exoprimal, Monster Hunter Rise, Mega Man Battle Network Legacy Collection and Ghost Trick: Phantom Detective. There'll also be a special "pre-show" before the main event.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metroid Prime Remastered Physical Edition Out Now In Europe & Japan]]></title>
-        <id>https://www.nintendolife.com/#article-145975</id>
-        <link href="https://www.nintendolife.com/news/2023/03/metroid-prime-remastered-physical-edition-out-now-in-europe-and-japan"/>
-        <updated>2023-03-03T02:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's your reminder.
-Last month, Nintendo surprised Switch owners with the shadow drop of Metroid Prime Remastered. While fans in North America didn't have to wait long to pick up a physical copy, many outside this region have been required to wait until 3rd of March if they were exclusively seeking this version.
-Fortunately, this day has arrived and it means Metroid fans across Europe, Japan and other locations like Australia & New Zealand can now get their hands on a hard copy of the game.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -3064,16 +3084,6 @@ The post Camera Module 3: Show off your shots appeared first on Raspberry Pi.]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FFmpeg 6.0 "Von Neumann"]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ffmpeg-6.0-von-neumann</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ffmpeg-6.0-von-neumann"/>
-        <updated>2023-03-01T03:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová major verze 6.0 s kódovým názvem Von Neumann kolekce svobodného softwaru umožňujícího nahrávání, konverzi a streamovaní digitálního zvuku a obrazu FFmpeg (Wikipedie). Přináší mnoho nových kodérů a dekodérů, filtrů a vylepšení ffmpeg CLI.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 6.2, Linux 6.3 Developments, KDE Plasma 5.27 & More Made For An Exciting Month]]></title>
         <id>https://www.phoronix.com/news/February-2023-Highlights</id>
         <link href="https://www.phoronix.com/news/February-2023-Highlights"/>
@@ -3347,16 +3357,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Přehled řízení přístupu na unixových OS]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/prehled-rizeni-pristupu-naunixovych-os</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/prehled-rizeni-pristupu-naunixovych-os"/>
-        <updated>2023-02-28T16:50:27.000Z</updated>
-        <summary type="html"><![CDATA[Patrick Louis v obsáhlém článku shrnuje, jak funguje řízení přístupu na unixových OS, zvláště *BSD a Linuxu.]]></summary>
-        <author>
-            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
