@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T10:10:47.464Z</id>
+    <id>urn:2023-03-05T12:19:13.794Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-05T10:10:47.464Z</updated>
+    <updated>2023-03-05T12:19:13.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - The Legend Of Zelda: Twilight Princess]]></title>
+        <id>https://www.nintendolife.com/#article-145993</id>
+        <link href="https://www.nintendolife.com/news/2023/03/poll-box-art-brawl-duel-the-legend-of-zelda-twilight-princess"/>
+        <updated>2023-03-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Awoooooooo!
+Welcome back to another edition of Box Art Brawl!
+For the past two weeks, we have been focused on games from the world of the GBA. After judging the box art of Metroid Fusion, last time we took a look at the differences between the North American/European and the Japanese box art for Golden Sun and the results were expectedly distanced. The Japanese cover took home a respectable 30% of the vote, but NA/EU was the clear winner with a 70% victory.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Landing Change To Allow STIBP When Using Legacy IBRS]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.3-STIBP-Legacy-IBRS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.3-STIBP-Legacy-IBRS"/>
+        <updated>2023-03-05T11:31:28.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the Linux 6.3-rc1 release later today, a set of "x86/urgent" patches were sent out Sunday morning that include the change to allow Single Threaded Indirect Branch Predictors (STIBP) to be used in the presence of legacy Indirect Branch Restricted Speculation (IBRS) for security reasons...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-669</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-669"/>
+        <updated>2023-03-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for booking your Japan Rail Pass and having a trip become a little more real with each passing second. Before you check the cherry blossom forecast, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine-Staging 8.3 Released With Fix For MeshroomCL]]></title>
+        <id>https://www.phoronix.com/news/Wine-Staging-8.3</id>
+        <link href="https://www.phoronix.com/news/Wine-Staging-8.3"/>
+        <updated>2023-03-05T10:56:37.000Z</updated>
+        <summary type="html"><![CDATA[Building off Friday's release of Wine 8.3 is a new release of Wine-Staging, the experimental/testing blend of this software for enjoying Windows games and applications on Linux. Wine-Staging 8.3 carries more than 500 patches atop the upstream Wine code-base...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Countdown: 3DS eShop Spotlight - Rhythm Heaven Megamix]]></title>
         <id>https://www.nintendolife.com/#article-145750</id>
@@ -1389,20 +1433,6 @@ The post Square Enix president Yosuke Matsuda stepping down in June appeared fir
         <summary type="html"><![CDATA[Linux je v síťovém prostředí jako doma, může zastat prakticky všechny potřebné role od směrovače (router), přes DHCP, DNS až po souborový server Samba pro Microsoft Windows. Přijďte se to všechno naučit na naše třídenní školení s názvem Linux: správa počítačové sítě.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surprise! Fire Emblem Engage's 'Wave 3' Expansion Pass DLC Is Releasing Soon]]></title>
-        <id>https://www.nintendolife.com/#article-145984</id>
-        <link href="https://www.nintendolife.com/news/2023/03/surprise-fire-emblem-engages-wave-3-expansion-pass-dlc-is-releasing-soon"/>
-        <updated>2023-03-03T06:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo confirms March 8 launch for Japan.
-Update: Confirmed for other regions:
-
-Original story: Switch got off to a strong start this year with the release of the tactical RPG, Fire Emblem Engage. Alongside this was the launch of an Expansion Pass, and now there's even more on the way.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3010,16 +3040,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.3 Now Suggests The BFQ I/O Scheduler When Building MMC/SD Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.3-MMC-BFQ-Suggests</id>
-        <link href="https://www.phoronix.com/news/Linux-6.3-MMC-BFQ-Suggests"/>
-        <updated>2023-03-01T10:56:12.000Z</updated>
-        <summary type="html"><![CDATA[The BFQ I/O scheduler has long been suited well for MMC/SD card storage devices with a single queue now finally with Linux 6.3 the Kconfig setup will suggest/imply that I/O scheduler to help ensure it gets built...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BitTorrent Seedbox Provider Handed Criminal Conviction Over Users’ Piracy]]></title>
         <id>https://torrentfreak.com/?p=231751</id>
         <link href="https://torrentfreak.com/bittorrent-seedbox-provider-handed-criminal-conviction-over-users-piracy-230301/"/>
@@ -3081,16 +3101,6 @@ The post Camera Module 3: Show off your shots appeared first on Raspberry Pi.]]>
         <updated>2023-03-01T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.2, Linux 6.3 Developments, KDE Plasma 5.27 & More Made For An Exciting Month]]></title>
-        <id>https://www.phoronix.com/news/February-2023-Highlights</id>
-        <link href="https://www.phoronix.com/news/February-2023-Highlights"/>
-        <updated>2023-03-01T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While a short month there still were 243 original news articles on Phoronix written by your's truly about various open-source and Linux topics. There were also nine additional Linux hardware reviews looking at the Ryzen 9 7950X3D, the long-awaited NVIDIA GeForce RTX 4080/4090 Linux performance results, and more. Here is a look back at what excited open-source/Linux enthusiasts in February...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4651,19 +4661,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve reveal schedule of 2023 Steam sales and game fests and my backlog is scared]]></title>
-        <id>https://www.rockpapershotgun.com/valve-reveal-schedule-of-2023-steam-sales-and-game-fests-and-my-backlog-is-scared</id>
-        <link href="https://www.rockpapershotgun.com/valve-reveal-schedule-of-2023-steam-sales-and-game-fests-and-my-backlog-is-scared"/>
-        <updated>2023-02-23T15:57:19.000Z</updated>
-        <summary type="html"><![CDATA[My backlog is practically overflowing at this point, hence my New Year's resolution to avoid buying a game until I’d actually play it. But, every now and then, an especially deep discount will catch my eye, my bad impulses wake up, and I spend a few quid on something I won’t touch for six months (seriously, Abzu has been floating on my hard drive for years.) My New Year's resolution won’t hold out for much longer, as Valve have announced their schedule for all of 2023’s Steam Fests and sales events.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Kaan Serin</name>
         </author>
     </entry>
     <entry>
