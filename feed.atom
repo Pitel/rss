@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T20:11:12.159Z</id>
+    <id>urn:2023-03-05T22:10:14.681Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-05T20:11:12.159Z</updated>
+    <updated>2023-03-05T22:10:14.681Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.3 Drops Support For The Intel ICC Compiler]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.3-Drops-Intel-ICC</id>
+        <link href="https://www.phoronix.com/news/Linux-6.3-Drops-Intel-ICC"/>
+        <updated>2023-03-05T20:23:33.000Z</updated>
+        <summary type="html"><![CDATA[On this last day of the Linux 6.3 kernel merge window, Linus Torvalds merged the patch dropping support for Intel (ICC) compiler support. Specifically this is Intel's long-standing ICC compiler now known as the "Intel C++ Compiler Classic" prior to its transition to being LLVM/Clang-based with the modern Intel DPC++ compiler...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Testing The First PCIe Gen 5.0 NVMe SSD On Linux Has Been Disappointing]]></title>
         <id>https://www.phoronix.com/review/inland-td510-gen5-linux</id>
@@ -3033,16 +3043,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/Hyper-V-Linux-VTL-VSM"/>
         <updated>2023-03-01T12:07:29.000Z</updated>
         <summary type="html"><![CDATA[Microsoft engineers continue to work heavily on enhancing the Linux support for Hyper-V considering that in the Azure public cloud at last report was more than 50% of their VMs running Linux. Microsoft has continued implementing more Hyper-V features within the Linux kernel and their latest is working on Virtual Trust Level (VTL) integration as part of Virtual Secure Mode (VSM) handling...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[xf86-video-modesetting TearFree Gets Fixed Up For A/V De-Synchronization Issue]]></title>
-        <id>https://www.phoronix.com/news/xf86-video-modesetting-Fix-TF</id>
-        <link href="https://www.phoronix.com/news/xf86-video-modesetting-Fix-TF"/>
-        <updated>2023-03-01T11:43:54.000Z</updated>
-        <summary type="html"><![CDATA[A few months back the generic xf86-video-modesetting X.Org driver added TearFree page-flipping support. The option eliminates screen tearing without the use of a compositor and was seen as a win by many for this generic DDX driver that works atop the modern DRM/KMS kernel drivers. But a rather annoying issue was discovered that could lead to audio/video synchronization problems was uncovered and is now fixed in the latest driver code...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
