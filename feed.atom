@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-05T04:12:55.068Z</id>
+    <id>urn:2023-03-05T06:13:02.797Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-05T04:12:55.068Z</updated>
+    <updated>2023-03-05T06:13:02.797Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GNOME 44 Mutter Adds fractional_scale_v1 Wayland Support]]></title>
+        <id>https://www.phoronix.com/news/GNOME-44-fractional_scale_v1</id>
+        <link href="https://www.phoronix.com/news/GNOME-44-fractional_scale_v1"/>
+        <updated>2023-03-05T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While GNOME 3.32 saw initial work on fractional scaling support for the GNOME Shell and Mutter compositor, the upcoming GNOME 44 release is bringing support for Wayland's fractional_scale_v1 protocol...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Next Pokémon Joining Pokémon Unite's Roster Is Goodra]]></title>
         <id>https://www.nintendolife.com/#article-145985</id>
@@ -3327,16 +3337,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Incomplete Fedora 38 Changes Pushed Back, Including Dropping Legacy X.Org Drivers]]></title>
-        <id>https://www.phoronix.com/news/Fedora-38-Incomplete-Changes</id>
-        <link href="https://www.phoronix.com/news/Fedora-38-Incomplete-Changes"/>
-        <updated>2023-02-28T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the Fedora Linux change completion deadline passed, the Fedora Engineering and Steering Committee (FESCo) has been eyeing up their approved list to see what didn't make the cut for Fedora 38 that is due out in April...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Skyrim and Fallout devs talk about some fun secrets in their games]]></title>
         <id>https://www.rockpapershotgun.com/skyrim-and-fallout-devs-talk-about-some-fun-secrets-their-games</id>
         <link href="https://www.rockpapershotgun.com/skyrim-and-fallout-devs-talk-about-some-fun-secrets-their-games"/>
@@ -5087,33 +5087,6 @@ WorkManager Version 2.8.0]]></summary>
         <summary type="html"><![CDATA[Breaking news: OpenTTD 13.0 is now available! Depending on your perspective, we’re either two months early for our usual April 1st release, or a bit tardy for the Christmas 2022 release we intended. We think the wait has been worth it. This is one of the largest releases we’ve done in several years, with numerous features and improvements covering the user interface, gameplay features, and modding extensions for NewGRF and Game Script creators. Some of the highlights are: Variable interface scaling at whatever size you want (not just 2x and 4x), with optional chunky bevels for that retro feel. This includes better automatic scaling when using HiDPI or mixed DPI setups. Direct access to NewGRF/AI/GS settings from the new game window. Various small tweaks and improvements to several windows. NewGRFs can now provide engine variants that are shown hierarchically in the purchase list. Multi-track level crossings to keep road vehicles from stopping in the middle of the crossing. Custom league tables for GameScripts. More natural rivers which get wider as they flow downstream. And much more, which can be seen in the changelog or the previous release announcements! In addition to these features and improvements, we’ve fixed lots of bugs. (If you played with the RC2 testing release, most were fixed before then. See the changelog for full details.) Download Changelog Bug tracker]]></summary>
         <author>
             <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScummVM 2.7.0: Call for testing!]]></title>
-        <id>https://www.scummvm.org/news/archive/#2023-02-03</id>
-        <link href="https://www.scummvm.org/news/20230203/"/>
-        <updated>2023-02-03T18:07:00.000Z</updated>
-        <summary type="html"><![CDATA[A few months have passed since we released ScummVM 2.6.1. It's time to prepare for a new release!
-Our lovely developers added support, yet again, for a bunch of new ancient games that require testing:
-Soldier Boyz
-GLK Scott Adams Interactive Fiction games (C64 and ZX Spectrum)
-GLK Scott Adams adventures 1-12 (TI99/4A format)
-Obsidian
-Pink Panther: Passport to Peril
-Pink Panther: Hokus Pokus Pink
-Driller/Space Station Oblivion
-Halls of the Dead: Faery Tale Adventure II
-Besides these games, we’d appreciate it if you could check our release testing list. Maybe you’ll even find your favorite game on there that has been sitting on that shelf for way too long - otherwise, there are some demos of these games available on our website.
-And since ScummVM is about playing games in general, we’ve seen notable changes across many, many engines - so this is the perfect time for giving your favorites another go.
-As usual, we are not just adding support for new games. We are constantly working on improving the engines we already support and, in particular, we’ve seen some incredible work being done on the SCUMM engine. Yes, there are the usual bug fixes, but this time we are also adding a feature that helps playing the SCUMM games in a truly original fashion: Support for the original loading and saving dialogs within the GUI!
-Speaking of truly original: Remember those old CRT displays we had back in the day? With ScummVM 2.7.0 you’ll be able to replicate this experience on certain platforms thanks to our new shader-based scalers. Go ahead and give it a try!
-All testing must be done with stable builds, not development ones. Please report any bugs or oddities on our issue tracker.
-A detailed list of all exciting new features and fixes is available in our NEWS file.
-Thank you very much for your support! Let’s make ScummVM 2.7.0 a great release - together!
->]]></summary>
-        <author>
-            <name>nospam@scummvm.org (The ScummVM Team)</name>
         </author>
     </entry>
 </feed>
