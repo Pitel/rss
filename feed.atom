@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-07T06:14:15.167Z</id>
+    <id>urn:2023-03-07T08:15:12.011Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-07T06:14:15.167Z</updated>
+    <updated>2023-03-07T08:15:12.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevConf.cz Mini je v Brně již potřetí, připojte se v pátek 31. března]]></title>
+        <id>www.root.cz-actuality-44528</id>
+        <link href="https://www.root.cz/zpravicky/devconf-cz-mini-je-v-brne-jiz-potreti-pripojte-se-v-patek-31-brezna/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-03-07T08:13:12.000Z</updated>
+        <summary type="html"><![CDATA[V pátek 31. března se bude v Brně opět konat DevConf.cz Mini. Jde o lokální, komorní doplněk mezinárodní konference DevConf.cz. Březnová konference uzavírá současný cyklus připomenutím poslední třetiny témat z DevConfu 2022, tentokrát jde o: Analysis, testing and automation; HPC, big data and data science; Open source education.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Dorka Volavkova)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Surprise! Fire Emblem Engage's 'Wave 3' Expansion Pass DLC Is Releasing Soon]]></title>
         <id>https://www.nintendolife.com/#article-145984</id>
@@ -30,6 +40,16 @@ According to Fortnite content creator HYPEX, the third-person multiplayer title 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIMP Help Manual 2.10.34]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/gimp-help-manual-2.10.34</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/gimp-help-manual-2.10.34"/>
+        <updated>2023-03-07T03:02:52.000Z</updated>
+        <summary type="html"><![CDATA[Byl vydán GIMP Help Manual 2.10.34 aneb oficiální uživatelská příručka k nejnovější verzi grafického editoru GIMP.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3209,16 +3229,6 @@ The post Raspberry Pi-to-brain interface appeared first on Raspberry Pi.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hardwarový a softwarový průzkum Steamu - 02/2023]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/hardwarovy-a-softwarovy-pruzkum-steamu-02-2023</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/hardwarovy-a-softwarovy-pruzkum-steamu-02-2023"/>
-        <updated>2023-03-02T00:54:27.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Valve aktualizovala přehled o hardwarovém a softwarovém vybavení uživatelů služby Steam. Podíl uživatelů Linuxu aktuálně činí 1,27 %. Nejčastěji používané linuxové distribuce jsou Arch Linux, Ubuntu, Manjaro Linux a Linux Mint. Přehled her oficiálně podporujících SteamOS a Linux na stránkách Steamu. Přehled her pro Windows běžících na Linuxu díky Protonu na stránkách ProtonDB.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[March 2, 2023]]></title>
         <id>https://developer.android.com/jetpack/androidx/versions/all-channel#march_2_2023</id>
         <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#march_2_2023"/>
@@ -4281,16 +4291,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BFQ plánovač bude optimalizován pro disky se dvěma nezávislými sadami hlaviček]]></title>
-        <id>www.root.cz-actuality-44505</id>
-        <link href="https://www.root.cz/zpravicky/bfq-planovac-bude-je-optimalizovan-pro-disky-se-dvema-nezavislymi-sadami-hlavicek/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-02-27T10:43:41.000Z</updated>
-        <summary type="html"><![CDATA[O rotačních discích se dvěma nezávislými sadami hlaviček jsme tu již psali. Jde například o Seagate MACH.2. Jedna sada hlaviček má na starosti spodní polovinu LBA a druhá horní polovinu.  Podpora pro tyto disky je v jádře od 5.16, ale zatím jádro jen ví, které adresy se dají číst odděleně pomocí  /sys/block/sd*/queue/independent_access_ranges/ .]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
