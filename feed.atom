@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T12:18:04.981Z</id>
+    <id>urn:2023-03-12T14:08:59.865Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-12T12:18:04.981Z</updated>
+    <updated>2023-03-12T14:08:59.865Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Příručka LibreOffice Base 7.3 v češtině]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/prirucka-libreoffice-base-7.3-v-cestine</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/prirucka-libreoffice-base-7.3-v-cestine"/>
+        <updated>2023-03-12T13:46:41.000Z</updated>
+        <summary type="html"><![CDATA[Český LibreOffice tým aktualizoval příručku LibreOffice Base na verzi 7.3. Kniha je určena pro uživatele databáze LibreOffice Base. Pokrývá hlavní oblasti programu Base, včetně: Vytvoření databáze, vstup a výstup dat, práce s tabulkami, formuláři, dotazy a sestavami, používání maker, údržba databáze, a mnoho dalšího. Český tým pracuje na překladech dalších příruček a hledá další spolupracovníky pro překlad a revize textu. Příručku můžete stáhnout ze stránky dokumentace.]]></summary>
+        <author>
+            <name>Zdeněk Crhonek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15.101 LTS Released To Fix Broken Intel Graphics At Boot]]></title>
+        <id>https://www.phoronix.com/news/Linux-5.15.101-Hot-Fix</id>
+        <link href="https://www.phoronix.com/news/Linux-5.15.101-Hot-Fix"/>
+        <updated>2023-03-12T13:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday saw emergency hot-fix releases in the Linux 6.2 and 6.1 series for addressing an easy-to-trigger kernel oops when mounting and unmounting external storage. This weekend is proving more volatile with today bringing an emergency hot-fix release for the Linux 5.15 LTS series due to a separate issue...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - Mega Man X2]]></title>
         <id>https://www.nintendolife.com/#article-146320</id>
@@ -401,7 +421,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <title type="html"><![CDATA[GNU Octave 8.1.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/gnu-octave-8.1.0</id>
         <link href="http://www.abclinuxu.cz/zpravicky/gnu-octave-8.1.0"/>
-        <updated>2023-03-11T15:44:59.000Z</updated>
+        <updated>2023-03-11T15:44:57.000Z</updated>
         <summary type="html"><![CDATA[Matematický software GNU Octave byl vydán ve verzi 8.1.0. Jedná se o větší vydání, které zlepšuje výkon, kompatibilitu s Matlabem, grafický backend i frontend a přidává několik nových funkcí. Podrobnosti v poznámkách k vydání.]]></summary>
         <author>
             <name>Fluttershy, yay!</name>
@@ -2396,16 +2416,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu na PolarFire SoC FPGA Icicle Kit]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ubuntu-na-polarfire-soc-fpga-icicle-kit</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ubuntu-na-polarfire-soc-fpga-icicle-kit"/>
-        <updated>2023-03-09T08:39:18.000Z</updated>
-        <summary type="html"><![CDATA[Canonical oznámil podporu Ubuntu na RISC-V jednodeskovém počítači PolarFire SoC FPGA Icicle Kit od společnosti Microchip Technology.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Raspberry Pi Global Shutter Camera for machine vision and more]]></title>
         <id>https://www.raspberrypi.com/?p=93453</id>
         <link href="https://www.raspberrypi.com/news/new-raspberry-pi-global-shutter-camera/"/>
@@ -2887,16 +2897,6 @@ As always, you can also listen and subscribe via your podcast provider of choice
 Read more]]></summary>
         <author>
             <name>Rachel Watts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IOCB_NOWAIT For Linux Pipes Yields 10~23x Performance Improvement]]></title>
-        <id>https://www.phoronix.com/news/Linux-Pipes-IOCB_NOWAIT</id>
-        <link href="https://www.phoronix.com/news/Linux-Pipes-IOCB_NOWAIT"/>
-        <updated>2023-03-08T12:05:34.000Z</updated>
-        <summary type="html"><![CDATA[In wanting to avoid waiting for pipes via the IOCB_NOWAIT option in order to further enhance IO_uring performance, Jens Axboe has implemented said functionality and in a simple test is seeing 10x to 23x performance improvements...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
