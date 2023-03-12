@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T14:08:59.865Z</id>
+    <id>urn:2023-03-12T16:12:24.966Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-12T14:08:59.865Z</updated>
+    <updated>2023-03-12T16:12:24.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Landing XMM Register Rollback Workaround For AMD Zen 1 / Zen 2 CPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-AMD-Erratum-1386</id>
+        <link href="https://www.phoronix.com/news/Linux-AMD-Erratum-1386"/>
+        <updated>2023-03-12T16:08:30.000Z</updated>
+        <summary type="html"><![CDATA[Sent in this morning via x86/urgent for integration into Linux 6.3 and also for back-porting to stable kernel series is disabling the XSAVES instruction for AMD Zen 1 and Zen 2 processors to workaround an AMD processor erratum made public last year...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Countdown: 3DS eShop Spotlight - Pocket Card Jockey]]></title>
+        <id>https://www.nintendolife.com/#article-146366</id>
+        <link href="https://www.nintendolife.com/features/countdown-3ds-eshop-spotlight-pocket-card-jockey"/>
+        <updated>2023-03-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[#17 - Fine equine.
+For the month before the 3DS and Wii U eShops close for new purchases on 27th March, each day we're going to highlight a specific eShop game for one of those consoles and give a short pitch as to why we think it deserves your love and attention — before it's too late. The chance to add these to your library will be gone for good soon and, for one reason or another, these eShop-exclusives are close to our hearts.
+Today, Gavin highlights Game Freak's best game...
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Příručka LibreOffice Base 7.3 v češtině]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/prirucka-libreoffice-base-7.3-v-cestine</id>
@@ -1466,19 +1489,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Best Super Mario Games Of All Time]]></title>
-        <id>https://www.nintendolife.com/#article-79426</id>
-        <link href="https://www.nintendolife.com/guides/best-super-mario-games-of-all-time"/>
-        <updated>2023-03-10T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[All the 2D and 3D Marios ranked by you.
-Wahoo, it's Mario Day! Sorry, MAR10 Day! Or, if you're in Europe, 10MAR Day!... Hmm, 'Iomar' doesn't work at all.
-Look, it's March 10th and Nintendo is celebrating all things Mario. There are movie trailers, Switch game sales, Lego announcements, and general plumbery frivolities to enjoy, and it's therefore the perfect time to revisit this reader-ranked list covering every single one of Mario's mainline games across all dimensions and platforms.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Embree 4.0.1 Released With Intel Data Center GPU Flex Series Support]]></title>
         <id>https://www.phoronix.com/news/Intel-Embree-4.0.1</id>
         <link href="https://www.phoronix.com/news/Intel-Embree-4.0.1"/>
@@ -2846,16 +2856,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/Samba-4.18-Released"/>
         <updated>2023-03-08T13:54:42.000Z</updated>
         <summary type="html"><![CDATA[Samba 4.18 is out today as the popular open-source implementation of the SMB networking protocol that allows for file and print service interoperability with Microsoft Windows systems in an Active Directory (AD) environment...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayland Clients Can Now Survive Qt Wayland Crashes / Compositor Restarts]]></title>
-        <id>https://www.phoronix.com/news/Qt-Wayland-Compositor-Restart</id>
-        <link href="https://www.phoronix.com/news/Qt-Wayland-Compositor-Restart"/>
-        <updated>2023-03-08T13:24:00.000Z</updated>
-        <summary type="html"><![CDATA[A change merged to Qt this week can allow for Wayland clients to survive compositor restarts, such as when the compositor crashes...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
