@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-12T22:09:21.363Z</id>
+    <id>urn:2023-03-13T00:54:39.356Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-12T22:09:21.363Z</updated>
+    <updated>2023-03-13T00:54:39.356Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.3-rc2 Introduces Stuttering Workaround For AMD Ryzen PCs Due To fTPM RNG]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.3-Fix-For-AMD-fTPM</id>
+        <link href="https://www.phoronix.com/news/Linux-6.3-Fix-For-AMD-fTPM"/>
+        <updated>2023-03-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Since the Linux 6.1 kernel various users have reported system stuttering issues when using modern AMD Ryzen systems. This has been similar to an "intermittent system stutter" issue AMD disclosed last year for Windows 10 and Windows 11 while now for today's Linux 6.3-rc2 a workaround is finally being merged  that in turn will also be back-ported to the stable kernel series...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: Acer ztrácí data, ukrajinská ambasáda volá]]></title>
+        <id>www.root.cz-text-16496</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-acer-ztraci-data-ukrajinska-ambasada-vola/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-03-12T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[V dnešních Postřezích zhodnotíme sportovní výsledky, neradi se vrátíme k tužce a papíru, zavoláme vídeňskému starostovi a zareagujeme na bezpečnostní hrozbu. A hlavně nezapomeneme updatovat!]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: ČD Telematika)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vanilla OS přechází na Debian, Slackware vyřadí staré balíčky]]></title>
+        <id>www.root.cz-text-16489</id>
+        <link href="https://www.root.cz/clanky/vanilla-os-prechazi-na-debian-slackware-vyradi-stare-balicky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-03-12T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Linuxová distribuce Vanilla OS mění svůj základ z Ubuntu na Debian Sid. Slackware chce udělat pořádek v zastaralých a nepodporovaných balíčcích. Ubuntu bude oficiálně podporovat PolarFire SoC FPGA Icicle Kit.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNOME 44.rc]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/gnome-44.rc</id>
@@ -2756,16 +2786,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu Announces Official Support For The PolarFire SoC FPGA Icicle Kit RISC-V Board]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-Icicle-Kit-Optimized</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-Icicle-Kit-Optimized"/>
-        <updated>2023-03-08T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Following work bringing Ubuntu Linux to the RISC-V boards like the StarFive VisionFive 2, LicheeRV, Nezha, and others, Canonical today announced they have published an optimized RISC-V image for the Microchip PolarFire SoC FPGA powered "Icicle Kit" development board...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Halo Infinite’s season 3 ray tracing update is here, and looks kinda underwhelming]]></title>
         <id>https://www.rockpapershotgun.com/halo-infinites-season-3-ray-tracing-update-is-here-and-looks-kinda-underwhelming</id>
         <link href="https://www.rockpapershotgun.com/halo-infinites-season-3-ray-tracing-update-is-here-and-looks-kinda-underwhelming"/>
@@ -3876,26 +3896,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Přehled únorových vydání Jaderných novin: stav vydání jádra, citáty týdne a seznam článků týkajících se jádra.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: BlackLotus je UEFI bootkit obcházející Secure Boot]]></title>
-        <id>www.root.cz-text-16484</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-blacklotus-je-uefi-bootkit-obchazejici-secure-boot/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-03-05T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V dnešním ohlédnutí za uplynulým týdnem se podíváme na výsledky analýzy malwaru BlackLotus, zranitelnosti IP telefonů a platformy Booking.com, na nesmrtelný Internet Explorer a řadu dalších zajímavostí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: CSIRT.CZ)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miniaturní instalační obraz Ubuntu, Fedora zvažuje konec DeltaRPM]]></title>
-        <id>www.root.cz-text-16479</id>
-        <link href="https://www.root.cz/clanky/miniaturni-instalacni-obraz-ubuntu-fedora-zvazuje-konec-deltarpm/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-03-05T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři Ubuntu plánují vytvořit minimalistický instalační obraz této linuxové distribuce. Fedora Linux uvažuje o ukončení podpory pro DeltaRPM. Vznikl nový linuxový souborový systém pro SSD disky s rozhraním NVMe.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
         </author>
     </entry>
     <entry>
