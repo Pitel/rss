@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-03-14T08:15:22.894Z</id>
+    <id>urn:2023-03-14T10:13:33.165Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-03-14T08:15:22.894Z</updated>
+    <updated>2023-03-14T10:13:33.165Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSNOG 2023: letos se správci sítí sejdou ve Zlíně, registrace již běží]]></title>
+        <id>www.root.cz-actuality-44553</id>
+        <link href="https://www.root.cz/zpravicky/csnog-2023-letos-se-spravci-siti-sejdou-ve-zline-registrace-jiz-bezi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-03-14T10:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Pátý ročník komunitního setkání správců sítí z Česka a Slovenska – CSNOG 2023 – se uskuteční 16. a 17. května v prostorách Univerzity Tomáše Bati ve Zlíně. Organizátoři akce dnes také spustili registraci, zájemci o toto tradičním setkání síťových specialistů se mohou přihlašovat na webu CSNOG 2023. Zde je také možné zadávat příspěvky do programu, Call for Abstracts jsou otevřené do 31. března. Setkání CSNOG 2023 připravují společně sdružení CESNET, CZ.NIC a NIX.CZ.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Vilém Sládek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE KWin's Move Away From GBM Surfaces]]></title>
+        <id>https://www.phoronix.com/news/KDE-KWin-Moves-From-GBM-Surface</id>
+        <link href="https://www.phoronix.com/news/KDE-KWin-Moves-From-GBM-Surface"/>
+        <updated>2023-03-14T10:02:46.000Z</updated>
+        <summary type="html"><![CDATA[KDE developer Xaver Hugl has written a blog post how the KWin compositor's DRM back-end has been working to move itself off GBM surfaces (gbm_surfaces) to instead allocate buffers directly and import them into EGL. This ultimately should be a win for the KWin compositor once everything is complete...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aktualizace Linux 5.15 LTS kvůli chybě při bootování s GPU Intel]]></title>
         <id>www.root.cz-actuality-44552</id>
@@ -101,16 +121,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coolhousing: Dedikovaný server do 24 hodin, nebo zdarma na měsíc]]></title>
-        <id>http://www.abclinuxu.cz/clanky/coolhousing-dedikovany-server-do-24-hodin-nebo-zdarma-na-mesic</id>
-        <link href="http://www.abclinuxu.cz/clanky/coolhousing-dedikovany-server-do-24-hodin-nebo-zdarma-na-mesic"/>
-        <updated>2023-03-13T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Objednejte si dedikovaný server Barebone za sníženou cenu a pokud vám nebude server dodán do 24 hodin od zaplacení, máte jej zdarma na celý měsíc.]]></summary>
-        <author>
-            <name>Reklama</name>
         </author>
     </entry>
     <entry>
@@ -2656,16 +2666,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hangover 0.8.3 Released For Enjoying Windows x86/x86_64 Apps/Games On Linux ARM64]]></title>
-        <id>https://www.phoronix.com/news/Hangover-0.8.3</id>
-        <link href="https://www.phoronix.com/news/Hangover-0.8.3"/>
-        <updated>2023-03-09T19:30:16.000Z</updated>
-        <summary type="html"><![CDATA[Hangover 0.8.3 is now available as the newest version for this open-source project started by several Wine developers to ease the pathway for running Windows x86/x86_64 games and applications on Linux under AArch64 (64-bit Arm) as well as other possible architectures like POWER9 and RISC-V...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chainsaw Man’s Female Incel Is The Best Manga Protagonist ATM]]></title>
         <id>1850208738</id>
         <link href="https://kotaku.com/chainsaw-man-asa-female-incel-shonen-jump-manga-1850208738"/>
@@ -3664,16 +3664,6 @@ In this small-scale managem…]]></summary>
         <summary type="html"><![CDATA[Akční adventuru Figment je nyní možné získat zdarma. A to jak na Steamu tak bez DRM na GOG.com. Hra je nativně pro Linux. V surrealistickém světě hrajete za Dustyho (asi kočka) a jeho kamaráda Pipera (asi papoušek). Řešíte hádanky a bojujete s nočními můrami.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME 44: změny na poslední chvíli v Mutteru a Shellu]]></title>
-        <id>www.root.cz-actuality-44531</id>
-        <link href="https://www.root.cz/zpravicky/gnome-44-zmeny-na-posledni-chvili-v-mutteru-a-shellu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-03-07T13:09:09.000Z</updated>
-        <summary type="html"><![CDATA[Pro příští vydání kompozitoru i desktopu tvořícího budoucí GNOME 44 došlo v kandidátech na ostré verze k několika podstatným změnám na poslední chvíli. Již dříve jsme psali o zahození podpory starých verzí OpenGL a starého GTK3 kódu či experimentální možnost zapnout HDR. K tomu se přidává několik dalších věcí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4870,6 +4860,16 @@ We vastly improved the detection method used …]]></summary>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-zeme-eu-usiluji-o-vetsi-vyuziti-vyhod-otevrenych-dat"/>
         <updated>2023-02-25T23:01:00.000Z</updated>
         <summary type="html"><![CDATA[Firmy dobře chrání zařízení, ale už ne identitu či sítě. Celosvětové výdaje na IT v letošním roce podle Gartneru vzrostou o 2,4 %. Nová Veeam Data Platform má zajistit provoz i při útocích ransomwaru. ChatGPT uspěl v testu teorie mysli. Země EU usilují o větší využití výhod otevřených dat.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Událo se v týdnu 8/2023]]></title>
+        <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-8-2023</id>
+        <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-8-2023"/>
+        <updated>2023-02-24T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
         <author>
             <name>Redakce</name>
         </author>
