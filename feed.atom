@@ -1,10 +1,162 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-26T12:18:25.013Z</id>
+    <id>urn:2023-04-26T14:09:46.518Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-04-26T12:18:25.013Z</updated>
+    <updated>2023-04-26T14:09:46.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.4 přinese monitoring pro dalších téměř 130 základních desek Asus]]></title>
+        <id>www.root.cz-actuality-44675</id>
+        <link href="https://www.root.cz/zpravicky/linux-6-4-prinese-monitoring-pro-dalsich-temer-130-zakladnich-desek-asus/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-04-26T14:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Subsystém HWMON podporuje určité množství SuperIO čipů, které používají už celé desítky základních desek Asus. Do Linuxu 6.4 míří aktualizace, která jich přidá dalších více než sto, a to opět pro AMD i Intel.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 39 možná zvýší požadovanou velikost EFI System Partition]]></title>
+        <id>www.root.cz-actuality-44674</id>
+        <link href="https://www.root.cz/zpravicky/fedora-39-mozna-zvysi-pozadovanou-velikost-efi-system-partition/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-04-26T13:36:51.000Z</updated>
+        <summary type="html"><![CDATA[Jeden z návrhů pro budoucí Fedoru 39, o kterém se bude v nepříliš vzdálené budoucnosti hlasovat, je zvýšení kapacitních požadavků na systémový oddíl EFI, zkráceně ESP.Kupříkladu Windows už dávno používají minimálně 500MB velikost, podobně mnohé linuxové distribuce, Fedora však jako minimum zatím povolovala 200MB velikost.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Blocks Microsoft Activision Deal Over Game Pass]]></title>
+        <id>1850377161</id>
+        <link href="https://kotaku.com/game-pass-microsoft-activision-blizzard-call-duty-xbox-1850377161"/>
+        <updated>2023-04-26T13:34:00.000Z</updated>
+        <summary type="html"><![CDATA[The UK’s Competition and Markets Authority (CMA) announced its decision to block Micorosft’s $69 billion acquisition of Activision Blizzard on Wednesday citing concerns it would hurt competition in the growing cloud gaming market where Microsoft dominates thanks to Game Pass. It’s a shocking turn of events for what…
+Read more...]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox Hardware Down, But Gaming Revenue Slightly Up Amid Game Pass Growth]]></title>
+        <id>120324</id>
+        <link href="https://www.gameinformer.com/2023/04/26/xbox-hardware-down-but-gaming-revenue-slightly-up-amid-game-pass-growth"/>
+        <updated>2023-04-26T13:14:31.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft has released its financial results for Q3 of its 2023 Fiscal Year, which consists of roughly January through March of this year. In it, the company revealed that Xbox hardware revenue is down but its Xbox content and services revenue is slightly up thanks to Xbox Game Pass subscription growth. 
+More specifically, Xbox hardware is down 30% and Xbox content and services is up 3%. Overall, Xbox's gaming revenue is down 4%, though. Microsoft CEO Satya Nadella says that the company set third-quarter records for monthly active users and devices, and that Xbox's gaming subscriptions (see: Game Pass) reached almost $1 billion this quarter. Despite this growth and revenue, though, Microsoft did not release new numbers regarding Game Pass subscription count – the latest count was 25 million in January 2022. 
+As for the dip in hardware revenue, Microsoft says the decline comes from the comparison of this quarter this year to the same quarter in the previous fiscal year, which gained a boost thanks to increased console supply. 
+Here are some other numbers from Microsoft's financial results: 
+Revenue was $52.9 billion, an increase of 7% (or 10% in constant currency)
+Operating income was $22.4 billion, an increase of 10% (or 15% in constant currency)
+Net income was $18.3 billion, an increase of 9% (or 14% in constant currency)
+Xbox hardware revenue is down 30%
+Xbox content and services revenue is up 3%
+Overall, Xbox gaming revenue is down 4%
+These results arrived yesterday, shortly before the Competition and Markets Authority, a U.K. regulatory agency that serves the same purpose as the Federal Trade Commission in the U.S., blocked Microsoft's $68.7 billion acquisition of Activision Blizzard today. You can read more about that here. 
+What do you think Xbox needs to do to increase Xbox hardware revenue? Let us know in the comments below!]]></summary>
+        <author>
+            <name>Wesley LeBlanc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.Org ovladač 3Dfx Voodoo 1/2 končí]]></title>
+        <id>www.root.cz-actuality-44673</id>
+        <link href="https://www.root.cz/zpravicky/x-org-ovladac-3dfx-voodoo-1-2-konci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-04-26T13:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Wayland ještě nevládne celému světu, i v projektu X.Org se dějí stále nové věci, byť nikoli plusové, spíše minusové. Nově si třeba můžeme pomalu škrtnout ovladač pro rozhraní Glide používané kartami 3Dfx Voodoo 1 a 2 (tedy xf86-video-glide), který byl poslán do důchodu („retired“) a očekávat lze jeho budoucí odstranění.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100+ More ASUS Motherboards Enabled For Sensor Monitoring With Linux 6.4]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.4-Hardware-Monitoring</id>
+        <link href="https://www.phoronix.com/news/Linux-6.4-Hardware-Monitoring"/>
+        <updated>2023-04-26T13:00:44.000Z</updated>
+        <summary type="html"><![CDATA[The hardware monitoring "HWMON" subsystem updates have been pulled into the in-development Linux 6.4 kernel with ASUS Intel/AMD desktop motherboards being the big winners with these driver updates...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands On: Zelda: Tears Of The Kingdom Indulges Your Idiocy In The Very Best Way]]></title>
+        <id>https://www.nintendolife.com/#article-148588</id>
+        <link href="https://www.nintendolife.com/features/hands-on-zelda-tears-of-the-kingdom-indulges-your-idiocy-in-the-very-best-way"/>
+        <updated>2023-04-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This just in: Bokoblins hate apples.
+To say there’s been hype surrounding The Legend of Zelda: Tears of the Kingdom would not just be an understatement, but a fairly poor opening line to any sort of hands-on feature.
+On an unrelated note, Nintendo recently invited us to go and have a go at The Legend of Zelda: Tears of the Kingdom at their European headquarters in Frankfurt. We got a whopping 70 minutes with the game, which felt like no more than ten with all the stuff we wanted to proverbially bathe ourselves in, so how did it hold up? Has this so-called hype been justified?
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Legend of Zelda: Tears of the Kingdom Preview - Sky Island Hopping In Hyrule]]></title>
+        <id>120291</id>
+        <link href="https://www.gameinformer.com/preview/2023/04/26/sky-island-hopping-in-hyrule"/>
+        <updated>2023-04-26T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Platform:
+      Switch
+      
+Publisher:
+      Nintendo
+      
+Developer:
+      Nintendo
+      
+Release:
+                      	May 12, 2023
+			
+            
+Rating:
+      Everyone 10+
+      
+The Legend of Zelda: Tears of the Kingdom has the unenviable task of following what many consider to be one of the greatest games in recent memory. When it launched in 2017, Breath of the Wild revolutionized the longstanding franchise formula in innumerable ways, giving players the biggest world the series has ever featured and mechanics that allowed them to experiment with the game's physics. After spending more than an hour playing some early moments of The Legend of Zelda: Tears of the Kingdom, the answer to how this game plans on following such a tough act is a bit clearer.
+
+
+One of the first piec…]]></summary>
+        <author>
+            <name>Brian Shea</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Official, Nintendo Will Attend Gamescom 2023]]></title>
+        <id>https://www.nintendolife.com/#article-148620</id>
+        <link href="https://www.nintendolife.com/news/2023/04/its-official-nintendo-will-attend-gamescom-2023"/>
+        <updated>2023-04-26T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Takes place in August.
+Gamescom has confirmed that Nintendo will be present at this year's event in Cologne, which is set to run from 23rd-27th August.
+The announcement was published via the official @gamescom Twitter, with the promise that more exhibitor reveals will be coming our way over the next few weeks — though Nintendo isn't a bad billing to start with!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Sierra Forest EDAC Lands In Linux 6.4, AMD's EDAC Driver Aims For GPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.4-EDAC</id>
+        <link href="https://www.phoronix.com/news/Linux-6.4-EDAC"/>
+        <updated>2023-04-26T12:30:46.000Z</updated>
+        <summary type="html"><![CDATA[The Error Detection And Correction (EDAC) device driver updates have been submitted for the Linux 6.4 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Regulators Block Microsoft's Acquisition Of Activision Blizzard Over Cloud Gaming Concerns]]></title>
+        <id>120323</id>
+        <link href="https://www.gameinformer.com/2023/04/26/uk-regulators-block-microsofts-acquisition-of-activision-blizzard-over-cloud-gaming"/>
+        <updated>2023-04-26T12:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Editor's Note: This story was updated to include a statement from Activision Blizzard CEO Bobby Kotick and another from Activision Blizzard regarding the CMA's ruling. 
+The Competition and Markets Authority, a U.K. regulatory agency that serves the same function as the Federal Trade Commission in the U.S., has blocked Microsoft's pending $68.7 billion acquisition of Activision Blizzard over cloud gaming concerns. 
+This news is somewhat shocking, as quite a few experts predicted the CMA would allow the deal to go through, and while this block presents a large barrier to Microsoft's progress forward toward this acquisition, it's not a be-all, end-all for the purchase. Microsoft says it remains dedicated to this acquisition and will appeal the CMA's ruling. 
+
+
+As for why the CMA is moving to …]]></summary>
+        <author>
+            <name>Wesley LeBlanc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft's proposed Activision Blizzard acquisition has been blocked by the UK]]></title>
         <id>https://www.rockpapershotgun.com/microsofts-proposed-activision-blizzard-acquisition-has-been-blocked-by-the-uk</id>
@@ -19,6 +171,19 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft's Activision Blizzard Acquisition Has Been Officially Blocked In The UK]]></title>
+        <id>https://www.nintendolife.com/#article-148618</id>
+        <link href="https://www.nintendolife.com/news/2023/04/microsofts-activision-blizzard-acquisition-has-been-officially-blocked-in-the-uk"/>
+        <updated>2023-04-26T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Is Microsoft's deal with Nintendo in jeopardy?
+Microsoft's planned acquisition of publisher Activision Blizzard has been officially blocked in the UK by the Competition and Markets Authority (CMA).
+The $68.7 billion acquisition was blocked on grounds that it would "alter the future of the fast-growing cloud gaming market, leading to reduced innovation and less choice for UK gamers over the years to come."
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Former Halo, Control Dev Opens Anchor Point Studios For NetEase Games]]></title>
         <id>120316</id>
         <link href="https://www.gameinformer.com/2023/04/26/former-halo-control-dev-opens-anchor-point-studios-for-netease-games"/>
@@ -27,6 +192,8 @@ Read more]]></summary>
 The team is aiming to create "immersive and engaging action-adventure games that offer social and multiplayer experiences," according to a press release. Ehreth, who has more than 20 years of experience as a game director and designer on console and PC games, is joined by a team of industry veterans with experience from Ghost of Tsushima, Red Dead Redemption 2, The Division, and more. 
 
 “We’re so excited to officially drop our anchor in Barcelona, the hometown of my great-grandparents, and start building a strong team for our journey of exploration together with NetEase Games," Ehreth writes in the press release. "Our studio’s motto is ‘Per Aspera, Ad Astra’ (‘through hardships, to the stars’) because we want to build an adventure that will stay fresh and provide a unique experience that will surprise and delight people each time they play, and I want us to acknowledge the challenges we are setting out to face. We're grateful to NetEase Games for giving us the creative freedom and resources to build this interconnected world that will expand beyond games and reach into other mediums as well.” 
+Hello world! Anchor Point Studios is founded by industry veterans with a passion for creating immersive and engaging action-adventure games that offer rich social and multiplayer experiences #AnchorPointStudios #Newadventure pic.twitter.com/QMYTd5o79A
+April 26, 2023
 Anchor Point Studios plans to develop action-adventure games for console and PC that "push the boundaries of entertainment and bring elements of surprise into the gameplay."
 
 The studio is based in Barcelona, Spain, but the team will be hiring up to 100 employees across Europe and North America, "seeking developers, technical artists, and designers to work in its offices, remotely, or in a hybrid capacity." 
@@ -1308,45 +1475,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Studio Trigger Reveals Stunning Opening Cinematic For New Switch Free-To-Play Omega Strikers]]></title>
-        <id>https://www.nintendolife.com/#article-148496</id>
-        <link href="https://www.nintendolife.com/news/2023/04/studio-trigger-reveals-stunning-opening-cinematic-for-new-switch-free-to-play-omega-strikers"/>
-        <updated>2023-04-25T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Launching later this week.
-If you're looking for a reason to get excited about the upcoming free-to-play "footbrawler" Omega Strikers, then check out the opening cinematic video for the game.
-It's not just any old clip, this one has been done by the talented Japanese animation studio, Studio Trigger - perhaps best known in recent times for its work on the Netflix Cyberpunk: Edgerunner series but also known for past hits like Kill la Kill and even its contributions to game series like Shantae.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Kirby's Dream Land 2 ROM Hack Adds Colour To The Game Boy Classic]]></title>
-        <id>https://www.nintendolife.com/#article-148494</id>
-        <link href="https://www.nintendolife.com/news/2023/04/this-kirbys-dream-land-2-rom-hack-adds-colour-to-the-game-boy-classic"/>
-        <updated>2023-04-25T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Includes other features "enhancing the overall experience".
-
-Although Nintendo has officially called time on Kirby's 30th anniversary, fans of the pink puff are seemingly still going with all sorts of creations. One, in particular, that's caught the attention of the wider Nintendo community is a new ROM hack for the 1995 release Kirby's Dream Land 2 - adding proper support for the Game Boy Color.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Scarlet & Violet 'Great Ball Backpack' Reward Available To Global Challenge Participants]]></title>
-        <id>https://www.nintendolife.com/#article-147916</id>
-        <link href="https://www.nintendolife.com/news/2023/04/pokemon-scarlet-and-violet-great-ball-backpack-reward-available-to-global-challenge-participants"/>
-        <updated>2023-04-25T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Update: Available now on Pokémon HOME.
-Update :
-If you participated in the Global Challenge 2023 II event on the weekend, you should now be able to claim this serial code for a Great Ball Canvas Backpack in the mobile version of Pokémon HOME.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel's Open-Source Vulkan Driver Lands Another Small Performance Optimization]]></title>
         <id>https://www.phoronix.com/news/Intel-Fast-Clear-vkCmdClearAtt</id>
         <link href="https://www.phoronix.com/news/Intel-Fast-Clear-vkCmdClearAtt"/>
@@ -2262,26 +2390,6 @@ The most memorable companion in The Legend of Zelda series is Midna. Her cheek
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Improved Linux Power Savings For Intel Haswell/Broadwell Laptops In 2023]]></title>
-        <id>https://www.phoronix.com/news/Intel-HSW-BDW-PSR1-Redux-2023</id>
-        <link href="https://www.phoronix.com/news/Intel-HSW-BDW-PSR1-Redux-2023"/>
-        <updated>2023-04-23T10:52:18.000Z</updated>
-        <summary type="html"><![CDATA[It's been just shy of ten years since Intel launched their Haswell processors that were very successful at the time and was followed by Broadwell. While Intel's open-source Linux driver engineers are primarily concentrated on recent and future Intel hardware platforms, occasionally there is an improvement worth mentioning for mature platforms like Haswell and Broadwell. A new patch series this week will help with some minor graphics power-savings for those still running a nearly decade old Intel Linux laptop...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flashrom Splits Into Two For This Firmware/ROM Flashing Utility]]></title>
-        <id>https://www.phoronix.com/news/Flashrom-Splits-Into-Two</id>
-        <link href="https://www.phoronix.com/news/Flashrom-Splits-Into-Two"/>
-        <updated>2023-04-23T10:31:26.000Z</updated>
-        <summary type="html"><![CDATA[The Flashrom project that serves as an open-source firmware/ROM flashing utility not only for system BIOS/UEFI on motherboards but also capable of flashing firmware for various network / GPU / storage controller cards and other programmable devices has decided to effectively split into two...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Review: The Mageseeker: A League of Legends Story]]></title>
         <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=374430</id>
         <link href="https://www.destructoid.com/reviews/the-mageseeker-a-league-of-legends-story-review-ps5/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-mageseeker-a-league-of-legends-story-review-ps5"/>
@@ -2957,17 +3065,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Levi Winslow</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Pokémon Card I've Gotten From My Local Weed Shop, Ranked]]></title>
-        <id>1850358605</id>
-        <link href="https://kotaku.com/pokemon-cards-weed-pot-420-charmander-swablu-shinx-1850358605"/>
-        <updated>2023-04-20T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m not exactly up to speed on laws governing the sale of marijuana here in New York, but as a way of circumventing certain restrictions, there are some shops here where, rather than buying weed, you’re “technically” buying something else and getting some weed, gratis, with your purchase. This is how I wound up with a…
-Read more...]]></summary>
-        <author>
-            <name>Carolyn Petit</name>
         </author>
     </entry>
     <entry>
@@ -3649,16 +3746,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moore Threads, čínský výrobce GPU, již přispívá do FFmpeg a VA-API]]></title>
-        <id>www.root.cz-actuality-44652</id>
-        <link href="https://www.root.cz/zpravicky/moore-threads-cinsky-vyrobce-gpu-jiz-prispiva-do-ffmpeg-a-va-api/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-04-19T10:41:18.000Z</updated>
-        <summary type="html"><![CDATA[Závislost na západních GPU se Čína před pár lety rozhodla vyřešit založením místní společnosti Moore Threads. Letos byla ohlášena první GPU pod touto značkou a vývojáři z Moore Threads již (vedle samozřejmě podpory platformy Windows) přispívají kousky kódu do relevantních open-source projektů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Smart home prototype by a Master of IoT]]></title>
         <id>https://www.raspberrypi.com/?p=94877</id>
         <link href="https://www.raspberrypi.com/news/smart-home-prototype-by-a-master-of-iot/"/>
@@ -3679,16 +3766,6 @@ Enter Novatech, who are offering a Palit RTX 4070 for just £550, a £40 reducti
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vytvořte si bezpečnou VPN pomocí OpenVPN (školení)]]></title>
-        <id>www.root.cz-actuality-41285</id>
-        <link href="https://www.root.cz/zpravicky/vytvorte-si-bezpecnou-vpn-pomoci-openvpn-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-04-19T08:05:46.000Z</updated>
-        <summary type="html"><![CDATA[VPN umožňuje bezpečně propojit různá zařízení pomocí šifrovaných tunelů. Umožňuje také zapojit uživatele do vnitřní sítě přes zabezpečený přístupový bod. Na našem školení VPN a bezpečné připojení k síti s OpenVPN si prakticky ukážeme, jak to celé nastavit a zprovoznit.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -3776,16 +3853,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Dnes si představíme editor pro psaní románů, budeme převádět mezi formáty digitálních souborů a vyzkoušíme si přehrávač vizuálních efektů, animací a počítačové grafiky.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyšla Fedora 38 s GNOME 44 i rychlejším vypínáním]]></title>
-        <id>www.root.cz-actuality-44651</id>
-        <link href="https://www.root.cz/zpravicky/vysla-fedora-38-s-gnome-44-i-rychlejsim-vypinanim/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-04-18T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fedora s pořadovým číslem 38 je na světě a vedle obvyklých variant s GNOME, KDE a dalšími desktopy nově přidává také Spin s Budgie (prvně zabalíčkován pro Fedoru 37) s také se správcem oken Sway / „Sericea“ (varianta rpm-ostree). Mobility SIG v rámci Fedory pak přidává Phosh obraz pro mobilní zařízení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4773,20 +4840,6 @@ During the 2022 Game Awards, Immortals of Aveum was announced with a teaser trai
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Here's The Final Action-Packed Trailer For The Legend Of Zelda: Tears Of The Kingdom]]></title>
-        <id>120264</id>
-        <link href="https://www.gameinformer.com/2023/04/13/heres-the-final-action-packed-trailer-for-the-legend-of-zelda-tears-of-the-kingdom"/>
-        <updated>2023-04-13T14:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo unveiled the final pre-launch trailer for The Legend of Zelda: Tears of the Kingdom, giving fans one last look at the hotly anticipated sequel before it releases next month. 
-The three-minute video provides a cinematic look at never-before-seen locations, puzzles, and enemies, including the newly returned Ganondorf. 
-
-
-The Legend of Zelda: Tears of the Kingdom releases on May 12 for Switch. To learn more, check out the game’s previous trailer as well as its special edition Switch OLED.]]></summary>
-        <author>
-            <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Yodeck bakes Raspberry Pi into digital signage all over the world]]></title>
         <id>https://www.raspberrypi.com/?p=94916</id>
         <link href="https://www.raspberrypi.com/news/yodeck-bakes-raspberry-pi-into-digital-signage-all-over-the-world/"/>
@@ -4795,49 +4848,6 @@ The Legend of Zelda: Tears of the Kingdom releases on May 12 for Switch. To lear
 The post Yodeck bakes Raspberry Pi into digital signage all over the world appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MLB The Show 23 Review - Loading The Bases]]></title>
-        <id>120255</id>
-        <link href="https://www.gameinformer.com/review/mlb-the-show-23/loading-the-bases"/>
-        <updated>2023-04-12T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Reviewed on:
-      PlayStation 5
-      
-Platform:
-      PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox One, Switch
-      
-Publisher:
-      PlayStation Studios
-      
-Developer:
-      Sony Interactive Entertainment San Diego Studio
-      
-Release:
-                      	March 28, 2023
-			
-            
-Rating:
-      Everyone
-      
-Each year, developers of annualized sports franchises work to craft new experiences to try and avoid the community criticism that each successive release is "just a roster update." While real-life sports don’t evolve much year over year, developers still need to provide players with reasons to come back each time, whether that be gameplay improvements, enhanced modes, or better visuals. MLB The Show 23 does all of that while also exploring a unique avenue – h…]]></summary>
-        <author>
-            <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Redfall Will Only Launch With Quality Mode On Xbox]]></title>
-        <id>120260</id>
-        <link href="https://www.gameinformer.com/2023/04/12/redfall-will-only-launch-with-quality-mode-on-xbox"/>
-        <updated>2023-04-12T15:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Xbox fans eager to jump into Redfall next month will initally have to make do with only one graphics option as the game won’t be launching with a Performance mode.
-In a tweet, Arkane reveals that only Quality mode will be available when the game releases on May 2. A 60 FPS Performance option is coming at an unspecified date, but until it does, here’s how the game will run depending on your hardware:
-Xbox Series X - 4K 30 FPS
-Xbox Series S - 1440p 30 FPS
-Sounds like PC is the way to go if you value performance over resolution, but hopefully, it doesn’t take too long for the option to appear on console. For more on Redfall, you can listen to our interview with Arkane Studios’ Harvey Smith in this episode of The Game Informer Show, then check out this article revealing the canceled PlayStation 5 version of the game.]]></summary>
-        <author>
-            <name>Marcus Stewart</name>
         </author>
     </entry>
     <entry>
