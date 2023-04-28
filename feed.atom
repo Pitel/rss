@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-28T06:12:59.238Z</id>
+    <id>urn:2023-04-28T08:12:16.794Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-04-28T06:12:59.238Z</updated>
+    <updated>2023-04-28T08:12:16.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Keeping an eye on nocturnal visitors | HackSpace #66]]></title>
+        <id>https://www.raspberrypi.com/?p=95538</id>
+        <link href="https://www.raspberrypi.com/news/keeping-an-eye-on-nocturnal-visitors-hackspace-66/"/>
+        <updated>2023-04-28T07:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Andrew Gregory explains how he set up a wildlife camera to track mysterious nocturnal visitors that kept waking up his dog. Spooky.
+The post Keeping an eye on nocturnal visitors | HackSpace #66 appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Andrew Gregory</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centreon 23.04]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/centreon-23.04</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/centreon-23.04"/>
+        <updated>2023-04-28T06:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Vychází nová verze monitorovacího řešení Centreon 23.04. Mezi novinky patří implementace SAML 2.0. Anomaly Detection přešlo z bety na produkční režim a při vhodném nastavení už není potřeba fixně definovat prahové hodnoty (varování, kritické apod.).
+
+Dále byla vylepšena integrace s Grafanou (Grafana Plugin) a skončila podpora CentOS 7. Kdo chce tedy upgradovat na 23.04, musí upgradovat os na RHEL like systémy ve verích  8, nebo 9, případně na Debian 11. Podrobnější informace na Centreon Blog.]]></summary>
+        <author>
+            <name>Max</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 12 Bookworm vyjde v sobotu 10. června]]></title>
+        <id>www.root.cz-actuality-44679</id>
+        <link href="https://www.root.cz/zpravicky/debian-12-bookworm-vyjde-v-sobotu-10-cervna/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-04-28T06:34:13.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři Debianu zveřejnili plány na vydání nové verze s kódovým označením Bookworm. K plnému zmrazení (full freeze) dojde ve středu 25. května a od té doby budou změny probíhat jen po schválení týmu zodpovědného za vydání. Týden před ostrým vydáním se testing úplně zmrazí a přidávat se budou jen mimořádné opravy chyb. Ostré vydání je pak naplánováno na sobotu 10. června.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Routování? Ano, ale jinak]]></title>
         <id>www.root.cz-text-16571</id>
@@ -3170,16 +3203,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Novinky v Kdenlive 23.04.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/novinky-v-kdenlive-23.04.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/novinky-v-kdenlive-23.04.0"/>
-        <updated>2023-04-24T10:56:12.000Z</updated>
-        <summary type="html"><![CDATA[Farid Abdelnour se v příspěvku na blogu rozepsal o novinkám v nejnovější verzi 23.04.0 editoru videa Kdenlive (Wikipedie).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CZ.NIC vydal dvě nové verze routovacího démona BIRD]]></title>
         <id>www.root.cz-actuality-44665</id>
         <link href="https://www.root.cz/zpravicky/cz-nic-vydal-dve-nove-verze-routovaciho-demona-bird/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -4069,16 +4092,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hra zdarma na Steamu: Desktop Dungeons]]></title>
-        <id>www.root.cz-actuality-44656</id>
-        <link href="https://www.root.cz/zpravicky/hra-zdarma-na-steamu-desktop-dungeons/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-04-20T08:02:40.000Z</updated>
-        <summary type="html"><![CDATA[Na Steamu je možné zdarma získat hru Desktop Dungeons Enhanced Edition. Jde o hru na jeskyně a draky (D&D) s jednoduchými pravidly a malým vlivem náhody. Jeskyně jsou náhodně generovány a můžete v nich umřít do 10 minut na mnoho způsobů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Portable Commodore gaming station]]></title>
         <id>https://www.raspberrypi.com/?p=95287</id>
         <link href="https://www.raspberrypi.com/news/portable-commodore-gaming-station/"/>
@@ -4887,17 +4900,6 @@ It was time to update and redefine our visual identity to bring more consistency
 So there you have it. What do you think of Remedy’s new logo? Let us know in the comments.]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to build your own Raspberry Pi watch]]></title>
-        <id>https://www.raspberrypi.com/?p=94946</id>
-        <link href="https://www.raspberrypi.com/news/how-to-build-your-own-raspberry-pi-watch/"/>
-        <updated>2023-04-14T09:49:32.000Z</updated>
-        <summary type="html"><![CDATA[We were talking about the idea of a Raspberry Pi-powered watch, then we found one and figured out how to program it. You can do it too.
-The post How to build your own Raspberry Pi watch appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Ashley Whittaker</name>
         </author>
     </entry>
     <entry>
