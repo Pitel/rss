@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T18:10:48.161Z</id>
+    <id>urn:2023-04-30T20:09:32.261Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-04-30T18:10:48.161Z</updated>
+    <updated>2023-04-30T20:09:32.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A-GPS od firmy Qualcomm je zdielny viac, ako je zdravé]]></title>
+        <id>www.root.cz-actuality-44684</id>
+        <link href="https://www.root.cz/zpravicky/a-gps-od-firmy-qualcomm-je-zdielny-viac-ako-je-zdrave/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-04-30T18:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Podľa Paul Privacy posiela firmware Qualcomm chipov v rámci A-GPS požiadavky oveľa viac dát ako by bolo vhodné. Naviac dáta idú ako nešifrované cez HTTP.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: srnec)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Disney locations that would fit perfectly in Disney Speedstorm]]></title>
         <id>https://www.destructoid.com/?p=375160</id>
@@ -117,6 +127,18 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[The HID subsystem updates were merged this week for the Linux 6.4 kernel that is now half-way through its merge window...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
+        <id>https://www.destructoid.com/?p=375090</id>
+        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-242/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-242"/>
+        <updated>2023-04-30T10:00:16.000Z</updated>
+        <summary type="html"><![CDATA[The storm is coming...
+Good, nay, great morning to y'all, and welcome to April's last Whatcha Been Playing? Well, that month literally vanished in the blink of an eye, and with May comes the countdown to some of the year's biggest releases, including Street Fighter 6, Diablo IV, and some little fella with a sword. I hope that the first third of the year has been kind to you. If it has been a rough ride, I feel you, it has been that way for a lot of us. But we can put that behind us, and roll into Act 2 full of pith and vinegar. I believe in you.
+Stoked to see you here on this fine Saturday morn, and I'm already looking forward to reading through all of your comments this weekend. I hope that this Saturday/Sunday is a wicked one for you. Do something new, I dunno. Bake a pie. Do some chains…]]></summary>
+        <author>
+            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -440,18 +462,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[KDE developers this month have been tackling many open bugs as well as seeing the early Plasma 6 development state rough yet usable. In ending out April, they continued their "bug slaughterfest" in whittling away at their open bug count...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
-        <id>https://www.destructoid.com/?p=375090</id>
-        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-242/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-242"/>
-        <updated>2023-04-29T10:00:16.000Z</updated>
-        <summary type="html"><![CDATA[The storm is coming...
-Good, nay, great morning to y'all, and welcome to April's last Whatcha Been Playing? Well, that month literally vanished in the blink of an eye, and with May comes the countdown to some of the year's biggest releases, including Street Fighter 6, Diablo IV, and some little fella with a sword. I hope that the first third of the year has been kind to you. If it has been a rough ride, I feel you, it has been that way for a lot of us. But we can put that behind us, and roll into Act 2 full of pith and vinegar. I believe in you.
-Stoked to see you here on this fine Saturday morn, and I'm already looking forward to reading through all of your comments this weekend. I hope that this Saturday/Sunday is a wicked one for you. Do something new, I dunno. Bake a pie. Do some chains…]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -3581,16 +3591,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 The post CinePI: a high-end film camera built on Raspberry Pi appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Rob Zwetsloot</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro 6.3 odstraňuje podporu starých desek a grafických karet]]></title>
-        <id>www.root.cz-actuality-44661</id>
-        <link href="https://www.root.cz/zpravicky/jadro-6-3-odstranuje-podporu-starych-desek-a-grafickych-karet/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-04-24T07:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Podle očekávání vyšlo linuxové jádro verze 6.3, podstatným novinkám jsme se už věnovali v samostatném článku. Toto vydání odstraňuje podporu mnoha souborů a ovladačů týkajících se zastaralých desek s procesory Arm, dále vylepšuje stále minimalistickou podporu jazyka Rust, rozšiřuje možnosti BPF, přidává ID-mapped mounts pro souborový systém tmpfs, nabízí podporu BIG TCP pro IPv4 a podporu nespustitelných memfds.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
