@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-04-30T20:09:32.261Z</id>
+    <id>urn:2023-04-30T22:08:33.835Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-04-30T20:09:32.261Z</updated>
+    <updated>2023-04-30T22:08:33.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: chyba routerů TP-Link umožňuje ovládnutí z WAN]]></title>
+        <id>www.root.cz-text-16573</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-chyba-routeru-tp-link-umoznuje-ovladnuti-z-wan/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-04-30T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[V dnešním díle Postřehů se podíváme na dvě zranitelnosti v zařízeních TP-Link Archer AX21, které již aktivně zneužívá botnet Mirai, dále na zranitelnosti RTU Inea a na nejproblematičtější IoT zařízení.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: CSIRT.CZ)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 23.10 bude „Mantic Minotaur“, blíží se vydání Debianu 12]]></title>
+        <id>www.root.cz-text-16572</id>
+        <link href="https://www.root.cz/clanky/ubuntu-23-10-bude-mantic-minotaur-blizi-se-vydani-debianu-12/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-04-30T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Příští vydání Ubuntu 23.10 se bude jmenovat „Mantic Minotaur“. Debian 12 s kódovým označením „Bookworm“ vyjde 10. června tohoto roku. Výkonný ředitel společnosti Red Hat ve svém emailu oznámil propouštění.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EROFS Receives Some Useful Improvements With Linux 6.4]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.4-EROFS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.4-EROFS"/>
+        <updated>2023-04-30T20:21:50.000Z</updated>
+        <summary type="html"><![CDATA[It sure doesn't feel like it's already been five years since Huawei announced EROFS as a read-only file-system initially designed for Android devices but has proven useful in the mainline Linux kernel to Linux users at large with interesting use-cases also coming up around containers and more. With the in-development Linux 6.4 kernel are yet more improvements to this read-only file-system...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A-GPS od firmy Qualcomm je zdielny viac, ako je zdravé]]></title>
         <id>www.root.cz-actuality-44684</id>
@@ -2579,16 +2609,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GNOME 44.1 Released With Many Fixes]]></title>
-        <id>https://www.phoronix.com/news/GNOME-44.1-Released</id>
-        <link href="https://www.phoronix.com/news/GNOME-44.1-Released"/>
-        <updated>2023-04-26T16:00:53.000Z</updated>
-        <summary type="html"><![CDATA[It's been one month already since the debut of GNOME 44 and out today is the first point release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Humanity | New Gameplay Today]]></title>
         <id>120320</id>
         <link href="https://www.gameinformer.com/ngt/2023/04/26/humanity-new-gameplay-today"/>
@@ -3621,26 +3641,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Bezpečnost platformy Kubernetes v roce 2023. Roadshow SWS se zastávkou v Praze. Moderní chatboty inspirují k modifikovaným verzím Turingova testu. HPE rozšiřuje portfolio Alletra o nové služby pro ochranu souborů, bloků a dat. Rozvoj metaverza podnítí zájem o vysokorychlostní připojení.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: bez záplat v software už nelétají ani vrtulníky]]></title>
-        <id>www.root.cz-text-16560</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-bez-zaplat-v-software-uz-neletaji-ani-vrtulniky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-04-23T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V dnešním díle pravidelného pondělního souhrnu se podíváme na změny v šíření malwaru QBot, ransomware LockBit cílící na macOS nebo havárii vrtulníku údajně způsobenou chybějící softwarovou záplatou.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Kopřiva)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linuxová distribuce Solus se vrací, vyšlo Ubuntu 23.04 s GNOME 44]]></title>
-        <id>www.root.cz-text-16557</id>
-        <link href="https://www.root.cz/clanky/linuxova-distribuce-solus-se-vraci-vyslo-ubuntu-23-04-s-gnome-44/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-04-23T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Vyšlo nové Ubuntu 23.04 s kódovým označením „Lunar Lobster“. Projekt Solus plánuje návrat po měsících nečinnosti. Vyšla Fedora 38 s plným přístupem k Flathubu. Firmware Libreboot přidává podporu pro starší notebooky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
         </author>
     </entry>
     <entry>
