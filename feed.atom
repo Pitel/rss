@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-01T00:54:27.959Z</id>
+    <id>urn:2023-05-01T02:28:29.733Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-01T00:54:27.959Z</updated>
+    <updated>2023-05-01T02:28:29.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Silly Open-Source Moves, AMD openSIL & Rust Happenings Made For An Interesting Month]]></title>
+        <id>https://www.phoronix.com/news/April-2023-Highlights</id>
+        <link href="https://www.phoronix.com/news/April-2023-Highlights"/>
+        <updated>2023-05-01T01:11:28.000Z</updated>
+        <summary type="html"><![CDATA[During this month on Phoronix were 242 news articles on Phoronix with original content each and every day presented by your's truly around open-source and Linux. April was interesting with the release of Linux 6.3, all of the exciting Linux  6.4 features merged so far, AMD introducing openSIL for open-source CPU silicon initialization with support for Coreboot and similar firmware solutions, Fedora 38 and Ubuntu 23.04 being released, and much more...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wait, Kurt Busiek & Mike Mignola Made A Final Fantasy Comic??!!]]></title>
+        <id>1850390157</id>
+        <link href="https://kotaku.com/kurt-busiek-mike-mignola-hellboy-final-fantasy-comic-1850390157"/>
+        <updated>2023-05-01T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m not a full-time comics guy, but I certainly have my favourites. And Hellboy might be my most favourite of all, so to have gone decades without knowing that its creator Mike Mignola worked on a Final Fantasy comic has blown my weekend wide open.
+
+Read more...]]></summary>
+        <author>
+            <name>Luke Plunkett</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distribuční novinky 11-13/2023]]></title>
+        <id>http://www.abclinuxu.cz/clanky/distribucni-novinky-11-13-2023</id>
+        <link href="http://www.abclinuxu.cz/clanky/distribucni-novinky-11-13-2023"/>
+        <updated>2023-05-01T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kali Linux oslavil 10 let a k aktualizaci přidal novou variantu zaměřenou na obranu. Jaro přineslo také přechod mobilního Ubuntu Touch konečně na novější vydání Ubuntu. Kolem toho se sešly aktualizace řady dalších, úžeji zaměřených distribucí: Qubes OS, SystemRescue, Tails, Trisquel, portfolia firmy Proxmox, MidnightBSD, LibreELEC, Slackel, Porteus Kiosk nebo Finnix. Také Ubuntu dostalo nové LTS obrazy.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Skyrim Mod Is A Robotic Horror Movie]]></title>
         <id>1850390097</id>
@@ -2434,16 +2466,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.4 Brings Improved MSI Laptop Support, Apple GMUX Support For T2 Macs]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.4-x86-Platform-Drivers</id>
-        <link href="https://www.phoronix.com/news/Linux-6.4-x86-Platform-Drivers"/>
-        <updated>2023-04-26T21:00:11.000Z</updated>
-        <summary type="html"><![CDATA[The x86 platform driver updates for the Linux 6.4 kernel merge window have landed. This includes numerous x86 laptop driver benefits as well as other new features for the platform-drivers-x86 subsystem...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Horizon Forbidden West: Burning Shores Review – Finishing Strong]]></title>
         <id>120325</id>
         <link href="https://www.gameinformer.com/review/horizon-forbidden-west-burning-shores/finishing-strong"/>
@@ -3073,17 +3095,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Sonda do světa otevřeného softwaru. Dnes si přečteme v rychlosti texty, podíváme se na čtečku pro Wikipedii, přečteme si elektronické knihy a porovnáme mezi sebou obrázky a videa.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metacritic Will Improve Moderation After Horizon Review Bombing]]></title>
-        <id>1850375049</id>
-        <link href="https://kotaku.com/horizon-forbidden-west-burning-ps5-metacritic-review-1850375049"/>
-        <updated>2023-04-25T21:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Following the recent review bombing of Horizon Forbidden West’s latest story DLC Burning Shores, review aggregator Metacritic has confirmed in a statement to Eurogamer that the site is “evolving [its] processes” to introduce tools that will create stricter moderation for abusive and disrespectful reviews.
-Read more...]]></summary>
-        <author>
-            <name>Levi Winslow</name>
         </author>
     </entry>
     <entry>
@@ -4959,16 +4970,6 @@ You will need the data files from the games’ original install CDs, and a fresh
         <summary type="html"><![CDATA[OpenTTD 13.0 has been out for two months and we’ve found some bugs to fix. Most notably, we’ve fixed two kinds of crashes: Road vehicles inside multi-track level crossings no longer crash into the side of trains. The game no longer crashes when a spectator in a network game tries to interact with a town’s local authority. For NewGRF authors using the new engine variant feature introduced in 13.0, we’ve added a callback to select how the engine’s name is displayed in the buy menu. As always, there are plenty of other bugfixes, which you can find in the changelog. Download Changelog Bug tracker]]></summary>
         <author>
             <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Událo se v týdnu 14/2023]]></title>
-        <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-14-2023</id>
-        <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-14-2023"/>
-        <updated>2023-04-07T22:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
     <entry>
