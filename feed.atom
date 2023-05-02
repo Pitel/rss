@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-02T04:11:27.562Z</id>
+    <id>urn:2023-05-02T06:13:20.434Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-02T04:11:27.562Z</updated>
+    <updated>2023-05-02T06:13:20.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenRazer 3.6 podporuje 11 dalších zařízení Razer]]></title>
+        <id>www.root.cz-actuality-44686</id>
+        <link href="https://www.root.cz/zpravicky/openrazer-3-6-podporuje-11-dalsich-zarizeni-razer/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-02T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nová verze otevřené implementace podpory pro jinak na Linuxu výrobce zcela ignorovaná zařízení Razer, přidává na seznam podporovaných dalších 11 kousků, konkrétně: Laptop Stand Chroma, Blade 14 (2022), Core X Chroma, Basilisk V3 Pro, DeathStalker V2 Pro, Blade 15 Base (2022), HyperPolling Wireless Dongle, Pro Click Mini (Receiver), DeathStalker V2 Pro TKL (Wired and Wireless), Ornata V3 X a DeathAdder V2 Lite.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mortal Kombat 12 Teased By NetherRealm In 30th Anniversary Video]]></title>
         <id>https://www.nintendolife.com/#article-148849</id>
@@ -88,6 +98,16 @@ Here's your reminder that this trial is now live! It's available in both North A
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClamAV 1.1.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/clamav-1.1.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/clamav-1.1.0"/>
+        <updated>2023-05-02T00:22:50.000Z</updated>
+        <summary type="html"><![CDATA[ClamAV (Wikipedie), tj. multiplatformní antivirový engine s otevřeným zdrojovým kódem pro detekci trojských koní, virů, malwaru a dalších škodlivých hrozeb, byl vydán v nové stabilní verzi 1.1.0.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -197,9 +217,9 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oprava někdy nefungujícího USB u Intelu byla pro Linuxu 6.4 triviální]]></title>
+        <title type="html"><![CDATA[Oprava někdy nefungujícího USB u Intelu byla pro Linux 6.4 triviální]]></title>
         <id>www.root.cz-actuality-44685</id>
-        <link href="https://www.root.cz/zpravicky/oprava-nekdy-nefungujiciho-usb-u-intelu-byla-pro-linuxu-6-4-trivialni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <link href="https://www.root.cz/zpravicky/oprava-nekdy-nefungujiciho-usb-u-intelu-byla-pro-linux-6-4-trivialni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-05-01T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[V listopadu loňského roku nahlásil vývojáž z Canonicalu do jádra chybu, kdy si povšiml, že na různých noteboocích se stává, že po probuzení notebooku nefunguje USB. Problém byl identifikován na některých noteboocích platformy Intel Comet Lake a bylo těžké jej debuggovat. Až Mika Westerberg z Intelu vedoucí vývoj zaměřující se na podporu Thunderboltu, který dnes typicky po USB běhá, dostal do ruky inkriminovaný hardware a všiml si, že jde o chybu týkající se xHCI řadiče Intel Titan Ridge a řešení je vpravdě jednoduché.]]></summary>
         <author>
@@ -2572,20 +2592,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Další výkonnostní vylepšení v BTRFS]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/dalsi-vykonnostni-vylepseni-v-btrfs</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/dalsi-vykonnostni-vylepseni-v-btrfs"/>
-        <updated>2023-04-27T12:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.4 obdržel sadu patchů, které vylepšují výkon souborového systému btrfs. Konkrétně je až 4x rychlejší fsync a o cca 10% se zrychluje i scrub. Podrobnější informace na phoronix.com.
-
-
-
-Do btrfs chodí v posledních verzích kernelu čím dál více podobných optimalizací. Do Linux 6.3 přibylo také spousta výkonnostních optimalizací. To samé do Linux 6.2 včetně vylepšení implementace RAID5/6]]></summary>
-        <author>
-            <name>Max</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dota 2's New Frontiers update makes it worth returning to, but it's still overwhelming for new players]]></title>
         <id>https://www.rockpapershotgun.com/dota-2s-new-frontiers-update-makes-it-worth-returning-to-but-its-still-overwhelming-for-new-players</id>
         <link href="https://www.rockpapershotgun.com/dota-2s-new-frontiers-update-makes-it-worth-returning-to-but-its-still-overwhelming-for-new-players"/>
@@ -3706,16 +3712,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Provozujete vlastní infrastrukturu a chcete vědět, v jakém stavu se v každém okamžiku nachází? Zabbix vám umožní monitorovat infrastrukturu z pohledu sítí, tak i z pohledu operačních systémů až po aplikace. Přináší ucelené monitorovací řešení. Naučíme vás konfigurovat monitorovací systém Zabbix od základních kroků až po složité nízkoúrovňové objevování monitorovaných objektů.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Registrace na jOpenSpace 2023 jsou otevřeny]]></title>
-        <id>www.root.cz-actuality-44662</id>
-        <link href="https://www.root.cz/zpravicky/registrace-na-jopenspace-2023-jsou-otevreny/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-04-24T08:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Čtrnáctý ročník ne-konference jOpenSpace se koná 6. – 8. října 2023 v Hotelu Antoň v Telči. Pro účast je potřeba vyplnit registrační formulář. Ne-konference neznamená, že se organizátorům nechce připravovat program, ale naopak dává prostor všem pozvaným, aby si program sami složili z toho nejzajímavějšího, čím se v poslední době zabývají nebo co je oslovilo.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Zdenek Henek)</name>
         </author>
     </entry>
     <entry>
