@@ -1,10 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-03T22:09:01.494Z</id>
+    <id>urn:2023-05-04T00:51:07.559Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-03T22:09:01.494Z</updated>
+    <updated>2023-05-04T00:51:07.559Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[K účtům Google se lze nově přihlašovat pomocí přístupových klíčů (passkeys)]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/k-uctum-google-se-lze-nove-prihlasovat-pomoci-pristupovych-klicu-passkeys</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/k-uctum-google-se-lze-nove-prihlasovat-pomoci-pristupovych-klicu-passkeys"/>
+        <updated>2023-05-03T23:33:22.000Z</updated>
+        <summary type="html"><![CDATA[K účtům Google se lze nově přihlašovat pomocí přístupových klíčů (passkeys), tj. pomocí otisku prstu, obličeje, zámku obrazovky nebo hardwarového bezpečnostního klíče.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's Linux Distribution Finally Adds Support For XFS Root File-Systems]]></title>
+        <id>https://www.phoronix.com/news/Microsoft-Adds-XFS-Mariner</id>
+        <link href="https://www.phoronix.com/news/Microsoft-Adds-XFS-Mariner"/>
+        <updated>2023-05-03T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While many Linux distributions look at Btrfs or F2FS when evaluating new root file-system options or even something like OpenZFS, in the case of Microsoft's in-house Linux distribution only this month have they even gotten to supporting XFS as a root file-system option...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dav1d 1.2.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/dav1d-1.2.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/dav1d-1.2.0"/>
+        <updated>2023-05-03T22:50:40.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Baptiste Kempf v příspěvku na svém blogu oznámil vydání nové verze 1.2.0 svobodného AV1 dekodéru dav1d. Počet řádků ručně psaného assembleru překročil 200 000.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel’s Spider-Man 2 Prequel Comic Pulls New Villain Into The ‘Gamerverse’]]></title>
+        <id>1850401784</id>
+        <link href="https://kotaku.com/marvel-spider-man-2-prequel-free-comic-book-day-ps5-1850401784"/>
+        <updated>2023-05-03T22:25:00.000Z</updated>
+        <summary type="html"><![CDATA[PSA to all my fellow true believers and web-heads around the world: the hotly-anticipated Marvel’s Spider-Man 2 is getting a prequel comic on May 6, also known as Free Comic Book Day.
+Read more...]]></summary>
+        <author>
+            <name>Isaiah Colbert</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework Laptop 13 s AMD Ryzen 7040]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/framework-laptop-13-s-amd-ryzen-7040</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/framework-laptop-13-s-amd-ryzen-7040"/>
+        <updated>2023-05-03T22:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Framework Computer představila svůj nový modulární notebook Framework Laptop 13 s AMD Ryzen 7040. Předobjednat jej lze bez operačního systému s dodáním ve třetím čtvrtletí tohoto roku.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Nintendo Of America President Memes On Zelda Leaks]]></title>
+        <id>1850401749</id>
+        <link href="https://kotaku.com/zelda-tears-kingdom-leak-reggie-nintendo-liam-neeson-1850401749"/>
+        <updated>2023-05-03T22:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The Legend of Zelda: Tears of the Kingdom leaked earlier this week, and some players have been scrambling to try and play the Switch game ahead of its May 12 release date. While Nintendo hasn’t officially acknowledged the situation, someone who used to work there has, and probably not in the way you’d expect.
+Read more...]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zámeček HTTPS zmizí z Chrome, nahradí ho neutrální ikona nastavení]]></title>
         <id>www.root.cz-text-16579</id>
@@ -2564,16 +2626,6 @@ For more on The Super Mario Bros. Movie, check out our review of the film here. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.4 Delivers A Big Performance Boost For VDUSE]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.4-Faster-VDUSE</id>
-        <link href="https://www.phoronix.com/news/Linux-6.4-Faster-VDUSE"/>
-        <updated>2023-05-01T10:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Merged last week for the Linux 6.4 kernel were all of the VirtIO and Virtual Data Path Acceleration (VDPA) changes. Interesting from that pull request is delivering a big performance bump for VDUSE...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Court Protects Redditors’ Right to Anonymous Speech in Piracy Case]]></title>
         <id>https://torrentfreak.com/?p=234393</id>
         <link href="https://torrentfreak.com/court-protects-redditors-right-to-anonymous-speech-in-piracy-case-230501/"/>
@@ -2820,16 +2872,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MagPi 129 a HackSpace 66]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/magpi-129-a-hackspace-66</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/magpi-129-a-hackspace-66"/>
-        <updated>2023-04-28T22:09:38.000Z</updated>
-        <summary type="html"><![CDATA[Nová čísla časopisů od nakladatelství Raspberry Pi: MagPi 129 (pdf) a HackSpace 66 (pdf).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Událo se v týdnu 17/2023]]></title>
         <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-17-2023</id>
         <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-17-2023"/>
@@ -2915,18 +2957,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Newest Steam Update Is Pretty Good, Actually]]></title>
-        <id>1850387146</id>
-        <link href="https://kotaku.com/steam-pc-gaming-beta-update-overlay-toolbar-notes-1850387146"/>
-        <updated>2023-04-28T19:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Steam is getting a new update, and it’s bringing pretty handy features to your PC games to allow you to do more without having to leave your game.
-
-Read more...]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Safe Harbor & Authorization Liability: Australia’s Options to Reduce Piracy]]></title>
         <id>https://torrentfreak.com/?p=234413</id>
         <link href="https://torrentfreak.com/safe-harbor-authorization-liability-australias-options-to-reduce-piracy-230428/"/>
@@ -2935,17 +2965,6 @@ Read more...]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Should Play This Xbox Game Pass Shooter With A Great Lance Reddick Performance]]></title>
-        <id>1850386598</id>
-        <link href="https://kotaku.com/quantum-break-xbox-game-pass-actor-lance-reddick-pc-1850386598"/>
-        <updated>2023-04-28T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Quantum Break, Remedy Entertainment’s ambitious 2016 video game/TV show hybrid, is back on Xbox Game Pass after a brief removal from digital stores due to a licensing issue. This is good news, particularly if you want to see a great Lance Reddick performance.
-Read more...]]></summary>
-        <author>
-            <name>Levi Winslow</name>
         </author>
     </entry>
     <entry>
@@ -3072,16 +3091,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 23.10 bude Mantic Minotaur]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ubuntu-23.10-bude-mantic-minotaur</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ubuntu-23.10-bude-mantic-minotaur"/>
-        <updated>2023-04-28T14:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 23.10 bude Mantic Minotaur (Mantický Mínótauros).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Steam is getting its own notes app, so RIP my gaming notebook, I guess]]></title>
         <id>https://www.rockpapershotgun.com/steam-is-getting-its-own-notes-app-so-rip-my-gaming-notebook-i-guess</id>
         <link href="https://www.rockpapershotgun.com/steam-is-getting-its-own-notes-app-so-rip-my-gaming-notebook-i-guess"/>
@@ -3090,16 +3099,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[openSUSE Leap Micro 5.4]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/opensuse-leap-micro-5.4</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/opensuse-leap-micro-5.4"/>
-        <updated>2023-04-28T14:01:53.000Z</updated>
-        <summary type="html"><![CDATA[Nová verze openSUSE Leap Micro 5.4 je venku. Leap Micro není určeno na desktop, jedná se totiž o Immutable Host OS, využívající transakční aktualizace, podobně jako openSUSE MicroOS nebo Fedora Silverblue. Zkuste si na něm rozjet domácí instanci NextCloudu nebo domácí DNS server, který Vám pomůže s blokováním reklam! Více informací v praktickém hands-on článku.]]></summary>
-        <author>
-            <name>lkocman</name>
         </author>
     </entry>
     <entry>
