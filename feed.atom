@@ -1,10 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-09T10:10:35.986Z</id>
+    <id>urn:2023-05-09T12:56:13.724Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-09T10:10:35.986Z</updated>
+    <updated>2023-05-09T12:56:13.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ASUS ROG CROSSHAIR X670E Hero Sensor Monitoring To Come With Linux 6.5]]></title>
+        <id>https://www.phoronix.com/news/ASUS-X670E-Hero-Linux-Sensors</id>
+        <link href="https://www.phoronix.com/news/ASUS-X670E-Hero-Linux-Sensors"/>
+        <updated>2023-05-09T12:49:09.000Z</updated>
+        <summary type="html"><![CDATA[Sadly missing out on the Linux 6.4 kernel merge window by a few days is support for sensor monitoring with the ASUS ROG CROSSHAIR X670E Hero motherboard...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire v QEMU 8.1]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/pipewire-v-qemu-8.1</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/pipewire-v-qemu-8.1"/>
+        <updated>2023-05-09T12:48:52.000Z</updated>
+        <summary type="html"><![CDATA[Nativní podpora zvukového systému PipeWire byla implementována do QEMU 8.1. V polovině července dojde k jeho zmrazení a během srpna by měla vyjít stabilní verze. PipeWire lze u stávající vývojářské verze QEMU vynutit přes parametr "-audiodev pipewire". Další informace na phoronix.com.]]></summary>
+        <author>
+            <name>Max</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch Surpasses 125 Million Units Sold, But Overall Sales Are Down]]></title>
+        <id>120373</id>
+        <link href="https://www.gameinformer.com/2023/05/09/nintendo-switch-surpasses-125-million-units-sold-but-overall-sales-are-down"/>
+        <updated>2023-05-09T12:33:02.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo has released its latest round of financial results, this time for the end of Fiscal Year 2023 (which ended in March). While the Switch has surpassed 125 million units sold – it's officially at 125.62 million units as of March – both hardware and software sales for the platform are down. 
+Hardware is down from 23.06 million units sold in Fiscal Year 2022 to 17.97 million in Fiscal Year 2023, representing a 22.1% decline. The base Switch model sold 6.14 million units over the past fiscal year, a 54.7% decrease, and the Switch Lite sold 2.62 million units for a 29.2% decrease. The Switch Oled Model, however, sold well at 9.22 million units, representing a 58.8% increase in sales year-over-year. 
+"Hardware unit sales declined year-on-year, with production strongly impacted by the glob…]]></summary>
+        <author>
+            <name>Wesley LeBlanc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QEMU 8.1 přinese nativní PipeWire]]></title>
+        <id>www.root.cz-actuality-44720</id>
+        <link href="https://www.root.cz/zpravicky/qemu-8-1-prinese-nativni-pipewire/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-09T12:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři z Red Hatu přidali do projektu QEMU tisíc řádků nového kódu, které implementují nativní podporu a/v serveru PipeWire. Novinka se objeví s příští verzí QEMU 8.1.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Experimental Xe Driver For Linux Lacking HuC Media Support For DG2/Alchenist]]></title>
+        <id>https://www.phoronix.com/news/Intel-Xe-DG2-No-HuC</id>
+        <link href="https://www.phoronix.com/news/Intel-Xe-DG2-No-HuC"/>
+        <updated>2023-05-09T11:58:21.000Z</updated>
+        <summary type="html"><![CDATA[While Intel's in-development Xe kernel graphics driver is focused on supporting Tigerlake/Gen12 graphics and newer integrated/discrete graphics with this modern open-source driver with many design improvements over the aging i915 kernel driver, there looks to be one feature that as currently positioned will be missing for DG2/Alchemist: HuC support for helping with media offloading...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 113 a animovanými obrázky v AV1]]></title>
+        <id>www.root.cz-actuality-44718</id>
+        <link href="https://www.root.cz/zpravicky/firefox-113-a-animovanymi-obrazky-v-av1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-09T11:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Subformát AVIS, neboli využití AVIF (AV1 Image Format) pro animace dostává podporu v čerstvém Firefoxu 113 (prozatím je k dispozici jen přehled novinek u beta verze). Podporu dekódování AV1 videa skrze GPU akceleraci nově zvládá Firefox na Androidu, samozřejmě na zařízeních s patřičnou hardwarovou podporou a GPU akcelerací Canvas2D.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire Audio Backend Comes To QEMU]]></title>
+        <id>https://www.phoronix.com/news/QEMU-8.1-Adds-PipeWire</id>
+        <link href="https://www.phoronix.com/news/QEMU-8.1-Adds-PipeWire"/>
+        <updated>2023-05-09T11:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Adding to the list of features coming with QEMU 8.1 is now having a native PipeWire audio back-end...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bungie Wins $6.7 Million in Damages From LaviCheats]]></title>
+        <id>https://torrentfreak.com/?p=234771</id>
+        <link href="https://torrentfreak.com/bungie-wins-6-7-million-in-damages-from-lavicheats-230509/"/>
+        <updated>2023-05-09T11:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Game developer Bungie has won a default judgment against the Indian operator of cheat reseller LaviCheats, who failed to appear in court after being sued two years ago. A federal court in Washington awarded over $6 million in copyright infringement and trademark damages related to various Destiny 2 hacks sold by LaviCheats.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch Surpasses One Billion Software Sales]]></title>
+        <id>https://www.nintendolife.com/#article-149104</id>
+        <link href="https://www.nintendolife.com/news/2023/05/nintendo-switch-surpasses-one-billion-software-sales"/>
+        <updated>2023-05-09T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Now that's a lot of games.
+As a part of the latest financial report for the fiscal year ending March 2023, Nintendo has provided updated figures for both its hardware and software sales. While the Switch's hardware numbers started to slow as the console reached 125 million units sold (as of March 2023), the big milestone this time around is on the software side of things as the Switch has exceeded one billion sales in that department.
+The actual number is 1,036,150,000 units, if we want to be really picky and why shouldn't we be? That's a huge figure!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street Fighter 6's open beta strikes out later this month]]></title>
+        <id>https://www.rockpapershotgun.com/street-fighter-6s-open-beta-strikes-out-later-this-month</id>
+        <link href="https://www.rockpapershotgun.com/street-fighter-6s-open-beta-strikes-out-later-this-month"/>
+        <updated>2023-05-09T10:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Capcom are holding an open beta for their upcoming hadouken ‘em up Street Fighter 6, commencing on May 19th and concluding May 21st. The open beta will include all of the same content from December’s closed beta test, but now more fans can jump into the fray to whack foes in online matches. To participate in the punchin' n' kickin', players need to register their Capcom ID and link their preferred platform which includes PC and consoles. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Kaan Serin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Patches Updated For Parallel CPU Bring-Up]]></title>
+        <id>https://www.phoronix.com/news/Linux-Parallel-CPU-Bring-Up-v3</id>
+        <link href="https://www.phoronix.com/news/Linux-Parallel-CPU-Bring-Up-v3"/>
+        <updated>2023-05-09T10:17:25.000Z</updated>
+        <summary type="html"><![CDATA[While missing out on the recently-closed Linux 6.4 merge window, one of the patch series seeing a lot of activity in recent weeks/months has been around parallel CPU bring-up in order to speed-up the Linux kernel boot process for today's high-end desktops and many-core servers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customers' personal info stolen in data breach, Western Digital says]]></title>
+        <id>https://www.rockpapershotgun.com/customers-personal-info-stolen-in-data-breach-western-digital-says</id>
+        <link href="https://www.rockpapershotgun.com/customers-personal-info-stolen-in-data-breach-western-digital-says"/>
+        <updated>2023-05-09T10:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Western Digital, the PC storage giants behind some of the best gaming SSDs, have released an update on a data breach that occurred in late March. Uplifting news, it is not: the  "network security incident" was a large-scale case of digital thievery, with the culprits stealing a database containing the names, billing and shipping addresses, email addresses, and telephone numbers of customers to WD's online store.
+
+
+The plundered database also included encrypted and salted passwords and partial credit card numbers, according to the statement. Western Digital are contacting affected users directly, and have temporarily shut down their store.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Switch surpasses 125 million sales, but decline trend continues]]></title>
         <id>https://www.destructoid.com/?p=377878</id>
@@ -581,7 +716,7 @@ Here is a list of general fixes in Android Studio Giraffe Beta 2. These are a r
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Seemingly Goes After Switch Emulation Following Zelda: Tears of the Kingdom Leak]]></title>
+        <title type="html"><![CDATA[Nintendo Seemingly Goes After Switch Emulation Following Zelda: Tears of the Kingdom Leak [Update]]]></title>
         <id>1850415282</id>
         <link href="https://kotaku.com/zelda-tears-kingdom-switch-emulation-piracy-nintendo-1850415282"/>
         <updated>2023-05-08T17:10:00.000Z</updated>
@@ -1328,19 +1463,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[An "on demand" release has been announced.
 
 There have been rumours about the Mario Movie launching on streaming services this month and now we've got some developments.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zelda: Tears Of The Kingdom Midnight Launch Goodies Revealed (US)]]></title>
-        <id>https://www.nintendolife.com/#article-149052</id>
-        <link href="https://www.nintendolife.com/news/2023/05/zelda-tears-of-the-kingdom-midnight-launch-goodies-revealed-us"/>
-        <updated>2023-05-07T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Available at Nintendo NY.
-If you happen to be located in New York and are planning on heading out to The Legend of Zelda: Tears of the Kingdom midnight launch at the official Nintendo Store in the city, be on the lookout for these themed items.
-Nintendo has revealed it will be offering a "long sleeve T-shirt" for $34.99 USD and a fancy-looking themed mug for $39.99 USD, exclusively at its NY store. Update: Another shirt has also been revealed, it will be available for $29.99 USD:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2450,16 +2572,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Visual Studio Code a VSCodium 1.78]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/visual-studio-code-a-vscodium-1.78</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/visual-studio-code-a-vscodium-1.78"/>
-        <updated>2023-05-04T21:49:13.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 1.78 editoru zdrojových kódů Visual Studio Code (Wikipedie). Přehled novinek i s náhledy a animovanými gify v poznámkách k vydání. Ve verzi 1.78 vyjde také VSCodium, tj. komunitní sestavení Visual Studia Code bez telemetrie a licenčních podmínek Microsoftu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[F1 2023 coming in June and will bring back story mode]]></title>
         <id>https://www.rockpapershotgun.com/f1-2023-coming-in-june-and-will-bring-back-story-mode</id>
         <link href="https://www.rockpapershotgun.com/f1-2023-coming-in-june-and-will-bring-back-story-mode"/>
@@ -2517,16 +2629,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM Clang Now Exposes -std=c++23 Rather Than -std=c++2b]]></title>
-        <id>https://www.phoronix.com/news/LLVM-Clang-std-cpp-23</id>
-        <link href="https://www.phoronix.com/news/LLVM-Clang-std-cpp-23"/>
-        <updated>2023-05-04T20:41:16.000Z</updated>
-        <summary type="html"><![CDATA[Merged today to LLVM 17 Git is now recognizing -std=c++23 rather than just -std=c++2b for the Clang compiler now that C++23 has been deemed technically complete...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2841,16 +2943,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open 3D Engine 23.05 Released With Many New Features]]></title>
-        <id>https://www.phoronix.com/news/Open-3D-Engine-23.05</id>
-        <link href="https://www.phoronix.com/news/Open-3D-Engine-23.05"/>
-        <updated>2023-05-04T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's been just under two years since Amazon's Lumberyard game engine was spun into the Open 3D Engine and the Open 3D Foundation established under the Linux Foundation. Today the project is celebrating its newest open-source game engine update with Open 3D Engine 23.05...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Představen nový jazyk Mojo]]></title>
         <id>www.root.cz-actuality-44699</id>
         <link href="https://www.root.cz/zpravicky/predstaven-novy-jazyk-mojo/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2868,16 +2960,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Minulý měsíc vyšla Fedora 38 a jak je již tradičně zvykem, o měsíc později končí podpora Fedory 36. Konkrétně 16. května bude poslední aktualizace Fedory 36.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X.Org Foundation To Become Part Of The SFC]]></title>
-        <id>https://www.phoronix.com/news/X.Org-SFC-Vote-Approved</id>
-        <link href="https://www.phoronix.com/news/X.Org-SFC-Vote-Approved"/>
-        <updated>2023-05-04T12:25:31.000Z</updated>
-        <summary type="html"><![CDATA[X.Org members have approved of the X.Org Foundation letting the Software Freedom Conservancy (SFC) become its fiscal sponsor...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2941,16 +3023,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD SoundWire Merged For Linux 6.4]]></title>
-        <id>https://www.phoronix.com/news/AMD-SoundWire-Linux-6.4</id>
-        <link href="https://www.phoronix.com/news/AMD-SoundWire-Linux-6.4"/>
-        <updated>2023-05-04T10:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Going back to 2016 Intel began working on MIPI SoundWire support for Linux and now in 2023, AMD has joined the party with their initial AMD SoundWire support driver landing in the mainline kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3237,16 +3309,6 @@ In a separate blog post, Microsoft says the Xbox Games Showcase will feature "so
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OBS Studio 29.1 vylepšuje podporu AV1 a HDR]]></title>
-        <id>www.root.cz-actuality-44695</id>
-        <link href="https://www.root.cz/zpravicky/obs-studio-29-1-vylepsuje-podporu-av1-a-hdr/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-03T13:26:09.000Z</updated>
-        <summary type="html"><![CDATA[Nová aktualizace OBS Studia devětadvacítkové řady přináší zejména podporu již dříve avizovaného streamingu formátů AV1 a HEVC skrze Enhanced RTMP. Dále tvůrci vylepšili podporu protokolu RTMP / V1 zvládající právě novější video formáty a také HDR – prozatím je takto podporována jen služba YouTube v beta stádiu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Indiescovery Episode 9: Our Steam-y confessions]]></title>
         <id>https://www.rockpapershotgun.com/indiescovery-episode-9-our-steam-y-confessions</id>
         <link href="https://www.rockpapershotgun.com/indiescovery-episode-9-our-steam-y-confessions"/>
@@ -3327,16 +3389,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 The post Aquaponics for beginners with the TynecastleTechs team appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyšel Chrome 113 s rychlejším kódováním videa AV1 a zapnutým WebGPU]]></title>
-        <id>www.root.cz-actuality-44694</id>
-        <link href="https://www.root.cz/zpravicky/vysel-chrome-113-s-rychlejsim-kodovanim-videa-av1-a-zapnutym-webgpu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-03T07:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři uvolnili do stabilního kanálu novou verzi prohlížeče Chrome 113, který nabízí rychlejší kódování videa AV1 pro videokonference a zapnutou akcelerací pomocí WebGPU pro všechny uživatele. Nová verze také obsahuje 15 oprav bezpečnostních chyb a je k dispozici pro Linux, macOS a Windows.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -4090,17 +4142,6 @@ For Game Informer's other podcast, be sure to check out The Game Informer Show�
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safe Harbor & Authorization Liability: Australia’s Options to Reduce Piracy]]></title>
-        <id>https://torrentfreak.com/?p=234413</id>
-        <link href="https://torrentfreak.com/safe-harbor-authorization-liability-australias-options-to-reduce-piracy-230428/"/>
-        <updated>2023-04-28T17:40:44.000Z</updated>
-        <summary type="html"><![CDATA[When tackling direct infringers becomes impractical, rightsholders can take legal action against entities that are indirectly involved. Intermediaries and service providers are obvious targets but tend to enjoy protection under so-called 'safe harbor' provisions. In Australia, digital platforms want these protections too, claiming they will boost anti-piracy cooperation. Rightsholders believe that cooperation is directly linked to a credible threat of liability.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vampire Survivors Is Getting An Animated Series]]></title>
         <id>120336</id>
         <link href="https://www.gameinformer.com/2023/04/28/vampire-survivors-is-getting-an-animated-series"/>
@@ -4536,32 +4577,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XCOM's Jake Solomon is swapping turn-based tactics for life sims, and he's not coming back]]></title>
-        <id>https://www.rockpapershotgun.com/jake-solomon-interview-gdc-2023</id>
-        <link href="https://www.rockpapershotgun.com/jake-solomon-interview-gdc-2023"/>
-        <updated>2023-04-27T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[When I meet Jake Solomon at GDC, it's his third day of unemployment. The XCOM and Marvel's Midnight Suns director and designer announced he was leaving Firaxis back in February, but his final day at the studio where he made his name and worked for more than twenty years was still very fresh in his memory. "It's surreal," he says. "For probably the next ten years, I'll refer to it as 'we' when we talk about Firaxis, and it's sad to think it's not the right pronoun anymore. It's exciting, but a little terrifying."
-On the face of it, that panic might seem unfounded. Over the last decade, Solomon has become one of the most revered names in turn-based strategy games. Having cut his teeth on many of Sid Meier's Civilization games in his early years at Firaxis, he went on to become the designer who spearheaded the revival of XCOM with Enemy Unknown in 2012, before going on to direct its even more beloved sequel XCOM 2 and its War Of The Chosen expansion a few years later. Most recently, he was creative director on Marvel's Midnight Suns, which allowed him to marry his life-long love of Marvel comic books with the thrilling tactical combat he's so well known for. 
-Solomon's next adventure, though, won't have the certainty of Midnight Suns' supercharged attack cards, or even the tease of an XCOM hit percentage backing him up. For not only is it Solomon's third day of unemployment when we speak; it's also the day after he revealed his plans to leave turn-based tactics games behind altogether. Instead, his sights are now set on the life simulation genre, a move that, at first glance, seems at odds with his career as a strategy designer. But over the course of our hour-long chat, it becomes increasingly clear that life sims have been a life-long obsession for Solomon, and he might have even made one by now had the development of XCOM 2 gone a little differently. 
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warframe's Duviri Paradox update is courting newcomers to the MMO with its standalone story world]]></title>
-        <id>https://www.rockpapershotgun.com/warframes-duviri-paradox-update-is-courting-newcomers-to-the-mmo-with-its-standalone-story-world</id>
-        <link href="https://www.rockpapershotgun.com/warframes-duviri-paradox-update-is-courting-newcomers-to-the-mmo-with-its-standalone-story-world"/>
-        <updated>2023-04-27T11:02:45.000Z</updated>
-        <summary type="html"><![CDATA[Long-running sci-fi MMO Warframe has just released its biggest update yet, The Duviri Paradox, for free. Jumping into any 10-year-old game can be intimidating, especially an MMO, but developer Digital Extremes say this is the first story-driven update that’s not progression-locked based on skill level or experience with the game. In other words, this is a new experience within Warframe that’s immediately available to newcomers, while also adding weird cool stuff for old-timers.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Doom on a LEGO brick | The MagPi #129]]></title>
         <id>https://www.raspberrypi.com/?p=95523</id>
         <link href="https://www.raspberrypi.com/news/doom-on-a-lego-brick-the-magpi-129/"/>
@@ -4982,27 +4997,6 @@ Does Afterimage look like something you'd enjoy? Let us know in the comments bel
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Advance Wars 1+2: Re-Boot Camp, Final Fantasy Pixel Remasters | All Things Nintendo]]></title>
-        <id>120301</id>
-        <link href="https://www.gameinformer.com/2023/04/21/advance-wars-12-re-boot-camp-final-fantasy-pixel-remasters-all-things-nintendo"/>
-        <updated>2023-04-21T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This week on All Things Nintendo, Brian and Wesley catch up on all the latest news out of the worlds of Sonic, Mario, Zelda, and more, then transition to talking about the latest big releases for Nintendo Switch, Advance Wars 1+2: ReBoot Camp and Final Fantasy Pixel Remaster Series. Then, Kyle joins the show to talk about the Nintendo Labo, which just turned five years old this week.
-If you'd like to follow Brian on social media, you can do so on his Instagram @BrianPShea. You can follow Wesley on Twitter: @LeBlancWes.You can follow Kyle on Twitter: @KyleMHilliard.
-The All Things Nintendo podcast is a weekly show where we can celebrate, discuss, and break down all the latest games, news, and announcements from the industry's most recognizable name. Each week, Brian is joined by different guests to talk about what's happening in the world of Nintendo. Along the way, they'll share personal stories, uncover hidden gems in the eShop, and even look back on the classics we all grew up with. A new episode hits every Friday!
-Be sure to subscribe to All Things Nintendo on your favorite podcast platform. The show is available on Apple Podcasts, Spotify, Google Podcasts, and YouTube.
-00:00:00 – Introduction
-
-00:03:59 – Sonic Lego Sets Announced
-
-
-
-If you'd like to get in touch with the All Things Nintendo podcast, you can email AllThingsNintendo@GameInformer.com, messaging Brian on Instagram (@BrianPShea), or by joining the official Game Informer Discord server. You can do that by linking your Discord account to your Twitch account and subscribing to the Game Informer Twitch channel. From there, find the All Things Nintendo channel under "Community Spaces."
-For Game Informer's other podcast, be sure to check out The Game Informer Show with host Alex Van Aken, which covers the weekly happenings of the video game industry!]]></summary>
-        <author>
-            <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android Studio Giraffe Beta 1 now available]]></title>
         <id>https://androidstudio.googleblog.com/2023/04/android-studio-giraffe-beta-1-now.html</id>
         <link href="https://androidstudio.googleblog.com/2023/04/android-studio-giraffe-beta-1-now.html"/>
@@ -5106,16 +5100,6 @@ You will need the data files from the games’ original install CDs, and a fresh
 >]]></summary>
         <author>
             <name>nospam@scummvm.org (fracturehill)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenTTD 13.1]]></title>
-        <id>https://www.openttd.org/news/2023/04/10/openttd-13-1.html</id>
-        <link href="https://www.openttd.org/news/2023/04/10/openttd-13-1.html"/>
-        <updated>2023-04-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[OpenTTD 13.0 has been out for two months and we’ve found some bugs to fix. Most notably, we’ve fixed two kinds of crashes: Road vehicles inside multi-track level crossings no longer crash into the side of trains. The game no longer crashes when a spectator in a network game tries to interact with a town’s local authority. For NewGRF authors using the new engine variant feature introduced in 13.0, we’ve added a callback to select how the engine’s name is displayed in the buy menu. As always, there are plenty of other bugfixes, which you can find in the changelog. Download Changelog Bug tracker]]></summary>
-        <author>
-            <name>OpenTTD</name>
         </author>
     </entry>
 </feed>
