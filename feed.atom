@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-11T06:12:40.519Z</id>
+    <id>urn:2023-05-11T08:12:09.895Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-11T06:12:40.519Z</updated>
+    <updated>2023-05-11T08:12:09.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Lighttpd 1.4.70 přidává možnost kompilace pod Windows a rychlejší CGI]]></title>
+        <id>www.root.cz-actuality-44727</id>
+        <link href="https://www.root.cz/zpravicky/lighttpd-1-4-70-pridava-moznost-kompilace-pod-windows-a-rychlejsi-cgi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-11T07:23:42.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři uvolnili novou verzi lehkého a nenáročného HTTP serveru Lighttpd 1.4.70. K dispozici je nativní podpora kompilace v systému Windows. Zatím je označena za experimentální a nejsou k dispozici hotové binárky. Došlo však k vylepšení kódu umožňující sestavení sdílených knihoven DLL pro Windows s integrací nástrojů Autotools a CMake.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Enterprise Linux (RHEL) 9.2 a AlmaLinux 9.2]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/red-hat-enterprise-linux-rhel-9.2-a-almalinux-9.2</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/red-hat-enterprise-linux-rhel-9.2-a-almalinux-9.2"/>
+        <updated>2023-05-11T06:49:10.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Red Hat oznámila vydání Red Hat Enterprise Linuxu (RHEL) 9.2. Vedle nových vlastností a oprav chyb přináší také aktualizaci ovladačů a předběžné ukázky budoucích technologií. Podrobnosti v poznámkách k vydání. Vydán byl již také jeho klon AlmaLinux 9.2. Podrobnosti v poznámkách k vydání.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meet Fran Scott: Lego Master and engineering genius]]></title>
+        <id>https://www.raspberrypi.com/?p=96271</id>
+        <link href="https://www.raspberrypi.com/news/meet-fran-scott-lego-master-and-engineering-genius/"/>
+        <updated>2023-05-11T06:37:10.000Z</updated>
+        <summary type="html"><![CDATA[You might recognise Fran Scott. She’s an engineering expert who pops up on Lego Masters, Abandoned Engineering, Absolute Genius with Dick and Dom, and a load more.
+The post Meet Fran Scott: Lego Master and engineering genius appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Ashley Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google na I/O 2023 představil nová zařízení i chatbota Bard]]></title>
+        <id>www.root.cz-actuality-44726</id>
+        <link href="https://www.root.cz/zpravicky/google-na-i-o-2023-predstavil-nova-zarizeni-i-chatbota-bard/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-11T06:12:14.000Z</updated>
+        <summary type="html"><![CDATA[Google na své pravidelné konferenci I/O představil celou řadu novinek. Ukázal se například mobilní telefon Google Pixel 7a poháněný čipsetem Tensor G2, skládací telefon Pixel Fold, či 11" tablet s jednoduchým názvem Pixel Tablet.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Virtuální Bastlírna vol. 26: Novinky (nejen) pro RP2040]]></title>
         <id>www.root.cz-actuality-44724</id>
@@ -1873,16 +1914,6 @@ Mr. Run and Jump arrives on PlayStation 5, Xbox Series X/S, PlayStation 4, Xbox 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox 113.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/firefox-113.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/firefox-113.0"/>
-        <updated>2023-05-09T12:56:48.000Z</updated>
-        <summary type="html"><![CDATA[Byl vydán Mozilla Firefox 113.0. Přehled novinek v poznámkách k vydání, poznámkách k vydání pro firmy a na stránce věnované vývojářům. Vypíchnout lze vylepšený obraz v obraze. Řešeny jsou rovněž bezpečnostní chyby. Nový Firefox 113 je již k dispozici také na Flathubu a Snapcraftu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Here Are The Nintendo Switch's Top 10 Best Selling Games]]></title>
         <id>118890</id>
         <link href="https://www.gameinformer.com/2023/05/09/here-are-the-nintendo-switchs-top-10-best-selling-games"/>
@@ -3195,26 +3226,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 The post Welcome back to CamJam appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Matt Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google zapnul přihlašování k účtu bez hesla pomocí Passkey]]></title>
-        <id>www.root.cz-actuality-44703</id>
-        <link href="https://www.root.cz/zpravicky/google-zapnul-prihlasovani-k-uctu-bez-hesla-pomoci-passkey/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-05T07:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Téměř pět měsíců poté, co společnost Google přidala podporu přístupových klíčů Passkey do svého prohlížeče Chrome, začal technologický gigant zavádět toto řešení bez hesla do všech účtů Google na všech platformách. Za standardem přihlašování pomocí klíčů Passkey stojí aliance FIDO.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELK Stack: naučte se Elasticsearch, Logstash a Kibana (školení)]]></title>
-        <id>www.root.cz-actuality-40262</id>
-        <link href="https://www.root.cz/zpravicky/elk-stack-naucte-se-elasticsearch-logstach-a-kibana-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-05T07:00:26.000Z</updated>
-        <summary type="html"><![CDATA[Většina počítačových programů generuje logy – tedy zprávy a záznamy o své činnosti. ELK Stack – ElasticSearch, Logstash, Kibana – je populární nástroj, který umí logy efektivně zpracovávat, ukládat a zpřístupňovat.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -4912,17 +4923,6 @@ What do you think Xbox needs to do to increase Xbox hardware revenue? Let us kno
         <updated>2023-04-26T07:09:10.000Z</updated>
         <summary type="html"><![CDATA[Colin Edwards wanted to get all four limbs involved to enhance his livestreams. He made Picodeck to free his hands by giving his feet the work.
 The post Picodeck controls your computer with your feet appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating mesmerising kinetic art furniture with Sisyphus]]></title>
-        <id>https://www.raspberrypi.com/?p=95459</id>
-        <link href="https://www.raspberrypi.com/news/creating-mesmerising-kinetic-art-furniture-with-sisyphus/"/>
-        <updated>2023-04-25T11:02:14.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pi helped the company behind the Sisyphus sand table to scale up and offer museum-quality kinetic sculpture for homes worldwide.
-The post Creating mesmerising kinetic art furniture with Sisyphus appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
         </author>
