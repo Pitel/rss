@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-14T10:09:19.851Z</id>
+    <id>urn:2023-05-14T12:16:45.866Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-14T10:09:19.851Z</updated>
+    <updated>2023-05-14T12:16:45.866Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.4-rc2 Preps For AMD Zen 4 Model 78h]]></title>
+        <id>https://www.phoronix.com/news/AMD-Family-19h-Model-78h-Linux</id>
+        <link href="https://www.phoronix.com/news/AMD-Family-19h-Model-78h-Linux"/>
+        <updated>2023-05-14T12:07:40.000Z</updated>
+        <summary type="html"><![CDATA[Sent out this morning were the x86/urgent patches for the Linux 6.4-rc2 kernel due for release later today. With the x86/urgent changes this week are just two AMD patches in preparing the kernel for Family 19h Model 78h processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - Beyond Good And Evil]]></title>
+        <id>https://www.nintendolife.com/#article-149324</id>
+        <link href="https://www.nintendolife.com/news/2023/05/poll-box-art-brawl-duel-beyond-good-and-evil"/>
+        <updated>2023-05-14T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[*Insert sequel joke here*.
+Hi everyone, and welcome to another edition of Box Art Brawl.
+Last time, we took a look at Yoshi's Island for the N64. In the end, the vote heavily favoured towards the Japanese box art, which went for a lovely embroidered aesthetic over the more traditional approach taken by North America and Europe. With 64% of the vote, Japan won by a near landslide. Well done!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-679</id>
@@ -22,6 +45,16 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/Fedora-PM-Red-Hat-Laid-Off"/>
         <updated>2023-05-14T09:54:17.000Z</updated>
         <summary type="html"><![CDATA[As part of the Red Hat layoffs announced in April with around a 4% reduction in headcount for the IBM-owneed company, one of the surprising casualties from that round of cost-cutting is the Fedora Program Manager...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tellusim Core SDK Published With Linux & Vulkan Support Included]]></title>
+        <id>https://www.phoronix.com/news/Tellusim-Core-SDK</id>
+        <link href="https://www.phoronix.com/news/Tellusim-Core-SDK"/>
+        <updated>2023-05-14T09:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Tellusim as the company known so far for its GravityMark benchmark and being started by Alexander Zapryagaev who was a Unigine Corp co-founder has now launched the Tellusim Core SDK as a new cross-platform, commercial engine...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -1448,19 +1481,6 @@ It's worth noting that these figures' rewards all come with RNG mechanics, meani
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Switch Online's 'Missions & Rewards' Adds Zelda: Tears Of The Kingdom Icons]]></title>
-        <id>https://www.nintendolife.com/#article-149316</id>
-        <link href="https://www.nintendolife.com/news/2023/05/switch-onlines-missions-and-rewards-adds-zelda-tears-of-the-kingdom-icons"/>
-        <updated>2023-05-12T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Wave 1 is available now.
-As part of The Legend of Zelda: Tears of the Kingdom celebrations today, Nintendo has added a new batch of icons to its 'Missions and Rewards' scheme for the Switch Online service.
-This time around you'll be able to claim icons for Link, Zelda, and various other characters in the new Switch adventure. Here's a look at the two waves that will be on offer throughout the month of May:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Philips 24B1D5600, monitor se dvěma displeji. Vedle klasického je e-papírový]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/philips-24b1d5600-monitor-se-dvema-displeji.-vedle-klasickeho-je-e-papirovy</id>
         <link href="http://www.abclinuxu.cz/zpravicky/philips-24b1d5600-monitor-se-dvema-displeji.-vedle-klasickeho-je-e-papirovy"/>
@@ -2550,16 +2570,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Failing A PCIe 5.0 NVMe SSD In Less Than 3 Minutes Without Extra Cooling]]></title>
-        <id>https://www.phoronix.com/news/PCIe5-NVMe-SSD-Fail-3-Minutes</id>
-        <link href="https://www.phoronix.com/news/PCIe5-NVMe-SSD-Fail-3-Minutes"/>
-        <updated>2023-05-10T12:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Following the Corsair MP700 PCIe 5.0 NVMe SSD review under Linux with many readers being surprised by file-system errors when not adding extra cooling like the motherboard's passive M.2 heatsink and being curious about the situation myself, here are more tests of ultimately how this drive will reliably hit file-system errors in three minutes or less without added cooling...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hollow Knight: Silksong Delayed]]></title>
         <id>120377</id>
         <link href="https://www.gameinformer.com/2023/05/10/hollow-knight-silksong-delayed"/>
@@ -2598,16 +2608,6 @@ Read more]]></summary>
 The post Sketching with a robotic printer appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Vulkan Linux Driver Enables GPL By Default While Hiding Mesh Shaders]]></title>
-        <id>https://www.phoronix.com/news/Intel-ANV-Enable-GPL-Default</id>
-        <link href="https://www.phoronix.com/news/Intel-ANV-Enable-GPL-Default"/>
-        <updated>2023-05-10T10:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Intel's open-source "ANV" Vulkan Linux driver within Mesa is now enabling graphics pipeline libraries (GPL) functionality by default but at the same time has demoted their Vulkan mesh shader functionality to being hidden behind an environment variable until some unexplained hangs can be sorted out...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
