@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-18T06:13:17.468Z</id>
+    <id>urn:2023-05-18T08:12:15.406Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-18T06:13:17.468Z</updated>
+    <updated>2023-05-18T08:12:15.406Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT paints the weather forecast, Picasso style]]></title>
+        <id>https://www.raspberrypi.com/?p=96301</id>
+        <link href="https://www.raspberrypi.com/news/chatgpt-paints-the-weather-forecast-picasso-style/"/>
+        <updated>2023-05-18T07:22:46.000Z</updated>
+        <summary type="html"><![CDATA[Alan wanted a more aesthetically pleasing way to check the weather forecast and came up with this abstract idea in which a Picasso-style painting displays physical weather conditions.
+The post ChatGPT paints the weather forecast, Picasso style appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Ashley Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Byl vydán Rocky Linux 9.2]]></title>
+        <id>www.root.cz-actuality-44749</id>
+        <link href="https://www.root.cz/zpravicky/byl-vydan-rocky-linux-9-2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-18T07:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Po vydání distribucí RHEL a AlmaLinux 9.2 z minulého týdne je tu také Rocky Linux stejné verze. Jedná se o komunitní klon distribuce Red Hat Enterprise Linux, se kterou je Rocky kompatibilní. Nová verze je k dispozici pro architektury x86_64, AArch64 a s390×. Verze pro ppc64le má problémy se sestavením, proto se její vydání zdrželo.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian opět pozastavil slučování /usr]]></title>
+        <id>www.root.cz-actuality-44748</id>
+        <link href="https://www.root.cz/zpravicky/debian-opet-pozastavil-slucovani-usr/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-18T06:16:58.000Z</updated>
+        <summary type="html"><![CDATA[Technický výbor Debianu vyhlásil nové moratorium na přesouvání souborů z kořenového adresáře do adresáře /usr, které je nezbytnou součástí projektu UsrMerge. Tuto změnu provedla většina distribucí, ale Debian s ní má větší potíže.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Scarlet And Violet Update Scheduled For Next Week]]></title>
         <id>https://www.nintendolife.com/#article-149608</id>
@@ -3451,16 +3482,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Distribuce Red Hat Enterprise Linux a AlmaLinux vyšly ve verzi 9.2]]></title>
-        <id>www.root.cz-actuality-44728</id>
-        <link href="https://www.root.cz/zpravicky/distribuce-red-hat-enterprise-linux-a-almalinux-vysly-ve-verzi-9-2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-11T09:26:23.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Red Hat vydala novou verzi své distribuce RHEL 9.2, zároveň vyšel také komunitní klon AlmaLinux ve stejné verzi 9.2. Pokračují zejména v rozšiřování možností systémových rolí, které lze jednoduše nakonfigurovat podle scénářů dostupných v Ansible. Systémové role také pomáhají zajistit budoucí nasazení tím, že upgrady nejsou tak rušivé, protože automatizovaná povaha usnadňuje rekonfiguraci kterékoli z těchto funkcí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitch-Streaming Destiny 2 Teen Cheater Fails in Bid to Shake Bungie Lawsuit]]></title>
         <id>https://torrentfreak.com/?p=234896</id>
         <link href="https://torrentfreak.com/twitch-streaming-destiny-2-teen-cheater-fails-to-shake-bungie-lawsuit-230511/"/>
@@ -3469,16 +3490,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lighttpd 1.4.70 přidává možnost kompilace pod Windows a rychlejší CGI]]></title>
-        <id>www.root.cz-actuality-44727</id>
-        <link href="https://www.root.cz/zpravicky/lighttpd-1-4-70-pridava-moznost-kompilace-pod-windows-a-rychlejsi-cgi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-11T07:23:42.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři uvolnili novou verzi lehkého a nenáročného HTTP serveru Lighttpd 1.4.70. K dispozici je nativní podpora kompilace v systému Windows. Zatím je označena za experimentální a nejsou k dispozici hotové binárky. Došlo však k vylepšení kódu umožňující sestavení sdílených knihoven DLL pro Windows s integrací nástrojů Autotools a CMake.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -4718,17 +4729,6 @@ May 3, 2023
 In a separate blog post, Microsoft says the Xbox Games Showcase will feature "some new surprises and first-looks from our incredibly talented inte…]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aquaponics for beginners with the TynecastleTechs team]]></title>
-        <id>https://www.raspberrypi.com/?p=95412</id>
-        <link href="https://www.raspberrypi.com/news/aquaponics-for-beginners-with-the-tynecastletechs-team/"/>
-        <updated>2023-05-03T07:51:16.000Z</updated>
-        <summary type="html"><![CDATA[This small-scale aquaponics system by a UK school team lets you grow your own plants without soil, using fish waste as a source of nutrients.
-The post Aquaponics for beginners with the TynecastleTechs team appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Ashley Whittaker</name>
         </author>
     </entry>
     <entry>
