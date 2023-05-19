@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-19T06:12:31.148Z</id>
+    <id>urn:2023-05-19T08:12:05.358Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-19T06:12:31.148Z</updated>
+    <updated>2023-05-19T08:12:05.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Týden na ScienceMag.cz: Kvantový počítač na bázi anyonů]]></title>
+        <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-kvantovy-pocitac-na-bazi-anyonu</id>
+        <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-kvantovy-pocitac-na-bazi-anyonu"/>
+        <updated>2023-05-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Google i Microsoft pracují na konceptu kvantového počítače ještě divnějším než jiné. Hyperbolický uhlík. Atomy temné hmoty? Jaderná fúze bez neutronů. Jak staré jsou prstence Saturnu.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT jako aplikace pro iOS, bude i pro Android]]></title>
+        <id>www.root.cz-actuality-44752</id>
+        <link href="https://www.root.cz/zpravicky/chatgpt-jako-aplikace-pro-ios-bude-i-pro-android/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-19T07:57:56.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI včera vydalo aplikaci ChatGPT pro iOS. Časem bude i pro Android. Aplikace je zdarma a obsahuje i Whisper, tedy převod mluveného slova na text. Pokud chcete pracovat s novým GPT-4, potřebujete předplatné Plus (20 dolarů za měsíc).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Util-linux 2.39 přináší nové připojování souborových systému s přemapováním UID a GID]]></title>
+        <id>www.root.cz-actuality-44751</id>
+        <link href="https://www.root.cz/zpravicky/util-linux-2-39-prinasi-nove-pripojovani-souborovych-systemu-s-premapovanim-uid-a-gid/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-19T06:59:18.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze 2.39 kolekce nástrojů util-linux. Nejvýznamnější změnou je zřejmě podpora nového rozhraní API pro připojování souborových systémů, které umožňuje řadu nových funkcí, včetně připojování s mapováním ID. To dovoluje bez změny souborového systému přemapovat informace o uživatelích a skupinách podle přání správce. Hodí se to například u kontejnerů nebo při stěhování disků mezi různými operačními systémy, kde nesedí uživatelé s vlastníky souborů.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bootcamp strojového učení: praktické aplikace z oblastí zpracování obrazu, textu a časových řad (školení)]]></title>
+        <id>www.root.cz-actuality-44492</id>
+        <link href="https://www.root.cz/zpravicky/bootcamp-strojoveho-uceni-prakticke-aplikace-z-oblasti-zpracovani-obrazu-textu-a-casovych-rad-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-19T06:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Získejte obecný přehled o současných technikách strojového učení a naučte se programovat základní řešení ML pomocí open-source knihoven Sciki-Learn a TensorFlow v jazyce Python. Absolvujte ucelenou pětidenní sérii workshopů strojového učení, kde nejsou potřeba žádné předchozí znalosti umělé inteligence.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KeePass 2.X Master Password Dumper umožňuje získat heslo do KeePassu]]></title>
+        <id>www.root.cz-actuality-44750</id>
+        <link href="https://www.root.cz/zpravicky/keepass-2-x-master-password-dumper-umoznuje-ziskat-heslo-do-keepassu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-19T06:52:19.000Z</updated>
+        <summary type="html"><![CDATA[V programu KeePass byla objevena zranitelnost, která dovoluje útočníkovi získat hlavní (master) heslo a s ním i přístup k heslům. Zranitelnost byla označena jako CVE-2023–32784 a nachází se v aplikaci KeePass pro Windows ve verzích starších než 2.54. Vznikla už také utilita KeePass 2.X Master Password Dumper, která umožňuje problém zneužít a heslo získat.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linus Is Stepping Down As CEO Of Linus Media Group]]></title>
         <id>1850452995</id>
@@ -142,7 +192,7 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux na Intel Meteor Lake s L4 cache a ladění na hybridních CPU se SMT]]></title>
+        <title type="html"><![CDATA[Linux na Intel Meteor Lake s L4 cache a ladění na hybridních CPU se SMT]]></title>
         <id>www.root.cz-text-16604</id>
         <link href="https://www.root.cz/clanky/linux-na-intel-meteor-lake-s-l4-cache-a-ladeni-na-hybridnich-cpu-se-smt/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-05-18T22:00:10.000Z</updated>
@@ -419,10 +469,8 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.rockpapershotgun.com/everything-that-happened-at-the-humble-games-showcase-2023"/>
         <updated>2023-05-18T17:34:59.000Z</updated>
         <summary type="html"><![CDATA[It’s time for another Humble Games Showcase, and this year the company is celebrating its three-year anniversary as well as spotlighting its newly refreshed publishing roster. This year, we got to see a special behind-the-scenes interview montage of the cast from David Gaider’s musical game Stray Gods as well as six new indie games for us to look forward to. We’ve listed everything that was announced at the show, so feel free to have a leisurely scroll through. Here’s everything you missed from the Humble Games Showcase 2023.
-The action roguelike released back in 2018 is getting a sequel, aptly named Wizards Of Legend 2. This follow-up is being developed by Children Of Morta’s Dead Mage but will have supervising guidance from the game’s original devs, Contingent99. Wizard Of Legend 2 looks to be very much in the same vein as the first game - fast-paced spell-casting combat - but it’s also had a 3D glow-up and will also now support 4-player online co-op. Nice!
-
-I’m not the biggest fan of the name, but I love love love the 2D animation in #BLUD. The great visuals don’t come as a surprise when you know that developers Exit 73 are also an animation studio too, with #BLUD being their debut game. This vampire-slaying RPG has you play as Becky Brewster, a highschooler who spends the day fretting about homework and friends and the nighttime slaying demons. From the look of the trailer, #BLUD looks to be bursting with humour and fun; one to keep an eye on for sure.
- Read more]]></summary>
+Wizard Of Legend is getting a follow up
+Read more]]></summary>
         <author>
             <name>Rachel Watts</name>
         </author>
@@ -3098,16 +3146,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zabbix: monitorujte svou infrastrukturu a mějte ji pod kontrolou (školení)]]></title>
-        <id>www.root.cz-actuality-44644</id>
-        <link href="https://www.root.cz/zpravicky/zabbix-monitorujte-svou-infrastrukturu-a-mejte-ji-pod-kontrolou-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-15T08:49:05.000Z</updated>
-        <summary type="html"><![CDATA[Provozujete vlastní infrastrukturu a chcete vědět, v jakém stavu se v každém okamžiku nachází? Zabbix vám umožní monitorovat infrastrukturu z pohledu sítí, tak i z pohledu operačních systémů až po aplikace. Přináší ucelené monitorovací řešení. Naučíme vás konfigurovat monitorovací systém Zabbix od základních kroků až po složité nízkoúrovňové objevování monitorovaných objektů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bugg.xyz acoustic monitoring for conservationists]]></title>
         <id>https://www.raspberrypi.com/?p=96506</id>
         <link href="https://www.raspberrypi.com/news/bugg-xyz-acoustic-monitoring-for-conservationists/"/>
@@ -3514,16 +3552,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Přijďte na školení MikroTik od základů po velkou síť a odnesete si router]]></title>
-        <id>www.root.cz-actuality-39043</id>
-        <link href="https://www.root.cz/zpravicky/prijdte-na-skoleni-mikrotik-od-zakladu-po-velkou-sit-a-odnesete-si-router/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-12T08:47:22.000Z</updated>
-        <summary type="html"><![CDATA[Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft's eco-friendly Remix Special Edition Xbox Controller is down to £60 at Amazon UK]]></title>
         <id>https://www.rockpapershotgun.com/microsofts-eco-friendly-remix-special-edition-xbox-controller-is-down-to-60-at-amazon-uk</id>
         <link href="https://www.rockpapershotgun.com/microsofts-eco-friendly-remix-special-edition-xbox-controller-is-down-to-60-at-amazon-uk"/>
@@ -3568,16 +3596,6 @@ There are several things in Tears of the Kingdo…]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pharo 11.0 s finalizací založenou na Ephemerons]]></title>
-        <id>www.root.cz-actuality-44730</id>
-        <link href="https://www.root.cz/zpravicky/pharo-11-0-s-finalizaci-zalozenou-na-ephemerons/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-12T06:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Vyšlo Pharo 11.0, programovací jazyk a vývojové prostředí s řadou pokročilých vlastností. Krom tradiční nadílky oprav přináší nová verze finalizaci založenou na Ephemerons, SIMD, efektivnější uzávěry, vylepšený debugger a podporu Gitu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Křivánek)</name>
         </author>
     </entry>
     <entry>
@@ -3818,16 +3836,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub nabízí funkci bránící úniku klíčů a dalších tajemství]]></title>
-        <id>www.root.cz-actuality-44729</id>
-        <link href="https://www.root.cz/zpravicky/github-nabizi-funkci-branici-uniku-klicu-a-dalsich-tajemstvi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-11T09:35:47.000Z</updated>
-        <summary type="html"><![CDATA[GitHub oznámil dostupnost nové bezpečnostní funkce nazvané push protection, jejímž cílem je zabránit vývojářům v neúmyslném úniku klíčů a dalších tajemství v jejich kódu. Funkce byla přibližně rok v testovacím režimu a nyní byla poskytnuta všem uživatelům. Od svého vzniku prý už zabránila 17 000 únikům citlivých tajemství.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -4902,16 +4910,6 @@ If you already have an Android Studio build on the stable channel, you can get 
 Here are the fixed issues in Android Studio Flamingo Patch 1. These are a result of your bug reports, which help us make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Květnový prodej: Goodoffer24 nabízí 91% slevu – Windows 10 jen za € 12 a Microsoft Office za € 23]]></title>
-        <id>http://www.abclinuxu.cz/clanky/kvetnovy-prodej-goodoffer24-nabizi-91-slevu-windows-10-jen-za-12-a-microsoft-office-za-23</id>
-        <link href="http://www.abclinuxu.cz/clanky/kvetnovy-prodej-goodoffer24-nabizi-91-slevu-windows-10-jen-za-12-a-microsoft-office-za-23"/>
-        <updated>2023-04-30T22:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Ne každý má stovky dolarů aby je mohl utratit za softwarové upgrady svého počítače. To je také důvod, proč Goodoffer24 staví Microsoft na vedlejší kolej, jelikož ořezává cenu za Windows 10 a Microsoft Office, čímž činí updaty značně dostupnějšími. Když obojí najednou, a tím můžete ušetřit dokonce ještě více. Tady je, co všechno můžete dostat.]]></summary>
-        <author>
-            <name>Reklama</name>
         </author>
     </entry>
     <entry>
