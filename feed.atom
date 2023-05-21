@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-21T16:11:11.170Z</id>
+    <id>urn:2023-05-21T18:11:11.542Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-21T16:11:11.170Z</updated>
+    <updated>2023-05-21T18:11:11.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux To Disable PCID For Intel Alder Lake & Raptor Lake Due To Issue With INVLPG]]></title>
+        <id>https://www.phoronix.com/news/Intel-Disable-PCID-ADL-RPL</id>
+        <link href="https://www.phoronix.com/news/Intel-Disable-PCID-ADL-RPL"/>
+        <updated>2023-05-21T17:00:23.000Z</updated>
+        <summary type="html"><![CDATA[A patch is pending via x86/urgent to workaround an issue with Intel Alder Lake and Raptor Lake processors that is leaving the kernel developers for the time being to disable Process Context Identifiers (PCID) with these Intel mobile/desktop processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: Zelda: Tears Of The Kingdom: Where Does It Fit In The Zelda Timeline?]]></title>
+        <id>https://www.nintendolife.com/#article-149703</id>
+        <link href="https://www.nintendolife.com/guides/zelda-tears-of-the-kingdom-where-does-it-fit-in-the-zelda-timeline"/>
+        <updated>2023-05-21T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Lon Lon time ago...
+Never mind Ganon, anyone who has ever been brave enough to look will tell you that the true Dark Beast of the Zelda franchise is its timeline. Up until Skyward Sword, many of us were happy enough to form our own theories about how the games slotted together, or just play blissfully unaware of the intricacies of how one flowed into the next. Then the Hyrule Historia came along in 2011 and shook everything up.
+Instead of one cohesive timeline, this official tie-in book suggests that there are in fact three separate strands to keep track of after the events of Ocarina of Time — 'The Hero is Defeated' and 'The Hero is Triumphant (Child and Adult eras)'. And this doesn't account for any of the games that release after Skyward Sword, so we have only been able to speculate on where the likes of Breath of the Wild and Tears of the Kingdom slot into the mix. Simply put, it gets really complicated, really fast.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Round Up: Indie Live Expo 2023 - Every Nintendo Switch Game Showcased]]></title>
         <id>https://www.nintendolife.com/#article-149760</id>
@@ -12,7 +35,7 @@
         <updated>2023-05-21T15:00:00.000Z</updated>
         <summary type="html"><![CDATA["More than 300 game reveals".
 The digital showcase Indie Live Expo 2023 took place this weekend - spotlighting "300 game reveals" across multiple platforms including the Nintendo Switch.
-Some of these games are already available, others are arriving soon, and the rest will be released at some point later this year. Here's the full round up of all the Switch games that were on display during this year's live stream event. Enjoy!
+Some of these games are already available, others are arriving soon, and the rest will be released at some point later this year. Here's the full round up (including the time stamps) of all the Switch games that were on display during this year's live-stream event. Enjoy!
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1431,19 +1454,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more...]]></summary>
         <author>
             <name>Luke Plunkett</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mortal Kombat 1 Kameo Fighters Announced Alongside Main Roster]]></title>
-        <id>https://www.nintendolife.com/#article-149693</id>
-        <link href="https://www.nintendolife.com/news/2023/05/mortal-kombat-1-kameo-fighters-announced-alongside-main-roster"/>
-        <updated>2023-05-19T04:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Rollback netcode has also been confirmed.
-Mortal Kombat 1 got announced by Warner Bros. and NetherRealm Studios yesterday, and the good news is it's launching for Nintendo Switch on 19th September 2023.
-The brutal and bloody trailer helped set the scene for this new era in the iconic fighting series, but there's also an FAQ on the official game website revealing one other interesting detail - Kameo Fighters.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2888,16 +2898,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.phoronix.com/news/Intel-CR-23.13.26032.30"/>
         <updated>2023-05-17T10:30:05.000Z</updated>
         <summary type="html"><![CDATA[The Intel Compute-Runtime 23.13.26032.30 update was released today as the newest monthly feature update to this open-source GPU compute stack used on Windows and Linux for OpenCL and oneAPI Level Zero support. With this release comes various improvements and new features like FP64 emulation for Arctic Sound M...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[libei 1.0 Nears For Emulated Input On Wayland]]></title>
-        <id>https://www.phoronix.com/news/libei-1.0-RC</id>
-        <link href="https://www.phoronix.com/news/libei-1.0-RC"/>
-        <updated>2023-05-17T10:06:18.000Z</updated>
-        <summary type="html"><![CDATA[Libei has been the multi-year effort by Red Hat's leading input expert Peter Hutterer on emulated input handling for Wayland. Libei consists of a client side library and EIS as the "Emulated Input Server" for this Wayland-focused emulated input device solution. Libei 1.0 is about to finally be released...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
