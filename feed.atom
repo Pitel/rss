@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-28T10:09:21.582Z</id>
+    <id>urn:2023-05-28T12:16:07.023Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-28T10:09:21.582Z</updated>
+    <updated>2023-05-28T12:16:07.023Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Lands Fix For Potentially Bogus Number Of Intel Hybrid CPU HT Siblings]]></title>
+        <id>https://www.phoronix.com/news/Linux-Fixes-Bogus-HT-Siblings</id>
+        <link href="https://www.phoronix.com/news/Linux-Fixes-Bogus-HT-Siblings"/>
+        <updated>2023-05-28T12:11:57.000Z</updated>
+        <summary type="html"><![CDATA[A few days ago I wrote about a Linux kernel patch being prepared for fixing Intel hybrid CPU SMP/HT topology reporting due to the way the Linux kernel was currently counting the number of Hyper Threading siblings for each core. Fortunately, that fix which is apparently becomes more pressing for upcoming Meteor Lake processors, has now been picked up in time for today's Linux 6.4-rc4 release and is set for back-porting to stable kernel series...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Game Jam 2023]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/linux-game-jam-2023</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/linux-game-jam-2023"/>
+        <updated>2023-05-28T11:56:25.000Z</updated>
+        <summary type="html"><![CDATA[Na itch.io probíhá Linux Game Jam 2023. Zapojit se a přihlásit hru běžící na Linuxu lze do 6. června do 01:59. Zahrát si lze hry z loňského ročníku.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl - Ikaruga]]></title>
+        <id>https://www.nintendolife.com/#article-150121</id>
+        <link href="https://www.nintendolife.com/news/2023/05/poll-box-art-brawl-ikaruga"/>
+        <updated>2023-05-28T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shooty shooty, pew pew.
+Hello folks, and welcome to another edition of Box Art Brawl!
+Last time, we took a look at The Legend of Zelda: Phantom Hourglass for the Nintendo DS, pitting North America against Europe and Japan for a good old-fashioned Duel.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine-Staging 8.9 Ships With The Very Latest VKD3D Code]]></title>
+        <id>https://www.phoronix.com/news/Wine-Staging-8.9</id>
+        <link href="https://www.phoronix.com/news/Wine-Staging-8.9"/>
+        <updated>2023-05-28T10:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Following the release of Wine 8.9 on Friday for enabling Windows games and applications to run on Linux, Wine-Staging 8.9 is now available for this more testing/development-focused flavor of Wine that more liberally picks up in-development patches...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
+        <id>https://www.destructoid.com/?p=381127</id>
+        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-246/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-246"/>
+        <updated>2023-05-28T10:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Summer Loving
+Hey friends, lovers, and well-wishers, (you are all of them), and welcome to Whatcha Been Playing? It's been a gnarly hectic week for The Industry's Chris Moyse, as I have had a lot on my plate over the course of the past two weeks. This is set to continue as we head into June (halfway through the year?!) and take on the myriad titles that are heading our way including Street Fighter 6, Diablo IV, and Final Fantasy XVI, not to mention that Summer Game Fest and Gamescom are also just around the corner.
+What's that? A new Mortal Kombat launching this fall? And AEW in three weeks? Sure, why not?
+But too many interesting, exciting, or simply curious titles on the horizon is a nice problem to have, even if it means a metric ton of work for everyone on the good ship. It's better th…]]></summary>
+        <author>
+            <name>Chris Moyse</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-681</id>
@@ -180,7 +236,7 @@ As the WCPO agents, one or two players battle through flat-planed, two-level pla
         <title type="html"><![CDATA[Počítačové hry zdarma: Warhammer 40,000: Gladius - Relics of War, Hue, Fallout: New Vegas - Ultimate Edition]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/pocitacove-hry-zdarma-warhammer-40-000-gladius-relics-of-war-hue-fallout-new-vegas-ultimate-edition</id>
         <link href="http://www.abclinuxu.cz/zpravicky/pocitacove-hry-zdarma-warhammer-40-000-gladius-relics-of-war-hue-fallout-new-vegas-ultimate-edition"/>
-        <updated>2023-05-27T17:03:26.000Z</updated>
+        <updated>2023-05-27T17:03:25.000Z</updated>
         <summary type="html"><![CDATA[Na Steamu lze získat zdarma počítačové hry Warhammer 40,000: Gladius - Relics of War a Hue. Na Epic Games Storu počítačovou hru Fallout: New Vegas - Ultimate Edition.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -278,19 +334,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Intel Linux kernel graphics driver developers are looking at making use of Netlink for exposing RAS (reliability, availability, serviceability) and telemetry features of kernel graphics drivers to user-space for their modern GPUs...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
-        <id>https://www.destructoid.com/?p=381127</id>
-        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-246/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-246"/>
-        <updated>2023-05-27T10:00:41.000Z</updated>
-        <summary type="html"><![CDATA[Summer Loving
-Hey friends, lovers, and well-wishers, (you are all of them), and welcome to Whatcha Been Playing? It's been a gnarly hectic week for The Industry's Chris Moyse, as I have had a lot on my plate over the course of the past two weeks. This is set to continue as we head into June (halfway through the year?!) and take on the myriad titles that are heading our way including Street Fighter 6, Diablo IV, and Final Fantasy XVI, not to mention that Summer Game Fest and Gamescom are also just around the corner.
-What's that? A new Mortal Kombat launching this fall? And AEW in three weeks? Sure, why not?
-But too many interesting, exciting, or simply curious titles on the horizon is a nice problem to have, even if it means a metric ton of work for everyone on the good ship. It's better th…]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -1390,19 +1433,6 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2023-05-26T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Story Of Seasons Multiplayer Game Announced Alongside New Traditional Instalment]]></title>
-        <id>https://www.nintendolife.com/#article-150114</id>
-        <link href="https://www.nintendolife.com/news/2023/05/story-of-seasons-multiplayer-game-announced-alongside-new-traditional-instalment"/>
-        <updated>2023-05-26T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA["Look forward to hearing more".
-
-During the 'Marvelous Game Showcase 2023' livestream, the company announced not one but two new entries in the farming and life simulation series Story of Seasons.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3451,16 +3481,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD CPU "k10temp" Linux Driver Updated To Report Negative Temperatures]]></title>
-        <id>https://www.phoronix.com/news/AMD-k10temp-Negative-Temps</id>
-        <link href="https://www.phoronix.com/news/AMD-k10temp-Negative-Temps"/>
-        <updated>2023-05-23T21:15:11.000Z</updated>
-        <summary type="html"><![CDATA[The AMD k10temp Linux driver is used for CPU temperature reporting with all modern AMD Ryzen/EPYC processors plus going back all the way to many earlier FX / Athlon / Sempron / Opteron / Phenom CPUs starting with the Family 10h line-up. While this driver has been in the Linux kernel for years, it's carried a limitation until now that it can't handle reporting negative temperatures. That is changing thanks to new patches from AMD...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Insomniac Confirms Spider-Man 2 Is Single-Player]]></title>
         <id>120441</id>
         <link href="https://www.gameinformer.com/2023/05/23/insomniac-confirms-spider-man-2-is-single-player"/>
@@ -3536,16 +3556,6 @@ For more, be sure to check out Game Informer’s exclusive FFXVI coverage hub by
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Radeon Software For Linux 22.40.5 Driver Released]]></title>
-        <id>https://www.phoronix.com/news/Radeon-Software-Linux-22.40.5</id>
-        <link href="https://www.phoronix.com/news/Radeon-Software-Linux-22.40.5"/>
-        <updated>2023-05-23T18:08:01.000Z</updated>
-        <summary type="html"><![CDATA[The Radeon Software for Linux driver was quietly updated earlier this month with one noted fix...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3847,16 +3857,6 @@ As a quick primer, Exoprimal tasks you and four other friends to team up to batt
         <summary type="html"><![CDATA[Arch Linux v pátek zahájil migraci repozitáře na verzovací systém Git. V rámci toho ukončil přístup k SVN a provedl některé změny v nastavení svých repozitářů balíčků. Migrace systému Arch Linux na úložiště Git byla během víkendu úspěšně dokončena.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab 16]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/gitlab-16</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/gitlab-16"/>
-        <updated>2023-05-23T02:07:50.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová major verze 16 softwarového nástroje s webovým rozhraním umožňujícího spolupráci na zdrojových kódech GitLab (Wikipedie). Představení nových vlastností i s náhledy a videi v oficiálním oznámení.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
