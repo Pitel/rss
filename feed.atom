@@ -1,10 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-05-29T12:17:48.055Z</id>
+    <id>urn:2023-05-29T14:08:48.570Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-05-29T12:17:48.055Z</updated>
+    <updated>2023-05-29T14:08:48.570Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Arm Total Compute Solutions 2023 (TCS23)]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/arm-total-compute-solutions-2023-tcs23</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/arm-total-compute-solutions-2023-tcs23"/>
+        <updated>2023-05-29T14:07:51.000Z</updated>
+        <summary type="html"><![CDATA[Společnost ARM představila platformu Total Compute Solutions 2023 (TCS23) s 5. generací GPU Immortalis-G720, Mali-G720 a Mali-G620 a Armv9.2 CPU Cortex-X4, Cortex-A720 a Cortex-A520 s DSU-120.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System76 Virgo Aims To Be The Quietest Yet Most Performant Linux Laptop]]></title>
+        <id>https://www.phoronix.com/news/System76-Virgo-Quiet-Perform</id>
+        <link href="https://www.phoronix.com/news/System76-Virgo-Quiet-Perform"/>
+        <updated>2023-05-29T14:00:57.000Z</updated>
+        <summary type="html"><![CDATA[System76 continues teasing the in-house laptop design they are working on codenamed Virgo...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jádro 6.5 bude mít o 30-40 % rychlejší csum_partial na x86]]></title>
+        <id>www.root.cz-actuality-44782</id>
+        <link href="https://www.root.cz/zpravicky/jadro-6-5-bude-mit-o-30-40-rychlejsi-csum-na-x86/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-05-29T13:54:39.000Z</updated>
+        <summary type="html"><![CDATA[Funkce csum_partial v jádře počítá 32bitový kontrolní součet dat. Používá se ve spoustě ovladačů, v síťování a v souborových systémech. Je napsaná ručně v assembleru a Noah Goldstein poslal do jádra upravenou verzi pro x86 s lepším výkonem.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Your Favorite Pokémon Game Says About You: Brutal Callout Edition]]></title>
+        <id>1850481204</id>
+        <link href="https://kotaku.com/what-your-favorite-pokemon-game-says-about-you-switch-1850481204"/>
+        <updated>2023-05-29T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Everyone’s got a favorite Pokémon game. Whether it’s one of the mainline RPGs where you catch ‘em all and become champion, or one of the spin-offs that show new sides of the world and people’s relationship to the titular Pocket Monsters, the series has given people a lot of different ways to inhabit its huge world.…
+Read more...]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo issues Valve DMCA takedown to remove Dolphin emulator]]></title>
+        <id>https://www.destructoid.com/?p=382250</id>
+        <link href="https://www.destructoid.com/nintendo-issues-valve-dmca-takedown-to-remove-dolphin-emulator/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nintendo-issues-valve-dmca-takedown-to-remove-dolphin-emulator"/>
+        <updated>2023-05-29T13:00:10.000Z</updated>
+        <summary type="html"><![CDATA[The popular Dolphin emulator will not reach Steam when originally intended
+Nintendo continues its ongoing war against unlicensed software. This past Friday, the publisher slammed Valve with a DMCA takedown over its support of "Dolphin", a popular Wii and GameCube emulator for PC. For those who aren’t aware, a DMCA takedown is a powerful legal action that allows companies to call for an immediate block for possibly illegal uses of their intellectual property.
+The legal notice, originally obtained by PCGamer, reads:
+"Because the Dolphin emulator violates Nintendo’s intellectual property rights, including but not limited to its rights under the Digital Millennium Copyright Act (DMCA)’s Anti-Circumvention and AntiTrafficking provisions, 17 U.S.C. § 1201, we provide this notice to you of your o…]]></summary>
+        <author>
+            <name>Tiago Manuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XFS Metadata Corruption On Linux 6.3 Tracked Down To One Missing One-Line Patch]]></title>
+        <id>https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3</id>
+        <link href="https://www.phoronix.com/news/XFS-Patch-For-Linux-6.3"/>
+        <updated>2023-05-29T12:51:31.000Z</updated>
+        <summary type="html"><![CDATA[Last week XFS users began encountering metadata corruption on the latest Linux 6.3 point releases. Following kernel developers and those testing the kernels on affected hardware over the US holiday weekend, it's believed the issue has been tracked down to one missing patch that is a one line of code being deleted...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Posts Latest 113 Patches For Linux KVM TDX Support]]></title>
+        <id>https://www.phoronix.com/news/Linux-KVM-TDX-v14</id>
+        <link href="https://www.phoronix.com/news/Linux-KVM-TDX-v14"/>
+        <updated>2023-05-29T12:38:51.000Z</updated>
+        <summary type="html"><![CDATA[One of the new features of Intel Xeon Scalable 4th Gen "Sapphire Rapids" server processors is support for Trust Domain Extensions (TDX) but for this generation is only being activated for CPUs going to select cloud providers. Intel TDX allows better isolating virtual machines from the VMM/hypervisor and other non-TD software on the platform. This limited roll-out of Intel TDX has worked out okay with the Linux support for this security feature still being in flux. Sent out today was the 14th spin of the 113 patches needed for getting KVM TDX support wired up within the Linux kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia's New AI Is Coming For Absolutely Every Gaming Job]]></title>
+        <id>1850484480</id>
+        <link href="https://kotaku.com/nvidia-ace-ai-rtx-4060-ti-gpu-graphics-gaming-jobs-1850484480"/>
+        <updated>2023-05-29T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[AI is coming to games, whether you like it or not. Last night’s Nvidia keynote showed just how powerful—and devastating—that’s going to be. The company’s CEO, Jensen Huang, showed off how its freshly announced “Omniverse Avatar Cloud Engine” (ACE) can create real-time interactive AI NPCs, complete with improvised…
+Read more...]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mini Review: Pulling No Punches - A Surprising, Satirical Beat 'Em Up That Lives Up To Its Name]]></title>
         <id>https://www.nintendolife.com/#article-150163</id>
@@ -147,6 +232,15 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wikipedia Article Titles]]></title>
+        <id>https://xkcd.com/2782/</id>
+        <link href="https://xkcd.com/2782/"/>
+        <updated>2023-05-29T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -2130,21 +2224,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7 beginner tips for Tears of the Kingdom]]></title>
-        <id>https://www.destructoid.com/?p=377901</id>
-        <link href="https://www.destructoid.com/7-beginner-tips-for-tears-of-the-kingdom/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=7-beginner-tips-for-tears-of-the-kingdom"/>
-        <updated>2023-05-25T17:15:37.000Z</updated>
-        <summary type="html"><![CDATA[What to do first when starting Tears of the Kingdom (TotK)
-Zelda: Tears of the Kingdom's powers completely reinvent the way you interact with Hyrule. It took me a few hours to acclimate to them, and even then, I forgot how useful some of Link's new abilities were. Here's a quick primer in case you hit a wall early on!
-[caption id="attachment_377850" align="alignnone" width="640"] Screenshot by Destructoid.[/caption]
-Don't forget that you have Ascend!
-As I was pondering how to order these tips, I had one unanimous thought: remind people that Ascend exists!
-Ascend is one of the new abilities that Link will learn during the tutorial segment and allows him to rise up and literally ascend through solid ground. There are a few caveats: the height you want to ascend to needs to be directly under …]]></summary>
-        <author>
-            <name>Chris Carter</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PostgreSQL 16 Reaches Beta With Performance Improvements - Including SIMD for x86 & ARM]]></title>
         <id>https://www.phoronix.com/news/PostgreSQL-16-Beta-1</id>
         <link href="https://www.phoronix.com/news/PostgreSQL-16-Beta-1"/>
@@ -2168,22 +2247,22 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Warhammer 40K: Rogue Trader is getting a closed beta in June]]></title>
-        <id>https://www.rockpapershotgun.com/warhammer-40k-rogue-trader-is-getting-a-closed-beta-in-june</id>
-        <link href="https://www.rockpapershotgun.com/warhammer-40k-rogue-trader-is-getting-a-closed-beta-in-june"/>
+        <title type="html"><![CDATA[Miss Twisted Metal? This Warhammer 40K multiplayer racer shooter is for you]]></title>
+        <id>https://www.rockpapershotgun.com/miss-twisted-metal-this-warhammer-40k-multiplayer-racer-shooter-is-for-you</id>
+        <link href="https://www.rockpapershotgun.com/miss-twisted-metal-this-warhammer-40k-multiplayer-racer-shooter-is-for-you"/>
         <updated>2023-05-25T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tonight's Warhammer Skulls event showed off a new trailer for Warhammer 40K: Rogue Trader this evening, which not only revealed several new locations, enemy types and party companions, but it that a closed beta for the Warhammer CRPG will be arriving on June 1st. The beta will be available to anyone who's already pre-ordered the game, and it will run until the game's release. We still don't know when that final release date will be just yet, but if you're keen to see how 40K translates to a good old-fashioned classic RPG, at least you should have a fair old while to see what's up.
+        <summary type="html"><![CDATA[Well, this isn't what I expected to see at tonight's Warhammer Skulls stream. The 2018 board game Warhammer 40K: Speed Freeks is being turned into a free-to-play racing multiplayer shooter game, and there's an open alpha playtest available over on Steam right now. Developed by Grip: Combat Racing studio Caged Element, the reveal trailer for Warhammer 40K: Speed Freeks looks absolutely incredible. Come and shout dakka dakka with me below. 
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Miss Twisted Metal? This Warhammer 40K multiplayer racer shooter is for you]]></title>
-        <id>https://www.rockpapershotgun.com/miss-twisted-metal-this-warhammer-40k-multiplayer-racer-shooter-is-for-you</id>
-        <link href="https://www.rockpapershotgun.com/miss-twisted-metal-this-warhammer-40k-multiplayer-racer-shooter-is-for-you"/>
+        <title type="html"><![CDATA[Warhammer 40K: Rogue Trader is getting a closed beta in June]]></title>
+        <id>https://www.rockpapershotgun.com/warhammer-40k-rogue-trader-is-getting-a-closed-beta-in-june</id>
+        <link href="https://www.rockpapershotgun.com/warhammer-40k-rogue-trader-is-getting-a-closed-beta-in-june"/>
         <updated>2023-05-25T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Well, this isn't what I expected to see at tonight's Warhammer Skulls stream. The 2018 board game Warhammer 40K: Speed Freeks is being turned into a free-to-play racing multiplayer shooter game, and there's an open alpha playtest available over on Steam right now. Developed by Grip: Combat Racing studio Caged Element, the reveal trailer for Warhammer 40K: Speed Freeks looks absolutely incredible. Come and shout dakka dakka with me below. 
+        <summary type="html"><![CDATA[Tonight's Warhammer Skulls event showed off a new trailer for Warhammer 40K: Rogue Trader this evening, which not only revealed several new locations, enemy types and party companions, but it that a closed beta for the Warhammer CRPG will be arriving on June 1st. The beta will be available to anyone who's already pre-ordered the game, and it will run until the game's release. We still don't know when that final release date will be just yet, but if you're keen to see how 40K translates to a good old-fashioned classic RPG, at least you should have a fair old while to see what's up.
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
@@ -2642,26 +2721,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel's Open Image Denoise 2.0 Brings SYCL For Xe GPUs, NVIDIA CUDA, AMD HIP]]></title>
-        <id>https://www.phoronix.com/news/Open-Image-Denoise-2.0</id>
-        <link href="https://www.phoronix.com/news/Open-Image-Denoise-2.0"/>
-        <updated>2023-05-24T22:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Among Intel's dozens of terrific open-source components -- including the many components making up their oneAPI software suite -- is Open Image Denoise. Open Image Denoise for years has been a terrific, high-performance denoising library for ray-tracing use The software has long been CPU-based while being highly performant thanks to leveraging modern instruction set extensions. Today though Open Image Denoise 2.0 is released and brings GPU acceleration across Intel, AMD, and NVIDIA graphics processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROCm 5.5.1 Released For AMD's Open-Source Compute Stack]]></title>
-        <id>https://www.phoronix.com/news/AMD-ROCm-5.5.1</id>
-        <link href="https://www.phoronix.com/news/AMD-ROCm-5.5.1"/>
-        <updated>2023-05-24T22:30:30.000Z</updated>
-        <summary type="html"><![CDATA[Following the release at the start of the month of ROCm 5.5, today it's been succeeded by the ROCm 5.5.1 point release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[No, This Isn’t A Journey Sequel, But It Sure Looks Like One]]></title>
         <id>1850472383</id>
         <link href="https://kotaku.com/sword-of-the-sea-journey-playstation-showcase-ps5-1850472383"/>
@@ -2768,17 +2827,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Everything At Sony's Big Hour-Long PlayStation Showcase]]></title>
-        <id>1850471595</id>
-        <link href="https://kotaku.com/ps5-showcase-spider-man-2-metal-gear-solid-3-trailer-1850471595"/>
-        <updated>2023-05-24T21:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Today, May 24, Sony held its first large-scale PlayStation Showcase since all the way back in September 2021. These events have tended to be bigger than Sony’s smaller-scale State of Play streams and this one was no exception, bringing a load of new trailers and reveals, including our first look at Alan Wake 2…
-Read more...]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bungie are rebooting Marathon as a PvP-focused loot shooter]]></title>
         <id>https://www.rockpapershotgun.com/bungie-are-rebooting-marathon-as-a-pvp-focused-loot-shooter</id>
         <link href="https://www.rockpapershotgun.com/bungie-are-rebooting-marathon-as-a-pvp-focused-loot-shooter"/>
@@ -2789,17 +2837,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie Reveals First New Game Since Destiny 2]]></title>
-        <id>1850470424</id>
-        <link href="https://kotaku.com/marathon-bungie-destiny-2-extraction-shooter-1850470424"/>
-        <updated>2023-05-24T21:42:04.000Z</updated>
-        <summary type="html"><![CDATA[Bungie has been working on a new game for some time, and the company finally teased it during Sony’s latest PlayStation Showcase. It turns out it’s a spiritual successor to the company’s Marathon trilogy of ‘90s PC shooters in the form of a multiplayer extraction shooter coming to PlayStation 5, Xbox Series X/S, and…
-Read more...]]></summary>
-        <author>
-            <name>Ethan Gach</name>
         </author>
     </entry>
     <entry>
@@ -3155,16 +3192,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fedora's RPM Fusion Adds Experimental Intel IPU6 Web Camera Support]]></title>
-        <id>https://www.phoronix.com/news/Fedora-Fusion-IPU6-Camera</id>
-        <link href="https://www.phoronix.com/news/Fedora-Fusion-IPU6-Camera"/>
-        <updated>2023-05-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Intel IPU6 web camera tech found in Alder Lake laptops and newer has unfortunately no upstream Linux driver yet and has resulted in kernel developers avoiding these laptops where web camera support is needed. Intel maintains an out-of-tree IPU6 Linux driver while they have been making progress toward ultimately getting it upstreamed. To ease the situation for Fedora Linux users, an experimental IPU6 software stack has now been added to the RPM Fusion repository...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Assassin's Creed Mirage comes out October 12th, now confirmed]]></title>
         <id>https://www.rockpapershotgun.com/assassins-creed-mirage-comes-out-october-12th-according-to-retailer-listings</id>
         <link href="https://www.rockpapershotgun.com/assassins-creed-mirage-comes-out-october-12th-according-to-retailer-listings"/>
@@ -3296,16 +3323,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Bezpečnostní projekt Turris zveřejnil bezpečnostní zprávu, která shrnuje nejpodstatnější události za duben 2023 a ukazuje trendy v kybernetických útocích na infrastrukturu. Celou zprávu je možné stáhnout na webu projektu [PDF].]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podman Desktop 1.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/podman-desktop-1.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/podman-desktop-1.0"/>
-        <updated>2023-05-24T10:08:51.000Z</updated>
-        <summary type="html"><![CDATA[Podman Desktop dospěl do verze 1.0. Jedná se o grafickou nadstavbu nad nástrojem Podman, jenž umožňuje vytvářet a provozovat kontejnery, aniž by uživatel potřeboval práva roota.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4163,16 +4180,6 @@ AEW: Fight Forever is coming to PlayStation 5, Xbox Series X/S, PlayStation 4, X
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google bude mazat neaktivní účty po dvou letech]]></title>
-        <id>www.root.cz-actuality-44760</id>
-        <link href="https://www.root.cz/zpravicky/google-bude-mazat-neaktivni-ucty-po-dvou-letech/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-22T13:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Google minulý týden aktualizoval svoji politiku vůči neaktivním účtům. Od konce letošního roku je bude mazat po dvou letech bez aktivity. Údajně mají neaktivní účty 10× méně často zapnutou dvou faktorovou autentizaci, což může vést k ukradení identity nebo rozesílání spamu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Final Fantasy 16 Preview 2 – I Am Just An Eikon Living]]></title>
         <id>120389</id>
         <link href="https://www.gameinformer.com/preview/2023/05/22/i-am-just-an-eikon-living"/>
@@ -4594,15 +4601,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Google i Microsoft pracují na konceptu kvantového počítače ještě divnějším než jiné. Hyperbolický uhlík. Atomy temné hmoty? Jaderná fúze bez neutronů. Jak staré jsou prstence Saturnu.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuisine]]></title>
-        <id>https://xkcd.com/2778/</id>
-        <link href="https://xkcd.com/2778/"/>
-        <updated>2023-05-19T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
