@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-03T12:17:08.218Z</id>
+    <id>urn:2023-06-03T14:07:53.123Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-03T12:17:08.218Z</updated>
+    <updated>2023-06-03T14:07:53.123Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Brave 1.52 s vertikálními kartami. Představeno Brave Search API]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/brave-1.52-s-vertikalnimi-kartami.-predstaveno-brave-search-api</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/brave-1.52-s-vertikalnimi-kartami.-predstaveno-brave-search-api"/>
+        <updated>2023-06-03T13:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Tento týden byla vydána nová verze 1.52 webového prohlížeče Brave (Wikipedie, GitHub). Postavena je na Chromiu 114. Z novinek lze vypíchnout možnost povolit vertikální karty (vertical tabs). Také bylo představeno Brave Search API k vyhledávači Brave Search.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Graphics Driver In Linux 6.5 Improves Power Management, Adds CP Shadow Buffer]]></title>
+        <id>https://www.phoronix.com/news/AMDGPU-Linux-6.5-Improvements</id>
+        <link href="https://www.phoronix.com/news/AMDGPU-Linux-6.5-Improvements"/>
+        <updated>2023-06-03T13:00:05.000Z</updated>
+        <summary type="html"><![CDATA[On Friday a big set of patches affecting the AMDGPU/Radeon/AMDKFD kernel drivers were submitted for DRM-Next to queue until the Linux 6.5 kernel merge window opens in the coming weeks. A lot of new feature code is part of this pull for benefiting new hardware, continuing to refine AMD GPU power management under Linux, and more...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Continues Finalizing UEFI Unaccepted Memory Support For Linux]]></title>
+        <id>https://www.phoronix.com/news/UEFI-Unaccepted-Memory-v13</id>
+        <link href="https://www.phoronix.com/news/UEFI-Unaccepted-Memory-v13"/>
+        <updated>2023-06-03T12:34:12.000Z</updated>
+        <summary type="html"><![CDATA[With Intel TDX and AMD SEV-SNP for better securing virtual machines on the mainline Linux kernel, memory is accepted/initialized immediately at boot time by the VMs although the capability exists to have "unaccepted memory" where that memory is only dealt with by the VMs later on or on an as-needed basis. For two years now Intel engineers have been working on this unaccepted memory support and this week posted their thirteenth iteration of these fundamental Linux kernel patches...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Portable Computing Language 4.0 Adds Intel Level Zero API Driver]]></title>
         <id>https://www.phoronix.com/news/PoCL-4.0-RC1-Level-Zero</id>
@@ -2272,16 +2302,6 @@ The post Paragraphica creates “photos” based on your location appeared first
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vylepšení statické analýzy v GCC 13]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/vylepseni-staticke-analyzy-v-gcc-13</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/vylepseni-staticke-analyzy-v-gcc-13"/>
-        <updated>2023-06-01T10:22:15.000Z</updated>
-        <summary type="html"><![CDATA[David Malcolm se ve svém příspěvku na blogu vývojářů Red Hatu rozepsal o vylepšeních statické analýzy (volba -fanalyzer) v GCC 13.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ovladač AMDGPU pro Linux zapíná FreeSync a zlepšuje úsporu energie]]></title>
         <id>www.root.cz-actuality-44795</id>
         <link href="https://www.root.cz/zpravicky/ovladac-amdgpu-pro-linux-zapina-freesync-a-zlepsuje-usporu-energie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2838,16 +2858,6 @@ Do you want a sequel to Resident Evil: Welcome To Raccoon City? Let us know in 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Armbian 23.05 Brings Debian Bookworm Based Images, i3 Desktop Support]]></title>
-        <id>https://www.phoronix.com/news/Armbian-23.05-Released</id>
-        <link href="https://www.phoronix.com/news/Armbian-23.05-Released"/>
-        <updated>2023-05-31T12:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Armbian 23.05 is out today as this Arm-focused Debian-based Linux distribution effort is approaching its tenth anniversary...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Iconic Torrent Site RARBG Shuts Down, All Content Releases Stop]]></title>
         <id>https://torrentfreak.com/?p=235816</id>
         <link href="https://torrentfreak.com/iconic-torrent-site-rarbg-shuts-down-all-content-releases-stop-230531/"/>
@@ -3004,16 +3014,6 @@ Psycho. Noughts and crosses. Three Xs. You can see where they're coming from.
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 114 Released With CHIPS, Popover API]]></title>
-        <id>https://www.phoronix.com/news/Chrome-114-Released</id>
-        <link href="https://www.phoronix.com/news/Chrome-114-Released"/>
-        <updated>2023-05-30T21:07:09.000Z</updated>
-        <summary type="html"><![CDATA[Google has promoted Chrome 114 to stable across Linux, Windows, and macOS...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
