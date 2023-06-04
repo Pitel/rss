@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-04T20:09:20.003Z</id>
+    <id>urn:2023-06-04T22:08:30.105Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-04T20:09:20.003Z</updated>
+    <updated>2023-06-04T22:08:30.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Týden na ITBiz: Soumrak nad Googlem? Analytici a trhy se neshodnou]]></title>
+        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-soumrak-nad-googlem-analytici-a-trhy-se-neshodnou</id>
+        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-soumrak-nad-googlem-analytici-a-trhy-se-neshodnou"/>
+        <updated>2023-06-04T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat urychluje zavádění generativní AI v hybridním cloudu. Germanen jako cesta k energeticky úsporné elektronice?. Firmy v ČR se připravují k přechodu na novou generaci řešení SAP. Studie Cisco: přechod firem do multicloudu přináší problémy se zabezpečením přístupu uživatelů. Půl roku od uvedení ChatGPT: Umělá inteligence v centru zájmu. Soumrak nad Googlem? Analytici a trhy se neshodnou.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: Android si hraje, Američané skřípou zuby a Apple bolí hlava]]></title>
+        <id>www.root.cz-text-16634</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-android-si-hraje-americane-skripou-zuby-a-apple-boli-hlava/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-04T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Dnes se podíváme na nechtěné přílepky některých oblíbených her na Androidu, obří únik osobních dat ve zdravotním sektoru v USA, vážnou slabinu v Apple macOS a téměř již tradiční zranitelnosti u Zyxelu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: ČD - Telematika)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systém Minix je mrtvý, openSUSE přejmenovává MicroOS]]></title>
+        <id>www.root.cz-text-16630</id>
+        <link href="https://www.root.cz/clanky/system-minix-je-mrtvy-opensuse-prejmenovava-microos/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-04T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Na konferenci openSUSE bylo oznámeno přejmenování edicí MicroOS Destop. Vývoj svobodného operačního systému MINIX ustal před pěti lety. Příští rok by měla vyjít verze Ubuntu, která bude mít softwarové balíčky čistě ve formátu snap.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C++: mapování hodnot z runtime na integrální konstanty]]></title>
+        <id>www.root.cz-text-16637</id>
+        <link href="https://www.root.cz/clanky/c-mapovani-hodnot-z-runtime-na-integralni-konstanty/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-04T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[S každou další verzí C++ lze víc a víc algoritmů přesunout do constexpr „domény“, kde se výpočty provádí během překladu a v runtime se již používají výsledky. Často ale vstupem do takového výpočtu je hodnota získaná až v runtime.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kali Linux 2023.2 (Hyper-V & PipeWire)]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/kali-linux-2023.2-hyper-v-pipewire</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/kali-linux-2023.2-hyper-v-pipewire"/>
+        <updated>2023-06-04T20:18:09.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 2023.2 linuxové distribuce navržené pro digitální forenzní analýzu a penetrační testování Kali Linux (Wikipedie). Přehled novinek se seznamem nových nástrojů v oficiálním oznámení. Zdůraznit lze předpřipravené obrazy pro Hyper-V nebo to, že ve výchozím prostředí Xfce bylo PulseAudio nahrazeno multimediálním serverem PipeWire.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Debian 12 "Bookworm" Set For Release Next Week With Around 100 Known Bugs]]></title>
         <id>https://www.phoronix.com/news/Debian-12-Next-Week</id>
@@ -2377,16 +2427,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fossil 2.22]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/fossil-2.22</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/fossil-2.22"/>
-        <updated>2023-06-01T11:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Fossil (Wikipedie) byl vydán ve verzi 2.22. Jedná se o distribuovaný systém správy verzí propojený se správou chyb, wiki stránek a blogů s integrovaným webovým rozhraním. Vše běží z jednoho jediného spustitelného souboru a uloženo je v SQLite databázi.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Indiescovery Episode 11: Our favourite indie games of 2023 so far]]></title>
         <id>https://www.rockpapershotgun.com/indiescovery-episode-11-our-favourite-indie-games-of-2023-so-far</id>
         <link href="https://www.rockpapershotgun.com/indiescovery-episode-11-our-favourite-indie-games-of-2023-so-far"/>
@@ -3487,26 +3527,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ksnip: multiplatformní snímač obrazovek s pokročilými funkcemi]]></title>
-        <id>www.root.cz-text-16606</id>
-        <link href="https://www.root.cz/clanky/ksnip-multiplatformni-snimac-obrazovek-s-pokrocilymi-funkcemi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-29T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Při vytváření dokumentace k programům vám mohou výrazně pomoci aplikace, které vytvářejí diagramy popisující fungování aplikace. Hodí se ale také nástroje, které snímají reálné snímky obrazovek.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Svatopluk Vít)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Propojení Pythonu s nativními knihovnami s využitím balíčku cffi]]></title>
-        <id>www.root.cz-text-16626</id>
-        <link href="https://www.root.cz/clanky/propojeni-pythonu-s-nativnimi-knihovnami-s-vyuzitim-balicku-cffi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-29T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Python je dnes pravděpodobně nejrozšířenějším programovacím jazykem, k čemuž přispěl i fakt, že pro něj existuje obrovské množství balíčků. Mnoho z nich je ve skutečnosti jen lepidlo mezi Pythonem a nativními knihovnami.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mageia 9 Beta 2 přináší Linux 6.3 s KDE Plasma 5.27 či GNOME 44]]></title>
         <id>www.root.cz-actuality-44783</id>
         <link href="https://www.root.cz/zpravicky/mageia-9-beta-2-prinasi-linux-6-3-s-kde-plasma-5-27-ci-gnome-44/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3706,16 +3726,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Acer představuje nový Swift Edge 16 s procesory AMD Ryzen řady 7040. České firmy v krizi urychlují digitalizaci. 93 % ransomwarových útoků se zaměřuje na zálohovací úložiště a vynucuje si tím zaplacení výkupného. Moderní řešení pro datacentra od Schneider Electric. CyberSecurity Podcast ProID #11: Obnova organizace po ransomware útoku. Míra zašifrování dat ransomwarem dosáhla nejvyšší úrovně za poslední 4 roky. Se společností AddAI o AI a chatbotech. Dell představuje nejnovější zařízení pro hybridní práci.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: falešné investiční nabídky na vzestupu]]></title>
-        <id>www.root.cz-text-16623</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-falesne-investicni-nabidky-na-vzestupu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-05-28T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V dnešním díle Postřehů se podíváme na kryptoscamy, na zenové útočníky z Play Store, na zranitelnosti v MS Outlook, Cisco Small Business či Keepassu, na IT security analytika k nezaplacení a řadu dalších zajímavostí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: CSIRT.CZ)</name>
         </author>
     </entry>
     <entry>
@@ -4295,22 +4305,22 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Miss Twisted Metal? This Warhammer 40K multiplayer racer shooter is for you]]></title>
-        <id>https://www.rockpapershotgun.com/miss-twisted-metal-this-warhammer-40k-multiplayer-racer-shooter-is-for-you</id>
-        <link href="https://www.rockpapershotgun.com/miss-twisted-metal-this-warhammer-40k-multiplayer-racer-shooter-is-for-you"/>
+        <title type="html"><![CDATA[Warhammer 40K: Rogue Trader is getting a closed beta in June]]></title>
+        <id>https://www.rockpapershotgun.com/warhammer-40k-rogue-trader-is-getting-a-closed-beta-in-june</id>
+        <link href="https://www.rockpapershotgun.com/warhammer-40k-rogue-trader-is-getting-a-closed-beta-in-june"/>
         <updated>2023-05-25T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Well, this isn't what I expected to see at tonight's Warhammer Skulls stream. The 2018 board game Warhammer 40K: Speed Freeks is being turned into a free-to-play racing multiplayer shooter game, and there's an open alpha playtest available over on Steam right now. Developed by Grip: Combat Racing studio Caged Element, the reveal trailer for Warhammer 40K: Speed Freeks looks absolutely incredible. Come and shout dakka dakka with me below. 
+        <summary type="html"><![CDATA[Tonight's Warhammer Skulls event showed off a new trailer for Warhammer 40K: Rogue Trader this evening, which not only revealed several new locations, enemy types and party companions, but it that a closed beta for the Warhammer CRPG will be arriving on June 1st. The beta will be available to anyone who's already pre-ordered the game, and it will run until the game's release. We still don't know when that final release date will be just yet, but if you're keen to see how 40K translates to a good old-fashioned classic RPG, at least you should have a fair old while to see what's up.
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Warhammer 40K: Rogue Trader is getting a closed beta in June]]></title>
-        <id>https://www.rockpapershotgun.com/warhammer-40k-rogue-trader-is-getting-a-closed-beta-in-june</id>
-        <link href="https://www.rockpapershotgun.com/warhammer-40k-rogue-trader-is-getting-a-closed-beta-in-june"/>
+        <title type="html"><![CDATA[Miss Twisted Metal? This Warhammer 40K multiplayer racer shooter is for you]]></title>
+        <id>https://www.rockpapershotgun.com/miss-twisted-metal-this-warhammer-40k-multiplayer-racer-shooter-is-for-you</id>
+        <link href="https://www.rockpapershotgun.com/miss-twisted-metal-this-warhammer-40k-multiplayer-racer-shooter-is-for-you"/>
         <updated>2023-05-25T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tonight's Warhammer Skulls event showed off a new trailer for Warhammer 40K: Rogue Trader this evening, which not only revealed several new locations, enemy types and party companions, but it that a closed beta for the Warhammer CRPG will be arriving on June 1st. The beta will be available to anyone who's already pre-ordered the game, and it will run until the game's release. We still don't know when that final release date will be just yet, but if you're keen to see how 40K translates to a good old-fashioned classic RPG, at least you should have a fair old while to see what's up.
+        <summary type="html"><![CDATA[Well, this isn't what I expected to see at tonight's Warhammer Skulls stream. The 2018 board game Warhammer 40K: Speed Freeks is being turned into a free-to-play racing multiplayer shooter game, and there's an open alpha playtest available over on Steam right now. Developed by Grip: Combat Racing studio Caged Element, the reveal trailer for Warhammer 40K: Speed Freeks looks absolutely incredible. Come and shout dakka dakka with me below. 
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
@@ -4676,16 +4686,6 @@ The post Meet Brian Jepson: programmer, maker, tinkerer, and Raspberry Pi’s ne
 The post What can you buy at our May and June Raspberry Pi pop-up stores? appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ScienceMag.cz: Kvantový počítač na bázi anyonů]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-kvantovy-pocitac-na-bazi-anyonu</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-kvantovy-pocitac-na-bazi-anyonu"/>
-        <updated>2023-05-19T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google i Microsoft pracují na konceptu kvantového počítače ještě divnějším než jiné. Hyperbolický uhlík. Atomy temné hmoty? Jaderná fúze bez neutronů. Jak staré jsou prstence Saturnu.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
     <entry>
