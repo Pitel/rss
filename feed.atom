@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-08T06:12:46.720Z</id>
+    <id>urn:2023-06-08T08:12:13.789Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-08T06:12:46.720Z</updated>
+    <updated>2023-06-08T08:12:13.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Alexa, start the car”: warm up your car remotely with Raspberry Pi]]></title>
+        <id>https://www.raspberrypi.com/?p=97225</id>
+        <link href="https://www.raspberrypi.com/news/alexa-start-the-car-warm-up-your-car-remotely-with-raspberry-pi/"/>
+        <updated>2023-06-08T07:32:52.000Z</updated>
+        <summary type="html"><![CDATA[Richard could never remember to start the car ahead of time when it's cold outside, so he taught Raspberry Pi to do it for him
+The post “Alexa, start the car”: warm up your car remotely with Raspberry Pi appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Ashley Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openSUSE Leap 15.5: nové vydání zralé distribuce]]></title>
+        <id>www.root.cz-actuality-44815</id>
+        <link href="https://www.root.cz/zpravicky/opensuse-leap-15-5-nove-vydani-zrale-distribuce/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-08T06:38:33.000Z</updated>
+        <summary type="html"><![CDATA[Komunita openSUSE vydala nové menší vydání své standardně konzervativní distribuce Leap 15.5. Ačkoliv již probíhají přípravy nové řady Leap 16, bylo o den dříve oznámeno, že uživatelé mohou počítat ještě s vydáním jedné menší verze Leap 15.6.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: honyczek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Journey Now Into an Age of Chivalry in an Alternate Reality]]></title>
         <id>https://www.scummvm.org/news/archive/#2023-06-08</id>
@@ -3822,16 +3843,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[openSUSE Aeon a openSUSE Kalpa jsou nové názvy pro MicroOS Desktop]]></title>
-        <id>www.root.cz-actuality-44792</id>
-        <link href="https://www.root.cz/zpravicky/opensuse-aeon-a-opensuse-kalpa-jsou-nove-nazvy-pro-microos-desktop/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-01T06:46:09.000Z</updated>
-        <summary type="html"><![CDATA[Projekt openSUSE oznámil, že prostředí MicroOS Desktop GNOME bylo přejmenováno na openSUSE Aeon a prostředí MicroOS Desktop Plasma zase na openSUSE Kalpa. Podle vývojářů se jmenný prostor produktů MicroOS stal příliš přeplněným, takže bylo rozhodnuto o změně názvů na jednodušší a kratší varianty.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RARBG: Over 267,000 Movie & TV Show Magnet Links Appear Online]]></title>
         <id>https://torrentfreak.com/?p=235850</id>
         <link href="https://torrentfreak.com/rarbg-over-267000-movie-tv-show-magnet-links-appear-online-230601/"/>
@@ -4715,17 +4726,6 @@ Here are the fixed issues in Android Studio Flamingo Patch 2. These are a result
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Monitoring glaciers in Peru, Nepal, and India with Raspberry Pi cameras]]></title>
-        <id>https://www.raspberrypi.com/?p=96603</id>
-        <link href="https://www.raspberrypi.com/news/monitoring-glaciers-in-peru-nepal-and-india-with-raspberry-pi-cameras/"/>
-        <updated>2023-05-24T08:01:59.000Z</updated>
-        <summary type="html"><![CDATA[Can affordable Raspberry Pi cameras do as good a job modelling glaciers as expensive Unmanned Aerial Vehicles?
-The post Monitoring glaciers in Peru, Nepal, and India with Raspberry Pi cameras appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[May 24, 2023]]></title>
         <id>https://developer.android.com/jetpack/androidx/versions/all-channel#may_24_2023</id>
         <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#may_24_2023"/>
@@ -4885,18 +4885,6 @@ Window Extensions Core Version 1.0.0-rc01]]></summary>
         <summary type="html"><![CDATA[Media3 Version 1.1.0-alpha01]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Summer of Code 2023 – please welcome our participants!]]></title>
-        <id>https://www.scummvm.org/news/archive/#2023-05-09</id>
-        <link href="https://www.scummvm.org/news/20230509/"/>
-        <updated>2023-05-09T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On Thursday Google announced the list of participants accepted for this year's Google Summer of Code and we are happy to report that 5 contributors have been accepted to work on various parts of the ScummVM project this summer.
-Ankush Dutt will work on an automated system for packaging freeware games with ScummVM for various platforms. The project includes two main objectives: help create standalone game packages bundled with ScummVM, and implement a new mechanism to let users download and install freeware games directly from the ScummVM launcher. You can follow the progress for this task on Ankush’s GSoC blog.
-Harishankar Kumar will work on improving Director 4 Compatibility. The goal is to reach full support for Total Distortion & The Journeyman Project. You can follow the progress for t…]]></summary>
-        <author>
-            <name>nospam@scummvm.org (criezy)</name>
         </author>
     </entry>
 </feed>
