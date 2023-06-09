@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-09T06:12:50.346Z</id>
+    <id>urn:2023-06-09T08:12:34.695Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-09T06:12:50.346Z</updated>
+    <updated>2023-06-09T08:12:34.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Datová Akademie: naučte se analyzovat a zpracovat data (školení)]]></title>
+        <id>www.root.cz-actuality-42299</id>
+        <link href="https://www.root.cz/zpravicky/datova-akademie-naucte-se-analyzovat-a-zpracovat-data-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-09T07:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Datová Akademie je prezenční kurz vyvinutý s experty v oblasti datové analýzy. Na kurzu se budete zabývat strukturou a pochopením dat, jejich vizualizací a zpracováním v různých systémech. Postupně projedeme všechny klíčové oblasti a technologie potřebné k práci datového analytika.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V jádře na x86 půjdou zakázat 32bitová volaní]]></title>
+        <id>www.root.cz-actuality-44818</id>
+        <link href="https://www.root.cz/zpravicky/v-jadre-na-x86-pujdou-zakazat-32bitova-volani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-09T07:04:32.000Z</updated>
+        <summary type="html"><![CDATA[Nikolaj Borisov ze SUSE poslal ve středu do jádra kód, který umožní vypnout 32bitová volání pro x86. Důvodem je, že 64 bitů je v současnosti více testováno a vypnutím se zmenší prostor pro možné útoky. Samozřejmě někdo stále používá 32bitový software, proto je vypnutí podmíněno parametrem jádra ia32_disabled.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Shows Off Kirby Tilt 'n' Tumble's Motion Controls On Switch]]></title>
         <id>https://www.nintendolife.com/#article-150873</id>
@@ -4514,16 +4534,6 @@ During my cover story trip to Tokyo, Japan, to speak to developer Creative Busin
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Brave spouští API pro vyhledávání, s omezeními jej lze použít zdarma]]></title>
-        <id>www.root.cz-actuality-44796</id>
-        <link href="https://www.root.cz/zpravicky/brave-spousti-api-pro-vyhledavani-s-omezenimi-jej-lze-pouzit-zdarma/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-01T11:11:31.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Brave oznámila otevření svého rozhraní Brave Search API, které zpřístupňuje vyhledávač Brave Search firmám a vývojářům po celém světě. Ti jej mohou využít při vytváření svých aplikací, které vyžadují funkci webového vyhledávání.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Paragraphica creates “photos” based on your location]]></title>
         <id>https://www.raspberrypi.com/?p=97098</id>
         <link href="https://www.raspberrypi.com/news/paragraphica-creates-photos-based-on-your-location/"/>
@@ -4532,16 +4542,6 @@ During my cover story trip to Tokyo, Japan, to speak to developer Creative Busin
 The post Paragraphica creates “photos” based on your location appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ovladač AMDGPU pro Linux zapíná FreeSync a zlepšuje úsporu energie]]></title>
-        <id>www.root.cz-actuality-44795</id>
-        <link href="https://www.root.cz/zpravicky/ovladac-amdgpu-pro-linux-zapina-freesync-a-zlepsuje-usporu-energie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-01T10:05:22.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři z AMD vydali tento týden významnou sadu změn pro grafický ovladač jádra AMDGPU. V roce 2020 společnost AMD představila režim FreeSync Video, takže uživatelské programy mohou požádat o režim videa kompatibilní s FreeSync. Zpočátku bylo k aktivaci nutné nastavit parametr modulu jádra amdgpu.experimental_freesync_video=1,  jádro 5.18 se jej snažilo povolit ve výchozím nastavení, ale vývojáři nakonec od tohoto plánu upustili.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -4859,20 +4859,6 @@ Here is a list of general fixes in Android Studio Giraffe Beta 3. These are a r
         <summary type="html"><![CDATA[While working on an automated opt-in survey (about which I write in a bit), it was noticed that our privacy policy and cookie policy is rather out-of-date. Mostly, we used to store a lot more personal information when you created an account, like email addresses, passwords, etc. As we now use GitHub to handle all that, we can slim down our privacy policy, as we store very little personal information. For the cookie policy, for years now we only use cookies for the authenticated part of our websites and nothing else. OpenTTD’s privacy policy has always been: we want to know as little personal information about you as possible. And although these changes were rolled out years ago, the policies did not reflect that yet. They do now! In short: we removed statements from the policy about information we track, as we haven’t done that for years now. So, what about this automated opt-in survey you are talking about?]]></summary>
         <author>
             <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Hedgehog Canary 3 is now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-3-is-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-3-is-now.html"/>
-        <updated>2023-05-10T19:43:00.003Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Hedgehog | 2023.1.1 Canary 3 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Hedgehog, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
-General fixes and features
-Here is a list of general fixes in Android Studio Hedgehog Canary 3. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
