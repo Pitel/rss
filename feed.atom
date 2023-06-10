@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-10T10:09:42.107Z</id>
+    <id>urn:2023-06-10T12:16:09.588Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-10T10:09:42.107Z</updated>
+    <updated>2023-06-10T12:16:09.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debian 12.0 Released - Powered By Linux 6.1 LTS, Easier Non-Free Firmware Handling]]></title>
+        <id>https://www.phoronix.com/news/Debian-12-Released</id>
+        <link href="https://www.phoronix.com/news/Debian-12-Released"/>
+        <updated>2023-06-10T12:00:14.000Z</updated>
+        <summary type="html"><![CDATA[Following more than one and a half years in development, Debian 12 is officially shipping today as the latest major release for this long-maintained Linux distribution...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyšel Debian 12 Bookworm, poslední verze pro 32bitové procesory x86]]></title>
+        <id>www.root.cz-actuality-44784</id>
+        <link href="https://www.root.cz/zpravicky/vysel-debian-12-bookworm-posledni-verze-pro-32bitove-procesory-x86/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-10T11:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři právě vydali očekávaný Debian 12 s kódovým jménem Bookworm. Toto vydání bude mít plnou podporu až do poloviny roku 2026. Velkou novinkou je zařazení nesvobodných firmwarů do instalátoru, což zjednoduší život uživatelům, jejichž hardware se bez zavedení firmware nerozeběhne.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA SHIELD Controller Driver Coming With Linux 6.5]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-SHIELD-HID-Driver</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-SHIELD-HID-Driver"/>
+        <updated>2023-06-10T10:18:36.000Z</updated>
+        <summary type="html"><![CDATA[Five years after NVIDIA launched their SHIELD "Thunderstrike" gaming controller, they've recently been working on upstreaming support for this controller -- and other possible NVIDIA Shield peripherals -- via a new Linux kernel driver. This new driver is now set to be merged for Linux 6.5...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6 X11 Session "Barely Buggier" Than Plasma 5 On X11]]></title>
+        <id>https://www.phoronix.com/news/Plasma-6-X11-Barely-Buggier</id>
+        <link href="https://www.phoronix.com/news/Plasma-6-X11-Barely-Buggier"/>
+        <updated>2023-06-10T10:07:05.000Z</updated>
+        <summary type="html"><![CDATA[Prominent KDE developer Nate Graham is out with his latest weekly development summary to highlight all of the work on Plasma 5 fixes and then the ongoing feature work in the march toward Plasma 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
         <id>https://www.destructoid.com/?p=384422</id>
@@ -668,6 +708,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Last Call For The Phoronix 19th Birthday Premium Sale]]></title>
+        <id>https://www.phoronix.com/news/Phoronix-19-Premium-Last-Call</id>
+        <link href="https://www.phoronix.com/news/Phoronix-19-Premium-Last-Call"/>
+        <updated>2023-06-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is just a friendly reminder that if you wanted to participate in this week's Phoronix Premium special with Phoronix.com having turned 19 this week, that special sale ends this weekend...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google's Patches To Speed-Up Over-Committed Linux Guest VMs Are Looking Great]]></title>
         <id>https://www.phoronix.com/news/Google-Benchmarks-Heavy-VMs</id>
         <link href="https://www.phoronix.com/news/Google-Benchmarks-Heavy-VMs"/>
@@ -1005,16 +1055,6 @@ This long-awaited sequel to Pikmin 3 launches on Nintendo Switch on 21st July 20
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Last Call For The Phoronix 19th Birthday Premium Sale]]></title>
-        <id>https://www.phoronix.com/news/Phoronix-19-Premium-Last-Call</id>
-        <link href="https://www.phoronix.com/news/Phoronix-19-Premium-Last-Call"/>
-        <updated>2023-06-09T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is just a friendly reminder that if you wanted to participate in this week's Phoronix Premium special with Phoronix.com having turned 19 this week, that special sale ends this weekend...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3605,16 +3645,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.5 To Add Support For Some New AMD CCP Hardware]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.5-New-AMD-CCP-Hardware</id>
-        <link href="https://www.phoronix.com/news/Linux-6.5-New-AMD-CCP-Hardware"/>
-        <updated>2023-06-06T20:52:23.000Z</updated>
-        <summary type="html"><![CDATA[The upcoming Linux 6.5 kernel is set to add support for some new hardware to AMD's decade-old cryptographic co-processor (CCP) driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How To Build A New Final Fantasy: An Interview With Creative Business Unit III]]></title>
         <id>120537</id>
         <link href="https://www.gameinformer.com/exclusive-feature/2023/06/06/how-to-build-a-new-final-fantasy-an-interview-with-creative-business"/>
@@ -3703,26 +3733,6 @@ Here is a list of general fixes in Android Studio Hedgehog Canary 7. These are 
         <link href="https://www.phoronix.com/review/radeon-zink-summer23"/>
         <updated>2023-06-06T16:20:53.000Z</updated>
         <summary type="html"><![CDATA[It's been a while since last looking at the Zink performance for this OpenGL implementation built atop the Vulkan APIs, but with all of the Zink progress by Valve's Mike Blumenkrantz and others, here is a fresh round of testing. This article is seeing how for Mesa Git the performance of Zink on the RADV Vulkan driver compares to that of the native RadeonSI driver while testing with both the Radeon RX 7600 and RX 7900 XTX graphics cards.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Announces Faster Arc Pro A60 & A60M Graphics]]></title>
-        <id>https://www.phoronix.com/news/Intel-Arc-Pro-A60</id>
-        <link href="https://www.phoronix.com/news/Intel-Arc-Pro-A60"/>
-        <updated>2023-06-06T16:14:39.000Z</updated>
-        <summary type="html"><![CDATA[Intel today announced the Arc Pro A60 graphics card and the A60M as the mobile variant of this new faster class of Arc Pro Graphics...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental OpenGL 3.1 Support For Apple M1/M2 Graphics On Linux]]></title>
-        <id>https://www.phoronix.com/news/Apple-Asahi-OpenGL-3.1</id>
-        <link href="https://www.phoronix.com/news/Apple-Asahi-OpenGL-3.1"/>
-        <updated>2023-06-06T15:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Experimental driver code available via the Asahi Linux "edge" packages allow for OpenGL 3.1 and OpenGL ES 3.0 to be exposed for Apple Silicon M1/M2 SoCs under this Arch Linux based OS...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -4513,16 +4523,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nový plánovač EEVDF se chystá nahradit v jádře CFS]]></title>
-        <id>www.root.cz-actuality-44801</id>
-        <link href="https://www.root.cz/zpravicky/novy-planovac-eevdf-se-chysta-nahradit-v-jadre-cfs/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-02T08:17:18.000Z</updated>
-        <summary type="html"><![CDATA[V současném linuxovém jádře je jen jeden plánovač úloh a to CFS (Completely Fair Scheduler). Na CFS si občas uživatelé stěžují.  Peter Zijlstra z Intelu ve středu poslal do jádra plánovač EEVDF (Earliest Eligible Virtual Deadline First). Ten je založený na teorii z článku z roku 1996. Oproti CFS by měl mít lepší latence a menší odchylky při opakovaných měřeních.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
