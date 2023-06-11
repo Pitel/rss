@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-11T12:17:02.731Z</id>
+    <id>urn:2023-06-11T14:08:11.886Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-11T12:17:02.731Z</updated>
+    <updated>2023-06-11T14:08:11.886Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Kera Desktop]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/kera-desktop</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/kera-desktop"/>
+        <updated>2023-06-11T12:23:55.000Z</updated>
+        <summary type="html"><![CDATA[Mutlu Can Yılmaz představil svůj Kera Desktop postavený na webových technologiích. Začal na něm pracovat před 10 lety. Zdrojové kódy jsou k dispozici na GitLabu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mailbox: Welcome To The Nintendo Life Letters Page!]]></title>
         <id>https://www.nintendolife.com/#article-150727</id>
@@ -672,11 +682,11 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenTTD 13.2]]></title>
+        <title type="html"><![CDATA[OpenTTD 13.2 (and 13.2.1)]]></title>
         <id>https://www.openttd.org/news/2023/06/10/openttd-13-2.html</id>
         <link href="https://www.openttd.org/news/2023/06/10/openttd-13-2.html"/>
         <updated>2023-06-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As I write this many of the development team and other members of the community are busy having fun at a meet-up in Brussels. Not me though, I’m stuck here doing a release. We’ve been busy refactoring quite a lot of the underlying code to make future changes easier, but along the way we’ve found and fixed a few more bugs and quality of life improvements that we figured were worth releasing sooner than whenever 14.0 comes along. Notably, OpenTTD will now automatically disable hardware acceleration if it detects that the last crash happened while initialising the graphics driver. While hardware acceleration works well for the vast majority of people, it causes crashes for people that then required command line arguments or manual config file editing to get it to work. This should be a better solution for those users. Additionally, there is a change to the default mouse mode on Linux to improve experience when dragging the map (and often to match expected behaviour in other games). As always, there are plenty of other bugfixes, which you can find in the changelog. While you’re at it, have you seen the post about the upcoming addition of a automated opt-in survey to OpenTTD 14? If you have opinions, we’d like to hear them! Details here. Download Changelog Bug tracker]]></summary>
+        <summary type="html"><![CDATA[As I write this many of the development team and other members of the community are busy having fun at a meet-up in Brussels. Not me though, I’m stuck here doing a release. We’ve been busy refactoring quite a lot of the underlying code to make future changes easier, but along the way we’ve found and fixed a few more bugs and quality of life improvements that we figured were worth releasing sooner than whenever 14.0 comes along. Notably, OpenTTD will now automatically disable hardware acceleration if it detects that the last crash happened while initialising the graphics driver. While hardware acceleration works well for the vast majority of people, it causes crashes for people that then required command line arguments or manual config file editing to get it to work. This should be a better solution for those users. Additionally, there is a change to the default mouse mode on Linux to improve experience when dragging the map (and often to match expected behaviour in other games). As always, there are plenty of other bugfixes, which you can find in the changelog. While you’re at it, have you seen the post about the upcoming addition of a automated opt-in survey to OpenTTD 14? If you have opinions, we’d like to hear them! Details here. PS: we made a mistake in the Windows release; a 13.2.1 was pushed to address this issue. It is fully network compatible with 13.2, so no need to update unless you want to. Download Changelog Bug tracker]]></summary>
         <author>
             <name>OpenTTD</name>
         </author>
@@ -3422,16 +3432,6 @@ Game Informer: In developi…]]></summary>
 Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[postmarketOS 23.06]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/postmarketos-23.06</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/postmarketos-23.06"/>
-        <updated>2023-06-07T15:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři postmarketOS vydali verzi 23.06 tohoto před šesti lety představeného operačního systému pro chytré telefony vycházejícího z optimalizovaného a nakonfigurovaného Alpine Linuxu s vlastními balíčky. Přehled novinek v příspěvku na blogu. Na výběr jsou 4 uživatelská rozhraní: GNOME Shell, Phosh, Plasma a Sxmo. Aktuálně podporovaných zařízení je 30.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
