@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-17T10:09:36.002Z</id>
+    <id>urn:2023-06-17T12:16:19.804Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-17T10:09:36.002Z</updated>
+    <updated>2023-06-17T12:16:19.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CentOS Stream 10 Starting To Get Underway, More Activity In 2024]]></title>
+        <id>https://www.phoronix.com/news/CentOS-Stream-10-Start</id>
+        <link href="https://www.phoronix.com/news/CentOS-Stream-10-Start"/>
+        <updated>2023-06-17T11:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Some Fedora Enterprise Linux Next (ELN) plans were shared on Friday with the process of launching CentOS Stream 10 getting underway that will ultimately form the basis of Red Hat Enterprise Linux 10...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.4 Lands Fix For Open-Source NVIDIA Driver Use-After-Free Issue]]></title>
+        <id>https://www.phoronix.com/news/Nouveau-Use-After-Free-Fixed</id>
+        <link href="https://www.phoronix.com/news/Nouveau-Use-After-Free-Fixed"/>
+        <updated>2023-06-17T11:14:29.000Z</updated>
+        <summary type="html"><![CDATA[As a follow-up to yesterday's article about the believed fix for the Nouveau use-after-free bug plaguing Linux 6.3 users of this open-source NVIDIA driver, the fix has now been merged to Linux 6.4 Git and in turn should also be picked up for an upcoming Linux 6.3 point release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distrobox 1.5 Released With NVIDIA GPU Containers Support]]></title>
+        <id>https://www.phoronix.com/news/Distrobox-1.5-Released</id>
+        <link href="https://www.phoronix.com/news/Distrobox-1.5-Released"/>
+        <updated>2023-06-17T10:56:36.000Z</updated>
+        <summary type="html"><![CDATA[Distrobox is the open-source project for quickly and easily firing up other Linux distributions as containers on your desktop. Distrobox is a delight to use if needing to try different Linux distributions on your system or wishing to leverage different distributions for specialized workloads...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plasma 6.0 Development Continues, More Plasma Wayland Fixes Land]]></title>
+        <id>https://www.phoronix.com/news/Plasma-6.0-More-Wayland-Fixes</id>
+        <link href="https://www.phoronix.com/news/Plasma-6.0-More-Wayland-Fixes"/>
+        <updated>2023-06-17T10:42:43.000Z</updated>
+        <summary type="html"><![CDATA[It may be the middle of summer but there are no signs of Plasma 6.0 development efforts slowing down at all with this being another interesting week for KDE development...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
         <id>https://www.destructoid.com/?p=385865</id>
@@ -15,6 +55,16 @@ Goooood morning friends and lovers, and welcome to a particularly sorchio Whatch
 And speaking of Summer, we have reached the end of Summer Game Fest, just in time to start gearing up for Gamescom. Because now E3 is no longer around, these things roll out for weeks, and weeks, and weeks. SGF 2023 was pretty good, all things considered, and I thought we got to see a lot of pretty exciti…]]></summary>
         <author>
             <name>Chris Moyse</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.13 Aiming For More Performance]]></title>
+        <id>https://www.phoronix.com/news/Python-3.13-More-Performance</id>
+        <link href="https://www.phoronix.com/news/Python-3.13-More-Performance"/>
+        <updated>2023-06-17T09:59:31.000Z</updated>
+        <summary type="html"><![CDATA[Python 3.12 isn't even being released until October and Python 3.13 won't be out until H2'2024, but already the developers working on tuning CPython performance are aiming to make more enhancements this next development cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2959,16 +3009,6 @@ The post New functionality: Bluetooth for Pico W appeared first on Raspberry Pi.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PCI Express 7.0 v0.3 Specification Shared With PCI-SIG Members]]></title>
-        <id>https://www.phoronix.com/news/PCI-Express-7.0-v0.3</id>
-        <link href="https://www.phoronix.com/news/PCI-Express-7.0-v0.3"/>
-        <updated>2023-06-14T09:29:46.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of the planned full specification release in 2025, the PCI-SIG has now shared with its members the first review draft "v0.3" of PCI Express 7.0...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Soap2Day Shuts Down, Millions of Pirate Movie & TV Streamers Homeless]]></title>
         <id>https://torrentfreak.com/?p=236362</id>
         <link href="https://torrentfreak.com/soap2day-shuts-down-millions-pirate-movie-tv-streamers-homeless-230614/"/>
@@ -3065,16 +3105,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RADV Ray-Tracing Enabled By Default For Mesa 23.2]]></title>
-        <id>https://www.phoronix.com/news/RADV-RT-Default-Mesa-23.2</id>
-        <link href="https://www.phoronix.com/news/RADV-RT-Default-Mesa-23.2"/>
-        <updated>2023-06-13T21:30:15.000Z</updated>
-        <summary type="html"><![CDATA[For some months now RADV ray-tracing has been enabled on a per-game basis while finally today in a change for next quarter's Mesa 23.2 release is RADV ray-tracing support being exposed by default for all software...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Even the fastest SSD for gaming has dropped in price significantly in the UK]]></title>
         <id>https://www.rockpapershotgun.com/even-the-fastest-ssd-for-gaming-has-dropped-in-price-significantly-in-the-uk</id>
         <link href="https://www.rockpapershotgun.com/even-the-fastest-ssd-for-gaming-has-dropped-in-price-significantly-in-the-uk"/>
@@ -3105,26 +3135,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Talks Up Open-Source Software For AI, Introduces Instinct MI300X]]></title>
-        <id>https://www.phoronix.com/news/AMD-Instinct-MI300X-AI</id>
-        <link href="https://www.phoronix.com/news/AMD-Instinct-MI300X-AI"/>
-        <updated>2023-06-13T18:28:18.000Z</updated>
-        <summary type="html"><![CDATA[Beyond launching Bergamo and Genoa-X, AMD's AI Day also showcased the new AMD-Pensando DPU offerings and also previewed more of their next-gen Instinct MI300 accelerator APU...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Uses AI Day To Launch Genoa-X & Bergamo]]></title>
-        <id>https://www.phoronix.com/news/AMD-Launches-Bergamo-Genoa-X</id>
-        <link href="https://www.phoronix.com/news/AMD-Launches-Bergamo-Genoa-X"/>
-        <updated>2023-06-13T17:49:31.000Z</updated>
-        <summary type="html"><![CDATA[In addition to AMD announcing the Ryzen PRO 7000 series this morning, they have now announced Bergamo, Genoa-X, and other new data center offerings...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3219,16 +3229,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Announces Ryzen PRO 7000 Series Laptop & Desktop CPUs]]></title>
-        <id>https://www.phoronix.com/review/amd-ryzen-pro-7000</id>
-        <link href="https://www.phoronix.com/review/amd-ryzen-pro-7000"/>
-        <updated>2023-06-13T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AMD is kicking off what is going to be an exciting day with announcing the Ryzen PRO 7000 series processors for upcoming laptops and desktops.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
