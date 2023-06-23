@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-23T06:15:06.312Z</id>
+    <id>urn:2023-06-23T08:13:53.895Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-23T06:15:06.312Z</updated>
+    <updated>2023-06-23T08:13:53.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora ulehčí nasazení systemd-boot jako náhradu GRUBu]]></title>
+        <id>www.root.cz-actuality-44864</id>
+        <link href="https://www.root.cz/zpravicky/fedora-ulehci-nasazeni-systemd-boot-jako-nahradu-grubu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-23T08:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Fedora v současnosti používá GRUB a shim pro start UEFI počítačů. Tak to zůstane i nadále, ale podle návrhu by mělo jít místo GRUB a shim alternativně používat již od instalace systemd-boot, který se již stejně s Fedorou dodává.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cuphead-Like 2D Platformer Enchanted Portals Coming To Switch This Summer]]></title>
         <id>https://www.nintendolife.com/#article-151735</id>
@@ -42,6 +52,16 @@ The Entertainment Software Association has come out with a statement, mentioning
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flowblade 2.10]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/flowblade-2.10</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/flowblade-2.10"/>
+        <updated>2023-06-23T01:06:13.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze 2.10 svobodného video editoru Flowblade (GitHub, Wikipedie). Přehled novinek v poznámkách k vydání. Videoukázky funkcí Flowblade na Vimeu. Instalovat lze také z Flathubu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2638,16 +2658,6 @@ Window Version 1.2.0-alpha03]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Opera One aneb Opera 100]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/opera-one-aneb-opera-100</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/opera-one-aneb-opera-100"/>
-        <updated>2023-06-20T23:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána Opera One. Jedná se o webový prohlížeč Opera v nové stabilní verzi 100 (100.0.4815.21) s přepracovaným vzhledem a novými funkcemi. Zdůrazněna je integrovaná umělá inteligence Aria. Opera One je postavena na Chromiu 114. Podrobný přehled změn v Changelogu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android Studio Hedgehog Canary 9 now available]]></title>
         <id>https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-9-now.html</id>
         <link href="https://androidstudio.googleblog.com/2023/06/android-studio-hedgehog-canary-9-now.html"/>
@@ -4230,16 +4240,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reddit zavádí placené API, moderátoři a uživatelé protestují]]></title>
-        <id>www.root.cz-actuality-44839</id>
-        <link href="https://www.root.cz/zpravicky/reddit-zavadi-placene-api-uzivatele-protestuji/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-15T13:36:01.000Z</updated>
-        <summary type="html"><![CDATA[Oblíbená sociální síť Reddit v dubnu oznámila zavedení placeného API po vzoru Twitteru. To se však dotkne alternativních aplikací například Apollo, Sync nebo Reddit is Fun. Cena 50 miliónů dotazů má být 12 tisíc dolarů. Twitter si účtuje za 50 miliónů tweetů 42 tisíc dolarů, ale třeba Imgur jen 166 dolarů. Apollo by muselo ročně platit asi 20 miliónů dolarů, přitom má asi 50 tisíc předplatitelů, kteří platí 10 dolarů za rok. To již nedává ekonomicky smysl a aplikace končí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft recruit Outriders dev People Can Fly to make a game based on a preexisting IP]]></title>
         <id>https://www.rockpapershotgun.com/people-can-fly-working-on-microsoft-ip</id>
         <link href="https://www.rockpapershotgun.com/people-can-fly-working-on-microsoft-ip"/>
@@ -5008,18 +5008,6 @@ If you already have an Android Studio build on the Canary channel, you can get 
 For information on new features and changes in all preview builds of Android Studio Hedgehog, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
 General fixes and features
 Here is a list of general fixes in Android Studio Hedgehog Canary 5. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Flamingo Patch 2 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/05/android-studio-flamingo-patch-2-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/05/android-studio-flamingo-patch-2-now.html"/>
-        <updated>2023-05-24T19:22:00.002Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Flamingo | 2022.2.1 Patch 2 is now available in the stable channel.
-If you already have an Android Studio build on the stable channel, you can get the update by clicking Help > Check for Update (Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-Here are the fixed issues in Android Studio Flamingo Patch 2. These are a result of your bug reports, which help us make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
