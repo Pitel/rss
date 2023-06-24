@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-24T10:10:41.670Z</id>
+    <id>urn:2023-06-24T12:19:41.265Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-24T10:10:41.670Z</updated>
+    <updated>2023-06-24T12:19:41.265Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Arc Graphics Driver Change Leads To A Big Speed-Up Under Linux]]></title>
+        <id>https://www.phoronix.com/news/Intel-L3-Partial-Write-DG2</id>
+        <link href="https://www.phoronix.com/news/Intel-L3-Partial-Write-DG2"/>
+        <updated>2023-06-24T10:40:30.000Z</updated>
+        <summary type="html"><![CDATA[With the latest Mesa 23.2 code as of Friday there is now a rather significant performance optimization for Intel's graphics driver stack that really helps out Intel Arc Graphics DG2/Alchemist along with upcoming Meteor Lake graphics. Counter-Strike: Global Offensive, for example, was found to be 11% faster now with this single driver change and other Vulkan apps/games benefiting as well...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Plasma 6 Work Continues, SDDM To Be Incubated By KDE]]></title>
+        <id>https://www.phoronix.com/news/More-Plasma-6-Porting-KSvg</id>
+        <link href="https://www.phoronix.com/news/More-Plasma-6-Porting-KSvg"/>
+        <updated>2023-06-24T10:24:13.000Z</updated>
+        <summary type="html"><![CDATA[The KDE Plasma 6 desktop is becoming more "livable" and each week new features continue to be implemented. This week was another lively phase of development toward Plasma 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDDM 0.20.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/sddm-0.20.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/sddm-0.20.0"/>
+        <updated>2023-06-24T10:18:33.000Z</updated>
+        <summary type="html"><![CDATA[X display manager  SDDM (Simple Desktop Display Manager) byl vydán ve verzi 0.20.0. Přehled novinek v ChangeLogu. Vypíchnout lze počáteční podporu Qt 6, experimentální podporu běhu greeteru s Waylandem nebo podporu běhu X11 display serveru bez práv roota.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC 14 Adds Initial "-std=c++26" Plumbing]]></title>
+        <id>https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26</id>
+        <link href="https://www.phoronix.com/news/GCC-Lands-Std-CPP26-GNU26"/>
+        <updated>2023-06-24T10:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Similar to LLVM Clang 17 adding -std=c++26 support as the open-source compiler begins work on the next major revision of the C++ programming language, the GCC 14 compiler code has now also added the -std=c++26 compiler option...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
         <id>https://www.destructoid.com/?p=387535</id>
@@ -48,7 +88,7 @@ Read more]]></summary>
         <updated>2023-06-24T07:30:00.000Z</updated>
         <summary type="html"><![CDATA[Microsoft's Phil Spencer says it's "incorrect".
 Microsoft is currently locked in a courtroom battle with the Federal Trade Commission over its proposed $69 billion acquisition of Activision Blizzard, and although the focus is mostly on Xbox, on day two of the proceedings, the Nintendo Switch has already been dragged into the fight.
-According to The Verge, the FTC has been attempting to argue the Switch is "very different" to the Xbox Series X and PlayStation 5 - suggesting it's not really part of the same market, by comparing its technical capabilities, with lines about its frame rate and how it compares in terms of GPU teraflops.
+According to The Verge, the FTC has been attempting to argue the Switch is "very different" to the Xbox Series X and PlayStation 5 - suggesting it's not really part of the same market by comparing its technical capabilities, with lines about its frame rate and how it compares in terms of GPU teraflops.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -433,7 +473,7 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go 1.21 budě umět PGO - rychlejší programy i kompilace]]></title>
+        <title type="html"><![CDATA[Go 1.21 bude umět PGO - rychlejší programy i kompilace]]></title>
         <id>www.root.cz-actuality-44868</id>
         <link href="https://www.root.cz/zpravicky/go-1-21-bude-umet-pgo-rychlejsi-programy-i-kompilace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-06-23T18:18:53.000Z</updated>
@@ -2922,16 +2962,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CentOS Stream bude jediným repozitářem pro vydávání veřejných zdrojových kódů RHELu]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/centos-stream-bude-jedinym-repozitarem-pro-vydavani-verejnych-zdrojovych-kodu-rhelu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/centos-stream-bude-jedinym-repozitarem-pro-vydavani-verejnych-zdrojovych-kodu-rhelu"/>
-        <updated>2023-06-21T13:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat oznámil, že CentOS Stream bude jediným repozitářem pro vydávání veřejných zdrojových kódů RHELu. Pro zákazníky a partnery Red Hatu zůstane zdrojový kód dostupný přes Red Hat Customer Portal.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GCC má schválen vlastní Kodex chování]]></title>
         <id>www.root.cz-actuality-44859</id>
         <link href="https://www.root.cz/zpravicky/gcc-ma-schvalen-vlastni-kodex-chovani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3324,16 +3354,6 @@ What do you think Nintendo will announce tomorrow? Let us know in the comments!]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.5 Slated To Add Provisioning Primitives For Thinly Provisioned Storage]]></title>
-        <id>https://www.phoronix.com/news/Linux-65-Provisioning-Primitive</id>
-        <link href="https://www.phoronix.com/news/Linux-65-Provisioning-Primitive"/>
-        <updated>2023-06-20T13:22:07.000Z</updated>
-        <summary type="html"><![CDATA[Another feature scheduled to be sent in for the upcoming Linux 6.5 kernel merge window is introducing support for provisioning primitives for thinly provisioned storage with the Device Mapper (DM) code...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The joy of slow living in Story Of Seasons: A Wonderful Life]]></title>
         <id>https://www.rockpapershotgun.com/the-joy-of-slow-living-in-story-of-seasons-a-wonderful-life</id>
         <link href="https://www.rockpapershotgun.com/the-joy-of-slow-living-in-story-of-seasons-a-wonderful-life"/>
@@ -3363,16 +3383,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.5 Adding Qualcomm Adreno 690 Open-Source GPU Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.5-MSM-Adreno-A690</id>
-        <link href="https://www.phoronix.com/news/Linux-6.5-MSM-Adreno-A690"/>
-        <updated>2023-06-20T12:03:13.000Z</updated>
-        <summary type="html"><![CDATA[The upcoming Linux 6.5 kernel is poised to add support for Qualcomm's Adreno 690 GPU to the open-source MSM kernel graphics/display driver. The A690 is notably used by the Snapdragon 8cx Gen 3 (SC8280XP) platform that in turn is what's found inside the Lenovo ThinkPad X13s laptop and other hardware...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vyzkoušejte KDE Plasma 6, už funguje dobře, hlásí vývojář]]></title>
         <id>www.root.cz-actuality-44856</id>
         <link href="https://www.root.cz/zpravicky/vyzkousejte-kde-plasma-6-uz-funguje-dobre-hlasi-vyvojar/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3393,16 +3403,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XFS Large Extent Counts Feature No Longer Considered Experimental]]></title>
-        <id>https://www.phoronix.com/news/XFS-Large-Extent-Counts</id>
-        <link href="https://www.phoronix.com/news/XFS-Large-Extent-Counts"/>
-        <updated>2023-06-20T10:42:35.000Z</updated>
-        <summary type="html"><![CDATA[As another feature on the way for the upcoming Linux 6.5 kernel cycle is the large extent counts feature of the XFS file-system no longer being treated as "experimental" but is now considered safe to deploy...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4987,20 +4987,6 @@ To play any of these supported releases, you will need a daily development build
 >]]></summary>
         <author>
             <name>nospam@scummvm.org (OneEightHundred)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Hedgehog Canary 5 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-5-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-5-now.html"/>
-        <updated>2023-05-25T22:41:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Hedgehog | 2023.1.1 Canary 5 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Hedgehog, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
-General fixes and features
-Here is a list of general fixes in Android Studio Hedgehog Canary 5. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
