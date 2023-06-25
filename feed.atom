@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-25T10:11:02.152Z</id>
+    <id>urn:2023-06-25T12:19:36.096Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-25T10:11:02.152Z</updated>
+    <updated>2023-06-25T12:19:36.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zink's Mike Blumenkrantz Tackling Mesa WSI Inefficiencies]]></title>
+        <id>https://www.phoronix.com/news/Mesa-WSI-Make-It-Faster</id>
+        <link href="https://www.phoronix.com/news/Mesa-WSI-Make-It-Faster"/>
+        <updated>2023-06-25T10:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this month I ran some fresh benchmarks of Zink OpenGL-on-Vulkan against RadeonSI. While Zink in general is already quite speedy and in good shape for most workloads, those tests uncovered some troubled spots and Zink lead developer Mike Blumenkrantz of Valve has been diving into some of those issues with fixes. Another merge request is pending to deal with inefficiencies in the Mesa Vulkan windowing system integration (WSI) code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wine-Staging 8.11 Brings Performance Improvements, Registering URL Protocol Handlers]]></title>
         <id>https://www.phoronix.com/news/Wine-Staging-8.11-Released</id>
@@ -13,6 +23,18 @@
         <summary type="html"><![CDATA[Building off Friday's release of Wine 8.11, Wine-Staging 8.11 is out this Sunday morning with 502 patches atop the upstream Wine code...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
+        <id>https://www.destructoid.com/?p=387535</id>
+        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-250/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-250"/>
+        <updated>2023-06-25T10:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Big Man in a Little Suit
+Morning, friends & lovers, and welcome to Whatcha Been Playing? You find your good pal Moyse with a rumblin' stomach and a distinct lack of Jaffa Cakes, having been committed to a diet for the past few weeks. Weight loss has always been a huge problem for me, naturally large framed, mentally "comforted" by food, and heading into middle age. But I'm back on the wagon, as it were, due to an impending August event and a completely foolish plan to show up in cosplay.
+It's very weird, I'm simultaneously committed and non-commital about rolling up to VSFighting XI this August dressed as a fictional character. I have the gear, and it fits me just fine, but my weight is such a concern, and I can only roll up to an arena full of strangers if I'm exuding the confidence of a …]]></summary>
+        <author>
+            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -37,6 +59,16 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Patches Allow LoongArch ClangBuiltLinux Builds]]></title>
+        <id>https://www.phoronix.com/news/LoongArch-Clang-Linux-Builds</id>
+        <link href="https://www.phoronix.com/news/LoongArch-Clang-Linux-Builds"/>
+        <updated>2023-06-25T09:42:31.000Z</updated>
+        <summary type="html"><![CDATA[While the upstream LLVM/Clang compiler has been building the AArch64 and x86_64 mainline Linux kernel builds for quite some time, for those interested in China's LoongArch CPU architecture it's the latest target seeing work to enable compiling the Linux kernel under Clang...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -160,6 +192,18 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Flintstones: Bedrock Bowling for PS1 falls short of being a gay old time]]></title>
+        <id>https://www.destructoid.com/?p=387610</id>
+        <link href="https://www.destructoid.com/weekly-kusoge-the-flintstones-bedrock-bowling-ps1-pc-retro/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=weekly-kusoge-the-flintstones-bedrock-bowling-ps1-pc-retro"/>
+        <updated>2023-06-24T21:00:29.000Z</updated>
+        <summary type="html"><![CDATA[We do a little bowling and we drink a little vino
+This one is another recommendation from my local video game dispensary. They told me they thought I had asked them to keep an eye out for The Flintstones: Bedrock Bowling on PS1 (also on PC). I did no such thing. I had never heard of this game since then. However, I can understand why you would want to exploit a boon, such as someone who intentionally buys bad games. You don't have to be dishonest about it.
+The Flintstone’s was something that was perpetually syndicated when I was a kid, so even though it was off the air for 20 years before I was born, I’m rather familiar with the source material. I also love bowling when I was growing up. It was the sport that took place in the closest proximity to a Metal Slug arcade cabinet. I also love g…]]></summary>
+        <author>
+            <name>Zoey Handley</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elder Scrolls 6, announced five years ago, is still "five-plus years away"]]></title>
         <id>https://www.rockpapershotgun.com/elder-scrolls-6-announced-five-years-ago-is-still-five-plus-years-away</id>
         <link href="https://www.rockpapershotgun.com/elder-scrolls-6-announced-five-years-ago-is-still-five-plus-years-away"/>
@@ -183,6 +227,19 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Pikmin 1 (2023)]]></title>
+        <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=388237</id>
+        <link href="https://www.destructoid.com/reviews/review-pikmin-1-switch-retro/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-pikmin-1-switch-retro"/>
+        <updated>2023-06-24T20:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Accidental tourism
+The Gamecube started off with a bang in 2001. As if Star War: Rogue Squadron 2: Rogue Leader, Luigi’s Mansion, and Wave Race: Blue Storm weren’t enough to get fans through the year, Pikmin and Super Smash Bros. Melee dropped on the same day on December 3, 2001. It would be crazy to pit any game against such a titan today, but Smash Bros. wasn’t yet the institution it would soon become.
+I have a lot of warm memories of Pikmin. I remember failing to get the last piece of the Dolphin on my first attempt and arguing about the existence of purple Pikmin on message boards. Good times.
+In preparation for Pikmin 4 (which is one of my most anticipated games of the year), Nintendo has released the first two games on Switch in a nice, clear HD update. There's precedent. They previo…]]></summary>
+        <author>
+            <name>Zoey Handley</name>
         </author>
     </entry>
     <entry>
@@ -303,18 +360,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Similar to LLVM Clang 17 adding -std=c++26 support as the open-source compiler begins work on the next major revision of the C++ programming language, the GCC 14 compiler code has now also added the -std=c++26 compiler option...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whatcha been playing this week, Destructoid?]]></title>
-        <id>https://www.destructoid.com/?p=387535</id>
-        <link href="https://www.destructoid.com/whatcha-been-playing-this-week-destructoid-250/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=whatcha-been-playing-this-week-destructoid-250"/>
-        <updated>2023-06-24T10:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Big Man in a Little Suit
-Morning, friends & lovers, and welcome to Whatcha Been Playing? You find your good pal Moyse with a rumblin' stomach and a distinct lack of Jaffa Cakes, having been committed to a diet for the past few weeks. Weight loss has always been a huge problem for me, naturally large framed, mentally "comforted" by food, and heading into middle age. But I'm back on the wagon, as it were, due to an impending August event and a completely foolish plan to show up in cosplay.
-It's very weird, I'm simultaneously committed and non-commital about rolling up to VSFighting XI this August dressed as a fictional character. I have the gear, and it fits me just fine, but my weight is such a concern, and I can only roll up to an arena full of strangers if I'm exuding the confidence of a …]]></summary>
-        <author>
-            <name>Chris Moyse</name>
         </author>
     </entry>
     <entry>
@@ -1652,19 +1697,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Pikmin 1 (2023)]]></title>
-        <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=388237</id>
-        <link href="https://www.destructoid.com/reviews/review-pikmin-1-switch-retro/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-pikmin-1-switch-retro"/>
-        <updated>2023-06-22T21:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Accidental tourism
-The Gamecube started off with a bang in 2001. As if Star War: Rogue Squadron 2: Rogue Leader, Luigi’s Mansion, and Wave Race: Blue Storm weren’t enough to get fans through the year, Pikmin and Super Smash Bros. Melee dropped on the same day on December 3, 2001. It would be crazy to pit any game against such a titan today, but Smash Bros. wasn’t yet the institution it would soon become.
-I have a lot of warm memories of Pikmin. I remember failing to get the last piece of the Dolphin on my first attempt and arguing about the existence of purple Pikmin on message boards. Good times.
-In preparation for Pikmin 4 (which is one of my most anticipated games of the year), Nintendo has released the first two games on Switch in a nice, clear HD update. There's precedent. They previo…]]></summary>
-        <author>
-            <name>Zoey Handley</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[E3 2024 And 2025 Have Seemingly Been Canceled, Too [Update]]]></title>
         <id>1850285081</id>
         <link href="https://kotaku.com/when-is-e3-canceled-electronic-expo-summer-games-fest-1850285081"/>
@@ -2389,24 +2421,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Following the recent AMD IOMMU v2 page table work and other IOMMU improvements as part of AMD's effort to further enhance the Linux virtualization support on EPYC server platforms, the latest patches out of AMD as of yesterday are for wokring on hardware-accelerated virtualized IOMMU (AMD HW-vIOMMU)...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Series X and Xbox Game Pass price increase in some countries]]></title>
-        <id>https://www.destructoid.com/?p=388007</id>
-        <link href="https://www.destructoid.com/xbox-series-x-and-xbox-game-pass-price-increase-in-some-countries/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=xbox-series-x-and-xbox-game-pass-price-increase-in-some-countries"/>
-        <updated>2023-06-22T10:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Inflation strikes again
-In a statement to The Verge, Microsoft confirmed a price increase on the Xbox Series X coming to most countries. Planned to roll out on August 1, the price increase will apply to most countries apart from the US, Japan, Chile, Brazil, and Colombia. This move practically mirrors Sony's PlayStation 5 price increase that occurred last year.
-According to the statement, the Xbox Series X will move to £479.99 in the UK, €549.99 across most European Markets, CAD $649.99 in Canada, and AUD $799.99 in Australia. The Xbox Series S will remain at $299.99 and not see any sort of increase.
-"We've held on our prices for consoles for many years and have adjusted the prices to reflect the competitive conditions in each market," said Kari Perez, head of communications for Xbox in their statement to The Verge.
-Xbox Game Pass will see a price increase in most markets
-Alongside the console price increase, the monthly cost of Xbox Game Pass for consoles will also be increasing. This price change will go into effect nearly a month earlier, on July 6. Under these changes, Xbox Game Pass Ultimate will increase $2 from $14.99 per month to $16.99. The cost for the base Xbox Game Pass will increase by $1 from $9.99 per month to $10.99. The price of the PC Game Pass will not increase.
-Of course, those already subscribed won't see the price increase until their next subscription renewal on or after July 6.
-Although a bummer, I'm not surprised by these increases. Sony increasing the cost of the PlayStation 5 in select markets made it a no-brainer that Microsoft would probably do the same. As for the Xbox Game Pass, I think we all saw this coming. Most entertainment subscriptions have seen an increase in the last year or so including Sony's own PlayStation Plus. Hopefully Nintendo Switch Online won't be following suit!
-The post Xbox Series X and Xbox Game Pass price increase in some countries appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Steven Mills</name>
         </author>
     </entry>
     <entry>
@@ -3139,16 +3153,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Continues Working On IAA Crypto Compression Driver For Linux]]></title>
-        <id>https://www.phoronix.com/news/IAA-Crypto-Kernel-Driver-v6</id>
-        <link href="https://www.phoronix.com/news/IAA-Crypto-Kernel-Driver-v6"/>
-        <updated>2023-06-21T10:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Introduced with 4th Gen Xeon Scalable "Sapphire Rapids" processors are various new accelerators available on select SKUs or via  the Intel On Demand offering. One of the initial challenges there though is the early accelerator software support limitations and many upstream open-source (or even just widespread) software not yet enabled to make use of these new accelerators. One of the improvements on that front has been Intel engineers working on an IAA crypto compression driver for the kernel so that the In-Memory Analytics Accelerator can be transparently accessible to kernel features making use of the crypto API...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Beepberry cures lack of Blackberry]]></title>
         <id>https://www.raspberrypi.com/?p=97661</id>
         <link href="https://www.raspberrypi.com/news/beepberry-cures-lack-of-blackberry/"/>
@@ -3157,16 +3161,6 @@ Read more]]></summary>
 The post Beepberry cures lack of Blackberry appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC Adopts A Code of Conduct]]></title>
-        <id>https://www.phoronix.com/news/GCC-Code-of-Conduct</id>
-        <link href="https://www.phoronix.com/news/GCC-Code-of-Conduct"/>
-        <updated>2023-06-21T10:06:29.000Z</updated>
-        <summary type="html"><![CDATA[While a few years late compared to many other open-source projects adopting a Code of Conduct, the GCC Steering Committee has now adopted a Code of Conduct "CoC" for this open-source compiler project...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
