@@ -1,18 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-28T06:14:38.751Z</id>
+    <id>urn:2023-06-28T08:13:52.526Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-28T06:14:38.751Z</updated>
+    <updated>2023-06-28T08:13:52.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Blender 3.6 s podporou raytracingu na Intel Arc, pro AMD Radeony zatím jen s Windows]]></title>
+        <id>www.root.cz-actuality-44877</id>
+        <link href="https://www.root.cz/zpravicky/blender-3-6-s-podporou-raytracingu-na-intel-arc-pro-amd-radeony-zatim-jen-s-windows/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-28T08:10:13.000Z</updated>
+        <summary type="html"><![CDATA[Ač Intel naskočil do raytracingu se svými velkými GPU jako poslední, jeho karty rodiny Arc mají v novém Blenderu 3.6 už funkční podporu (dodejme, že raytracing na GeForce funguje už dávno). Na Radeonech od AMD lze s novým Blenderem akcelerovaný raytracing také využívat, ale prozatím jen na Windows (což jistě AMD brzy dožene).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox: moderní virtualizační platforma schopná nahradit VMware (online školení)]]></title>
+        <id>www.root.cz-actuality-40445</id>
+        <link href="https://www.root.cz/zpravicky/proxmox-moderni-virtualizacni-platforma-schopna-nahradit-vmware-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-28T08:06:29.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox je moderní virtualizační platforma, která v mnoha případech může nahradit VMware. Je open-source, zdarma a je postaven na otevřených technologiích jako KVM, LXC, CEPH a dalších. Pokud potřebujete provozovat virtualizaci, Proxmox je pro vás ideální stack a na našem workshopu se dozvíte, jak na něj.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi is in every primary school in Malaysia’s largest state]]></title>
+        <id>https://www.raspberrypi.com/?p=97784</id>
+        <link href="https://www.raspberrypi.com/news/raspberry-pi-is-in-every-primary-school-in-malaysias-largest-state/"/>
+        <updated>2023-06-28T07:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pi supports digital skills in every single primary school in Sarawak, Malaysia's largest state.
+The post Raspberry Pi is in every primary school in Malaysia’s largest state appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Ashley Whittaker</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Round Up: The Reviews Are In For Sonic Origins Plus]]></title>
         <id>https://www.nintendolife.com/#article-151904</id>
         <link href="https://www.nintendolife.com/news/2023/06/round-up-the-reviews-are-in-for-sonic-origins-plus"/>
         <updated>2023-06-28T05:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Amy arrives.
+        <summary type="html"><![CDATA[Classic Amy is here.
 Sonic Origins Plus made its debut on the Nintendo Switch and multiple other platforms last week - adding Amy as a playable character along with 12 Game Gear titles.
-Now, as part of the game's launch, the critic reviews have been released. Here on Nintendo Life, we gave the game six out of ten stars. While the overall package is strong, this update is admittedly a bit light on content:
+Now, as part of the game's launch, the critic reviews have been released. Here on Nintendo Life, we gave the DLC six out of ten stars. While the overall package is strong, this update is admittedly a bit light on content:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -32,19 +63,27 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Guide: Every Nintendo Switch Online Sega Genesis / Mega Drive Game Ranked]]></title>
+        <id>https://www.nintendolife.com/#article-128931</id>
+        <link href="https://www.nintendolife.com/guides/every-nintendo-switch-online-sega-genesis-mega-drive-game-ranked"/>
+        <updated>2023-06-28T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[All the Sega Mega Drive games, ranked by you.
+Updated with The Revenge of Shinobi, Ghouls 'n Ghosts, Landstalker, and Crusader of Centy.
+Remember, the ranking below is dynamic and will change according to each game's User Rating in our database. If you haven't previously, feel free to rate the new games and let's see where they settle on the list. Enjoy!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Four Sega Genesis / Mega Drive Games Have Been Added To Switch Online's Expansion Pack]]></title>
         <id>https://www.nintendolife.com/#article-151899</id>
         <link href="https://www.nintendolife.com/news/2023/06/four-sega-genesis-mega-drive-games-have-been-added-to-switch-onlines-expansion-pack"/>
         <updated>2023-06-28T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[Ghouls 'n Ghosts and more!
-Nintendo has just added four more games to the Sega Genesis / Mega Drive app for the Switch Online Expansion Pack service. The latest editions include The Revenge of Shinobi, Ghouls 'n Ghosts, Landstalker and Crusader of Centy.
+Nintendo has just added four more games to the Sega Genesis / Mega Drive app for the Switch Online Expansion Pack service. The latest editions include The Revenge of Shinobi, Ghouls 'n Ghosts, Landstalker, and Crusader of Centy.
 
 The Revenge of Shinobi is nothing to take lightly, especially when this ninja packs a brutal arsenal of shurikens and ninjitsu skills. A sequel to SEGA’s classic arcade game, this action side-scroller plunges you into the role of Joe Musashi as he stalks and attempts to annihilate – if you’re up to the task – the evil Neo Zeed criminal network. Have faith: The power of the ninja is strong.
-Ghouls ’n Ghosts besets you with marauding demons: scythe-wielding skeletons, sickle weasels and evil princes that crawl from beneath the mud. You must fend them all off to defend the kingdom and manage to do it without losing your shirt in the process … or in Arthur’s case – his suit of armor. Plus, keep your eyes peeled for the tough-as-nails enemy that also stars in Gargoyle’s Quest, the spin-off tale playable in the Game Boy™ – Nintendo Switch Online library!
-Landstalker is the name, and lighthearted treasure hunting’s the game. Nigel the Forest Elf faces more delightful puzzles in this action-adventure than you can shake a custom-forged broadsword at. Journey through a fantastical realm while navigating intricate isometric mazes that bring you ever closer to the secret of King Nole’s riches.
-Crusader of Centy tasks you with launching your razor-sharp weapon like a blazing boomerang. SLICE! Take down those invading monsters with a perfectly timed swing in this sweeping action-RPG featuring fierce enemies, a variety of towering bosses, animal companions with special abilities, time travel and a world of sorcery and intrigue to explore.
-
-To play these games on your Switch, you'll need to have a Nintendo Switch Online membership and a subscription to the higher-priced Expansion Pack tier.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1785,19 +1824,6 @@ While there were plenty of excellent scrappers on deck, including Tekken 7, Drag
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Mario + Rabbids Sparks Of Hope: The Last Spark Hunter - Fun But Safe DLC Lacks Spark]]></title>
-        <id>https://www.nintendolife.com/#article-151765</id>
-        <link href="https://www.nintendolife.com/reviews/switch-eshop/mario-plus-rabbids-sparks-of-hope-dlc-2-the-last-spark-hunter"/>
-        <updated>2023-06-26T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Not enough reason to spend more time with Rabbids.
-To the surprise of pretty much everyone, the original Mario + Rabbids Kingdom Battle became one of the best tactics games on the Nintendo Switch. We loved its tight, puzzle-like missions and vibrant world that somehow presented Ubisoft’s Rabbids as less-than-annoying – even, dare we say, sometimes endearing. The sequel followed suit, impressing critics and fans alike with a handful of great planets to explore, though we preferred the tight gameplay of the first over the creative freedom of Mario + Rabbids Sparks of Hope.
-One area where Kingdom Battle excelled was its Donkey Kong Adventure DLC. Completely separate from the campaign, it saw Rabbid Peach teaming up with Donkey and Cranky Kong to take on a Rabbid threat, resplendent with an overwhelming amount of nostalgic Donkey Kong Country references. To say we have high hopes for Sparks of Hope’s DLC is an understatement, and unfortunately, the first major DLC – following the season pass-exclusive update The Tower of Doooom – fails to reach the same heights despite being a fun little addition to the base game.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD Ryzen 7000 Series EDAC Support Submitted For Linux 6.5]]></title>
         <id>https://www.phoronix.com/news/Linux-6.5-EDAC</id>
         <link href="https://www.phoronix.com/news/Linux-6.5-EDAC"/>
@@ -2351,7 +2377,7 @@ Read more...]]></summary>
         <id>www.root.cz-text-16658</id>
         <link href="https://www.root.cz/clanky/red-hat-meni-pravidla-pristupu-ke-zdrojakum-sparky-linux-8-ma-jmeno/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-06-25T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat omezuje přístup ke zdrojovým kódům RHELu pouze přes CentOS Stream. Nadcházející vydání distribuce Sparky Linux 8, postavené na Debianu 13 Trixie dostane kódové jméno The Seven Sisters.]]></summary>
+        <summary type="html"><![CDATA[Red Hat omezuje přístup ke zdrojovým kódům RHELu pouze přes CentOS Stream. Nadcházející vydání distribuce Sparky Linux 8, postavené na Debianu 13 Trixie, dostane kódové jméno The Seven Sisters.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
         </author>
@@ -4097,16 +4123,6 @@ Initially revealed on stage during Sony's 2014 E3 press conference, Dead Island 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pozvánka na OWASP Czech chapter meeting 22. června v Brně]]></title>
-        <id>www.root.cz-actuality-44855</id>
-        <link href="https://www.root.cz/zpravicky/pozvanka-na-owasp-czech-chapter-meeting-22-cervna-v-brne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-20T14:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Ve čtvrtek 22. června se uskuteční OWASP Czech chapter meeting, který tentokrát zavítá do Brna. Registrovaným jako vždy nabídne přísun zajímavostí z oblasti IT bezpečnosti a to ve formě dvou večerních přednášek, na které je registrace zcela zdarma. Detaily programu a registraci naleznete na eventbrite.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: dmr)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[El Paso, Elsewhere gets the vibes right in its Next Fest demo, available now]]></title>
         <id>https://www.rockpapershotgun.com/el-paso-elsewhere-gets-the-vibes-right-in-its-next-fest-demo-available-now</id>
         <link href="https://www.rockpapershotgun.com/el-paso-elsewhere-gets-the-vibes-right-in-its-next-fest-demo-available-now"/>
@@ -4162,16 +4178,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyzkoušejte KDE Plasma 6, už funguje dobře, hlásí vývojář]]></title>
-        <id>www.root.cz-actuality-44856</id>
-        <link href="https://www.root.cz/zpravicky/vyzkousejte-kde-plasma-6-uz-funguje-dobre-hlasi-vyvojar/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-20T11:56:09.000Z</updated>
-        <summary type="html"><![CDATA[Do vydání KDE Plasma 6.0 sice zbývá ještě půl až tři čtvrtě roku, nicméně již nyní Nate Graham hlásí, že pro běžné užití už nepředstavuje problémy a sám ji takto jako hlavní desktop už mnoho týdnů používá. Mírně adrenalinoví uživatelé linuxového desktopu tak mohou naskočit do tohoto next-gen vláčku.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4726,17 +4732,6 @@ To play any of these supported releases, you will need a daily development build
 >]]></summary>
         <author>
             <name>nospam@scummvm.org (OneEightHundred)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New functionality: Bluetooth for Pico W]]></title>
-        <id>https://www.raspberrypi.com/?p=97559</id>
-        <link href="https://www.raspberrypi.com/news/new-functionality-bluetooth-for-pico-w/"/>
-        <updated>2023-06-14T10:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pi Pico W, our $6 wireless-enabled variant of our Pico platform, built around our RP2040 microcontroller, now has Bluetooth support.
-The post New functionality: Bluetooth for Pico W appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Eben Upton</name>
         </author>
     </entry>
     <entry>
