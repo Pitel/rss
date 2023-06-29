@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-06-29T06:14:35.514Z</id>
+    <id>urn:2023-06-29T08:13:57.764Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-06-29T06:14:35.514Z</updated>
+    <updated>2023-06-29T08:13:57.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Olga The Fortune Teller | The MagPi #131]]></title>
+        <id>https://www.raspberrypi.com/?p=97885</id>
+        <link href="https://www.raspberrypi.com/news/olga-the-fortune-teller-the-magpi-131/"/>
+        <updated>2023-06-29T06:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Admiring glances across an office led to a creative partnership involving several Raspberry Pi models and some charming AI.
+The post Olga The Fortune Teller | The MagPi #131 appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Rosie Hattersley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Čínská cenzura blokuje šifrované protokoly, které nemuže sledovat]]></title>
         <id>www.root.cz-actuality-44880</id>
@@ -177,6 +188,16 @@ The footage comes from Doree's own archives. Everything is now color corrected, 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Softwarová sklizeň (29. 6. 2023): editor Markdownu s vestavěnou podporou ChatGPT]]></title>
+        <id>www.root.cz-text-16671</id>
+        <link href="https://www.root.cz/clanky/softwarova-sklizen-29-6-2023-editor-markdownu-s-vestavenou-podporou-chatgpt/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-06-28T22:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Dnes si představíme prohlížeč logů, budeme komunikovat s chatbotem a exportovat konverzace do Markdown a nakonec vyzkoušíme nástroj pro tvorbu a přebalování linuxových balíčků.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Statické typové kontroly zdrojových kódů Pythonu prováděné nástrojem Mypy (3)]]></title>
         <id>www.root.cz-text-16670</id>
         <link href="https://www.root.cz/clanky/staticke-typove-kontroly-zdrojovych-kodu-pythonu-provadene-nastrojem-mypy-3/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -184,16 +205,6 @@ The footage comes from Doree's own archives. Everything is now color corrected, 
         <summary type="html"><![CDATA[Ukážeme si striktní režim Mypy i to, jak se pracuje s generickými datovými typy. Popíšeme si výpis typů zvolených symbolů či všech lokálních proměnných v průběhu statické typové analýzy a zmíníme se o neměnitelných hodnotách.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Softwarová sklizeň (29. 6. 2023): editor Markdownu s vestavěnou podporou ChatGPT]]></title>
-        <id>www.root.cz-text-16671</id>
-        <link href="https://www.root.cz/clanky/softwarova-sklizen-29-6-2023-editor-markdownu-s-vestavenou-podporou-chatgpt/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-28T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Dnes si představíme prohlížeč logů, budeme komunikovat s chatbotem a exportovat konverzace do Markdown a nakonec vyzkoušíme nástroj pro tvorbu a přebalování linuxových balíčků.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
         </author>
     </entry>
     <entry>
@@ -4741,17 +4752,6 @@ The post Raspberry Pi in the natural world appeared first on Raspberry Pi.]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BearID: Face recognition for brown bears]]></title>
-        <id>https://www.raspberrypi.com/?p=97594</id>
-        <link href="https://www.raspberrypi.com/news/bearid-face-recognition-for-brown-bears/"/>
-        <updated>2023-06-15T07:50:02.000Z</updated>
-        <summary type="html"><![CDATA[BearID is the kind of engaging project that everyone loves: using face-recognition technology, it helps work out how many individual bears live in an area and monitors their movement and health.
-The post BearID: Face recognition for brown bears appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Rosie Hattersley</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hey, Hawkins, nice to see you again!]]></title>
         <id>https://www.scummvm.org/news/archive/#2023-06-14</id>
         <link href="https://www.scummvm.org/news/20230614/"/>
@@ -4928,20 +4928,6 @@ If you already have an Android Studio build on the Canary channel, you can get 
 For information on new features and changes in all preview builds of Android Studio Hedgehog, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
 General fixes and features
 Here is a list of general fixes in Android Studio Hedgehog Canary 7. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Hedgehog Canary 6 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-6-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/05/android-studio-hedgehog-canary-6-now.html"/>
-        <updated>2023-05-30T20:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Hedgehog | 2023.1.1 Canary 6 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Hedgehog, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
-General fixes and features
-Here is a list of general fixes in Android Studio Hedgehog Canary 6. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
