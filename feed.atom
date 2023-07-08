@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-08T10:10:26.882Z</id>
+    <id>urn:2023-07-08T12:19:03.289Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-08T10:10:26.882Z</updated>
+    <updated>2023-07-08T12:19:03.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa's Rusticl Implements OpenCL Subgroups]]></title>
+        <id>https://www.phoronix.com/news/Rusticl-OpenCL-Subgroups</id>
+        <link href="https://www.phoronix.com/news/Rusticl-OpenCL-Subgroups"/>
+        <updated>2023-07-08T10:50:14.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat's Karol Herbst who has done a remarkable job on Rusticl as a modern OpenCL implementation written in Rust for Mesa Gallium3D drivers has another achievement under his belt: OpenCL subgroups are now in place for Mesa...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Lands Fix For Intel Hybrid CPU Frequency Scaling When Disabling E-Cores]]></title>
+        <id>https://www.phoronix.com/news/Linux-P-State-Disable-E-Fix</id>
+        <link href="https://www.phoronix.com/news/Linux-P-State-Disable-E-Fix"/>
+        <updated>2023-07-08T10:23:56.000Z</updated>
+        <summary type="html"><![CDATA[The Intel P-State CPU frequency scaling driver for the Linux kernel has received a fix to an issue that could lead to inadequate CPU frequency scaling behavior when running on a hybrid processor with E cores disable...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTFS Driver For Linux 6.5 Brings Small Optimizations & Fixes]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.5-NTFS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.5-NTFS"/>
+        <updated>2023-07-08T10:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Konstantin Komarov of Paragon Software has submitted the NTFS(3) file-system driver updates for the nearly-closed Linux 6.5 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE Plasma Wayland Fixes "Severe Screen Distortion" For Some Multi-GPU Systems]]></title>
         <id>https://www.phoronix.com/news/KDE-Wayland-Severe-Distortion</id>
@@ -2582,36 +2612,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UDisks 2.10 Released With Native NVMe Support, LVM2 RAID]]></title>
-        <id>https://www.phoronix.com/news/UDisks-2.10</id>
-        <link href="https://www.phoronix.com/news/UDisks-2.10"/>
-        <updated>2023-07-05T12:08:00.000Z</updated>
-        <summary type="html"><![CDATA[UDisks 2.10 was released last week for this set abstraction layer providing a daemon and tooling around the manipulation of disks and storage devices under Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve Makes RADV Driver More Robust For Gaming With VK_EXT_pipeline_robustness]]></title>
-        <id>https://www.phoronix.com/news/RADV-Pipeline-Robustness</id>
-        <link href="https://www.phoronix.com/news/RADV-Pipeline-Robustness"/>
-        <updated>2023-07-05T10:23:56.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to Joshua Ashton of Valve's Linux team, the Mesa RADV driver has added support for the VK_EXT_pipeline_robustness Vulkan extension as an efficiency win and will be beneficial for Steam Play gaming...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Plumbs SoundWire ACE2.x Support, Premiering With Lunar Lake]]></title>
-        <id>https://www.phoronix.com/news/Intel-SoundWire-ACE2.x-Lunar-L</id>
-        <link href="https://www.phoronix.com/news/Intel-SoundWire-ACE2.x-Lunar-L"/>
-        <updated>2023-07-05T10:03:24.000Z</updated>
-        <summary type="html"><![CDATA[In addition to Lunar Lake sound driver support in Linux 6.5 and the recent SOF update for Sound Open Firmware for Lunar Lake, Linux 6.5 is also bringing initial SoundWire Intel ACE2.x support that is part of the Lunar Lake audio capabilities...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ubisoft are suspending The Division 2 players who used an exploit for extra XP]]></title>
         <id>https://www.rockpapershotgun.com/ubisoft-are-suspending-the-division-2-players-who-used-an-exploit-for-extra-xp</id>
         <link href="https://www.rockpapershotgun.com/ubisoft-are-suspending-the-division-2-players-who-used-an-exploit-for-extra-xp"/>
@@ -3898,6 +3898,17 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Everything announced at the Annapurna Interactive Showcase 2023]]></title>
+        <id>https://www.rockpapershotgun.com/everything-announced-at-the-annapurna-interactive-showcase-2023</id>
+        <link href="https://www.rockpapershotgun.com/everything-announced-at-the-annapurna-interactive-showcase-2023"/>
+        <updated>2023-06-29T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Tonight's Annapurna Interactive Showcase brought us 30 minutes of fresh game announcements, putting a lovely (and hopefully final) full stop on this year's notE3 / Summer Game Fest period. While most of the announcements were updates on games we already knew about, there are a couple of cool new things in there that I'm personally quite pumped for, including a new Blade Runner game being developed internally at Annapurna Interactive, a new Keita Takahashi joint about a kid stuck in a T-pose of all things, and a new ghostly biking game from the team behind Nidhogg. I'd highly recommend watching the showcase in full if you can, but in case you need a quick refresher of what happened, or are just short on time, we've rounded up every announcement in order below. 
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Don't worry, cute co-op adventure Flock is "totally playable as a single-player game"]]></title>
         <id>https://www.rockpapershotgun.com/dont-worry-cute-co-op-adventure-flock-is-totally-playable-as-a-single-player-game</id>
         <link href="https://www.rockpapershotgun.com/dont-worry-cute-co-op-adventure-flock-is-totally-playable-as-a-single-player-game"/>
@@ -3914,17 +3925,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/wake-up-theres-a-new-blade-runner-game-coming-from-annapurna-interactive"/>
         <updated>2023-06-29T19:40:00.000Z</updated>
         <summary type="html"><![CDATA[Annapurna Interactive have announced their first internally developed game at their publishing showcase this evening, and it's an all-new Blade Runner game. Exciting! It's called Blade Runner 2033: Labyrinth, and it's set "squarely between" the original Blade Runner film and its more recent sequel, Blade Runner 2049, say Annapurna. The reveal trailer doesn't give too much away at this stage, but I'm getting very big Her Story and Immortality vibes from it. Come and have a gander below. 
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything announced at the Annapurna Interactive Showcase 2023]]></title>
-        <id>https://www.rockpapershotgun.com/everything-announced-at-the-annapurna-interactive-showcase-2023</id>
-        <link href="https://www.rockpapershotgun.com/everything-announced-at-the-annapurna-interactive-showcase-2023"/>
-        <updated>2023-06-29T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Tonight's Annapurna Interactive Showcase brought us 30 minutes of fresh game announcements, putting a lovely (and hopefully final) full stop on this year's notE3 / Summer Game Fest period. While most of the announcements were updates on games we already knew about, there are a couple of cool new things in there that I'm personally quite pumped for, including a new Blade Runner game being developed internally at Annapurna Interactive, a new Keita Takahashi joint about a kid stuck in a T-pose of all things, and a new ghostly biking game from the team behind Nidhogg. I'd highly recommend watching the showcase in full if you can, but in case you need a quick refresher of what happened, or are just short on time, we've rounded up every announcement in order below. 
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
@@ -4122,17 +4122,6 @@ For more Baldur's Gate 3, check out its Summer Game Fest trailer that revealed 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Electronic Wireless Show S2 Episode 21: PC Gaming Podcast Simulator 2023]]></title>
-        <id>https://www.rockpapershotgun.com/the-electronic-wireless-show-s2-episode-21-pc-gaming-podcast-simulator-2023</id>
-        <link href="https://www.rockpapershotgun.com/the-electronic-wireless-show-s2-episode-21-pc-gaming-podcast-simulator-2023"/>
-        <updated>2023-06-29T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When is a game not a game? When it’s a sim, according to the head developer of Microsoft Flight Simulator 2024. While we quickly agree on a "fair enough" response to this assertation of non-gameyness, we also can’t help but spend much of this latest Electronic Wireless Show podcast remembering the most fun we’ve in the diverse world of sims, be it some actual flight simulating or merely bullying smaller dinosaurs. Also: we chat about how big a deal it is that the Metal Gear Solid Master Collection might not support mouse and keyboard on PC, and discuss what we’ve been playing this week. 
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Baldur's Gate 3's release date jumps up to August 3rd, providing precious breathing room from Starfield]]></title>
         <id>https://www.rockpapershotgun.com/baldurs-gate-3s-release-date-jumps-up-to-august-3rd-providing-precious-breathing-room-from-starfield</id>
         <link href="https://www.rockpapershotgun.com/baldurs-gate-3s-release-date-jumps-up-to-august-3rd-providing-precious-breathing-room-from-starfield"/>
@@ -4143,6 +4132,17 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Electronic Wireless Show S2 Episode 21: PC Gaming Podcast Simulator 2023]]></title>
+        <id>https://www.rockpapershotgun.com/the-electronic-wireless-show-s2-episode-21-pc-gaming-podcast-simulator-2023</id>
+        <link href="https://www.rockpapershotgun.com/the-electronic-wireless-show-s2-episode-21-pc-gaming-podcast-simulator-2023"/>
+        <updated>2023-06-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When is a game not a game? When it’s a sim, according to the head developer of Microsoft Flight Simulator 2024. While we quickly agree on a "fair enough" response to this assertation of non-gameyness, we also can’t help but spend much of this latest Electronic Wireless Show podcast remembering the most fun we’ve in the diverse world of sims, be it some actual flight simulating or merely bullying smaller dinosaurs. Also: we chat about how big a deal it is that the Metal Gear Solid Master Collection might not support mouse and keyboard on PC, and discuss what we’ve been playing this week. 
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
         </author>
     </entry>
     <entry>
@@ -4838,20 +4838,6 @@ Here is a list of general fixes in Android Studio Hedgehog Canary 8. These are 
         <summary type="html"><![CDATA[As I write this many of the development team and other members of the community are busy having fun at a meet-up in Brussels. Not me though, I’m stuck here doing a release. We’ve been busy refactoring quite a lot of the underlying code to make future changes easier, but along the way we’ve found and fixed a few more bugs and quality of life improvements that we figured were worth releasing sooner than whenever 14.0 comes along. Notably, OpenTTD will now automatically disable hardware acceleration if it detects that the last crash happened while initialising the graphics driver. While hardware acceleration works well for the vast majority of people, it causes crashes for people that then required command line arguments or manual config file editing to get it to work. This should be a better solution for those users. Additionally, there is a change to the default mouse mode on Linux to improve experience when dragging the map (and often to match expected behaviour in other games). As always, there are plenty of other bugfixes, which you can find in the changelog. While you’re at it, have you seen the post about the upcoming addition of a automated opt-in survey to OpenTTD 14? If you have opinions, we’d like to hear them! Details here. Download Changelog Bug tracker]]></summary>
         <author>
             <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Giraffe Beta 5 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/06/android-studio-giraffe-beta-5-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/06/android-studio-giraffe-beta-5-now.html"/>
-        <updated>2023-06-08T22:13:00.004Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Giraffe | 2022.3.1 Beta 5 is now available in the Beta channel.
-If you already have an Android Studio build on the Beta channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Giraffe, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
-General fixes and features
-Here is a list of general fixes in Android Studio Giraffe Beta 5. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
