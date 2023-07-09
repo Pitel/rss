@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T12:19:30.269Z</id>
+    <id>urn:2023-07-09T14:08:55.107Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-09T12:19:30.269Z</updated>
+    <updated>2023-07-09T14:08:55.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wine-Based Hangover 8.11 Begins Integrating FEX Emulator Support]]></title>
+        <id>https://www.phoronix.com/news/Wine-Hangover-8.11-FEX</id>
+        <link href="https://www.phoronix.com/news/Wine-Hangover-8.11-FEX"/>
+        <updated>2023-07-09T12:40:55.000Z</updated>
+        <summary type="html"><![CDATA[The Hangover open-source project has been working on supporting Windows apps and games on other CPU architectures like AArch64 running Linux. RISC-V and POWER9 are other CPU architectures of interest for enabling Hangover support. Besides leveraging the Wine software, Hangover to date has relied on the QEMU emulator as part of the implementation while now they have begun integrating FEX support too...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE for Travelers]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/kde-for-travelers</id>
@@ -2399,16 +2409,6 @@ Atari has announced a new partnership with Playmaji Inc, the creators of the Pol
 As someone heavily invested in retro games, it surprises me that I haven’t heard of the Polymega. It’s a modular console that supports all manner of retro consoles. The base unit has disc support for the PS1, Sega Saturn, Sega CD, TurboGrafx-CD, and NEOGEO CD. However, there are modules that allow you to play cartridge games fo…]]></summary>
         <author>
             <name>Zoey Handley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine Begins Preparations For Reorganizing & Cleaning Up Its Direct3D Code]]></title>
-        <id>https://www.phoronix.com/news/WineD3D-Cleanup-MR-1</id>
-        <link href="https://www.phoronix.com/news/WineD3D-Cleanup-MR-1"/>
-        <updated>2023-07-05T23:50:52.000Z</updated>
-        <summary type="html"><![CDATA[CodeWeavers developer Zebediah Figura opened up the initial merge request yesterday that is the first step of a multi-part effort for reorganizing and cleaning up the Wine Direct3D "WineD3D" code...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
