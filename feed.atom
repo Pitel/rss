@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T20:10:42.346Z</id>
+    <id>urn:2023-07-09T22:09:38.145Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-09T20:10:42.346Z</updated>
+    <updated>2023-07-09T22:09:38.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora uvažuje o šetrné telemetrii, první nezávislá čínská distribuce]]></title>
+        <id>www.root.cz-text-16678</id>
+        <link href="https://www.root.cz/clanky/fedora-uvazuje-o-setrne-telemetrii-prvni-nezavisla-cinska-distribuce/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-07-09T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Fedora zvažuje možnost přidání systému telemetrie šetrného k ochraně soukromí. Na světě je první čínská nezávislá linuxová distribuce openKylin. Vývoj nástroj na správu kontejnerů LXD byl přesunut do firmy Canonical.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.5-rc1 Released With Initial USB4 v2 Support, Cachestat, AMD RDNA3 Overclocking]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.5-rc1</id>
+        <link href="https://www.phoronix.com/news/Linux-6.5-rc1"/>
+        <updated>2023-07-09T21:28:21.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds just declared the first release candidate of Linux 6.5 that also marks the end of new feature code being introduced for this cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GIMP 2.99.16 Released As GIMP 3.0 RCs Near]]></title>
+        <id>https://www.phoronix.com/news/GIMP-2.99.16-Released</id>
+        <link href="https://www.phoronix.com/news/GIMP-2.99.16-Released"/>
+        <updated>2023-07-09T21:15:35.000Z</updated>
+        <summary type="html"><![CDATA[GIMP 2.99.16 is out this Sunday as the GIMP 3.0 release candidate finally nears...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zelda: Tears Of The Kingdom's New Update Targets Item Duplication Glitches, Unsurprisingly]]></title>
         <id>https://www.nintendolife.com/#article-152429</id>
@@ -2349,26 +2379,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.1 To 6.5 Git Quietly Patched For "StackRot" Privilege Escalation Vulnerability]]></title>
-        <id>https://www.phoronix.com/news/Linux-StackRot</id>
-        <link href="https://www.phoronix.com/news/Linux-StackRot"/>
-        <updated>2023-07-06T10:03:48.000Z</updated>
-        <summary type="html"><![CDATA[It's now more clear why last week Linus Torvalds personally took to improving the Linux kernel's user-mode stack expansion code: it's necessary to address a now disclosed security vulnerability dubbed StackRot...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tow-Boot Downstream Of U-Boot Updated After Long Hiatus]]></title>
-        <id>https://www.phoronix.com/news/Tow-Boot-2023-Update</id>
-        <link href="https://www.phoronix.com/news/Tow-Boot-2023-Update"/>
-        <updated>2023-07-06T09:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Tow-Boot has been a "user-friendly" distribution of U-Boot that was seeing regular updates but for nearly one year has been on hiatus without any new releases. That changed overnight with Tow-Boot 2022.07-006 being released and a call for new developers...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zranitelnost jader 6.1–6.4 StackRot]]></title>
         <id>www.root.cz-actuality-44895</id>
         <link href="https://www.root.cz/zpravicky/zranitelnost-jader-6-1-6-4-stackrot/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3512,7 +3522,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
     <entry>
         <title type="html"><![CDATA[Softwarová implementace API Vulkan, KDE Plasma 6.0 zas o trochu blíž]]></title>
         <id>www.root.cz-text-16675</id>
-        <link href="https://www.root.cz/clanky/sadfdsdsf/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <link href="https://www.root.cz/clanky/softwarova-implementace-api-vulkan-kde-plasma-6-0-zas-o-trochu-bliz/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-07-01T22:00:00.000Z</updated>
         <summary type="html"><![CDATA[Týden v KDE: hlavně Plasma 6, Mesa má kompletní CPU implementaci API Vulkan, Další práce Intelu na podpoře Wi-Fi 7 v Linuxu 6.5, ovladače pro Wi-Fi Qualcomm a Realtek]]></summary>
         <author>
@@ -4443,16 +4453,6 @@ Compose UI Version 1.5.0-beta03
 Navigation Version 2.7.0-beta02]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Klony RHEL jsou hrozbou, nejsme povinni jim to usnadňovat, říká Red Hat]]></title>
-        <id>www.root.cz-text-16667</id>
-        <link href="https://www.root.cz/clanky/klony-rhel-jsou-hrozbou-nejsme-povinni-jim-to-usnadnovat-rika-red-hat/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-06-27T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat se už týden pře s linuxovou komunitou o tom, jaká by měla být jeho role a jaké jsou jeho povinnosti vzhledem k licenci GNU GPL. Mike McGrath nyní zveřejnil byznysový pohled na věc, podle kterého jsou klony na obtíž.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
