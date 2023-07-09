@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-09T10:10:34.001Z</id>
+    <id>urn:2023-07-09T12:19:30.269Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-09T10:10:34.001Z</updated>
+    <updated>2023-07-09T12:19:30.269Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KDE for Travelers]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/kde-for-travelers</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/kde-for-travelers"/>
+        <updated>2023-07-09T11:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Komunita KDE představila stránku KDE for Travelers pro cestovatele používající KDE aplikace. Postupně byly představeny stránky pro umělce KDE for Creators, děti KDE for Kids, vědce KDE for Scientists, vývojáře KDE for Developers a aktivisty KDE for Activists.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Updates x86 Hybrid CPU Cluster Scheduling For The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Intel-Hybrid-Cluster-Sched-v3</id>
+        <link href="https://www.phoronix.com/news/Intel-Hybrid-Cluster-Sched-v3"/>
+        <updated>2023-07-09T10:54:05.000Z</updated>
+        <summary type="html"><![CDATA[The latest iteration of Intel's cluster scheduling support for x86 hybrid P/E-core CPUs were posted on Friday in seeking to enhance the performance of some workloads under Linux when running on recent Intel Core processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's Looking Like Bcachefs Won't Be Merged For Linux 6.5]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.5-Bcachefs-Unlikely</id>
+        <link href="https://www.phoronix.com/news/Linux-6.5-Bcachefs-Unlikely"/>
+        <updated>2023-07-09T10:28:42.000Z</updated>
+        <summary type="html"><![CDATA[Today the Linux 6.5 merge window is expected to be closed and one of the lingering issues has been whether the BCacheFS file-system driver will be merged following its pull request having been finally sent in...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - Mario & Luigi: Superstar Saga + Bowser's Minions]]></title>
         <id>https://www.nintendolife.com/#article-152368</id>
@@ -2441,26 +2471,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[F2FS Prepares Some Minor Improvements For Linux 6.5]]></title>
-        <id>https://www.phoronix.com/news/F2FS-Linux-6.5</id>
-        <link href="https://www.phoronix.com/news/F2FS-Linux-6.5"/>
-        <updated>2023-07-05T20:50:23.000Z</updated>
-        <summary type="html"><![CDATA[The Flash-Friendly File-System (F2FS) is tacking on a few new features for the Linux 6.5 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME 45 Alpha Released With Various Optimizations, Better Built-In Screen Recorder]]></title>
-        <id>https://www.phoronix.com/news/GNOME-45-Alpha</id>
-        <link href="https://www.phoronix.com/news/GNOME-45-Alpha"/>
-        <updated>2023-07-05T20:26:29.000Z</updated>
-        <summary type="html"><![CDATA[It's already time for the first alpha release of the in-development GNOME 45 desktop...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Review: Pikmin 2 (2023)]]></title>
         <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=390198</id>
         <link href="https://www.destructoid.com/reviews/review-pikmin-2-switch-retro-remaster/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-pikmin-2-switch-retro-remaster"/>
@@ -2778,16 +2788,6 @@ The post IoT with Raspberry Pi Pico in Kenya appeared first on Raspberry Pi.]]><
         <updated>2023-07-05T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla VPN dostupná v Česku]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/mozilla-vpn-dostupna-v-cesku</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/mozilla-vpn-dostupna-v-cesku"/>
-        <updated>2023-07-05T02:10:13.000Z</updated>
-        <summary type="html"><![CDATA[S vydáním Firefoxu 115.0 bylo oznámeno, že virtuální privátní síť Mozilla VPN je dostupná už také v Česku. Z linuxových distribucí je oficiálně podporováno pouze Ubuntu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4853,16 +4853,6 @@ Here is a list of general fixes in Android Studio Hedgehog Canary 8. These are 
         <link href="https://www.openttd.org/news/2023/06/11/openttd-13-3.html"/>
         <updated>2023-06-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Only a day after 13.2, we present 13.3. And there is a bit of a story here. But in short: we made a mistake with 13.2.1, and need to release a 13.3 with no functional change to make sure multiplayer games work as expected.]]></summary>
-        <author>
-            <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenTTD 13.2]]></title>
-        <id>https://www.openttd.org/news/2023/06/10/openttd-13-2.html</id>
-        <link href="https://www.openttd.org/news/2023/06/10/openttd-13-2.html"/>
-        <updated>2023-06-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As I write this many of the development team and other members of the community are busy having fun at a meet-up in Brussels. Not me though, I’m stuck here doing a release. We’ve been busy refactoring quite a lot of the underlying code to make future changes easier, but along the way we’ve found and fixed a few more bugs and quality of life improvements that we figured were worth releasing sooner than whenever 14.0 comes along. Notably, OpenTTD will now automatically disable hardware acceleration if it detects that the last crash happened while initialising the graphics driver. While hardware acceleration works well for the vast majority of people, it causes crashes for people that then required command line arguments or manual config file editing to get it to work. This should be a better solution for those users. Additionally, there is a change to the default mouse mode on Linux to improve experience when dragging the map (and often to match expected behaviour in other games). As always, there are plenty of other bugfixes, which you can find in the changelog. While you’re at it, have you seen the post about the upcoming addition of a automated opt-in survey to OpenTTD 14? If you have opinions, we’d like to hear them! Details here. Download Changelog Bug tracker]]></summary>
         <author>
             <name>OpenTTD</name>
         </author>
