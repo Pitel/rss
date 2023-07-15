@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-15T14:08:51.662Z</id>
+    <id>urn:2023-07-15T16:12:29.372Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-15T14:08:51.662Z</updated>
+    <updated>2023-07-15T16:12:29.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Btrfs Deprecating Its Integrity Checker Tool]]></title>
+        <id>https://www.phoronix.com/news/Btrfs-Deprecate-Integrity-Check</id>
+        <link href="https://www.phoronix.com/news/Btrfs-Deprecate-Integrity-Check"/>
+        <updated>2023-07-15T15:36:52.000Z</updated>
+        <summary type="html"><![CDATA[Btrfs has long provided a built-in integrity checker tool into the file-system driver. However, slated for Linux 6.6 is deprecating of this integrity checker...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: 50 Best NES Games Of All Time]]></title>
+        <id>https://www.nintendolife.com/#article-106207</id>
+        <link href="https://www.nintendolife.com/guides/50-best-nes-games-of-all-time"/>
+        <updated>2023-07-15T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As rated by you.
+15th July 2023 marks the 40th anniversary of the launch of the Famicom, the Japanese console that would be transformed into the NES in the West. To mark the occasion, we're republishing this reader-ranked list of the best games on the system.
+Remember, this is a dynamic list that's updated in real-time according to each game's User Rating in our database. If you haven't rated the ones you've played, feel free to rate any of the games below and potentially alter the ranking. Enjoy!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Random: Nintendo's Pikmin Short Movies Are Still Blooming Marvellous Nearly 10 Years On]]></title>
         <id>https://www.nintendolife.com/#article-152704</id>
@@ -532,9 +555,9 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LiFi síť po světle standardizovánaj ako 802.11bb, je rychlejší než WiFi]]></title>
+        <title type="html"><![CDATA[LiFi síť po světle standardizována jako 802.11bb, je rychlejší než WiFi]]></title>
         <id>www.root.cz-actuality-44920</id>
-        <link href="https://www.root.cz/zpravicky/lifi-sit-po-svetle-standardizovanaj-ako-802-11bb-je-rychlejsi-nez-wifi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <link href="https://www.root.cz/zpravicky/lifi-sit-po-svetle-standardizovana-jako-802-11bb-je-rychlejsi-nez-wifi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-07-14T16:01:05.000Z</updated>
         <summary type="html"><![CDATA[Včera IEEE (Institute of Electrical and Electronics Engineers) standardizovalo LiFi jako 802.11bb. Jde o síť po světle a je rychlejší než WiFi. Standard 802.11b je pro vlnové délky přenosu 800 a 1000 nm (NIR, near-ifrared) obousměrně s rychlostí 10 Mb/s – 9,6 Gb/s.]]></summary>
         <author>
@@ -1779,19 +1802,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Byla vydána verze 1.71.0 programovacího jazyka Rust (Wikipedie). Podrobnosti v poznámkách k vydání. Vyzkoušet Rust lze například na stránce Rust by Example.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Harvest Moon: The Winds Of Anthos Trailer Gives First Look At Gameplay Footage]]></title>
-        <id>https://www.nintendolife.com/#article-152659</id>
-        <link href="https://www.nintendolife.com/news/2023/07/new-harvest-moon-the-winds-of-anthos-trailer-gives-first-look-at-gameplay-footage"/>
-        <updated>2023-07-13T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Ready for harvest this September.
-Things have been quiet around Harvest Moon: The Winds of Anthos for a while now. The game was first announced at the end of last year, and the only glimpse that we have got in the ensuing months was a couple of screenshots in March and a release date of 26th September. But now, Natsume Inc. has released the first gameplay trailer for the upcoming title and it looks... not terrible?
-Sure, some of the movements look a little shoddy (why would you pet the animal itself when you could just wave your hand in the air above it?), but bear in mind that our last point of reference for the series was Harvest Moon: One World and the less said about that the better.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3286,16 +3296,6 @@ Tuatara Games says Let Them Come: Onslaught hits Steam Early Access sometime in 
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Posts Experimental Linux Code For "Device Memory TCP" - Network To/From Accelerator RAM]]></title>
-        <id>https://www.phoronix.com/news/Linux-Device-Memory-TCP</id>
-        <link href="https://www.phoronix.com/news/Linux-Device-Memory-TCP"/>
-        <updated>2023-07-11T13:18:23.000Z</updated>
-        <summary type="html"><![CDATA[Google engineers have published early code around "Device Memory TCP" (a.k.a. Devmem TCP) as a proposal for transferring data to/from device memory efficiently by avoiding the need to copy the data to a host memory buffer...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
