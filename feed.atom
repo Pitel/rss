@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-15T16:12:29.372Z</id>
+    <id>urn:2023-07-15T18:12:08.585Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-15T16:12:29.372Z</updated>
+    <updated>2023-07-15T18:12:08.585Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podman Desktop 1.2]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/podman-desktop-1.2</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/podman-desktop-1.2"/>
+        <updated>2023-07-15T18:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Podman Desktop byl vydán ve verzi 1.2. Jedná se o grafickou nadstavbu nad nástrojem Podman, jenž umožňuje vytvářet a provozovat kontejnery, aniž by uživatel potřeboval práva roota.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Btrfs Deprecating Its Integrity Checker Tool]]></title>
         <id>https://www.phoronix.com/news/Btrfs-Deprecate-Integrity-Check</id>
@@ -2041,16 +2051,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Intel this morning released their open-source Compute Runtime 23.22.26516.18 as their newest monthly update to this open-source compute stack used on Linux for OpenCL and oneAPI Level Zero usage...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackLotus UEFI Bootkit]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/blacklotus-uefi-bootkit</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/blacklotus-uefi-bootkit"/>
-        <updated>2023-07-13T09:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Na GitHubu byly zveřejněny zdrojové kódy projektu BlackLotus. Jedná se o UEFI Bootkit, který se primárně zaměřuje na operační systémy Windows a umožňuje bypass několika bezpečnostních prvků jako secure boot, bootovací sekvence bitlockeru (šifrování ve Windows), Defenderu (Antivir), UAC (User Account Control), HVCI (Hypervisor Enforced Code Integrity) atd. Podrobný popis viz např. analýza od firmy ESET BlackLotus UEFI bootkit: Myth confirmed.]]></summary>
-        <author>
-            <name>Max</name>
         </author>
     </entry>
     <entry>
