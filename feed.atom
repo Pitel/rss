@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-15T10:10:45.364Z</id>
+    <id>urn:2023-07-15T12:18:54.324Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-15T10:10:45.364Z</updated>
+    <updated>2023-07-15T12:18:54.324Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux kCFI/FineIBT Weaknesses Addressed By Rewriting Some Assembly In C]]></title>
+        <id>https://www.phoronix.com/news/Linux-kCFI-FineIBT-Weaknesses</id>
+        <link href="https://www.phoronix.com/news/Linux-kCFI-FineIBT-Weaknesses"/>
+        <updated>2023-07-15T10:39:03.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the Linux 6.5-rc2 release tomorrow there was a set of x86/x86_64 kernel changes merged overnight to deal with some weaknesses in the kernel's Control Flow Integrity (kCFI) / FineIBT (Indirect Branch Tracking) code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CentOS Project Promotes They Are "Open To All"]]></title>
+        <id>https://www.phoronix.com/news/CentOS-Open-To-All</id>
+        <link href="https://www.phoronix.com/news/CentOS-Open-To-All"/>
+        <updated>2023-07-15T10:24:28.000Z</updated>
+        <summary type="html"><![CDATA[With all the news in recent weeks following Red Hat's decision to limit access to RHEL sources that in turn lead to changes for AlmaLinux, finding new ways to obtain sources at Rocky Linux, interesting statements from Oracle, and even SUSE forking RHEL. The public RHEL sources now will basically be the upstream CentOS Stream code for which future Red Hat Enterprise Linux versions are ultimately based. The CentOS Project issued a new statement on Friday...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[systemd 254-rc2 Brings A Few More Changes]]></title>
+        <id>https://www.phoronix.com/news/systemd-254-rc2</id>
+        <link href="https://www.phoronix.com/news/systemd-254-rc2"/>
+        <updated>2023-07-15T10:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this month brought the release of systemd 254-rc1 with a new soft-reboot mechanism, officially deprecating System V scripts, a new systemd-battery-check process that runs at boot to check any system battery level status, and various other changes. On Friday systemd 254-rc2 was released with a few more changes...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (July 15th)]]></title>
         <id>https://www.nintendolife.com/#article-152695</id>
@@ -3292,16 +3322,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GRUB 2.12 RC Delivers Two Years Worth Of Bootloader Improvements]]></title>
-        <id>https://www.phoronix.com/news/GRUB-2.12-RC1</id>
-        <link href="https://www.phoronix.com/news/GRUB-2.12-RC1"/>
-        <updated>2023-07-11T12:20:12.000Z</updated>
-        <summary type="html"><![CDATA[GRUB 2.12 had been talked about for a mid-2022 release while one year later we are finally greeted by the first release candidate for this next major open-source bootloader release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Metal Gear Solid was a decent stealth game, but an all time horror game]]></title>
         <id>https://www.rockpapershotgun.com/metal-gear-solid-was-a-decent-stealth-game-but-an-all-time-horror-game</id>
         <link href="https://www.rockpapershotgun.com/metal-gear-solid-was-a-decent-stealth-game-but-an-all-time-horror-game"/>
@@ -3338,16 +3358,6 @@ AEGIS announced plans to unionise earlier this year, with goals that included hi
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUSE Announces Its Forking RHEL, To Maintain A RHEL-Compatible Distro]]></title>
-        <id>https://www.phoronix.com/news/SUSE-Is-Forking-RHEL</id>
-        <link href="https://www.phoronix.com/news/SUSE-Is-Forking-RHEL"/>
-        <updated>2023-07-11T10:15:41.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday Oracle published an interesting announcement and doubled down on their intentions of keeping Oracle Linux compatible with Red Hat Enterprise Linux following Red Hat's controversial announcement last month. Today is another very interesting response to Red Hat's recent shift, this time from the SUSE Linux folks...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3399,16 +3409,6 @@ The HyperX Pulsefire Haste is a cracking option if you're after a no-nonsense ga
         <summary type="html"><![CDATA[Radeon Vulkan ovladač v Mesa (RADV) sice podporuje nativní hardwarový raytracing s příslušně vybavenými GPU posledních dvou generací (RDNA2 a RDNA3), nicméně pro generace starší, jakkoli dostatečně výkonné, je nutná emulace. Tu možná přinese už Mesa 23.2, přičemž kód emulátoru je již 100% úspěšný v testech ověřujících podporu Vulkan raytracingu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fwupd 1.9.3 Adds Linux Firmware Updating Support For A Few New Devices]]></title>
-        <id>https://www.phoronix.com/news/Fwupd-1.9.3</id>
-        <link href="https://www.phoronix.com/news/Fwupd-1.9.3"/>
-        <updated>2023-07-11T09:55:20.000Z</updated>
-        <summary type="html"><![CDATA[Richard Hughes of Red Hat and the lead developer behind the Linux Vendor Firmware Service (LVFS) has released Fwupd 1.9.3 as the newest feature update to this open-source solution for carrying out system and peripheral firmware updates on Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
