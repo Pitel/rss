@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-17T06:15:16.370Z</id>
+    <id>urn:2023-07-17T08:14:47.894Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-17T06:15:16.370Z</updated>
+    <updated>2023-07-17T08:14:47.894Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Btrfs nebude mít kontrolu integrity při mountu]]></title>
+        <id>www.root.cz-actuality-44927</id>
+        <link href="https://www.root.cz/zpravicky/btrfs-nebude-mit-kontrolu-integrity-pri-mountu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-07-17T08:08:48.000Z</updated>
+        <summary type="html"><![CDATA[Souborový systém Btrfs má málo používaný nástroj pro kontrolu integrity při mountu. Je potřeba nejprve přeložit jádro se zapnutým BTRFS_FS_CHECK_INTEGRITY a pak ještě mountovat s parametrem check_int, check_int_data, nebo check_int_print_mask=.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konec projektu Debian GNU/kFreeBSD]]></title>
+        <id>www.root.cz-actuality-44925</id>
+        <link href="https://www.root.cz/zpravicky/konec-projektu-debian-gnu-kfreebsd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-07-17T08:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Debian GNU/kFreeBSD byl zajímavý pokus o operační systém, který se skládá z uživatelských utilit GNU používajících knihovnu GNU C nad jádrem FreeBSD ve spojení s běžnou sadou balíčků Debianu. Prošel si mnoha fázemi života, přičemž při vydání Debianu Squeeze v roce 2011 se dostal mezi podporované architektury ve stavu technologického náhledu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlmaLinux už nebude plně kompatibilní 1:1 s Red Hat Enterprise Linuxem]]></title>
+        <id>www.root.cz-actuality-44924</id>
+        <link href="https://www.root.cz/zpravicky/almalinux-uz-nebude-plne-kompatibilni-1-1-s-red-hat-enterprise-linuxem/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-07-17T07:14:00.000Z</updated>
+        <summary type="html"><![CDATA[Nedávná změna přístupu Red Hatu ke klonům RHEL donutila tvůrce těchto navazujících distribucí přehodnotit další plány a vymyslet budoucí postup. Zástupci distribuce AlmaLinux oznámili, že ukončují své snahy o plně kompatibilní distribuci s RHEL a do budoucna se zaměří na kompatibilitu s ABI. Po dlouhých diskusích se dnes správní rada AlmaLinux OS Foundation rozhodla upustit od záměru být 1:1 kompatibilní s RHEL. Namísto toho bude AlmaLinux OS usilovat o kompatibilitu s aplikačním binárním rozhraním (ABI), píše se v oznámení.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyhledávač Shodan nabízí doživotní členství za pět dolarů]]></title>
+        <id>www.root.cz-actuality-44926</id>
+        <link href="https://www.root.cz/zpravicky/vyhledavac-shodan-nabizi-dozivotni-clenstvi-za-pet-dolaru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-07-17T06:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Shodan je užitečný vyhledávač, který ovšem nehledá na webových stránkách, ale prohledává TCP porty a pamatuje si služby, které na nich objevil. Ty je pak možné prohledávat podle mnohých kritérií jako jsou názvy služeb, použité verze, automaticky získaný screenshot a podobně. Část služeb je uzavřena a lze ji získat za členský poplatek, který začíná na 69 dolarech měsíčně.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JamesDSP for Linux: zvukové efekty pro PipeWire a PulseAudio]]></title>
+        <id>www.root.cz-actuality-44923</id>
+        <link href="https://www.root.cz/zpravicky/jamesdsp-for-linux-zvukove-efekty-pro-pipewire-a-pulseaudio/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-07-17T06:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Při hledání řešení, jak trochu zlepšit zvuk z vestavěných reproduktorů v notebooku, jsem objevil příjemný prográmek pro zvukové efekty v reálném čase – pro PipeWire, nebo PulseAudio s názvem JDSP4Linux.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jakub Ladman)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slackware Linux slaví 30 let]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/slackware-linux-slavi-30-let</id>
@@ -948,7 +998,7 @@ Read more]]></summary>
         <id>www.root.cz-actuality-44920</id>
         <link href="https://www.root.cz/zpravicky/lifi-sit-po-svetle-standardizovana-jako-802-11bb-je-rychlejsi-nez-wifi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-07-14T16:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Včera IEEE (Institute of Electrical and Electronics Engineers) standardizovalo LiFi jako 802.11bb. Jde o síť po světle a je rychlejší než WiFi. Standard 802.11b je pro vlnové délky přenosu 800 a 1000 nm (NIR, near-ifrared) obousměrně s rychlostí 10 Mb/s – 9,6 Gb/s.]]></summary>
+        <summary type="html"><![CDATA[Včera IEEE (Institute of Electrical and Electronics Engineers) standardizovalo LiFi jako 802.11bb. Jde o síť po světle a je rychlejší než WiFi. Standard 802.11b je pro vlnové délky přenosu 800 a 1000 nm (NIR, Near-IfraRed) obousměrně s rychlostí 10 Mb/s – 9,6 Gb/s.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
@@ -3779,16 +3829,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google navrhuje změnit soubory robot.txt kvůli AI]]></title>
-        <id>www.root.cz-actuality-44903</id>
-        <link href="https://www.root.cz/zpravicky/google-navrhuje-zmenit-soubory-robot-txt-kvuli-ai/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-07-10T14:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Google na blogu minulý týden napsal o souboru robots.txt, který vznikl před téměř 30 lety a který reguluje chování web crawlerů – robotů, kteří indexují obsah internetu pro vyhledávače.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Black Panther Game Announced By EA]]></title>
         <id>120785</id>
         <link href="https://www.gameinformer.com/2023/07/10/black-panther-game-announced-by-ea"/>
@@ -3814,16 +3854,6 @@ To keep up with other upcoming superhero games, we've made a list of them for yo
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google má znovu kvantovou převahu se 70 qubity]]></title>
-        <id>www.root.cz-actuality-44902</id>
-        <link href="https://www.root.cz/zpravicky/google-ma-znovu-kvantovou-prevahu-se-70-quibity/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-07-10T12:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Před téměř čtyřmi lety Google oznámil, že má kvantovou převahu nad klasickými počítači se svým 53qubitovým počítačem Sycamore-53. Podle jejich odhadů by stejnou úlohu klasický počítač s milionem jader řešil 10 tisíc let.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3869,26 +3899,6 @@ The post Tech in front of our eyes appeared first on Raspberry Pi.]]></summary>
         <summary type="html"><![CDATA[Přehled červnových vydání Jaderných novin: stav vydání jádra, citáty týdne a seznam článků týkajících se jádra.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naučte se pracovat s Dockerem a kontejnery (školení)]]></title>
-        <id>www.root.cz-actuality-39529</id>
-        <link href="https://www.root.cz/zpravicky/naucte-se-pracovat-s-dockerem-a-kontejnery-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-07-10T09:10:05.000Z</updated>
-        <summary type="html"><![CDATA[Docker je dnes technologie, která proces vývoje, testování a provozování softwaru velmi zjednodušuje. Provozujte cokoliv a kdekoliv. Už nečekejte na nastavení svého serveru nebo na aktualizaci nějaké knihovny. Mějte prostředí jako součást vaší aplikace.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fciv.net je Freeciv ve 3D pro prohlížeč]]></title>
-        <id>www.root.cz-actuality-44901</id>
-        <link href="https://www.root.cz/zpravicky/fciv-net-je-freeciv-ve-3d-pro-prohlizec/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-07-10T09:00:51.000Z</updated>
-        <summary type="html"><![CDATA[Každý asi slyšel nebo hrál Freeciv. Jde o open source tahovou strategii pro jednoho i více hráčů inspirovaná hrou Civilization. Nicméně grafika Freeciv je poněkud zastaralá.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4150,16 +4160,6 @@ We've all been playing a few games here and there, and most of them are current,
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-4 je k dispozici platícím zákazníkům]]></title>
-        <id>www.root.cz-actuality-44900</id>
-        <link href="https://www.root.cz/zpravicky/chat-gpt-4-je-k-dispozici-platicim-zakaznikum/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-07-07T14:30:16.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI včera oznámilo dostupnost GPT-4 platícím zákazníkům přes svoje API. Zadarmo přes web zůstává GPT-3.5. Velkou změnou je, že GPT-4 může používat jako vstup nejen text, ale i obrázky. Tato funkce je však ještě omezena jen na jednoho partnera be my eyes.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
