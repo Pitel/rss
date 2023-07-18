@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-18T08:13:24.132Z</id>
+    <id>urn:2023-07-18T10:10:56.494Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-18T08:13:24.132Z</updated>
+    <updated>2023-07-18T10:10:56.494Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fake Sparse Support Being Worked On For Intel's Open-Source Vulkan Driver]]></title>
+        <id>https://www.phoronix.com/news/Intel-ANV-Fake-Sparse-Support</id>
+        <link href="https://www.phoronix.com/news/Intel-ANV-Fake-Sparse-Support"/>
+        <updated>2023-07-18T10:06:00.000Z</updated>
+        <summary type="html"><![CDATA[While Intel Arc Graphics continue enjoying performance optimizations with the open-source Linux graphics driver stack, the major limitation facing Arc Graphics on Linux right now for gamers is the lack of sparse residency support that is needed for running many newer games on Linux with Intel graphics -- particularly newer Windows D3D12 titles running on Linux via Valve's Steam Play. It's been a long known limitation and will hopefully be addressed once the Intel Xe kernel driver is introduced, but at least as an interim solution there is now "fake" sparse support being implemented...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafické karty Intel Arc jsou nyní o 10% rychlejší, díky optimalizacím v ovladači]]></title>
+        <id>www.root.cz-actuality-44929</id>
+        <link href="https://www.root.cz/zpravicky/graficke-karty-intel-arc-jsou-nyni-o-10-rychlejsi-diky-optimalizacim-v-ovladaci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-07-18T09:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Do vývojové větve Mesa 23.2-devel zamířily nové patche vylepšující mechanismus práce s L3 cache u GPU rodiny Intel Arc (zavádí L3 partial write pro komprimovatelné povrchy aj.). Díky tomu karty od Intelu zrychlují o jednotky procent, v průměru to dle testu Phoronixu dává zhruba 10% nárůst výkonu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm Guarded Control Stack "GCS" Patches Debut For The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Arm-Guarded-Control-Stack-Linux</id>
+        <link href="https://www.phoronix.com/news/Arm-Guarded-Control-Stack-Linux"/>
+        <updated>2023-07-18T09:53:06.000Z</updated>
+        <summary type="html"><![CDATA[A set of 35 patches were posted on Sunday for introducing ARM64 Guarded Control Stack (GCS) support to the Linux kernel. This is akin to x86 Shadow Stack support for hardware-protected stacks of return addresses to help fend off ROP attacks...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Criminally Cute Pixel Art Platformer 'Chicken Journey' Hatches On Switch Next Month]]></title>
+        <id>https://www.nintendolife.com/#article-152797</id>
+        <link href="https://www.nintendolife.com/news/2023/07/criminally-cute-pixel-art-platformer-chicken-journey-hatches-on-switch-next-month"/>
+        <updated>2023-07-18T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Cluck cluck, etc.
+What came first: the chicken or the egg?
+This is a question that cute 2D platformer Chicken Journey will attempt to answer when it launches on Nintendo Switch next month on August 22nd, 2023.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's CBL-Mariner 2.0.20230630 Ships Security Fixes, Adds In Some Extra Bits]]></title>
+        <id>https://www.phoronix.com/news/CBL-Mariner-2.0.20230630</id>
+        <link href="https://www.phoronix.com/news/CBL-Mariner-2.0.20230630"/>
+        <updated>2023-07-18T09:38:16.000Z</updated>
+        <summary type="html"><![CDATA[CBL-Mariner 2.0.20230630 is now shipping as Microsoft's newest in-house Linux distribution release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Full Void review: a cinematic platformer that channels the spirit of Another World]]></title>
+        <id>https://www.rockpapershotgun.com/full-void-review</id>
+        <link href="https://www.rockpapershotgun.com/full-void-review"/>
+        <updated>2023-07-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[When I think back on most of the cinematic platformers I've played recently, it's not the latter part of their genre title I remember most, but the former. The lush camera pans of your Planet Of Lanas, the haunting backdrops of your Somervilles and the gooey, malleable monstrosities of your Insides. These dramatic moments linger in the memory much longer than their respective running and jumping, and if it's a proper platforming challenge I'm after, I usually look elsewhere, swapping cinema for action with your Raymans, Trines and Oris. 
+Full Void, on the other hand, is a cinematic run and jumper that manages to strike a good balance between both parts of its personality. Following in the Another World school of gorgeous pixel art meets one-foot-wrong-and-you're-dead-style platforming (albeit with much more generous checkpointing than its 1991 source material), there's a real athleticism in your teen hero's journey to bring down a despotic AI, making its intricate leaps and bounds just as memorable as its down-to-the-wire set pieces.
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zelda: Tears Of The Kingdom "Most Downloaded" Switch Game In The First Half Of 2023 (Japan)]]></title>
         <id>https://www.nintendolife.com/#article-152791</id>
@@ -16,6 +81,16 @@ We've seen it dominating Switch sales in Japan for some time now thanks to Famit
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU Shepherd 0.10.2 Service Manager Fixes Some Long-Standing Issues]]></title>
+        <id>https://www.phoronix.com/news/GNU-Shepherd-0.10.2</id>
+        <link href="https://www.phoronix.com/news/GNU-Shepherd-0.10.2"/>
+        <updated>2023-07-18T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GNU Shepherd is the Guile-written service manager for handling daemons that is most notably used by the GNU Guix project as an alternative to the likes of SysV and systemd. With today's GNU Shepherd 0.10.2 some long-standing issues have finally been resolved...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -168,16 +243,6 @@ It shows a charming unfamiliarity with the medium. However, when it happens in a
 Read more...]]></summary>
         <author>
             <name>Alyssa Mercante</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU Shepherd 0.10.2 Service Manager Fixes Some Long-Standing Issues]]></title>
-        <id>https://www.phoronix.com/news/GNU-Shepherd-0.10.2</id>
-        <link href="https://www.phoronix.com/news/GNU-Shepherd-0.10.2"/>
-        <updated>2023-07-17T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GNU Shepherd is the Guile-written service manager for handling daemons that is most notably used by the GNU Guix project as an alternative to the likes of SysV and systemd. With today's GNU Shepherd 0.10.2 some long-standing issues have finally been resolved...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1497,19 +1562,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: 50 Best NES Games Of All Time]]></title>
-        <id>https://www.nintendolife.com/#article-106207</id>
-        <link href="https://www.nintendolife.com/guides/50-best-nes-games-of-all-time"/>
-        <updated>2023-07-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As rated by you.
-15th July 2023 marks the 40th anniversary of the launch of the Famicom, the Japanese console that would be transformed into the NES in the West. To mark the occasion, we're republishing this reader-ranked list of the best games on the system.
-Remember, this is a dynamic list that's updated in real-time according to each game's User Rating in our database. If you haven't rated the ones you've played, feel free to rate any of the games below and potentially alter the ranking. Enjoy!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux kCFI/FineIBT Weaknesses Addressed By Rewriting Some Assembly In C]]></title>
         <id>https://www.phoronix.com/news/Linux-kCFI-FineIBT-Weaknesses</id>
         <link href="https://www.phoronix.com/news/Linux-kCFI-FineIBT-Weaknesses"/>
@@ -2022,7 +2074,7 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Indiescovery Episode 14 - A Very Early Halloween Special]]></title>
+        <title type="html"><![CDATA[Indiescovery Episode 14: A Very Early Halloween Special]]></title>
         <id>https://www.rockpapershotgun.com/indiescovery-episode-14-a-very-early-halloween-special</id>
         <link href="https://www.rockpapershotgun.com/indiescovery-episode-14-a-very-early-halloween-special"/>
         <updated>2023-07-14T15:00:00.000Z</updated>
@@ -2404,16 +2456,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AlmaLinux No Longer Aims For 1:1 Compatibility With RHEL]]></title>
-        <id>https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL</id>
-        <link href="https://www.phoronix.com/news/AlmaLinux-No-1-1-RHEL"/>
-        <updated>2023-07-13T22:55:14.000Z</updated>
-        <summary type="html"><![CDATA[With Red Hat now restricting access to the RHEL source repositories, AlmaLinux and other downstreams that have long provided "community" rebuilds of Red Hat Enterprise Linux with 1:1 compatibility to upstream RHEL have been left sorting out what to do...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FTC Blasted By Congress And Gamers For Doing Its Job]]></title>
         <id>1850638519</id>
         <link href="https://kotaku.com/microsoft-ftc-xbox-activision-congress-appeal-blizzard-1850638519"/>
@@ -2778,16 +2820,6 @@ Jump to the timestamps to get to a particular point of discussion:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Ryzen 7040 Series Shows Great AVX-512 Performance For Laptops / Mobile / Edge]]></title>
-        <id>https://www.phoronix.com/review/amd-ryzen7040-avx512</id>
-        <link href="https://www.phoronix.com/review/amd-ryzen7040-avx512"/>
-        <updated>2023-07-13T16:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Similar to what I have shown with the Ryzen 9 7950X AVX-512 desktop performance and AMD EPYC 9004 series AVX-512 server performance, the new Ryzen 7040 series mobile processors are exhibiting great AVX-512 performance for laptops. In today's article is a look at the performance impact when toggling AVX-512 capabilities for a Ryzen 7 7840U "Phoenix" SoC compared to toggling AVX-512 with prior Intel Tiger Lake and Ice Lake laptops that offer AVX-512.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TMNT: Shredder’s Revenge Dimension Shellshock DLC Includes New Survival Mode]]></title>
         <id>120802</id>
         <link href="https://www.gameinformer.com/2023/07/13/tmnt-shredders-revenge-dimension-shellshock-dlc-includes-new-survival-mode"/>
@@ -2895,16 +2927,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Sends Out Initial Compiler Patches For Lunar Lake & Arrow Lake]]></title>
-        <id>https://www.phoronix.com/news/Intel-GCC-Lunar-Lake-Arrow-Lake</id>
-        <link href="https://www.phoronix.com/news/Intel-GCC-Lunar-Lake-Arrow-Lake"/>
-        <updated>2023-07-13T10:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Linux software engineers understand the annual GCC compiler release cadence well and acknowledge the importance of having tuned compiler support available at launch. Intel for years has tended to get their new CPU support and new ISA features upstreamed into GCC as well as LLVM/Clang well ahead of product launch so that by the time their new consumer and server CPUs are shipping, there tends to be support within compilers just not at their stable versions but already found in the likes of Ubuntu. With that said, today Intel engineers posted initial compiler patches for Lunar Lake and Arrow Lake processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3938,16 +3960,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vyšel GIMP 2.99.16, port na GTK+3 je hotov]]></title>
-        <id>www.root.cz-actuality-44907</id>
-        <link href="https://www.root.cz/zpravicky/vysel-gimp-2-99-16-port-na-gtk-3-je-hotov/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-07-11T07:36:19.000Z</updated>
-        <summary type="html"><![CDATA[Další vývojový krůček na cestě ke GIMPu 3.0 je za námi. GIMP 2.99.16 přináší dokončení portace projektu na GTK+3 (až na pár zanedbatelných varování, která nebrání užívání), dále vylepšené vyhledávání akcí (Action Search) či vylepšenou integraci GEGL operací v grafickém rozhraní.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: ransomware ochromil největší japonský přístav]]></title>
         <id>www.root.cz-text-16680</id>
         <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-ransomware-ochromil-nejvetsi-japonsky-pristav/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -4167,17 +4179,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Become SkiFree's yeti and devour skiers in this free little game]]></title>
-        <id>https://www.rockpapershotgun.com/become-skifrees-yeti-and-devour-skiers-in-this-free-little-game</id>
-        <link href="https://www.rockpapershotgun.com/become-skifrees-yeti-and-devour-skiers-in-this-free-little-game"/>
-        <updated>2023-07-10T10:28:02.000Z</updated>
-        <summary type="html"><![CDATA[If you ever experienced the horror of being chased and devoured by a yeti in Microsoft's SkiFree, reader dear, it's time for you to confront your nightmares. A fun little free game offers you the opportunity to become the yeti, chasing skiers down the slopes yourself and cramming their crumpled bodies into your cruel maw. It's a few minutes of fun, and I did enjoy remembering the many hours I spent trying to escape the inevitable.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
         </author>
     </entry>
     <entry>
