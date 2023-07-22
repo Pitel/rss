@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-22T14:07:52.917Z</id>
+    <id>urn:2023-07-22T16:11:00.588Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-22T14:07:52.917Z</updated>
+    <updated>2023-07-22T16:11:00.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LLVMpipe Now Exposes Shared Virtual Memory Support]]></title>
+        <id>https://www.phoronix.com/news/LLVMpipe-SVM-Enabled</id>
+        <link href="https://www.phoronix.com/news/LLVMpipe-SVM-Enabled"/>
+        <updated>2023-07-22T15:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Mesa's LLVMpipe software driver is now exposing system Shared Virtual Memory (SVM) support with the necessary API bits being in place for the modern Rusticl OpenCL driver as well as the older Clover code. Plus with being a CPU-based driver there isn't any added work or complications around shared virtual memory...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sega Bass Fishing is free via newsletter]]></title>
         <id>https://www.destructoid.com/?p=393057</id>
@@ -509,6 +519,7 @@ Part 7
 Part 8
 Part 9
 Part 10
+Part 11
 If you enjoy our livestreams but haven’t subscribed to our Twitch channel, know that doing so not only gives you notifications and access to special emotes. You’ll also be granted entry to the official Game Informer Discord channel, where our welcoming community members, moderators, and staff gather to talk games, entertainment, food, and organize hangouts! Be sure to also follow our second YouTube channel, Game Informer Shows, for to watch other Replay episodes as well as Twitch archives such as Replay, GI Live, and more.]]></summary>
         <author>
             <name>Marcus Stewart</name>
@@ -3053,16 +3064,6 @@ Maquette – Console and PC (July 19)
 Figment…]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Rolls Out thunderbolt-utils To Manage USB4/Thunderbolt Devices On Linux]]></title>
-        <id>https://www.phoronix.com/news/Intel-Linux-thunderbolt-utils</id>
-        <link href="https://www.phoronix.com/news/Intel-Linux-thunderbolt-utils"/>
-        <updated>2023-07-18T17:12:25.000Z</updated>
-        <summary type="html"><![CDATA[In addition to Intel engineers being responsible for much of the Linux kernel driver work around USB4 and Thunderbolt, they have now published thunderbolt-utils as a collection of user-space utilities for managing USB4/Thunderbolt on Linux environments...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
