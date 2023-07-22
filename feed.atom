@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-21T22:08:38.566Z</id>
+    <id>urn:2023-07-22T00:56:02.538Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-21T22:08:38.566Z</updated>
+    <updated>2023-07-22T00:56:02.538Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wine 8.13 Released With Three Dozen Bugs Fixed]]></title>
+        <id>https://www.phoronix.com/news/Wine-8.13-Released</id>
+        <link href="https://www.phoronix.com/news/Wine-8.13-Released"/>
+        <updated>2023-07-21T23:53:19.000Z</updated>
+        <summary type="html"><![CDATA[In addition to Proton 8.0-3 being released today for Steam Play, Wine 8.13 is out today as the latest bi-weekly release of this software for running Windows games and applications on Linux and other platforms...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Událo se v týdnu 29/2023]]></title>
         <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-29-2023</id>
@@ -3203,16 +3213,6 @@ The post Sneak peek inside the first ever Open Sauce event in San Francisco appe
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fake Sparse Support Being Worked On For Intel's Open-Source Vulkan Driver]]></title>
-        <id>https://www.phoronix.com/news/Intel-ANV-Fake-Sparse-Support</id>
-        <link href="https://www.phoronix.com/news/Intel-ANV-Fake-Sparse-Support"/>
-        <updated>2023-07-18T10:06:00.000Z</updated>
-        <summary type="html"><![CDATA[While Intel Arc Graphics continue enjoying performance optimizations with the open-source Linux graphics driver stack, the major limitation facing Arc Graphics on Linux right now for gamers is the lack of sparse residency support that is needed for running many newer games on Linux with Intel graphics -- particularly newer Windows D3D12 titles running on Linux via Valve's Steam Play. It's been a long known limitation and will hopefully be addressed once the Intel Xe kernel driver is introduced, but at least as an interim solution there is now "fake" sparse support being implemented...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
