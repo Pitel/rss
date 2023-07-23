@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-23T10:09:11.316Z</id>
+    <id>urn:2023-07-23T12:16:43.068Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-23T10:09:11.316Z</updated>
+    <updated>2023-07-23T12:16:43.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[It Turns Out Linux Is Supposed To Enable STIBP When Enabling AMD Zen 4's Auto IBRS]]></title>
+        <id>https://www.phoronix.com/news/AMD-Automatic-IBRS-STIBP</id>
+        <link href="https://www.phoronix.com/news/AMD-Automatic-IBRS-STIBP"/>
+        <updated>2023-07-23T11:20:41.000Z</updated>
+        <summary type="html"><![CDATA[Automatic IBRS is a new feature with AMD Zen 4 processors akin to Intel's Enhanced IBRS functionality. Linux 6.3 added Auto IBRS support but it turns out when that was being enabled an oversight was made...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EEVDF Scheduler May Be Ready For Landing With Linux 6.6]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-EEVDF-Likely</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-EEVDF-Likely"/>
+        <updated>2023-07-23T11:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Intel Linux engineer Peter Zijlstra's EEVDF CPU scheduler code to replace the existing Completely Fair Scheduler "CFS" code looks like it will attempt to land with the upcoming Linux 6.6 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine-Staging 8.13 Released With D3D12GetInterface Stub]]></title>
+        <id>https://www.phoronix.com/news/Wine-Staging-8.13</id>
+        <link href="https://www.phoronix.com/news/Wine-Staging-8.13"/>
+        <updated>2023-07-23T10:44:31.000Z</updated>
+        <summary type="html"><![CDATA[Building off Friday's release of Wine 8.13, Wine-Staging 8.13 is out today with 504 patches atop that upstream code-base...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl: Might & Magic: Clash Of Heroes (DS)]]></title>
+        <id>https://www.nintendolife.com/#article-152976</id>
+        <link href="https://www.nintendolife.com/news/2023/07/poll-box-art-brawl-might-and-magic-clash-of-heroes-ds"/>
+        <updated>2023-07-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Puzzling.
+It's time to witness another clash of the covers as we dive into this week's edition of Box Art Brawl!
+Last time, things got medieval as we matched up two different covers from the DS' Castlevania: Order of Ecclesia with North America facing off against the combined forces of Europe and Japan. Holy smokes was this a close one! NA just managed to seal the victory with 55% of the vote, while EU/JP took home 45% — that's some classic Box Art Brawl action right there.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-686</id>
@@ -1920,19 +1963,6 @@ Armored Core VI Fires of Rubicon launches on August 25 for PlayStation/Xbox cons
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taito Classic 'Parasol Stars' Is Getting A Revival On The Switch]]></title>
-        <id>https://www.nintendolife.com/#article-152954</id>
-        <link href="https://www.nintendolife.com/news/2023/07/taito-classic-parasol-stars-is-getting-a-revival-on-the-switch"/>
-        <updated>2023-07-20T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Launching later this year.
-Fans of Bubble Bobble, line up! The classic platformer Parasol Stars: The Story of Bubble Bobble III is getting a revival on the Switch courtesy of ININ and Taito later this year.
-Originally launched in 1991 as a sequel to Rainbow Islands, Parasol Stars features Bubby and Bobby in their human forms with platforming gameplay more reminiscent of the original Bubble Bobble. There's no word on a specific release date yet, but we can't imagine we'll be waiting too long for confirmation.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Slavný hacker Kevin Mitnick zemřel ve věku 59 let]]></title>
         <id>www.root.cz-actuality-44937</id>
         <link href="https://www.root.cz/zpravicky/slavny-hacker-kevin-mitnick-zemrel-ve-veku-59-let/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2894,36 +2924,6 @@ Read more]]></summary>
 The post Leica MPi: a Pi Zero retrofit camera appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Expands Mesa Virgl Video Acceleration For Using On Xen]]></title>
-        <id>https://www.phoronix.com/news/Mesa-Virgl-More-Video-Accel</id>
-        <link href="https://www.phoronix.com/news/Mesa-Virgl-More-Video-Accel"/>
-        <updated>2023-07-19T09:02:21.000Z</updated>
-        <summary type="html"><![CDATA[As part of AMD's interest in improving graphics around Xen virtualization for in-vehicle infotainment systems and other customer uses, AMD engineers have expanded the video acceleration capabilities provided by Mesa's Virgl code...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System76 Darter Pro 9 / Serval WS 13 / Galago Pro 7 Land In Upstream Coreboot]]></title>
-        <id>https://www.phoronix.com/news/System76-3-More-In-Coreboot</id>
-        <link href="https://www.phoronix.com/news/System76-3-More-In-Coreboot"/>
-        <updated>2023-07-19T08:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Just days after System76 upstreamed Intel Raptor Lake HX and their new Adder WS 3 laptop into Coreboot, three more of their laptops have now made their way to upstream Coreboot...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Releases Updated Q2-2023 FFmpeg Cartwheel]]></title>
-        <id>https://www.phoronix.com/news/Intel-FFmpeg-2023-Q2</id>
-        <link href="https://www.phoronix.com/news/Intel-FFmpeg-2023-Q2"/>
-        <updated>2023-07-19T08:35:40.000Z</updated>
-        <summary type="html"><![CDATA[Intel has published their 2023Q2 release of their FFmpeg Cartwheel repository that holds the many different patches around Intel integrated/discrete video acceleration for use with the popular FFmpeg multimedia library. Intel engineers continue working on upstreaming their various patches to FFmpeg proper while "cartwheel-ffmpeg" is their staging area where they continue to have the latest and greatest patches available for easy consumption...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
