@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-24T04:11:51.598Z</id>
+    <id>urn:2023-07-24T06:13:25.153Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-24T04:11:51.598Z</updated>
+    <updated>2023-07-24T06:13:25.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,6 +13,16 @@
         <summary type="html"><![CDATA[Inkscape 1.3 is now available as the newest feature release ot this open-source software focused on being a vector graphics editor that can rival the likes of Adobe Illustrator...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mpv 0.36.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mpv-0.36.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mpv-0.36.0"/>
+        <updated>2023-07-23T23:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 0.36.0 multimediálního přehrávače mpv (Wikipedie) vycházejícího z přehrávačů MPlayer a mplayer2. Přehled novinek, změn a oprav na GitHubu. Vypíchnout lze podporu hardwarového dekódování pomocí Vulkanu nebo podporu zlomkového škálování na Waylandu. Požadován je FFmpeg 4.4 nebo novější.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2398,16 +2408,6 @@ The post A giant slice of Raspberry Pi appeared first on Raspberry Pi.]]></summa
         <link href="http://www.abclinuxu.cz/zpravicky/kevin-mitnick-zemrel-ve-veku-59-let-na-rakovinu-slinivky-brisni"/>
         <updated>2023-07-20T02:43:50.000Z</updated>
         <summary type="html"><![CDATA[Kevin Mitnick zemřel ve věku 59 let na rakovinu slinivky břišní.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSSH 9.3p2 řeší CVE-2023-38408]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/openssh-9.3p2-resi-cve-2023-38408</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/openssh-9.3p2-resi-cve-2023-38408"/>
-        <updated>2023-07-20T02:13:06.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 9.3p2 sady aplikací pro SSH komunikaci OpenSSH. Řešena je bezpečnostní chyba CVE-2023-38408. Detaily v stránkách společnosti Qualys (txt).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
         </author>
