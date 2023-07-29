@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-29T10:08:56.142Z</id>
+    <id>urn:2023-07-29T12:16:55.450Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-29T10:08:56.142Z</updated>
+    <updated>2023-07-29T12:16:55.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.5-rc4 Fixes Support For Reporting Negative Temperatures On AMD Industrial CPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.5-rc4-AMD-Negative-Temp</id>
+        <link href="https://www.phoronix.com/news/Linux-6.5-rc4-AMD-Negative-Temp"/>
+        <updated>2023-07-29T10:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Going back to May I wrote about AMD's "k10temp" Linux temperature driver being updated to handle negative temperature readings and now finally merged on Friday as a fix ahead of Linux 6.5-rc4 is a change to that open-source driver for properly displaying negative temperatures...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6 Making Progress On Sound Themes, Lower Cursor Latency On Wayland]]></title>
+        <id>https://www.phoronix.com/news/Plasma-6-Sound-Themes</id>
+        <link href="https://www.phoronix.com/news/Plasma-6-Sound-Themes"/>
+        <updated>2023-07-29T10:20:37.000Z</updated>
+        <summary type="html"><![CDATA[With most developers having recovered from the recent Akademy KDE developer conference, Plasma 6 is back to seeing a lot of new development activity for what will be the next major open-source desktop release likely debuting in early 2024...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LLVM 17.0-rc1 Released With Nearly 38k Commits]]></title>
         <id>https://www.phoronix.com/news/LLVM-17.0-rc1</id>
@@ -3519,16 +3539,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FreeRDP 3.0 Beta Brings AAD/AVD Authentication, WebSocket Transport]]></title>
-        <id>https://www.phoronix.com/news/FreeRDP-3.0-Beta</id>
-        <link href="https://www.phoronix.com/news/FreeRDP-3.0-Beta"/>
-        <updated>2023-07-25T09:52:40.000Z</updated>
-        <summary type="html"><![CDATA[The first beta is out of FreeRDP 3.0, the open-source Remote Desktop Protocol (RDP) implementation of that proprietary Microsoft protocol for remote desktop/GUI handling...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lakeburg Legacies review: what's love got to do with town management?]]></title>
         <id>https://www.rockpapershotgun.com/lakeburg-legacies-review</id>
         <link href="https://www.rockpapershotgun.com/lakeburg-legacies-review"/>
@@ -3629,16 +3639,6 @@ The post Hacking IKEA appeared first on Raspberry Pi.]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel AVX10: Taking AVX-512 With More Features & Supporting It Across P/E Cores]]></title>
-        <id>https://www.phoronix.com/news/Intel-AVX10</id>
-        <link href="https://www.phoronix.com/news/Intel-AVX10"/>
-        <updated>2023-07-24T20:52:41.000Z</updated>
-        <summary type="html"><![CDATA[Along with detailing Advanced Performance Extensions (APX), Intel as effectively a footnote to that also disclosed another exciting addition to find with future Intel CPUs: AVX10. Most notably for consumer use is that AVX10 will enable AVX-512 capabilities across both Performance and Efficient core designs with hybrid processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
