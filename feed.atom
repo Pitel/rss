@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-07-30T12:16:57.948Z</id>
+    <id>urn:2023-07-30T14:08:06.578Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-07-30T12:16:57.948Z</updated>
+    <updated>2023-07-30T14:08:06.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa 23.2 Released With RADV Ray-Tracing By Default, Intel H.265 Vulkan Video]]></title>
+        <id>https://www.phoronix.com/news/Mesa-23.2-Released</id>
+        <link href="https://www.phoronix.com/news/Mesa-23.2-Released"/>
+        <updated>2023-07-30T13:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Quietly released on the early hours of Saturday was Mesa 23.2 as the newest quarterly feature release for this collection of OpenGL and Vulkan open-source drivers used on Linux systems and elsewhere...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emacs 29.1 Released - No Longer Chokes On Very Long Lines]]></title>
+        <id>https://www.phoronix.com/news/GNU-Emacs-29.1</id>
+        <link href="https://www.phoronix.com/news/GNU-Emacs-29.1"/>
+        <updated>2023-07-30T13:26:41.000Z</updated>
+        <summary type="html"><![CDATA[GNU Emacs 29.1 is out this morning as the latest update to this popular and powerful text editor...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Patches Revised Around Non-Blocking Consoles]]></title>
+        <id>https://www.phoronix.com/news/Linux-Patches-Non-BKL-Consoles</id>
+        <link href="https://www.phoronix.com/news/Linux-Patches-Non-BKL-Consoles"/>
+        <updated>2023-07-30T13:13:26.000Z</updated>
+        <summary type="html"><![CDATA[As one of the last blockers for getting real-time (PREEMPT_RT) support mainlined in the Linux kernel, this week saw a revised patch series around non-blocking consoles...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Kernel Prepares Rust Toolchain Upgrade To v1.71]]></title>
         <id>https://www.phoronix.com/news/Rust-1.71-Kernel-Upgrade</id>
@@ -1617,7 +1647,7 @@ Read more]]></summary>
         <title type="html"><![CDATA[Den systémových administrátorů]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/den-systemovych-administratoru-8</id>
         <link href="http://www.abclinuxu.cz/zpravicky/den-systemovych-administratoru-8"/>
-        <updated>2023-07-28T10:57:44.000Z</updated>
+        <updated>2023-07-28T10:57:43.000Z</updated>
         <summary type="html"><![CDATA[Je poslední pátek v červenci, a proto všem systémovým administrátorům vše nejlepší k dnešnímu Dni systémových administrátorů (System Administrator Appreciation Day).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -3108,16 +3138,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unified LTO Bitcode Front-End Comes Together For LLVM]]></title>
-        <id>https://www.phoronix.com/news/LLVM-Unified-LTO-Front-End</id>
-        <link href="https://www.phoronix.com/news/LLVM-Unified-LTO-Front-End"/>
-        <updated>2023-07-26T10:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to work carried out by Sony engineers and then offered for upstream, over the past few weeks support for a unified LTO bitcode front-end has materialized within the LLVM codebase...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Colourful strategy game Cantata leaves early access on August 15th]]></title>
         <id>https://www.rockpapershotgun.com/colourful-strategy-game-cantata-leaves-early-access-on-august-15th</id>
         <link href="https://www.rockpapershotgun.com/colourful-strategy-game-cantata-leaves-early-access-on-august-15th"/>
@@ -3128,16 +3148,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canonical Rolls Out Real-Time Ubuntu Optimized For Intel Core CPUs]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-RT-Optimized-Intel</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-RT-Optimized-Intel"/>
-        <updated>2023-07-26T09:50:23.000Z</updated>
-        <summary type="html"><![CDATA[For a few years now Canonical has partnered with Intel to offer Ubuntu images optimized for their hardware like with IoT initiatives while the latest now are new Ubuntu real-time images optimized for Intel Core usage...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3417,16 +3427,6 @@ General fixes and features
 Here is a list of general fixes in Android Studio Giraffe. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Linux Graphics No Longer Unusable For Blender Developers: 251 To 9 Seconds Speed-Up]]></title>
-        <id>https://www.phoronix.com/news/AMD-Mesa-Faster-Blender-Shader</id>
-        <link href="https://www.phoronix.com/news/AMD-Mesa-Faster-Blender-Shader"/>
-        <updated>2023-07-25T18:45:32.000Z</updated>
-        <summary type="html"><![CDATA[Two weeks ago a bug report was opened for Mesa that when using Radeon RX 7900 XT or Radeon Pro WX 9100 graphics, Blender's Eevee shader node trees are unusably slow. A fix has now been merged in reducing that shader compilation time from around 251 seconds to now getting done in just about 9 seconds...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
