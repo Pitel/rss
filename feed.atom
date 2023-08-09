@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-09T06:12:59.388Z</id>
+    <id>urn:2023-08-09T08:13:14.676Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-09T06:12:59.388Z</updated>
+    <updated>2023-08-09T08:13:14.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vodafone začal s nasazováním IPv6 v mobilní síti]]></title>
+        <id>www.root.cz-actuality-44996</id>
+        <link href="https://www.root.cz/zpravicky/vodafone-zacal-s-nasazovanim-ipv6-v-mobilni-siti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-09T08:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Před dvěma týdny jsme psali o tom, že český Vodafone nasadí postupně všem klientům mobilní sítě podporu IPv6. První uživatelé už se začali ozývat s tím, že jim IPv6 na mobilu běží a jsou schopni načíst například testovací web Nebezi.cz, který funguje jen na IPv6.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nové zranitelnosti zneužívající spekulativní vykonávání v procesorech Intel a AMD]]></title>
+        <id>www.root.cz-actuality-44995</id>
+        <link href="https://www.root.cz/zpravicky/nove-zranitelnosti-zneuzivajici-spekulativni-vykonavani-v-procesorech-intel-a-amd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-09T07:58:53.000Z</updated>
+        <summary type="html"><![CDATA[Byla odhalena sada zranitelností v procesorech Intel, které dostaly název Downfall. Tato zranitelnost, označená jako CVE-2022–40982, umožňuje uživateli získat přístup k datům jiných uživatelů, kteří sdílejí stejný počítač, a ukrást je. Například škodlivá aplikace získaná z obchodu s aplikacemi může útok Downfall využít ke krádeži citlivých informací, jako jsou hesla, šifrovací klíče a soukromá data, například bankovní údaje, osobní e-maily a zprávy. Podobně ve virtualizovaném prostředí by mohl škodlivý zákazník zneužít zranitelnost Downfall ke krádeži dat a pověření od jiných zákazníků, kteří sdílejí stejný počítač.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS začne zpoplatňovat veřejné IPv4 adresy]]></title>
+        <id>www.root.cz-actuality-44994</id>
+        <link href="https://www.root.cz/zpravicky/aws-zacne-zpoplatnovat-verejne-ipv4-adresy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-09T07:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Amazon oznámil, že od 1. února 2024 začne zpoplatňovat veřejné IPv4 adresy. Cena bude 0,005 dolaru za IP adresu za hodinu pro všechny veřejné adresy IPv4, ať už jsou připojeny ke službě, nebo ne. Za veřejné adresy IPv4, které si přidělíte ve svém účtu, ale nepřipojíte je k instanci EC2, se již účtuje poplatek. Měsíční poplatek za adresu tedy bude asi 3,6 dolaru, tedy asi 80 korun.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Přihlásit přednášku na LinuxDays 2023 můžete do konce srpna]]></title>
+        <id>www.root.cz-actuality-44993</id>
+        <link href="https://www.root.cz/zpravicky/prihlasit-prednasku-na-linuxdays-2023-muzete-do-konce-srpna/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-09T07:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Desátý ročník konference LinuxDays proběhne za méně než dva měsíce a stále ještě můžete přihlásit své téma. Organizátory zajímají především témata týkající se Linuxu, open source, sítí, bezpečnosti, vývoje a podobně. Mezi návštěvníky jsou jak začátečníci, tak i velmi zkušení odborníci. Nemusíte se tedy bát přidat své téma.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zelda: Tears Of The Kingdom Loading Sequence Patent Filed By Nintendo]]></title>
         <id>https://www.nintendolife.com/#article-153731</id>
@@ -29,6 +69,16 @@ Update :
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Hat USA 2023, DEF CON 31, Pwnie Awards 2023]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/black-hat-usa-2023-def-con-31-pwnie-awards-2023</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/black-hat-usa-2023-def-con-31-pwnie-awards-2023"/>
+        <updated>2023-08-09T02:14:30.000Z</updated>
+        <summary type="html"><![CDATA[Zítra končí bezpečnostní konference Black Hat USA 2023 (Twitter) a začíná bezpečnostní konference DEF CON 31 (Twitter). V rámci Black Hatu budou vyhlášeny výsledky letošní Pwnie Awards (Twitter). Pwnie Awards oceňují to nejlepší, ale i to nejhorší z IT bezpečnosti (bezpečnostní Oscar a Malina v jednom).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -144,7 +194,7 @@ Read more...]]></summary>
         <updated>2023-08-08T21:00:00.000Z</updated>
         <summary type="html"><![CDATA["Legend Bowl was built to fill that void for football fans".
 Over the past few years, the number of arcade-style American football titles on Switch has increased at a pretty steady rate. We recently saw Retro Bowl bring us back to the game's 8-bit roots, and Saber is looking to bring even more big-head Playgrounds-esque charm to the game with Wild Card Football later this year. This is football at its most simplistic, so where do you turn if you want to experience the complexities of the game?
-The answer might be Legend Bowl, a new American football sim from publisher Top Hat Entertainment and developer Super Pixel Games that aims to show the tactical side of the sport both on and off the field. We were recently able to chat with the game's lead developer, Javier Martinez, to find out what went into making Legend Bowl stand out from the crowd.
+The answer might be Legend Bowl, a new American football sim from publisher Top Hat Studios and developer Super Pixel Games that aims to show the tactical side of the sport both on and off the field. We were recently able to chat with the game's lead developer, Javier Martinez, to find out what went into making Legend Bowl stand out from the crowd.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -614,9 +664,9 @@ The post Here’s the original Tomb Raider running with Nvidia’s RTX Remix app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Feature: Pokémon Presents August 2023: Every Announcement, Full Livestream]]></title>
+        <title type="html"><![CDATA[Guide: Pokémon Presents August 2023: Every Announcement, Full Livestream]]></title>
         <id>https://www.nintendolife.com/#article-153695</id>
-        <link href="https://www.nintendolife.com/features/pokemon-presents-august-2023-every-announcement-full-livestream"/>
+        <link href="https://www.nintendolife.com/guides/pokemon-presents-august-2023-every-announcement-full-livestream"/>
         <updated>2023-08-08T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Scarvi DLC date! NSO drops! Detective Pikachu drinks more coffee!
 The Pokémon Presents August 2023 showcase has come and gone, bringing with it 35 minutes of updates on the world of Pokémon and announcements for new and upcoming PokéProjects, including fresh details on the Pokémon Scarlet and Violet DLC, The Hidden Treasure of Area Zero. It certainly wasn't the most exciting of Pokémon Presents, but looking back it did contain a fair few announcements.
@@ -1080,7 +1130,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>www.root.cz-actuality-44991</id>
         <link href="https://www.root.cz/zpravicky/hogwarts-legacy-na-linuxu-s-gpu-intel-jen-diky-predstirani-ze-nejde-o-gpu-intel/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-08-08T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Majitelé grafické karty typu Intel Arc, kteří by rádi hráli steamovou hitovku Hogwarts Legacy na Linuxu, mohou jásat. Intel vyřešil způsob, jak tuto hru na takové konfoguraci zprovoznit. Řešení je jednoduché: ovladač nově zastírá, že vše běží na GPU Intel.]]></summary>
+        <summary type="html"><![CDATA[Majitelé grafické karty typu Intel Arc, kteří by rádi hráli steamovou hitovku Hogwarts Legacy na Linuxu, mohou jásat. Intel vyřešil způsob, jak tuto hru na takové konfiguraci zprovoznit. Řešení je jednoduché: ovladač nově zastírá, že vše běží na GPU Intel.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -2022,16 +2072,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tails 5.16]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/tails-5.16</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/tails-5.16"/>
-        <updated>2023-08-07T10:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 5.16 živé linuxové distribuce Tails (The Amnesic Incognito Live System), jež klade důraz na ochranu soukromí uživatelů a anonymitu. Přehled změn v příslušném seznamu. Tor Browser byl povýšen na verzi 12.5.2. Webové stránky distribuce byly přemigrovány z domény tails.boum.org na doménu tails.net.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3631,26 +3671,6 @@ The post Desktop steel marbles mood lamp appeared first on Raspberry Pi.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Online Python Akademie: začněte s programováním v oblíbeném jazyce (online kurz)]]></title>
-        <id>www.root.cz-actuality-41123</id>
-        <link href="https://www.root.cz/zpravicky/online-python-akademie-zacnete-s-programovanim-v-oblibenem-jazyce-kurz/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-02T07:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Chceš začít s programováním? Python je oblíbený programovací jazyk mezi vývojáři i zaměstnavateli a zároveň super vstupenka do světa programování. Nauč se přemýšlet jako programátor a efektivně využívat Python na řešení nejrůznějších problémů. Online Python Akademie znamená celkem 12 týdnů, vždy jedna lekce týdně, večer od 18:00 do 21:00. Následující kurz začíná 5. září.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ruff: rychlý linter pro Python je nyní ještě rychlejší]]></title>
-        <id>www.root.cz-actuality-44972</id>
-        <link href="https://www.root.cz/zpravicky/ruff-rychly-linter-pro-python-je-nyni-jeste-rychlejsi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-02T06:53:10.000Z</updated>
-        <summary type="html"><![CDATA[Vyšla verze 0.0.281 populárního linteru Ruff (linter je nástroj pro automatickou kontrolu zdrojového kódu). Ruff, který je v průměru desetkrát až stokrát rychlejší než existující lintery jako Pylint nebo Flake8, nyní svůj výkon dále zvyšuje. Ruff ivychází z ideje, že „vývojářské nástroje pro Python by mohly být mnohem rychlejší“, a třebaže existuje sotva jeden rok, už ho adoptovaly projekty jako Pandas, SciPy, Apache Airflow, FastAPI nebo Hugging Face.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: peberanek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to Coil a Cable]]></title>
         <id>https://xkcd.com/2810/</id>
         <link href="https://xkcd.com/2810/"/>
@@ -3920,16 +3940,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MX Linux 23 staví na Debianu 12]]></title>
-        <id>www.root.cz-actuality-44971</id>
-        <link href="https://www.root.cz/zpravicky/mx-linux-23-stavi-na-debianu-12/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-01T13:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Včera byl vydán MX-23, nejnovější verze MX Linuxu stavějící na Debianu 12 se sysVinit jako výchozím (systemd je k dispozici též) a dalšími aktualizacemi všemožných nástrojů z vlastní dílny. Distribuce nabízí novější verze desktopových prostředí a rozhraní jako Xfce 4.18, Fluxbox 1.3.7 a KDE Plasma 5.27.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dishonored 2's ingenious A Crack In The Slab mission shows Arkane at their best]]></title>
         <id>https://www.rockpapershotgun.com/dishonored-2s-ingenious-a-crack-in-the-slab-mission-shows-arkane-at-their-best</id>
         <link href="https://www.rockpapershotgun.com/dishonored-2s-ingenious-a-crack-in-the-slab-mission-shows-arkane-at-their-best"/>
@@ -3939,16 +3949,6 @@ I think of Dishonored 2's A Crack In The Slab mission as both a beacon of Arkane
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds chce vypnout generátor náhodných čísel z AMD fTPM]]></title>
-        <id>www.root.cz-actuality-44970</id>
-        <link href="https://www.root.cz/zpravicky/linus-torvalds-chce-vypnout-generator-nahodnych-cisel-z-amd-ftpm/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-01T11:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Pojďme vypnout ten stupidní AMD fTPM generátor, hřímá v těchto dnech Linus Torvalds. Generátor náhodných čísel implementovaný u Ryzenů (atd.) ve fTPM části je chybový a bude lepší se jeho používání vyhnout tak, že jej [na Linuxu] prostě nebudeme používat.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
