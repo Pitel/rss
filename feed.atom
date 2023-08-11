@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-11T08:11:41.688Z</id>
+    <id>urn:2023-08-11T10:09:49.611Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-11T08:11:41.688Z</updated>
+    <updated>2023-08-11T10:09:49.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Upgraded GNU Compiler Toolchain Approved For Fedora 39]]></title>
+        <id>https://www.phoronix.com/news/Fedora-39-GNU-Toolchain-Upgrade</id>
+        <link href="https://www.phoronix.com/news/Fedora-39-GNU-Toolchain-Upgrade"/>
+        <updated>2023-08-11T09:58:21.000Z</updated>
+        <summary type="html"><![CDATA[It shouldn't come as much surprise for those familiar with Fedora given its tendency to always ship with the very latest open-source compiler toolchain components, but this autumn's release of Fedora 39 will once again have all the leading-edge GNU compiler pieces...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DRM Scheduler Patches Updated That Clear The Path For Merging Intel's Xe Driver]]></title>
+        <id>https://www.phoronix.com/news/DRM-Scheduler-Prep-Xe-v2</id>
+        <link href="https://www.phoronix.com/news/DRM-Scheduler-Prep-Xe-v2"/>
+        <updated>2023-08-11T09:44:02.000Z</updated>
+        <summary type="html"><![CDATA[Intel Arc Graphics customers have been eager to see the new Xe DRM kernel driver merged as a modern alternative to the long-standing i915 Direct Rendering Manager driver. The Xe driver should allow for better performance, is focused just on recent Intel graphics hardware, makes use of modern kernel features, and will allow for new features such as around the Vulkan sparse support. One of the blockers for getting the Xe driver merged at least in experimental form is getting the necessary DRM scheduler changes merged...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2's "Overwhelmingly Negative" Steam launch brings years of frustration to the boil]]></title>
+        <id>https://www.rockpapershotgun.com/overwatch-2s-overwhelmingly-negative-steam-launch-brings-years-of-frustration-to-the-boil</id>
+        <link href="https://www.rockpapershotgun.com/overwatch-2s-overwhelmingly-negative-steam-launch-brings-years-of-frustration-to-the-boil"/>
+        <updated>2023-08-11T09:40:12.000Z</updated>
+        <summary type="html"><![CDATA[Overwatch 2 has launched on Steam and well, Activision Blizzard are probably regretting that right now. At the time of writing, the game has attracted 22,619 reviews, many written by people who've already been playing for a while on Battle.net, of which just 15% give the game a thumbs-up, making for an "Overwhelmingly Negative" rating. Tucked in amongst the usual troll reviews, cheeky links to Team Fortress 2 and dubious ASCII jokes there are some rather extensive essays on the game's direction and faults.
+
+
+Many players still have axes to grind about Overwatch 2's switch to a free-to-play battle pass model - check out our launch-day Overwatch 2 review for the nitty gritty - which introduced levelling for new characters and cosmetics to a game that once handed you its entire roster almost without caveats, and encouraged you to experiment freely. Others are angry about Overwatch 2's story-driven PVE modes, the supposed focus of the sequel - announced as a full-blown Hero Missions mode with skill trees and levelling, then dramatically stripped back to a series of separately sold seasonal co-op missions, much as with Halloween events in the first Overwatch. There are complaints about Blizzard's recent handling of the Overwatch League, and more subjective quibbles about the switch to a 5v5 team format and the precise ratio of DPS to Support heroes. A few reviews touch on Activision-Blizzard's alleged culture of sexual harassment and claims of unfair labour practices, which make Overwatch's emphasis on team spirit ring rather hollow.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nickelodeon All-Star Brawl 2 Character Spotlight Showcases Spongebob's Brand-New Moveset]]></title>
+        <id>https://www.nintendolife.com/#article-153844</id>
+        <link href="https://www.nintendolife.com/news/2023/08/nickelodeon-all-star-brawl-2-character-spotlight-showcases-spongebobs-brand-new-moveset"/>
+        <updated>2023-08-11T09:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Are you ready kids?
+After plenty of rumours, GameMill Entertainment finally announced Nickelodeon All-Star Brawl 2 towards the end of last month, so now — as is the case with many-a fighting game — we have entered the period of character spotlight trailers.
+First up is Spongebob (obviously), a character with simple moves that is perfect for beginners and this opening spotlight trailer shows everything that is new for Bikini Bottom's brightest. Chief among these is a fresh moveset that includes a series of distinct normal attacks and three charged attacks (ground and air). We also get a look at the character's neural special, 'Bubble Blow', and side special, 'Fish Bowl Strike', which appear to be a good way to make up ground, especially given Spongebob's lacking speed — he does only have little legs, after all.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opravné vydání Ubuntu 22.04.3 LTS s jádrem 6.2]]></title>
+        <id>www.root.cz-actuality-45000</id>
+        <link href="https://www.root.cz/zpravicky/opravne-vydani-ubuntu-22-04-3-lts-s-jadrem-6-2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-11T08:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Včera vyšlo opravné vydání Ubuntu 22.04.3 LTS „Jammy Jellyfish“. Mezi novinky patří jádro 6.2, pokud máte nainstalováno HWE (hardware enablement stack). Pokud HWE nemáte již od 22.04.2, stačí  sudo apt install linux-generic-hwe-22.04-edge.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Scarlet And Violet News Teased For World Championships' Closing Ceremony]]></title>
         <id>https://www.nintendolife.com/#article-153839</id>
@@ -1443,19 +1502,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[These Snoopy Nintendo Switch Controllers And Pouches Are Absolutely Adorable]]></title>
-        <id>https://www.nintendolife.com/#article-153758</id>
-        <link href="https://www.nintendolife.com/news/2023/08/these-snoopy-nintendo-switch-controllers-and-pouches-are-absolutely-adorable"/>
-        <updated>2023-08-09T18:15:00.000Z</updated>
-        <summary type="html"><![CDATA[But they're exclusive to Japan.
-The Nintendo Switch gets a lot of themed controllers, cases, and accessories — and a lot of them we love. But we want these Snoopy-themed controllers and cases right now.
-Two new controllers and two cases are launching in Japan tomorrow, 10th August 2023, and are available from the official Japanese Snoopy website. The wireless controllers cost 6,490 yen (around GBP £35 / USD $45), with the pouches coming in at around 2,178 yen (around GBP £12 / USD $15).
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Things You Should Never Say To A Final Fantasy Fan]]></title>
         <id>1850721904</id>
         <link href="https://kotaku.com/final-fantasy-ff16-14-grapes-7-aerith-10-tidus-rpg-snes-1850721904"/>
@@ -2604,16 +2650,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Gets Hogwarts Legacy Running On Linux Driver By Pretending Not To Be Intel Graphics]]></title>
-        <id>https://www.phoronix.com/news/Intel-Graphics-Hogwarts-Legacy</id>
-        <link href="https://www.phoronix.com/news/Intel-Graphics-Hogwarts-Legacy"/>
-        <updated>2023-08-08T09:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Those running Intel Arc Graphics on Linux can now enjoy the Hogwarts Legacy game under Valve's Steam Play. Intel engineers were able to get this open-world action RPG game running on their open-source Vulkan driver by hiding the fact that Intel graphics were rendering this game...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Call of Duty: Modern Warfare 3 trailer has old faces and flashy enigmas]]></title>
         <id>https://www.rockpapershotgun.com/call-of-duty-modern-warfare-3-trailer-has-old-faces-and-flashy-enigmas</id>
         <link href="https://www.rockpapershotgun.com/call-of-duty-modern-warfare-3-trailer-has-old-faces-and-flashy-enigmas"/>
@@ -2622,16 +2658,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhino Linux 2023.1 Released As Ubuntu-Based Rolling Release OS]]></title>
-        <id>https://www.phoronix.com/news/Rhino-Linux-2023.1</id>
-        <link href="https://www.phoronix.com/news/Rhino-Linux-2023.1"/>
-        <updated>2023-08-08T09:24:02.000Z</updated>
-        <summary type="html"><![CDATA[Rhino Linux has rolled out of beta as a community-based, rolling-release Linux distribution derived from Ubuntu...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3876,16 +3902,6 @@ The post How to emulate an Atari ST from inside appeared first on Raspberry Pi.]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AudioCraft: open-source generativní AI pro hudbu a audio od Meta]]></title>
-        <id>www.root.cz-actuality-44976</id>
-        <link href="https://www.root.cz/zpravicky/audiocraft-open-source-generativni-ai-pro-hudbu-a-audio-od-meta/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-03T07:26:43.000Z</updated>
-        <summary type="html"><![CDATA[Meta včera představila open-source AudioCraft s licencí MIT. Jde o generativní AI pro hudbu a audio z textového zadání. AudoCraft se skládá ze tří částí: MusicGen, AudioGen a EnCodec. MusicGen byl trénován na hudbě, kterou vlastní Meta a AudioGen na veřejných zvukových efektech.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's better: In-game memorials to players, or Dark Souls bonewheels?]]></title>
         <id>https://www.rockpapershotgun.com/whats-better-in-game-memorials-to-players-or-dark-souls-bonewheels</id>
         <link href="https://www.rockpapershotgun.com/whats-better-in-game-memorials-to-players-or-dark-souls-bonewheels"/>
@@ -4390,17 +4406,6 @@ Are you going to pick up any of these Jujutsu Kaisen Fortnite skins? Let us know
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best moment of Citizen Sleeper: meeting the stray cat]]></title>
-        <id>https://www.rockpapershotgun.com/the-best-moment-of-citizen-sleeper-meeting-the-stray-cat</id>
-        <link href="https://www.rockpapershotgun.com/the-best-moment-of-citizen-sleeper-meeting-the-stray-cat"/>
-        <updated>2023-08-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Citizen Sleeper is a game with lots of brilliant individual stories in it, even the ones that end so catastrophically badly that redemption seems nigh on impossible. But when I look back on this tabletop-infused RPG and think of my favourites, there is one that stands head and shoulders above the rest. It isn't one of Citizen Sleeper's more emotional story beats (I miss ya, Lem and Mina), nor is it its most thrilling (big love to my man Feng). Rather, it's one of the game's quietest and arguably least significant plot points, but the fact it's there at all is probably what cemented Citizen Sleeper as one of my favourite games of last year. It is, of course, befriending The Stray who takes up residence in your Lowend apartment.
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
         </author>
     </entry>
     <entry>
