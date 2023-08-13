@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-13T10:08:55.275Z</id>
+    <id>urn:2023-08-13T12:15:16.921Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-13T10:08:55.276Z</updated>
+    <updated>2023-08-13T12:15:16.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[RADV Ray-Tracing To Become Much Faster With New Driver Code]]></title>
+        <id>https://www.phoronix.com/news/RADV-Batch-Accel-RT</id>
+        <link href="https://www.phoronix.com/news/RADV-Batch-Accel-RT"/>
+        <updated>2023-08-13T10:45:03.000Z</updated>
+        <summary type="html"><![CDATA[The Mesa Radeon Vulkan "RADV" driver ray-tracing support is about to become much faster with a pending improvement that is currently undergoing review...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mold 2.1 Linker Brings LoongArch CPU Support]]></title>
+        <id>https://www.phoronix.com/news/Mold-2.1-Adds-LoongArch</id>
+        <link href="https://www.phoronix.com/news/Mold-2.1-Adds-LoongArch"/>
+        <updated>2023-08-13T10:32:01.000Z</updated>
+        <summary type="html"><![CDATA[Last month the Mold 2.0 high-speed linker was released that shifted from AGPL to MIT licensing after their monetization strategy didn't pan out. This weekend the project is out with its Mold 2.1 release as another step forward for this alternative linker to GNU Gold and LLVM LLD...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice Lands APNG Export Support]]></title>
+        <id>https://www.phoronix.com/news/LibreOffice-APNG-Support</id>
+        <link href="https://www.phoronix.com/news/LibreOffice-APNG-Support"/>
+        <updated>2023-08-13T10:24:57.000Z</updated>
+        <summary type="html"><![CDATA[Future LibreOffice releases will finally better handle animated PNG (APNG) files. After initial import support was added back in June, merged this week was initial export support for APNG files...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glibc log2 Function Up To 69% Faster Thanks To FMA]]></title>
+        <id>https://www.phoronix.com/news/Glibc-Faster-log2-FMA</id>
+        <link href="https://www.phoronix.com/news/Glibc-Faster-log2-FMA"/>
+        <updated>2023-08-13T10:08:03.000Z</updated>
+        <summary type="html"><![CDATA[Intel engineer and open-source compiler expert H.J. Lu has landed a much faster log2() implementation within the GNU C Library (glibc) that makes use of FMA instructions with modern x86_64 CPUs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl - Duel: Pokémon Stadium]]></title>
         <id>https://www.nintendolife.com/#article-153846</id>
@@ -34,7 +74,7 @@ Read more]]></summary>
         <id>https://www.nintendolife.com/#article-153839</id>
         <link href="https://www.nintendolife.com/news/2023/08/new-pokemon-scarlet-and-violet-dlc-trailer-reveals-past-gen-starters-and-much-more"/>
         <updated>2023-08-13T09:40:00.000Z</updated>
-        <summary type="html"><![CDATA["Surprises await in The Hidden Treasure Of Area Zero!".
+        <summary type="html"><![CDATA[Grass-type Mythical Pokémon Shaymin also spotted.
 Update :
 As promised, we've got some Pokémon Scarlet and Violet DLC news at the closing ceremony of the 2023 World Championships. It's focused on the Second DLC for The Hidden Treasure of Area Zero. Apart from the return of past-generation starters, here's a bit else about what's featured courtesy of Serebii.net:
 Read the full article on nintendolife.com]]></summary>
@@ -2506,16 +2546,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Lands Fix For AMD Zen 1 Bug That Could Leak Data After A Division By Zero]]></title>
-        <id>https://www.phoronix.com/news/AMD-Zen1-Divide-By-Zero-Bug</id>
-        <link href="https://www.phoronix.com/news/AMD-Zen1-Divide-By-Zero-Bug"/>
-        <updated>2023-08-09T18:27:52.000Z</updated>
-        <summary type="html"><![CDATA[After a rather busy Patch Tuesday with the AMD Inception vulnerability and Intel Downfall going public, the Linux kernel saw a new bug fix merged today for a different issue... It turns out original AMD Zen 1 processors could end up leaking data in certain conditions after a divide by zero occurs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Atlas Fallen review: middling action adventuring upheld by (mostly) stellar combat]]></title>
         <id>https://www.rockpapershotgun.com/atlas-fallen-review</id>
         <link href="https://www.rockpapershotgun.com/atlas-fallen-review"/>
@@ -2630,16 +2660,6 @@ In Stray Gods, you p…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Updated AMD Family 19h Microcode Published Following "Inception"]]></title>
-        <id>https://www.phoronix.com/news/AMD-Microcode-Inception</id>
-        <link href="https://www.phoronix.com/news/AMD-Microcode-Inception"/>
-        <updated>2023-08-09T13:48:36.000Z</updated>
-        <summary type="html"><![CDATA[Following yesterday's disclosure of the AMD "Inception" security vulnerability and the Linux kernel patches merged for reporting the mitigation status as well as the kernel-based handling for earlier generation Zen CPUs, the Family 19h microcode mitigations have now been picked up by the linux-firmware.git repository...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The one time I didn't pick everyone's pockets in Baldur's Gate 3 really came back to bite me]]></title>
         <id>https://www.rockpapershotgun.com/the-one-time-i-didnt-pick-everyones-pockets-in-baldurs-gate-3-really-came-back-to-bite-me</id>
         <link href="https://www.rockpapershotgun.com/the-one-time-i-didnt-pick-everyones-pockets-in-baldurs-gate-3-really-came-back-to-bite-me"/>
@@ -2691,26 +2711,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD P-State Preferred Core Handling Being Enabled For Linux]]></title>
-        <id>https://www.phoronix.com/news/AMD-Preferred-Core-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-Preferred-Core-Linux"/>
-        <updated>2023-08-09T10:21:36.000Z</updated>
-        <summary type="html"><![CDATA[A new set of patches have been posted for the Linux kernel that implement AMD P-State Preferred Core handling for the amd-pstate driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 6 Wayland Session: "It's Been Working Great!"]]></title>
-        <id>https://www.phoronix.com/news/Plasma-6-Wayland-Great</id>
-        <link href="https://www.phoronix.com/news/Plasma-6-Wayland-Great"/>
-        <updated>2023-08-09T09:51:48.000Z</updated>
-        <summary type="html"><![CDATA[As a lot of active development continues around the KDE Plasma 6 desktop and the developers eyeing a beta in a few months, it appears work on this Qt6-ported desktop environment is coming together quite nicely...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
