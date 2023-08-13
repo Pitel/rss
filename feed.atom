@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-13T12:15:16.921Z</id>
+    <id>urn:2023-08-13T14:07:35.068Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-13T12:15:16.921Z</updated>
+    <updated>2023-08-13T14:07:35.068Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Casefolding For Bcachefs File-System Posted]]></title>
+        <id>https://www.phoronix.com/news/Bcachefs-Case-Folding-Patches</id>
+        <link href="https://www.phoronix.com/news/Bcachefs-Case-Folding-Patches"/>
+        <updated>2023-08-13T13:06:36.000Z</updated>
+        <summary type="html"><![CDATA[The Bcachefs file-system continues to work its way toward the mainline kernel while interestingly this weekend a Valve developer posted patches for implementing case-folding (case insensitive) feature support for this open-source file-system...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailbox: Nintendo Life Letters Page - TOTK Overload, Patches, Geno-Lovers]]></title>
+        <id>https://www.nintendolife.com/#article-153820</id>
+        <link href="https://www.nintendolife.com/news/2023/08/mailbox-nintendo-life-letters-page-totk-overload-patches-geno-lovers"/>
+        <updated>2023-08-13T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Issue #3 - August 2023.
+Welcome back to the Nintendo Life Mailbox. We're deep into August, so let's dig into our inbox and see what's been spinning 'round those brainboxes of yours over the past month, shall we?
+Got something you want to get off your chest? We're ready and waiting to read about your game-related ponderings. Each month we’ll highlight a Star Letter, the writer of which will receive a month’s subscription to our ad-free Supporter scheme. Check out the submission guidelines at the bottom of this page for information on how to have your short, sharp correspondence drop on our digital doormat.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RADV Ray-Tracing To Become Much Faster With New Driver Code]]></title>
         <id>https://www.phoronix.com/news/RADV-Batch-Accel-RT</id>
@@ -1428,19 +1451,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reminder: Splatoon 3's Priorities-Themed Splatfest Kicks Off This Weekend]]></title>
-        <id>https://www.nintendolife.com/#article-153216</id>
-        <link href="https://www.nintendolife.com/news/2023/08/reminder-splatoon-3s-priorities-themed-splatfest-kicks-off-this-weekend"/>
-        <updated>2023-08-11T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Are you Team Money, Fame or Love?
-Update : It feels like the weeks since the initial announcement of Splatoon 3's upcoming Splatfest have gone by in a flash, so this is your friendly reminder that the latest event gets underway this weekend.
-The question this time around is "What's most important in life?" with teams Money, Fame and Love all being up for grabs — it's a little more philosophical than the previous ice cream-themed events, we'll admit, but hey, Inklings have feelings too.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bethesda and AMD announce limited edition Starfield GPU and CPU at Quakecon]]></title>
         <id>https://www.rockpapershotgun.com/bethesda-and-amd-announce-limited-edition-starfield-gpu-and-cpu-at-quakecon</id>
         <link href="https://www.rockpapershotgun.com/bethesda-and-amd-announce-limited-edition-starfield-gpu-and-cpu-at-quakecon"/>
@@ -2498,16 +2508,6 @@ Read more...]]></summary>
         <link href="https://www.phoronix.com/news/Intel-Plans-AVX10-LLVM"/>
         <updated>2023-08-09T20:30:32.000Z</updated>
         <summary type="html"><![CDATA[In addition to Intel posting initial AVX10.1 patches for the GCC compiler, Intel has also begun sorting out their AVX10 plans for the LLVM/Clang compiler stack...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Initial Benchmarks Of The Intel Downfall Mitigation Performance Impact]]></title>
-        <id>https://www.phoronix.com/review/intel-downfall-benchmarks</id>
-        <link href="https://www.phoronix.com/review/intel-downfall-benchmarks"/>
-        <updated>2023-08-09T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With yesterday's disclosure of the Intel Downfall speculative execution vulnerability and the updated CPU microcode and Linux kernel patches I have been very busy testing the performance impact of this mitigation. Here are some initial numbers and workloads I have found to be impacted as a result of this security mitigation for Skylake to Icelake/Tigerlake client and server processors.]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
