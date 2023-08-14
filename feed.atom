@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-14T06:12:29.697Z</id>
+    <id>urn:2023-08-14T08:12:35.556Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-14T06:12:29.697Z</updated>
+    <updated>2023-08-14T08:12:35.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Proxmox: moderní virtualizační platforma schopná nahradit VMware (online školení)]]></title>
+        <id>www.root.cz-actuality-40445</id>
+        <link href="https://www.root.cz/zpravicky/proxmox-moderni-virtualizacni-platforma-schopna-nahradit-vmware-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-14T07:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox je moderní virtualizační platforma, která v mnoha případech může nahradit VMware. Je open-source, zdarma a je postaven na otevřených technologiích jako KVM, LXC, CEPH a dalších. Pokud potřebujete provozovat virtualizaci, Proxmox je pro vás ideální stack a na našem workshopu se dozvíte, jak na něj.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mona Lisa Fluid Painting | #MagPiMonday]]></title>
+        <id>https://www.raspberrypi.com/?p=99790</id>
+        <link href="https://www.raspberrypi.com/news/mona-lisa-fluid-painting-magpimonday/"/>
+        <updated>2023-08-14T07:44:35.000Z</updated>
+        <summary type="html"><![CDATA[A creative way of demonstrating the capabilities of microfluidic biosensors, captured on a Raspberry Pi HQ Camera, caught the eye of Rosie Hattersley. 
+The post Mona Lisa Fluid Painting | #MagPiMonday appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Rosie Hattersley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glibc přidává optimalizaci log2 pro FMA, je rychlejší o 34 %]]></title>
+        <id>www.root.cz-actuality-45004</id>
+        <link href="https://www.root.cz/zpravicky/glibc-pridava-optimalizaci-log2-pro-fma-je-rychlejsi-o-34/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-14T07:01:03.000Z</updated>
+        <summary type="html"><![CDATA[H. J. Lu z Intelu přidal minulý týden do knihovny Glibc optimalizovanou funkci log2 pro x86_64 s instrukcemi FMA (Fused multiply-add). Tyto instrukce má Intel od Haswellu a AMD od Piledriveru. Nová implementace je rychlejší až o 69 %, v průměru pak o 34 %.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: letní hackerský tábor]]></title>
         <id>www.root.cz-text-16723</id>
@@ -854,19 +885,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Titan Quest 2 announced with a "hand-crafted" open world]]></title>
-        <id>https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world</id>
-        <link href="https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world"/>
-        <updated>2023-08-11T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[THQ Nordic have announced Titan Quest 2, a sequel to Iron Lore Entertainment's action RPG of 2006, which was kind of a classical variation on Diablo with players touring Ancient Greece, Egypt and China in search of chthonic beasts to slay. The new game is the work of Grimlore Games, creator of Spellforce III and one of THQ Nordic's first internal development studios. It sees you hunting down Nemesis, goddess of retribution, who has gone a bit do-lally and is meddling with the Threads of Fate.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Outcast: A New Beginning wants to be a caring open world shooter]]></title>
         <id>https://www.rockpapershotgun.com/outcast-a-new-beginning-wants-to-be-a-caring-open-world-shooter</id>
         <link href="https://www.rockpapershotgun.com/outcast-a-new-beginning-wants-to-be-a-caring-open-world-shooter"/>
@@ -884,6 +902,19 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/alien-landlord-sim-space-for-sale-looks-thrillingly-unsavoury"/>
         <updated>2023-08-11T19:30:00.000Z</updated>
         <summary type="html"><![CDATA[Way back in the dingy darkness of 1997 I played a property management sim called Constructor, in which you could do things like bury rivals in their own cement, and have your foreman take down the other guy's hooligans with a shotgun. I've never played any property sim that's quite as nasty, but I do get a similar vibe from Mirage Game Studios' Space For Sale, published by THQ Nordic, in which one or two players throw together budget rentals for aliens on a decidedly unfriendly planet. We caught a glimpse of it at a presentation a few days ago, and despite my better nature I am keen to dig in.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titan Quest 2 announced with a "hand-crafted" open world]]></title>
+        <id>https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world</id>
+        <link href="https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world"/>
+        <updated>2023-08-11T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[THQ Nordic have announced Titan Quest 2, a sequel to Iron Lore Entertainment's action RPG of 2006, which was kind of a classical variation on Diablo with players touring Ancient Greece, Egypt and China in search of chthonic beasts to slay. The new game is the work of Grimlore Games, creator of Spellforce III and one of THQ Nordic's first internal development studios. It sees you hunting down Nemesis, goddess of retribution, who has gone a bit do-lally and is meddling with the Threads of Fate.
 
  
 Read more]]></summary>
@@ -3876,16 +3907,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CISA, FBI a NSA zveřejnily nejčastěji zneužívané zranitelnosti za rok 2022]]></title>
-        <id>www.root.cz-actuality-44980</id>
-        <link href="https://www.root.cz/zpravicky/cisa-fbi-a-nsa-zverejnily-nejcasteji-zneuzivane-zranitelnosti-za-rok-2022/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-04T08:15:04.000Z</updated>
-        <summary type="html"><![CDATA[CISA, FBI a NSA zveřejnily seznam dvanácti nejčastěji zneužívaných bezpečnostních chyb v roce 2022. Agentury pro kybernetickou bezpečnost ve Spojených státech, Austrálii, Kanadě, na Novém Zélandu a ve Spojeném království vyzvají organizace po celém světě, aby se těmito bezpečnostními nedostatky zabývaly a zavedly systémy správy záplat, aby minimalizovaly své vystavení potenciálním útokům.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Týden na ScienceMag.cz: Efektivní algoritmus pro optimalizaci balení]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-efektivni-algoritmus-pro-optimalizaci-baleni</id>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-efektivni-algoritmus-pro-optimalizaci-baleni"/>
@@ -3893,16 +3914,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Těžký led má roztáhlejší mřížku než lehký, ale to je právě divné. Analogový počítač z mýdlových bublin. Nejpřesnější určení hmotnosti Higgsova bosonu. Nová teorie vysvětluje rychlý vznik velmi hmotných černých děr. Bludné planety bez hvězd.Těžký led má roztáhlejší mřížku než lehký, ale to je právě divné. Analogový počítač z mýdlových bublin. Nejpřesnější určení hmotnosti Higgsova bosonu. Nová teorie vysvětluje rychlý vznik velmi hmotných černých děr. Bludné planety bez hvězd.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Java Akademie: večerní kurzy pro vývojáře (školení)]]></title>
-        <id>www.root.cz-actuality-42281</id>
-        <link href="https://www.root.cz/zpravicky/online-java-akademie-vecerni-kurzy-pro-vyvojare-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-04T07:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Java je jedním z nejžádanějších a nejoblíbenějších jazyků. Není divu, když v Javě napíšete aplikace pro servery, mobily, Smart TV nebo třeba IoT. Chcete se naučit psát v jazyce Java a využít jeho možností naplno? Online Java Akademie je kurz ve formě live webinářů s lektorem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -4656,17 +4667,6 @@ Since the launch of the PS5, audiophiles have asked for Dolby Atmos audio suppor
 “3D Audio powered by Tempest 3D AudioTech can now be enjoyed by those who own compatible Dolby Atmos-enabled HDMI devices such as soundbars, TVs, or home theater systems,” a PlayStation Blog pos…]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deckility handheld PC | #MagPiMonday]]></title>
-        <id>https://www.raspberrypi.com/?p=99207</id>
-        <link href="https://www.raspberrypi.com/news/deckility-handheld-pc-magpimonday/"/>
-        <updated>2023-07-31T08:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Want to take Raspberry Pi OS out on the road with you? Then you need Ken Van Hoeylandt’s handheld PC, Deckility.
-The post Deckility handheld PC | #MagPiMonday appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>David Crookes</name>
         </author>
     </entry>
     <entry>
