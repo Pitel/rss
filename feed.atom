@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-19T10:08:46.638Z</id>
+    <id>urn:2023-08-19T12:15:10.400Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-19T10:08:46.638Z</updated>
+    <updated>2023-08-19T12:15:10.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Orange Pi 5 Support Nears The Mainline Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Orange-Pi-5-DT-Mainline-Patches</id>
+        <link href="https://www.phoronix.com/news/Orange-Pi-5-DT-Mainline-Patches"/>
+        <updated>2023-08-19T10:45:23.000Z</updated>
+        <summary type="html"><![CDATA[The DeviceTree additions to allow the Orange Pi 5 64-bit ARM single board computer (SBC) to work on the upstream Linux kernel are working their way closer to mainline...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Inception "SRSO" Mitigation Cleanup & Fixes Head To Linux 6.5-rc7]]></title>
+        <id>https://www.phoronix.com/news/AMD-Inception-Cleanups</id>
+        <link href="https://www.phoronix.com/news/AMD-Inception-Cleanups"/>
+        <updated>2023-08-19T10:28:28.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this month the AMD Inception vulnerability was disclosed and quickly mitigated within the mainline Linux kernel and back-ported to the stable kernels. In the rush to get the code merged and the mitigation being under embargo until the disclosure date, some bugs and clean-ups with the mitigation code were discovered. That revised code was now submitted today for merging ahead of the Linux 6.5-rc7 kernel release this weekend...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE Plasma 6 Default Behavior Is Now Double-Click For Opening Files/Folders]]></title>
         <id>https://www.phoronix.com/news/KDE-Plasma-6-Double-Click</id>
@@ -2916,26 +2936,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Devuan 5.0 Released For Debian 12 Without systemd]]></title>
-        <id>https://www.phoronix.com/news/Devuan-5.0-Released</id>
-        <link href="https://www.phoronix.com/news/Devuan-5.0-Released"/>
-        <updated>2023-08-15T14:26:28.000Z</updated>
-        <summary type="html"><![CDATA[Devuan is still alive and well for those wanting to run Debian GNU/Linux but without systemd. Devuan 5.0 is out today as the newest distro release that is now rebased atop Debian 12 Bookworm...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox Finally Outperforming Google Chrome In SunSpider]]></title>
-        <id>https://www.phoronix.com/news/Firefox-Faster-SunSpider</id>
-        <link href="https://www.phoronix.com/news/Firefox-Faster-SunSpider"/>
-        <updated>2023-08-15T13:53:05.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla developers are celebrating that they are now faster than Google Chrome with the SunSpider JavaScript benchmark, although that test has been superseded by the JetStream benchmark...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gord review: fertile ground covered in stagnant water, also swamps]]></title>
         <id>https://www.rockpapershotgun.com/gord-review</id>
         <link href="https://www.rockpapershotgun.com/gord-review"/>
@@ -3628,6 +3628,19 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Titan Quest 2 announced with a "hand-crafted" open world]]></title>
+        <id>https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world</id>
+        <link href="https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world"/>
+        <updated>2023-08-11T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[THQ Nordic have announced Titan Quest 2, a sequel to Iron Lore Entertainment's action RPG of 2006, which was kind of a classical variation on Diablo with players touring Ancient Greece, Egypt and China in search of chthonic beasts to slay. The new game is the work of Grimlore Games, creator of Spellforce III and one of THQ Nordic's first internal development studios. It sees you hunting down Nemesis, goddess of retribution, who has gone a bit do-lally and is meddling with the Threads of Fate.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Outcast: A New Beginning wants to be a caring open world shooter]]></title>
         <id>https://www.rockpapershotgun.com/outcast-a-new-beginning-wants-to-be-a-caring-open-world-shooter</id>
         <link href="https://www.rockpapershotgun.com/outcast-a-new-beginning-wants-to-be-a-caring-open-world-shooter"/>
@@ -3645,19 +3658,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/alien-landlord-sim-space-for-sale-looks-thrillingly-unsavoury"/>
         <updated>2023-08-11T19:30:00.000Z</updated>
         <summary type="html"><![CDATA[Way back in the dingy darkness of 1997 I played a property management sim called Constructor, in which you could do things like bury rivals in their own cement, and have your foreman take down the other guy's hooligans with a shotgun. I've never played any property sim that's quite as nasty, but I do get a similar vibe from Mirage Game Studios' Space For Sale, published by THQ Nordic, in which one or two players throw together budget rentals for aliens on a decidedly unfriendly planet. We caught a glimpse of it at a presentation a few days ago, and despite my better nature I am keen to dig in.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Titan Quest 2 announced with a "hand-crafted" open world]]></title>
-        <id>https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world</id>
-        <link href="https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world"/>
-        <updated>2023-08-11T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[THQ Nordic have announced Titan Quest 2, a sequel to Iron Lore Entertainment's action RPG of 2006, which was kind of a classical variation on Diablo with players touring Ancient Greece, Egypt and China in search of chthonic beasts to slay. The new game is the work of Grimlore Games, creator of Spellforce III and one of THQ Nordic's first internal development studios. It sees you hunting down Nemesis, goddess of retribution, who has gone a bit do-lally and is meddling with the Threads of Fate.
 
  
 Read more]]></summary>
