@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-20T14:07:38.233Z</id>
+    <id>urn:2023-08-20T16:10:28.851Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-20T14:07:38.233Z</updated>
+    <updated>2023-08-20T16:10:28.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux DRM Firmware Repo Established For Queuing New GPU Firmware]]></title>
+        <id>https://www.phoronix.com/news/Linux-DRM-Firmware-Repository</id>
+        <link href="https://www.phoronix.com/news/Linux-DRM-Firmware-Repository"/>
+        <updated>2023-08-20T14:05:02.000Z</updated>
+        <summary type="html"><![CDATA[The linux-firmware.git Git repository on the kernel.org Git repository has been the de facto location for collecting all of the microcode/firmware files needed by upstream Linux kernel drivers. The linux-firmware.git repository is the centralized repository for all firmware files, including the GPU/DRM graphics drivers. Now though a dedicated DRM firmware repository is being established as a staging area for new GPU firmware prior to being picked up by linux-firmware.git...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Libraries Scold Rightsholders’ Attempt to Tweak South Africa’s Copyright Bill]]></title>
         <id>https://torrentfreak.com/?p=239062</id>
@@ -2604,16 +2614,6 @@ For more previews and discussions of some of the biggest games of 2023 and beyo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Imagination Tech Posts Updated PowerVR Linux DRM Driver]]></title>
-        <id>https://www.phoronix.com/news/Imagination-PowerVR-DRM-v5</id>
-        <link href="https://www.phoronix.com/news/Imagination-PowerVR-DRM-v5"/>
-        <updated>2023-08-16T09:57:03.000Z</updated>
-        <summary type="html"><![CDATA[Imagination Technologies has posted the fifth iteration of their driver patches for supporting PowerVR Rogue graphics with an open-source Linux kernel Direct Rendering Manager (DRM) driver that will go along with their Mesa PVR Vulkan driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Genshin Impact 4.0 is out, adding new sunken kingdom area, water mechanics, distracting tophats]]></title>
         <id>https://www.rockpapershotgun.com/genshin-impact-40-is-out-adding-new-sunken-kingdom-area-water-mechanics-distracting-tophats</id>
         <link href="https://www.rockpapershotgun.com/genshin-impact-40-is-out-adding-new-sunken-kingdom-area-water-mechanics-distracting-tophats"/>
@@ -3699,19 +3699,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Titan Quest 2 announced with a "hand-crafted" open world]]></title>
-        <id>https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world</id>
-        <link href="https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world"/>
-        <updated>2023-08-11T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[THQ Nordic have announced Titan Quest 2, a sequel to Iron Lore Entertainment's action RPG of 2006, which was kind of a classical variation on Diablo with players touring Ancient Greece, Egypt and China in search of chthonic beasts to slay. The new game is the work of Grimlore Games, creator of Spellforce III and one of THQ Nordic's first internal development studios. It sees you hunting down Nemesis, goddess of retribution, who has gone a bit do-lally and is meddling with the Threads of Fate.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Outcast: A New Beginning wants to be a caring open world shooter]]></title>
         <id>https://www.rockpapershotgun.com/outcast-a-new-beginning-wants-to-be-a-caring-open-world-shooter</id>
         <link href="https://www.rockpapershotgun.com/outcast-a-new-beginning-wants-to-be-a-caring-open-world-shooter"/>
@@ -3729,6 +3716,19 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/alien-landlord-sim-space-for-sale-looks-thrillingly-unsavoury"/>
         <updated>2023-08-11T19:30:00.000Z</updated>
         <summary type="html"><![CDATA[Way back in the dingy darkness of 1997 I played a property management sim called Constructor, in which you could do things like bury rivals in their own cement, and have your foreman take down the other guy's hooligans with a shotgun. I've never played any property sim that's quite as nasty, but I do get a similar vibe from Mirage Game Studios' Space For Sale, published by THQ Nordic, in which one or two players throw together budget rentals for aliens on a decidedly unfriendly planet. We caught a glimpse of it at a presentation a few days ago, and despite my better nature I am keen to dig in.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titan Quest 2 announced with a "hand-crafted" open world]]></title>
+        <id>https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world</id>
+        <link href="https://www.rockpapershotgun.com/titan-quest-2-announced-with-a-hand-crafted-open-world"/>
+        <updated>2023-08-11T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[THQ Nordic have announced Titan Quest 2, a sequel to Iron Lore Entertainment's action RPG of 2006, which was kind of a classical variation on Diablo with players touring Ancient Greece, Egypt and China in search of chthonic beasts to slay. The new game is the work of Grimlore Games, creator of Spellforce III and one of THQ Nordic's first internal development studios. It sees you hunting down Nemesis, goddess of retribution, who has gone a bit do-lally and is meddling with the Threads of Fate.
 
  
 Read more]]></summary>
