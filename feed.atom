@@ -1,15 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-22T10:10:12.358Z</id>
+    <id>urn:2023-08-22T12:17:20.391Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-22T10:10:12.358Z</updated>
+    <updated>2023-08-22T12:17:20.391Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Podepisovací ochrana Nvidia BIOS prolomena]]></title>
+        <id>www.root.cz-actuality-45031</id>
+        <link href="https://www.root.cz/zpravicky/podepisovaci-ochrana-nvidia-bios-prolomena/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-22T12:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Poslední generací GPU Nvidia, které nevyžadovaly pro svoji plnou funkčnost digitálně podepsaný firmware v podobě binárního blobu, byla zhruba 10 let stará generace GeForce GTX 700. Vše další už vyžaduje digitálně podepsaný firmware, což činí obrovský problém například open-source ovladači nouveau, resp. jeho vývojářům. Proto jsou grafické karty s GPU Nvidia na Linuxu rozumně použitelné jen s uzavřeným ovladačem přímo od Nvidie. Ale to se možná změní.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metal Gear Solid 2 And 3 Will Have Lower Frame Rates On Switch, Konami Confirms]]></title>
+        <id>https://www.nintendolife.com/#article-154343</id>
+        <link href="https://www.nintendolife.com/news/2023/08/metal-gear-solid-2-and-3-will-have-lower-frame-rates-on-switch-konami-confirms"/>
+        <updated>2023-08-22T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA["This isn't good, is it?".
+When we attended a hands-on session for Konami's upcoming Metal Gear Solid: Master Collection Vol. 1, we were undoubtedly disappointed to find that Metal Gear Solid 2: Sons of Liberty and Metal Gear Solid 3: Snake Eater were both running at 30fps on Switch. This is depite the fact that both HD versions ran at 60fps back in 2012 when released for the Xbox 360 and PlayStation 3.
+While we were unable to definitively confirm at the time whether the games ran at the same frame rate on other systems, Konami has now provided a statement to VGC to clarify that it is only the Switch release that is targeting 30fps. All other platforms will target the games at 60fps.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft set to buy cloud streaming rights to Activision Blizzard games from Microsoft]]></title>
+        <id>https://www.rockpapershotgun.com/ubisoft-set-to-buy-cloud-streaming-rights-to-activision-blizzard-games-from-microsoft</id>
+        <link href="https://www.rockpapershotgun.com/ubisoft-set-to-buy-cloud-streaming-rights-to-activision-blizzard-games-from-microsoft"/>
+        <updated>2023-08-22T11:12:55.000Z</updated>
+        <summary type="html"><![CDATA[In an attempt to appease the UK’s Competition And Markets Authority (CMA), Microsoft have restructured their proposed Activision Blizzard buyout. Should the deal finally close, cloud streaming rights to existing and future Activision Blizzard games released over the next 15 years will (surprisingly) fall under Ubisoft’s control. Those rights will then stay with Ubisoft “in perpetuity.”
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Kaan Serin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pozvánka na 201. sraz OpenAltu v Brně]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/pozvanka-na-201.-sraz-openaltu-v-brne</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/pozvanka-na-201.-sraz-openaltu-v-brne"/>
+        <updated>2023-08-22T11:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Spolek OpenAlt zve příznivce otevřených řešení a přístupu na 201. brněnský sraz, který proběhne v pátek 25. srpna v hospůdce Na hřišti / U dědka.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-Piracy Lessons Enter the School Curriculum: Are You a Thief?]]></title>
+        <id>https://torrentfreak.com/?p=239079</id>
+        <link href="https://torrentfreak.com/anti-piracy-lessons-enter-the-school-curriculum-are-you-a-thief-230822/"/>
+        <updated>2023-08-22T10:55:31.000Z</updated>
+        <summary type="html"><![CDATA[High school students are educated on a wide variety of topics, helping them to understand and become productive members of society. In Denmark, a new course was recently announced by local anti-piracy group Rights Alliance and publisher Gyldendal. With support from the government, the new curriculum educates young Danes on copyright and piracy. 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fwupd 1.9.4 Released With Linux Firmware Updating For More Devices]]></title>
+        <id>https://www.phoronix.com/news/Fwupd-1.9.4</id>
+        <link href="https://www.phoronix.com/news/Fwupd-1.9.4"/>
+        <updated>2023-08-22T10:35:06.000Z</updated>
+        <summary type="html"><![CDATA[Richard Hughes of Red Hat has just released Fwupd 1.9.4 as the newest version of thus open-source software that goes along with the Linux Vendor Firmware Service (LVFS) for making it easy to deploy new firmware/BIOS updates for systems and countless peripherals under Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rakudo 2023.08]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/rakudo-2023.08</id>
         <link href="http://www.abclinuxu.cz/zpravicky/rakudo-2023.08"/>
-        <updated>2023-08-22T10:01:22.000Z</updated>
+        <updated>2023-08-22T10:01:21.000Z</updated>
         <summary type="html"><![CDATA[Rakudo (Wikipedie), tj. překladač programovacího jazyka Raku (Wikipedie), byl vydán ve verzi 2023.08. Programovací jazyk Raku byl dříve znám pod názvem Perl 6.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -111,6 +178,19 @@ Indeed, this first person sorcery adventure will be hell on your hardware, even 
 Read more]]></summary>
         <author>
             <name>James Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: Gamescom 2023 Opening Night Live: Everything You Need To Know - Date, Time, Where To Stream]]></title>
+        <id>https://www.nintendolife.com/#article-153953</id>
+        <link href="https://www.nintendolife.com/guides/gamescom-2023-opening-night-live-everything-you-need-to-know-date-time-where-to-stream"/>
+        <updated>2023-08-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Deep breath, Geoff.
+We're approaching the end of August and, just like clockwork, Geoff Keighley is gearing up to serve us another steaming bowl of gaming news directly from the not-E3 of Europe, Gamescom 2023.
+As ever, the event this year will be held in Cologne, Germany, getting off to the races with a meaty Opening Night Live showcase to close out the summer of gaming with a bang. This will be presented by Mr. Video Games himself, the Geoff Keighley, and promises enough announcements, reveals and interviews to make you forget just how much time has passed since Summer Game Fest.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -238,6 +318,17 @@ While the digital version will be released at the end of this month on 29th Augu
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 08/21/2023]]></title>
+        <id>https://torrentfreak.com/?p=186926</id>
+        <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
+        <updated>2023-08-21T23:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Elemental' tops the chart, followed by 'Spider-Man: Across the Spider-Verse'. ‘Guardians of the Galaxy Vol. 3' completes the top three.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
@@ -864,18 +955,16 @@ The post Resident Evil 4 VR mode scheduled to appear at Tokyo Game Show 2023 app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Reveals Charles Martinet Will No Longer Voice Mario]]></title>
+        <title type="html"><![CDATA[Update: Nintendo Confirms Charles Martinet Does Not Voice Mario In Super Mario Bros. Wonder]]></title>
         <id>120964</id>
         <link href="https://www.gameinformer.com/news/2023/08/21/nintendo-reveals-charles-martinet-will-no-longer-voice-mario"/>
         <updated>2023-08-21T14:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo of America has revealed that Charles Martinet, the longtime voice of Mario in the company’s various Mario games, is stepping back from the role and will no longer record lines for the character. 
-Nintendo announced this in a tweet posted today, revealing that Martinet is now moving into “the brand-new role of Mario Ambassador.” While he is stepping back from recording lines for Mario, Nintendo says Martinet will continue to travel the world to interact with fans and share the joy of the character. 
-We have a message for fans of the Mushroom Kingdom. Please take a look. pic.twitter.com/U1ASicOuTO
-August 21, 2023
-Martinet has been the voice of Mario in the mainline games since Super Mario 64 in 1996. That’s more than 25  years as one of the most popular mascots of all time. Nintendo says it will share a special video message from Mario creator Shigeru Miyamoto and Martinet at a later date. 
-This news is out of left field, as it’s unclear why Martinet will no longer voice the character. Perhaps Nintendo wishes to take the voice in a different direction – it hired Chris Pratt to voice Mario in this year’s massively successful The Super Mario Bros. Movie. Perhaps Martinet simply wants to move on from the character, although that seems unlikely as he’s now in a new role of Mario Ambassador, according to Nintendo. 
-Regardless of why, Martinet’s voice as Mario will be missed. Mario’s next outing, Super Mario Bros. Wonder, hits Switch this October but given today’s news, it’s now unclear if Martinet is the voice of Mario in that game. Game Informer has reached out to Nintendo to ask for confirmation on whether Martinet is the voice of Mario in Super Mario Bros. Wonder and will update the story if comment is received. 
-What do you think of this news? Let us know in the comments below!]]></summary>
+        <summary type="html"><![CDATA[Update, 8/22/23: 
+Yesterday, after Nintendo announced the news that Charles Martinet would no longer be voicing Mario and would instead work for the company as a "Mario Ambassador," a brand new role, Game Informer reached out to ask if Martinet voices Mario in Super Mario Bros. Wonder. Nintendo says he does not. 
+"While Charles is not involved in Super Mario Bros. Wonder, we're excited to honor his legacy and contributions, including looking ahead to what he'll be doing as Mario Ambassador. Character voice actor will be credited in the game credits, so please wait for the game to be released." 
+The original story continues below...
+Original story, 8/21/23: 
+Nintendo of America has revealed that Charles Martinet, the longtime voice of Mario in the company’s various Mario games, is stepping …]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
         </author>
@@ -1577,19 +1666,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Round Up: The Reviews Are In For Bomb Rush Cyberfunk]]></title>
-        <id>https://www.nintendolife.com/#article-154228</id>
-        <link href="https://www.nintendolife.com/news/2023/08/round-up-the-reviews-are-in-for-bomb-rush-cyberfunk"/>
-        <updated>2023-08-19T02:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's what the critics had to say.
-It's been an action-packed week of releases on the Switch, with a number of highly anticipated releases launching on the hybrid platform.
-In amongst the likes of Red Dead Redemption and Vampire Survivors, we've got Team Reptile's Jet Set-inspired game Bomb Rush Cyberfunk. Now that the game is out on Switch, the critic and YouTube reviews have begun rolling out.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Událo se v týdnu 33/2023]]></title>
         <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-33-2023</id>
         <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-33-2023"/>
@@ -1791,19 +1867,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[For those that happen to have a Google Stadia gaming controller from the days of Google's cloud gaming service, the Linux 6.6 kernel is adding a new driver to enable force feedback (rumble) support with these controllers...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random: Chicago Bulls Announce Upcoming NBA Schedule With A Classic Pokémon Tribute]]></title>
-        <id>https://www.nintendolife.com/#article-154226</id>
-        <link href="https://www.nintendolife.com/news/2023/08/random-chicago-bulls-announce-upcoming-nba-schedule-with-a-classic-pokemon-tribute"/>
-        <updated>2023-08-18T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA["Meet us in the gym".
-We have just a few months to go before the NBA tips off in October and the teams are beginning to reveal their schedules for the 2023-24 season. Normally, this news is nothing to do with Nintendo — it's just a bunch of sports teams posting images of their filled-in calendars — but the Chicago Bulls have caught our attention this year with their Pokémon-inspired announcement.
-Instead of simply revealing the team's upcoming dates, the Bulls have published their schedule in the style of Pokémon Red and Blue (check it out above). There's no calendar in sight as Benny the Bull (the team mascot) rides a bike around a pixel art Chicago, visiting gyms and challenging any trainers that he comes across. These opponents are other familiar faces from around the league, with Benny & co. facing off against the likes of Victor Wembanyama, Nikola Jokic and Lebron James, all in the style of a classic Pokémon battle.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2265,16 +2328,6 @@ The bigger news is that its business model is seemingly up in the air. Publisher
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUSE To Be Taken Private By Its Largest Shareholder]]></title>
-        <id>https://www.phoronix.com/news/SUSE-Going-Private</id>
-        <link href="https://www.phoronix.com/news/SUSE-Going-Private"/>
-        <updated>2023-08-17T20:55:37.000Z</updated>
-        <summary type="html"><![CDATA[The SUSE organization has changed hands many times over the years... From being its own independent company to the notable acquisition by Novell two decades ago. Over the past decade SUSE has changed hands between Attachmate, Micro Focus, EQT Partners, and then went public back in 2021 on the Frankfurt Stock Exchange. Now two years later it is being taken private...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2849,18 +2902,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Tvůrci „komerční implementace Wine“ uvádí u nové verze CrossOver 23 pět hlavních novinek. První je podpora DirectX 12 na macOS, která mimo jiné znamená běh her jako Diablo II Resurrected a Diablo IV na macOS Ventura (jde o první DX12 hry, které na této verzi běží, další tituly máme očekávat). Druhou novinkou je podpora Geometry shaderů a transformací na macOS, díky čemuž opět poběží řada dosud nefunkční her (např. TEKKEN 7, Street Fighter V, MechWarrior 5: Mercenaries ad.) – s dodatkem, že nejlepší výsledky jsou při běhu přes wined3d (Wine implementace Direct3D) namísto obvyklého DXVK (mapujícího Direct3D na Vulkan).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MagPi 132 a HackSpace 69]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/magpi-132-a-hackspace-69</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/magpi-132-a-hackspace-69"/>
-        <updated>2023-08-17T07:03:53.000Z</updated>
-        <summary type="html"><![CDATA[Nová čísla časopisů od nakladatelství Raspberry Pi:
-MagPi 132 (pdf) a
-HackSpace 69 (pdf).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3597,16 +3638,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Oprava Zenbleed i pro Steam Deck]]></title>
-        <id>www.root.cz-actuality-45009</id>
-        <link href="https://www.root.cz/zpravicky/oprava-zenbleed-i-pro-steam-deck/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-15T06:20:33.000Z</updated>
-        <summary type="html"><![CDATA[Vedle spousty jiných procesorů AMD je stiženo chybou Zenbleed i APU v přenosné konzoli Steam Deck. Na to se nějak při záplatování pro všechny ty Zen 2 CPU zapomnělo (jde o AMD Custom APU 0405), takže nyní do jádra míří drobná, avšak urgentní úprava, která zahrne právě i Steam Deck.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IPv6 u největších českých operátorů v roce 2023: Vodafone a ti druzí]]></title>
         <id>www.root.cz-text-16727</id>
         <link href="https://www.root.cz/clanky/ipv6-u-nejvetsich-ceskych-operatoru-v-roce-2023-vodafone-a-ti-druzi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3870,17 +3901,6 @@ The post Mona Lisa Fluid Painting | #MagPiMonday appeared first on Raspberry Pi.
         <summary type="html"><![CDATA[Media3 Version 1.1.1]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 08/14/2023]]></title>
-        <id>https://torrentfreak.com/?p=186926</id>
-        <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
-        <updated>2023-08-13T23:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Spider-Man: Across the Spider-Verse' tops the chart, followed by 'No Hard Feelings'. ‘Guardians of the Galaxy Vol. 3' completes the top three.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
@@ -4306,28 +4326,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A další novinky ze světa supravodivosti. Výzkum se zaměřuje na palladium. Hydrid lutecia dopovaný dusíkem. Rekord pro prvek: skandium. Databáze má těžařům pomoci vybrat si asteroid. Odhalování anatomie černých děr. Obyvatelnost terminátorových planet. Mitochondriální teorie stárnutí.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Rippers Run Out of Money, Give Up On $83m RIAA Legal Battle]]></title>
-        <id>https://torrentfreak.com/?p=238869</id>
-        <link href="https://torrentfreak.com/youtube-rippers-run-out-of-money-give-up-on-83m-riaa-legal-battle-230810/"/>
-        <updated>2023-08-10T20:02:16.000Z</updated>
-        <summary type="html"><![CDATA[The Russian operator of YouTube rippers FLVTO.biz and 2conv.com voluntarily dismissed his appeal against the RIAA this week. According to his attorney, the operator ran out of money so is unable to fund a legal battle in a foreign court. As a result, the $83 million DMCA circumvention verdict stands.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get the fastest gaming CPU, bar none, for £40 off - with free Starfield and blue light glasses]]></title>
-        <id>https://www.rockpapershotgun.com/get-the-fastest-gaming-cpu-bar-none-for-40-off-with-free-starfield-and-blue-light-glasses</id>
-        <link href="https://www.rockpapershotgun.com/get-the-fastest-gaming-cpu-bar-none-for-40-off-with-free-starfield-and-blue-light-glasses"/>
-        <updated>2023-08-10T19:49:54.000Z</updated>
-        <summary type="html"><![CDATA[What comes with free Gunnar blue light glasses and a copy of Starfield? Yup, it's the AMD Ryzen 7 7800X3D when you buy it from Scan, and no I didn't expect that either. Still, these freebies are on top of the lowest price we've ever seen for the fastest gaming CPU on the market, making this a deal that's well worth your time if you're considering a new gaming rig. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
         </author>
     </entry>
     <entry>
