@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-25T06:12:19.637Z</id>
+    <id>urn:2023-08-25T08:12:02.309Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-25T06:12:19.637Z</updated>
+    <updated>2023-08-25T08:12:02.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Principy a správa DNS: naučte se pracovat s doménami (školení)]]></title>
+        <id>www.root.cz-actuality-44630</id>
+        <link href="https://www.root.cz/zpravicky/principy-a-sprava-dns-naucte-se-pracovat-s-domenami-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-25T07:56:49.000Z</updated>
+        <summary type="html"><![CDATA[Protokol DNS je jedním z nejstarších internetových protokolů, který se zachoval do dneška a na kterém závisí všechny ostatní internetové služby. V našem školení Principy a správa DNS pochopíte, jak přesně funguje a jak ho správně nastavit a zabezpečit. Nejbližší termín školení je 6. října, můžete přijet osobně do naší pražské školicí místnosti nebo se zúčastnit online.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox umí importovat rozšíření z Chrome]]></title>
+        <id>www.root.cz-actuality-45039</id>
+        <link href="https://www.root.cz/zpravicky/firefox-umi-rozsireni-chrome/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-25T06:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Firefox i Chrome podporují WebExtensions. Jedním z důvodů bylo, aby rozšíření byla vzájemně kompatibilní. Nyní je možné do Firefoxu importovat rozšíření z Chrome. Je potřeba povolit browser.migrate.chrome.extensions.enabled. Import je možné pustit například z nastavení  about:preferences#general]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mario + Rabbids Sparks Of Hope Creative Director Teases "Secret Hidden Message" In Rayman DLC]]></title>
         <id>https://www.nintendolife.com/#article-154546</id>
@@ -4642,26 +4662,6 @@ The post Moon-Pi: an e-paper lunar cycle display appeared first on Raspberry Pi.
         <link href="https://www.root.cz/zpravicky/vlada-schvalila-novy-pokus-o-migraci-statni-spravy-na-jednotnou-domenu-gov-cz-do-roku-2025/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-08-17T09:00:00.000Z</updated>
         <summary type="html"><![CDATA[Včera schválila vláda ČR materiál zvaný „Harmonogram migrace ústředních orgánů státní správy na jednotnou doménu .gov.cz“. Podle něj proběhne další pokus státu převést úřady na jednotnou státní doménu s tím, že tento krok má zvýšit bezpečnost uživatelů služeb českého e-governmentu, uživatelskou přívětivost, důvěryhodnost a jednotnou prezentaci webových stránek státu a e-mailových domén úředníků, informuje CZ.NIC.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC dostává úpravu řešící výkonnostní dopad oprav na chybu Intel Downfall]]></title>
-        <id>www.root.cz-actuality-45017</id>
-        <link href="https://www.root.cz/zpravicky/gcc-dostava-upravu-resici-vykonnostni-dopad-oprav-na-chybu-intel-downfall/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-17T08:30:00.000Z</updated>
-        <summary type="html"><![CDATA[U záplat na chybu Downfall v CPU Intel může být při použití AVX s instrukcemi GATHER výrazný dopad na výkon. Intel tak do projektu GCC přináší specifickou úpravu, která tento dopad snižuje tím, že u vektorizace vypíná GATHER pro procesorové rodiny stižené chybou Downfall.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CrossOver 23 přidává EA App i Diablo IV a dalších DirectX 12]]></title>
-        <id>www.root.cz-actuality-45016</id>
-        <link href="https://www.root.cz/zpravicky/crossover-23-pridava-ea-app-i-diablo-iv-a-dalsich-directx-12/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-17T07:58:30.000Z</updated>
-        <summary type="html"><![CDATA[Tvůrci „komerční implementace Wine“ uvádí u nové verze CrossOver 23 pět hlavních novinek. První je podpora DirectX 12 na macOS, která mimo jiné znamená běh her jako Diablo II Resurrected a Diablo IV na macOS Ventura (jde o první DX12 hry, které na této verzi běží, další tituly máme očekávat). Druhou novinkou je podpora Geometry shaderů a transformací na macOS, díky čemuž opět poběží řada dosud nefunkční her (např. TEKKEN 7, Street Fighter V, MechWarrior 5: Mercenaries ad.) – s dodatkem, že nejlepší výsledky jsou při běhu přes wined3d (Wine implementace Direct3D) namísto obvyklého DXVK (mapujícího Direct3D na Vulkan).]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
