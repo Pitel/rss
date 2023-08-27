@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-27T10:08:51.169Z</id>
+    <id>urn:2023-08-27T12:15:23.314Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-27T10:08:51.169Z</updated>
+    <updated>2023-08-27T12:15:23.314Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Many Features Ahead With Linux 6.6: EEVDF Scheduler, New AMD CPU Features, NVK uAPI]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-Early-Features</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-Early-Features"/>
+        <updated>2023-08-27T10:32:34.000Z</updated>
+        <summary type="html"><![CDATA[While there are many exciting features with Linux 6.5 which will hopefully be released as stable later today, ahead for the imminent Linux 6.6 merge window are another hearty batch of new features set to be introduced...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl - Duel: Excitebike 64]]></title>
         <id>https://www.nintendolife.com/#article-154554</id>
@@ -2995,16 +3005,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RADV Implements NVIDIA DGC Compute Extension]]></title>
-        <id>https://www.phoronix.com/news/RADV-NV-DGC-Compute-Proton</id>
-        <link href="https://www.phoronix.com/news/RADV-NV-DGC-Compute-Proton"/>
-        <updated>2023-08-23T10:12:21.000Z</updated>
-        <summary type="html"><![CDATA[The VK_NV_device_generated_commands_compute extension introduced in Vulkan 1.3.258 is now wired up for Mesa's Radeon "RADV" Vulkan driver and should further benefit VKD3D-Proton for Steam Play gaming...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon Sues Online Stores Selling Pirated DVDs]]></title>
         <id>https://torrentfreak.com/?p=239370</id>
         <link href="https://torrentfreak.com/amazon-sues-online-stores-selling-pirated-dvds-230823/"/>
@@ -4987,16 +4987,6 @@ Thank you very much for your continued support. Enjoy!
 >]]></summary>
         <author>
             <name>nospam@scummvm.org (sev)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenTTD 13.4]]></title>
-        <id>https://www.openttd.org/news/2023/07/29/openttd-13-4.html</id>
-        <link href="https://www.openttd.org/news/2023/07/29/openttd-13-4.html"/>
-        <updated>2023-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a while since we’ve seen a .4 release, but quite a few people have reported a crash when a news item appears while a drop-down menu is open. Here’s a fix for that, plus a few other fixes completed since the last release. Download Changelog Bug tracker]]></summary>
-        <author>
-            <name>OpenTTD</name>
         </author>
     </entry>
 </feed>
