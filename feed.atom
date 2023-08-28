@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-08-28T06:13:01.283Z</id>
+    <id>urn:2023-08-28T08:13:01.151Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-08-28T06:13:01.283Z</updated>
+    <updated>2023-08-28T08:13:01.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zabbix: monitorujte svou infrastrukturu a mějte ji pod kontrolou (školení)]]></title>
+        <id>www.root.cz-actuality-44644</id>
+        <link href="https://www.root.cz/zpravicky/zabbix-monitorujte-svou-infrastrukturu-a-mejte-ji-pod-kontrolou-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-28T07:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Provozujete vlastní infrastrukturu a chcete vědět, v jakém stavu se v každém okamžiku nachází? Zabbix vám umožní monitorovat infrastrukturu z pohledu sítí, tak i z pohledu operačních systémů až po aplikace. Přináší ucelené monitorovací řešení. Naučíme vás konfigurovat monitorovací systém Zabbix od základních kroků až po složité nízkoúrovňové objevování monitorovaných objektů.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.5 vyšel s podporou AMD P-State EPP a USB4 v2]]></title>
+        <id>www.root.cz-actuality-45045</id>
+        <link href="https://www.root.cz/zpravicky/linux-6-5-vysel-s-podporou-amd-p-state-epp-a-usb4-v2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-28T07:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Byla uvolněna nová verze linuxového jádra s označením 6.5. Přináší spoustu zajímavých novinek včetně ovladače AMD P-State EPP, ACPI CPUFreq pro Zen 2 a podporu pro novější systémy s AMD Ryzen. Vedle toho je tu také úvodní podpora pro USB4 v2, ovladač pro MIDI 2.0 a vylepšení hybridního ladění na procesorech Intel.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenTF oznamuje fork nástroje Terraform]]></title>
+        <id>www.root.cz-actuality-45044</id>
+        <link href="https://www.root.cz/zpravicky/opentf-oznamuje-fork-nastroje-terraform/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-28T07:28:58.000Z</updated>
+        <summary type="html"><![CDATA[OpenTF Foundation oznámila vytvoření forku nástroje Terraform, který vyvíjí společnost HashiCorp. Nadace vznikla jako reakce na nedávnou změnu licence z Mozilla Public License 2.0 (MPL) na Business Source License 1.1 (BSL or BUSL). Organizace požádala o členství v Linux Foundation s cílem být součástí Cloud Native Computing Foundation.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyšla Mageia 9 s databází balíčků postavenou nad SQLite]]></title>
+        <id>www.root.cz-actuality-45043</id>
+        <link href="https://www.root.cz/zpravicky/vysla-mageia-9-s-databazi-balicku-postavenou-nad-sqlite/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-08-28T07:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Vývojový cyklus byl o několik měsíců prodloužen a během víkendu byla vydána Mageia 9. Jde o linuxovou distribuci, která byla kdysi dávno odvozena od Mandrivy, která zase byla evolucí sahající až do slavných dob Mandrake.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modular vydává beta verzi jazyka Mojo]]></title>
         <id>www.root.cz-actuality-45042</id>
@@ -3024,7 +3064,7 @@ Read more]]></summary>
         <id>www.root.cz-actuality-45035</id>
         <link href="https://www.root.cz/zpravicky/qemu-8-1-pridava-podporu-pipewire/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-08-23T11:55:06.000Z</updated>
-        <summary type="html"><![CDATA[Nová verze QEMU 8.1 přináší jako obvykle obrostou hromadu vylepšení, jejichž kompletní přehled je k dispozici na Wiki projektu. Vypíchněme podporu CPU rodiny Intel Granite Rapids, která jsou teprve v přípravě. Dále Tiny Code Generator (TCG) podporující instrukci RDPID instruction, AES schopné využívat AES akceleraci na hostitelském procesoru, mnoho rozličných vylepšení pro RISC-V.]]></summary>
+        <summary type="html"><![CDATA[Nová verze QEMU 8.1 přináší jako obvykle obrovskou hromadu vylepšení, jejichž kompletní přehled je k dispozici na Wiki projektu. Vypíchněme podporu CPU rodiny Intel Granite Rapids, která jsou teprve v přípravě. Dále Tiny Code Generator (TCG) podporující instrukci RDPID instruction, AES schopné využívat AES akceleraci na hostitelském procesoru, mnoho rozličných vylepšení pro RISC-V.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -4701,36 +4741,6 @@ Modern Warfare III …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[X (Twitter) přidává při přesměrování na vybrané weby až 5 sekund]]></title>
-        <id>www.root.cz-actuality-45023</id>
-        <link href="https://www.root.cz/zpravicky/x-pridava-pri-presmerovani-na-vybrane-weby-az-5-sekund/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-18T14:03:48.000Z</updated>
-        <summary type="html"><![CDATA[Zdá se, že X (dříve Twitter) přidává prodlevu až 3–5 sekund při přesměrování přes vlastní službu t.co na některé weby, které se asi nějakého důvodu nelíbí Elonovi Muskovi.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro bude snižovat frekvenci PCIe při přehřívání]]></title>
-        <id>www.root.cz-actuality-45022</id>
-        <link href="https://www.root.cz/zpravicky/jadro-bude-snizovat-frekvenci-pcie-pri-prehrivani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-18T13:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Sběrnice PCIe se stále zrychluje, ale zároveň se stává také zdrojem odpadního tepla. Příkladem mohou být PCIe 4.0 a 5.0 NVMe disky s velkými chladiči. Ilpo Järvinen z Intelu poslal včera do jádra ovladač bwctrl (PCI Express Bandwidth Controller), který bude snižovat frekvenci PCIe při přehřívání.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Benchmarky RISC-V VisionFive2]]></title>
-        <id>www.root.cz-actuality-45021</id>
-        <link href="https://www.root.cz/zpravicky/benchmarky-risc-v-visionfive2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-18T12:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Server Phoronix přinesl ve středu benchmark malého jednodeskového počítače SiFive VisionFive2 s RISC-V. O VisionFive2 jsme tu již psali. Jde o první finančně dostupnou desku s RISC-V. Na výběr jsou verze se 4 a 8 GB RAM, má dva gigabitové RJ45 a čtyřjádrový StarFive JH7110. Výkonem CPU odpovídá zhruba Raspberry Pi 3. Nově je pak možné vybrat i vestavěné WiFi.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Small satellites and big antennas]]></title>
         <id>https://www.raspberrypi.com/?p=99818</id>
         <link href="https://www.raspberrypi.com/news/small-satellites-and-big-antennas/"/>
@@ -4750,16 +4760,6 @@ The post Small satellites and big antennas appeared first on Raspberry Pi.]]></s
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUSE bude soukromou společností]]></title>
-        <id>www.root.cz-actuality-45020</id>
-        <link href="https://www.root.cz/zpravicky/suse-bude-soukromou-spolecnosti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-18T07:59:23.000Z</updated>
-        <summary type="html"><![CDATA[Původně německá společnost SUSE několikrát měnila majitele. Od roku 2021 je akciovou společností. Většinu akcií (79 %) drží lucemburská firma Marcel LUX III Sàrl. Ta chce SUSE přeměnit zpět na soukromou společnost.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
