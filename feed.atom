@@ -1,10 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-01T10:09:54.568Z</id>
+    <id>urn:2023-09-01T12:17:14.532Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-01T10:09:54.568Z</updated>
+    <updated>2023-09-01T12:17:14.532Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jádro 6.6 bude mít plánovač EEVDF místo CFS]]></title>
+        <id>www.root.cz-actuality-45059</id>
+        <link href="https://www.root.cz/zpravicky/jadro-6-6-bude-mit-planovac-eevdf-misto-cfs/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-09-01T11:38:04.000Z</updated>
+        <summary type="html"><![CDATA[Jak jsme psali v červnu, Peter Ziljstra z Intelu chce nahradit stávající plánovač úloh v jádře CFS (Completely Fair Scheduler) novým EEVDF (Earliest Eligible Virtual Deadline First). Linus Torvalds tuto změnu hladce schválil a zařadil do jádra 6.6. CFS byl v jádře od 2.6.23, tedy od října 2007.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strategy satire Heretic's Fork is about keeping lost souls in Hell]]></title>
+        <id>https://www.rockpapershotgun.com/strategy-satire-heretics-fork-is-about-keeping-lost-souls-in-hell</id>
+        <link href="https://www.rockpapershotgun.com/strategy-satire-heretics-fork-is-about-keeping-lost-souls-in-hell"/>
+        <updated>2023-09-01T11:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Since joining the good ship RPS I've had to readjust to the daily reality of a corporate inbox, overflowing with internal Reedpop messages about Best Practices, expense claim guidance and other fiendish gambits designed to keep me from the holy labour of finding new games and telling you about them. On absent-mindedly firing up one such new game this morning, Heretic's Fork, there was a terrible moment when I thought Reedpop had outsourced its middle management to Pandemonium. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oprava metadat za běhu se blíží pro XFS]]></title>
+        <id>www.root.cz-actuality-45058</id>
+        <link href="https://www.root.cz/zpravicky/oprava-metadat-za-behu-se-blizi-pro-xfs/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-09-01T11:04:27.000Z</updated>
+        <summary type="html"><![CDATA[U souborového systému XFS byla oprava metadat za běhu (online fsck) slíbena do konce tohoto roku. Je totiž podmínkou pro zmenšení souborového systému na disku, což je jedna z vlastností, která uživatelům XFS zatím chybí.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mario Kart Tour Gets Chilly In The Upcoming 'Sundae Tour' Update]]></title>
+        <id>https://www.nintendolife.com/#article-154818</id>
+        <link href="https://www.nintendolife.com/news/2023/09/mario-kart-tour-gets-chilly-in-the-upcoming-sundae-tour-update"/>
+        <updated>2023-09-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dry Cones.
+We are approaching the final corner of the Madrid Drive-centric chapter of Mario Kart Tour and we have now had a sneak peek at what is coming next.
+The 'Sundae Tour' is next on the menu, with the Mario Kart 8 Deluxe DLC track, Sky-High Sundae, taking the spotlight. This one is set to kick off on 9th September so you still have a few days to drive those Spanish streets.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenColorIO 2.3 Released With New AVX/AVX2 Optimizations]]></title>
+        <id>https://www.phoronix.com/news/OpenColorIO-2.3</id>
+        <link href="https://www.phoronix.com/news/OpenColorIO-2.3"/>
+        <updated>2023-09-01T10:41:01.000Z</updated>
+        <summary type="html"><![CDATA[OpenColorIO (OCIO) as the open-source color management solution for motion picture production and maintained by the Academy Software Foundation is out with a new feature release that will be part of their 2024 VFX Reference Platform. Notable with this release are new SIMD optimizations with AVX/AVX2 and Arm NEON...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReiserFS je označen jako překonaný]]></title>
+        <id>www.root.cz-actuality-45057</id>
+        <link href="https://www.root.cz/zpravicky/reiserfs-je-oznacen-jako-prekonany/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-09-01T10:29:48.000Z</updated>
+        <summary type="html"><![CDATA[Souborový systém ReiserFS 3 byl označen jako zastaralý (deprecated) loni v únoru. V jádře 6.6 bude označen v souboru MAINTAINERS jako překonaný (obsolete). Z odstraněním z jádra se počítá v roce 2025.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inception & Downfall, Linux 6.6 Development Kicking Off & Other August Highlights]]></title>
+        <id>https://www.phoronix.com/news/August-2023-Highlights</id>
+        <link href="https://www.phoronix.com/news/August-2023-Highlights"/>
+        <updated>2023-09-01T10:29:47.000Z</updated>
+        <summary type="html"><![CDATA[While approaching the end of summer, there's no breaks at Phoronix and over the course of August were 240 original news articles and another 15 featured Linux hardware reviews / multi-page featured benchmark articles. Here is a look back at what was most exciting for the month...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wget2 2.1 Brings New Options, Proxies For Non-Default Ports, Better SSL Code]]></title>
+        <id>https://www.phoronix.com/news/Wget2-v2.1-Released</id>
+        <link href="https://www.phoronix.com/news/Wget2-v2.1-Released"/>
+        <updated>2023-09-01T10:13:35.000Z</updated>
+        <summary type="html"><![CDATA[Released nearly one year ago was GNU Wget2 2.0 as a big improvement over Wget to support more protocols like HTTP/2, enabling multi-threading support and parallel connections, and a range of other feature additions. Published on Thursday was Wget2 2.1 as the newest step forward for this much-improved Wget open-source downloading solution...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch out Starfielders, there might be a shark in that elevator]]></title>
         <id>https://www.rockpapershotgun.com/watch-out-starfielders-there-might-be-a-shark-in-that-elevator</id>
@@ -1552,19 +1638,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unique Asymmetric Escape Game 'How 2 Escape' Pulls Into Switch Today]]></title>
-        <id>https://www.nintendolife.com/#article-154757</id>
-        <link href="https://www.nintendolife.com/news/2023/08/unique-asymmetric-escape-game-how-2-escape-pulls-into-switch-today"/>
-        <updated>2023-08-31T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How 2 Escape? Together!
-If you're looking for an unusual co-op game to play with a friend, then How 2 Escape could be exactly the ticket you need.
-All aboard this "asymmetric escape game" from Breakfirst Games, which launches today on the Switch eShop. This isn't a co-op game where you both play together on the Switch — instead, one of you plays on console while another plays via the Companion App, which you can get on iOS and Android devices. You can find out how to download the app via the game's official website.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[More Wine Wayland Code Submitted For Review - Part 6]]></title>
         <id>https://www.phoronix.com/news/Wine-Wayland-Part-6</id>
         <link href="https://www.phoronix.com/news/Wine-Wayland-Part-6"/>
@@ -2964,16 +3037,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EEVDF Scheduler Merged For Linux 6.6, Intel Hybrid Cluster Scheduling Re-Introduced]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.6-EEVDF-Merged</id>
-        <link href="https://www.phoronix.com/news/Linux-6.6-EEVDF-Merged"/>
-        <updated>2023-08-29T13:00:38.000Z</updated>
-        <summary type="html"><![CDATA[The EEVDF scheduler code has been merged for the in-development Linux 6.6 kernel. EEVDF replaces the existing CFS scheduler code. There is the likelihood of some performance regressions initially though but the developers will be working to address them as they arise. Additionally, this scheduler pull also re-introduces cluster scheduling for Intel Core hybrid processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Life By You's humans are always watching you, and some of them can be real creepy about it]]></title>
         <id>https://www.rockpapershotgun.com/life-by-yous-humans-are-always-watching-you-and-some-of-them-can-be-real-creepy-about-it</id>
         <link href="https://www.rockpapershotgun.com/life-by-yous-humans-are-always-watching-you-and-some-of-them-can-be-real-creepy-about-it"/>
@@ -3014,26 +3077,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Po letech vývoje byla vydána verze 4 RC (release candidate) jazyka Lean od Microsoft Research. Jde o čistě funkcionální jazyk s unikátní efektivní a plně automatickou správou paměti („functional but in-place“) založenou na počítání referencí.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Calculon)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.6 Lands "Pretty Juicy" IOmap Improvements, Lower Latency With IO_uring]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.6-IOmap-Improvements</id>
-        <link href="https://www.phoronix.com/news/Linux-6.6-IOmap-Improvements"/>
-        <updated>2023-08-29T12:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Among the exciting early pull requests to land in the new Linux 6.6 kernel cycle are some nice improvements to the IOmap code that should yield some substantive I/O benefits with this new kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Announces C3A Instances Coming, Powered By AmpereOne CPUs]]></title>
-        <id>https://www.phoronix.com/news/Google-Cloud-C3A-AmpereOne</id>
-        <link href="https://www.phoronix.com/news/Google-Cloud-C3A-AmpereOne"/>
-        <updated>2023-08-29T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Google is using their NEXT'23 conference today to announce that C3A instances are debuting in private preview form for these new AArch64 VMs powered by AmpereOne processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4191,16 +4234,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Na umění generované AI se nevztahuje copyright, rozhodla soudkyně v USA]]></title>
-        <id>www.root.cz-actuality-45038</id>
-        <link href="https://www.root.cz/zpravicky/na-umeni-generovane-ai-se-nevztahuje-copyright-rozhodla-soudkyne-v-usa/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-24T13:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Soudkyně Beryl A. Howellová rozhodovala v případu US Copyright Office vs Stephen Thaler, kdy druhý jmenovaný se domáhal uznání copyrightu na AI-generovaný obraz vytvořený pomocí algoritmu Creativity Machine, který on sám vytvořil. O uznání copyrightu se snažil už vícekrát, a to na základě pravidla, kdy si de facto „najal jím vytvořenou AI pro vytvoření díla“, ale byl vícekrát ze strany úřadu odmítnut.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lil Gator Game Gets New Game Plus And 'Baby Mode' In Free Update]]></title>
         <id>121005</id>
         <link href="https://www.gameinformer.com/2023/08/24/lil-gator-game-gets-new-game-plus-and-baby-mode-in-free-update"/>
@@ -4223,26 +4256,6 @@ Lil Gator Game is available now on Switch and PC. For more on the short-but-swee
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 23.10 nepřinese vývojovou verzi GIMP 3.0]]></title>
-        <id>www.root.cz-actuality-45037</id>
-        <link href="https://www.root.cz/zpravicky/ubuntu-23-10-neprinese-vyvojovou-verzi-gimp-3-0/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-24T12:11:09.000Z</updated>
-        <summary type="html"><![CDATA[Do uvedení Ubuntu 23.10 už zbývá jen několik týdnů a tak na přetřes přišla otázka, zdali by s ohledem na velmi pokročilou fázi vývoje nebylo možné podzimní verzi Ubuntu obohatit rovnou o snapshot budoucího GIMPu 3.0, namísto už notně vousaté řady 2.10, zejména ve srovnání s novinkami nabízenými vývojovou verzí 2.99.x.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Gear 23.08 přináší kalendář Merkuro a mnoho dílčích vylepšení]]></title>
-        <id>www.root.cz-actuality-45036</id>
-        <link href="https://www.root.cz/zpravicky/kde-gear-23-08-prinasi-kalendar-merkuro-a-mnoho-dilcich-vylepseni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-24T11:37:47.000Z</updated>
-        <summary type="html"><![CDATA[Balík aplikací KDE Gear, dříve známý jako KDE Applications, přináší v nové verzi 23.08 řadu novinek. Jednou z nich je v projektu oblíbené přejmenovávání, tentokrát to schytal kalendář Calendar, který se nově jmenuje Merkuro. Vývojáři aplikace plánují přidat podporu e-mailů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4543,19 +4556,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Kaan Serin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armored Core 6: Fires Of Rubicon review: FromSoftware's full spectrum mech experience mostly delivers]]></title>
-        <id>https://www.rockpapershotgun.com/armored-core-6-fires-of-rubicon-review</id>
-        <link href="https://www.rockpapershotgun.com/armored-core-6-fires-of-rubicon-review"/>
-        <updated>2023-08-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[How do you like your missiles? Do you prefer ones that fire straight up and then swoop down like birds of prey, or the kind that jet off to the sides, trapping the target in a pincer formation? How about a single missile that splits into a swarm of smaller missiles? Perhaps a zig-zagger that leaves a trail of explosive charges in its wake, detonating them like dynamite dominoes once it impacts? Well, whatever your fancy, Armored Core 6: Fires Of Rubicon has a loadout for every occasion. With as many combinations as Dolly Parton's wardrobe, it’s almost a scandal to equip the same gear twice.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Jon Bailes</name>
         </author>
     </entry>
     <entry>
