@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-02T10:08:47.458Z</id>
+    <id>urn:2023-09-02T12:15:12.519Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-02T10:08:47.458Z</updated>
+    <updated>2023-09-02T12:15:12.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Velmi rychlým mačkáním klávesy Enter do zašifrovaného Ubuntu]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/velmi-rychlym-mackanim-klavesy-enter-do-zasifrovaneho-ubuntu</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/velmi-rychlym-mackanim-klavesy-enter-do-zasifrovaneho-ubuntu"/>
+        <updated>2023-09-02T11:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Článek na Pulse Security informuje, že do Ubuntu 20.04 ze zašifrovaným diskem (TPM v kombinaci s Clevis, dracut a systemd) se lze dostat rychlým mačkáním klávesy Enter. Velmi rychlým. V článku je to 50x za sekundu. Pomocí mikrokontroléru emulujícího klávesnici.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.6 Perf Events Prepare For Intel's Crestmont In Grand Ridge & Sierra Forest]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-Perf-Events</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-Perf-Events"/>
+        <updated>2023-09-02T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The perf event changes were submitted this week for the ongoing Linux 6.6 kernel merge window with changes this cycle for Intel, AMD, and Arm...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.3.263 Released With A New NVIDIA Extension]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.3.263-Released</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.3.263-Released"/>
+        <updated>2023-09-02T10:35:26.000Z</updated>
+        <summary type="html"><![CDATA[There wasn't any big Vulkan spec update for SIGGRAPH this year but the frequent point releases continue rolling on for this high performance graphics and compute API...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tmpfs Gains New Features With Linux 6.6]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-Tmpfs</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-Tmpfs"/>
+        <updated>2023-09-02T10:26:50.000Z</updated>
+        <summary type="html"><![CDATA[The tmpfs file-system that keeps all of its data within virtual memory has gained a few new features with Linux 6.6, including the long-awaited quota support to better protect against malicious users that could try to consume all of your system RAM...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6 & KWin See More Performance Tuning This Week]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6-KWin-Performance</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6-KWin-Performance"/>
+        <updated>2023-09-02T10:09:30.000Z</updated>
+        <summary type="html"><![CDATA[While leading up to a US holiday weekend, KDE developers haven't let up in their development activities around Plasma 6.0 and associated application work. KDE developer Nate Graham is out with his usual weekly development summary to outline all of the interesting changes for the week...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (September 2nd)]]></title>
         <id>https://www.nintendolife.com/#article-154817</id>
@@ -2326,16 +2376,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ryujinx, open source emulátor herní konzole Nintendo Switch]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ryujinx-open-source-emulator-herni-konzole-nintendo-switch</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ryujinx-open-source-emulator-herni-konzole-nintendo-switch"/>
-        <updated>2023-08-31T09:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Ryujinx je open source emulátor herní konzole Nintendo Switch. Ke stažení pro Windows, Linux a macOS. Vývoj probíhá na GitHubu. Napsaný je v C#.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 6.6 Gets More Voltage & Temperature Sensors Working On Some Desktop Motherboards]]></title>
         <id>https://www.phoronix.com/news/Linux-6.6-HWMON</id>
         <link href="https://www.phoronix.com/news/Linux-6.6-HWMON"/>
@@ -2910,46 +2950,6 @@ Fast-forward nine years, and Destiny 2 has turned the destruction and loss of hi
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Working On New OverDrive GPU Overclocking Controls For Linux]]></title>
-        <id>https://www.phoronix.com/news/AMD-New-OverDrive-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-New-OverDrive-Linux"/>
-        <updated>2023-08-30T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[AMD's open-source Linux graphics driver engineers are working on a new set of interfaces for user-space to support OverDrive overclocking. While AMD GPU OverDrive overclocking has been supported on Linux for years, the current interface isn't sufficient for all the power/overclocking controls moving forward...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Sysctl Cleaning To Eventually Erase ~64 Bytes Of Bloat Per Array]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.6-Sysctl-Cleaning</id>
-        <link href="https://www.phoronix.com/news/Linux-6.6-Sysctl-Cleaning"/>
-        <updated>2023-08-30T10:30:42.000Z</updated>
-        <summary type="html"><![CDATA[Some code cleaning within the sysctl space of the Linux kernel will eventually eliminate around 64 bytes of bloat per array within the kernel where a sentinel can be removed...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD ROCm 5.6.1 Compute Stack Released With A Few Fixes]]></title>
-        <id>https://www.phoronix.com/news/AMD-ROCm-5.6.1</id>
-        <link href="https://www.phoronix.com/news/AMD-ROCm-5.6.1"/>
-        <updated>2023-08-30T10:13:03.000Z</updated>
-        <summary type="html"><![CDATA[While we are eagerly awaiting ROCm support for more RDNA3 GPUs said to be coming later this calendar year, shipping Tuesday night was ROCm 5.6.1 as the newest point release for this open-source GPU compute stack...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MidnightBSD 3.1 Released With Ravenports Integration]]></title>
-        <id>https://www.phoronix.com/news/MidnightBSD-3.1</id>
-        <link href="https://www.phoronix.com/news/MidnightBSD-3.1"/>
-        <updated>2023-08-30T09:59:26.000Z</updated>
-        <summary type="html"><![CDATA[MidnightBSD 3.1 is now available for this desktop-minded, FreeBSD-forked operating system that aims to be "the BSD for everyone" with an Xfce-based desktop and focus on ease of use...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
