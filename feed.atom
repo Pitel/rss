@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-04T22:08:28.484Z</id>
+    <id>urn:2023-09-05T00:41:39.614Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-04T22:08:28.484Z</updated>
+    <updated>2023-09-05T00:41:39.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Charles Martinet On His New Role As Mario Ambassador: "I Don't Know What That Is Yet"]]></title>
+        <id>https://www.nintendolife.com/#article-154909</id>
+        <link href="https://www.nintendolife.com/news/2023/09/charles-martinet-on-his-new-role-as-mario-ambassador-i-dont-know-what-that-is-yet"/>
+        <updated>2023-09-05T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA["I will learn, we'll all learn".
+The legendary voice of Mario, Charles Martinet, has admitted during a recent GalaxyCon Austin panel in the US that he doesn't actually know what exactly his new role as "Mario ambassador" involves. And although he's entering a new chapter, he's apparently "not retired" yet.
+If you weren't sure how this new role would work, you're not alone. After Nintendo announced this "brand-new" position for Martinet, the famous voice actor has revealed he'll be learning about it in the "future", like everyone else:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Fix Incoming For Intel Fallout After The Kernel Disabled Buggy AMD fTPM RNG]]></title>
+        <id>https://www.phoronix.com/news/AMD-fTPM-RNG-Intel-Fix-6.6</id>
+        <link href="https://www.phoronix.com/news/AMD-fTPM-RNG-Intel-Fix-6.6"/>
+        <updated>2023-09-04T23:58:55.000Z</updated>
+        <summary type="html"><![CDATA[The decision last month for the Linux kernel to disable random number gemeration (RNG) for all AMD fTPMs ended up having some unintended consequences on Intel systems that ended up breaking S3 suspend behavior...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distribuční novinky 31-33/2023]]></title>
         <id>http://www.abclinuxu.cz/clanky/distribucni-novinky-31-33-2023</id>
@@ -893,6 +916,15 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Abstract Pickup]]></title>
+        <id>https://xkcd.com/2824/</id>
+        <link href="https://xkcd.com/2824/"/>
+        <updated>2023-09-04T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenBLAS 0.3.24 Released With Intel Sapphire Rapids Improvements, Apple M2 Detection]]></title>
         <id>https://www.phoronix.com/news/OpenBLAS-0.3.24-Released</id>
         <link href="https://www.phoronix.com/news/OpenBLAS-0.3.24-Released"/>
@@ -1762,20 +1794,6 @@ The post Starfield hits over 200k concurrent users on Steam, and it isn’t even
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Best Space And Sci-Fi Games On The Nintendo Switch]]></title>
-        <id>https://www.nintendolife.com/#article-133977</id>
-        <link href="https://www.nintendolife.com/guides/best-space-and-sci-fi-games-on-the-nintendo-switch"/>
-        <updated>2023-09-01T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The answer to the Ultimate Question.
-To celebrate the launch of Starfield's Early Access on Xbox, we've given this list a much-needed sweep with the addition of No Man's Sky, and a handful of space-faring shmups. Enjoy!
-
-Space. The final frontier. These are the voyages of the — sorry, er, these are the best space and science fiction games that can be found on the Nintendo Switch, despite the fact that none of the developers in this list has actually been to space.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New extremely limited edition Cult of the Lamb controllers are available now]]></title>
         <id>https://www.destructoid.com/?p=401152</id>
         <link href="https://www.destructoid.com/new-extremely-limited-edition-cult-of-the-lamb-controllers-are-available-now/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-extremely-limited-edition-cult-of-the-lamb-controllers-are-available-now"/>
@@ -2421,16 +2439,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/August-2023-Highlights"/>
         <updated>2023-09-01T10:29:47.000Z</updated>
         <summary type="html"><![CDATA[While approaching the end of summer, there's no breaks at Phoronix and over the course of August were 240 original news articles and another 15 featured Linux hardware reviews / multi-page featured benchmark articles. Here is a look back at what was most exciting for the month...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wget2 2.1 Brings New Options, Proxies For Non-Default Ports, Better SSL Code]]></title>
-        <id>https://www.phoronix.com/news/Wget2-v2.1-Released</id>
-        <link href="https://www.phoronix.com/news/Wget2-v2.1-Released"/>
-        <updated>2023-09-01T10:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Released nearly one year ago was GNU Wget2 2.0 as a big improvement over Wget to support more protocols like HTTP/2, enabling multi-threading support and parallel connections, and a range of other feature additions. Published on Thursday was Wget2 2.1 as the newest step forward for this much-improved Wget open-source downloading solution...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -4555,15 +4563,6 @@ That vampire is named Kado Thorne and he’s made the battle island his home in 
 Epic Games says these three locations are strongly defended bases with cameras, laser grids, and guards. And inside, you’ll find Thorne has filled them with …]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspiration]]></title>
-        <id>https://xkcd.com/2820/</id>
-        <link href="https://xkcd.com/2820/"/>
-        <updated>2023-08-25T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
