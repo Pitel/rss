@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-05T06:12:28.079Z</id>
+    <id>urn:2023-09-05T08:12:46.950Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-05T06:12:28.079Z</updated>
+    <updated>2023-09-05T08:12:46.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vypnutí AMD fTPM v generátoru náhodných čísel odhalilo chybu v TPM Intelu a narušilo S3 STR, oprava míří do Linuxu 6.6]]></title>
+        <id>www.root.cz-actuality-45069</id>
+        <link href="https://www.root.cz/zpravicky/vypnuti-amd-ftpm-v-generatoru-nahodnych-cisel-odhalilo-chybu-v-tpm-intelu-a-narusilo-s3-str-oprava-miri-do-linuxu-6-6/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-09-05T06:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Špatně fungující fTPM u AMD, které bylo nakonec opravdu vyřazeno z generování náhodných čísel (RNG) v Linuxu, mělo nepříjemnou dohru pro stroje postavené na CPU Intel, kde zanesená regrese způsobila nefunkčnost přechodu do stavu S3 suspend-to-RAM (STR).]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sega & Atlus Airing Special Broadcast At The Tokyo Game Show This Month]]></title>
         <id>https://www.nintendolife.com/#article-154613</id>
@@ -64,7 +74,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2023-09-05T00:05:00.000Z</updated>
         <summary type="html"><![CDATA["I will learn, we'll all learn".
 The legendary voice of Mario, Charles Martinet, has admitted during a recent GalaxyCon Austin panel in the US that he doesn't actually know what exactly his new role as "Mario ambassador" involves. And although he's entering a new chapter, he's apparently "not retired" yet.
-If you weren't sure how this new role would work, you're not alone. After Nintendo announced this "brand-new" position for Martinet, the famous voice actor has revealed he'll be learning about it in the "future", like everyone else:
+After Nintendo announced this "brand-new" position for Martinet last month, the famous voice actor has revealed he'll be learning more about it in the "future", just like everyone else:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -4005,16 +4015,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 117 vypíná indikaci sdílení obrazovky na Waylandu (aktualizováno)]]></title>
-        <id>www.root.cz-actuality-45048</id>
-        <link href="https://www.root.cz/zpravicky/firefox-117-vypina-indikaci-sdileni-obrazovky-na-waylandu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-08-29T11:27:27.000Z</updated>
-        <summary type="html"><![CDATA[Stosedmnáctka (popis novinek v beta verzi a ve finální veri) přináší novou předvolbu dom.event.contextmenu.shift_suppresses_event, se kterou lze deaktivovat vynucení kontextového menu při stisku Shift + pravé myšítko, dělalo to neplechu na různých webových stránkách. Dále tvůrci zjevně nadále chystají podporu automatických překladů stránek, narozdíl od jiných cloudových služeb jde ale o lokální překlad v rámci Firefoxu (v betě 117 byla, ale v novinkách finální verze uvedena není).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
