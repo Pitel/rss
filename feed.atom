@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-10T14:07:46.928Z</id>
+    <id>urn:2023-09-10T16:10:35.539Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-10T14:07:46.928Z</updated>
+    <updated>2023-09-10T16:10:35.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.6 SMB Client To Allow Adjusting Cache Time For Directory Contents]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-SMB3-max_dir_cache</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-SMB3-max_dir_cache"/>
+        <updated>2023-09-10T15:00:45.000Z</updated>
+        <summary type="html"><![CDATA[With Linux 6.6 the KSMBD server is no longer "experimental" while this new kernel on the SMB3 client side also brings a notable addition: the new "dir_cache_timeout" option to control the cache time for directory contents...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy Pixel Remaster Updated On Switch, Here Are The Full Patch Notes]]></title>
+        <id>https://www.nintendolife.com/#article-155219</id>
+        <link href="https://www.nintendolife.com/news/2023/09/final-fantasy-pixel-remaster-updated-on-switch-here-are-the-full-patch-notes"/>
+        <updated>2023-09-10T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fixes and improvements for every game.
+Final Fantasy Pixel Remaster recently celebrated a new sales milestone with Square Enix announcing the compilation has now sold three million copies worldwide.
+It turns out that at the end of last month, the collection was also updated for both the Nintendo Switch and PlayStation 4. Each game has apparently had some improvements and bug fixes. Unfortunately, the notes don't go into detail about what has specifically changed, but at the very least each game has been updated.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perspective-switching action-RPG Journey Record announced for 2024]]></title>
+        <id>https://www.destructoid.com/?p=403463</id>
+        <link href="https://www.destructoid.com/perspective-switching-action-rpg-journey-record-announced-for-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=perspective-switching-action-rpg-journey-record-announced-for-2024"/>
+        <updated>2023-09-10T14:54:47.000Z</updated>
+        <summary type="html"><![CDATA[Flipping from top-down strolling to side-scrolling, Journey Record is a new action RPG from developer Kochi Create. Publisher PLAYISM revealed plans to launch the perspective-switching game on Steam in 2024. You can see how Crystals change your perception of the world in the announcement trailer below. 
+https://www.youtube.com/watch?v=WUd7NMn4rBA
+In Journey Record, a young girl who lost her vision can see thanks to her cat companion and its Magic Eye Camera. Seeing through the camera's lens and using Crystals allows the girl to change the perspective of the world and uncover the secrets within it. In the vein of games like Fez, switching views is the key to solving puzzles and progressing.
+As the trailer showcases, Journey Record isn't just about puzzles. Combat puts the action in action R…]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox finally coming to PlayStation]]></title>
+        <id>https://www.destructoid.com/?p=403454</id>
+        <link href="https://www.destructoid.com/roblox-finally-coming-to-playstation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=roblox-finally-coming-to-playstation"/>
+        <updated>2023-09-10T14:49:09.000Z</updated>
+        <summary type="html"><![CDATA[Roblox has a firm grip on the gaming world thanks to a few key elements that have helped it attract millions of players. For instance, it's a small game that isn't going to tax even the most dated PCs. Furthermore, it also has strong social elements, allowing players from around the world to use it as a virtual hangout spot.
+A recent blog post from Roblox outlined some of the revelations from the Roblox Developers Conference (RDC) which took place in San Francisco. Developers plan to continue making Roblox one of the best places for friends to communicate and play together. The game will also be expanding its reach when it finally launches on PS4 and PS5 in October.
+This is a long-awaited port, as Roblox has conspicuously not been available in the Nintendo and PlayStation ecosystems despite its popularity. Currently, the game supports crossplay, though it hasn't been confirmed yet whether the PlayStation ports will also have crossplay capabilities.
+[caption id="attachment_374524" align="alignnone" width="640"] Image via Roblox Corporation[/caption]
+What to expect from Roblox in 2023 and beyond
+Roblox will be making things a little easier for creators and giving them more freedom. New mesh and texture APIs will be added, allowing you to edit your avatar and avatar items such as clothes within an experience. Developers also intend to craft tools that enable users to create avatars from text inputs.
+Later this year, Roblox Connect will also launch. In a bid to further expand the game's available features, Roblox Connect will let you call other players and display your facial expressions through your avatars, and all that's needed is your device's camera.
+Roblox will also be coming to Meta Quest. The open beta has already been released, and in the first five days, it was downloaded over a million times. It comes just in time for the Quest 3 which is scheduled to launch later this year.
+The post Roblox finally coming to PlayStation appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Smangaliso Simelane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 23.3 Fixes Zink Rendering For X.Org/XWayland GLAMOR]]></title>
+        <id>https://www.phoronix.com/news/Zink-GLAMOR-Renders</id>
+        <link href="https://www.phoronix.com/news/Zink-GLAMOR-Renders"/>
+        <updated>2023-09-10T14:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Mike Blumenkrantz  working for Valve's Linux graphics driver team has added implicit sync support to the Zink OpenGL-on-Vulkan driver, which in turn now opens this generic driver up for correctly providing GLAMOR rendering with X11 and XWayland environments...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Destiny 2 cheater gets legally permabanned from the game]]></title>
         <id>https://www.destructoid.com/?p=403440</id>
@@ -2025,18 +2089,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Starfield players are using physics to steal, in classic Bethesda fashion]]></title>
-        <id>https://www.destructoid.com/?p=402672</id>
-        <link href="https://www.destructoid.com/starfield-players-are-using-physics-to-steal-in-classic-bethesda-fashion/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=starfield-players-are-using-physics-to-steal-in-classic-bethesda-fashion"/>
-        <updated>2023-09-07T17:37:37.000Z</updated>
-        <summary type="html"><![CDATA[A few things are inevitable in life. Death and taxes, of course. And then there's Bethesda games having weird, physics-y ways of getting around its systems, as Starfield players are currently doing to steal their way across the galaxy.
-On social media, various Starfield players are popping up with examples of using the physics of Starfield to steal some good loot out from under guards and NPCs. Usually, when you pick up an item in Starfield that you're not supposed to (noted by the red icon in the corner of its pop-up description), guards will be alerted. And, in my experience, they respond pretty quickly and violently.
-While some games have let you get away with picking up the object and relocating it somewhere where no one can see, that doesn't always work in Starfield. Picking up an obj…]]></summary>
-        <author>
-            <name>Eric Van Allen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bethesda Explains Starfield's Complete Lack Of Ground Vehicles]]></title>
         <id>1850813842</id>
         <link href="https://kotaku.com/starfield-ground-vehicles-todd-howard-bethesda-xbox-pc-1850813842"/>
@@ -2058,23 +2110,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Okay Sega Genesis game Gargoyles is getting remastered]]></title>
-        <id>https://www.destructoid.com/?p=402682</id>
-        <link href="https://www.destructoid.com/sega-genesis-gargoyles-getting-remaster/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sega-genesis-gargoyles-getting-remaster"/>
-        <updated>2023-09-07T17:18:33.000Z</updated>
-        <summary type="html"><![CDATA[I guess Disney isn’t done spelunking through their 16-bit catalog since it just announced the 1995’s Gargoyles Sega Genesis platformer is getting a full remaster. It’s coming to Switch, PlayStation 4, Xbox One, and PC on October 19, 2023.
-Do you remember Gargoyles? I caught the odd episode as a youngun and really enjoyed it, but I was more into watching Warner Bros cartoons. I thought about watching it when I was older, but everyone says the show takes a sudden and abrupt dive in quality at some point. I’m not sure why that bothers me, plenty of shows are good until they’re bad, but that doesn’t mean they’re not worthwhile.
-https://youtu.be/OYUJXoWh1yg?feature=shared
-The Gargoyles game debuted in 1995 exclusively for the Sega Genesis/Mega Drive. It was fine. Some would define it as a game that doesn’t suck. I put it more in the camp of 1995’s Toy Story. It’s a licensed game, so you should set your expectations there, and you might be pleasantly surprised.
-Unlike Disney’s previous 16-bit re-releases, Gargoyles Remastered is getting a full art style update and soundtrack upgrade. It looks pretty good, but it’s obviously built over the old game and does some awkward things with perspective and animation. However, if you don’t like it, you can simply toggle it back to 16-bit mode.
-It’s, uh, a bit of a weird choice for a remaster, but I welcome revisiting any, so bring it on.
-Gargoyles Remastered is coming to Switch, PS4, Xbox One, and PC. It is scheduled to be released on October 19, 2023, for $14.99 USD. There will also be a physical version available via Limited Run Games.
-The post Okay Sega Genesis game Gargoyles is getting remastered appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Zoey Handley</name>
         </author>
     </entry>
     <entry>
@@ -2254,19 +2289,6 @@ The Game Informer Show – Podcast Timestamps:
 01:35:29 - Housekeeping]]></summary>
         <author>
             <name>Alex Van Aken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Talking Point: Zelda: Tears Of The Kingdom DLC - What Would You Have Liked To See?]]></title>
-        <id>https://www.nintendolife.com/#article-154642</id>
-        <link href="https://www.nintendolife.com/features/talking-point-zelda-tears-of-the-kingdom-dlc-what-would-you-have-liked-to-see"/>
-        <updated>2023-09-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Maybe... less game?
-We all know that The Legend of Zelda: Tears of the Kingdom is the gift that keeps on giving — even without additional content. But with how many juicy new skills and items, and with what Breath of the Wild's DLC delivered, yes, we are indeed still hungry for more.
-But in a recent interview with Famitsu, Zelda series producer Eiji Aonuma seemed to suggest that there were "no plans" to release more content for Tears of the Kingdom, saying "we've done everything we can to create fun in that world."
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2718,16 +2740,6 @@ If you enjoy our livestreams but haven’t subscribed to our Twitch channel, kno
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi's V3D Kernel Driver Prepares For "CPU Jobs" To Assist Vulkan]]></title>
-        <id>https://www.phoronix.com/news/Raspberry-Pi-V3D-CPU-Jobs</id>
-        <link href="https://www.phoronix.com/news/Raspberry-Pi-V3D-CPU-Jobs"/>
-        <updated>2023-09-06T19:22:28.000Z</updated>
-        <summary type="html"><![CDATA[Igalia developers are working on extending the Broadcom V3D DRM kernel graphics driver, which is most notably used by the latest Raspberry Pi devices, to support the notion of "CPU jobs" in kernel space to assist in their Vulkan support. These CPU jobs are for assisting the support where their Broadcom GPU driver isn't capable of some Vulkan commands and thus needs to be punted off and handled by the processor...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Contracts Are Optional In Assassin’s Creed Mirage But I’m Not Skipping Them]]></title>
         <id>121086</id>
         <link href="https://www.gameinformer.com/exclusive/2023/09/06/contracts-are-optional-in-assassins-creed-mirage-but-im-not-skipping-them"/>
@@ -2770,16 +2782,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CephFS Completes Multi-Year Effort Adding FSCRYPT Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.6-CephFS-FSCRYPT</id>
-        <link href="https://www.phoronix.com/news/Linux-6.6-CephFS-FSCRYPT"/>
-        <updated>2023-09-06T18:00:58.000Z</updated>
-        <summary type="html"><![CDATA[The Ceph changes were submitted today for the ongoing Linux 6.6 merge window and with it comes one big shiny feature addition: support for making use of the FSCRYPT file-system encryption framework...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
