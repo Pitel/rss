@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-10T22:08:13.553Z</id>
+    <id>urn:2023-09-11T00:42:46.157Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-10T22:08:13.553Z</updated>
+    <updated>2023-09-11T00:42:46.157Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.6-rc1 Released With EEVDF, AMD DBC & Intel Shadow Stack But No Bcachefs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-rc1</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-rc1"/>
+        <updated>2023-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Linux 6.6 merge window is over as the period by which new features and improvements are added to the kernel. Linux 6.6-rc1 is out the door as the kernel developers and testing community begin stabilizing this next major Linux kernel release. With Linux 6.6 there are many exciting feature additions but also one notable addition that once again didn't make the cut...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jaderné noviny – přehled za srpen 2023]]></title>
         <id>http://www.abclinuxu.cz/clanky/jaderne-noviny-prehled-za-srpen-2023</id>
@@ -33,6 +43,16 @@
         <summary type="html"><![CDATA[Server běžící na NetBSD, bez problémů fungoval skoro dekádu bez dozoru. Nadace Mozilla varuje před nerespektování soukromí uživatelů ze strany výrobců moderních automobilů.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.6 WQ Change May Help Out AMD CPUs & Other Systems With Multiple L3 Caches]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-Workqueue</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-Workqueue"/>
+        <updated>2023-09-10T21:00:41.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the EEVDF scheduler replacing the CFS code in Linux 6.6, another fundamental and interesting change with Linux 6.6 is on the workqueue (WQ) side with a rework that can benefit systems with multiple L3 caches like modern AMD chiplet-based systems...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -66,16 +86,6 @@ Also like what came before, Armored Core 6's ending come from branching paths de
 Notably, in a recent interview with Famitsu, Bethesda's Todd Howard said that official …]]></summary>
         <author>
             <name>Filip Galekovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.6 WQ Change May Help Out AMD CPUs & Other Systems With Multiple L3 Caches]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.6-Workqueue</id>
-        <link href="https://www.phoronix.com/news/Linux-6.6-Workqueue"/>
-        <updated>2023-09-10T17:18:41.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the EEVDF scheduler replacing the CFS code in Linux 6.6, another fundamental and interesting change with Linux 6.6 is on the workqueue (WQ) side with a rework that can benefit systems with multiple L3 caches like modern AMD chiplet-based systems...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2588,16 +2598,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/OpenSSL-3.2-Alpha"/>
         <updated>2023-09-07T10:28:29.000Z</updated>
         <summary type="html"><![CDATA[The first alpha release of the OpenSSL 3.2 library is now available for testing. With OpenSSL 3.2 there are a number of new features, most notably the client-side work around QUIC support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TURNIP Vulkan Driver Lands Initial Support For Adreno A730/A740 GPUs]]></title>
-        <id>https://www.phoronix.com/news/TURNIP-Vulkan-Adreno-A700</id>
-        <link href="https://www.phoronix.com/news/TURNIP-Vulkan-Adreno-A700"/>
-        <updated>2023-09-07T10:18:48.000Z</updated>
-        <summary type="html"><![CDATA[Going along with the MSM DRM driver support for the Qualcomm Adreno 700 series, the open-source TURNIP Vulkan driver this week merged its initial support for the Adreno 700 series...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
