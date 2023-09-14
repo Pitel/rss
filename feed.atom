@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-14T08:12:43.662Z</id>
+    <id>urn:2023-09-14T10:10:46.119Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-14T08:12:43.662Z</updated>
+    <updated>2023-09-14T10:10:46.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel IFS Driver Prepares For Granite Rapids & Sierra Forest]]></title>
+        <id>https://www.phoronix.com/news/Intel-IFS-Granite-Rapids-SRF</id>
+        <link href="https://www.phoronix.com/news/Intel-IFS-Granite-Rapids-SRF"/>
+        <updated>2023-09-14T10:03:06.000Z</updated>
+        <summary type="html"><![CDATA[One of the nifty new features with Intel Xeon Scalable "Sapphire Rapids" processors not talked about much is the In-Field Scan (IFS) functionality for allowing various tests to be carried out prior to deploy the new processors or over time in the data center for trying to spot any silicon-level issues. IFS aims to uncover any processor issues not caught by ECC, parity checks, RAS, or other safeguards when new CPUs reach the data center or as they age over time...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity's per-install fee will be based on "estimates" and Unity may not spot "fraudulent" installs in advance]]></title>
+        <id>https://www.rockpapershotgun.com/unitys-per-install-fee-will-be-based-on-estimates-and-unity-may-not-spot-fraudulent-installs-in-advance</id>
+        <link href="https://www.rockpapershotgun.com/unitys-per-install-fee-will-be-based-on-estimates-and-unity-may-not-spot-fraudulent-installs-in-advance"/>
+        <updated>2023-09-14T09:46:59.000Z</updated>
+        <summary type="html"><![CDATA[After a couple of days of furious game developer reactions, game engine company Unity have backtracked a teensy bit on their plan to charge developers who meet certain revenue and copies-sold thresholds a "runtime fee" for every installation of their game.
+The company will only make developers pay extra for the first installation of a game on a new device - so no fees for reinstallations, in theory, and no prospect of spiteful players "install bombing" games to drive up costs for their creators. However, the company haven't stated how or indeed, if they can distinguish legitimate from illegitimate installations in advance, seemingly because their method for tracking installations is based on "estimates" using a proprietary data-gathering system, which they aren't able to discuss in depth.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: Live Orchestra Sinks Its Teeth Into Vampire Survivors' Brilliant Soundtrack]]></title>
+        <id>https://www.nintendolife.com/#article-155427</id>
+        <link href="https://www.nintendolife.com/news/2023/09/video-live-orchestra-sinks-its-teeth-into-vampire-survivors-brilliant-soundtrack"/>
+        <updated>2023-09-14T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[From bullet hell to rhythm heaven.
+If you're anything like us, then Poncle's brilliantly addictive Vampire Survivors has probably taken up a fair amount of your time since it was released last month. Many of the tension-rising tunes from the game's soundtrack are probably firmly stuck in your head by this point (we know that they are for us), so we were pleased to see some of the biggest numbers get the live orchestra treatment at the Save And Sound video game music event.
+Initially written by Daniele Zandara, with contributions from Filippo Vicarelli and William Davis, the 56-piece orchestra took on several pieces of the monster-mashing music and the results are fantastic. What's more, they're all available to watch on the Poncle YouTube channel.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PipeWire 0.3.80 Released With Vulkan DMA-BUF Support, Tag Param]]></title>
+        <id>https://www.phoronix.com/news/PipeWire-0.3.80</id>
+        <link href="https://www.phoronix.com/news/PipeWire-0.3.80"/>
+        <updated>2023-09-14T09:29:31.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat multimedia expert  Wim Taymans has released PipeWire 0.3.80 as the newest version of this open-source solution for efficiently handling video and audio streams on the Linux desktop...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: Nintendo Direct September 2023: Time, Where To Watch, Our Predictions]]></title>
+        <id>https://www.nintendolife.com/#article-155170</id>
+        <link href="https://www.nintendolife.com/guides/nintendo-direct-september-2023-time-where-to-watch-our-predictions"/>
+        <updated>2023-09-14T08:10:00.000Z</updated>
+        <summary type="html"><![CDATA[It is time.
+The next Nintendo Direct is coming very soon — today, in fact! — keeping up the tradition of an annual September presentation for the platform holder.
+The September 2023 Nintendo Direct will be broadcast later today (Thursday 14th September 2023). The showcase is set to run for around 40 minutes, with Nintendo saying that it will mainly focus on "games releasing this winter".
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mojang trailers Minecraft Live 2023 with promise of Minecraft 1.21 update details]]></title>
         <id>https://www.rockpapershotgun.com/mojang-trailers-minecraft-live-2023-with-promise-of-minecraft-121-update-details</id>
@@ -59,19 +119,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Tell us your own thoughts.
 Yesterday saw the arrival of the Pokémon Scarlet & Violet - The Hidden Treasure of Area Zero DLC and now that everyone has had time to play new expansion content, various impressions are doing the rounds on social media and elsewhere.
 So far it seems to have gone down quite well - with trainers around the globe enjoying the new area and even more Pokémon. Although there have reportedly been certain improvements some people have also highlighted how there are still frame rate and performance issues in the DLC.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide: Nintendo Direct September 2023: Time, Where To Watch, Our Predictions]]></title>
-        <id>https://www.nintendolife.com/#article-155170</id>
-        <link href="https://www.nintendolife.com/guides/nintendo-direct-september-2023-time-where-to-watch-our-predictions"/>
-        <updated>2023-09-14T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is time.
-The next Nintendo Direct is coming very soon — today, in fact! — keeping up the tradition of an annual September presentation for the platform holder.
-The September 2023 Nintendo Direct will be broadcast later today (Thursday 14th September 2023). The showcase is set to run for around 40 minutes, with Nintendo saying that it will mainly focus on "games releasing this winter".
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2158,19 +2205,6 @@ Bilkins' Folly popped up on my radar, err, sea charts, earlier this year when de
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: "The Original Piece Is Always Right" - Sakurai Talks Smash Bros. Music]]></title>
-        <id>https://www.nintendolife.com/#article-155301</id>
-        <link href="https://www.nintendolife.com/news/2023/09/random-the-original-piece-is-always-right-sakurai-talks-smash-bros-music"/>
-        <updated>2023-09-12T13:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Musical mayhem.
-Legendary game developer Masahiro Sakurai is back with yet another entry in his Creating Games video series and this one is all about the difficulties of bringing classic video game soundtracks into a contemporary setting.
-Sakurai gives two examples from his time working on Super Smash Bros. Ultimate (because why wouldn't you?) and explains that the process of rearranging the tracks was not as simple as just doing a new recording. If you watch and think that the first example from the NES' Athena was a particularly catchy tune, just wait until you have heard all the variations of the second track from Psycho Soldier...
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Další části kódu pro next-gen ovladač Intel Xe míří do jádra]]></title>
         <id>www.root.cz-actuality-45090</id>
         <link href="https://www.root.cz/zpravicky/dalsi-casti-kodu-pro-next-gen-ovladac-intel-xe-miri-do-jadra/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3035,26 +3069,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.phoronix.com/news/Linux-6.6-Workqueue"/>
         <updated>2023-09-10T21:00:41.000Z</updated>
         <summary type="html"><![CDATA[In addition to the EEVDF scheduler replacing the CFS code in Linux 6.6, another fundamental and interesting change with Linux 6.6 is on the workqueue (WQ) side with a rework that can benefit systems with multiple L3 caches like modern AMD chiplet-based systems...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRM CI Merged Into Linux 6.6 - Linus Torvalds: "Let's See Where It Goes"]]></title>
-        <id>https://www.phoronix.com/news/DRM-CI-In-Linux-6.6</id>
-        <link href="https://www.phoronix.com/news/DRM-CI-In-Linux-6.6"/>
-        <updated>2023-09-10T19:26:23.000Z</updated>
-        <summary type="html"><![CDATA[In addition to all the open-source kernel graphics/display driver updates for Linux 6.6, merged this afternoon ahead of the Linux 6.6-rc1 tagging is merging of the DRM continuous integration (CI) code to hopefully lead to better testing of DRM subsystem/driver changes...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.6 SMB Client To Allow Adjusting Cache Time For Directory Contents]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.6-SMB3-max_dir_cache</id>
-        <link href="https://www.phoronix.com/news/Linux-6.6-SMB3-max_dir_cache"/>
-        <updated>2023-09-10T15:00:45.000Z</updated>
-        <summary type="html"><![CDATA[With Linux 6.6 the KSMBD server is no longer "experimental" while this new kernel on the SMB3 client side also brings a notable addition: the new "dir_cache_timeout" option to control the cache time for directory contents...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -4893,19 +4907,6 @@ More than anything else, Shenmue is a video game about how a real person in a re
 In the fall of 2020, my wife and I lost a baby…]]></summary>
         <author>
             <name>James Tocchio</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diablo 4 will squeeze in at least one more patch before Season 2 hits next month]]></title>
-        <id>https://www.rockpapershotgun.com/diablo-4-will-squeeze-in-at-least-one-more-patch-before-season-2-hits-next-month</id>
-        <link href="https://www.rockpapershotgun.com/diablo-4-will-squeeze-in-at-least-one-more-patch-before-season-2-hits-next-month"/>
-        <updated>2023-09-04T18:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Diablo 4’s second season is due to kick off in just over a month, but Blizzard will find time to drop at least one more patch before the Season of Blood begins.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Jarvis</name>
         </author>
     </entry>
     <entry>
