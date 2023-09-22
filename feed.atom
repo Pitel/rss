@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-22T06:13:01.663Z</id>
+    <id>urn:2023-09-22T08:12:38.315Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-22T06:13:01.663Z</updated>
+    <updated>2023-09-22T08:12:38.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub podporuje přihlašování bez hesla pomocí Passkey]]></title>
+        <id>www.root.cz-actuality-45126</id>
+        <link href="https://www.root.cz/zpravicky/github-podporuje-prihlasovani-bez-hesla-pomoci-passkey/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-09-22T08:00:04.000Z</updated>
+        <summary type="html"><![CDATA[GitHub od včera podporuje přihlašování bez hesla pomocí Passkey pro všechny. O Passkey, který vyvíjí FIDO Alliance, jsme tu měli pěkný článek. V podstatě jde u uložení privátního klíče na mobilním zařízení nebo přímo v prohlížeči. Při přihlašovaní je potřeba jen biometricky nebo PINem otevřít zařízení. V případě prohlížeče budete potřebovat například USB token a podporován je zatím jen prohlížeč Chrome.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon 4.2]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mastodon-4.2</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mastodon-4.2"/>
+        <updated>2023-09-22T07:05:50.000Z</updated>
+        <summary type="html"><![CDATA[Mastodon (Wikipedie), svobodná federalizovaná sociální síť, byl vydán ve verzi 4.2. Z novinek je vypíchnuto vylepšené vyhledávání.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Analýza bezpečnostní chyby CVE-2023-4863 v knihovně WebP / libwebp]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/analyza-bezpecnostni-chyby-cve-2023-4863-v-knihovne-webp-libwebp</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/analyza-bezpecnostni-chyby-cve-2023-4863-v-knihovne-webp-libwebp"/>
+        <updated>2023-09-22T06:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Ben Hawkes publikoval pod názvem The WebP 0day analýzu bezpečnostní chyby CVE-2023-4863 v knihovně WebP / libwebp s řadou zajímavých odkazů. Pravděpodobně se jedná o stejnou chybu jako BLASTPASS (CVE-2023-41064 a CVE-2023-41061) v macOS, iOS, iPadOS a watchOS. Zpracování (zobrazení) speciálně připraveného obrázku nebo přílohy vedlo ke spuštění útočníkem připraveného kódu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Myš je pro kočku: Prohlížeče]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/mys-je-pro-kocku-prohlizece</id>
         <link href="http://www.abclinuxu.cz/zpravicky/mys-je-pro-kocku-prohlizece"/>
-        <updated>2023-09-22T06:12:39.000Z</updated>
+        <updated>2023-09-22T06:12:38.000Z</updated>
         <summary type="html"><![CDATA[Myš je pro kočku: Prohlížeče je dalším dílem ze série článků Myš je pro kočku, kde Edvard Rejthar ukazuje, jak lze počítač ovládat bez myši. Používáte ve webových prohlížečích zkratky Ctrl+(Shift)+Tab, Ctrl+(Shift)+PgDn/PgUp, F6, (Shift)+Alt+Enter nebo F7?]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -2725,17 +2755,6 @@ Evil Dead: The Game is an asymmetrical multiplayer game set within the popular f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache Pinot 1.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/apache-pinot-1.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/apache-pinot-1.0"/>
-        <updated>2023-09-20T02:09:30.000Z</updated>
-        <summary type="html"><![CDATA[Apache Pinot (GitHub, Wikipedie) dospěl do verze 1.0.
-Jedná se o realtimeový distribuovaný OLAP datastore navržený tak, aby na OLAP dotazy odpovídal s nízkou latencí.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[September 20, 2023]]></title>
         <id>https://developer.android.com/jetpack/androidx/versions/all-channel#september_20_2023</id>
         <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#september_20_2023"/>
@@ -2939,16 +2958,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ashley Bardhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java 21 / JDK 21]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/java-21-jdk-21</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/java-21-jdk-21"/>
-        <updated>2023-09-19T17:47:43.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána Java 21 / JDK 21. Nových vlastností (JEP - JDK Enhancement Proposal) je 15. Jedná se o LTS verzi. Nová Java / JDK vychází každých 6 měsíců.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4317,16 +4326,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V jádře 6.7 půjde parametrem vypnout 32bitová volání pro x86]]></title>
-        <id>www.root.cz-actuality-45103</id>
-        <link href="https://www.root.cz/zpravicky/v-jadre-6-7-pujde-parametrem-vypnout-32bitova-volani-pro-x86/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-09-15T07:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Nikolaj Borisov ze SUSE před časem navrhl parametr jádra, který vypne podporu všech 32bitových volání a programů pro architekturu x86. Důvodem je lepší testování 64bitových aplikací a vypnutím snížíte prostor pro možné útoky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
