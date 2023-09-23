@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-09-23T10:08:47.838Z</id>
+    <id>urn:2023-09-23T12:15:47.375Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-09-23T10:08:47.838Z</updated>
+    <updated>2023-09-23T12:15:47.375Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Arrow Lake's NPU/VPU Very Similar To Meteor Lake - Linux Driver Patch Posted]]></title>
+        <id>https://www.phoronix.com/news/Intel-Arrow-Lake-VPU-NPU-Driver</id>
+        <link href="https://www.phoronix.com/news/Intel-Arrow-Lake-VPU-NPU-Driver"/>
+        <updated>2023-09-23T10:48:32.000Z</updated>
+        <summary type="html"><![CDATA[With Meteor Lake comes the introduction of the Versatile Processing Unit (VPU) that is now marketed by Intel as the Neural Processing Unit (NPU). Recent versions of the Linux kernel have the "IVPU" accelerator driver to support Meteor Lake's VPU/NPU while now a patch is pending to extend that support for next-generation Arrow Lake processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayland Color Management Protocol Posted For Weston]]></title>
+        <id>https://www.phoronix.com/news/Wayland-CM-Weston</id>
+        <link href="https://www.phoronix.com/news/Wayland-CM-Weston"/>
+        <updated>2023-09-23T10:36:20.000Z</updated>
+        <summary type="html"><![CDATA[The Wayland Color Management protocol has been years in the making and is needed for a client to specify the color space and HDR metadata of a surface. This color management protocol is ultimately needed for getting high dynamic range (HDR) support working out well within Wayland environments. This week an initial merge request was opened for implementing the draft color management protocol with the Weston reference compositor...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6 Seeing Many Bug Fixes -- Including For The Plasma Wayland Session]]></title>
+        <id>https://www.phoronix.com/news/Bug-Fixing-Plasma-6</id>
+        <link href="https://www.phoronix.com/news/Bug-Fixing-Plasma-6"/>
+        <updated>2023-09-23T10:24:11.000Z</updated>
+        <summary type="html"><![CDATA[With Plasma 6.0 aiming for an early February release, more of the KDE developer attention is turning to bug fixing...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (September 23rd)]]></title>
         <id>https://www.nintendolife.com/#article-155835</id>
@@ -3806,26 +3836,6 @@ On paper, Lies of P is very much going for a Bloodborne style, and while that's 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Maintainer Of The NVIDIA Open-Source "Nouveau" Linux Kernel Driver Resigns]]></title>
-        <id>https://www.phoronix.com/news/Nouveau-Maintainer-Resigns</id>
-        <link href="https://www.phoronix.com/news/Nouveau-Maintainer-Resigns"/>
-        <updated>2023-09-19T01:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Hours after posting a large patch series for enabling the Nouveau kernel driver to use NVIDIA's GSP for improving the support for RTX 20/30 series hardware and finally enabling accelerated graphics support on RTX 40 "Ada Lovelace" GPUs, the Red Hat maintainer has resigned from his duties...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go Ad-Free & Single Page Articles With The Phoronix 2023 Oktoberfest Sale]]></title>
-        <id>https://www.phoronix.com/news/2023-Oktoberfest-Sale</id>
-        <link href="https://www.phoronix.com/news/2023-Oktoberfest-Sale"/>
-        <updated>2023-09-19T01:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While there is (sadly) once again no Phoronix pilgrimage/meet-up at Oktoberfest this year, there is the annual Phoronix Premium sale special for those wishing to support the site at a discounted rate to enjoy ad-free viewing, multi-page articles on a single page, native dark mode, and other benefits...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Konverze Debianu ze souborového systému EXT4 na moderní ZFS]]></title>
         <id>www.root.cz-text-16697</id>
         <link href="https://www.root.cz/clanky/konverze-debianu-ze-souboroveho-systemu-ext4-na-moderni-zfs/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3843,16 +3853,6 @@ On paper, Lies of P is very much going for a Bloodborne style, and while that's 
         <summary type="html"><![CDATA[Na druhý článek o programovacím jazyku F# dnes opět navážeme „doplňujícím“ článkem, v němž si vysvětlíme stejné koncepty, nyní ovšem upravené do takové podoby, aby je bylo možné přímo využít v jazyku OCaml.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Releases A Big Update To Windows Subsystem For Linux, New Experimental Options]]></title>
-        <id>https://www.phoronix.com/news/WSL-Big-September-Update</id>
-        <link href="https://www.phoronix.com/news/WSL-Big-September-Update"/>
-        <updated>2023-09-18T21:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft has published a big feature update to Windows Subsystem for Linux "WSL" for running Linux binaries within the confines of Windows 11...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
