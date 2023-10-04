@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-04T08:13:26.154Z</id>
+    <id>urn:2023-10-04T10:10:58.273Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-04T08:13:26.154Z</updated>
+    <updated>2023-10-04T10:10:58.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAlt 2023 – konec přihlašování přednášek]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/openalt-2023-konec-prihlasovani-prednasek</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/openalt-2023-konec-prihlasovani-prednasek"/>
+        <updated>2023-10-04T09:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Konference OpenAlt 2023 proběhne o víkendu 11. a 12. listopadu v Brně. Přihlásit přednášky lze do neděle 08. října 23:59.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking v praxi: od sociálního inženýrství po bankomaty (školení)]]></title>
+        <id>www.root.cz-actuality-40997</id>
+        <link href="https://www.root.cz/zpravicky/hacking-v-praxi-od-socialniho-inzenyrstvi-po-bankomaty-skoleni-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-10-04T09:38:48.000Z</updated>
+        <summary type="html"><![CDATA[Přijďte prozkoumat tajuplný svět hackingu a množství jeho jednotlivých zákoutí. Průvodcem na této cestě vám bude zkušený etický hacker s mnohaletou praxí, který se s vámi podělí o své zkušenosti. Stačí navštívit naše školení Hacking v praxi 1, na kterém proniknete do světa útočníků a jejich obětí. Školení proběhne v naší pražské školicí místnosti ve dnech 23. až 25. října.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heating and cooling Raspberry Pi 5]]></title>
+        <id>https://www.raspberrypi.com/?p=101069</id>
+        <link href="https://www.raspberrypi.com/news/heating-and-cooling-raspberry-pi-5/"/>
+        <updated>2023-10-04T08:26:38.000Z</updated>
+        <summary type="html"><![CDATA[With the release of Raspberry Pi 5, we're introducing two new official hardware solutions for cooling. 
+The post Heating and cooling Raspberry Pi 5 appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Alasdair Allan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shiren The Wanderer: The Mystery Dungeon Of Serpentcoil Island Is Coming To The West]]></title>
         <id>https://www.nintendolife.com/#article-156340</id>
@@ -561,6 +592,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Glibc Dynamic Loader Hit By A Nasty Local Privilege Escalation Vulnerability]]></title>
+        <id>https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug</id>
+        <link href="https://www.phoronix.com/news/Glibc-LD-Nasty-Root-Bug"/>
+        <updated>2023-10-03T19:05:38.000Z</updated>
+        <summary type="html"><![CDATA[A nasty vulnerability has been made public today concerning Glibc's dynamic loader that can lead to full root privileges being obtained by local users. This affects Linux distributions of the past two years with the likes of Ubuntu 22.04 LTS, 23.04, Fedora 38, and others vulnerable to this local privilege escalation issue...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PowerWash Simulator VR makes a splash this November]]></title>
         <id>https://www.destructoid.com/?p=412301</id>
         <link href="https://www.destructoid.com/powerwash-simulator-vr-makes-a-splash-this-november/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=powerwash-simulator-vr-makes-a-splash-this-november"/>
@@ -630,6 +671,16 @@ Pocket Warcraft
 According to the Warcraft Rumble website, players can expect to collect over 65 Warcraft-universe minis as they play through multiple game modes including a single-player campaign, head-to-head PvP battles, and more. Each mini will have its own unique playstyle and strategy to take on Warcra…]]></summary>
         <author>
             <name>Steven Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Comes Up With A Way For Vulkan Sparse Support On Their Existing Linux Driver]]></title>
+        <id>https://www.phoronix.com/news/Intel-Vukan-Sparse-TR-TT</id>
+        <link href="https://www.phoronix.com/news/Intel-Vukan-Sparse-TR-TT"/>
+        <updated>2023-10-03T18:52:00.000Z</updated>
+        <summary type="html"><![CDATA[The biggest hindrance for using Intel Arc Graphics for Linux gaming has been the lack of Vulkan sparse support as needed for running many newer Windows DirectX 12 games atop Valve's Steam Play with Proton using VKD3D-Proton. Intel recently did implement Vulkan sparse support for ANV in Mesa 23.3 but it only works with their yet-to-be-upstreamed and still-experimental Xe kernel driver. But now Intel Linux graphics driver engineers have managed to pull off a solution for getting the sparse resources supported while using the existing i915 kernel DRM driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -735,6 +786,16 @@ Also, a new introduction video
 Endnight has also added a new introduction video "for guests at Holosp…]]></summary>
         <author>
             <name>Andrew Heaton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.Org Hit By New Security Vulnerabilities - Two Date Back To 1988 With X11R2]]></title>
+        <id>https://www.phoronix.com/news/XOrg-Vulnerabilities-Since-1988</id>
+        <link href="https://www.phoronix.com/news/XOrg-Vulnerabilities-Since-1988"/>
+        <updated>2023-10-03T17:31:11.000Z</updated>
+        <summary type="html"><![CDATA[It was a decade ago that a security researcher commented on X.Org Server security being even "worse than it looks" and that the GLX code for example was "80,000 lines of sheer terror" and hundreds of bugs being uncovered throughout the codebase. In 2023 new X.Org security vulnerabilities continue to be uncovered, two of which were made public today and date back to X11R2 code from the year 1988...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1200,6 +1261,26 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AMD Ryzen Powered Framework Laptop Linux Testing Held Up By BIOS Issue]]></title>
+        <id>https://www.phoronix.com/news/AMD-Framework-Linux-Hold</id>
+        <link href="https://www.phoronix.com/news/AMD-Framework-Linux-Hold"/>
+        <updated>2023-10-03T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Today the review embargo lifts on the first AMD-powered Framework laptop. There's one of the AMD Framework laptops in the lab for Linux testing and benchmarking but unfortunately no review for launch day due to being held up by a BIOS regression and thus unable to properly utilize accelerated graphics until a new BIOS revision is made available in the coming days...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU Binutils Lands Support For ARCv3 32-bit & 64-bit Architecture]]></title>
+        <id>https://www.phoronix.com/news/GNU-Binutils-ARCv3</id>
+        <link href="https://www.phoronix.com/news/GNU-Binutils-ARCv3"/>
+        <updated>2023-10-03T13:42:59.000Z</updated>
+        <summary type="html"><![CDATA[GNU Binutils has added support for the ARCv3 32-bit and 64-bit CPU architecture...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Our Fave Cosplay Looks From Dragon Con 2023]]></title>
         <id>1850893175</id>
         <link href="https://kotaku.com/dragon-con-2023-cosplay-costumes-best-diablo-metal-gear-1850893175"/>
@@ -1209,6 +1290,16 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Alyssa Mercante</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Bindings For Kernel Workqueues Coming To Linux 6.7]]></title>
+        <id>https://www.phoronix.com/news/Rust-Workqueue-Linux-6.7</id>
+        <link href="https://www.phoronix.com/news/Rust-Workqueue-Linux-6.7"/>
+        <updated>2023-10-03T13:09:29.000Z</updated>
+        <summary type="html"><![CDATA[Rust bindings are coming to the Linux kernel's workqueue (WQ) infrastructure that is used for deferring work to a kernel thread for asynchronous process execution...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1307,6 +1398,16 @@ Are you going to check out the Batman: Arkham Trilogy on Switch this December? L
         <summary type="html"><![CDATA[Vylepšená implementace pro multi-sample anti-aliasing (MSAA) využívající i delta color compression (DCC) bude poslední generaci Radonů, tedy modelům jako RX 7700 / 7800 / 7900 XT k dispozici s vydáním balíku Mesa 23.3.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD PMF Firmware Added To Linux-Firmware.Git For Smart PC Solution Builder]]></title>
+        <id>https://www.phoronix.com/news/AMD-PMF-Firmware-Published</id>
+        <link href="https://www.phoronix.com/news/AMD-PMF-Firmware-Published"/>
+        <updated>2023-10-03T12:24:01.000Z</updated>
+        <summary type="html"><![CDATA[As written about last month, AMD Linux engineers have been working on PMF Linux driver support for a "Smart PC Solutions Builder". The AMD Smart PC Solutions Builder feature is intended to provide OEMs with more control over system power/performance policies. It looks like systems making use of this feature are already to the marketplace or imminent with AMD having already landed the PMF firmware...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1434,6 +1535,16 @@ The upcoming game has the opportunity to try plenty of new things now that the f
 The post Check out “The Story So Far” trailer ahead of Detective Pikachu Returns’ launch appeared first on Destructoid.]]></summary>
         <author>
             <name>Smangaliso Simelane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 23.3 Will Enable More Efficient MSAA Anti-Aliasing Use With Radeon RDNA3 GPUs]]></title>
+        <id>https://www.phoronix.com/news/Mesa-23.3-DCC-MSAA-RDNA3</id>
+        <link href="https://www.phoronix.com/news/Mesa-23.3-DCC-MSAA-RDNA3"/>
+        <updated>2023-10-03T10:37:40.000Z</updated>
+        <summary type="html"><![CDATA[Adding to the list of notable features coming with Mesa 23.3 later this quarter is enabling delta color compression (DCC) for multi-sample anti-aliasing (MSAA) images on AMD RDNA3 (GFX11) graphics processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1739,6 +1850,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tweaking SteamOS For Better Steam Deck Performance]]></title>
+        <id>https://www.phoronix.com/review/steam-deck-steamos-tweaks</id>
+        <link href="https://www.phoronix.com/review/steam-deck-steamos-tweaks"/>
+        <updated>2023-10-02T20:20:51.000Z</updated>
+        <summary type="html"><![CDATA[A Phoronix reader recently published a guide that at its heart is a set of commands aimed at boosting the performance of SteamOS on the AMD APU powered Steam Deck. Here are some benchmarks showing the performance impact from these changes on the SteamOS 3.5 Preview release.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Video Game Voice Actors Are Ready To Strike Over AI. Here’s Why]]></title>
         <id>1850874117</id>
         <link href="https://kotaku.com/sag-aftra-strike-voice-actor-spider-man-ai-union-1850874117"/>
@@ -1865,6 +1986,16 @@ After depleting one of its four health bars, the griffin flew high into the sky,
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux Will Finally Indicate Via /proc/cpuinfo If AMD SVM Virtualization Is Disabled]]></title>
+        <id>https://www.phoronix.com/news/AMD-SVM-Correct-cpuinfo</id>
+        <link href="https://www.phoronix.com/news/AMD-SVM-Correct-cpuinfo"/>
+        <updated>2023-10-02T19:18:39.000Z</updated>
+        <summary type="html"><![CDATA[Checking for the presence of Intel virtualization (VMX) support and it being enabled can be easily achieved by looking at the flags in /proc/cpuinfo. But to this point AMD virtualization (SVM) has always been shown to user-space via /proc/cpuinfo even when the BIOS/platform has disabled SVM functionality. Finally for Linux 6.7 this oversight is being corrected...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Random: Super Mario Bros. Wonder Gets Fan-Made NES Commercial, And It's Brilliant]]></title>
         <id>https://www.nintendolife.com/#article-156275</id>
         <link href="https://www.nintendolife.com/news/2023/10/random-super-mario-bros-wonder-gets-fan-made-nes-commercial-and-its-brilliant"/>
@@ -1904,6 +2035,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intel Releases OpenVKL 2.0 With Intel GPU Acceleration Via SYCL]]></title>
+        <id>https://www.phoronix.com/news/Intel-OpenVKL-2.0</id>
+        <link href="https://www.phoronix.com/news/Intel-OpenVKL-2.0"/>
+        <updated>2023-10-02T18:42:01.000Z</updated>
+        <summary type="html"><![CDATA[Similar to Embree 4.0 adding Intel graphics acceleration earlier this year via SYCL, Intel's OpenVKL library that is also part of their oneAPI rendering toolkit has now added SYCL graphics acceleration with OpenVKL 2.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Pokémon Anime’s Spookiest Episode Aired 25 Years Ago Today]]></title>
         <id>1850892373</id>
         <link href="https://kotaku.com/pokemon-gastly-anime-episode-ghost-of-maidens-peak-1850892373"/>
@@ -1936,16 +2077,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python 3.12.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/python-3.12.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/python-3.12.0"/>
-        <updated>2023-10-02T17:38:26.000Z</updated>
-        <summary type="html"><![CDATA[Programovací jazyk Python byl vydán v nové major verzi 3.12.0. Podrobný přehled novinek v Changelogu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2008,6 +2139,16 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.12 Released With Linux Perf Integration, Performance Improvements]]></title>
+        <id>https://www.phoronix.com/news/Python-3.12-Released</id>
+        <link href="https://www.phoronix.com/news/Python-3.12-Released"/>
+        <updated>2023-10-02T16:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Python 3.12 is out today as the latest major feature release for this extremely popular programming language. Python 3.12 continues the trend of recent releases of enhancing the performance while continuing to introduce exciting new functionality...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2141,6 +2282,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux 6.7 To Boast Better Performance For FQ Packet Scheduling Algorithm]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.7-Faster-SCH_FQ</id>
+        <link href="https://www.phoronix.com/news/Linux-6.7-Faster-SCH_FQ"/>
+        <updated>2023-10-02T13:41:47.000Z</updated>
+        <summary type="html"><![CDATA[The Linux kernel's Fair Queue "FQ" network packet scheduling algorithm that is celebrating its 10th anniversary since being mainlined in the Linux 3.12 kernel cycle is celebrating by rolling out some performance optimizations with the next version of the Linux kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jádro se chce zbavit RNDIS, používá ho však Android pro síť po USB]]></title>
         <id>www.root.cz-actuality-45160</id>
         <link href="https://www.root.cz/zpravicky/jadro-se-chce-zbavit-rndis-pouziva-ho-vsak-android-pro-sit-po-usb/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2148,6 +2299,16 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Greg Kroah-Hartman včera navrhl z jádra odstranit ovladač pro Microsoft Remote Network Driver Interface Specification (RNDIS). Protokol není zabezpečený a ani nejde zabezpečit. Greg dále říká, že už jej nikdo nepoužívá.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Basic AMD Pensando Elba SoC Support Queued Ahead Of Linux 6.7]]></title>
+        <id>https://www.phoronix.com/news/AMD-Pensando-Elba-Queued</id>
+        <link href="https://www.phoronix.com/news/AMD-Pensando-Elba-Queued"/>
+        <updated>2023-10-02T13:21:32.000Z</updated>
+        <summary type="html"><![CDATA[The long ongoing saga of upstreaming AMD's Pensando Elba SoC support is now partially over with the initial enablement patches around the DeviceTree being queued as part of the SoC changes destined for the Linux 6.7 kernel cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2219,6 +2380,16 @@ The post Raspberry Pi 5 magazine specials: The MagPi #134 and HackSpace #71 appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux Mint 21.2 Edge ISO Brings Linux 6.2 Kernel]]></title>
+        <id>https://www.phoronix.com/news/Linux-Mint-21.2-Edge-Linux-6.2</id>
+        <link href="https://www.phoronix.com/news/Linux-Mint-21.2-Edge-Linux-6.2"/>
+        <updated>2023-10-02T12:26:05.000Z</updated>
+        <summary type="html"><![CDATA[The Linux Mint project has released an "Edge" ISO of Linux Mint 21.2 that is intended for users of new PC hardware where it's unable to boot the current Linux Mint release due to its older kernel version...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Payday 3: Starbreeze Says Matchmaking Issues Fixed, First Update Hits This Month]]></title>
         <id>121261</id>
         <link href="https://www.gameinformer.com/news/2023/10/02/payday-3-starbreeze-says-matchmaking-issues-fixed-first-update-hits-this-month"/>
@@ -2269,6 +2440,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Loongson Preparing LoongArch KVM Virtualization For Linux 6.7]]></title>
+        <id>https://www.phoronix.com/news/LoongArch-KVM-For-Linux-6.7</id>
+        <link href="https://www.phoronix.com/news/LoongArch-KVM-For-Linux-6.7"/>
+        <updated>2023-10-02T10:38:01.000Z</updated>
+        <summary type="html"><![CDATA[The past several Linux kernel cycles has seen Loongson engineers working on implementing more kernel features for LoongArch, the MIPS-derived and RISC-V-inspired architecture out of China for domestic PCs. The performance of LoongArch CPUs so far still aren't competitive to x86_64 or Arm hardware but at least slowly are becoming more practical with more features being wired up. The latest milestone is the Kernel-based Virtual Machine (KVM) virtualization support appearing ready ahead of Linux 6.7...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Missing Pushmo? Indie Game 'PictoPull' Might Be The Next Best Thing]]></title>
         <id>https://www.nintendolife.com/#article-156249</id>
         <link href="https://www.nintendolife.com/news/2023/10/missing-pushmo-indie-game-pictopull-might-be-the-next-best-thing"/>
@@ -2289,6 +2470,16 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Společnost T-Mobile nově spustila v testovacím provozu svůj dosud nejrychlejší internetový tarif se symetrickou rychlostí 8 Gb/s ve vybraných místech města Olomouc. Jedná se o aktuálně nejvyšší možnou rychlost dostupnou v optické síti na základě standardu XGS-PON, doplňují zástupci operátora.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New GNOME Code Speeds Up Performance For NVIDIA Proprietary Driver Multi-Monitor]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Mutter-Faster-NV-Prop</id>
+        <link href="https://www.phoronix.com/news/GNOME-Mutter-Faster-NV-Prop"/>
+        <updated>2023-10-02T10:26:25.000Z</updated>
+        <summary type="html"><![CDATA[A newly-opened merge request for GNOME's Mutter compositor adds hardware acceleration for the NVIDIA proprietary driver for secondary GPUs such as in the case of hybrid systems and other setups with multiple monitors whereby the NVIDIA GPU with proprietary driver is powering some of those outputs...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2390,6 +2581,16 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Steam On Linux Percentage Dips Further In September, AMD Powers 70% Of Linux Gamers]]></title>
+        <id>https://www.phoronix.com/news/Steam-Survey-September-2023</id>
+        <link href="https://www.phoronix.com/news/Steam-Survey-September-2023"/>
+        <updated>2023-10-02T00:16:15.000Z</updated>
+        <summary type="html"><![CDATA[After Steam on Linux usage topped to nearly 2% in July with the phenomenal success of the Steam Deck and with greater marketshare than Apple macOS, in August it took a dip and now the September numbers are out and points to a second consecutive month of the Linux percentage receding...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 10/02/2023]]></title>
         <id>https://torrentfreak.com/?p=186926</id>
         <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
@@ -2421,6 +2622,26 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux 6.6-rc4 Released - Linus Torvalds: It's Fairly Small]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-rc4-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-rc4-Released"/>
+        <updated>2023-10-01T21:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds just released Linux 6.6-rc4 as the newest test release for this kernel that is looking to be released as stable around the end of October...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux To Try Again To Disable All RNDIS Protocol Drivers]]></title>
+        <id>https://www.phoronix.com/news/Linux-Disable-RNDIS-Drivers</id>
+        <link href="https://www.phoronix.com/news/Linux-Disable-RNDIS-Drivers"/>
+        <updated>2023-10-01T18:52:34.000Z</updated>
+        <summary type="html"><![CDATA[Several months back was work to disable all Microsoft Remote Network Driver Interface Specification (RNDIS) drivers in the Linux kernel on the basis of being insecure and other factors. That plan of disabling the RNDIS drivers was faced by opposition around concerns of potentially disrupting USB tethering support and the like. It's been months since hearing anything about updated plans for disabling or dropping the RNDIS drivers but the Git branch was updated today for disabling this class of drivers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jake Paul Fight Lasted 119 Seconds, H3 Podcast Copyright Battle Hits 124 Weeks]]></title>
         <id>https://torrentfreak.com/?p=240726</id>
         <link href="https://torrentfreak.com/jake-paul-fight-lasted-119-seconds-h3-podcast-copyright-battle-hits-124-weeks-231001/"/>
@@ -2429,6 +2650,46 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 23.3 Restores DCC With Mipmaps Performance Optimization For AMD RDNA3 GPUs]]></title>
+        <id>https://www.phoronix.com/news/Mesa-23.3-More-DCC-Perf</id>
+        <link href="https://www.phoronix.com/news/Mesa-23.3-More-DCC-Perf"/>
+        <updated>2023-10-01T13:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Prolific RADV developer Samuel Pitoiset with Valve's Linux graphics driver team has re-enabled Delta Color Compression (DCC) with mipmaps for AMD GFX11 (RDNA3) hardware for the Mesa 23.3 release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft CBL-Mariner 2.0.20230924 Rebuilds AArch64 Packages Due To That Nasty GCC Bug]]></title>
+        <id>https://www.phoronix.com/news/CBL-Mariner-2.0.20230924</id>
+        <link href="https://www.phoronix.com/news/CBL-Mariner-2.0.20230924"/>
+        <updated>2023-10-01T12:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft released CBL-Mariner 2.0.20230924 this week as the newest version of their in-house Linux distribution. The driving force behind this release is to get out rebuilt AArch64 packages following the recent GCC security vulnerability that affected Arm 64-bit built software...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Open-Source Windows" ReactOS To See Improved GUI Setup/Installation]]></title>
+        <id>https://www.phoronix.com/news/ReactOS-GUI-Setup-Project</id>
+        <link href="https://www.phoronix.com/news/ReactOS-GUI-Setup-Project"/>
+        <updated>2023-10-01T12:29:31.000Z</updated>
+        <summary type="html"><![CDATA[ReactOS Deutschland e.V. has hired a longtime contributor to this "open-source Windows" project to spend the next five months working on the ReactOS GUI setup mode as an alternative to their classic text-based setup mode...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Now Mitigating Hygon CPUs For Inception/SRSO Vulnerability]]></title>
+        <id>https://www.phoronix.com/news/Hygon-Inception-SRSO</id>
+        <link href="https://www.phoronix.com/news/Hygon-Inception-SRSO"/>
+        <updated>2023-10-01T10:37:41.000Z</updated>
+        <summary type="html"><![CDATA[Disclosed back in August was the Inception vulnerability affecting all Zen processors. It took until today though for the mainline Linux kernel to mitigate Hygon processors for this vulnerability for those Zen 1 CPUs formed from the AMD-Chinese joint venture...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2556,6 +2817,76 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Podle zprávy deníku The Wall Street Journal provedl francouzský úřad pro hospodářskou soutěž tento týden razii v kancelářích společnosti Nvidia. Francouzský úřad sice nezmiňuje společnost Nvidia jmenovitě, ale potvrzuje, že provedl razii kvůli obavám z praktik narušujících hospodářskou soutěž v odvětví grafických karet.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silicon Motion X.Org Driver Sees First Release In Six Years]]></title>
+        <id>https://www.phoronix.com/news/xf86-video-siliconmotion-1.7.10</id>
+        <link href="https://www.phoronix.com/news/xf86-video-siliconmotion-1.7.10"/>
+        <updated>2023-09-30T17:40:19.000Z</updated>
+        <summary type="html"><![CDATA[The xf86-video-siliconmotion X.Org driver has seen its first new release in six years for supporting the Silicon Motion Lynx and Cougar chipsets found in vintage laptops...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi 5, Steam Deck & New AMD CPUs Dominated Q3]]></title>
+        <id>https://www.phoronix.com/news/Q3-2023-Highlights</id>
+        <link href="https://www.phoronix.com/news/Q3-2023-Highlights"/>
+        <updated>2023-09-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[During the third quarter on Phoronix were 689 original Linux/open-source news articles and another 50 Linux hardware reviews / benchmark articles. Here's a look back at what excited Linux enthusiasts this quarter...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical's Snap Store Hit By Malicious Apps]]></title>
+        <id>https://www.phoronix.com/news/Snap-Store-Malicious-Apps</id>
+        <link href="https://www.phoronix.com/news/Snap-Store-Malicious-Apps"/>
+        <updated>2023-09-30T16:35:02.000Z</updated>
+        <summary type="html"><![CDATA[Stemming from reports of several fake crypto apps appearing in Canonical's Snap Store that aimed to steal user funds, temporary restrictions have been put in place while Canonical investigates the security matter...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Milk-V Duo Linux Kernel Patches Submitted For This $9 RISC-V Board]]></title>
+        <id>https://www.phoronix.com/news/Milk-V-Duo-Linux-Patches</id>
+        <link href="https://www.phoronix.com/news/Milk-V-Duo-Linux-Patches"/>
+        <updated>2023-09-30T13:20:05.000Z</updated>
+        <summary type="html"><![CDATA[Patches have been posted to the Linux kernel mailing list in an effort to mainline support for the Milk-V Duo RISC-V development platform with the basic board retailing for $9...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine-Staging 8.17 Released With Fix For Eight Year Old Bug Report]]></title>
+        <id>https://www.phoronix.com/news/Wine-Staging-8.17</id>
+        <link href="https://www.phoronix.com/news/Wine-Staging-8.17"/>
+        <updated>2023-09-30T12:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Building off yesterday's Wine 8.17 release, Wine-Staging 8.17 is now available that consists of 494 extra patches atop the upstream Wine code-base...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wlroots Merges Wayland Tearing Control Support]]></title>
+        <id>https://www.phoronix.com/news/wlroots-Tearing-Control-Merged</id>
+        <link href="https://www.phoronix.com/news/wlroots-Tearing-Control-Merged"/>
+        <updated>2023-09-30T10:31:47.000Z</updated>
+        <summary type="html"><![CDATA[The wlroots Wayland compositor library used by Sway and other Wayland compositors to help with the heavy lifting has merged support for the tearing control protocol...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.0 Ends September With Many New Features & Enhancements]]></title>
+        <id>https://www.phoronix.com/news/Plasma-6.0-EO-September</id>
+        <link href="https://www.phoronix.com/news/Plasma-6.0-EO-September"/>
+        <updated>2023-09-30T10:12:22.000Z</updated>
+        <summary type="html"><![CDATA[Plasma 6 development is ending September on a high note with a number of new features and enhancements to this desktop now merged...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3113,6 +3444,16 @@ The post How can I get a Raspberry Pi 5 before everyone else? appeared first on 
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi 5 Graphics Continue With Open-Source Driver & Crazy Fast Compared To RPi 4]]></title>
+        <id>https://www.phoronix.com/review/raspberry-pi-5-graphics</id>
+        <link href="https://www.phoronix.com/review/raspberry-pi-5-graphics"/>
+        <updated>2023-09-29T04:00:30.000Z</updated>
+        <summary type="html"><![CDATA[With my Raspberry Pi 5 review and benchmarks I focused on the CPU performance of the quad-core Cortex-A76 2.4GHz Broadcom SoC powering this new single board computer, but the graphics upgrade are just as equally impressive. Here is a look at the open-source driver support and performance for the Raspberry Pi 5's VideoCore VII GPU.]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3887,16 +4228,6 @@ What do you hope to see in this Devil May Cry anime? Let us know in the comments
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Výročí 40 let projektu GNU]]></title>
-        <id>www.root.cz-actuality-45143</id>
-        <link href="https://www.root.cz/zpravicky/vyroci-40-let-projetku-gnu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-09-27T16:47:08.000Z</updated>
-        <summary type="html"><![CDATA[Právě dnes slavíme 40 let od založení projektu, který je vedle jádra Linux druhou významnou nohou, na níž stojí open-source svět. GNU bylo oznámeno 27. září 1983 Richardem Stallmanem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4842,17 +5173,6 @@ The post E-paper shows fragments of huge shared artwork-in-progress appeared fir
         <summary type="html"><![CDATA[Další letní týdny přinesly nová vydání distribucí Bodhi Linux a Mageia či příruček Linux From Scratch. Na Debian 12 povýšily antiX a Emmabuntüs. Mezitím byly aktualizovány také Kali Linux, OpenMandriva ROME, MidnightBSD, Nitrux či GParted Live.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This teeny tiny TV plays The Simpsons all day, every day]]></title>
-        <id>https://www.raspberrypi.com/?p=101214</id>
-        <link href="https://www.raspberrypi.com/news/this-teeny-tiny-tv-plays-the-simpsons-all-day-every-day/"/>
-        <updated>2023-09-20T10:55:38.000Z</updated>
-        <summary type="html"><![CDATA[A Raspberry Pi Zero, a 2.8" Waveshare screen, and a little 3D printing magic is all fans of The Simpsons need to create a miniature perpetual watch party. 
-The post This teeny tiny TV plays The Simpsons all day, every day appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Ashley Whittaker</name>
         </author>
     </entry>
     <entry>
