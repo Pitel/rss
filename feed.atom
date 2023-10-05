@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-05T04:11:36.840Z</id>
+    <id>urn:2023-10-05T06:13:20.018Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-05T04:11:36.840Z</updated>
+    <updated>2023-10-05T06:13:20.018Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSSH 9.5 generuje ve výchozím stavu klíče Ed25519]]></title>
+        <id>www.root.cz-actuality-45170</id>
+        <link href="https://www.root.cz/zpravicky/openssh-9-5-generuje-ve-vychozim-stavu-klice-ed25519/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-10-05T05:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři uvolnili OpenSSH verze 9.5. Tato verze při generování klíčů vytváří ve výchozím stavu pár klíčů pro algoritmus eliptických křivek Ed25519, přičemž doposud do byl algoritmus RSA. Klíče Ed25519 jsou pro SSH specifikovány v RFC 8709 a OpenSSH je podporuje od verze 6.5 vydané začátkem roku 2014.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mario Producer: Sonic's Same Week Release Is "An Interesting Coincidence"]]></title>
+        <id>https://www.nintendolife.com/#article-156385</id>
+        <link href="https://www.nintendolife.com/news/2023/10/mario-producer-sonics-same-week-release-is-an-interesting-coincidence"/>
+        <updated>2023-10-05T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Wonder and Superstars arrive later this month.
+Mario and Sonic both have new side-scrolling games arriving in the same week later this month and it has been generating some discussion online.
+If you've been wondering how the developers of Super Mario Bros. Wonder feel about this, according to the game's producer Takashi Tezuka, the Nintendo team doesn't mind and is generally looking forward to the return of "2D side-scroller action games". He did admit though that it was an "interesting coincidence".
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Little Universe Nintendo Switch™ Sweepstakes]]></title>
+        <id>121271</id>
+        <link href="https://www.gameinformer.com/sweepstakes/my-little-universe-nintendo-switch-sweepstakes"/>
+        <updated>2023-10-05T05:00:01.000Z</updated>
+        <summary type="html"><![CDATA[My Little Universe, a smash mobile hit with over 30 million players worldwide, is now available for Nintendo Switch™ and PC, and to celebrate the launch, we are offering a custom-skinned My Little Universe Nintendo Switch™ OLED Console, complete with a copy of My Little Universe, to one lucky winner.
+Explore new planets, trusty pick axe in hand, and forge continents from scratch, forming entire biomes from the ground up! Reveal new resources with every procedurally generated tile, but beware of monsters like yetis, mushroom men, and goblins that protect the planet’s treasures. Manage gems, wood, stone, and more to build more tiles, uncover new areas, and upgrade weapons and tools. Your little universe is what you make of it! Better yet, invite up to three friends to join you in the split-screen local co-op mode because it’s always more exciting with friends!
+
+As a bonus, we also have 4 game keys for digital copies of My Little Universe for 4 lucky runner-up winners, simply choose your console when you enter.
+Sweepstakes open to residents of the continental U.S. and District of Columbia ages 13 and older. Daily entry is available until 11:59 PM CST, October 18, 2023. You will be contacted via email after the close of the sweepstakes so be sure to use an email you check frequently. Full sweepstakes rules are available below with each entry method. Good Luck!
+My Little Universe Custom Nintendo Switch™ Sweepstakes]]></summary>
+        <author>
+            <name>Game Informer Contests</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Bank Users Encouraged To Transfer Pokémon To Pokémon Home ASAP]]></title>
         <id>https://www.nintendolife.com/#article-156384</id>
@@ -16,6 +54,16 @@ Yesterday, Nintendo announced it would be ending "online play and other function
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slax 15.0.2 a 12.1.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/slax-15.0.2-a-12.1.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/slax-15.0.2-a-12.1.0"/>
+        <updated>2023-10-05T02:24:27.000Z</updated>
+        <summary type="html"><![CDATA[Tomáš Matějíček vydal nové verze živé linuxové distribuce Slax: 15.0.2 založenou na Slackware a 12.1.0 založenou na Debianu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2636,16 +2684,6 @@ Are you interested in checking out The Forest Cathedral? Let us know in the comm
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tails 5.18]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/tails-5.18</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/tails-5.18"/>
-        <updated>2023-10-03T11:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 5.18 živé linuxové distribuce Tails (The Amnesic Incognito Live System), jež klade důraz na ochranu soukromí uživatelů a anonymitu. Přehled změn v příslušném seznamu. Tor Browser byl povýšen na verzi 12.5.6. Tor na verzi 0.4.8.6.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PlayStation Releases New Marvel's Spider-Man 2 Cinematic Trailer]]></title>
         <id>121272</id>
         <link href="https://www.gameinformer.com/news/2023/10/03/playstation-releases-new-marvels-spider-man-2-cinematic-trailer"/>
@@ -2718,19 +2756,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Our Video Producer Hid A Special Nintendo Tribute Inside Sea Of Stars]]></title>
-        <id>https://www.nintendolife.com/#article-156294</id>
-        <link href="https://www.nintendolife.com/news/2023/10/video-our-video-producer-hid-a-special-nintendo-tribute-inside-sea-of-stars"/>
-        <updated>2023-10-03T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In his heart, he was a gamer.
-Sea of Stars was released over a month ago now, and it's safe to say that it'll be featuring on many a gamer's GOTY list come December. Sabotage's RPG is a gorgeous, gloriously clever homage to 16-bit classics that manages to modernise things while adding its own unique spirit to the formula.
-The game was in development for several years, and back when the project went through a round of crowdfunding, Zion — one of our lovely video team — took the opportunity to have a memorial put in the game's Crypt. This wouldn't be just a stock headstone with some vetted text message, but rather a custom-made statue created by the art team according to specific requests and instructions.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -4433,16 +4458,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Counter-Strike 2 vyšel včetně verze pro Linux]]></title>
-        <id>www.root.cz-actuality-45147</id>
-        <link href="https://www.root.cz/zpravicky/counter-strike-2-vysel-vcetne-verze-pro-linux/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-09-28T14:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Vyšel Counter-Strike 2, jehož testovací verze byly průběžně vydávány od března. K dispozici je také linuxová verze, Ubuntu 20.04 (nebo podobné) a novější, alespoň čtyřjádrový procesor Intel Core i5 nebo lepší, alespoň 8 GB paměti RAM, grafika AMD Radeon HD 7000 řady GCN a novější nebo grafika NVIDIA GeForce GTX 600 Kepler a novější a alespoň 85 GB úložného prostoru.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon Prime Big Deal Days 2023: dates, PC gaming deals, and everything else you need to know]]></title>
         <id>https://www.rockpapershotgun.com/amazon-prime-big-deal-days-2023-dates-pc-gaming-deals-and-everything-else-you-need-to-know</id>
         <link href="https://www.rockpapershotgun.com/amazon-prime-big-deal-days-2023-dates-pc-gaming-deals-and-everything-else-you-need-to-know"/>
@@ -4909,20 +4924,6 @@ In the base Forbidden West game, players once again control protagonist Aloy, th
 Read more]]></summary>
         <author>
             <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update: Remedy Confirms Alan Wake 2 Performance Mode Not Coming To Xbox Series S]]></title>
-        <id>121234</id>
-        <link href="https://www.gameinformer.com/news/2023/09/27/alan-wake-2-will-have-a-performance-mode-on-ps5-and-xbox-series-x"/>
-        <updated>2023-09-27T12:44:53.000Z</updated>
-        <summary type="html"><![CDATA[Update, 10/2/23:
-Remedy Entertainment revealed last week that a Performance Mode was coming to Alan Wake 2 on PlayStation 5 and Xbox Series X. There was no mention of this mode coming to Xbox Series S, however, and Game Informer reached out to Remedy to ask if the mode was skipping the console. Remedy confirmed to Game Informer today that there will be no Performance Mode for Alan Wake 2 on Xbox Series S.  
-The original story continues below...
-Original story, 9/27/23:
-Alan Wake 2 has continued to stun and impress with its visuals and spooky but enticing world since its reveal during The Game Awards 2021. Since then, we've seen beautiful concept art, trailers, gameplay, and more of developer Remedy Entertainment's latest. Today, Remedy communications director Thomas Puha confirmed on Twitt…]]></summary>
-        <author>
-            <name>Wesley LeBlanc</name>
         </author>
     </entry>
     <entry>
