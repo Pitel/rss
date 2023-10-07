@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-07T08:11:05.030Z</id>
+    <id>urn:2023-10-07T10:09:13.586Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-07T08:11:05.030Z</updated>
+    <updated>2023-10-07T10:09:13.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Turris Omnia Enterprise byl ukázán na LinuxDays (galerie)]]></title>
+        <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (October 7th)]]></title>
+        <id>https://www.nintendolife.com/#article-156493</id>
+        <link href="https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-october-7th"/>
+        <updated>2023-10-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tell us! Do it now!
+The weekend is here once again folks, so it's time to sit down, relax, and play some games.
+Before we do so, however, let's just go over what's been going on this week. First, we got another teasing look at Hotel Chocolatier, the new game from the creator of Stardew Valley, and it's looking mighty fine indeed. We also learned that Nintendo plans to continue to support the Switch well into FY24/25, which... yeah, that seems obvious.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turris Omnia Enterprise byl ukázán na LinuxDays (galerie)]]></title>
         <id>www.root.cz-text-16798</id>
         <link href="https://www.root.cz/clanky/turris-omnia-enterprise-byl-ukazan-na-linuxdays-galerie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-10-07T08:00:00.000Z</updated>
@@ -2094,19 +2107,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more...]]></summary>
         <author>
             <name>Ashley Bardhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Charts: Pikmin 4 Holds Its Own Against Multiple New Releases]]></title>
-        <id>https://www.nintendolife.com/#article-156436</id>
-        <link href="https://www.nintendolife.com/news/2023/10/japanese-charts-pikmin-4-holds-its-own-against-multiple-new-releases"/>
-        <updated>2023-10-05T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[It's the only returning game in the top ten.
-It's time to check out the latest physical charts from Japan, and this time, there are a whole bunch of new releases making up the top ten (well, technically just four split across various platforms, but you get it). Nevertheless, Pikmin 4 is still holding its own at number 5, selling a further 18,307 copies, pushing it ever closer to that 1 million unit milestone.
-Otherwise, Koei Tecmo's Fate/Samurai Remnant comes in at number 1 on the Switch with 34,728 units sold, while its PS5 and PS4 siblings enter the top ten at numbers 3 and 9 respectively. We've also got Infinity Strash: Dragon Quest The Adventure of Dai at number 2, while the Switch version of EA Sports FC 24 managed to snatch position number 6, coming in ahead of the PS5 and PS4 variants.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -5381,115 +5381,6 @@ Issue #297043493
 "Remove Unused Resources" does not work when selecting module in the project view]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Iguana Canary 3 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-3-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-3-now.html"/>
-        <updated>2023-09-07T22:00:00.002Z</updated>
-        <summary type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 3 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Iguana, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
-General fixes and features
-Below is a list of general fixes in Android Studio Iguana Canary 3 and Android Gradle Plugin 8.3.0-alpha03. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
-
-
-
-
-
-
-
-Android Gradle Plugin
-
-
-
-
-Issue #295205663
-Execution failed for task ':app:mergeReleaseClasses' after Updating AGP from 8.0.2 to 8.1.0
-
-
-Issue #298008231
-[Gradle 8.4][upgrade] Integration test failure after upgrade due to use of deprecated feature in kotlin gradle plugin
-
-
-
-
-
-App Quality Insights
-
-
-
-
-Issue #299176609
-AQI tool window shows always users count from event count
-
-
-Issue #298077908
-App Quality Insight shows invalid OS version
-
-
-
-
-
-Baseline Profiles & ProfileInstaller
-
-
-
-
-Issue #298011132
-Gradle plugin isn't compatible with 8.3 alphas
-
-
-
-
-
-Code Editor
-
-
-
-
-Issue #297790370
-"Incorrect formatting" firing on layout XML files based on incorrect setting value
-
-
-
-
-
-Gradle Files Editor
-
-
-
-
-Issue #295282939
-Version catalog shows unused symbols in Groovy when names are nested
-
-
-
-
-
-Resources
-
-
-
-
-Issue #295349275
-Android Studio hangs with indirect resource reference to duplicate name]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Androids get a companion. iOS port public testing]]></title>
-        <id>https://www.scummvm.org/news/archive/#2023-09-07</id>
-        <link href="https://www.scummvm.org/news/20230907/"/>
-        <updated>2023-09-07T20:59:18.000Z</updated>
-        <summary type="html"><![CDATA[The day has come. We are super happy to announce public beta testing for the iOS port of ScummVM in the store. Yes, you read it right! Since Lars Sundström, aka lman, joined our team as the iOS porter, we have made significant progress. Thus, you no longer need to compile ScummVM yourself in order to add it to your iOS or iPadOS device. 
-If you want to help by testing this version, just follow this Testflight link and enroll yourself in the test program. This may require installing Apple’s Testflight app. You can find instructions on how to install games and how to play them on our documentation portal.
-We truly appreciate your feedback. You can share your thoughts with the Testflight feedback feature, where you can attach screenshots and post detailed descriptions. Alternatively, you can use our bugtracker, e-mail us at ios@scummvm.org, or post on our Discord Server. Your help will let us eventually add ScummVM to the App Store.
->]]></summary>
-        <author>
-            <name>nospam@scummvm.org (sev, lman)</name>
         </author>
     </entry>
 </feed>
