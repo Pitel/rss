@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-11T06:13:50.546Z</id>
+    <id>urn:2023-10-11T08:12:44.724Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-11T06:13:50.546Z</updated>
+    <updated>2023-10-11T08:12:44.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Curl opravuje vážnou zranitelnost týkající se zpracování SOCKS5]]></title>
+        <id>www.root.cz-actuality-45191</id>
+        <link href="https://www.root.cz/zpravicky/curl-opravuje-vaznou-zranitelnost-tykajici-se-zpracovani-socks5/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-10-11T07:51:45.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Stenberg zveřejnil informace o vážné zranitelnosti, kterou už dříve oznámil. Kvůli koordinaci oprav ale nemohl dříve zveřejnit žádné podrobnosti, kromě toho, že podle něj jde o nejvážnější bezpečnostní problém za velmi dlouhou dobu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME umožňuje vzdálené spuštění kódu kvůli chybě v libcue]]></title>
+        <id>www.root.cz-actuality-45190</id>
+        <link href="https://www.root.cz/zpravicky/gnome-umoznuje-vzdalene-spusteni-kodu-kvuli-chybe-v-libcue/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-10-11T07:42:29.000Z</updated>
+        <summary type="html"><![CDATA[Zranitelnost v knihovně libcue může být zneužita ke vzdálenému spuštění kódu (RCE) na desktopovém systému s prostředím GNOME. Stačí k tomu přesvědčit uživatele ke kliknutí na škodlivý odkaz. Problém odhalil tým GitHub Security Lab a dostal označení CVE-2023–43641.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Útok HTTP/2 Rapid Reset umožňuje shodit web server a už se zneužívá]]></title>
+        <id>www.root.cz-text-16812</id>
+        <link href="https://www.root.cz/clanky/utok-http-2-rapid-reset-umoznuje-shodit-web-server-a-uz-se-zneuziva/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-10-11T07:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Společnosti Amazon Web Services (AWS), Cloudflare a Google v úterý oznámily, že přijaly opatření ke zmírnění rekordních útoků typu DDoS, které se opírají o novou techniku zvanou HTTP/2 Rapid Reset.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ELK Stack: naučte se Elasticsearch, Logstash a Kibana (školení)]]></title>
+        <id>www.root.cz-actuality-40262</id>
+        <link href="https://www.root.cz/zpravicky/elk-stack-naucte-se-elasticsearch-logstach-a-kibana-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-10-11T06:51:02.000Z</updated>
+        <summary type="html"><![CDATA[Většina počítačových programů generuje logy – tedy zprávy a záznamy o své činnosti. ELK Stack – ElasticSearch, Logstash, Kibana – je populární nástroj, který umí logy efektivně zpracovávat, ukládat a zpřístupňovat.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragon Ball Xenoverse 2 Teases 7th Anniversary Announcement & Shares New Key Art]]></title>
         <id>https://www.nintendolife.com/#article-156712</id>
@@ -49,7 +89,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.nintendolife.com/#article-156707</id>
         <link href="https://www.nintendolife.com/news/2023/10/nintendo-switch-system-update-17-0-0-is-now-live-here-are-the-full-patch-notes"/>
         <updated>2023-10-11T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA[More stable than ever before.
+        <summary type="html"><![CDATA[Super stable.
 Nintendo has rolled out a new update for the Switch and it bumps the system firmware up to Version 17.0.0.
 Yes, it's a major one, but there's seemingly not much going on other than the usual stability improvements to enhance the overall experience. Here are the full patch notes, courtesy of Nintendo's official support page:
 Read the full article on nintendolife.com]]></summary>
@@ -2689,16 +2729,6 @@ If you enjoy our livestreams but haven’t subscribed to our Twitch channel, kno
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Turris Omnia Enterprise byl ukázán na LinuxDays (galerie)]]></title>
-        <id>www.root.cz-text-16798</id>
-        <link href="https://www.root.cz/clanky/turris-omnia-enterprise-byl-ukazan-na-linuxdays-galerie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-10-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nový router Turris Omnia Enterprise byl poprvé ukázán na letošní konferenci LinuxDays. Nabízí šest klecí pro optické SFP moduly, zcela pasivní chlazení a je možné ho nainstalovat do racku. Podívejte se sami.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Začala konference LinuxDays, sledujte živé streamy]]></title>
         <id>www.root.cz-actuality-45177</id>
         <link href="https://www.root.cz/zpravicky/zacala-konference-linuxdays-sledujte-zive-streamy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3755,16 +3785,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSSH 9.5 generuje ve výchozím stavu klíče Ed25519]]></title>
-        <id>www.root.cz-actuality-45170</id>
-        <link href="https://www.root.cz/zpravicky/openssh-9-5-generuje-ve-vychozim-stavu-klice-ed25519/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-10-05T05:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři uvolnili OpenSSH verze 9.5. Tato verze při generování klíčů vytváří ve výchozím stavu pár klíčů pro algoritmus eliptických křivek Ed25519, přičemž doposud do byl algoritmus RSA. Klíče Ed25519 jsou pro SSH specifikovány v RFC 8709 a OpenSSH je podporuje od verze 6.5 vydané začátkem roku 2014.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Little Universe Nintendo Switch™ Sweepstakes]]></title>
         <id>121271</id>
         <link href="https://www.gameinformer.com/sweepstakes/my-little-universe-nintendo-switch-sweepstakes"/>
@@ -4015,16 +4035,6 @@ Are you going to check out The Last Faith next month? Let us know in the comment
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Knihovna virtuálního terminálu v GNOME o desítky procent zrychlí]]></title>
-        <id>www.root.cz-actuality-45169</id>
-        <link href="https://www.root.cz/zpravicky/knihovna-virtualniho-terminalu-v-gnome-o-desitky-procent-zrychli/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-10-04T15:57:43.000Z</updated>
-        <summary type="html"><![CDATA[GNOME VTE, tedy knihovna virtuálního terminálu (VTE) poskytující VT widget pro GTK aplikace, bude v GNOME s budoucí verzí zase o notný kus svižnější. Vývojář Christian Hergert, který se jejím optimalizacím věnuje, hovoří o 40% zrychlení běhu při typických činnostech.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's better: Quick restarts, or a diegetic HUD?]]></title>
         <id>https://www.rockpapershotgun.com/whats-better-quick-restarts-or-a-diegetic-hud</id>
         <link href="https://www.rockpapershotgun.com/whats-better-quick-restarts-or-a-diegetic-hud"/>
@@ -4191,16 +4201,6 @@ There's a lot to sift through there, which we'll get into next week, but we also
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking v praxi: od sociálního inženýrství po bankomaty (školení)]]></title>
-        <id>www.root.cz-actuality-40997</id>
-        <link href="https://www.root.cz/zpravicky/hacking-v-praxi-od-socialniho-inzenyrstvi-po-bankomaty-skoleni-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-10-04T09:38:48.000Z</updated>
-        <summary type="html"><![CDATA[Přijďte prozkoumat tajuplný svět hackingu a množství jeho jednotlivých zákoutí. Průvodcem na této cestě vám bude zkušený etický hacker s mnohaletou praxí, který se s vámi podělí o své zkušenosti. Stačí navštívit naše školení Hacking v praxi 1, na kterém proniknete do světa útočníků a jejich obětí. Školení proběhne v naší pražské školicí místnosti ve dnech 23. až 25. října.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
