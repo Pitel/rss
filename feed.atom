@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-15T02:19:53.005Z</id>
+    <id>urn:2023-10-15T04:11:01.875Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-15T02:19:53.005Z</updated>
+    <updated>2023-10-15T04:11:01.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Super Mario Bros. Wonder Leaked Online Ahead Of Next Week's Release]]></title>
+        <id>https://www.nintendolife.com/#article-156908</id>
+        <link href="https://www.nintendolife.com/news/2023/10/super-mario-bros-wonder-leaked-online-ahead-of-next-weeks-release"/>
+        <updated>2023-10-15T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Watch out for spoilers.
+Another anticipated Nintendo Switch exclusive has been leaked online. This time it's Super Mario Bros. Wonder, due out next week on 20th October.
+After the voice of the new Mario was confirmed on Friday, there are now multiple reports suggesting Mario Wonder's ROM file is being distributed online. This new game is also being streamed on platforms like Twitch, although some users claim they've acquired physical copies early.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blender s API Vulkan, KDE s klávesou F10]]></title>
         <id>www.root.cz-text-16817</id>
@@ -71,7 +84,7 @@ The post Matt Mercer confirmed as Vincent Valentine in Final Fantasy VII Rebirth
         <link href="https://www.nintendolife.com/news/2023/10/mortal-kombat-1-shares-first-look-at-the-kombat-pack-dlc-fighter-omni-man"/>
         <updated>2023-10-14T20:05:00.000Z</updated>
         <summary type="html"><![CDATA[Early access starts next month.
-At New York Comic-Con this weekend, NetherRealm Studios shared a "first look" at the Mortal Kombat 1 Kombat Pack fighter Omni-Man.
+At New York Comic-Con this weekend, NetherRealm Studios shared a "first look" at the Mortal Kombat 1 Kombat Pack fighter Omni-Man. The developer has also confirmed J.K. Simmons will reprise his role as the character.
 He'll be available to anyone who purchases the Premium Edition or Kombat Pack and playable in early access starting November 2023. In the latest trailer, you can also see Tremor will be appearing as a Kameo Fighter.
 Read the full article on nintendolife.com]]></summary>
         <author>
@@ -2217,19 +2230,6 @@ The Game Informer Show – Podcast Timestamps:
 01:08:49 - Housekeeping and Listener Questions]]></summary>
         <author>
             <name>Alex Van Aken</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anniversary: Happy Birthday To Nintendo's Ugliest, Most Indestructible Console]]></title>
-        <id>https://www.nintendolife.com/#article-156642</id>
-        <link href="https://www.nintendolife.com/features/anniversary-happy-birthday-to-nintendos-ugliest-most-indestructible-console"/>
-        <updated>2023-10-12T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Slated.
-
-It's that time of year when video game anniversary enthusiasts can enjoy the birthday of a significant game or console nearly every day of the week. It's the turn of Pokémon X & Y which turns 10 today (look out for a feature on that coming up a little later), but it's also a decade since one of Nintendo's lowest-key console launches.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -5198,83 +5198,6 @@ Test Espresso Device Version 1.0.0-alpha06
 Test Monitor Version 1.7.0-alpha02]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Iguana Canary 4 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-4-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/09/android-studio-iguana-canary-4-now.html"/>
-        <updated>2023-09-15T16:00:00.003Z</updated>
-        <summary type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 4 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel, you can get the update by clicking Help > Check for Update (or Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Iguana, see the Android Studio Preview release notes. For details of bugs fixed in each preview release, see previous entries on this blog.
-General fixes and features
-Below is a list of general fixes in Android Studio Iguana Canary 4 and Android Gradle Plugin 8.3.0-alpha04. These are a result of your bug reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects you.
-
-
-Android Gradle Plugin
-
-
-Issue #289098893
-Don't check for the existence of manifest overlay files during configuration phase
-
-
-Issue #299314630
-Broken link to Gradle doc on MergeJavaResWorkAction error
-
-
-Issue #278767328
-Gradle 8.1 breaks configuration caching due to .gradle/.android/analytics.settings
-
-
-Issue #196226533
-AGP should not use ProjectComponentIdentifier.projectPath without ProjectComponentIdentifier.build
-
-
-
-Editing
-
-
-Issue #300221546
-Unresolved reference in IDE for safeargs-generated classes
-
-
-
-Import/Sync
-
-
-Issue #232907845
-StopGradleDaemonsAction runs on the UI thread
-
-
-Issue #180899781
-Recommended AGP version is 3.3.2
-
-
-
-Network Inspector
-
-
-Issue #251452522
-AS Flamingo Network Inspector rules dont work
-
-
-
-Release Bundle/APKs
-
-
-Issue #160631717
-"APK(s) generated successfully..." message is misleading when APK file isn't modified.
-
-
-
-Resources
-
-
-Issue #297043493
-"Remove Unused Resources" does not work when selecting module in the project view]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
