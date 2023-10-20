@@ -1,10 +1,182 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-20T20:09:57.231Z</id>
+    <id>urn:2023-10-20T22:08:38.871Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-20T20:09:57.231Z</updated>
+    <updated>2023-10-20T22:08:38.871Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[(Ne)bezpečnost emulátorů terminálů vzhledem k ANSI escape kódům]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/-ne-bezpecnost-emulatoru-terminalu-vzhledem-k-ansi-escape-kodum</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/-ne-bezpecnost-emulatoru-terminalu-vzhledem-k-ansi-escape-kodum"/>
+        <updated>2023-10-20T22:01:32.000Z</updated>
+        <summary type="html"><![CDATA[David Leadbeater se na svých stránkách podrobně rozepsal o (ne)bezpečnosti emulátorů terminálů vzhledem k ANSI escape kódům. V různých emulátorech nalezl 10 kritických bezpečnostních chyb, jež mohou útočníci využít k vzdálenému spouštění příkazů (RCE), viz například videozáznam na YouTube, kde spuštění příkazu nslookup vede ke spuštění kalkulačky. Zkuste vytvořit soubor evil.sh příkazem printf "echo evil #\b\b\b\b\b\bgood  \n" > evil.sh. Co udělá "cat evil.sh" a co "sh evil.sh"?]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Událo se v týdnu 42/2023]]></title>
+        <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-42-2023</id>
+        <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-42-2023"/>
+        <updated>2023-10-20T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 27-in 1440p 165Hz monitor is in the price/performance sweet spot for $280]]></title>
+        <id>https://www.rockpapershotgun.com/this-27-in-1440p-165hz-monitor-is-in-the-priceperformance-sweet-spot-for-280</id>
+        <link href="https://www.rockpapershotgun.com/this-27-in-1440p-165hz-monitor-is-in-the-priceperformance-sweet-spot-for-280"/>
+        <updated>2023-10-20T21:52:21.000Z</updated>
+        <summary type="html"><![CDATA[LG makes some of the best monitors going, in my opinion, with their Fast IPS panels being the basis of many great gaming monitors from other manufacturers too. 
+Today we're looking at one of their first-party options, the 27GP83A, which combines a winning spec sheet with a reduced price: $279.99 for a 27-inch 1440p 165Hz gaming monitor. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doug Bowser says Nintendo has a ‘great relationship’ with Microsoft]]></title>
+        <id>https://www.destructoid.com/?p=418436</id>
+        <link href="https://www.destructoid.com/nintendos-doug-bowser-says-great-relationship-with-microsoft/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nintendos-doug-bowser-says-great-relationship-with-microsoft"/>
+        <updated>2023-10-20T21:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo of America President Doug Bowser commented on the company's relationship with Microsoft. Speaking with Inverse about the Switch's future, the topic of acquisitions and consolidation was brought up, with Bowser saying the two companies are on good terms.
+
+
+"We have a great relationship with Microsoft," said Bowser. "We consider them to be partners in many, many ways, and you only have to look at Nintendo Switch to see that partnership. Obviously, Minecraft is on Nintendo Switch, and we brought Banjo Kazooie to Super Smash Bros. Ultimate. So, we're looking forward to that partnership continuing."
+
+
+Since leaked FTC court documents revealed that Microsoft had internally talked about the concept of purchasing Nintendo, questions arose as to how the latter might react to this revelatio…]]></summary>
+        <author>
+            <name>Andrea Gonzalez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shopify Files Lawsuit over Illegal DMCA Takedown Abuse]]></title>
+        <id>https://torrentfreak.com/?p=241519</id>
+        <link href="https://torrentfreak.com/shopify-files-lawsuit-over-illegal-dmca-takedown-abuse-231020/"/>
+        <updated>2023-10-20T21:40:00.000Z</updated>
+        <summary type="html"><![CDATA[E-commerce platform Shopify is suing a 'John Doe' defendant for sending numerous false copyright complaints. The DMCA takedown notices have targeted a variety of vendors, who had their legitimate products taken offline as a result of the fraudulent actions. In addition, these vendors risked losing their entire accounts due to multiple false claims.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invincible mount from World of Warcraft is now in Diablo 4 (for $25)]]></title>
+        <id>https://www.destructoid.com/?p=418554</id>
+        <link href="https://www.destructoid.com/invincible-mount-from-world-of-warcraft-is-now-in-diablo-4-for-25/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=invincible-mount-from-world-of-warcraft-is-now-in-diablo-4-for-25"/>
+        <updated>2023-10-20T21:31:37.000Z</updated>
+        <summary type="html"><![CDATA[Don't worry gamers, you can stop killing The Lich King on ten alts every week for your chance at the Invincible mount. The popular but rare World of Warcraft mount from the Wrath of the Lich King expansion is now available in Diablo 4. And don't worry...if you are fearing the grind, it's not necessary here. Instead, all you need is a credit card!
+
+
+That's right, instead of purchasing a quality game, you can spend just $25 to get enough Platinum for the cool mount. The Invincible Aspect bundle is available now for 2,500 Platinum through the Diablo 4 store. In case you were wondering, you can get 2,800 Platinum for $25. There's nothing in the store you can spend the leftover 300 Platinum on, but that's OK! I mean come on, it's the Invincible Mount in Diablo 4!
+
+
+Screenshot by Destructoid
+
+
+You are not prepared
+
+
+Sorry if I'm sounding facetious here, I just hate it when a full-priced $70 game locks its coolest cosmetics behind an overpriced purchase. There should at least be a way to get the cosmetic in-game, even if it requires some sort of farming.
+
+
+The Invincible Aspect bundle includes four cosmetics:
+
+
+
+Invincible Aspect Mount
+
+
+Bard of Undying Loyalty Mount Armor
+
+
+Domination Helm Mount Trophy (The Lich King's helmet)
+
+
+Echo of Frostmourne Mount Trophy (The Lich King's weapon)
+
+
+
+Screenshot by Destructoid
+
+
+In World of Warcraft, the mount has a 1% drop chance from the final boss in the Icecrown Citadel raid. As if that's not rare enough, you can only clear the raid once per week on each character. Some players have been farming the mount for years with no success.
+
+
+I was going to get the Diablo 4 Invincible Mount but as you can see in the screenshot I was 2,440 Platinum short. Maybe next time!
+
+
+
+The post Invincible mount from World of Warcraft is now in Diablo 4 (for $25) appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Steven Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This 24-in 165Hz Lenovo gaming monitor is down to £110]]></title>
+        <id>https://www.rockpapershotgun.com/this-24-in-165hz-lenovo-gaming-monitor-is-down-to-110</id>
+        <link href="https://www.rockpapershotgun.com/this-24-in-165hz-lenovo-gaming-monitor-is-down-to-110"/>
+        <updated>2023-10-20T21:28:11.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo's G24-20 24-inch 165Hz gaming monitor is down to just £110, a good price for a model that was previously selling for £169. Here's why we rate it - beyond the whole deal thing, obviously.  
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spider-Man 2's New Web Wings Make It Feel Like A Proper Sequel]]></title>
+        <id>1850946080</id>
+        <link href="https://kotaku.com/spider-man-2-ps5-web-wings-open-world-traversal-1850946080"/>
+        <updated>2023-10-20T21:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Read more...]]></summary>
+        <author>
+            <name>Eric Schulkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battletoads and Double Dragon on the SNES feels like being part of something special]]></title>
+        <id>https://www.destructoid.com/?p=418227</id>
+        <link href="https://www.destructoid.com/battletoads-and-double-dragon-on-the-snes-feels-like-being-part-of-something-special/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=battletoads-and-double-dragon-on-the-snes-feels-like-being-part-of-something-special"/>
+        <updated>2023-10-20T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you’re unfamiliar with the Battletoads, it was a series of games that Rare made before they started to make good games. Hey-oh!
+
+
+I’ve probably already lost half of you, but it was worth it. For the rest of you who remain, I’m mostly kidding. Mostly. I think history is misremembering Battletoads as a landmark series, when most people only played the first two levels of the original title and never saw past the Turbo Tunnel. Let me tell you, it doesn’t get better from there. But before anyone really had time to let the trauma set in, Rare had ported it to a myriad of platforms.
+
+
+Battlemaniacs is weirdly derivative of the original title. But, hey, the 1994 arcade game is pretty good.
+
+
+And then there was Battletoads and Double Dragon. The concept is just incredible, taking the grandfathe…]]></summary>
+        <author>
+            <name>Zoey Handley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Wants To Know If You'd Like Ryzen AI Support On Linux]]></title>
+        <id>https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests</id>
+        <link href="https://www.phoronix.com/news/Ryzen-AI-For-Linux-Requests"/>
+        <updated>2023-10-20T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[With the newest AMD Ryzen 7040 series laptops there is "Ryzen AI" as a dedicated AI engine based on Xilinx IP to help accelerate machine learning with the likes of PyTorch and TensorFlow. Sadly though this Ryzen AI with their new Zen 4 laptops is only supported under Microsoft Windows at this point. But it could change with sufficient customer interest...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ghostrunner 2 Preview – Bringing a Bike to a Gun Fight]]></title>
+        <id>121367</id>
+        <link href="https://www.gameinformer.com/exclusive/2023/10/20/ghostrunner-2-preview-bringing-a-bike-to-a-gun-fight"/>
+        <updated>2023-10-20T20:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The first-person action parkour sub-genre of games is a small but great one. It features the likes of EA’s Mirror’s Edge series, Respawn Entertainment’s Titanfall franchise, and One More Level’s Ghostrunner – one of my fav orite games. I first played this game two years after its 2020 release, in the summer of July 2022, jobless and depressed. It felt good to exist in a world where capitalistic business executives make inhumane decisions about the last of humanity living in their Dharma Tower, except instead of suffering under their thumb, I, or rather, protagonist Ghostrunner, took a katana straight to the top to bring it all down. The game concludes with humanity free and Ghostrunner liberated from the A.I.-powered Cybervoid trappings under a new name: Jack.
+I played a roughly 30-minute …]]></summary>
+        <author>
+            <name>Wesley LeBlanc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Setting You Should Change In Super Mario Bros. Wonder ASAP]]></title>
         <id>1850946435</id>
@@ -1047,10 +1219,10 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 9 now available]]></title>
+        <title type="html"><![CDATA[Android Studio Iguana Canary 9 now available]]></title>
         <id>https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-9.html</id>
         <link href="https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-9.html"/>
-        <updated>2023-10-20T00:44:00.001Z</updated>
+        <updated>2023-10-20T00:44:00.002Z</updated>
         <summary type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 9 is now available in the Canary channel.
 If you already have an Android Studio build on the Canary channel,
 you can get the update by clicking Help > Check for Update (or Android Studio > Check
@@ -1728,17 +1900,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Roccat's Vulcan 121 full-size mechanical keyboard is down to $48 in the US]]></title>
-        <id>https://www.rockpapershotgun.com/roccats-vulcan-121-full-size-mechanical-keyboard-is-down-to-48-in-the-us</id>
-        <link href="https://www.rockpapershotgun.com/roccats-vulcan-121-full-size-mechanical-keyboard-is-down-to-48-in-the-us"/>
-        <updated>2023-10-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Roccat makes some good mechanical keyboards, especially their Vulcan line which combines 'floating' low profile keycaps with pleasant tactile switches, a volume dial and a wrist rest. These keyboards are normally available around the $70 mark, but today you can pick one up from Amazon in black for $48 - a good deal for a full-size mechanical keyboard from a major brand. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cities: Skylines 2 review: A standard-bearer that ought to have higher standards]]></title>
         <id>https://www.rockpapershotgun.com/cities-skylines-2-review</id>
         <link href="https://www.rockpapershotgun.com/cities-skylines-2-review"/>
@@ -1747,6 +1908,17 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Sin Vega</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roccat's Vulcan 121 full-size mechanical keyboard is down to $48 in the US]]></title>
+        <id>https://www.rockpapershotgun.com/roccats-vulcan-121-full-size-mechanical-keyboard-is-down-to-48-in-the-us</id>
+        <link href="https://www.rockpapershotgun.com/roccats-vulcan-121-full-size-mechanical-keyboard-is-down-to-48-in-the-us"/>
+        <updated>2023-10-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Roccat makes some good mechanical keyboards, especially their Vulcan line which combines 'floating' low profile keycaps with pleasant tactile switches, a volume dial and a wrist rest. These keyboards are normally available around the $70 mark, but today you can pick one up from Amazon in black for $48 - a good deal for a full-size mechanical keyboard from a major brand. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
         </author>
     </entry>
     <entry>
@@ -1936,22 +2108,6 @@ The post Here’s what’s included in the limited edition of My Next Life as a 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Destiny 2: Festival of the Lost adds a spooky new way to earn Exotics]]></title>
-        <id>https://www.destructoid.com/?p=417670</id>
-        <link href="https://www.destructoid.com/destiny-2-festival-of-the-lost-adds-a-spooky-new-way-to-earn-exotics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=destiny-2-festival-of-the-lost-adds-a-spooky-new-way-to-earn-exotics"/>
-        <updated>2023-10-19T15:13:02.000Z</updated>
-        <summary type="html"><![CDATA[Destiny 2's Halloween event, Festival of the Lost, is always good for seasonal fun and scares. Each year, the holiday adds some new goodies for Guardians to hunt, all while collecting Candy, uncovering spooky lore, and taking on redecorated Haunted Lost Sectors. This year, Bungie is adding another twist, with the opportunity to focus Exotic armor using Festival currencies. 
-
-
-Better yet, purchasing these Engrams does not require that players have already earned the Exotic they want, given the feature's roulette-like nature. So, the Festival of the Lost can serve as a tremendous catch-up opportunity for those in need. But before players dive into the game to earn that last lingering Exotic or fish for a wanted roll, players ought to know what goes into this new option.
-
-
-Festival of the Los…]]></summary>
-        <author>
-            <name>Jonathan LoChiatto</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Even Though It's Currently Slow, The Mesa NVIDIA "NVK" Vulkan Driver Has Been Making Good Progress]]></title>
         <id>https://www.phoronix.com/news/NVK-Vulkan-XDC-2023</id>
         <link href="https://www.phoronix.com/news/NVK-Vulkan-XDC-2023"/>
@@ -1974,38 +2130,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[For the first time ever, Games Done Quick will have a canine speedrunner]]></title>
-        <id>https://www.destructoid.com/?p=417791</id>
-        <link href="https://www.destructoid.com/for-the-first-time-ever-games-done-quick-will-have-a-canine-speedrunner/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=for-the-first-time-ever-games-done-quick-will-have-a-canine-speedrunner"/>
-        <updated>2023-10-19T15:01:27.000Z</updated>
-        <summary type="html"><![CDATA[Speedrunning events like Games Done Quick are a chance for people to break world records, while also raising money for charity. It was announced recently that Awesome Games Done Quick will be an in-person event. On top of that, the event will also see its first non-human combatant.
-
-
-That's right, according to speedrunner and streamer JSR_, AGDQ 2024 represents the first time a dog will officially participate in speedrunning on this level. A trailer video shows that Peanut Butter, the Shiba Inu owned by JSR_, will be there to see if they can break their personal best.
-
-
-
-
-What game will they be playing? According to a post on Twitter, Peanut Butter (sometimes referred to as PB) will be running the 1985 NES game Gyromite.
-
-
-Not their first rodeo
-
-
-While JSR_ will be assisting PB to some extent, game inputs will be conducted solely by the dog. A video from earlier this year shows they've done this before, making it through the game in 25:29. The basic set-up utilizes a series of colored buttons hooked up to the game, which Peanut Butter activates (for treats, of course).
-
-
-Interestingly, both JSR_ and PB are up on Speedrun.com under their own category: Game B - Dog Assistance. The schedule on the AGDQ website shows that this will be an online run rather than in-person, with an expected time of 30 minutes.
-
-
-We can already see that Peanut Butter seems to have got down the specifics of Gyromite. Yes, I'm aware that they probably don't fully understand what's happening, but who among us isn't the least bit tempted to watch a dog play video games? AGDQ will be going ahead in January.
-
-The post For the first time ever, Games Done Quick will have a canine speedrunner appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Andrew Heaton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spider-Man 2 Getting New Game Plus And More By The End Of 2023]]></title>
         <id>1850941017</id>
         <link href="https://kotaku.com/spider-man-2-ps5-new-game-plus-replay-missions-patch-1850941017"/>
@@ -2014,38 +2138,6 @@ The post For the first time ever, Games Done Quick will have a canine speedrunne
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amnesia: The Bunker’s new custom settings gives you flexibility with your horror]]></title>
-        <id>https://www.destructoid.com/?p=417776</id>
-        <link href="https://www.destructoid.com/amnesia-the-bunkers-new-custom-settings-gives-you-flexibility-with-your-horror/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=amnesia-the-bunkers-new-custom-settings-gives-you-flexibility-with-your-horror"/>
-        <updated>2023-10-19T14:56:01.000Z</updated>
-        <summary type="html"><![CDATA[In the run-up to the end of October, many horror studios are getting some content ready for this most spookiest of seasons. One such example comes from Amnesia: The Bunker developer Frictional Games, and a new video outlines the custom settings coming in a soon-to-be-released update.
-
-
-Over on the Frictional YouTube channel, creative lead Fredrik Olsson showcases the new "Custom Settings" mode that's coming to the latest Amnesia game.
-
-
-
-
-As you'll see in the footage, there are a series of parameters that can be played with so you can set the game's difficulty however you want. For example: you can set it so that every time you save, fuel is used up. You can even disable saving all together. Or maybe you want to make things easier by extending how long the torch stays lit or the amount of resources there are.
-
-
-More to come in this WW1 nightmare
-
-
-This is all going to be part of the new update which, according to the video, is expected to roll out soon. However, given that it's being referred to as the "Halloween update," we can already take a guess at roughly when it'll be available.
-
-
-Along with custom settings, the Amnesia: The Bunker patch will also come with the option to hone your skills in the Training Grounds. This will allow you to have a little practice at firing your gun or throwing grenades, right before you dive on into the horror of the titular bunker.
-
-
-There's also the new 'shell shocked' difficulty, which aims to make the game even harder. Because when you're hiding in the dark from a terrifying monster, what most of us are thinking is, "hmm, I wish this was somehow more stressful."
-
-The post Amnesia: The Bunker’s new custom settings gives you flexibility with your horror appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Andrew Heaton</name>
         </author>
     </entry>
     <entry>
@@ -2532,16 +2624,6 @@ Head over to Game Informer's YouTube channel for more previews, reviews, and 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenNebula 6.8 “Rosette”]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/opennebula-6.8-rosette</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/opennebula-6.8-rosette"/>
-        <updated>2023-10-18T19:55:08.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána verze 6.8 softwaru pro správu vlastního cloudu OpenNebula (Wikipedie). Kódový název nové verze je Rosette. Přehled novinek v poznámkách k vydání v aktualizované dokumentaci.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This 1000W SFX-L 80+ Gold power supply is down to $150 at Newegg]]></title>
         <id>https://www.rockpapershotgun.com/this-1000w-sfx-l-80-gold-power-supply-is-down-to-150-at-newegg</id>
         <link href="https://www.rockpapershotgun.com/this-1000w-sfx-l-80-gold-power-supply-is-down-to-150-at-newegg"/>
@@ -2851,18 +2933,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How historical fantasy Indika channels its Russian creator's anger against Putin and the Orthodox Church]]></title>
-        <id>https://www.rockpapershotgun.com/how-historical-fantasy-indika-channels-its-russian-creators-anger-against-putin-and-the-orthodox-church</id>
-        <link href="https://www.rockpapershotgun.com/how-historical-fantasy-indika-channels-its-russian-creators-anger-against-putin-and-the-orthodox-church"/>
-        <updated>2023-10-18T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's rare that a developer explicitly introduces their game to you as "boring", and Indika seems anything but. Created by Odd Meter, the studio behind the well-received fantasy VR bow simulator Sacralith: The Archer's Tale, and published by Frostpunk developer 11 bit Studios, it's a "very serious adventure game" set in 19th century Russia, which casts you as a young Orthodox Christian nun on the run. Awash with doubts about her faith, and persecuted by a mysterious creature, the woman flees her nunnery and falls in with an escaped convict, who tells her of a mysterious "holy elder" who might ease her troubles, drawing on the power of a sacred artefact.
-The game's setting is naturalistic, with motion-captured facial animations and photorealistic buildings and interiors, wrought using Unreal Engine. But it is also a "fairy tale" landscape, in the words of studio co-founder Dmitry Setlov, shot through with phantasmagorical flourishes - monochrome or blood-red filters and apparent hallucinations, to say nothing of the aforesaid creature, a skulking mass of tendrils that puts me in mind of the Shadow from Ursula K Le Guin's novel A Wizard Of Earthsea.
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[World Of Horror review: a weird and wonderful horror adventure in time for Halloween]]></title>
         <id>https://www.rockpapershotgun.com/world-of-horror-review</id>
         <link href="https://www.rockpapershotgun.com/world-of-horror-review"/>
@@ -2883,6 +2953,18 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How historical fantasy Indika channels its Russian creator's anger against Putin and the Orthodox Church]]></title>
+        <id>https://www.rockpapershotgun.com/how-historical-fantasy-indika-channels-its-russian-creators-anger-against-putin-and-the-orthodox-church</id>
+        <link href="https://www.rockpapershotgun.com/how-historical-fantasy-indika-channels-its-russian-creators-anger-against-putin-and-the-orthodox-church"/>
+        <updated>2023-10-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's rare that a developer explicitly introduces their game to you as "boring", and Indika seems anything but. Created by Odd Meter, the studio behind the well-received fantasy VR bow simulator Sacralith: The Archer's Tale, and published by Frostpunk developer 11 bit Studios, it's a "very serious adventure game" set in 19th century Russia, which casts you as a young Orthodox Christian nun on the run. Awash with doubts about her faith, and persecuted by a mysterious creature, the woman flees her nunnery and falls in with an escaped convict, who tells her of a mysterious "holy elder" who might ease her troubles, drawing on the power of a sacred artefact.
+The game's setting is naturalistic, with motion-captured facial animations and photorealistic buildings and interiors, wrought using Unreal Engine. But it is also a "fairy tale" landscape, in the words of studio co-founder Dmitry Setlov, shot through with phantasmagorical flourishes - monochrome or blood-red filters and apparent hallucinations, to say nothing of the aforesaid creature, a skulking mass of tendrils that puts me in mind of the Shadow from Ursula K Le Guin's novel A Wizard Of Earthsea.
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
         </author>
     </entry>
     <entry>
@@ -3594,17 +3676,6 @@ Epic Games says Alan Wake: Flashback is based on the first Alan Wake game and re
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Final Fantasy VII’s Most Iconic Flashback Is Better Than Ever]]></title>
-        <id>1850931418</id>
-        <link href="https://kotaku.com/final-fantasy-7-vii-rebirth-demo-1850931418"/>
-        <updated>2023-10-17T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The church in the slums, the Gold Saucer date, the slap-fest atop Junon’s Sister Ray cannon—Final Fantasy VII has a heaping helping of memorable setpieces. And few among them are more iconic than Square Enix’s own Rashomon—the Nibelheim Incident.
-Read more...]]></summary>
-        <author>
-            <name>Jen Glennon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Mortal Kombat: Onslaught Translates The Brutal Fighting Series To The Hero-Collection RPG Genre]]></title>
         <id>121315</id>
         <link href="https://www.gameinformer.com/preview/2023/10/17/how-mortal-kombat-takes-on-the-hero-collection-rpg-genre"/>
@@ -3650,16 +3721,6 @@ It's terrible news for those affected, of course, but it also doesn't bode well 
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Takes SEV-SNP Hypervisor To v10, Intel TDX Host Support Up To 14 Revisions]]></title>
-        <id>https://www.phoronix.com/news/AMD-SEV-SNP-Intel-TDX-Journey</id>
-        <link href="https://www.phoronix.com/news/AMD-SEV-SNP-Intel-TDX-Journey"/>
-        <updated>2023-10-17T12:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Both AMD and Intel engineers have experienced a lengthy journey getting their latest virtualization security features into the mainline Linux kernel -- and one that is still ongoing...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -5040,17 +5101,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo On The Legacy Of The New Super Mario Bros. Series]]></title>
-        <id>121223</id>
-        <link href="https://www.gameinformer.com/2023/10/11/nintendo-on-the-legacy-of-the-new-super-mario-bros-series"/>
-        <updated>2023-10-11T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In 2006, the iconic Super Mario series celebrated 10 years since its triumphant leap to 3D with Super Mario 64. That seminal entry proved that Nintendo’s iconic plumber could transition to 3D and still be the juggernaut franchise it was in 2D. It also became the blueprint for nearly every 3D platformer for the next several years. Super Mario 64 looked amazing in motion, but more importantly, it played like a dream. To say it revolutionized gaming would be an understatement. 
-In 2002, Nintendo released Super Mario Sunshine on GameCube to critical and fan acclaim. The visual improvements from the Nintendo 64 and the GameCube were apparent, and Super Mario Sunshine once again proved to be a hit with both fans and critics. While many celebrated the continued success of this 3D evolution for on…]]></summary>
-        <author>
-            <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Overwatch 2 locks new Diablo 4 skins behind a bundle that costs as much as Overwatch 1 - and players aren’t happy]]></title>
         <id>https://www.rockpapershotgun.com/overwatch-2-locks-new-diablo-4-skins-behind-a-bundle-that-costs-as-much-as-overwatch-1-and-players-arent-happy</id>
         <link href="https://www.rockpapershotgun.com/overwatch-2-locks-new-diablo-4-skins-behind-a-bundle-that-costs-as-much-as-overwatch-1-and-players-arent-happy"/>
@@ -5140,36 +5190,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cooler Master Hyper 212 Evo V2 is a perfect CPU cooler for first PC builds, and it’s on sale for Prime Big Deal Days]]></title>
-        <id>https://www.rockpapershotgun.com/the-cooler-master-hyper-212-evo-v2-is-a-perfect-cpu-cooler-for-first-pc-builds-and-its-on-sale-for-prime-big-deal-days</id>
-        <link href="https://www.rockpapershotgun.com/the-cooler-master-hyper-212-evo-v2-is-a-perfect-cpu-cooler-for-first-pc-builds-and-its-on-sale-for-prime-big-deal-days"/>
-        <updated>2023-10-11T15:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Whenever a friend asks for help in speccing out their upcoming PC build, I almost inevitably go to check if the Cooler Master Hyper 212 Evo V2 is in stock. Because, for lower-end and mid-range builds especially, do you truly need any other CPU cooler? The Hyper 212 Evo V2 near-perfectly  balances simplicity, effectiveness, and affordability; it’s like the PC component equivalent of Charles Eames’ museum-beloved leg splint, only less stackable. More to the point, it’s down to £33 in the Amazon Prime Big Deal Days sale, equalling its lowest price of 2023 thus far.
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Oxide survived the "nightmare" of making a simultaneous-turn 4X game]]></title>
-        <id>https://www.rockpapershotgun.com/how-oxide-survived-the-nightmare-of-making-a-simultaneous-turn-4x-game</id>
-        <link href="https://www.rockpapershotgun.com/how-oxide-survived-the-nightmare-of-making-a-simultaneous-turn-4x-game"/>
-        <updated>2023-10-11T14:48:39.000Z</updated>
-        <summary type="html"><![CDATA[Ara: History Untold's headline gimmick is actually a couple of centuries old. In this deceptively Civilization-esque 4X strategy game, all player turns unfold simultaneously, once you've decided what to build or research, where to move your units, and so on. As Oxide Games design director Michelle Menard tells me over Zoom, this approach takes inspiration from an ancient military simulator, Kriegsspiel, which was devised by the Prussian army officer George Leopold von Reisswitz, aka the "father of wargaming", in the mid-1800s. 
-
-
-"It was to train their generals, it was a legit apparatus of war, it was not for funsies," says Menard. "And they basically created this massive table that had a modular terrain system. At first they used sand, but that was kind of messy, [and so] they developed a system where they had interchangeable tiles, like hills and valleys and plateaus. 
-
-
-"They would build out this table, literally drop a sheet down the middle, and it'd be like, OK, you guys on each side, you can't see what the other person's doing. There was an actual game master, who was the referee who you would report your moves to. He would then re-set up the board and basically call people back into the room and be like, tada! It's the next turn - let's see what people did. Was it what you expected?" 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bookworm — the new version of Raspberry Pi OS]]></title>
         <id>https://www.raspberrypi.com/?p=101432</id>
         <link href="https://www.raspberrypi.com/news/bookworm-the-new-version-of-raspberry-pi-os/"/>
@@ -5189,17 +5209,6 @@ The post Bookworm — the new version of Raspberry Pi OS appeared first on Raspb
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIAA Reports AI Vocal Cloning Site ‘Voicify’ to the U.S. Government]]></title>
-        <id>https://torrentfreak.com/?p=241148</id>
-        <link href="https://torrentfreak.com/riaa-reports-ai-vocal-cloning-voicify-to-the-u-s-government-231010/"/>
-        <updated>2023-10-10T19:15:43.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence is now a mainstream topic but while most people focus on the positive implications, many rightsholders are concerned about potential threats. In its latest overview of notorious copyright-infringing markets, the RIAA lists 'AI vocal cloning' services as an emerging threat, with Voicify.ai as a prime example. 
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
@@ -5342,16 +5351,6 @@ Wear Compose Version 1.3.0-alpha07
 Wear Compose Version 1.0.0-alpha13]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ITBiz: V IT ubývá nabízených pozic, firmy začínají více vyžadovat docházku na pracoviště]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-v-it-ubyva-nabizenych-pozic-firmy-zacinaji-vice-vyzadovat-dochazku-na-pracoviste</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-v-it-ubyva-nabizenych-pozic-firmy-zacinaji-vice-vyzadovat-dochazku-na-pracoviste"/>
-        <updated>2023-10-02T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[V IT ubývá nabízených pozic, firmy začínají více vyžadovat docházku na pracoviště. Účinnost datacenter s chlazením od Schneider Electric. Ness za 30 let působení na českém trhu dodal přes 2 500 projektů. Využití AI v obchodním modelu. Salesforce standardizuje globální infrastrukturu hybridního cloudu na Red Hat Enterprise Linuxu.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
     <entry>
