@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-21T12:16:21.131Z</id>
+    <id>urn:2023-10-21T14:07:42.160Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-21T12:16:21.131Z</updated>
+    <updated>2023-10-21T14:07:42.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Optimizing Its MDS Mitigation Handling To Avoid Possible Kernel Data Leaking]]></title>
+        <id>https://www.phoronix.com/news/Intel-Linux-Delay-VERW-MDS</id>
+        <link href="https://www.phoronix.com/news/Intel-Linux-Delay-VERW-MDS"/>
+        <updated>2023-10-21T13:16:49.000Z</updated>
+        <summary type="html"><![CDATA[An Intel engineer on Friday posted a set of Linux kernel patches that are working to refine the Microarchitectural Data Sampling (MDS) mitigation handling for the Linux kernel to better protect some kernel data and also some very subtle performance benefits...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mini Review: Witchy Life Story - Lots Of Potential And Charm, But Lacking In Execution]]></title>
+        <id>https://www.nintendolife.com/#article-156745</id>
+        <link href="https://www.nintendolife.com/reviews/switch-eshop/witchy-life-story"/>
+        <updated>2023-10-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A cup of something cosy.
+Cottagecore fans, this one’s for you.
+Witchy Life Story is a visual novel packed full of sweet characters, magical charms, and cozy rituals. Coming from Sundew Studios, it has already been around on Steam for a while, and it’s now available on Switch.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuxClocker 1.2 Released With AMD GPU Thermal Monitoring, CPU Governor Controls]]></title>
+        <id>https://www.phoronix.com/news/TuxClocker-1.2</id>
+        <link href="https://www.phoronix.com/news/TuxClocker-1.2"/>
+        <updated>2023-10-21T12:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Ever since the release of TuxClocker 1.0 last month, this open-source community software project for enhancing overclocking controls under Linux has been living up to the "release early, release often" mantra. Out today is TuxClocker 1.2...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Final Fantasy 14 is getting FFXI raids for the MMO’s 20th anniversary and a FFXVI quest crossover - complete with a Torgal mount]]></title>
         <id>https://www.rockpapershotgun.com/final-fantasy-14-is-getting-ffxi-raids-for-the-mmos-20th-anniversary-and-a-ffxvi-quest-crossover-complete-with-a-torgal-mount</id>
@@ -2199,19 +2232,6 @@ Animals – Hab…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: Dragonforce's Latest Single Is A Perfect Tribute To The Legend of Zelda]]></title>
-        <id>https://www.nintendolife.com/#article-157167</id>
-        <link href="https://www.nintendolife.com/news/2023/10/random-dragonforces-latest-single-is-a-perfect-tribute-to-the-legend-of-zelda"/>
-        <updated>2023-10-19T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA['All for the glory of the Master Sword'.
-For many gamers, Dragonforce is probably most well-known for the absurdly difficult 'Through the Fire and the Flames' song on 2007's Guitar Hero III: Legends of Rock. The band, however, also happens to be pretty darn good in its own right, even if its music isn't quite to everybody's taste.
-Ahead of the launch of the band's new album Warp Speed Warriors on March 15th, 2024, Dragonforce has released 'Power of the Triforce', a new single based on none other than The Legend of Zelda.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Here’s what’s included in the limited edition of My Next Life as a Villainess: All Routes Lead to Doom -Pirates of the Disturbance-]]></title>
         <id>https://www.destructoid.com/?p=417649</id>
         <link href="https://www.destructoid.com/heres-whats-included-in-the-limited-edition-of-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=heres-whats-included-in-the-limited-edition-of-my-next-life-as-a-villainess-all-routes-lead-to-doom-pirates-of-the-disturbance"/>
@@ -3272,16 +3292,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Posts Linux Patches For Better Graphics/Compute Interoperability & Other Benefits]]></title>
-        <id>https://www.phoronix.com/news/AMDKFD-GEM-VA-Integration</id>
-        <link href="https://www.phoronix.com/news/AMDKFD-GEM-VA-Integration"/>
-        <updated>2023-10-18T00:30:40.000Z</updated>
-        <summary type="html"><![CDATA[AMD today posted a set of interesting patches for enabling better integration of their AMDKFD (Kernel Fusion Driver, what is their compute kernel driver) memory management with Linux's DRM GEM ioctl API. In turn the code allows managing virtual address (VA) mappings in compute VMs with the GEM_VA ioctl interface for greater control of buffers imported via DMA-BUF...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[October 18, 2023]]></title>
         <id>https://developer.android.com/jetpack/androidx/versions/all-channel#october_18_2023</id>
         <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#october_18_2023"/>
@@ -3547,16 +3557,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc Graphics A580 On Linux: Open-Source Graphics For Under $200]]></title>
-        <id>https://www.phoronix.com/review/intel-arc-graphics-a580</id>
-        <link href="https://www.phoronix.com/review/intel-arc-graphics-a580"/>
-        <updated>2023-10-17T19:30:29.000Z</updated>
-        <summary type="html"><![CDATA[Last week Intel announced the Arc Graphics A580 as a new mid-range DG2/Alchemist graphics card option that comes in between the entry-level Arc Graphics A380 and the higher-end Arc Graphics A750/A770. With the Arc Graphics A580 coming in at under $200, it's quite an interesting graphics card for those after open-source Linux driver support and/or those wanting to experiment with Intel's growing oneAPI software ecosystem with excellent open-source GPU compute support.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
