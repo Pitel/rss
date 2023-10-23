@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-22T22:08:35.854Z</id>
+    <id>urn:2023-10-23T00:43:48.080Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-22T22:08:35.854Z</updated>
+    <updated>2023-10-23T00:43:48.080Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TuxClocker 1.2.1]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/tuxclocker-1.2.1</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/tuxclocker-1.2.1"/>
+        <updated>2023-10-23T00:02:19.000Z</updated>
+        <summary type="html"><![CDATA[TuxClocker je Qt GUI nástroj pro monitorování a nastavování (přetaktovávání) hardwaru na Linuxu. Aktuální verze je 1.2.1.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.6-rc7 Released: Linux 6.6 Final Likely Next Sunday]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.6-rc7-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.6-rc7-Released"/>
+        <updated>2023-10-22T23:20:29.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds today released the seventh weekly release candidate of Linux 6.6 while is hoping to release the stable kernel version next weekend...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: outsourcing mozku na chatboty]]></title>
         <id>www.root.cz-text-16832</id>
@@ -2857,16 +2877,6 @@ HackSpace 71 (pdf).]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Maker Faire Brno a Game Access Connect 2023]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/maker-faire-brno-a-game-access-connect-2023</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/maker-faire-brno-a-game-access-connect-2023"/>
-        <updated>2023-10-18T22:52:35.000Z</updated>
-        <summary type="html"><![CDATA[O víkendu 21. a 22. října lze na brněnském výstavišti v pavilonu A1 navštívit s jednou vstupenkou dvě akce: Maker Faire Brno, "festival plný workshopů, interaktivních činností a především nadšených a zvídavých lidí", a Game Access Connect, "akci určenou pro všechny současné a hlavně budoucí herní vývojáře, kteří touží proniknout do jednoho z nejúžasnějších průmyslů na světě".]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Principy fungování DNS: doménový strom, kategorie TLD a alternativní stromy]]></title>
         <id>www.root.cz-text-16820</id>
         <link href="https://www.root.cz/clanky/principy-fungovani-dns-domenovy-strom-kategorie-tld-a-alternativni-stromy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3011,16 +3021,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multi-Grained Timestamps Revised Following Revert From Linux 6.6]]></title>
-        <id>https://www.phoronix.com/news/Multi-Grain-Timestamps-Redux</id>
-        <link href="https://www.phoronix.com/news/Multi-Grain-Timestamps-Redux"/>
-        <updated>2023-10-18T18:27:29.000Z</updated>
-        <summary type="html"><![CDATA[Multi-grain(ed) timestamps had been submitted for Linux 6.6 to better deal with NFS where the once-per-jiffy coarse-grained timestamps aren't enough for (in)validating caches. Multi-grained timestamps sought to address that by optionally allowing for the more fine-grained timestamps when desired but not using that finer granularity everywhere due to the greater overhead costs. This feature though ended up being reverted weeks later due to subtle bugs being uncovered. Now though a new redux patch series has been posted for providing another attempt at multi-grained timestamps...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
