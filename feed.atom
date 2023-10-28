@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T04:11:43.208Z</id>
+    <id>urn:2023-10-28T06:11:58.938Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-28T04:11:43.208Z</updated>
+    <updated>2023-10-28T06:11:58.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -5404,88 +5404,6 @@ release, see previous entries on this blog.
 General fixes and features
 Below is a list of general fixes in Android Studio Iguana | 2023.2.1 Canary 6 and Android Gradle Plugin 8.3.0-alpha06 These are a result of your bug 
 reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporti…]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Giraffe Patch 2 is now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/09/android-studio-giraffe-patch-2-is-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/09/android-studio-giraffe-patch-2-is-now.html"/>
-        <updated>2023-09-28T17:28:00.003Z</updated>
-        <summary type="html"><![CDATA[Android Studio - Giraffe | 2022.3.1 Patch 2 is now available in the stable channel.
-If you already have an Android Studio build on the stable channel, you can get the update by clicking Help > Check for Update (Android Studio > Check for Updates on macOS). Otherwise, you can download it here.
-
-      
-        
-Fixed Issues
-        
-Android Gradle Plugin
-          
-            
-
-              
-                
-                
-
-                  
-                  
-Issue #294771624
-androidResources is not available in the android library module
-
-                
-                
-
-                  
-                  
-Issue #293547829
-[AGP 8.1.0] ./gradlew test fails with "Unable to find manifest output" if both splits.abi.isEnable and testOptions.unitTests.isIncludeAndroidResources are true
-
-                
-              
-            
-
-          
-        
-Database Inspector
-          
-            
-
-              
-                
-                
-
-                  
-                  
-Issue #294904657
-Android Studio 2022.3.1 Giraffe is missing database inspector
-
-                
-              
-            
-
-          
-        
-Shrinker (R8)
-          
-            
-
-              
-                
-                
-
-                  
-                  
-Issue #295576241
-Kotlin 1.9 causes Kotlin lambdas to be destroyed by R8 if nullchecks are stripped
-
-                
-                
-
-                  
-                  
-Issue #296654327
-R8 fails with "Undefined value encountered during compilation" for play-services-measurement-21.3.0-runtime.jar]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
