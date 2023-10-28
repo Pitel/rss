@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-28T10:08:57.891Z</id>
+    <id>urn:2023-10-28T12:15:56.992Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-28T10:08:57.891Z</updated>
+    <updated>2023-10-28T12:15:56.992Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Guide: Best Mario Party Games Of All Time]]></title>
+        <id>https://www.nintendolife.com/#article-139371</id>
+        <link href="https://www.nintendolife.com/guides/best-mario-party-games-of-all-time"/>
+        <updated>2023-10-28T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every Mario Party game, as ranked by you.
+Update: With Mario Party 3 now available on Nintendo Switch Online's Expansion Pack, we're republishing this list to celebrate. Let's-a-go!
+
+If you had a Nintendo 64, there's no doubt you managed to wrangle your family (or friends) in for a few games of a few multiplayer games featuring the Italian plumber at Christmas. But, of all of them, Mario Party may have spawned a few too many arguments that have spawned an amusing life-long legacy of familial rivalries and blistered hands.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Desktop Cube Effect Returns & Plasma Wayland Per-Screen Color Management]]></title>
+        <id>https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt</id>
+        <link href="https://www.phoronix.com/news/KDE-Wayland-Color-Mgmt"/>
+        <updated>2023-10-28T11:01:39.000Z</updated>
+        <summary type="html"><![CDATA[KDE developer Nate Graham is out with his usual weekly recap highlighting all of the interesting accomplishments for this open-source desktop for the past week. But with not having posted last weekend, this edition highlights the many achievements made by the KDE camp over the past two weeks...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Patches Speed-Up Kernel Crypto Functions With RISC-V Vector Extensions]]></title>
+        <id>https://www.phoronix.com/news/Linux-RISC-V-Vector-Crypto</id>
+        <link href="https://www.phoronix.com/news/Linux-RISC-V-Vector-Crypto"/>
+        <updated>2023-10-28T10:40:32.000Z</updated>
+        <summary type="html"><![CDATA[Patches posted this week by SiFive for the Linux kernel provide cryptographic implementations of various functions inside the Linux kernel using the processor ISA's vector crypto extensions...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa Turns To Hawkmoth For Improving Documentation]]></title>
+        <id>https://www.phoronix.com/news/Mesa-Hawkmoth-Docs</id>
+        <link href="https://www.phoronix.com/news/Mesa-Hawkmoth-Docs"/>
+        <updated>2023-10-28T10:02:25.000Z</updated>
+        <summary type="html"><![CDATA[With Mesa 24.0 the developers have switched from using Doxygen and Breathe for building documentation comments from source to instead use the newer but less heard of Hawkmoth...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (October 28th)]]></title>
         <id>https://www.nintendolife.com/#article-157558</id>
@@ -2575,19 +2619,6 @@ Are you playing Alan Wake 2 on day one? Let us know in the comments below!]]></s
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Detective Pikachu Has Another Case To Crack In This Adorable New Short Film]]></title>
-        <id>https://www.nintendolife.com/#article-157498</id>
-        <link href="https://www.nintendolife.com/news/2023/10/detective-pikachu-has-another-case-to-crack-in-this-adorable-new-short-film"/>
-        <updated>2023-10-26T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Flantastic.
-While it might not be the announcement of a full movie, The Pokémon Company has released a new short film focused on Ryme City's top investigator, as 'Detective Pikachu and the Mystery of the Missing Flan' gives another bite-sized boost of case-cracking goodness.
-The new short was shared on The Official Pokémon YouTube channel yesterday and it is really rather sweet. This one follows Detective Pikachu and Tim as they attempt to track down the latter's missing flan — a crime that we can all agree, is completely unacceptable. At only six minutes in length, the mystery is pretty much an open-and-close case, but there is enough story here to keep things interesting. And an adorable-looking Munchlax, which never hurts.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Still Wakes The Deep gameplay trailer asks which is worst, the monsters or the weather?]]></title>
         <id>https://www.rockpapershotgun.com/still-wakes-the-deep-gameplay-trailer-asks-which-is-worst-the-monsters-or-the-weather</id>
         <link href="https://www.rockpapershotgun.com/still-wakes-the-deep-gameplay-trailer-asks-which-is-worst-the-monsters-or-the-weather"/>
@@ -3499,16 +3530,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XWayland's Rootful Mode Is Becoming More Useful]]></title>
-        <id>https://www.phoronix.com/news/XWayland-Rootful-Useful</id>
-        <link href="https://www.phoronix.com/news/XWayland-Rootful-Useful"/>
-        <updated>2023-10-24T20:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Most Linux desktop users/gamers/enthusiasts are relying on XWayland for X11 client compatibility atop Wayland compositors in the "rootless" mode. With the XWayland rootless mode, X11 applications and games can integrate nicely within a Wayland desktop environment with just the individual client window presented. However, for those interested, the XWayland "rootful" mode has become more capable this year for those wanting to render an entire X11 environment within the Wayland compositor as a window...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LG's incredible 48-inch C2 OLED TV is down to £824 with a double discount at Ebay UK]]></title>
         <id>https://www.rockpapershotgun.com/lgs-incredible-48-inch-c2-oled-tv-is-down-to-824-with-a-double-discount-at-ebay-uk</id>
         <link href="https://www.rockpapershotgun.com/lgs-incredible-48-inch-c2-oled-tv-is-down-to-824-with-a-double-discount-at-ebay-uk"/>
@@ -3528,16 +3549,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AXI 1-Wire Driver Is AMD's Latest Upstreaming Effort To The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/news/AMD-AXI-1-Wire-Linux-Driver</id>
-        <link href="https://www.phoronix.com/news/AMD-AXI-1-Wire-Linux-Driver"/>
-        <updated>2023-10-24T18:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Since AMD's acquisition of Xilinx and working to broaden the portfolio of offerings for the data center, more AMD-Xilinx drivers have been working their way toward the mainline Linux kernel. There's been upstreaming efforts such as the Versal EDAC driver, generating DeviceTree nodes for PCI devices, Versal watchdog driver, QDMA driver, CDX bus support, and more. The latest driver working its way toward the mainline kernel from AMD is the AXI 1-wire driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3586,16 +3597,6 @@ Star Wars: Dark Forces Remaster is coming to PlayStation 5, Xbox Series X/S, Pla
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The VKMS Display Driver Continues Evolving Nicely For Headless Linux Systems]]></title>
-        <id>https://www.phoronix.com/news/VKMS-Driver-2023</id>
-        <link href="https://www.phoronix.com/news/VKMS-Driver-2023"/>
-        <updated>2023-10-24T17:24:49.000Z</updated>
-        <summary type="html"><![CDATA[The VKMS driver as a virtual kernel mode-setting solution as a software-only implementation of KMS for use with primarily headless Linux systems continues tacking on more features. Maíra Canal and Melissa Wen presented last week at XDC 2023 on the VKMS driver that continues proving very useful for headless platforms as well as for testing purposes...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -5375,16 +5376,6 @@ Transition Version 1.5.0-alpha04
 Tv Version 1.0.0-alpha10
 Wear Compose Version 1.3.0-alpha07
 Wear Compose Version 1.0.0-alpha13]]></summary>
-        <author>
-            <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[September 29, 2023]]></title>
-        <id>https://developer.android.com/jetpack/androidx/versions/all-channel#september_29_2023</id>
-        <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#september_29_2023"/>
-        <updated>2023-09-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Media3 Version 1.2.0-alpha02]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
         </author>
