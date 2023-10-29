@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-10-29T16:11:44.326Z</id>
+    <id>urn:2023-10-29T18:11:24.932Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-10-29T16:11:44.326Z</updated>
+    <updated>2023-10-29T18:11:24.932Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wine 8.19 Released With Updated Mono, More DirectMusic Code]]></title>
+        <id>https://www.phoronix.com/news/Wine-8.19-Released</id>
+        <link href="https://www.phoronix.com/news/Wine-8.19-Released"/>
+        <updated>2023-10-29T17:23:15.000Z</updated>
+        <summary type="html"><![CDATA[It's slightly off its usual Friday release target, but Wine 8.19 was released today as the newest bi-weekly unstable release of this open-source software to enjoy Windows games and applications under Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.7 Will Let You Enable/Disable 32-bit Programs Support At Boot-Time]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.7-IA32-Emulation-Boot</id>
+        <link href="https://www.phoronix.com/news/Linux-6.7-IA32-Emulation-Boot"/>
+        <updated>2023-10-29T16:35:09.000Z</updated>
+        <summary type="html"><![CDATA[From the perspective of Linux distributions trying to reduce their attack surface while still making it possible for users to run legacy software without recompiling their kernel, SUSE has spearheaded the effort for boot-time enabling/disabling of x86 32-bit support for whether 32-bit user-space programs and 32-bit system calls can be executed. That code has been submitted for the imminent Linux 6.7 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NixOS má reprodukovatelně sestavitelné minimální instalační ISO]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/nixos-ma-reprodukovatelne-sestavitelne-minimalni-instalacni-iso</id>
@@ -2931,16 +2951,6 @@ The post ScreenDress is embellished with spooky Pi-powered eyes | The MagPi #135
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesa 24.0 Enters Feature Development For Open-Source OpenGL & Vulkan Drivers]]></title>
-        <id>https://www.phoronix.com/news/Mesa-24.0-Feature-Starts</id>
-        <link href="https://www.phoronix.com/news/Mesa-24.0-Feature-Starts"/>
-        <updated>2023-10-25T20:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Mesa 23.3 has now been branched in Git and in turn that opens up the mainline code to beginning feature work on what will become Mesa 24.0 when it releases in Q1'2024...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Like A Dragon: Infinite Wealth Has An Animal Crossing Game Mode]]></title>
         <id>1850959672</id>
         <link href="https://kotaku.com/like-a-dragon-yakuza-infinite-wealth-animal-crossing-1850959672"/>
@@ -2973,16 +2983,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fedora 39 Release Has Been Held Up By Raspberry Pi Bugs]]></title>
-        <id>https://www.phoronix.com/news/Fedora-39-Release-Delays</id>
-        <link href="https://www.phoronix.com/news/Fedora-39-Release-Delays"/>
-        <updated>2023-10-25T19:55:44.000Z</updated>
-        <summary type="html"><![CDATA[Fedora 39 failed to make its "early" release target date, it didn't meet its otherwise targeted release date one week later, and is now facing another possible setback still. These release delays have been due to outstanding blocker bugs all related to the Raspberry Pi...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4308,6 +4308,19 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Final Fantasy 14 director would still love to do a Diablo crossover, please]]></title>
+        <id>https://www.rockpapershotgun.com/final-fantasy-14-director-would-still-love-to-do-a-diablo-crossover-please</id>
+        <link href="https://www.rockpapershotgun.com/final-fantasy-14-director-would-still-love-to-do-a-diablo-crossover-please"/>
+        <updated>2023-10-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Final Fantasy 14 has crossed over with everything from Monster Hunter and Nier to Yokai Watch and Fall Guys. But there’s one video game crossover that remains at the top of director-producer Naoki Yoshida’s list: Diablo.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Jarvis</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Final Fantasy XIV’s Yoshi-P would like to make an MMO as chaotic and free as Ultima Online, but it would break FF14]]></title>
         <id>https://www.rockpapershotgun.com/final-fantasy-xivs-yoshi-p-would-like-to-make-an-mmo-as-chaotic-and-free-as-ultima-online-but-it-would-break-ff14</id>
         <link href="https://www.rockpapershotgun.com/final-fantasy-xivs-yoshi-p-would-like-to-make-an-mmo-as-chaotic-and-free-as-ultima-online-but-it-would-break-ff14"/>
@@ -4326,19 +4339,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/final-fantasy-14s-70-update-isnt-out-until-next-summer-but-its-director-already-has-plans-for-80-and-90"/>
         <updated>2023-10-22T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[Final Fantasy 14’s 7.0 update won’t hit the MMO for almost another year, arriving alongside the game’s next expansion Dawntrail in the summer of 2024. Director Naoki Yoshida already has some plans for the next two major updates after that, though - but he’d really rather you didn’t ask about them.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final Fantasy 14 director would still love to do a Diablo crossover, please]]></title>
-        <id>https://www.rockpapershotgun.com/final-fantasy-14-director-would-still-love-to-do-a-diablo-crossover-please</id>
-        <link href="https://www.rockpapershotgun.com/final-fantasy-14-director-would-still-love-to-do-a-diablo-crossover-please"/>
-        <updated>2023-10-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Final Fantasy 14 has crossed over with everything from Monster Hunter and Nier to Yokai Watch and Fall Guys. But there’s one video game crossover that remains at the top of director-producer Naoki Yoshida’s list: Diablo.
 
  
 Read more]]></summary>
