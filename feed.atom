@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-04T10:09:34.849Z</id>
+    <id>urn:2023-11-04T12:15:56.041Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-04T10:09:34.849Z</updated>
+    <updated>2023-11-04T12:15:56.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New AMD & Intel Sound Support Ready For Playback In Linux 6.7]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.7-Sound</id>
+        <link href="https://www.phoronix.com/news/Linux-6.7-Sound"/>
+        <updated>2023-11-04T11:04:49.000Z</updated>
+        <summary type="html"><![CDATA[The Linux 6.7 sound subsystem changes submitted this week by maintainer Takashi Iwai include support for a number of new audio devices/platforms...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 24.0 Improving Radeon VCE/UVD Video Encoding Quality]]></title>
+        <id>https://www.phoronix.com/news/Mesa-24.0-Better-VCE-Quality</id>
+        <link href="https://www.phoronix.com/news/Mesa-24.0-Better-VCE-Quality"/>
+        <updated>2023-11-04T10:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Recently there was some tuning in Mesa Git for helping with higher quality Radeon video encoding on Linux for GPUs using Video Core Next (VCN). Similar tuning has now been back-ported for older Radeon GPUs using the VCE encode engine and UVD video decoding...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.7 Reducing The Roles For Some Insecure/Obsolete Crypto Algorithms]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.7-Crypto</id>
+        <link href="https://www.phoronix.com/news/Linux-6.7-Crypto"/>
+        <updated>2023-11-04T10:18:47.000Z</updated>
+        <summary type="html"><![CDATA[The crypto subsystem updates for the Linux 6.7 kernel includes the usual churn like various crypto acceleration updates for different SoCs and other routine changes plus is also limiting the role of some insecure and/or obsolete crypto hashing algorithms...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE Plasma 6 Alpha Approaches Next Week With The Soft Feature Freeze]]></title>
         <id>https://www.phoronix.com/news/KDE-Plasma-6-Alpha-Soon</id>
@@ -3434,16 +3464,6 @@ Choi began the video thanking players for helping the game sell 1 million copies
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KDE KWin Preparing Preliminary Support For Running HDR Games]]></title>
-        <id>https://www.phoronix.com/news/KDE-KWin-Initial-HDR-Gaming-MR</id>
-        <link href="https://www.phoronix.com/news/KDE-KWin-Initial-HDR-Gaming-MR"/>
-        <updated>2023-11-01T12:38:07.000Z</updated>
-        <summary type="html"><![CDATA[Xaver Hugl who has been leading much of the KDE KWin feature development in recent years has opened up a preliminary merge request for allowing high dynamic range (HDR) enabled games to work on KDE...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Available now: The Official Raspberry Pi Beginner’s Guide, 5th Edition]]></title>
         <id>https://www.raspberrypi.com/?p=103148</id>
         <link href="https://www.raspberrypi.com/news/available-now-the-official-raspberry-pi-beginners-guide-5th-edition/"/>
@@ -3452,26 +3472,6 @@ Choi began the video thanking players for helping the game sell 1 million copies
 The post Available now: The Official Raspberry Pi Beginner’s Guide, 5th Edition appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Brian Jepson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc Graphics Conceals Itself To Get Diablo IV Running On Linux]]></title>
-        <id>https://www.phoronix.com/news/Diablo-IV-No-Intel-Graphics</id>
-        <link href="https://www.phoronix.com/news/Diablo-IV-No-Intel-Graphics"/>
-        <updated>2023-11-01T11:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Intel Arc Graphics on Linux can handle running the Diablo IV game via Valve's Steam Play but only when it hides the fact that it's Intel graphics in use via a game-specific driver workaround...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayland Progress, Ryzen AI & Linux Benchmarks That Made For An Exciting October]]></title>
-        <id>https://www.phoronix.com/news/October-2023-Highlights</id>
-        <link href="https://www.phoronix.com/news/October-2023-Highlights"/>
-        <updated>2023-11-01T11:04:40.000Z</updated>
-        <summary type="html"><![CDATA[Here is a look back at the most popular open-source and Linux news and featured articles/reviews for the month prior...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -5596,16 +5596,6 @@ Lombok plugin support]]></summary>
         <summary type="html"><![CDATA[Pure se zákazníkům zavazuje platit za energii a prostor úložiště. Poznejte vývoj low-code a no-code. Taktik překvapil. V Česku je nejméně ICT specialistek z celé EU. Přístup low-code používá skoro polovina firem. Náklady na cloud se snadno mohou vymknout kontrole.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[October 6, 2023]]></title>
-        <id>https://developer.android.com/jetpack/androidx/versions/all-channel#october_6_2023</id>
-        <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#october_6_2023"/>
-        <updated>2023-10-06T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Benchmark Version 1.2.0-rc02]]></summary>
-        <author>
-            <name>AndroidX - Release Notes</name>
         </author>
     </entry>
 </feed>
