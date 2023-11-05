@@ -1,10 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-05T10:09:19.976Z</id>
+    <id>urn:2023-11-05T12:16:27.651Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-05T10:09:19.976Z</updated>
+    <updated>2023-11-05T12:16:27.651Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nouveau NVIDIA GSP Firmware Support Merged For Linux 6.7]]></title>
+        <id>https://www.phoronix.com/news/Nouveau-GSP-Merged-Linux-6.7</id>
+        <link href="https://www.phoronix.com/news/Nouveau-GSP-Merged-Linux-6.7"/>
+        <updated>2023-11-05T11:38:00.000Z</updated>
+        <summary type="html"><![CDATA[The first week of the Linux 6.7 merge window began with the surprise of the Bcachefs file-system being merged and now capping off the first week is another surprise... Nouveau GPU System Processor (GSP) firmware integration that allows making use of NVIDIA's binary GSP firmware on RTX 20 "Turing" and newer GPUs for having improved support. In turn this GSP route also provides initial support for GeForce RTX 40 series support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.7 Introduces "make hardening.config" To Help Build A Hardened Kernel]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.7-Hardening</id>
+        <link href="https://www.phoronix.com/news/Linux-6.7-Hardening"/>
+        <updated>2023-11-05T11:37:00.000Z</updated>
+        <summary type="html"><![CDATA[The hardening updates for the Linux 6.7 kernel bring a new hardening configuration profile to help in building a security hardened kernel with some sane defaults...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Can Now Natively Handle CXL Link Protocol Errors, Fixes For Next-Gen VH Topologies]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.7-CXL</id>
+        <link href="https://www.phoronix.com/news/Linux-6.7-CXL"/>
+        <updated>2023-11-05T11:10:07.000Z</updated>
+        <summary type="html"><![CDATA[The Linux kernel's subsystem for Compute Express Link that is playing a vital role in servers moving forward continues picking up new features and evolving the code-base as more CXL hardware enters the world...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Terminal Working To Migrate To GTK 4, VTE To Overcome 40 FPS Cap]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Terminal-GTK4-WIP</id>
+        <link href="https://www.phoronix.com/news/GNOME-Terminal-GTK4-WIP"/>
+        <updated>2023-11-05T11:01:18.000Z</updated>
+        <summary type="html"><![CDATA[As part of the effort to make GNOME Terminal and the VTE terminal emulator library render faster, the GNOME Terminal has been seeing more work lately in being ported over to using the GTK 4 toolkit. Additionally, the VTE terminal library has been working to overcome its long-standing 40 FPS rendering cap...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-696</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-696"/>
+        <updated>2023-11-05T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for seeing lots of pals you've not seen in a while. Before you travel over, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F2FS In Linux 6.7 Supports Larger Page Size, Continued Zone Block Device Work]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.7-F2FS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.7-F2FS"/>
+        <updated>2023-11-05T10:42:40.000Z</updated>
+        <summary type="html"><![CDATA[The Flash-Friendly File-System (F2FS) continues to be improved upon in the mainline Linux kernel and with the ongoing v6.7 merge window has received some additional enhancements...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl - Duel: Kirby Mass Attack]]></title>
         <id>https://www.nintendolife.com/#article-157865</id>
@@ -2892,16 +2953,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steam Linux Usage Dropped Lower In October But With More Questionable Data]]></title>
-        <id>https://www.phoronix.com/news/Steam-Survey-October-2023</id>
-        <link href="https://www.phoronix.com/news/Steam-Survey-October-2023"/>
-        <updated>2023-11-02T00:15:30.000Z</updated>
-        <summary type="html"><![CDATA[Valve just published their October 2023 stats for the monthly Steam Survey and they point to a nearly quarter point drop in the Linux usage after previously hitting its own highs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Principy fungování DNS: život jednoho dotazu]]></title>
         <id>www.root.cz-text-16833</id>
         <link href="https://www.root.cz/clanky/principy-fungovani-dns-zivot-jednoho-dotazu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2966,16 +3017,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenRazer 3.7 Adds Support For Many Newer Razer Devices On Linux]]></title>
-        <id>https://www.phoronix.com/news/OpenRazer-3.7</id>
-        <link href="https://www.phoronix.com/news/OpenRazer-3.7"/>
-        <updated>2023-11-01T20:42:36.000Z</updated>
-        <summary type="html"><![CDATA[OpenRazer as the community-driven, open-source project providing driver support for Razer peripherals on Linux is out with a new feature release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Capcom is worried that mods “offensive to public order and morals” will ‘tarnish’ the rep of their PC games]]></title>
         <id>https://www.rockpapershotgun.com/capcom-is-worried-that-mods-offensive-to-public-order-and-morals-will-tarnish-the-rep-of-their-pc-games</id>
         <link href="https://www.rockpapershotgun.com/capcom-is-worried-that-mods-offensive-to-public-order-and-morals-will-tarnish-the-rep-of-their-pc-games"/>
@@ -2996,16 +3037,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Google představil novou doménu nejvyššího řádu: .ing. Domény design.ing, draw.ing, go.ing, edit.ing, sign.ing, giv.ing, mak.ing, adapt.ing, dumpl.ing a bank.ing jsou už obsazeny.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sysctl With Linux 6.7 Continues Work To Remove Kernel Bloat]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.7-sysctl</id>
-        <link href="https://www.phoronix.com/news/Linux-6.7-sysctl"/>
-        <updated>2023-11-01T20:20:23.000Z</updated>
-        <summary type="html"><![CDATA[Since Linux 6.6 we've been seeing work upstreamed for sysctl working to remove its sentinel, the final empty element on each sysctl array. This will cut-down on around 64 bytes of bloat per array, help with kernel build times, and an all-around improvement. With Linux 6.7 more of the sysctl changes are ready and hopefully for the v6.8 kernel cycle next year the effort will be completed...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3123,16 +3154,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 23.3-rc2 Released With Fixes For Zink, Rusticl, RADV & Other Drivers]]></title>
-        <id>https://www.phoronix.com/news/Mesa-23.3-rc2-Released</id>
-        <link href="https://www.phoronix.com/news/Mesa-23.3-rc2-Released"/>
-        <updated>2023-11-01T18:03:50.000Z</updated>
-        <summary type="html"><![CDATA[Eric Engestrom has put out another on-time Mesa release candidate for what's culminating with the Mesa 23.3 release in the coming weeks...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3341,16 +3362,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Siobhán Casey</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Eyes Removal Of Theora Support In Firefox]]></title>
-        <id>https://www.phoronix.com/news/Mozilla-Eyes-Dropping-Theora</id>
-        <link href="https://www.phoronix.com/news/Mozilla-Eyes-Dropping-Theora"/>
-        <updated>2023-11-01T15:36:07.000Z</updated>
-        <summary type="html"><![CDATA[Following Google's plans for removing Theora codec format support from the Chrome/Chromium browser, Mozilla is also eyeing a similar move for retiring Theora from Firefox...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -5028,22 +5039,6 @@ CDPR continue to fix them, too. Patch 2.02 is out now.
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft delay Skull and Bones yet again, together with a mystery "large game"]]></title>
-        <id>https://www.rockpapershotgun.com/ubisoft-delay-skull-and-bones-yet-again-together-with-a-mystery-large-game</id>
-        <link href="https://www.rockpapershotgun.com/ubisoft-delay-skull-and-bones-yet-again-together-with-a-mystery-large-game"/>
-        <updated>2023-10-26T17:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft's multiplayer Jolly Rog 'em up Skull and Bones is caught on the reefs once again. Recently tipped to appear in early fiscal year 2023-2024, it's now due to make landfall in the publisher's FYQ4 - sometime between January and March 2024. What's the Golden Age of Piracy equivalent for "vapourware"? I'm picturing a spectral vessel like the Flying Dutchman, crewed by glum-faced producers and with a big grimacing statue of company CEO Yves Guillemot affixed to the prow.
-
-
-The troubled naval combat sim isn't the only Ubisoft project experiencing misadventures. As revealed in their latest earnings report, the publisher have also pushed back a mysterious "large game", originally due to launch before the end of their current fiscal year, to the next fiscal year, which means at some point after 31st March 2024. Speculation runs rife that the anonymous blockbuster is Ubisoft Massive's Star Wars Outlaws.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
         </author>
     </entry>
     <entry>
