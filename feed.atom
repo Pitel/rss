@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-09T10:10:22.864Z</id>
+    <id>urn:2023-11-09T12:18:00.364Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-09T10:10:22.864Z</updated>
+    <updated>2023-11-09T12:18:00.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Prusa Pro: HT90, SLX a AFS]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/prusa-pro-ht90-slx-a-afs</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/prusa-pro-ht90-slx-a-afs"/>
+        <updated>2023-11-09T12:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Josef Průša vysvětluje vztah mezi Prusa Research a Prusa Pro a představuje novou průmyslovou FDM tiskárnu Prusa Pro HT90, dále koncept nadcházející SLA tiskárny Prusa Pro SLX a v neposlední řadě i nejnovější iteraci automatické tiskové farmy (AFS).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 23.3-rc3 Released As The Stable Version Nears]]></title>
+        <id>https://www.phoronix.com/news/Mesa-23.3-rc3-Released</id>
+        <link href="https://www.phoronix.com/news/Mesa-23.3-rc3-Released"/>
+        <updated>2023-11-09T11:57:13.000Z</updated>
+        <summary type="html"><![CDATA[Mesa 23.3-rc3 was released on Wednesday night as the newest weekly release candidate ahead of the Mesa 23.3 release as this quarter's feature series for this collection of OpenGL and Vulkan open-source drivers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIPS AR7 Platform Support Removed In Linux 6.7]]></title>
+        <id>https://www.phoronix.com/news/MIPS-AR7-Removed-Linux-6.7</id>
+        <link href="https://www.phoronix.com/news/MIPS-AR7-Removed-Linux-6.7"/>
+        <updated>2023-11-09T11:47:17.000Z</updated>
+        <summary type="html"><![CDATA[With the MIPS CPU architecture at the end of the road in light of RISC-V and LoongArch, there isn't much going on when it comes to MIPS development for the Linux kernel. Most cycles these days just brings bug fixes and removing old/unmaintained platforms. The latest MIPS platform now being removed is AR7 with Linux 6.7...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PiArtFrame displays fractal art]]></title>
+        <id>https://www.raspberrypi.com/?p=103301</id>
+        <link href="https://www.raspberrypi.com/news/piartframe-displays-fractal-art/"/>
+        <updated>2023-11-09T11:45:10.000Z</updated>
+        <summary type="html"><![CDATA[We spotted this excellently simple fractal art display on Reddit. It's a perfect beginner project for someone looking for a geeky desk trinket. 
+The post PiArtFrame displays fractal art appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Ashley Whittaker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Starfield update fixes one of the game's biggest annoyances - eating stuff - while adding DLSS]]></title>
+        <id>https://www.rockpapershotgun.com/latest-starfield-update-fixes-one-of-the-games-biggest-annoyances-eating-stuff-while-adding-dlss</id>
+        <link href="https://www.rockpapershotgun.com/latest-starfield-update-fixes-one-of-the-games-biggest-annoyances-eating-stuff-while-adding-dlss"/>
+        <updated>2023-11-09T11:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Bethesda's Starfield is awash with things to eat or drink, from half-eaten club sandwiches to bits of steaming alien gizzard, but chugging your fill has always been fussier than it needs to be, involving a trip through the game's irritating menus. No more! The next Starfield patch, which is currently available as an opt-in Steam beta, will let you guzzle things without opening your inventory, on top of various tweaks to the game's graphics and quests.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canonical zveřejnil další podrobnosti o neměnném Ubuntu Core Desktop]]></title>
         <id>www.root.cz-actuality-45288</id>
@@ -2880,16 +2934,6 @@ The post NEW BOOK: The Official Raspberry Pi Handbook 2024 is here! appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Změna licence Matrix serverů Synapse a Dendrite a souvisejících projektů Sygnal, Sydent a MAS z Apache 2.0 na AGPL 3]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/zmena-licence-matrix-serveru-synapse-a-dendrite-a-souvisejicich-projektu-sygnal-sydent-a-mas-z-apache-2.0-na-agpl-3</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/zmena-licence-matrix-serveru-synapse-a-dendrite-a-souvisejicich-projektu-sygnal-sydent-a-mas-z-apache-2.0-na-agpl-3"/>
-        <updated>2023-11-07T03:32:31.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Element stojící za stejnojmennou komunikační aplikací postavenou nad protokolem Matrix oznámila změnu licence (fork) Matrix serverů Synapse a Dendrite a souvisejících projektů Sygnal, Sydent a MAS z Apache 2.0 na AGPL 3. Přispěvatelé budou muset podepsat CLA (Contributor License Agreement). Vyjádření Nadace Matrix.org.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Roblox Players Say Pro-Palestinian Games Are Being Taken Down [Update]]]></title>
         <id>1850995445</id>
         <link href="https://kotaku.com/roblox-pro-free-palestine-flag-israel-1850995445"/>
@@ -3425,16 +3469,6 @@ Have you been playing Season OG? Let us know in the comments below!]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla Firefox Development Finally Moving Entirely To Git]]></title>
-        <id>https://www.phoronix.com/news/Firefox-Going-Git</id>
-        <link href="https://www.phoronix.com/news/Firefox-Going-Git"/>
-        <updated>2023-11-06T13:13:08.000Z</updated>
-        <summary type="html"><![CDATA["FIREFOX DEVELOPMENT IS MOVING FROM MERCURIAL TO GIT," began the email today from Mozilla announcing Firefox is finally shifting over to Git!..]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Screenshot Saturday Mondays: Kicking in doors and clicking on shoes]]></title>
         <id>https://www.rockpapershotgun.com/screenshot-saturday-mondays-kicking-in-doors-and-clicking-on-shoes</id>
         <link href="https://www.rockpapershotgun.com/screenshot-saturday-mondays-kicking-in-doors-and-clicking-on-shoes"/>
@@ -3466,16 +3500,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS Screenpad Support, More MSI Laptops & Intel IFS Gen2 Changes In Linux 6.7]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.7-x86-Platform-Drivers</id>
-        <link href="https://www.phoronix.com/news/Linux-6.7-x86-Platform-Drivers"/>
-        <updated>2023-11-06T11:34:39.000Z</updated>
-        <summary type="html"><![CDATA[A wide variety of x86 platform driver changes were merged for the in-development Linux 6.7 kernel from new hardware support to improving the state of Linux on various Intel/AMD laptops...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -5120,17 +5144,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Screenshot Saturday Tuesday: Grappling hooks, a stabby car, and giving ghosts the finger]]></title>
-        <id>https://www.rockpapershotgun.com/screenshot-saturday-tuesday-grappling-hooks-a-stabby-car-and-giving-ghosts-the-finger</id>
-        <link href="https://www.rockpapershotgun.com/screenshot-saturday-tuesday-grappling-hooks-a-stabby-car-and-giving-ghosts-the-finger"/>
-        <updated>2023-10-31T13:56:35.000Z</updated>
-        <summary type="html"><![CDATA[Every weekend, indie devs show off current work on Twitter's #screenshotsaturday tag. And every Monday, I bring you a selection of these snaps and clips. Well, usually on Monday; yesterday I was instead up in the Highlands admiring autumn. But today! Today my eye has been caught by an even greater quantity of grappling hooks and slick movement tricks than usual, along with some chill scenes, typing violence, and giving ghosts the finger.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Petrifying Pico pumpkins]]></title>
         <id>https://www.raspberrypi.com/?p=102996</id>
         <link href="https://www.raspberrypi.com/news/petrifying-pico-pumpkins/"/>
@@ -5286,17 +5299,6 @@ reports, which help us to make Android Studio better. If you encounter a problem
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScreenDress is embellished with spooky Pi-powered eyes | The MagPi #135]]></title>
-        <id>https://www.raspberrypi.com/?p=102850</id>
-        <link href="https://www.raspberrypi.com/news/screendress-is-embellished-with-spooky-pi-powered-eyes-the-magpi-135/"/>
-        <updated>2023-10-26T07:28:54.000Z</updated>
-        <summary type="html"><![CDATA[We’d definitely say yes to this dress – a stunning creation by Anouk Wipprecht that is proving to be an eye-opener.
-The post ScreenDress is embellished with spooky Pi-powered eyes | The MagPi #135 appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Rob Zwetsloot</name>
         </author>
     </entry>
     <entry>
