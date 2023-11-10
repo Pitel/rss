@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-10T08:12:20.267Z</id>
+    <id>urn:2023-11-10T10:10:31.295Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-10T08:12:20.267Z</updated>
+    <updated>2023-11-10T10:10:31.295Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Is the Steam Deck OLED worth the upgrade? A Switch OLED coveter decides]]></title>
+        <id>https://www.rockpapershotgun.com/is-the-steam-deck-oled-worth-the-upgrade-a-switch-oled-coveter-decides</id>
+        <link href="https://www.rockpapershotgun.com/is-the-steam-deck-oled-worth-the-upgrade-a-switch-oled-coveter-decides"/>
+        <updated>2023-11-10T09:24:30.000Z</updated>
+        <summary type="html"><![CDATA[I like to think my Steam Deck OLED review was a sufficiently broad piece of opinioning, but in the spirit of plurality – and because we already did it with that Steam Deck Second Opinion video – I wanted our head honcho Katharine to give her take. She’s also been getting to grips with the Steam Deck OLED behind the scenes, and happens to be an expert on portable gaming devices with organic light-emitting diode screens. An expert on yearning for them, anyway.
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenZFS umí paralelně synchronizovat více objektů, zvýšila se rychlost zápisu]]></title>
+        <id>www.root.cz-actuality-45292</id>
+        <link href="https://www.root.cz/zpravicky/openzfs-umi-paralelne-synchronizovat-vice-objektu-zvysila-se-rychlost-zapisu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-10T09:06:22.000Z</updated>
+        <summary type="html"><![CDATA[V pondělí byla do OpenZFS zařazena úprava, která dovolí paralelně synchronizovat více objektů. Zároveň byla snížena kolize zámků při zápise.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O víkendu proběhne v Brně konference OpenAlt, pozor na změnu místa konání]]></title>
+        <id>www.root.cz-actuality-45291</id>
+        <link href="https://www.root.cz/zpravicky/o-vikendu-probehne-v-brne-konference-openalt-pozor-na-zmenu-mista-konani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-10T09:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Tradiční brněnská konference OpenAlt proběhne o tomto víkendu víkendu 11. a 12. listopadu. Letos došlo po mnoha letech ke změně místa konání akce, je potřeba dorazit na Fakultu informatiky Masarykovy univerzity. Podívejte se na kompletní program, ať něco zbytečně nepropásnete.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve oznámilo Steam Deck OLED s větší baterií]]></title>
+        <id>www.root.cz-actuality-45290</id>
+        <link href="https://www.root.cz/zpravicky/valve-oznamilo-steam-deck-oled-s-vetsi-baterii/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-10T08:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Valve oznámilo novou herní konzoli založenou na Linuxu Steam Deck OLED. Hlavní novinkou je 1280 × 800 HDR OLED displej o diagonále 7,4 palce. Původní  1280 × 800 LED měl diagonálu 7 palců. Nové je 6nm AMD APU oproti 7nm ve stávající verzi. Nové APU má stále 4 jádra Zen 2 a RDNA2 GPU. Nová je větší baterie 50 Wh oproti 40 Wh a také podpora WiFi 6E oproti WiFi 5.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux a správa počítačové sítě (školení)]]></title>
+        <id>www.root.cz-actuality-44513</id>
+        <link href="https://www.root.cz/zpravicky/linux-a-sprava-pocitacove-site-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-10T08:09:57.000Z</updated>
+        <summary type="html"><![CDATA[Linux je v síťovém prostředí jako doma, může zastat prakticky všechny potřebné role od směrovače (router), přes DHCP, DNS až po souborový server Samba pro Microsoft Windows. Přijďte se to všechno naučit na naše třídenní školení s názvem Linux: správa počítačové sítě.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Itanium má šanci se vrátit do jádra, ale vývojáři s ním budou mít hodně práce]]></title>
         <id>www.root.cz-actuality-45289</id>
@@ -4387,16 +4438,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jádro 6.7 bude mít printk ve více vláknech]]></title>
-        <id>www.root.cz-actuality-45269</id>
-        <link href="https://www.root.cz/zpravicky/jadro-6-7-bude-mit-printk-ve-vice-vlaknech/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-03T14:15:05.000Z</updated>
-        <summary type="html"><![CDATA[V linuxovém jádře je printk to, co píše při startu hlášky na konzoli, případně sériovou konzoli, případně do dmesg. V současnosti se vše tiskne jen v jednom vlákně a to je jedna z posledních velkých překážek bránících vytvořit real-time jádro (volba PREEMPT_RT). Zatím jsou záplaty pro real-time jádro udržovány mimo hlavní strom.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Operate strange machinery in these great free horror games]]></title>
         <id>https://www.rockpapershotgun.com/operate-strange-machinery-in-these-great-free-horror-games</id>
         <link href="https://www.rockpapershotgun.com/operate-strange-machinery-in-these-great-free-horror-games"/>
@@ -4494,36 +4535,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 The post The Raspberry Pi Store comes to Leeds for the festive season appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 39 vyjde v úterý 7. listopadu]]></title>
-        <id>www.root.cz-actuality-45267</id>
-        <link href="https://www.root.cz/zpravicky/fedora-39-vyjde-v-utery-7-listopadu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-03T09:07:36.000Z</updated>
-        <summary type="html"><![CDATA[Fedora 39 měla původně vyjít už 18. října, ale vydání bylo odloženo kvůli problémům se startem na Raspberry Pi. Nyní už vývojáři dali zelenou a vydání by mělo proběhnout v úterý 7. listopadu. Samozřejmě se může ještě cokoliv změnit a neočekávané potíže mohou způsobit další odklad.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naučte se Kubernetes na našem dvoudenním školení]]></title>
-        <id>www.root.cz-actuality-41195</id>
-        <link href="https://www.root.cz/zpravicky/naucte-se-kubernetes-na-nasem-dvoudennim-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-03T09:00:09.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes je dnes nejrozšířenější platformou na hostovaní Docker kontejnerů a je podporován velkými hráči na trhu (Google, Amazon, Microsoft) skrz Cloud Native Computing Foundation. Kuberneres pro provoz používají všechny velikosti firem, od startupu po korporace. Pojďme se naučit jej používat na dvoudenním kurzu Úvod do Kubernetes, který proběhne v naší pražské školicí místnosti ve dnech 13. a 14. listopadu. Školení proběhne v naší pražské školicí místnosti a můžete se ho zúčastnit i online.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gaijin Entertainment vydal engine k War Thunderu jako open source]]></title>
-        <id>www.root.cz-actuality-45266</id>
-        <link href="https://www.root.cz/zpravicky/gaijin-entertainment-vydal-engine-k-war-thunderu-jako-open-source/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-03T08:25:16.000Z</updated>
-        <summary type="html"><![CDATA[War Thunder je oblíbená akční MMO free-to-play válečná hra, kde můžete hrát za tanky, letadla a lodě. Zajímavé na této hře je, že má i nativního klienta pro Linux.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -5102,17 +5113,6 @@ Up to four-players team up to battle hordes of xenomorphs in this cooperative cl
 As a reminder, you have until November 6 to add October's monthly games to your library. As another heads up for new subscribers or those getting ready to renew, the prices for each PlayStation Plus tier has increased starting in September. You can read a breakdown of the price changes here.]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My favourite cheap wireless mouse is down to £30 for Black Friday]]></title>
-        <id>https://www.rockpapershotgun.com/my-favourite-cheap-wireless-mouse-is-down-to-30-for-black-friday</id>
-        <link href="https://www.rockpapershotgun.com/my-favourite-cheap-wireless-mouse-is-down-to-30-for-black-friday"/>
-        <updated>2023-11-01T17:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Logitech's G305 wireless gaming mouse is an incredible budget option, combining the firm's bulletproof Lightspeed 2.4GHz wireless with a small, comfortable shape and six programmable buttons. This model's full price is £60, but today you can pick up the G305 for just £30 at Currys as part of their early Black Friday deals. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
         </author>
     </entry>
     <entry>
