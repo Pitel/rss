@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-11T10:09:20.174Z</id>
+    <id>urn:2023-11-11T12:16:17.442Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-11T10:09:20.174Z</updated>
+    <updated>2023-11-11T12:16:17.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Begins Sorting Out SR-IOV Support For The Xe Kernel Graphics Driver]]></title>
+        <id>https://www.phoronix.com/news/Intel-Xe-Driver-SR-IOV-Plans</id>
+        <link href="https://www.phoronix.com/news/Intel-Xe-Driver-SR-IOV-Plans"/>
+        <updated>2023-11-11T12:04:45.000Z</updated>
+        <summary type="html"><![CDATA[One of the great aspects of Intel integrated and discrete graphics is the broad support for Single Root I/O Virtualization (SR-IOV). Intel "Gen12" graphics back to Tigerlake can handle SR-IOV when there aren't any firmware woes or other issues at play. There is SR-IOV support currently with the i915 kernel driver but Intel engineers are working to architect optimal SR-IOV integration into their forthcoming Xe DRM kernel driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg 6.1 Released With Vulkan Video Decoding, VA-API AV1 Encode]]></title>
+        <id>https://www.phoronix.com/news/FFmpeg-6.1-Released</id>
+        <link href="https://www.phoronix.com/news/FFmpeg-6.1-Released"/>
+        <updated>2023-11-11T11:35:51.000Z</updated>
+        <summary type="html"><![CDATA[While it was supposed to ship back in H1'2023, FFmpeg 6.1 finally released last night as the newest feature update to this widely-used multimedia library...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.0 Is Enabling Wayland By Default, Initial Support For HDR-Capable Games]]></title>
+        <id>https://www.phoronix.com/news/Plasma-6.0-Wayland-Default</id>
+        <link href="https://www.phoronix.com/news/Plasma-6.0-Wayland-Default"/>
+        <updated>2023-11-11T11:24:31.000Z</updated>
+        <summary type="html"><![CDATA[It's been an exciting week in the KDE space as along with releasing Plasma 6.0 Alpha, they have also committed to shipping Plasma 6.0 with the Wayland session being enabled by default...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TUXEDO Computers Launches Zen 4 Linux Laptop With 32GB RAM & 3K Display]]></title>
+        <id>https://www.phoronix.com/news/TUXEDO-Pulse-14-Gen-3</id>
+        <link href="https://www.phoronix.com/news/TUXEDO-Pulse-14-Gen-3"/>
+        <updated>2023-11-11T11:00:08.000Z</updated>
+        <summary type="html"><![CDATA[Bavarian Linux PC vendor TUXEDO Computers has introduced their first Ryzen 7040 series "Zen 4" Linux laptop in the form of the Pulse 14 Gen 3...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (November 11th)]]></title>
         <id>https://www.nintendolife.com/#article-158215</id>
@@ -3248,16 +3288,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FEX 2311 Brings More AVX Optimizations, Preparations For Better Performance]]></title>
-        <id>https://www.phoronix.com/news/FEX-2311-Emulator</id>
-        <link href="https://www.phoronix.com/news/FEX-2311-Emulator"/>
-        <updated>2023-11-08T13:29:38.000Z</updated>
-        <summary type="html"><![CDATA[FEX 2311 is out today as the newest version of this emulator for running x86/x86_64 Linux binaries on AArch64 systems...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rockstar Set To Release First Trailer For Grand Theft Auto 6 Next Month]]></title>
         <id>121478</id>
         <link href="https://www.gameinformer.com/news/2023/11/08/rockstar-set-to-release-first-trailer-for-grand-theft-auto-6-next-month"/>
@@ -3285,16 +3315,6 @@ What do you want to see most in the next Grand Theft Auto? Let us know in the co
 The post This Raspberry Pi-powered submarine ROV safely explores the depths appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Set Of 86 Patches Overhaul The Linux Kernel's Preemption Model]]></title>
-        <id>https://www.phoronix.com/news/Overhaul-Linux-Preemptible-RFC</id>
-        <link href="https://www.phoronix.com/news/Overhaul-Linux-Preemptible-RFC"/>
-        <updated>2023-11-08T11:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Ankur Arora of Oracle on Tuesday sent out a set of 86 patches for making the Linux kernel preemptible. This is based on earlier work by prominent Linux kernel engineer Thomas Gleixner...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3342,16 +3362,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GIMP 2.10.36 Released As GIMP 3.0 Might Finally Be Close]]></title>
-        <id>https://www.phoronix.com/news/GIMP-2.10.36-Released</id>
-        <link href="https://www.phoronix.com/news/GIMP-2.10.36-Released"/>
-        <updated>2023-11-08T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GIMP 2.10.36 was released on Tuesday for this long-running stable series of this open-source Adobe Photoshop alternative while GIMP 3.0 has been very slow to materialize...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Parameterball]]></title>
         <id>https://xkcd.com/2852/</id>
         <link href="https://xkcd.com/2852/"/>
@@ -3378,16 +3388,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Po 4 měsících vývoje od vydání verze 6.3 byla vydána nová verze 6.4 svobodného open source redakčního systému WordPress. Kódové jméno Shirley bylo vybráno na počest americké jazzové zpěvačky a klavíristky Shirley Horn (YouTube).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bcachefs Lands Big Scalability Improvement, Disables Debug Option By Default]]></title>
-        <id>https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7</id>
-        <link href="https://www.phoronix.com/news/Bcachefs-Updated-Linux-6.7"/>
-        <updated>2023-11-08T00:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Following last week's merging of the Bcachefs file-system into Linux 6.7, a secondary set of updates were merged today for adding a few new features as well as some fixes for this newly-merged Linux file-system...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
