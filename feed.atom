@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-18T12:16:21.961Z</id>
+    <id>urn:2023-11-18T14:08:07.737Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-18T12:16:21.961Z</updated>
+    <updated>2023-11-18T14:08:07.737Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Soapbox: 20 Years On, It's About Time These Pokémon Games Got Switch Remasters]]></title>
+        <id>https://www.nintendolife.com/#article-157421</id>
+        <link href="https://www.nintendolife.com/features/soapbox-20-years-on-its-about-time-these-pokemon-games-got-switch-remasters"/>
+        <updated>2023-11-18T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gotta snag em’ all.
+Soapbox features enable our individual writers and contributors to voice their opinions on hot topics and random stuff they've been chewing over. Today, ahead of its 20th anniversary on 21st November, Nathanial looks back on a Pokémon region that's been pretty much ignored for two decades...
+
+A common mislabelling seen online is Pokémon X and Y as the first fully 3D Pokémon RPGs. Of course, those in the Poké-community know better: it is 2003’s Pokémon Colosseum for GameCube that holds this distinction.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GCC Patches Posted For Implementing Incremental LTO]]></title>
         <id>https://www.phoronix.com/news/GCC-Incremental-LTO-Patches</id>
@@ -2245,19 +2259,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Spirittea – A Relaxing Life Sim With A Few Bumps In The Night]]></title>
-        <id>https://www.nintendolife.com/#article-158002</id>
-        <link href="https://www.nintendolife.com/reviews/switch-eshop/spirittea"/>
-        <updated>2023-11-16T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Afterlife sim.
-There’s no shortage of games where you have to cleanse a town of ghosts. But do those games let you cleanse the ghosts themselves? Spirittea does. Canadian solo developer Cheesemaster brings us this Japanese- and Korean-inspired afterlife sim. It’s a brew of Spirited Away, Stardew Valley, and other things that mostly goes down well, albeit with a few harder-to-swallow bits.
-You create a character with limited customisation, and you’re told you’re a writer moving to a small town to focus on your book. As you settle in, you realise there are some odd occurrences that the locals can’t understand or explain. You’re given tea leaves which, when brewed in the teapot left by the previous resident, grant you ‘spirit vision’, the ability to see spirits invisible to the naked eye. Guided by Wonyan – a cat-like spirit guide who’s, well, catty – you’ll uncover some ghostly goings-on, and find the lost spirits causing them.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -5532,116 +5533,6 @@ you.
   
     
 Fixed Issues]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Iguana Canary 9 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-9.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/10/android-studio-iguana-202321-canary-9.html"/>
-        <updated>2023-10-20T00:44:00.002Z</updated>
-        <summary type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 9 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Update (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Iguana, see the Android Studio Preview release notes. For details of bugs fixed in each preview
-release, see previous entries on this blog.
-General fixes and features
-Below is a list of general fixes in Android Studio Iguana | 2023.2.1 Canary 9 and Android Gradle Plugin 8.3.0-alpha09 These are a result of your bug 
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #303497756
-Transforming the ASSETS artifact give broken input/output locations
-
-            
-
-              
-Issue #303900539
-Promote android.experimental.r8.dex-startup-optimization=true to be default
-
-          
-        
-
-      
-    
-Editing
-      
-        
-
-          
-            
-
-              
-Issue #305066070
-shrinkunusedprotofields is marked as invalid flag in proguard-rules.pro
-
-          
-        
-
-      
-    
-IntelliJ
-      
-        
-
-          
-            
-
-              
-Issue #303743141
-Iguana: Process 471 is still running
-
-          
-        
-
-      
-    
-Lint
-      
-        
-
-          
-            
-
-              
-Issue #300392968
-Quickfix Lint doesn't work and results in an IDE error
-
-            
-
-              
-Issue #188814760
-Inconsistent test failure due to partial analysis
-
-          
-        
-
-      
-    
-Logcat
-      
-        
-
-          
-            
-
-              
-Issue #305221377
-Add a Process Name Column in Logcat]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
