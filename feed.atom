@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-18T18:11:25.817Z</id>
+    <id>urn:2023-11-18T20:09:35.241Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-18T18:11:25.817Z</updated>
+    <updated>2023-11-18T20:09:35.241Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Warner Bros debunks Wonder Woman live-service reports]]></title>
+        <id>https://www.destructoid.com/?p=430259</id>
+        <link href="https://www.destructoid.com/warner-bros-debunks-wonder-woman-live-service-reports/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=warner-bros-debunks-wonder-woman-live-service-reports"/>
+        <updated>2023-11-18T19:45:44.000Z</updated>
+        <summary type="html"><![CDATA[Wonder Woman fights alone. Despite a recent job listing bringing up live service, Warner Bros. denies its presence in the upcoming Wonder Woman video game. 
+
+
+It's no surprise that the mention of live service for a single-player title made people quite upset. Luckily, clarification from Warner Bros. helped ease that tension and reassured them on Monolith's superhero epic.
+
+
+An army of one-der Woman
+
+
+Almost a month ago, Monolith Studios posted a job listing for a Lead Software Engineer for Gameplay. While many wouldn't bat an eye towards it, it gained some unwanted attention when eagle-eyed fans noticed that one of the Nice to Haves (recommended) lists for one to have experience maintaining a live software game or project. While it's more of a recommendation, many thought the title might g…]]></summary>
+        <author>
+            <name>Michael Murphy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Now Using PGO For Building x86_64 Windows Release Binaries: ~22% Faster Builds]]></title>
+        <id>https://www.phoronix.com/news/LLVM-PGO-Windows-Build</id>
+        <link href="https://www.phoronix.com/news/LLVM-PGO-Windows-Build"/>
+        <updated>2023-11-18T18:14:17.000Z</updated>
+        <summary type="html"><![CDATA[The LLVM project is now employing profile-guided optimizations (PGO) when building their x86_64 Microsoft Windows release packages. Making use of PGO is able to make their Clang build a stunning 22% faster...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kotaku’s Biggest Gaming Culture News For The Week November 18, 2023]]></title>
         <id>1851032502</id>
@@ -2445,32 +2474,6 @@ The post After the success of the Sonic the Hedgehog movies, Sega wants to bring
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Game+ mode coming to Assassin’s Creed: Mirage in December]]></title>
-        <id>https://www.destructoid.com/?p=428869</id>
-        <link href="https://www.destructoid.com/new-game-mode-coming-to-assassins-creed-mirage-in-december/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-game-mode-coming-to-assassins-creed-mirage-in-december"/>
-        <updated>2023-11-16T05:25:05.000Z</updated>
-        <summary type="html"><![CDATA[Assassin's Creed: Mirage features many beloved elements from earlier franchise titles while presenting many modern conveniences. Disappointingly, New Game+ wasn't present at launch, though Ubisoft will fix that soon.
-
-
-The New Game+ mode update will hit AC: Mirage in December. It's free for all players, and it'll also include a permadeath mode to test the best assassins. We don't know what else the update will bring, but Ubisoft promises that more details will follow soon. 
-
-
-
-
-Mirage follows Basim as he goes from a petty thief and pickpocketer to a deadly assassin. It is set in Baghdad, and the region is filled to the brim with gorgeous sights and well-hidden collectibles. For players who want to experience the ancient city again but don't want to lose all their upgrades, the update will be a godsend. 
-
-
-The trend of games not launching with a New Game+ mode is an increasingly annoying and increasingly common problem. Fortunately, it wasn't enough to completely ruin Mirage, and upon launching, it received relatively good reviews from critics who appreciated the more streamlined approach it takes. 
-
-
-Things are quite busy in the Assassin's Creed world, as AC: Nexus VR launches on November 16 on the Meta Quest 2 and 3. A new mainline titled codenamed Red is also in the works. It's set in Japan, which satisfies a desire many fans have had for the franchise for years. 
-
-The post New Game+ mode coming to Assassin’s Creed: Mirage in December appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Smangaliso Simelane</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Won’t Download a Car? Let’s Try: “Piracy Turns Teenagers Into Gambling Addicts”]]></title>
         <id>https://torrentfreak.com/?p=242559</id>
         <link href="https://torrentfreak.com/wont-download-a-car-lets-try-piracy-turns-teenagers-into-gambling-addicts-231116/"/>
@@ -3008,16 +3011,6 @@ The original Super Mario RPG, released for Super Nintendo in 1996, felt like it 
         <link href="https://www.phoronix.com/news/Intel-APX-NDD-GCC"/>
         <updated>2023-11-15T13:56:43.000Z</updated>
         <summary type="html"><![CDATA[As part of their work on enabling Advanced Performance Extensions, Intel compiler engineers today posted a set of GNU Compiler Collection patches for enabling the APX NDD...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa Radeon Vulkan Driver "RADV" Works Around Bugs For Unreal Engine 4 & 5]]></title>
-        <id>https://www.phoronix.com/news/RADV-Mesa-UE4-UE5</id>
-        <link href="https://www.phoronix.com/news/RADV-Mesa-UE4-UE5"/>
-        <updated>2023-11-15T13:42:34.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to prolific Mesa RADV contributor Samuel Pitoiset of Valve's Linux graphics team, a fix is on the way for addressing various issues with Unreal Engine 4 and Unreal Engine 5 games running on Linux...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
