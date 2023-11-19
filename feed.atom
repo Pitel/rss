@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-19T16:11:22.680Z</id>
+    <id>urn:2023-11-19T18:11:21.500Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-19T16:11:22.680Z</updated>
+    <updated>2023-11-19T18:11:21.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Polychromatic 0.8.3 Released For Latest Open-Source Razer Experience On Linux]]></title>
+        <id>https://www.phoronix.com/news/Polychromatic-0.8.3</id>
+        <link href="https://www.phoronix.com/news/Polychromatic-0.8.3"/>
+        <updated>2023-11-19T17:10:36.000Z</updated>
+        <summary type="html"><![CDATA[In the absence of Razer providing any official drivers and GUI control panel for Linux systems, the OpenRazer independent open-source project for crafting reverse-engineered driver support and then the likes of Polychromatic as a graphical control utility make for a pleasant Linux experience for Razer hardware on Linux. Out today is a new Polychromatic release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Felix The Cat' Konami Collection Surfaces On The ESRB]]></title>
+        <id>https://www.nintendolife.com/#article-158572</id>
+        <link href="https://www.nintendolife.com/news/2023/11/felix-the-cat-konami-collection-surfaces-on-the-esrb"/>
+        <updated>2023-11-19T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Another blast from the past appears to be returning.
+The classic cartoon character Felix the Cat is seemingly making a video game comeback, according to a new rating that's popped up on the ESRB.
+The Felix the Cat game for Switch and multiple other platforms is described as a "collection of action platformers" where players navigate Felix through various 2D environments as he goes on an adventure to save his girlfriend from an evil professor. Here's the full description:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logitech's legendary MX Master 3S office mouse has dropped to £82 at Amazon UK]]></title>
         <id>https://www.rockpapershotgun.com/logitechs-legendary-mx-master-3s-office-mouse-has-dropped-to-82-at-amazon-uk</id>
@@ -1706,19 +1729,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Legend Of Zelda Master Sword Replica Announced For Tamashii Nations "Proplica" Line]]></title>
-        <id>https://www.nintendolife.com/#article-158512</id>
-        <link href="https://www.nintendolife.com/news/2023/11/legend-of-zelda-master-sword-replica-announced-for-tamashii-nations-proplica-line"/>
-        <updated>2023-11-17T00:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's a look at the prototype.
-
-If you've ever fancied wielding a real-life version of the Master Sword from The Legend of Zelda, Tamashii Nations has announced it's currently developing its own stunning replica. There are not many details at the moment, but we do know it will be part of the company's "Proplica" line.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Noctua NH-U14S TR5-SP6 & NH-D9 TR5-SP6 4U Great For Cooling AMD EPYC 8004 "Siena" CPUs]]></title>
         <id>https://www.phoronix.com/review/noctua-sp6-cooling</id>
         <link href="https://www.phoronix.com/review/noctua-sp6-cooling"/>
@@ -2733,16 +2743,6 @@ Read more...]]></summary>
         <link href="https://www.phoronix.com/news/Intel-ISPC-1.22"/>
         <updated>2023-11-15T21:40:00.000Z</updated>
         <summary type="html"><![CDATA[Intel has released a new version of ISPC, their Implicit SPMD Program Compiler. The ISPC 1.22 release is clocking in a few percent faster across the board as with their release builds they are now making use of LLVM Clang's link-time optimizations (LTO) for speeding up the binaries...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 40 Looking To Change Linker To Error Out On Security Issues]]></title>
-        <id>https://www.phoronix.com/news/Fedora-40-BFD-Linker-Errors</id>
-        <link href="https://www.phoronix.com/news/Fedora-40-BFD-Linker-Errors"/>
-        <updated>2023-11-15T21:14:53.000Z</updated>
-        <summary type="html"><![CDATA[A change proposal currently undergoing discussion for Fedora 40 would change their toolchain's (BFD) linker to error out on potential security issues. Currently BFD is emitting warnings on potential security problems but the F40 proposal is to instead error out so the program being built will fail to link when hitting recognized security issues...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
