@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-20T08:13:48.385Z</id>
+    <id>urn:2023-11-20T10:11:24.922Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-20T08:13:48.385Z</updated>
+    <updated>2023-11-20T10:11:24.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Do jádra 6.8 míří podpora GPU Raspberry Pi 5]]></title>
+        <id>www.root.cz-actuality-45315</id>
+        <link href="https://www.root.cz/zpravicky/do-jadra-6-8-miri-podpora-gpu-raspberry-pi-5/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-20T09:43:20.000Z</updated>
+        <summary type="html"><![CDATA[Do jádra 6.8 míří podpora GPU Raspberry Pi 5. Okno pro nový kód se otevře po vydání jádra 6.7, tedy zřejmě začátkem příštího roku.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL konference pgconf.eu proběhne 12. až 15. prosince v Praze]]></title>
+        <id>www.root.cz-actuality-45314</id>
+        <link href="https://www.root.cz/zpravicky/postgresql-konference-pgconf-eu-probehne-12-az-15-prosince-v-praze/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-20T09:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Zbývá necelý měsíc do pgconf.eu, hlavní evropské konference o databázi PostgreSQL. Letošní ročník se koná v Praze v termínu 12. až 15. prosince. Přijďte na setkání s uživateli a vývojáři PostgreSQL a poslechněte si více než 50 přednášek o PostgreSQL. Další informace o konferenci a registraci najdete na 2023.pgconf.eu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Tomáš Vondra)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naučte se pracovat s Dockerem a kontejnery (školení)]]></title>
+        <id>www.root.cz-actuality-39529</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pracovat-s-dockerem-a-kontejnery-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-20T08:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Docker je dnes technologie, která proces vývoje, testování a provozování softwaru velmi zjednodušuje. Provozujte cokoliv a kdekoliv. Už nečekejte na nastavení svého serveru nebo na aktualizaci nějaké knihovny. Mějte prostředí jako součást vaší aplikace.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grab Microsoft's Xbox Wireless Controller for £40/$45 after a 30% Black Friday discount]]></title>
+        <id>https://www.rockpapershotgun.com/grab-microsofts-xbox-wireless-controller-for-4045-after-a-30-black-friday-discount</id>
+        <link href="https://www.rockpapershotgun.com/grab-microsofts-xbox-wireless-controller-for-4045-after-a-30-black-friday-discount"/>
+        <updated>2023-11-20T08:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Want to get the best value gamepad for PC? Microsoft's Xbox Wireless Controller is down to £39 at Amazon UK, a great price for a controller that is widely supported in PC games, with Bluetooth, 2.4GHz Xbox wireless and USB-C connectivity. These controllers also work on Xbox Series and One consoles, and plenty of phones and tablets too. 
+A wide range of colours are available too - I spotted white, purple, red, lime and blue options all available at £40 or below. I also spotted a similar deal on Amazon USA, with the price dropping to $45 on some colourways. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grab Logitech's G Pro X Superlight wireless mouse for £90 after a £50 discount]]></title>
         <id>https://www.rockpapershotgun.com/grab-logitechs-g-pro-x-superlight-wireless-mouse-for-90-after-a-50-discount</id>
@@ -4700,36 +4742,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenZFS umí paralelně synchronizovat více objektů, zvýšila se rychlost zápisu]]></title>
-        <id>www.root.cz-actuality-45292</id>
-        <link href="https://www.root.cz/zpravicky/openzfs-umi-paralelne-synchronizovat-vice-objektu-zvysila-se-rychlost-zapisu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-10T09:06:22.000Z</updated>
-        <summary type="html"><![CDATA[V pondělí byla do OpenZFS zařazena úprava, která dovolí paralelně synchronizovat více objektů. Zároveň byla snížena kolize zámků při zápise.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O víkendu proběhne v Brně konference OpenAlt, pozor na změnu místa konání]]></title>
-        <id>www.root.cz-actuality-45291</id>
-        <link href="https://www.root.cz/zpravicky/o-vikendu-probehne-v-brne-konference-openalt-pozor-na-zmenu-mista-konani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-10T09:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Tradiční brněnská konference OpenAlt proběhne o tomto víkendu víkendu 11. a 12. listopadu. Letos došlo po mnoha letech ke změně místa konání akce, je potřeba dorazit na Fakultu informatiky Masarykovy univerzity. Podívejte se na kompletní program, ať něco zbytečně nepropásnete.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve oznámilo Steam Deck OLED s větší baterií]]></title>
-        <id>www.root.cz-actuality-45290</id>
-        <link href="https://www.root.cz/zpravicky/valve-oznamilo-steam-deck-oled-s-vetsi-baterii/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-10T08:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Valve oznámilo novou herní konzoli založenou na Linuxu Steam Deck OLED. Hlavní novinkou je 1280 × 800 HDR OLED displej o diagonále 7,4 palce. Původní  1280 × 800 LED měl diagonálu 7 palců. Nové je 6nm AMD APU oproti 7nm ve stávající verzi. Nové APU má stále 4 jádra Zen 2 a RDNA2 GPU. Nová je větší baterie 50 Wh oproti 40 Wh a také podpora WiFi 6E oproti WiFi 5.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Redshift]]></title>
         <id>https://xkcd.com/2853/</id>
         <link href="https://xkcd.com/2853/"/>
@@ -4774,19 +4786,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Kolize černých děr pomáhají ověřit nové teorie gravitace. Novinky ze světa kvantových počítačů. Podíl licencovaných patentů je v Česku stále nízký.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starfield's protagonist almost sounded like party members Sam Coe and Andreja]]></title>
-        <id>https://www.rockpapershotgun.com/starfields-protagonist-almost-sounded-like-party-members-sam-coe-and-andreja</id>
-        <link href="https://www.rockpapershotgun.com/starfields-protagonist-almost-sounded-like-party-members-sam-coe-and-andreja"/>
-        <updated>2023-11-09T22:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Starfield's cast of sidekicks includes cowboy dad Sam Coe voiced by Elias Toufexis, also known as the voice of Adam Jensen in Deus Exes Human Revolution and Mankind Divided. This wasn't the role Toufexis was originally hired for, however. The actor revealed that he and fellow voice actress Cissy Jones, who voices romanceable party member Andreja, were originally hired to voice Starfield's protagonist. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
     <entry>
