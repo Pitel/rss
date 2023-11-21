@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T06:13:37.697Z</id>
+    <id>urn:2023-11-21T08:13:49.330Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-21T06:13:37.697Z</updated>
+    <updated>2023-11-21T08:13:49.330Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Borderlands 3 Switch Update Includes Performance Optimisations & More]]></title>
+        <title type="html"><![CDATA[Firefox 120 přináší Global Privacy Control a vylepšení pro PiP videa]]></title>
+        <id>www.root.cz-actuality-45319</id>
+        <link href="https://www.root.cz/zpravicky/firefox-120-prinasi-global-privacy-control-a-vylepseni-pro-pip-videa/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-21T06:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Nová verze Firefoxu je dle plánů tou poslední, která nepoužívá ve výchozím nastavení na Waylandu samotný Wayland. Na Ubuntu ale nabídne import dat z prohlížeče Chromium, jsou-li oba nainstalovány skrze Snap a dále obecně na Linuxu i Windows podporuje u videa Picture-in-Picture zachytávání rohů.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Borderlands 3 Switch Update Out Now, Includes Performance Optimisations & Much More]]></title>
         <id>https://www.nintendolife.com/#article-158638</id>
-        <link href="https://www.nintendolife.com/news/2023/11/borderlands-3-switch-update-includes-performance-optimisations-and-more"/>
+        <link href="https://www.nintendolife.com/news/2023/11/borderlands-3-switch-update-out-now-includes-performance-optimisations-and-much-more"/>
         <updated>2023-11-21T04:30:00.000Z</updated>
         <summary type="html"><![CDATA[Here's what's included.
 If there weren't enough updates going live today, we've now also got one for Borderlands 3: Ultimate Edition, which finally made its debut on the Switch last month.
-Early tests suggest it's made some significant improvements. According to the team, the performance in the game has been further optimised and there's even been some texture improvements. In general, it is mostly "quality-of-life" changes.
+Early tests suggest it's made some significant improvements. According to the team, the performance in the game has been further optimised and there are even some texture improvements. In general, it is mostly "quality-of-life" changes. Here are the full details:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -32,6 +42,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rocky Linux 9.3]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/rocky-linux-9.3</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/rocky-linux-9.3"/>
+        <updated>2023-11-21T02:54:37.000Z</updated>
+        <summary type="html"><![CDATA[Rocky Linux 9.3, klon Red Hat Enterprise Linuxu (RHEL) 9.3, byl vydán. Přehled novinek v poznámkách k vydání.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TinaCMS je plně open source]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/tinacms-je-plne-open-source</id>
         <link href="http://www.abclinuxu.cz/zpravicky/tinacms-je-plne-open-source"/>
@@ -48,7 +68,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2023-11-21T02:15:00.000Z</updated>
         <summary type="html"><![CDATA[Download it today.
 Nintendo has today rolled out a new update for Super Mario Bros. Wonder on the Switch. This is the first update since the game's release, bumping the title up to Version 1.0.1.
-There's not all that much there, but what Nintendo has done is made some adjustments to heart points, the staff credits and provided some general updates to further improve the overall gameplay experience. You can get the full rundown in the official patch notes below:
+There's not all that much there, but what Nintendo has done is made some adjustments to heart points, the staff credits and provided some "general updates" to improve the overall gameplay experience. You can get the full rundown in the official patch notes below:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1812,16 +1832,6 @@ Here’s the trailer:
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calibre 7.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/calibre-7.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/calibre-7.0"/>
-        <updated>2023-11-18T00:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová major verze 7.0 softwaru pro správu elektronických knih Calibre (Wikipedie). Přehled novinek v poznámkách k vydání. Vypíchnuta je možnost přidávání poznámek k autorům, tagům, sériím atd. s odkazy a obrázky.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4577,16 +4587,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/knihovna-openblas-0-3-25-opravuje-detekci-zen-3-a-4/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-11-13T09:02:31.000Z</updated>
         <summary type="html"><![CDATA[Včera vyšla knihovna OpenBLAS 0.3.25. OpenBLAS je optimalizovaná knihovna BLAS (Basic Linear Algebra Subprograms) a používali jsme ji například při testování stability a výkonu počítače pomocí HPL. Pokud chcete, můžete jednoduše použít novou knihovnu OpenBLAS 0.3.25 místo 0.3.24. Postup kompilace bude stejný.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Provizorní dohoda o evropském eID]]></title>
-        <id>www.root.cz-actuality-45297</id>
-        <link href="https://www.root.cz/zpravicky/provizorni-dohoda-o-evropskem-eid/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-13T08:35:27.000Z</updated>
-        <summary type="html"><![CDATA[Evropská unie minulý týden schválila provizorní dohodu o eID (European digital identity). Podle této dohody bude moci každá osoba v EU bezplatně (v případě neprofesionálního použití) prokazovat svoji identitu a přihlašovat se k online službám v celé EU.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
