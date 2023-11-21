@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-21T08:13:49.330Z</id>
+    <id>urn:2023-11-21T10:16:31.921Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-21T08:13:49.330Z</updated>
+    <updated>2023-11-21T10:16:31.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Seznam.cz zavádí dvoufaktorovou autentizaci pomocí OTP a ruší kontrolní otázky]]></title>
+        <id>www.root.cz-actuality-45322</id>
+        <link href="https://www.root.cz/zpravicky/seznam-cz-zavadi-dvoufaktorovou-autentizaci-pomoci-otp-a-rusi-kontrolni-otazky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-21T08:59:26.000Z</updated>
+        <summary type="html"><![CDATA[Seznam.cz od listopadu zavádí nový způsob dvoufázového ověření při přihlašování uživatelů. Ke stávající možnosti ověření pomocí aplikace Seznam přibude nově standardní a široce rozšířená varianta ověření pomocí autentizační aplikace generující jednorázová hesla OTP. Bezpečnost je prioritou nejen pro nás, ale také pro stále větší skupinu našich uživatelů. Jsme rádi, že jim můžeme nově nabídnout standardní způsob zabezpečení, na něž jsou zvyklí. Dvoufázové ověření pomocí tzv. TOTP (Time-based One-Time Password) chrání účet uživatele před neoprávněným přístupem, a to i v případě, že dojde ke ztrátě či prolomení standardního hesla, vysvětluje David Finger, ředitel divize Email.cz a Mapy.cz.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD 14 je poslední řadou podporující 32bitové procesory]]></title>
+        <id>www.root.cz-actuality-45321</id>
+        <link href="https://www.root.cz/zpravicky/freebsd-14-je-posledni-radou-podporujici-32bitove-procesory/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-21T08:51:34.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři oznámili vydání FreeBSD 14.0-RELEASE. Jde o poslední řadu tohoto operačního systému, která bude ještě podporovat 32bitové procesory. Podporovány jsou architektury md64, aarch64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv7 a riscv6. Následující FreeBSD 15 už nebude podporovat 32bitové platformy, ačkoli si zachová podporu pro spouštění 32bitových binárních souborů. Očekává se, že tato 32bitová binární kompatibilita bude podporována přinejmenším do FreeBSD 16.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jak na preprocessing dat v Zabbixu, webinář zdarma]]></title>
+        <id>www.root.cz-actuality-45320</id>
+        <link href="https://www.root.cz/zpravicky/jak-na-preprocessing-dat-v-zabbixu-webinar-zdarma/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-21T08:41:51.000Z</updated>
+        <summary type="html"><![CDATA[Chcete se dozvědět, jak skutečně funguje preprocessing dat v Zabbixu a jak vám může pomoci? Ve čtrvrtek 23. listopadu od 10:00 do 12:00 vám to na bezplatném webináři prozradí zkušený lektor Tomáš Heřmánek. Zároveň zjistíte, jak se dají data zpracovat ještě před jejich uložením do databáze v přesném tvaru, jaký potřebujete. Webinář je bezplatný a stačí se na něj pouze registrovat: www.initmax.cz/we­binare/.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Tomáš Heřmánek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Firefox 120 přináší Global Privacy Control a vylepšení pro PiP videa]]></title>
         <id>www.root.cz-actuality-45319</id>
@@ -123,7 +153,7 @@ The standout of update 1.8.86 is that it brings Nvidia's DLSS to Starfield at la
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Moderní vzdělání ve 21. století a útoky na průmyslové sítě, zápisky z OpenAltu]]></title>
+        <title type="html"><![CDATA[Moderní vzdělání ve 21. století a útoky na průmyslové sítě, zápisky z OpenAltu]]></title>
         <id>www.root.cz-text-16871</id>
         <link href="https://www.root.cz/clanky/moderni-vzdelani-ve-21-stoleti-a-utoky-na-prumyslove-site-zapisky-z-openaltu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-11-20T23:00:10.000Z</updated>
@@ -4191,16 +4221,6 @@ The post An update on our work in Africa appeared first on Raspberry Pi.]]></sum
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox zkusí zapnutý Wayland ve výchozím nastavení]]></title>
-        <id>www.root.cz-actuality-45300</id>
-        <link href="https://www.root.cz/zpravicky/firefox-zkusi-zapnuty-wayland-ve-ve-vychozim-nastaveni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-14T07:35:47.000Z</updated>
-        <summary type="html"><![CDATA[Běh Firefoxu nativně na Waylandu je věcí, která se řeší už mnoho měsíců. Nyní je Bug 1752398 uzavřen a běhu oblíbeného prohlížeče na GTK desktopech typu GNOME bez mezivrstvy XWayland tak nic nebrání. Minimálně bude nyní v rámci vývojových větví vše doladěno, aby někdy kolem Firefoxu 121 mohlo dojít k zprovoznění podpory Waylandu pro všechny uživatele.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Call of Duty: Modern Warfare III Review - Not-So-Special Ops]]></title>
         <id>121503</id>
         <link href="https://www.gameinformer.com/review/call-of-duty-modern-warfare-iii/not-so-special-ops"/>
@@ -4267,16 +4287,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Foundation zakládá High Performance Software Foundation]]></title>
-        <id>www.root.cz-actuality-45299</id>
-        <link href="https://www.root.cz/zpravicky/linux-foundation-zalozilo-high-performance-software-foundation/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-13T20:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Linux Foundation zakládá High Performance Software Foundation (HPSF) pro použití v HPC (High Performance Computing). Oficiálně má HPSF vzniknout v květnu příštího roku. Členy jsou Intel, NVIDIA, AWS, Argonne National Laboratory, CEA, CIQ, HPE, Kitware, Lawrence Berkeley National Laboratory, Lawrence Livermore National Laboratory, Los Alamos National Laboratory, Oak Ridge National Laboratory, Sandia National Laboratory a univerzita v Oregonu. Kupodivu tu chybí AMD.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4579,16 +4589,6 @@ For the most part, said experimentation will occur in the course of Diablo 4 exp
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knihovna OpenBLAS 0.3.25 opravuje detekci Zen 3 a 4]]></title>
-        <id>www.root.cz-actuality-45298</id>
-        <link href="https://www.root.cz/zpravicky/knihovna-openblas-0-3-25-opravuje-detekci-zen-3-a-4/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-13T09:02:31.000Z</updated>
-        <summary type="html"><![CDATA[Včera vyšla knihovna OpenBLAS 0.3.25. OpenBLAS je optimalizovaná knihovna BLAS (Basic Linear Algebra Subprograms) a používali jsme ji například při testování stability a výkonu počítače pomocí HPL. Pokud chcete, můžete jednoduše použít novou knihovnu OpenBLAS 0.3.25 místo 0.3.24. Postup kompilace bude stejný.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
