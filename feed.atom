@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-28T06:13:33.622Z</id>
+    <id>urn:2023-11-28T08:13:08.134Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-28T06:13:33.622Z</updated>
+    <updated>2023-11-28T08:13:08.134Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pasivní metoda umožňuje získat soukromý RSA klíč SSH serveru]]></title>
+        <id>www.root.cz-actuality-45344</id>
+        <link href="https://www.root.cz/zpravicky/pasivni-metoda-umoznuje-ziskat-soukromy-rsa-klic-ssh-serveru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-11-28T07:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Nová studie prokázala, že pasivní síťoví útočníci mohou získat soukromé klíče RSA od zranitelného SSH serveru pozorováním přirozeně se vyskytujících výpočetních chyb, ke kterým dochází během navazování spojení.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Corsair MP700 PRO 2TB PCIe Gen5 NVMe SSD]]></title>
         <id>https://www.phoronix.com/review/corsair-mp700-pro</id>
@@ -44,8 +54,8 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2023/11/switch-onlines-missions-and-rewards-gets-festive-with-a-new-batch-of-icons"/>
         <updated>2023-11-28T03:30:00.000Z</updated>
         <summary type="html"><![CDATA[Happy holidays!
+
 As we get closer to the holiday season, Nintendo has launched a new batch of Switch Online icons, and this time they're festive-themed.
-These icons include a range of different characters from Mario to Link and even Pikmin. As usual, to unlock these icons you'll need to have Switch Online members and enough points. Each icon is available for 5 of 10 Platinum Points.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -58,16 +68,16 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2023-11-28T02:45:00.000Z</updated>
         <summary type="html"><![CDATA[The full patch notes are on the way.
 
-Nintendo has announced it will be releasing an update for its Switch Online battle royale racer F-Zero 99. It's due to arrive on 29th November.
+Nintendo has announced it will be releasing a new update for its Switch Online battle royale racer F-Zero 99, due out on 29th November.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Announces Mario And Wario Tetris 99 Maximus Cup Events]]></title>
+        <title type="html"><![CDATA[Nintendo Announces The Final Tetris 99 Maximus Cups For 2023]]></title>
         <id>https://www.nintendolife.com/#article-158877</id>
-        <link href="https://www.nintendolife.com/news/2023/11/nintendo-announces-mario-and-wario-tetris-99-maximus-cup-events"/>
+        <link href="https://www.nintendolife.com/news/2023/11/nintendo-announces-the-final-tetris-99-maximus-cups-for-2023"/>
         <updated>2023-11-28T01:55:00.000Z</updated>
         <summary type="html"><![CDATA[The first one begins later this week.
 We're now at the tail end of the year but that doesn't mean Tetris 99 is slowing down. Following its Super Mario RPG event in November, Nintendo is now cramming in two final events for 2023.
@@ -4457,16 +4467,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Seznam.cz od listopadu zavádí nový způsob dvoufázového ověření při přihlašování uživatelů. Ke stávající možnosti ověření pomocí aplikace Seznam přibude nově standardní a široce rozšířená varianta ověření pomocí autentizační aplikace generující jednorázová hesla OTP. Bezpečnost je prioritou nejen pro nás, ale také pro stále větší skupinu našich uživatelů. Jsme rádi, že jim můžeme nově nabídnout standardní způsob zabezpečení, na něž jsou zvyklí. Dvoufázové ověření pomocí tzv. TOTP (Time-based One-Time Password) chrání účet uživatele před neoprávněným přístupem, a to i v případě, že dojde ke ztrátě či prolomení standardního hesla, vysvětluje David Finger, ředitel divize Email.cz a Mapy.cz.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD 14 je poslední řadou podporující 32bitové procesory]]></title>
-        <id>www.root.cz-actuality-45321</id>
-        <link href="https://www.root.cz/zpravicky/freebsd-14-je-posledni-radou-podporujici-32bitove-procesory/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-11-21T08:51:34.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři oznámili vydání FreeBSD 14.0-RELEASE. Jde o poslední řadu tohoto operačního systému, která bude ještě podporovat 32bitové procesory. Podporovány jsou architektury amd64, aarch64, i386, powerpc, powerpc64, powerpc64le, powerpcspe, armv7 a riscv6. Následující FreeBSD 15 už nebude podporovat 32bitové platformy, ačkoli si zachová podporu pro spouštění 32bitových binárních souborů. Očekává se, že tato 32bitová binární kompatibilita bude podporována přinejmenším do FreeBSD 16.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
