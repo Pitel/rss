@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-11-30T04:12:18.383Z</id>
+    <id>urn:2023-11-30T06:13:20.041Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-11-30T04:12:18.383Z</updated>
+    <updated>2023-11-30T06:13:20.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Another Look At The Bcachefs Performance on Linux 6.7]]></title>
+        <id>https://www.phoronix.com/review/bcachefs-benchmarks-linux67</id>
+        <link href="https://www.phoronix.com/review/bcachefs-benchmarks-linux67"/>
+        <updated>2023-11-30T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Immediately after the Bcachefs file-system was upstreamed into the Linux 6.7 kernel I began running some benchmarks on this new copy-on-write file-system. Shortly thereafter some scalability improvements and disabling a debug option by default were merged. So with the Bcachefs work for Linux 6.7 settling down the past few weeks, here's a fresh look at how Bcachefs is performing against the likes of EXT4, XFS, F2FS, and Btrfs.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dimps Arcade Fighter 'The Rumble Fish' Scores An Enhanced Switch Release]]></title>
         <id>https://www.nintendolife.com/#article-159003</id>
@@ -2820,16 +2830,6 @@ Rating:
 The most endearing aspect of the SteamWorld series is how each of its games relates to one another despite their disparate genres. From tower defense to turn-based RPG, each title offers a unique spin on a specific gameplay experience while adhering to a shared mythos, resulting in a fun collection of games that coalesce thematically. SteamWorld Build, Thunderful's city-builder/RTS hybrid, serves as the latest iteration of this formula. Sporting streamlined genre mechanics, intuitiv…]]></summary>
         <author>
             <name>Kenneth Seward Jr.</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD 14.0 Is Delivering Great Performance Uplift & Running Well In Early Tests]]></title>
-        <id>https://www.phoronix.com/review/freebsd-14-epyc</id>
-        <link href="https://www.phoronix.com/review/freebsd-14-epyc"/>
-        <updated>2023-11-27T13:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Following last week's release of FreeBSD 14.0, I've begun testing out this major FreeBSD operating system update on a number of servers. What's clear so far is the performance being much improved with FreeBSD 14.0 on modern x86_64 Intel/AMD servers over FreeBSD 13.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
