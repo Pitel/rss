@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-02T10:09:19.466Z</id>
+    <id>urn:2023-12-02T12:16:20.831Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-02T10:09:19.466Z</updated>
+    <updated>2023-12-02T12:16:20.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.3.272 Published With Two New Extensions]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.3.272-Released</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.3.272-Released"/>
+        <updated>2023-12-02T12:01:19.000Z</updated>
+        <summary type="html"><![CDATA[Vulkan 1.3.272 was published on Friday as the latest routine spec update for this high performance graphics and compute API...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Teases Next-Gen Server Design, Benefits Going From 1U To 2U Servers]]></title>
+        <id>https://www.phoronix.com/news/Cloudflare-Gen12-Server</id>
+        <link href="https://www.phoronix.com/news/Cloudflare-Gen12-Server"/>
+        <updated>2023-12-02T11:52:16.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago Cloudflare rolled out their "Gen 11" server fleet built around AMD EPYC Milan processors and on Friday the company began talking about their forthcoming "Gen 12" server designs that will soon be rolling out across their data centers for powering this widely-used web infrastructure...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Lands NVIDIA Hardware Cursor Support & Other Last Minute Plasma 6.0 Features]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6-Beta-Week</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6-Beta-Week"/>
+        <updated>2023-12-02T11:16:54.000Z</updated>
+        <summary type="html"><![CDATA[With this week's release of the Plasma 6.0 beta and beta milestones for KDE Frameworks 6 and the latest Gear apps, KDE has now entered the bug-fixing phase ahead of the stable releases coming up in February. But prior to that bug-fixing shift, a few more features were merged...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (December 2nd)]]></title>
         <id>https://www.nintendolife.com/#article-159106</id>
@@ -3593,16 +3623,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PowerVR Binary Blob Added To Linux-Firmware.Git For New Graphics Driver]]></title>
-        <id>https://www.phoronix.com/news/PowerVR-Firmware-Blob</id>
-        <link href="https://www.phoronix.com/news/PowerVR-Firmware-Blob"/>
-        <updated>2023-11-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the Imagination PowerVR open-source kernel graphics driver expected for Linux 6.8, the necessary firmware binary blob has now been accepted into linux-firmware.git...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pasivní metoda umožňuje získat soukromý RSA klíč SSH serveru]]></title>
         <id>www.root.cz-actuality-45344</id>
         <link href="https://www.root.cz/zpravicky/pasivni-metoda-umoznuje-ziskat-soukromy-rsa-klic-ssh-serveru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3610,16 +3630,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Nová studie prokázala, že pasivní síťoví útočníci mohou získat soukromé klíče RSA od zranitelného SSH serveru pozorováním přirozeně se vyskytujících výpočetních chyb, ke kterým dochází během navazování spojení.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayland's Weston 13.0 Released With Multi-Backend Support & Overlapping Outputs]]></title>
-        <id>https://www.phoronix.com/news/Wayland-Weston-13.0</id>
-        <link href="https://www.phoronix.com/news/Wayland-Weston-13.0"/>
-        <updated>2023-11-28T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Weston 13.0 has been released as the latest major update to this reference Wayland compositor that attracts various experimental features and other innovations as developers experiment in the post-X11 world...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3661,16 +3671,6 @@ For more on Blumhouse, read about how the production company is creating a video
 Did you watch Five Nights At Freddy’s? If so, what did you think of it? Let us know in the comments.]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Has A Nice Performance Optimization Coming With Linux 6.8]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.8-AMD-No-Serialize-MSR</id>
-        <link href="https://www.phoronix.com/news/Linux-6.8-AMD-No-Serialize-MSR"/>
-        <updated>2023-11-27T21:39:39.000Z</updated>
-        <summary type="html"><![CDATA[Queued up into tip/tip.git's x86/cpu branch ahead of the Linux 6.8 merge window opening in a month is an optimization that should prove helpful in cloud/VM scenarios...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
