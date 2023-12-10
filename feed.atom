@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-10T20:09:57.039Z</id>
+    <id>urn:2023-12-10T22:08:48.707Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-10T20:09:57.039Z</updated>
+    <updated>2023-12-10T22:08:48.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Debian 12.4 opravuje chybu v jádře ohrožující data na ext4]]></title>
+        <id>www.root.cz-actuality-45394</id>
+        <link href="https://www.root.cz/zpravicky/debian-12-4-opravuje-chybu-v-jadre-ohrozujici-data-na-ext4/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-12-10T21:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Debian během víkendu pozastavil uvolňování opravné verze 12.3, která obsahovala chybné linuxové jádro verze 6.1.64–1 s problémem v ovladači souborového systému ext4. Kvůli špatně backportovaným záplatám hrozilo, že IO zápisy budou končit na špatných místech a přepisovat data.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chyba umožňuje obejít zamykací obrazovku na Androidu 13 a 14]]></title>
+        <id>www.root.cz-actuality-45393</id>
+        <link href="https://www.root.cz/zpravicky/chyba-umoznuje-obejit-zamykaci-obrazovku-na-androidu-13-a-14/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-12-10T21:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Jose Rodriguez objevil novou zranitelnost umožňující obcházení zamykací obrazovky pro Android 13 a 14. Útočník s fyzickým přístupem k zařízení může získat přístup k fotografiím, kontaktům, historii procházení a dalším údajům. Google prý byl o chybě informován už v květnu, ale dodnes není problém opraven a nebyly zveřejněny žádné plány na opravu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unvanquished 0.54.1 Released With Rendering Fixes & Better Bots]]></title>
+        <id>https://www.phoronix.com/news/Unvanquished-0.54.1-Released</id>
+        <link href="https://www.phoronix.com/news/Unvanquished-0.54.1-Released"/>
+        <updated>2023-12-10T20:48:19.000Z</updated>
+        <summary type="html"><![CDATA[Unvanquished has been a promising open-source first person shooter game in development for over a decade. It started out putting monthly alpha releases and quite a brisk development pace but in recent years the releases have been much less frequent. This year started out with Unvanquished 0.54 being released and in now approaching the end of the year is seeing a new point release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Legendární hra Doom dnes oslavila 30. narozeniny]]></title>
         <id>www.root.cz-actuality-45392</id>
@@ -488,7 +518,7 @@ This year, for the first time since they gifted us the Choir set in 2018, Starli
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vyšlo NetBSD 10 RC: přináší WireGuard a vylepšuje podporu architektury ARM]]></title>
+        <title type="html"><![CDATA[Vyšlo NetBSD 10 RC: přináší WireGuard a vylepšuje podporu architektury ARM]]></title>
         <id>www.root.cz-actuality-45390</id>
         <link href="https://www.root.cz/zpravicky/vyslo-netbsd-10-rc-prinasi-wireguard-a-vylepsuje-podporu-architektury-arm/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-12-09T14:16:58.000Z</updated>
@@ -3986,22 +4016,22 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All 20 game announcements from Day Of The Devs: The Game Awards Edition]]></title>
-        <id>https://www.rockpapershotgun.com/all-20-game-announcements-from-day-of-the-devs-the-game-awards-edition</id>
-        <link href="https://www.rockpapershotgun.com/all-20-game-announcements-from-day-of-the-devs-the-game-awards-edition"/>
+        <title type="html"><![CDATA[Detective Grimoire returns as Tangle Tower devs announce submarine sequel]]></title>
+        <id>https://www.rockpapershotgun.com/detective-grimoire-returns-as-tangle-tower-devs-announce-submarine-sequel</id>
+        <link href="https://www.rockpapershotgun.com/detective-grimoire-returns-as-tangle-tower-devs-announce-submarine-sequel"/>
         <updated>2023-12-06T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Day Of The Devs showcases are always some of the brightest spots in the biannual trailer'thon gauntlets, and this year's inaugural edition for The Game Awards is no exception. There were 20 fresh-faced indie games highlighted in tonight's 90-odd-minute stream, and cor, there are some right old gems in here, too, with brand-new game announcements from the devs behind Genesis Noir, Kind Words and Tangle Tower to name just a few. We also got more in-depth looks at some of this year's most intriguing indie games that previously only had an enigmatic teaser snippets attached to them. So come and join us below, where you'll find a digest of all 20 announcements from this evening's showcase, as well as the stream in full if you'd prefer to watch it all as it happened. 
+        <summary type="html"><![CDATA[Aww yeah, now we're talking. One of my personal highlights from tonight's Day Of The Devs Showcase, developers SFB Games have just announced they're making a sequel to their excellent detective puzzle game, Tangle Tower. Called The Mermaid's Tongue, this latest locked room mystery will see Detective Grimoire and his assistant Sally return for an altogether more watery adventure as they solve the strange murder of one Magnus Montuga, who's met their unfortunate demise after being seemingly spat out by a cursed cauldron that's never been opened. Come and watch the reveal trailer below - and then why not hop over to Steam to play its free teaser demo while you're at it?  
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Detective Grimoire returns as Tangle Tower devs announce submarine sequel]]></title>
-        <id>https://www.rockpapershotgun.com/detective-grimoire-returns-as-tangle-tower-devs-announce-submarine-sequel</id>
-        <link href="https://www.rockpapershotgun.com/detective-grimoire-returns-as-tangle-tower-devs-announce-submarine-sequel"/>
+        <title type="html"><![CDATA[All 20 game announcements from Day Of The Devs: The Game Awards Edition]]></title>
+        <id>https://www.rockpapershotgun.com/all-20-game-announcements-from-day-of-the-devs-the-game-awards-edition</id>
+        <link href="https://www.rockpapershotgun.com/all-20-game-announcements-from-day-of-the-devs-the-game-awards-edition"/>
         <updated>2023-12-06T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Aww yeah, now we're talking. One of my personal highlights from tonight's Day Of The Devs Showcase, developers SFB Games have just announced they're making a sequel to their excellent detective puzzle game, Tangle Tower. Called The Mermaid's Tongue, this latest locked room mystery will see Detective Grimoire and his assistant Sally return for an altogether more watery adventure as they solve the strange murder of one Magnus Montuga, who's met their unfortunate demise after being seemingly spat out by a cursed cauldron that's never been opened. Come and watch the reveal trailer below - and then why not hop over to Steam to play its free teaser demo while you're at it?  
+        <summary type="html"><![CDATA[The Day Of The Devs showcases are always some of the brightest spots in the biannual trailer'thon gauntlets, and this year's inaugural edition for The Game Awards is no exception. There were 20 fresh-faced indie games highlighted in tonight's 90-odd-minute stream, and cor, there are some right old gems in here, too, with brand-new game announcements from the devs behind Genesis Noir, Kind Words and Tangle Tower to name just a few. We also got more in-depth looks at some of this year's most intriguing indie games that previously only had an enigmatic teaser snippets attached to them. So come and join us below, where you'll find a digest of all 20 announcements from this evening's showcase, as well as the stream in full if you'd prefer to watch it all as it happened. 
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
@@ -4115,16 +4145,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[IBM a Meta s padesátkou dalších významných subjektů zakládají novou alianci pro umělou inteligenci. Mezi členy AI Alliance najdeme:]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare Talks Up Its Success In Using OpenBMC]]></title>
-        <id>https://www.phoronix.com/news/Cloudflare-Loves-OpenBMC</id>
-        <link href="https://www.phoronix.com/news/Cloudflare-Loves-OpenBMC"/>
-        <updated>2023-12-06T15:26:56.000Z</updated>
-        <summary type="html"><![CDATA[Cloudflare has talked up their success in using the open-source Linux-based OpenBMC software for baseboard management controllers (BMCs) as a replacement to proprietary BMC software stacks...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4599,26 +4619,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT vyzradí text, na kterém byl trénován]]></title>
-        <id>www.root.cz-actuality-45370</id>
-        <link href="https://www.root.cz/zpravicky/chatgpt-vyzradi-text-na-kterem-byl-trenovan/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-12-04T21:13:57.000Z</updated>
-        <summary type="html"><![CDATA[Výzkumníci z Google DeepMind a několika dalších univerzit objevili trik, jak donutit ChatGPT aby vyzradil text, na kterém byl trénován. Trik spočívá v zadání: opakuj do nekonečna nějaké slovo. Ze začátku ChatGPT slovo opakuje, ale po překročení nějakého limitu začne vracet text, na kterém byl trénován.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gmail používá proti spamu RETVec]]></title>
-        <id>www.root.cz-actuality-45369</id>
-        <link href="https://www.root.cz/zpravicky/gmail-pouziva-proti-spamu-retvec/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-12-04T20:40:38.000Z</updated>
-        <summary type="html"><![CDATA[Gmail používá ke klasifikaci spamu strojové učení v TensorFlow s názvem RETVec (Resilient & Efficient Text Vectorizer). Spameři totiž v poslední době používají například záměnu znaků, které vypadají stejně nebo podobně, ale mají jiný kód a běžné statistické metody je tedy ne vždy zachytí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
