@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-10T10:09:49.935Z</id>
+    <id>urn:2023-12-10T12:16:31.203Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-10T10:09:49.935Z</updated>
+    <updated>2023-12-10T12:16:31.203Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Počítačové hře Doom je dnes 30 let]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/pocitacove-hre-doom-je-dnes-30-let</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/pocitacove-hre-doom-je-dnes-30-let"/>
+        <updated>2023-12-10T12:01:28.000Z</updated>
+        <summary type="html"><![CDATA[Počítačové hře Doom je dnes 30 let. Vydána byla 10. prosince 1993.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 12.3 Delayed Due To An EXT4 Data Corruption Bug Being Addressed]]></title>
+        <id>https://www.phoronix.com/news/Debian-123-Delayed-EXT4-Corrupt</id>
+        <link href="https://www.phoronix.com/news/Debian-123-Delayed-EXT4-Corrupt"/>
+        <updated>2023-12-10T11:43:58.000Z</updated>
+        <summary type="html"><![CDATA[Due to a problematic patch back-ported from Linux 6.5 causing interference between EXT4 and iomap code, there's the possibility of a data corruption bug on older kernels -- most notably recent Linux 6.1 LTS point releases that can currently be found in the likes of Debian 12...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lubuntu 24.04 LTS Aiming For Optional Wayland Session, Default in 24.10]]></title>
+        <id>https://www.phoronix.com/news/Lubuntu-24.04-LTS-Plans</id>
+        <link href="https://www.phoronix.com/news/Lubuntu-24.04-LTS-Plans"/>
+        <updated>2023-12-10T11:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Lubuntu as the Ubuntu Linux spin featuring the lightweight LXQt desktop has shared some of their plans for the upcoming Lubuntu 24.04 LTS release. As part of this release due out in April they are aiming to have an optional Wayland session in place although they don't expect to make it the default until Lubuntu 24.10...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-700</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-700"/>
+        <updated>2023-12-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for wondering why many of the best showcases from the Geoff Awards were in the pre-show. Let's read some of the week's best writing about games and game-related things.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio 30.0.1 Released With Crash Fixes]]></title>
+        <id>https://www.phoronix.com/news/OBS-Studio-30.0.1</id>
+        <link href="https://www.phoronix.com/news/OBS-Studio-30.0.1"/>
+        <updated>2023-12-10T10:55:22.000Z</updated>
+        <summary type="html"><![CDATA[Released last month was OBS Studio 30 with Intel QSV AV1 acceleration on Linux, WHIP/WebRTC output, YouTube Live Control Room Panel support, and a variety of other features for this software popular with game streamers and live-casting. Out today is OBS Studio 30.0.1 with some crash fixes and other refinements for last month's update...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl - Duel: Harvest Moon 64]]></title>
         <id>https://www.nintendolife.com/#article-159471</id>
@@ -60,7 +111,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[Improved Sound Open Firmware On The Way For Valve's Steam Deck OLED]]></title>
         <id>https://www.phoronix.com/news/Better-SOF-Steam-Deck-OLED</id>
         <link href="https://www.phoronix.com/news/Better-SOF-Steam-Deck-OLED"/>
-        <updated>2023-12-10T02:38:56.000Z</updated>
+        <updated>2023-12-10T05:00:56.000Z</updated>
         <summary type="html"><![CDATA[Earlier Phoronix reporting on the "Valve Galileo" as a new Steam Deck device proved accurate and that is the new Steam Deck OLED gaming console. Further improving the upstream Linux kernel support is a set of patches to further refine the Sound Open Firmware (SOF) support for this new platform...]]></summary>
         <author>
             <name>Phoronix</name>
@@ -3494,16 +3545,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alpine Linux 3.19.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/alpine-linux-3.19.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/alpine-linux-3.19.0"/>
-        <updated>2023-12-07T11:59:20.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová stabilní verze 3.19.0, tj. první z nové řady 3.19, minimalistické linuxové distribuce zaměřené na bezpečnost Alpine Linux (Wikipedie) postavené na standardní knihovně jazyka C musl libc a BusyBoxu. Z novinek lze vypíchnou podporu Raspberry Pi 5.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[git.kernel.org Adds Native Dark Mode Support]]></title>
         <id>https://www.phoronix.com/news/Git-Kernel-Org-Dark-Mode</id>
         <link href="https://www.phoronix.com/news/Git-Kernel-Org-Dark-Mode"/>
@@ -3886,22 +3927,22 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Detective Grimoire returns as Tangle Tower devs announce submarine sequel]]></title>
-        <id>https://www.rockpapershotgun.com/detective-grimoire-returns-as-tangle-tower-devs-announce-submarine-sequel</id>
-        <link href="https://www.rockpapershotgun.com/detective-grimoire-returns-as-tangle-tower-devs-announce-submarine-sequel"/>
+        <title type="html"><![CDATA[All 20 game announcements from Day Of The Devs: The Game Awards Edition]]></title>
+        <id>https://www.rockpapershotgun.com/all-20-game-announcements-from-day-of-the-devs-the-game-awards-edition</id>
+        <link href="https://www.rockpapershotgun.com/all-20-game-announcements-from-day-of-the-devs-the-game-awards-edition"/>
         <updated>2023-12-06T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Aww yeah, now we're talking. One of my personal highlights from tonight's Day Of The Devs Showcase, developers SFB Games have just announced they're making a sequel to their excellent detective puzzle game, Tangle Tower. Called The Mermaid's Tongue, this latest locked room mystery will see Detective Grimoire and his assistant Sally return for an altogether more watery adventure as they solve the strange murder of one Magnus Montuga, who's met their unfortunate demise after being seemingly spat out by a cursed cauldron that's never been opened. Come and watch the reveal trailer below - and then why not hop over to Steam to play its free teaser demo while you're at it?  
+        <summary type="html"><![CDATA[The Day Of The Devs showcases are always some of the brightest spots in the biannual trailer'thon gauntlets, and this year's inaugural edition for The Game Awards is no exception. There were 20 fresh-faced indie games highlighted in tonight's 90-odd-minute stream, and cor, there are some right old gems in here, too, with brand-new game announcements from the devs behind Genesis Noir, Kind Words and Tangle Tower to name just a few. We also got more in-depth looks at some of this year's most intriguing indie games that previously only had an enigmatic teaser snippets attached to them. So come and join us below, where you'll find a digest of all 20 announcements from this evening's showcase, as well as the stream in full if you'd prefer to watch it all as it happened. 
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All 20 game announcements from Day Of The Devs: The Game Awards Edition]]></title>
-        <id>https://www.rockpapershotgun.com/all-20-game-announcements-from-day-of-the-devs-the-game-awards-edition</id>
-        <link href="https://www.rockpapershotgun.com/all-20-game-announcements-from-day-of-the-devs-the-game-awards-edition"/>
+        <title type="html"><![CDATA[Detective Grimoire returns as Tangle Tower devs announce submarine sequel]]></title>
+        <id>https://www.rockpapershotgun.com/detective-grimoire-returns-as-tangle-tower-devs-announce-submarine-sequel</id>
+        <link href="https://www.rockpapershotgun.com/detective-grimoire-returns-as-tangle-tower-devs-announce-submarine-sequel"/>
         <updated>2023-12-06T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Day Of The Devs showcases are always some of the brightest spots in the biannual trailer'thon gauntlets, and this year's inaugural edition for The Game Awards is no exception. There were 20 fresh-faced indie games highlighted in tonight's 90-odd-minute stream, and cor, there are some right old gems in here, too, with brand-new game announcements from the devs behind Genesis Noir, Kind Words and Tangle Tower to name just a few. We also got more in-depth looks at some of this year's most intriguing indie games that previously only had an enigmatic teaser snippets attached to them. So come and join us below, where you'll find a digest of all 20 announcements from this evening's showcase, as well as the stream in full if you'd prefer to watch it all as it happened. 
+        <summary type="html"><![CDATA[Aww yeah, now we're talking. One of my personal highlights from tonight's Day Of The Devs Showcase, developers SFB Games have just announced they're making a sequel to their excellent detective puzzle game, Tangle Tower. Called The Mermaid's Tongue, this latest locked room mystery will see Detective Grimoire and his assistant Sally return for an altogether more watery adventure as they solve the strange murder of one Magnus Montuga, who's met their unfortunate demise after being seemingly spat out by a cursed cauldron that's never been opened. Come and watch the reveal trailer below - and then why not hop over to Steam to play its free teaser demo while you're at it?  
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
@@ -4049,16 +4090,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Austrian Game Studio Now Sponsoring Krita Development]]></title>
-        <id>https://www.phoronix.com/news/Broken-Rules-Krita</id>
-        <link href="https://www.phoronix.com/news/Broken-Rules-Krita"/>
-        <updated>2023-12-06T14:51:47.000Z</updated>
-        <summary type="html"><![CDATA[While Blender is at the forefront of receiving corporate sponsorships and funding for advancing that open-source 3D modeling software, other free software graphics programs haven't all received the same level of support. As good news for further raising the open-source creative/graphics ecosystem, an Austrian video game studio has become one of the new Krita sponsors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's better: Ricochet attacks, or blue shadows on dodges and dashes?]]></title>
         <id>https://www.rockpapershotgun.com/whats-better-ricochet-attacks-or-blue-shadows-on-dodges-and-dashes</id>
         <link href="https://www.rockpapershotgun.com/whats-better-ricochet-attacks-or-blue-shadows-on-dodges-and-dashes"/>
@@ -4067,16 +4098,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More AMD GFX12 Additions Land In LLVM Git For RDNA4 GPUs]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-LLVM-More-GFX12</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-LLVM-More-GFX12"/>
-        <updated>2023-12-06T13:42:42.000Z</updated>
-        <summary type="html"><![CDATA[As noted in late November, AMD has begun enabling new "GFX12" hardware in LLVM for their AMDGPU LLVM shader compiler back-end. GFX12 is the target for next-generation RDNA4 graphics processors and that upstreaming effort has continued with more patches being upstreamed...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4150,16 +4171,6 @@ Thank you GOG.com and everybody who used our affiliate link for your support ove
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AlmaLinux's ELevate Begins Handling EPEL Repositories]]></title>
-        <id>https://www.phoronix.com/news/AlmaLinux-ELevate-EPEL</id>
-        <link href="https://www.phoronix.com/news/AlmaLinux-ELevate-EPEL"/>
-        <updated>2023-12-06T11:46:46.000Z</updated>
-        <summary type="html"><![CDATA[AlmaLinux's ELevate software is a wonderful utility to help ease migration between existing major versions of RHEL derivatives. In particular, it's been very useful for moving past CentOS 7 and/or upgrading from AlmaLinux 8 to 9, along with the ability to even move to other RHEL derivatives...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4606,17 +4617,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Look at the size of this absolute unit of an NVMe heatsink - and also it's discounted in the UK]]></title>
-        <id>https://www.rockpapershotgun.com/look-at-the-size-of-this-absolute-unit-of-an-nvme-heatsink-and-also-its-discounted-in-the-uk</id>
-        <link href="https://www.rockpapershotgun.com/look-at-the-size-of-this-absolute-unit-of-an-nvme-heatsink-and-also-its-discounted-in-the-uk"/>
-        <updated>2023-12-04T18:42:17.000Z</updated>
-        <summary type="html"><![CDATA[I'm writing to you from the scene of a terrible spit-take accident, as seeing the size and height of this gaudy Thermalright NVMe heatsink caused me to emit a fine mist of water over my desk. No keyboards or computers were harmed in the inchident, but I thought I'd let you know that this heatsink is also discounted by nearly £2 - from £9.39 to £7.51! 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
         </author>
     </entry>
     <entry>
