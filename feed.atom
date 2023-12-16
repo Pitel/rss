@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-16T10:09:38.573Z</id>
+    <id>urn:2023-12-16T12:16:32.209Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-16T10:09:38.573Z</updated>
+    <updated>2023-12-16T12:16:32.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Stages The Radeon Graphics Color Management Code For Linux 6.8]]></title>
+        <id>https://www.phoronix.com/news/AMD-Hidden-Colors-Linux-6.8</id>
+        <link href="https://www.phoronix.com/news/AMD-Hidden-Colors-Linux-6.8"/>
+        <updated>2023-12-16T11:58:54.000Z</updated>
+        <summary type="html"><![CDATA[On Friday in addition to Intel submitting their new Xe kernel graphics driver to DRM-Next ahead of Linux 6.8, the red team sent in their latest AMDGPU/AMDKFD kernel driver changes ahead of this next kernel cycle. Exciting on the AMD side is landing the AMD color management properties support! But on the downside, it's compile-time disabled for the time being...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Manjaro 23.1 Released With Linux 6.6 LTS, Pipewire 1.0 & Desktop Updates]]></title>
+        <id>https://www.phoronix.com/news/Manjaro-23.1-Released</id>
+        <link href="https://www.phoronix.com/news/Manjaro-23.1-Released"/>
+        <updated>2023-12-16T11:45:24.000Z</updated>
+        <summary type="html"><![CDATA[Manjaro 23.1 was released overnight as the newest version of this popular Arch Linux based desktop Linux distribution...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Box64 v0.2.6 Brings Support For More CPU Extensions, Better Syscall Emulation]]></title>
+        <id>https://www.phoronix.com/news/Box64-0.2.6-Box86-0.3.4</id>
+        <link href="https://www.phoronix.com/news/Box64-0.2.6-Box86-0.3.4"/>
+        <updated>2023-12-16T11:35:52.000Z</updated>
+        <summary type="html"><![CDATA[Box64 and Box86 are out with new releases this weekend for these open-source projects allowing x86_64 and x86 binaries to run on ARM64 Linux systems...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Receives Many Bug Fixes Ahead Of Christmas]]></title>
+        <id>https://www.phoronix.com/news/KDE-Christmas-Fixes-Plasma-6</id>
+        <link href="https://www.phoronix.com/news/KDE-Christmas-Fixes-Plasma-6"/>
+        <updated>2023-12-16T10:59:53.000Z</updated>
+        <summary type="html"><![CDATA[KDE developers remain very busy working toward the release of the Plasma 6 desktop in late February...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Future YouTube Policies Affect Today’s Creativity & Tomorrow’s Income]]></title>
+        <id>https://torrentfreak.com/?p=243713</id>
+        <link href="https://torrentfreak.com/how-youtube-policies-of-the-future-affect-creativity-today-231216/"/>
+        <updated>2023-12-16T10:22:05.000Z</updated>
+        <summary type="html"><![CDATA[New rules guiding future content creation on YouTube can, without issue, be retroactively applied to content uploaded years ago. For transgressions of rules that didn't apply in the past, creators receive community strikes in the present. For the operator of the DBTech YouTube channel, which specializes in tutorials about self-hosted services, two strikes for old videos featuring youtube-dl and similar software, raise concerns over future content viability, even when it fully complies today.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (December 16th)]]></title>
         <id>https://www.nintendolife.com/#article-159848</id>
@@ -3112,46 +3163,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It Looks Like AMD Zen 5 SoCs Will Support ACPI PHAT]]></title>
-        <id>https://www.phoronix.com/news/AMD-New-SoCs-With-ACPI-PHAT</id>
-        <link href="https://www.phoronix.com/news/AMD-New-SoCs-With-ACPI-PHAT"/>
-        <updated>2023-12-13T11:58:20.000Z</updated>
-        <summary type="html"><![CDATA[A few months ago I wrote about AMD Linux engineers working on ACPI PHAT support for the Linux kernel. This week new patches around Linux ACPI PHAT handling have been posted with further confirmation of this functionality coming to "future" AMD SoCs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux To Drop Support For 15 Year Old, Never-Shipped Intel "Carillo Ranch"]]></title>
-        <id>https://www.phoronix.com/news/Linux-Drop-Intel-Carillo-Ranch</id>
-        <link href="https://www.phoronix.com/news/Linux-Drop-Intel-Carillo-Ranch"/>
-        <updated>2023-12-13T11:44:47.000Z</updated>
-        <summary type="html"><![CDATA[With Intel's very timely upstream Linux hardware support going back years, they typically start on the upstream hardware enablement well in advance of the product's planned public launch. On a number of occasions this has meant adding support to the Linux kernel for hardware that never ends up being released to consumers. There's been recent cases like the Thunder Bay support that was dropped from the kernel after it became clear that the SoC would never ship to now a more extreme case of a driver being in the mainline kernel for 15 years to support never-released hardware...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cold Trip Points Proposed For The Linux Kernel's Thermal Handling]]></title>
-        <id>https://www.phoronix.com/news/Linux-Cold-Trip-Points</id>
-        <link href="https://www.phoronix.com/news/Linux-Cold-Trip-Points"/>
-        <updated>2023-12-13T11:29:08.000Z</updated>
-        <summary type="html"><![CDATA[The Linux kernel's thermal driver has the obvious notion of hot and critically-hot trip points while to this point there hasn't been the opposite: cold trip points (events) but that's finally been proposed as we approach the end of 2023...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SVT-AV1 1.8 Brings More Performance Improvements Plus ARM Neon SIMD Optimizations]]></title>
-        <id>https://www.phoronix.com/news/SVT-AV1-1.8-Released</id>
-        <link href="https://www.phoronix.com/news/SVT-AV1-1.8-Released"/>
-        <updated>2023-12-13T11:13:36.000Z</updated>
-        <summary type="html"><![CDATA[SVT-AV1 v1.8 was released this week as the newest version of this open-source AV1 video encoder originally started by Intel and continues to be developed by Intel engineers in cooperation with the Alliance for Open Media. As with most releases, optimizing this CPU-based AV1 encoder's performance continues to be a key priority...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How do you make video game loot feel satisfying, but not too much? We asked the creators of Path Of Exile]]></title>
         <id>https://www.rockpapershotgun.com/how-do-you-make-video-game-loot-feel-satisfying-but-not-too-much-we-asked-the-creators-of-path-of-exile</id>
         <link href="https://www.rockpapershotgun.com/how-do-you-make-video-game-loot-feel-satisfying-but-not-too-much-we-asked-the-creators-of-path-of-exile"/>
@@ -4913,17 +4924,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EU Mulls Expansion of Geo-Blocking ‘Bans’ to Video Streaming Platforms]]></title>
-        <id>https://torrentfreak.com/?p=243276</id>
-        <link href="https://torrentfreak.com/eu-mulls-expansion-of-geo-blocking-bans-to-video-streaming-platforms-231206/"/>
-        <updated>2023-12-06T12:46:52.000Z</updated>
-        <summary type="html"><![CDATA[A recent report from the European Parliament's Committee on Internal Market and Consumer Protection urges the EU Commission to review its current geo-blocking policies. One suggestion is to expand geo-blocking restrictions to the audiovisual sector, including streaming platforms. This has spooked some stakeholders who warn that a ban on geo-blocking would put the entire industry at risk.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GOG.com Affiliation Links for ScummVM are no longer supported]]></title>
         <id>https://www.scummvm.org/news/archive/#2023-12-06</id>
         <link href="https://www.scummvm.org/news/20231206/"/>
@@ -5249,24 +5249,6 @@ reports, which help us to make Android Studio better. If you encounter a problem
         <summary type="html"><![CDATA[Během 82 % útoků s chybějící telemetrií kyberzločinci vypnuli nebo smazali protokoly. Vývoj hrozeb v roce 2024: umělá inteligence a kyberzločin ve formě služby. Huawei zdůraznila podporu SMB. Vytvořit kryptosystém založený na NP-těžkém problému ještě nestačí. HPE zrychluje trénink umělé inteligence pomocí nového řešení na klíč od NVIDIA. Revoluce v umělé inteligenci je revolucí datovou.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 14 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/11/android-studio-iguana-202321-canary-14.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/11/android-studio-iguana-202321-canary-14.html"/>
-        <updated>2023-11-16T23:25:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 14 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Update (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Iguana, see the Android Studio Preview release notes. For details of bugs fixed in each preview
-release, see previous entries on this blog.
-General fixes and features
-Below is a list of general fixes in Android Studio Iguana | 2023.2.1 Canary 14 and Android Gradle Plugin 8.3.0-alpha14 These are a result of your bug 
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by repor…]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
