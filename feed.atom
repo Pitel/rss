@@ -1,16 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-17T10:09:51.245Z</id>
+    <id>urn:2023-12-17T12:16:47.266Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-17T10:09:51.245Z</updated>
+    <updated>2023-12-17T12:16:47.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[For At Least One Game, Mesa's NVK Driver Can Outperform NVIDIA's Proprietary Driver]]></title>
+        <id>https://www.phoronix.com/news/Nouveau-NVK-One-Win</id>
+        <link href="https://www.phoronix.com/news/Nouveau-NVK-One-Win"/>
+        <updated>2023-12-17T12:04:59.000Z</updated>
+        <summary type="html"><![CDATA[In at least one game running on Linux via Proton Experimental, the Mesa NVK open-source Vulkan driver paired with the latest Nouveau reverse-engineered kernel driver is delivering better performance than NVIDIA's proprietary Linux graphics driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor 37 LTS Released With Faster VM Restoration From Snapshots]]></title>
+        <id>https://www.phoronix.com/news/Cloud-Hypervisor-37-LTS</id>
+        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-37-LTS"/>
+        <updated>2023-12-17T11:50:59.000Z</updated>
+        <summary type="html"><![CDATA[A new Long-Term Support version of Cloud Hypervisor was released this week, which is the open-source project originally started by Intel as a cloud-focused and Rust-written VMM that now has wide industry backing including from multiple other CPU vendors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophgo SG2380 RISC-V SoC To Now Support Up To 96GB RAM, Additional PCIe & 25 GbE]]></title>
+        <id>https://www.phoronix.com/news/SG2380-RISC-V-SoC-Upgrade</id>
+        <link href="https://www.phoronix.com/news/SG2380-RISC-V-SoC-Upgrade"/>
+        <updated>2023-12-17T11:34:14.000Z</updated>
+        <summary type="html"><![CDATA[Back in October the Milk-V Oasis mITX board was announced with this RISC-V board being powered by a 16-core Sophgo SG2380 SoC featuring SiFive-designed cores: 12 P cores and four E cores. While that Milk-V Oasis board isn't expected to ship until Q3'2024, Milk-V shared this week that the SG2380 RISC-V SoC has been revised with additional capabilities...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Proposing XeGPU Dialect For LLVM MLIR]]></title>
+        <id>https://www.phoronix.com/news/Intel-XeGPU-Dialect-MLIR-LLVM</id>
+        <link href="https://www.phoronix.com/news/Intel-XeGPU-Dialect-MLIR-LLVM"/>
+        <updated>2023-12-17T11:24:50.000Z</updated>
+        <summary type="html"><![CDATA[As part of Intel's ongoing quest for maximizing the compute performance of their GPUs/accelerators, their compiler engineers have proposed introducing a XeGPU dialect for LLVM's MLIR...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-701</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-701"/>
+        <updated>2023-12-17T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for almost pulling the trigger on a silent mechanical keyboard you definitely don't need. Let's read some of the week's best writing about games and game-related things.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SSH3: experimentální vzdálený shell využívající HTTP/3]]></title>
         <id>www.root.cz-actuality-45418</id>
         <link href="https://www.root.cz/zpravicky/ssh3-experimentalni-vzdaleny-shell-vyuzivajici-http-3/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-12-17T10:03:03.000Z</updated>
-        <summary type="html"><![CDATA[Tým belgických výzkumníků publikoval článek o nové implementaci SSH přes protokol HTTP/3. V článku nazvaném Towards SSH3: how HTTP/3 improves secure shells se píše: Protokol SSH byl navržen na konci devadesátých let, aby se vypořádal s bezpečnostními problémy rodiny protokolů telnetf. Do protokolů pro vzdálený přístup přinesl ověřování a důvěrnost a nyní je široce používán. Téměř 30 let po původním návrhu se k protokolu SSH vracíme ve světle nejnovějších protokolů včetně QUIC, TLS 1.3 a HTTP/3. Navrhujeme, implementujeme a vyhodnocujeme protokol SSH3, který poskytuje rozšířenou sadu funkcí bez kompromisů ve srovnání s protokolem SSHv2.]]></summary>
+        <summary type="html"><![CDATA[Tým belgických výzkumníků publikoval článek o nové implementaci SSH přes protokol HTTP/3. V článku nazvaném Towards SSH3: how HTTP/3 improves secure shells se píše: Protokol SSH byl navržen na konci devadesátých let, aby se vypořádal s bezpečnostními problémy rodiny protokolů telnet. Do protokolů pro vzdálený přístup přinesl ověřování a důvěrnost a nyní je široce používán. Téměř 30 let po původním návrhu se k protokolu SSH vracíme ve světle nejnovějších protokolů včetně QUIC, TLS 1.3 a HTTP/3. Navrhujeme, implementujeme a vyhodnocujeme protokol SSH3, který poskytuje rozšířenou sadu funkcí bez kompromisů ve srovnání s protokolem SSHv2.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
@@ -2738,16 +2789,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Power Management Bugs Hold Up Some Linux Laptops Due To Regulatory Requirements]]></title>
-        <id>https://www.phoronix.com/news/Linux-PM-Regulatory-Bugs</id>
-        <link href="https://www.phoronix.com/news/Linux-PM-Regulatory-Bugs"/>
-        <updated>2023-12-13T19:56:03.000Z</updated>
-        <summary type="html"><![CDATA[Holding up some laptops from shipping Linux pre-loaded around the world come down to regulatory certifications for power management not currently being met on Linux while working fine on Windows...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[God Of War Ragnarök’s Valhalla Is So Much More Than Just A Roguelite DLC]]></title>
         <id>121699</id>
         <link href="https://www.gameinformer.com/opinion/2023/12/13/god-of-war-ragnaroks-valhalla-is-so-much-more-than-just-a-roguelite-dlc"/>
@@ -2807,16 +2848,6 @@ For this year's entry, Sledgehammer says, "Modern Warfare III provides even more
 Read more]]></summary>
         <author>
             <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glibc Is The Latest Open-Source Project Adopting A Code of Conduct]]></title>
-        <id>https://www.phoronix.com/news/Glibc-Code-of-Conduct</id>
-        <link href="https://www.phoronix.com/news/Glibc-Code-of-Conduct"/>
-        <updated>2023-12-13T18:41:08.000Z</updated>
-        <summary type="html"><![CDATA[The GNU C Library "glibc" is the latest free software project to adopt a Code of Conduct (CoC) in aiming to encourage welcoming behavior and less controversy among developers and other stakeholders when engaging this key component to the Linux software ecosystem...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2997,16 +3028,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 LTS To Enable Frame Pointers By Default For Better Profiling/Debugging]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-Frame-Pointers-Default</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-Frame-Pointers-Default"/>
-        <updated>2023-12-13T16:51:11.000Z</updated>
-        <summary type="html"><![CDATA[Canonical has decided for Ubuntu 24.04 LTS that they will now enable frame pointers by default when building packages. There will still selectively be some packages where they decide to disable frame pointers due to the performance overhead, but the focus on this change is to improve the out-of-the-box debugging and profiling support on the Linux distribution...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I will miss E3 because I'll miss others reacting to it]]></title>
         <id>https://www.rockpapershotgun.com/i-will-miss-e3-because-ill-miss-others-reacting-to-it</id>
         <link href="https://www.rockpapershotgun.com/i-will-miss-e3-because-ill-miss-others-reacting-to-it"/>
@@ -3184,16 +3205,6 @@ Are you going to be playing Tekken 8 next month? Let us know in the comments bel
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X.Org Server & XWayland Updated Due To Two Decade-Old Security Vulnerabilities]]></title>
-        <id>https://www.phoronix.com/news/XOrg-Security-Two-CVEs-End-2023</id>
-        <link href="https://www.phoronix.com/news/XOrg-Security-Two-CVEs-End-2023"/>
-        <updated>2023-12-13T13:45:51.000Z</updated>
-        <summary type="html"><![CDATA[The X.Org Server doesn't see much in the way of feature work these days with Red Hat and others divesting from classic X.Org/X11 sessions. But there continues to be new point releases of the X.Org Server and the XWayland code due to long-standing security issues within the X.Org codebase. New point releases were out last night due to two CVEs for bugs dating back to 2007 and 2009...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4713,17 +4724,6 @@ As Dusk Falls won the Games For Impact award at last year's Game Awards. For mor
 Are you going to check out As Dusk Falls on PlayStation next year? Let us know in the comments below!]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTFO's final chapter is live now with new horrors]]></title>
-        <id>https://www.rockpapershotgun.com/gtfos-final-chapter-is-live-now-with-new-horrors</id>
-        <link href="https://www.rockpapershotgun.com/gtfos-final-chapter-is-live-now-with-new-horrors"/>
-        <updated>2023-12-08T04:32:16.000Z</updated>
-        <summary type="html"><![CDATA[The final chapter of horrifying cooperative FPS GTFO is out now, sending it off with a scream as the developers look forward to their newly announced next game. The update,  Rundown 8.0 Duality includes new expeditions, new awful beings to murder you, and new weapons to attempt to stop them. It looks awful in a lovely way. Maybe I'll finally pluck up the courage to give GTFO a proper go, especially as a free trial weekend is running on Steam and the game's discounted too. I'd have to be some sort of coward to ignore that. Some sort of coward who doesn't want to creep and fight through hordes of horrid meatmonsters.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
         </author>
     </entry>
     <entry>
