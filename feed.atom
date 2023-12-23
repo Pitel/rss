@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-23T10:09:46.139Z</id>
+    <id>urn:2023-12-23T12:16:01.453Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-23T10:09:46.139Z</updated>
+    <updated>2023-12-23T12:16:01.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ghidra 11.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/ghidra-11.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/ghidra-11.0"/>
+        <updated>2023-12-23T11:45:50.000Z</updated>
+        <summary type="html"><![CDATA[Ghidra (Wikipedie), open source framework pro reverzní inženýrství, byla vydána ve verzi 11.0. Přehled novinek a historie změn na GitHubu. Národní bezpečnostní agentura (NSA) uvolnila zdrojové kódy frameworku Ghidra v dubnu 2019.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Moves To A Versioning Scheme Like GCC - N.1 Version For Stable Branch]]></title>
+        <id>https://www.phoronix.com/news/LLVM-N-1-Stable-Versioning</id>
+        <link href="https://www.phoronix.com/news/LLVM-N-1-Stable-Versioning"/>
+        <updated>2023-12-23T11:30:55.000Z</updated>
+        <summary type="html"><![CDATA[Following discussions with upstream developers, LLVM is changing its versioning as part of the branch creation process to better distinguish mainline development builds of LLVM against those from stable (or soon to be stable) release branches...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer Wolverine V2 Controller Support Coming With Linux 6.7]]></title>
+        <id>https://www.phoronix.com/news/Razer-Wolverine-V2-Linux</id>
+        <link href="https://www.phoronix.com/news/Razer-Wolverine-V2-Linux"/>
+        <updated>2023-12-23T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[With a set of input driver patches set to be merged today for the Linux 6.7-rc6 kernel, the XPad driver is adding support for Razer's Wolverine V2 Xbox controller...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Developers Prepare For Christmas With More Bug Fixes & Qt 6 Porting]]></title>
+        <id>https://www.phoronix.com/news/KDE-Bug-Fixes-For-Christmas</id>
+        <link href="https://www.phoronix.com/news/KDE-Bug-Fixes-For-Christmas"/>
+        <updated>2023-12-23T10:52:30.000Z</updated>
+        <summary type="html"><![CDATA[This week brought the second beta of KDE Plasma 6.0 along with KDE Gear and KDE Frameworks updates too. The holidays haven't resulted in KDE development slowing down too much with still a number of bug fixes being merged this week and other minor enhancements...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lab Wayland Compositor 0.7 Released - Ported To wlroots 0.17]]></title>
+        <id>https://www.phoronix.com/news/labwc-0.7</id>
+        <link href="https://www.phoronix.com/news/labwc-0.7"/>
+        <updated>2023-12-23T10:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Lab Wayland Compositor (labwc) is out with a new version ahead of Christmas for this wlroots-based window-stacking compositor that is inspired by the Openbox window manager...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (Christmas 2023 Edition)]]></title>
         <id>https://www.nintendolife.com/#article-160053</id>
@@ -2728,16 +2778,6 @@ Watch our interview with The Finals' developers:]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DietPi 8.25]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/dietpi-8.25</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/dietpi-8.25"/>
-        <updated>2023-12-20T15:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána verze 8.25 z Debianu vycházející linuxové distribuce DietPi pro (nejenom) jednodeskové počítače. Přehled novinek v poznámkách k vydání. Přidána byla podpora PINE64 STAR64 a Orange Pi 3B.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ARM notebook Acer Aspire 1 už s téměř kompletní podporou v Linuxu]]></title>
         <id>www.root.cz-actuality-45434</id>
         <link href="https://www.root.cz/zpravicky/arm-notebook-acer-aspire-1-uz-s-temer-kompletni-podporou-v-linuxu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2929,16 +2969,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sound Open Firmware 2.8 Released With New Intel & AMD Bits]]></title>
-        <id>https://www.phoronix.com/news/Sound-Open-Firmware-2.8</id>
-        <link href="https://www.phoronix.com/news/Sound-Open-Firmware-2.8"/>
-        <updated>2023-12-20T09:57:49.000Z</updated>
-        <summary type="html"><![CDATA[A new version of Sound Open Firmware is now available for this open-source audio DSP firmware and development tools. For what began as an Intel open-source project for open-source sound firmware is now seeing ongoing adoption by AMD, MediaTek, and other vendors. Sound Open Firmware 2.8 has been released ahead of the holidays...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Online Java Akademie: večerní kurzy pro vývojáře (školení)]]></title>
         <id>www.root.cz-actuality-42281</id>
         <link href="https://www.root.cz/zpravicky/online-java-akademie-vecerni-kurzy-pro-vyvojare-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2958,16 +2988,6 @@ I love this mouse because it's extremely comfortable, with a smooth and streamli
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Linux Kernel Looks To Drop Much Of The Remaining SPARC 32-bit CPU Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-2024-SPARC32-Sun-4M-4D</id>
-        <link href="https://www.phoronix.com/news/Linux-2024-SPARC32-Sun-4M-4D"/>
-        <updated>2023-12-20T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's just not old wired and wireless networking drivers being removed from the mainline Linux kernel but as part of some winter-time cleaning a set of patches have been posted that would remove much of the remaining SPARC32 support for old 32-bit Sun workstations...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3156,16 +3176,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Core Ultra 7 155H Meteor Lake vs. AMD Ryzen 7 7840U On Linux In 300+ CPU Benchmarks]]></title>
-        <id>https://www.phoronix.com/review/intel-core-ultra-7-155h-linux</id>
-        <link href="https://www.phoronix.com/review/intel-core-ultra-7-155h-linux"/>
-        <updated>2023-12-19T20:03:55.000Z</updated>
-        <summary type="html"><![CDATA[Last week Intel launched their Core Ultra "Meteor Lake" notebook processors. Genuinely very curious about the performance potential under Linux along with various features of these new mobile SoCs like the NPU and integrated Arc Graphics, I bought an Intel Core Ultra laptop on launch-day for carrying out Linux benchmarks. In this first review of Intel Meteor Lake on Linux is a look at how the Intel Core Ultra 7 155H performs against the common AMD Ryzen 7 7840U as the Zen 4 laptop competition.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xbox Series X Hits All-Time Low Price At Best Buy (You Gotta Hurry)]]></title>
         <id>1851112567</id>
         <link href="https://kotaku.com/xbox-series-x-sale-best-buy-1851112567"/>
@@ -3279,16 +3289,6 @@ Head over to Game Informer's YouTube channel for more previews, reviews, and 
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora Asahi Remix 39 Released For Apple Silicon Macs]]></title>
-        <id>https://www.phoronix.com/news/Fedora-Asahi-Remix-39</id>
-        <link href="https://www.phoronix.com/news/Fedora-Asahi-Remix-39"/>
-        <updated>2023-12-19T17:32:57.000Z</updated>
-        <summary type="html"><![CDATA[The Asahi Linux crew has released Fedora Asahi Remix as their Fedora 39 derived Linux distribution optimized for Apple Silicon Macs...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
