@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-24T10:09:42.602Z</id>
+    <id>urn:2023-12-24T12:16:36.345Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-24T10:09:42.602Z</updated>
+    <updated>2023-12-24T12:16:36.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Video: Mario Wonder Features In Digital Foundry's 'Best Game Graphics Of 2023' Round Up]]></title>
+        <id>https://www.nintendolife.com/#article-160107</id>
+        <link href="https://www.nintendolife.com/news/2023/12/video-mario-wonder-features-in-digital-foundrys-best-game-graphics-of-2023-round-up"/>
+        <updated>2023-12-24T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Metroid Prime gets an honourable mention.
+Nintendo has got a lot of mileage out of the Switch and graphically speaking it has also pushed the hybrid system to its absolute limits.
+It's not gone unnoticed this year, either. The tech experts at Digital Foundry have featured Super Mario Bros. Wonder in their "best game graphics of 2023" round up, noting how well the presentation of the game matches the hardware specs.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Wires Up Dual-SIMD8 Dispatch For Mesa Drivers]]></title>
+        <id>https://www.phoronix.com/news/Intel-Dual-SIMD8-Mesa</id>
+        <link href="https://www.phoronix.com/news/Intel-Dual-SIMD8-Mesa"/>
+        <updated>2023-12-24T11:37:07.000Z</updated>
+        <summary type="html"><![CDATA[Intel's open-source Linux drivers for OpenGL (Iris) and Vulkan (ANV) this week for Mesa 24.0 received support for dual-SIMD8 dispatch on Gen12 graphics (Tigerlake) and newer...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD AXI 1-Wire Host Driver Submitted For Linux 6.8]]></title>
+        <id>https://www.phoronix.com/news/AMD-AXI-1W-Linux-6.8</id>
+        <link href="https://www.phoronix.com/news/AMD-AXI-1W-Linux-6.8"/>
+        <updated>2023-12-24T11:26:56.000Z</updated>
+        <summary type="html"><![CDATA[While the Linux 6.7 release is being pushed back by one week due to the holidays and in turn the Linux 6.8 merge window not officially opening until 8 January, some pull requests do end up getting submitted early. The 1-wire bus driver changes for Linux 6.8 were sent out this week and most notably includes adding the AMD AXI 1-wire host driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LoongArch KVM Support Extended To Allow LSX/LASX SIMD Support]]></title>
+        <id>https://www.phoronix.com/news/LoongArch-KVM-Linux-6.8</id>
+        <link href="https://www.phoronix.com/news/LoongArch-KVM-Linux-6.8"/>
+        <updated>2023-12-24T11:18:38.000Z</updated>
+        <summary type="html"><![CDATA[With the Linux 6.7 kernel there is now KVM virtualization support for LoongArch CPUs. With the upcoming Linux 6.8 kernel cycle, that KVM support is being further extended for these RISC-V-inspired and MIPS64-derived Chinese processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl - Viewtiful Joe 2]]></title>
         <id>https://www.nintendolife.com/#article-160095</id>
@@ -2060,19 +2103,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japanese Charts: It's A Wonderful Life For Super Mario Bros. Wonder]]></title>
-        <id>https://www.nintendolife.com/#article-160056</id>
-        <link href="https://www.nintendolife.com/news/2023/12/japanese-charts-its-a-wonderful-life-for-super-mario-bros-wonder"/>
-        <updated>2023-12-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Switch scores a full house in the top 10.
-Famitsu has revealed the latest box charts from Japan (thanks, Gematsu) and it's another resounding triumph for Super Mario Bros. Wonder, which scored an additional 94,682 units sold.
-It's also a full house for the Switch once again, with every space in the top ten taken up by Nintendo's hybrid console. Familiar faces crop up this week, including Pikmin 4, Super Mario RPG, Mario Kart 8 Deluxe, and Pokémon Scarlet and Violet.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Best Video Game Surprises Of 2023]]></title>
         <id>1851116121</id>
         <link href="https://kotaku.com/baldur-s-gate-3-alan-wake-musical-unions-peaches-blade-1851116121"/>
@@ -2968,16 +2998,6 @@ The post PlayStation 5 surpasses 50 million units sold appeared first on Destruc
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Meteor Lake Arc Graphics: A Fantastic Upgrade, Battles AMD RDNA3 Integrated Graphics]]></title>
-        <id>https://www.phoronix.com/review/meteor-lake-arc-graphics</id>
-        <link href="https://www.phoronix.com/review/meteor-lake-arc-graphics"/>
-        <updated>2023-12-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday I posted the first Intel Meteor Lake Linux benchmarks that were focused on the CPU capabilities with the Intel Core Ultra 7 155H on Ubuntu Linux compared to the existing AMD Ryzen 7 7840U. The strictly CPU core performance ended up being rather disappointing with the AMD Zen 4 laptop dominating in most cases at similar or better power efficiency. But where things become much more interesting -- and competitive -- with Meteor Lake is on the integrated graphics side now featuring Arc Graphics. The benchmarks today is our first look at the new Meteor Lake Arc Graphics with the Core 7 Ultra 155H while comparing it to the RDNA3 integrated graphics found with the AMD Ryzen 7 7840U as well as the prior generation Intel integrated graphics.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This Pico-powered snowman lights up when you enter the room]]></title>
         <id>https://www.raspberrypi.com/?p=104509</id>
         <link href="https://www.raspberrypi.com/news/this-pico-powered-snowman-lights-up-when-you-enter-the-room/"/>
@@ -2998,16 +3018,6 @@ The post This Pico-powered snowman lights up when you enter the room appeared fi
 Read more...]]></summary>
         <author>
             <name>Claire Jackson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qt 6.7 Beta Released With Variable Font Support & QRhiWidget Class]]></title>
-        <id>https://www.phoronix.com/news/Qt-6.7-Beta</id>
-        <link href="https://www.phoronix.com/news/Qt-6.7-Beta"/>
-        <updated>2023-12-20T13:58:02.000Z</updated>
-        <summary type="html"><![CDATA[The first beta of the Qt 6.7 toolkit is now available for some holiday-time testing...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3035,16 +3045,6 @@ The two genres aren't worlds apart - R-Type's bosses, for example, are very Gige
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acer Aspire 1 ARM Laptop Has Nearly Complete Upstream Linux Support]]></title>
-        <id>https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete</id>
-        <link href="https://www.phoronix.com/news/Acer-Aspire-1-EC-Linux-Complete"/>
-        <updated>2023-12-20T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With patches pending for creating an Acer Aspire 1 embedded controller driver, this Qualcomm Snapdragon powered ARM laptop has "almost full support" with the upstream Linux kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
