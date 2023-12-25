@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-25T10:10:47.147Z</id>
+    <id>urn:2023-12-25T12:17:44.313Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-25T10:10:47.147Z</updated>
+    <updated>2023-12-25T12:17:44.313Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ruby 3.3.0 s Prism a RJIT]]></title>
+        <id>www.root.cz-actuality-45448</id>
+        <link href="https://www.root.cz/zpravicky/ruby-3-3-0-s-prism-a-rjit/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-12-25T12:06:18.000Z</updated>
+        <summary type="html"><![CDATA[Dnes vyšel skriptovací jazyk Ruby ve verzi 3.3.0. Nový je parser Prism, který je stabilní a vhodný pro produkci. Můžete jím nahradit starý Ripper.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby 3.3.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/ruby-3.3.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/ruby-3.3.0"/>
+        <updated>2023-12-25T11:53:37.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze 3.3.0 programovacího jazyka Ruby (Wikipedie). Podrobný přehled novinek a změn v souboru NEWS na GitHubu. Ruby lze vyzkoušet na webové stránce TryRuby.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Český překlad příručky LibreOffice Impress 7.5]]></title>
+        <id>www.root.cz-actuality-45446</id>
+        <link href="https://www.root.cz/zpravicky/cesky-preklad-prirucky-libreoffice-impress-7-5/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-12-25T11:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Český překladatelský tým vydává překlad příručky pro Impress 7.5. Příručku si můžete stáhnout na stránce dokumentace LibreOffice nebo v knihovně Root.cz.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: zcr)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 40 navrhuje sloučit /usr/bin a /usr/sbin]]></title>
+        <id>www.root.cz-actuality-45447</id>
+        <link href="https://www.root.cz/zpravicky/fedora-40-navrhuje-sloucit-usr-bin-a-usr-sbin/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-12-25T11:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Pro Fedoru 40 bylo navrženo sloučit adresáře /usr/bin a /usr/sbin . Adresář /usr/sbin bude symlinkem na /usb/bin. V současnosti již /bin a /sbin jsou symlinky na /usr/bin a /usr/sbin (tzv. UsrMerge), takže vše bude ukazovat do jednoho adresáře.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Font Commit Mono]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/font-commit-mono</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/font-commit-mono"/>
+        <updated>2023-12-25T11:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Commit Mono je font určený především pro zobrazování textu v emulátorech terminálů a vývojových prostředích (Přehled fontů s pevnou šířkou). Jeho licence je SIL Open Font License 1.1.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trying Out Meteor Lake's Arc Graphics With The New Intel Xe Driver Was A Bust]]></title>
+        <id>https://www.phoronix.com/news/Intel-MTL-Xe-Driver-Bust</id>
+        <link href="https://www.phoronix.com/news/Intel-MTL-Xe-Driver-Bust"/>
+        <updated>2023-12-25T11:17:06.000Z</updated>
+        <summary type="html"><![CDATA[With Linux 6.8 set to introduce the new Intel Xe experimental kernel graphics driver early next year, last week I ran some Xe vs. i915 driver benchmarks on various Intel Arc Graphics discrete GPUs. There's still room for bettering the performance but a nice initial entry into the kernel and easy to test out. For some Christmas weekend benchmarking I was curious to see how well the Xe kernel driver would work on the integrated graphics side with the new Meteor Lake processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Arrow Lake Sound Support Ready For Linux 6.8]]></title>
+        <id>https://www.phoronix.com/news/Intel-Arrow-Lake-Sound-Linux</id>
+        <link href="https://www.phoronix.com/news/Intel-Arrow-Lake-Sound-Linux"/>
+        <updated>2023-12-25T10:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Along with all of the other ongoing Intel Arrow Lake processor/platform enablement, the upcoming Linux 6.8 kernel will have the sound driver support ready for landing...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Český překlad příručky LibreOffice Impress 7.5]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/cesky-preklad-prirucky-libreoffice-impress-7.5</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/cesky-preklad-prirucky-libreoffice-impress-7.5"/>
+        <updated>2023-12-25T10:47:21.000Z</updated>
+        <summary type="html"><![CDATA[Český překladatelský tým vydal překlad příručky pro Impress 7.5. Příručku si můžete stáhnout na stránce dokumentace LibreOffice.]]></summary>
+        <author>
+            <name>Zdeněk Crhonek</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ruby 3.3 Released With New "Prism" Parser & Pure-Ruby JIT Compiler]]></title>
+        <id>https://www.phoronix.com/news/Ruby-3.3-Released</id>
+        <link href="https://www.phoronix.com/news/Ruby-3.3-Released"/>
+        <updated>2023-12-25T10:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Out for Christmas is Ruby 3.3 as a big update to this dynamic open-source programming language. With Ruby 3.3 the Prism parser is added as well as a new pure-Ruby just-in-time (JIT) compiler...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Editorial: Happy Holidays, Nintendo Lifers]]></title>
         <id>https://www.nintendolife.com/#article-159991</id>
@@ -1307,11 +1397,11 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PostgreSQL má inktrementální zálohy]]></title>
+        <title type="html"><![CDATA[PostgreSQL má inkrementální zálohy]]></title>
         <id>www.root.cz-actuality-45444</id>
-        <link href="https://www.root.cz/zpravicky/postgresql-ma-inktrementalni-zalohy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <link href="https://www.root.cz/zpravicky/postgresql-ma-inkrementalni-zalohy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2023-12-22T13:04:11.000Z</updated>
-        <summary type="html"><![CDATA[Robert Haas pracoval již nějakou dobu na inktrementálních zálohách pro PostgreSQL. Ve středu byla změna začleněna na GitHubu.]]></summary>
+        <summary type="html"><![CDATA[Robert Haas pracoval již nějakou dobu na inkrementálních zálohách pro PostgreSQL. Ve středu byla změna začleněna na GitHubu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
@@ -1874,16 +1964,6 @@ Starfield …]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coppwr, GUI nástroj pro nízkoúrovňové ovládání PipeWire]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/coppwr-gui-nastroj-pro-nizkourovnove-ovladani-pipewire</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/coppwr-gui-nastroj-pro-nizkourovnove-ovladani-pipewire"/>
-        <updated>2023-12-21T18:34:47.000Z</updated>
-        <summary type="html"><![CDATA[Coppwr je GUI nástroj pro nízkoúrovňové ovládání PipeWire. Zdrojové kódy jsou k dispozici na GitHubu. Instalovat lze také z Flathubu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OG Solid Snake David Hayter Finally Played Metal Gear Solid V]]></title>
         <id>1851118205</id>
         <link href="https://kotaku.com/metal-gear-solid-5-v-david-hayter-keifer-sutherland-1851118205"/>
@@ -2054,16 +2134,6 @@ The post Years later, rhythm game Geometry Dash smashes its player peak appeared
 Read more...]]></summary>
         <author>
             <name>Alyssa Mercante</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazarus 3.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/lazarus-3.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/lazarus-3.0"/>
-        <updated>2023-12-21T17:19:56.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána verze 3.0 multiplatformního integrovaného vývojového prostředí (IDE) pro rychlý vývoj aplikaci (RAD) ve Free Pascalu Lazarus (Wikipedie). Přehled novinek v poznámkách k vydání. Využíván je Free Pascal Compiler (FPC) 3.2.2.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2313,16 +2383,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vodafone kupuje virtuálního mobilního operátora SAZKAmobil]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/vodafone-kupuje-virtualniho-mobilniho-operatora-sazkamobil</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/vodafone-kupuje-virtualniho-mobilniho-operatora-sazkamobil"/>
-        <updated>2023-12-21T12:14:23.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Vodafone se dohodla se společností Sazka na odkupu jejího virtuálního mobilního operátora SAZKAmobil. Pro zákazníky tohoto operátora se aktuálně nic nezmění, už dosud využíval mobilní síť právě Vodafonu a zůstane i značka SAZKAmobil (pdf).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[openSUSE Tumbleweed Trying Out systemd-boot & systemd Full Disk Encryption]]></title>
         <id>https://www.phoronix.com/news/openSUSE-systemd-FDE</id>
         <link href="https://www.phoronix.com/news/openSUSE-systemd-FDE"/>
@@ -2374,26 +2434,6 @@ The post Raspberry Pi Pico makes sure your Christmas tree never goes thirsty app
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fedora 40 Looks To Utilize WiFi MAC Address Randomization For Better Privacy]]></title>
-        <id>https://www.phoronix.com/news/F40-WiFi-MAC-Randomization</id>
-        <link href="https://www.phoronix.com/news/F40-WiFi-MAC-Randomization"/>
-        <updated>2023-12-21T10:11:57.000Z</updated>
-        <summary type="html"><![CDATA[Among the newly-proposed features for Fedora 40 is enabling WiFi MAC address randomization by default to yield better user privacy...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Posts SVM Patches For Xe Kernel Graphics Driver]]></title>
-        <id>https://www.phoronix.com/news/Intel-SVM-For-Xe-Linux-Patches</id>
-        <link href="https://www.phoronix.com/news/Intel-SVM-For-Xe-Linux-Patches"/>
-        <updated>2023-12-21T09:58:12.000Z</updated>
-        <summary type="html"><![CDATA[Intel's new Xe kernel graphics driver is set for merging into Linux 6.8 as an experimental option. While it's being added to the next kernel cycle, it's not yet used by default for any existing Intel GPUs and its features have yet to be fully implemented and the performance has yet to be fully optimized. Among the features currently missing is Shared Virtual Memory (SVM) support but a patch series posted today aims to address that functionality...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vodafone kupuje virtuálního mobilního operátora SAZKAmobil]]></title>
         <id>www.root.cz-actuality-45442</id>
         <link href="https://www.root.cz/zpravicky/vodafone-kupuje-virtualniho-mobilniho-operatora-sazkamobil/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2411,16 +2451,6 @@ The post Raspberry Pi Pico makes sure your Christmas tree never goes thirsty app
         <summary type="html"><![CDATA[CP/M je operační systém z poloviny 70. let 20. století, který poskytl levným 8bitovým domácím počítačům s procesory 8080 a Z80 flexibilitu a schopnosti drahých pracovních stanic. Brother SuperPowerNote byl šikovný přenosný psací stroj z počátku 90. let. David Given přenesl první z nich do toho druhého a vytvořil tak překvapivě všestranný přenosný počítač.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Improves FFmpeg's DNN Detect Filter For AI Object Detection]]></title>
-        <id>https://www.phoronix.com/news/Intel-Better-FFmpeg-DNN-Detect</id>
-        <link href="https://www.phoronix.com/news/Intel-Better-FFmpeg-DNN-Detect"/>
-        <updated>2023-12-21T09:21:58.000Z</updated>
-        <summary type="html"><![CDATA[With AI being all the rage these days and each vendor working on getting their wares to market with AI acceleration, besides Intel now having out their Meteor Lake CPUs that feature their Intel AI Boost (NPU), Intel is rather positioned well with their prolific open-source software contributions. One of the AI-related software contributions over the past week has been improvements to the FFmpeg multimedia library's "DNN detect" filter for object detection within videos...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3796,16 +3826,6 @@ You can watch the game’s most recent trailer from the 2023 Game Awards here.]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Terrapin Attack umožňuje nepozorovaně odstřihávat části zpráv v SSH]]></title>
-        <id>www.root.cz-actuality-45426</id>
-        <link href="https://www.root.cz/zpravicky/terrapin-attack-umoznuje-nepozorovane-odstrihavat-casti-zprav-v-ssh/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-12-18T21:39:35.000Z</updated>
-        <summary type="html"><![CDATA[Terrapin je útok na zkrácení prefixu protokolu SSH, který narušuje integritu zabezpečeného komunikačního kanálu. Pečlivou úpravou sekvenčních čísel během handshaku může útočník odstranit libovolné množství zpráv odeslaných klientem nebo serverem na začátku použití zabezpečeného kanálu, aniž by si toho jedna ze stran všimla.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PlayStation, Xbox, Nintendo, And Steam Year In Reviews Are Now Live]]></title>
         <id>121690</id>
         <link href="https://www.gameinformer.com/2023/12/18/playstation-xbox-nintendo-and-steam-year-in-reviews-are-now-live"/>
@@ -3849,16 +3869,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TAČR připravuje veřejnou zakázku pro hledání řešení spisové služby]]></title>
-        <id>www.root.cz-actuality-45424</id>
-        <link href="https://www.root.cz/zpravicky/tacr-pripravuje-verejnou-zakazku-pro-hledani-reseni-spisove-sluzby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-12-18T20:05:19.000Z</updated>
-        <summary type="html"><![CDATA[Od roku 2026 musí veřejná správa vést povinně elektronickou spisovou službu. Už žádné papírové podací deníky. To by dávalo smysl, kdyby se pro elektronické spisové služby cena atestace dle nového standardu nezvýšila téměř sedmkrát. Atestace stávajících systémů na trhu tak bude stát z původních 75 tisíc Kč přesně 489 tisíc Kč. Proč? Protože je náročné prověřit nové (vylepšené) XML standardy pro elektronické spisové služby. Chyby i nejasnosti se řeší v GitHubu. Kdo to zaplatí? Zákazník. Jak to bude fungovat? No musí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: PASL)</name>
         </author>
     </entry>
     <entry>
@@ -4017,16 +4027,6 @@ For more, read Game Informer's Sea of Stars review, and then read our cover st
 Are you one of the 4 million Sea of Stars players? Let us know in the comments below!]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Změna velikosti kurzoru ušetří na Intelu kolem 0,5 W]]></title>
-        <id>www.root.cz-actuality-45423</id>
-        <link href="https://www.root.cz/zpravicky/zmena-velikosti-kurzoru-usetri-na-intelu-kolem-0-5-w/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-12-18T13:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Ville Syrjälä z Intelu si všiml, že v ovladačích X11 xf86-video-modesetting je pro HW kurzor alokováno místo 256×256. Pokud se však kurzor vejde například do 64×64, tak na Intel Alderlake klesne spotřeba o 0,5 W. Tak velká hodnota patrně znamená, že se bude muset opravit i něco v samotném ovladači i915. I tak dává smysl pro kurzor alokovat co nejmenší místo.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
