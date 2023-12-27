@@ -1,15 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2023-12-27T12:17:12.722Z</id>
+    <id>urn:2023-12-27T14:08:57.612Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2023-12-27T12:17:12.722Z</updated>
+    <updated>2023-12-27T14:08:57.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Výzkumníci opět varují před stále nedostatečně zabezpečenými SSH servery]]></title>
+        <id>www.root.cz-actuality-45451</id>
+        <link href="https://www.root.cz/zpravicky/vyzkumnici-opet-varuji-pred-stale-nedostatecne-zabezpecenymi-ssh-servery/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-12-27T13:55:04.000Z</updated>
+        <summary type="html"><![CDATA[Není-li dnes SSH server co nejrychleji záplatován na známé chyby a navíc se jeho administrátor moc netrápí pravidly pro přístupové heslo, stává se nejčastěji terčem útoků, po nichž následuje instalace nějakého DDoS botu a CoinMineru, hlásí výzkumníci z AhnLab Security Emergency Response Center (ASEC). A těch linuxových, které nemají patřičně aktualizované SSH rozhraní a bezpečná hesla, není málo.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Strike 3’ Files Record Number of Piracy Lawsuits in 2023]]></title>
+        <id>https://torrentfreak.com/?p=242954</id>
+        <link href="https://torrentfreak.com/strike-3-files-record-number-of-piracy-lawsuits-in-2023-231227/"/>
+        <updated>2023-12-27T13:33:14.000Z</updated>
+        <summary type="html"><![CDATA[Strike 3 Holdings continues to raise the bar when it comes to the number of piracy lawsuits filed in U.S. federal courts. This year, the adult entertainment company has already filed a record-breaking 3,465 cases. With potential settlements of hundreds or thousands of dollars each, this can be quite a lucrative business. 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature: Inside The Mind Of A Zelda: Tears Of The Kingdom Speedrunner]]></title>
+        <id>https://www.nintendolife.com/#article-159595</id>
+        <link href="https://www.nintendolife.com/features/inside-the-mind-of-a-zelda-tears-of-the-kingdom-speedrunner"/>
+        <updated>2023-12-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tearing through Hyrule.
+Since its release in March 2017, The Legend of Zelda: Breath of the Wild has been an attractive game to speedrun for many reasons, and in our article last year, we were able to talk about its intricacies with two high-profile members of the community, including the world record holder. In 2023, the sequel, Tears of the Kingdom, launched to acclaim from fans and critics alike, and speedrunners had a new game to break. Many runners took the challenge to beat this second iteration as quickly as possible.
+Like its predecessor, Tears of the Kingdom is home to multiple speedrunning categories, including the usual Any%, which sees runners attempting to hit the credits at lightning speeds, glitches included. Some categories restrict certain things or enable others, particularly exploits or certain “movement techniques” – it just depends on what you’re attempting to achieve. At the time of writing, Tears of the Kingdom’s Any% category is split into two areas based on the version of the game you're playing: pre-v1.2.1 and v.1.2.1. These relate to the updates the game has received since launch, yet most runners primarily use 1.0.0 as the version with the most exploitable glitches.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tripple buffering i v KDE kompozitoru KWin]]></title>
+        <id>www.root.cz-actuality-45450</id>
+        <link href="https://www.root.cz/zpravicky/tripple-buffering-i-v-kde-kompozitoru-kwin/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2023-12-27T12:58:31.000Z</updated>
+        <summary type="html"><![CDATA[Na podpoře dynamického tripple dufferingu se v rámci GNOME pracuje už mnoho měsíců a ze začátku tohoto měsíce víme, že jde vše na dobré cestě a například s integrovanými GPU umožní tato věc přejít z 30fps na 60fps vykreslování GUI. Podobné nyní začíná implementovat KDE v rámci svého kompozitoru KWin, ač jde prozatím o ranou fázi stavějící na merge requestu Xavera Hugla.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lacuna – A Sci-Fi Noir Adventure, hra zdarma na GOG.com]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/lacuna-a-sci-fi-noir-adventure-hra-zdarma-na-gog.com</id>
         <link href="http://www.abclinuxu.cz/zpravicky/lacuna-a-sci-fi-noir-adventure-hra-zdarma-na-gog.com"/>
-        <updated>2023-12-27T12:17:07.000Z</updated>
+        <updated>2023-12-27T12:17:22.000Z</updated>
         <summary type="html"><![CDATA[Na GOG.com běží Winter Sale. Při té příležitosti lze do 29. prosince získat zdarma počítačovou hru Lacuna – A Sci-Fi Noir Adventure (ProtonDB Platinum).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -1348,19 +1392,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[One of the latest change proposals filed for Fedora 40 is to unify their /usr/bin and /usr/sbin locations...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Front Mission 1st: Remake Receiving Mercenaries Update In 2024]]></title>
-        <id>https://www.nintendolife.com/#article-160108</id>
-        <link href="https://www.nintendolife.com/news/2023/12/front-mission-1st-remake-receiving-mercenaries-update-in-2024"/>
-        <updated>2023-12-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A free content update.
-Forever Entertainment has today announced its tactical turn-based RPG Front Mission 1st: Remake will be receiving a special Mercenaries update.
-This is a completely free content update that will add Mercenaries (including a local hot-seat multiplayer mode), single-player scenarios and more. You can get a preview in the trailer above.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -4081,16 +4112,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesa NVK rychlejší než uzavřený ovladač Nvidia, byť v jediné hře]]></title>
-        <id>www.root.cz-actuality-45429</id>
-        <link href="https://www.root.cz/zpravicky/mesa-nvk-rychlejsi-nez-uzavreny-ovladac-nvidia-byt-v-jedine-hre/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-12-19T16:18:06.000Z</updated>
-        <summary type="html"><![CDATA[Obecně platí, že nejlepším řešením pro moderní karty Nvidia je uzavřený firemní ovladač. Na tom se nic nemění, jen jako zajímavost berme, že vývojářům Mesa se podařilo v rámci otevřeného Vulkan ovladače NVK pro grafické procesory od Nvidie dosáhnout významně vyššího výkonu v jedné méně známé hře, než je tomu u onoho ovladače uzavřeného.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lenovo Legion Go review: a big handheld with bigger ideas]]></title>
         <id>https://www.rockpapershotgun.com/lenovo-legion-go-review</id>
         <link href="https://www.rockpapershotgun.com/lenovo-legion-go-review"/>
@@ -4100,16 +4121,6 @@ I’m happy to report that this, the Legion Go’s retail version, is far more r
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ovladač pro all-in-one vodní chlazení Gigabyte Waterforce v Linuxu 6.8]]></title>
-        <id>www.root.cz-actuality-45428</id>
-        <link href="https://www.root.cz/zpravicky/ovladac-pro-all-in-one-vodni-chlazeni-gigabyte-waterforce-v-linuxu-6-8/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2023-12-19T15:54:54.000Z</updated>
-        <summary type="html"><![CDATA[Nový balík ovladačů pro řadu vodních chlazení od Gigabyte míří do budoucího jádra Linux 6.8. Ovladač gigabyte_waterforce nabídne podporu pro Gigabyte AORUS Waterforce AIO typů X240, X280 a X360.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4940,17 +4951,6 @@ Read more]]></summary>
 The post More blinkies for your rucksack with NeoPXL8 | HackSpace #74 appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ben Everard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pirate IPTV Service Glo TV Faces $25m Lawsuit, Resellers’ Feet Held to the Fire]]></title>
-        <id>https://torrentfreak.com/?p=243682</id>
-        <link href="https://torrentfreak.com/pirate-iptv-service-glo-tv-faces-25m-lawsuit-resellers-feet-held-to-the-fire-231215/"/>
-        <updated>2023-12-15T08:56:11.000Z</updated>
-        <summary type="html"><![CDATA[A copyright lawsuit filed by DISH Network in a New York court this week targets pirate IPTV provider Glo TV and several alleged resellers. The identities of Glo TV's operators are currently unknown but by also targeting those identified more easily, DISH may choose to put their feet to the fire and see who sweats first. With $25m in damages on the line, December could be a warm month.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
