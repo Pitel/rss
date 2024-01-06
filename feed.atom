@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-06T10:09:43.601Z</id>
+    <id>urn:2024-01-06T12:16:38.719Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-06T10:09:43.601Z</updated>
+    <updated>2024-01-06T12:16:38.719Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenJPH v0.10 JPEG2000 Library Adds AVX-512 Support]]></title>
+        <id>https://www.phoronix.com/news/OpenJPH-0.10-Released</id>
+        <link href="https://www.phoronix.com/news/OpenJPH-0.10-Released"/>
+        <updated>2024-01-06T11:42:21.000Z</updated>
+        <summary type="html"><![CDATA[OpenJPH as the open-source library implementing JPEG2000 Part-15 (JPH / HTJ2K) support is out with a big feature release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome Adds VA-API Video Acceleration On Wayland]]></title>
+        <id>https://www.phoronix.com/news/Google-Chrome-Wayland-VA-API</id>
+        <link href="https://www.phoronix.com/news/Google-Chrome-Wayland-VA-API"/>
+        <updated>2024-01-06T11:27:20.000Z</updated>
+        <summary type="html"><![CDATA[One of the limitations of Google Chrome's Wayland support has been the Video Acceleration API (VA-API) not being supported for GPU-based video acceleration as it's directly targeted the libva-x11 library. But with code merged on Friday to Chromium, libva-drm is now used to allow for working VA-API acceleration on X11 or Wayland...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME's Variable Refresh Rate "VRR" Support Continues Coming Together]]></title>
+        <id>https://www.phoronix.com/news/GNOME-VRR-2024</id>
+        <link href="https://www.phoronix.com/news/GNOME-VRR-2024"/>
+        <updated>2024-01-06T11:12:39.000Z</updated>
+        <summary type="html"><![CDATA[For the GNOME desktop among the technologies that will hopefully mature into good shape this year are high dynamic range (HDR) display support as well as variable refresh rate (VRR). When it comes to the VRR support there's been more Mutter progress made in this effort...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (January 6th)]]></title>
         <id>https://www.nintendolife.com/#article-160374</id>
@@ -3177,26 +3207,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Glibc Updated For Recent Linux CET Shadow Stack Support]]></title>
-        <id>https://www.phoronix.com/news/Glibc-Intel-CET-Shadow-Stack</id>
-        <link href="https://www.phoronix.com/news/Glibc-Intel-CET-Shadow-Stack"/>
-        <updated>2024-01-03T11:00:22.000Z</updated>
-        <summary type="html"><![CDATA[With Linux 6.6, the mainline kernel finally landed support for Shadow Stack on Intel/AMD CPUs that was originally rolled out as part of Intel's Control-flow Enforcement Technology (CET) for  better fending off ROP attacks. The GNU C Library "glibc" was recently updated with some changes around the CET / Shadow Stack support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Media Driver 2023Q4 Improves Video Acceleration For Meteor Lake & Arrow Lake]]></title>
-        <id>https://www.phoronix.com/news/Intel-Media-Driver-2023Q4</id>
-        <link href="https://www.phoronix.com/news/Intel-Media-Driver-2023Q4"/>
-        <updated>2024-01-03T10:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Overnight Intel released their newest quarterly updates to their Intel Media Driver providing Video Acceleration API (VA-API) support on Linux systems as well as their updated oneVPL video processing library that is part of their oneAPI software stack and leveraging the Intel Media Driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hacking v praxi: od sociálního inženýrství po bankomaty (školení)]]></title>
         <id>www.root.cz-actuality-40997</id>
         <link href="https://www.root.cz/zpravicky/hacking-v-praxi-od-socialniho-inzenyrstvi-po-bankomaty-skoleni-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3286,16 +3296,6 @@ The downside is that an updated version of the game is coming to all storefronts
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patches Updated To Tackle vmap/vmalloc Lock Contention That Can Yield ~12x Throughput]]></title>
-        <id>https://www.phoronix.com/news/Vmalloc-vmap-Lock-Contention-v3</id>
-        <link href="https://www.phoronix.com/news/Vmalloc-vmap-Lock-Contention-v3"/>
-        <updated>2024-01-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An important Linux kernel patch series has been updated for the new year that in synthetic tests has yielded a ~12x throughput improvement on an AMD Ryzen Threadripper system...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -5316,24 +5316,6 @@ Wear Tiles Version 1.3.0-alpha04
 Webkit Version 1.10.0-beta01]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 17 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2023/12/android-studio-iguana-202321-canary-17.html</id>
-        <link href="https://androidstudio.googleblog.com/2023/12/android-studio-iguana-202321-canary-17.html"/>
-        <updated>2023-12-07T23:02:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Canary 17 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Update (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Iguana, see the Android Studio Preview release notes. For details of bugs fixed in each preview
-release, see previous entries on this blog.
-General fixes and features
-Below is a list of general fixes in Android Studio Iguana | 2023.2.1 Canary 17 and Android Gradle Plugin 8.3.0-alpha17 These are a result of your bug 
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by repor…]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
