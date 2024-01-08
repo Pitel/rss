@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-08T08:14:07.633Z</id>
+    <id>urn:2024-01-08T10:11:36.880Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-08T08:14:07.633Z</updated>
+    <updated>2024-01-08T10:11:36.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Giant Fine-Art Game Boy | #MagPiMonday]]></title>
+        <id>https://www.raspberrypi.com/?p=104773</id>
+        <link href="https://www.raspberrypi.com/news/giant-fine-art-game-boy-magpimonday/"/>
+        <updated>2024-01-08T10:06:42.000Z</updated>
+        <summary type="html"><![CDATA[The iconic handheld console can now be treated as fine art, especially when you deconstruct it and rebuild it six times larger.
+The post Giant Fine-Art Game Boy | #MagPiMonday appeared first on Raspberry Pi.]]></summary>
+        <author>
+            <name>Rob Zwetsloot</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nová moderní distribuce Rhino Linux založená na Ubuntu]]></title>
+        <id>www.root.cz-actuality-45485</id>
+        <link href="https://www.root.cz/zpravicky/nova-moderni-distribuce-rhino-linux-zalozena-na-ubuntu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-08T09:21:13.000Z</updated>
+        <summary type="html"><![CDATA[Loni v srpnu vznikla nová distribuce Rhino Linux. Je založená na Ubuntu, ale používá „rolling updates“. Sice v ní najdete apt-get, má však i svůj lepší balíčkovací systém rhino-pkg, který je odvozený od pacstall. Ten je zase inspirovaný AURem z Arch Linuxu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naučte se Kubernetes na našem dvoudenním školení]]></title>
+        <id>www.root.cz-actuality-41195</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-kubernetes-na-nasem-dvoudennim-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-08T08:20:22.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes je dnes nejrozšířenější platformou na hostovaní Docker kontejnerů a je podporován velkými hráči na trhu (Google, Amazon, Microsoft) skrz Cloud Native Computing Foundation. Kuberneres pro provoz používají všechny velikosti firem, od startupu po korporace. Pojďme se naučit jej používat na dvoudenním kurzu Úvod do Kubernetes, který proběhne v naší pražské školicí místnosti ve dnech 5. a 6. února. Školení proběhne v naší pražské školicí místnosti a můžete se ho zúčastnit i online.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vyšlo linuxové jádro verze 6.7, odstraňuje podporu architektury Itanium]]></title>
         <id>www.root.cz-actuality-45484</id>
@@ -265,7 +296,7 @@ Read more...]]></summary>
         <id>https://www.nintendolife.com/#article-160268</id>
         <link href="https://www.nintendolife.com/features/nintendo-eshop-selects-december-2023"/>
         <updated>2024-01-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our favourite eShop games in from December!
+        <summary type="html"><![CDATA[Our favourite eShop games from December!
 Happy New Year lovely readers! It's 2024, and with another fantastic year of Switch (and maybe Switch 2?) gaming ahead of us, we need to stop, think, and have one last look back at 2023 with eShop Selects this month!
 December is usually a quiet month for game releases as publishers and developers make way for the holidays and take a well-earned rest. That doesn't mean nothing dropped on the eShop, of course. We're here to run down the best of December's eShop offerings.
 Read the full article on nintendolife.com]]></summary>
@@ -3688,16 +3719,6 @@ Some new game releases we are pointing our telescopes at this week: Skeleton Reb
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rav1e 0.7.0 aktualizuje kód v assembleru]]></title>
-        <id>www.root.cz-actuality-45462</id>
-        <link href="https://www.root.cz/zpravicky/rav1e-0-7-0-aktualizuje-kod-v-assembleru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-02T08:39:29.000Z</updated>
-        <summary type="html"><![CDATA[Projekt AV1 kodéru psaného v Rustu a spadajícího pod křídla Xiph.Org stihl na konci roku ještě vydání nové verze 0.7.0. Tvůrci přináší dílčí aktualizace assemblerovského kódu převzaté z AV1 dekodéru dav1d 1.2.1, přičemž specificky je zde nový kód pro platformy x86_64 a AArch64.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tvorba GUI v Pythonu s využitím knihovny PySimpleGUI (2)]]></title>
         <id>www.root.cz-text-16938</id>
         <link href="https://www.root.cz/clanky/tvorba-gui-v-pythonu-s-vyuzitim-knihovny-pysimplegui-2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3805,16 +3826,6 @@ While the Famicom would go on to revitalize the North American gaming market as 
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokusné jádro 6.6 pro Raspberry Pi]]></title>
-        <id>www.root.cz-actuality-45461</id>
-        <link href="https://www.root.cz/zpravicky/pokusne-jadro-6-6-pro-raspberry-pi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-01T13:14:01.000Z</updated>
-        <summary type="html"><![CDATA[V současnosti běží Rasperry Pi OS na jádře 6.1. Raspberry Pi Foundation začíná testovat nové jádro 6.6. Pokud máte zájem nové jádro otestovat stačí sudo rpi-update next. Případné problémy hlaste na fóru.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -5172,17 +5183,6 @@ The post Create your own Slack bot with a Raspberry Pi Pico W appeared first on 
         <summary type="html"><![CDATA[Compose Compiler Version 1.5.7]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet Allie Weber | #MagPiMonday]]></title>
-        <id>https://www.raspberrypi.com/?p=104459</id>
-        <link href="https://www.raspberrypi.com/news/meet-allie-weber-magpimonday/"/>
-        <updated>2023-12-18T08:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Young maker prodigy Allie holds patents and was a host on Myth Busters Jr – what’s in her future?
-The post Meet Allie Weber | #MagPiMonday appeared first on Raspberry Pi.]]></summary>
-        <author>
-            <name>Rob Zwetsloot</name>
         </author>
     </entry>
     <entry>
