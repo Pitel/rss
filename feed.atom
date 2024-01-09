@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-09T08:13:20.601Z</id>
+    <id>urn:2024-01-09T10:10:58.960Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-09T08:13:20.601Z</updated>
+    <updated>2024-01-09T10:10:58.960Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[A Nifty Way To Access Linux Memory/RAM Information]]></title>
+        <id>https://www.phoronix.com/news/Linux-DIMM-Details-As-Root</id>
+        <link href="https://www.phoronix.com/news/Linux-DIMM-Details-As-Root"/>
+        <updated>2024-01-09T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Making use of dmidecode is the go-to way of being able to read various DIMM memory information on Linux systems like the model number, speed, and other attributes. But sadly using dmidecode is restricted to root due to needing to access /dev/mem. But it turns out there is another less reported way to receive much the same information...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSI Claw A1M, obdoba Steam Decku s Intel „Meteor Lake“ a Windows 11]]></title>
+        <id>www.root.cz-actuality-45491</id>
+        <link href="https://www.root.cz/zpravicky/msi-claw-a1m-obdoba-steam-decku-s-intel-meteor-lake-a-windows-11/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-09T08:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Po úspěchu přenosné konzole Steam Deck naskočili na tuhle vlnu i v Asusteku se zařízením Asus ROG Ally a v čínském Lenovu s Legion Go. MSI se také přidává, a to rovnou zcela jinou formou než samotné Valve se Steam Deckem: nesází na AMD Ryzen a Linux, ale na Intel Core a Windows.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE Plasma Desktop portován na OpenBSD]]></title>
         <id>www.root.cz-actuality-45490</id>
@@ -2482,16 +2502,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel 5th Gen Xeon "Emerald Rapids" AVX-512 Performance]]></title>
-        <id>https://www.phoronix.com/review/intel-5th-gen-xeon-avx512</id>
-        <link href="https://www.phoronix.com/review/intel-5th-gen-xeon-avx512"/>
-        <updated>2024-01-05T15:35:01.000Z</updated>
-        <summary type="html"><![CDATA[With Intel's 5th Gen Xeon Scalable "Emerald Rapids" processors that were released last month, in addition to the power efficiency improvements, faster DDR5 memory support, and other enhancements, one of the other notable enhancements talked up by Intel was improved AVX-512 support. Here are some benchmarks using the flagship Intel Xeon Platinum 8592+ looking at the performance and thermal/clock/power metrics when toggling AVX-512 support.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI Art Generator Allegedly Scraped Magic: The Gathering Cards For Material]]></title>
         <id>1851143250</id>
         <link href="https://kotaku.com/magic-the-gathering-midjourney-ai-art-lawsuit-1851143250"/>
@@ -3579,16 +3589,6 @@ Persona 3 Portable (Console, PC, Cloud) - January 15 | Our Review
 Persona 4 Golden (Console, PC, Cloud) - January 15 | Our Review]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hat Enterprise Linux 10 a úvahy o x86-64-v3]]></title>
-        <id>www.root.cz-actuality-45467</id>
-        <link href="https://www.root.cz/zpravicky/red-hat-enterprise-linux-10-a-uvahy-o-x86-64-v3/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-03T14:33:51.000Z</updated>
-        <summary type="html"><![CDATA[Vedle Fedory a dalších se i v rámci příprav na další velké vydání RHELu zvažuje, zdali nepřejít na vyšší typy 64bit x86 CPU odpovídajících specifikaci x86–64-v3. Ta připomeňme zahrnuje mimo jiné nutnost instrukčních sad jako AVX / AVX2, podporu FMA či VEX. Bylo-li by toto schváleno, RHEL by už neběžel na Xeonech rodin Sandy Bridge a Ivy Bridge ani na čemkoli od AMD před jádry Excavator.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
