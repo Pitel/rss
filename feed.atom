@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-10T08:13:20.665Z</id>
+    <id>urn:2024-01-10T10:10:58.379Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-10T08:13:20.665Z</updated>
+    <updated>2024-01-10T10:10:58.379Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Naučte se pracovat s Dockerem a kontejnery (školení)]]></title>
+        <id>www.root.cz-actuality-39529</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pracovat-s-dockerem-a-kontejnery-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-10T09:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Docker je dnes technologie, která proces vývoje, testování a provozování softwaru velmi zjednodušuje. Provozujte cokoliv a kdekoliv. Už nečekejte na nastavení svého serveru nebo na aktualizaci nějaké knihovny. Mějte prostředí jako součást vaší aplikace.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python 3.13 dostane JIT kompilátor]]></title>
         <id>www.root.cz-actuality-45498</id>
@@ -3619,16 +3629,6 @@ The post Retro-style homebrew computer (with VERY neat wiring) appeared first on
         <link href="https://www.root.cz/zpravicky/glibc-zrejme-v-unoru-odstrani-podporu-architektury-itanium-ia64/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2024-01-04T08:51:24.000Z</updated>
         <summary type="html"><![CDATA[V únoru nás čeká pravidelné půlroční vydání knihovny glibc a podle současných plánů bude v připravované verzi 2.39 odstraněna podpora pro architekturu Itanium IA64 (ia64-linux-gnu). Podpora byla zrušena také v připravovaném linuxovém jádře, takže standardní knihovna už nemá důvod ji držet.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Španělský Orange byl hodinu a půl odpojený od internetu kvůli úniku účtu do RIPE]]></title>
-        <id>www.root.cz-actuality-45475</id>
-        <link href="https://www.root.cz/zpravicky/spanelsky-orange-byl-hodinu-a-pul-odpojeny-od-internetu-kvuli-uniku-uctu-do-ripe/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-04T08:35:33.000Z</updated>
-        <summary type="html"><![CDATA[V úterý se útočníkovi s přezdívkou Snow podařilo dostat do účtu RIPE, který patří španělskému operátorovi Orange. Poté změnil číslo AS (Autonomní Systém) přiřazené k IP adresám společnosti a povolil na nich neplatnou konfiguraci RPKI. Výsledkem bylo chybné oznamování rozsahu do internetu a síť tak přestala být na hodinu a půl dostupná ze světa.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
