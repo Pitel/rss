@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-10T06:13:43.159Z</id>
+    <id>urn:2024-01-10T08:13:20.665Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-10T06:13:43.159Z</updated>
+    <updated>2024-01-10T08:13:20.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Python 3.13 dostane JIT kompilátor]]></title>
+        <id>www.root.cz-actuality-45498</id>
+        <link href="https://www.root.cz/zpravicky/python-3-13-dostane-jit-kompilator/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-10T07:51:38.000Z</updated>
+        <summary type="html"><![CDATA[Brandt Bucher poslal do vývojové větve Pythonu 3.13 pull-request, který přidává JIT kompilátor. Detaily na svém blogu popisuje Anthony Shaw, který tvrdí, že půjde o jednou z největších změn v interpretru CPythonu od specializovaného adaptivního interpretru přidaného vPythonu 3.11, který také pochází od Brandta Buchera a Marka Shannona.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt One: vlastní hardware na oslavu 20. výročí projektu]]></title>
+        <id>www.root.cz-actuality-45497</id>
+        <link href="https://www.root.cz/zpravicky/openwrt-one-vlastni-hardware-na-oslavu-20-vyroci-projektu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-10T07:37:05.000Z</updated>
+        <summary type="html"><![CDATA[Projekt OpenWrt letos oslaví dvacáté výročí existence a John Crispin při té příležitosti oživil starou myšlenku na tvorbu prvního vlastního hardwarového návrhu plně podporovaného upstreamem. Mělo by jít o router postavený na populární platformě Banana PI, který bude kompletně otevřený. Jedinou uzavřenou součástí by měl být firmware síťových karet, který ale běží v odděleném procesoru.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vcc: kompilátor používající Clang ke generování kódu pro Vulkan]]></title>
+        <id>www.root.cz-actuality-45496</id>
+        <link href="https://www.root.cz/zpravicky/vcc-kompilator-pouzivajici-clang-ke-generovani-kodu-pro-vulkan/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-10T07:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Na Saarlandské univerzitě v Německu vznikl projekt Vcc (Vulkan Clang Compiler), což je kompilátor založený na Clangu, který vytváří kód běžící na Vulkanu. Lze jej považovat za konkurenta GLSL a HLSL, ale skutečným záměrem tohoto projektu je zcela zrušit koncept shadingových jazyků.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetBSD žádá o pomoc s testováním DRM]]></title>
+        <id>www.root.cz-actuality-45493</id>
+        <link href="https://www.root.cz/zpravicky/netbsd-zada-o-pomoc-s-testovanim-drm/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-10T06:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Ve čtvrtek 4. ledna 2024 vyšlo NetBSD 10.0 RC2. Součástí vydání je také ovladač DRM (Direct Rendering Manager), který v RC1 přinesl spoustu komplikací. Nyní toho vývojáři hodně opravili a prosí o testování na různém hardware. Poté stačí odeslat komentář na stránce o vydání.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Topiarz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibeOffice 24.2 RC1 dostupný pro testování]]></title>
+        <id>www.root.cz-actuality-45495</id>
+        <link href="https://www.root.cz/zpravicky/libeoffice-24-2-rc1-dostupny-pro-testovani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-10T06:55:58.000Z</updated>
+        <summary type="html"><![CDATA[Projekt LibreOffice vydává první verzi release candidate, která od poslední beta verze obsahuje 158 commitů a opravuje 59 hlášení v Bugzille. LibreOffice 24.2 podle plánu vyjde začátkem února.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: zcr)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mortal Kombat 1 Adds Another DLC Kameo Fighter Next Week]]></title>
+        <id>https://www.nintendolife.com/#article-160545</id>
+        <link href="https://www.nintendolife.com/news/2024/01/mortal-kombat-1-adds-another-dlc-kameo-fighter-next-week"/>
+        <updated>2024-01-10T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Quan-Chi was the latest DLC fighter.
+Mortal Kombat 1 continues its fight in the new year with the announcement Khameleon will be coming to the game as a DLC fighter next week.
+Yes, a date is now officially locked in, with the game's social media account confirming she'll be arriving on 16th January 2024. Khameleon is the latest release alongside the newest playable fighter Quan Chi, who was made available at the end of last year.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt slaví 20 let. Plán na vlastní router OpenWrt One/AP-24.XY]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/openwrt-slavi-20-let.-plan-na-vlastni-router-openwrt-one-ap-24.xy</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/openwrt-slavi-20-let.-plan-na-vlastni-router-openwrt-one-ap-24.xy"/>
+        <updated>2024-01-10T05:05:19.000Z</updated>
+        <summary type="html"><![CDATA[Projekt OpenWrt (Wikipedie) letos slaví 20 let (zahájen byl v lednu 2004). Při této příležitosti má v plánu ve spolupráci s týmem Banana Pi publikovat svůj první vlastní plně upstreamem podporovaný návrh hardwarové platformy / routeru s názvem OpenWrt One/AP-24.XY. Následnou výrobu a prodej má zajistit firma stojící za Banana Pi. Cena zařízení by měla být do 100 dolarů.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sega Sammy Announces 'Sega Fave Corporation' In Organisational Restructure]]></title>
         <id>https://www.nintendolife.com/#article-160544</id>
@@ -71,7 +144,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2024-01-10T01:30:00.000Z</updated>
         <summary type="html"><![CDATA[It's apparently "deep in conversation" with three teams.
 With the next generation of Nintendo hardware seemingly on the horizon, it's no surprise the Japanese video game company is potentially seeking new partners, as well as studios, to work on some of its IP going forward.
-With this in mind, Head of GamesIndustry.biz Christopher Dring says there are at least three studios currently "deep in conversation around making games based on Nintendo brands". Here's exactly what he had to say:
+With this in mind, Christopher Dring of GamesIndustry.biz says there are at least three studios currently "deep in conversation around making games based on Nintendo brands". Here's exactly what he had to say:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -546,7 +619,7 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tails 5.21 opravuje tři chyby v klonovacím nástroji]]></title>
+        <title type="html"><![CDATA[Tails 5.21 opravuje tři chyby v klonovacím nástroji]]></title>
         <id>www.root.cz-actuality-45494</id>
         <link href="https://www.root.cz/zpravicky/tails-5-21-opravuje-tri-chyby-v-klonovacim-nastroji/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2024-01-09T17:02:53.000Z</updated>
@@ -2213,19 +2286,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: Smash Bros. 64 Mod Adds Banjo & Kazooie As A Playable Fighter]]></title>
-        <id>https://www.nintendolife.com/#article-160443</id>
-        <link href="https://www.nintendolife.com/news/2024/01/random-smash-bros-64-mod-adds-banjo-and-kazooie-as-a-playable-fighter"/>
-        <updated>2024-01-08T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ebisumaru and Dragon King also join the fight.
-If you have been keeping up to date with your Super Smash Bros. news in recent years (and why wouldn't you?) then you may have heard of 'Smash Remix', a mod project led by The_Smashfather which has been progressively adding more playable fighters to the game.
-Well, as if the headline hasn't given it away already, the team has now released version 1.5.0 of the mod, adding in Ebisumaru (from the Mystical Ninja series), Dragon King and, yes, Banjo & Kazooie as playable fighters.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 6.8 EDAC Ready To Deal With Errors On AMD AI Accelerators & Intel Meteor Lake P/PS]]></title>
         <id>https://www.phoronix.com/news/Linux-6.8-EDAC</id>
         <link href="https://www.phoronix.com/news/Linux-6.8-EDAC"/>
@@ -2378,16 +2438,6 @@ Some new game releases we are tip-toeing towards with our shields raised this we
         <updated>2024-01-08T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.7]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/linux-6.7</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/linux-6.7"/>
-        <updated>2024-01-08T02:56:13.000Z</updated>
-        <summary type="html"><![CDATA[Po 10 týdnech vývoje od vydání Linuxu 6.6 oznámil Linus Torvalds vydání Linuxu 6.7. Přehled novinek a vylepšení na stránce Linux Kernel Newbies.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3592,56 +3642,6 @@ The post Retro-style homebrew computer (with VERY neat wiring) appeared first on
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japonci testují datové centrum poháněné použitými vodíkovými palivovými články]]></title>
-        <id>www.root.cz-actuality-45474</id>
-        <link href="https://www.root.cz/zpravicky/japonci-testuji-datove-centrum-pohanene-pouzitymi-vodikovymi-palivovymi-clanky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-04T08:10:17.000Z</updated>
-        <summary type="html"><![CDATA[Společnosti Honda a Mitsubishi chtějí testovat možnost napájení datového centra palivovými články z elektromobilů pomocí vodíku, který vzniká jako vedlejší produkt průmyslových procesů. Projekt poběží od 31. března v japonském městě Shunan a je plánován na dva roky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miliony serverů nemají stále záplatovanou zranitelnost SSH nazvanou Terrapin]]></title>
-        <id>www.root.cz-actuality-45473</id>
-        <link href="https://www.root.cz/zpravicky/miliony-serveru-nemaji-stale-zaplatovanou-zranitelnost-ssh-nazvanou-terrapin/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-04T07:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Před dvěma týdny byla odhalena zranitelnost SSH nazvaná Terrapin, která umožňuje útočníkovi odstranit libovolné množství zpráv odeslaných klientem nebo serverem na začátku použití zabezpečeného kanálu, aniž by si toho jedna ze stran všimla. Výsledkem může být významné oslabení bezpečnosti protokolu SSH.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zemřel Niklaus Wirth, tvůrce jazyka Pascal a držitel Turingovy ceny]]></title>
-        <id>www.root.cz-actuality-45472</id>
-        <link href="https://www.root.cz/zpravicky/zemrel-niklaus-wirth-tvurce-jazyka-pascal-a-drzitel-turingovy-ceny/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-04T07:25:42.000Z</updated>
-        <summary type="html"><![CDATA[V pondělí 1. ledna zemřel Niklaus Wirth, tvůrce a spolutvůrce několika programovacích jazyků včetně Pascalu, Euleru a Oberonu. Bylo mu 89 let. Za vývoj inovativních programovacích jazyků obdržel v roce 1984 Turingovu cenu, která je obecně uznávaná jako nejvyšší ocenění v oblasti informatiky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maestro je unixové jádro a operační systém napsaný v jazyce Rust]]></title>
-        <id>www.root.cz-actuality-45471</id>
-        <link href="https://www.root.cz/zpravicky/maestro-je-unixove-jadro-a-operacni-system-napsany-v-jazyce-rust/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-04T07:11:50.000Z</updated>
-        <summary type="html"><![CDATA[Luc Lenôtre vytvořil unixový operační systém Maestro, který má být podle jeho slov lehký a dostatečně kompatibilní s Linuxem, aby byl použitelný v každodenním životě. Vývoj začal v roce 2018 jako školní projekt a původně byl kód napsán v jazyce C. Jakmile se celý projekt rozrostl a bylo obtížné jej udržovat, autor se rozhodl vše přepsat do jazyka Rust.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyšel Vim 9.1 věnovaný Bramu Moolenaarovi]]></title>
-        <id>www.root.cz-actuality-45470</id>
-        <link href="https://www.root.cz/zpravicky/vysel-vim-9-1-venovany-bramu-moolenaarovi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-04T07:00:49.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána verze 9.1 editoru Vim, která je věnována Bramu Moolenaarovi, hlavnímu vývojáři Vimu po více než 30 let, který před půl rokem zemřel. Bez jeho práce by projekt Vim neexistoval, uvádí zpráva o vydání.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
