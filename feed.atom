@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-14T20:10:03.019Z</id>
+    <id>urn:2024-01-14T22:09:05.056Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-14T20:10:03.019Z</updated>
+    <updated>2024-01-14T22:09:05.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Co a na kterých modelech se vývojářům Asahi Linuxu povedlo rozchodit a na čem aktuálně pracují]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/co-a-na-kterych-modelech-se-vyvojarum-asahi-linuxu-povedlo-rozchodit-a-na-cem-aktualne-pracuji</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/co-a-na-kterych-modelech-se-vyvojarum-asahi-linuxu-povedlo-rozchodit-a-na-cem-aktualne-pracuji"/>
+        <updated>2024-01-14T21:33:21.000Z</updated>
+        <summary type="html"><![CDATA[Před měsícem byl oficiálně vydán Fedora Asahi Remix. Eileen Yoon v nejnovějším příspěvku na blogu Asahi Linuxu rozebírá, co a na kterých modelech se vývojářům povedlo rozchodit a na čem aktuálně pracují.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Fix For The Severe Linux Performance Regression Spotted By Torvalds]]></title>
+        <id>https://www.phoronix.com/news/Torvalds-Perf-Regression-Fix</id>
+        <link href="https://www.phoronix.com/news/Torvalds-Perf-Regression-Fix"/>
+        <updated>2024-01-14T20:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Prior to Linus Torvalds' Internet and electricity being knocked out by a snow storm and thus impacting the Linux 6.8 merge window, his weekend was already in rough shape due to encountering a performance regression with new Linux 6.8 code that was causing his Linux kernel builds to be as twice as long as with previous kernels. An AMD Linux engineer was able to reproduce the regression and with upstream developers there is now a believed fix for this issue in the latest scheduler code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linuxové jádro 6.8 se zřejmě opozdí kvůli bouři v Linusově okolí]]></title>
+        <id>www.root.cz-actuality-45512</id>
+        <link href="https://www.root.cz/zpravicky/linuxove-jadro-6-8-se-zrejme-opozdi-kvuli-bouri-v-linusove-okoli/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-14T20:28:50.000Z</updated>
+        <summary type="html"><![CDATA[Hlavní autor linuxového jádra Linus Torvalds je bez přístupu k internetu a bez elektřiny z důvodu zimní bouře v Portlandu, kde žije. Nemůže tedy provádět review pull requestů a zbývá ještě spousta práce než bude verze 6.8 označena za připravenou. K tomu byla ještě také zjištěna výkonnostní regrese, která taky může vydání opozdit..]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Shimano)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tekken 8 announces Season 1 DLC and a returning Tekken 3 favorite]]></title>
         <id>https://www.destructoid.com/?p=449518</id>
@@ -2806,16 +2836,6 @@ The post GitHub Universe attendees treated to custom RP2040 Badgers appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesa 24.0 Feature Development Ends With Many OpenGL & Vulkan Driver Features]]></title>
-        <id>https://www.phoronix.com/news/Mesa-24.0-Feature-Ends</id>
-        <link href="https://www.phoronix.com/news/Mesa-24.0-Feature-Ends"/>
-        <updated>2024-01-11T11:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Mesa 24.0 feature development has concluded for this quarterly feature update to this set of open-source OpenGL and Vulkan drivers most notably for AMD Radeon and Intel graphics on Linux but also an increasing number of smaller drivers, like for Apple Silicon, the NVK / Nouveau drivers, Zink OpenGL-on-Vulkan, and more...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Digested is a bodycam horror game about being ssssstuck on an island with a giant snake]]></title>
         <id>https://www.rockpapershotgun.com/digested-is-a-bodycam-horror-game-about-being-ssssstuck-on-an-island-with-a-giant-snake?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/digested-is-a-bodycam-horror-game-about-being-ssssstuck-on-an-island-with-a-giant-snake?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -2835,16 +2855,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Ještě v minulém roce společnost OpenAI oznámila, že bude možné upravit a „vycvičit“ si vlastní klon ChatGPT. Podle informací z tiskové zprávy již uživatelé vytvořili více než tři miliony klonů, které teď mohou začít poskytovat ostatním za úplatu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: svatas)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Před jedenácti lety navždy odešel Aaron Swartz]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/pred-jedenacti-lety-navzdy-odesel-aaron-swartz</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/pred-jedenacti-lety-navzdy-odesel-aaron-swartz"/>
-        <updated>2024-01-11T03:24:17.000Z</updated>
-        <summary type="html"><![CDATA[Před jedenácti lety, ve svých šestadvaceti letech, navždy odešel Aaron Swartz, výjimečný americký hacker (programátor), spisovatel, archivář, politický organizátor a internetový aktivista. Aaron Swartz založil Demand Progress, spolupracoval na projektech Open Library, Internet Archive a Reddit. Ve svých čtrnácti se podílel na specifikaci RSS 1.0. Vytvořil webový framework web.py, pracoval na tor2web a rozšíření HTTPS Everywhere pro Chrome. Stál u zrodu licence Creative Commons. Aaronovi Swartzovi hrozilo 35 let vězení a pokuta milion dolarů za hromadné stahování vědeckých článků z webu JSTOR. Dle přátel i vlastních výpovědí několik posledních let trpěl depresemi. V pátek 11. ledna 2013 ukončil svůj život oběšením.]]></summary>
-        <author>
-            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -4002,16 +4012,6 @@ Final Fantasy XIV: Dawntrail is slated to launch later this summer. For more inf
         <summary type="html"><![CDATA[AMD used CES 2024 to announce their new Ryzen 8000G series desktop processors and even introducing some new Ryzen 5000 series SKUs. Here are the key details from today's AMD Ryzen announcements while awaiting hardware for Linux testing.]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nikon, Sony a Canon budou digitálně podepisovat fotografie kvůli AI podvrhům]]></title>
-        <id>www.root.cz-actuality-45488</id>
-        <link href="https://www.root.cz/zpravicky/nikon-sony-a-canon-budou-digitalne-podepisovat-fotografie-kvuli-ai-podvrhum/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-08T14:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Přední výrobci digitálních fotoaparátů Nikon, Sony a Canon se dohodli, že budou ve fotoaparátech digitálně podepisovat fotografie. Tím se zajistí jejich autentičnost a bude například složitější podvrhnout fotografie vytvořené umělou inteligencí, či záměrně fotografiemi manipulovat.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
