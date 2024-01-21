@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-21T02:28:16.448Z</id>
+    <id>urn:2024-01-21T04:12:06.136Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-21T02:28:16.448Z</updated>
+    <updated>2024-01-21T04:12:06.136Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The AMD Ryzen Threadripper 7980X Boasts Some Big AI Wins & More With Linux 6.7]]></title>
+        <id>https://www.phoronix.com/news/Threadripper-7980X-Perf-Boost</id>
+        <link href="https://www.phoronix.com/news/Threadripper-7980X-Perf-Boost"/>
+        <updated>2024-01-21T02:42:00.000Z</updated>
+        <summary type="html"><![CDATA[For those on a new AMD Ryzen Threadripper 7000 series system at least, the recently released Linux 6.7 stable kernel is looking mighty good at least for the Threadripper 7980X when testing on the newly-launched System76 Thelio Major...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fire Emblem Engage Artist Celebrates First Anniversary With New Artwork]]></title>
         <id>https://www.nintendolife.com/#article-161009</id>
@@ -3229,16 +3239,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Corey Plante</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.8 Will Let You Know When x86 32-bit Support Is Disabled]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.8-Warns-IA32-Disabled</id>
-        <link href="https://www.phoronix.com/news/Linux-6.8-Warns-IA32-Disabled"/>
-        <updated>2024-01-17T14:13:46.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.7 introduced the "ia32_emulation=" boot option for enabling/disabling support for x86 32-bit programs and the ability to execute 32-bit system calls. This is part of the effort of some Linux distributions working to restrict x86 32-bit user-space support where not needed in order to reduce the software attack surface while still having a boot-time option for those wanting to enable 32-bit support or to otherwise disable it if your kernel build keeps it enabled...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
