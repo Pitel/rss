@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-22T06:14:21.329Z</id>
+    <id>urn:2024-01-22T08:14:18.728Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-22T06:14:21.329Z</updated>
+    <updated>2024-01-22T08:14:18.728Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora 40 Looks To bpfman For Managing eBPF Programs]]></title>
+        <id>https://www.phoronix.com/news/Fedora-40-bpfman-eBPF-Manager</id>
+        <link href="https://www.phoronix.com/news/Fedora-40-bpfman-eBPF-Manager"/>
+        <updated>2024-01-22T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fedora 40 is looking at bpfman for serving as the default eBPF program manager to simplify the deployment and administration of said eBPF programs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bcachefs Squeezes Last Minute Feature Work Into Linux 6.8]]></title>
         <id>https://www.phoronix.com/news/Bcachefs-Round-Two-Linux-6.8</id>
@@ -2832,16 +2842,6 @@ The post 3D-printed SD card holder helps Raspberry Pi engineers keep track of th
         <link href="https://www.phoronix.com/news/Python-3.13-Alpha-3"/>
         <updated>2024-01-18T11:19:21.000Z</updated>
         <summary type="html"><![CDATA[The third alpha release of Python 3.13 is now available for testing as the developers continue work on removing the Global Interpreter Lock (GIL) and enhancing the overall performance of this scripting language...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V With Linux 6.8 Restores XIP Kernel Support]]></title>
-        <id>https://www.phoronix.com/news/RISC-V-Linux-6.8</id>
-        <link href="https://www.phoronix.com/news/RISC-V-Linux-6.8"/>
-        <updated>2024-01-18T11:07:20.000Z</updated>
-        <summary type="html"><![CDATA[With Linus Torvalds back to work, merged to mainline on Wednesday were the RISC-V architecture updates for the in-development Linux 6.8 kernel cycle...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
