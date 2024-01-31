@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-31T08:12:02.355Z</id>
+    <id>urn:2024-01-31T10:09:45.667Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-31T08:12:02.355Z</updated>
+    <updated>2024-01-31T10:09:45.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Plány Wine na rok 2024 ohledně Waylandu]]></title>
+        <id>www.root.cz-actuality-45572</id>
+        <link href="https://www.root.cz/zpravicky/plany-wine-na-rok-2024-ohledne-waylandu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-31T10:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Letos chtějí vývojáři Wine notně pokročit v podpoře běhu na Waylandu (což je poměrně nevyhnutelný krok. Počáteční Wayland ovladač přišel v rámci Wine 9.0 a jde o jakýsi nekompletní náhled na možnosti budoucí, kterému ale chybí ještě spousta funkcionality.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linuxový vrtulníček Ingenuity na Marsu dolétal]]></title>
+        <id>www.root.cz-actuality-45571</id>
+        <link href="https://www.root.cz/zpravicky/linuxovy-vrtulnicek-ingenuity-na-marsu-doletal/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-31T08:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Necelé tři roky aktivního provozu strávil na Marsu unikátní side-project inženýrů NASA, vrtulníček Ingenuity poháněný běžným Qualcomm Snapdragonem a Linuxem. Osudnou se mu stalo poškození jednoho listu vrtule při drsnějším posledním přistání, a tak NASA před několika oznámila konec jeho mise. Odteď už bude jen poskytovat statickou podporu vozítku Perseverance, v dosahu zhruba 1km spojení.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zranitelnosti v knihovně glibc dovolují získat lokálně rootovská oprávnění]]></title>
         <id>www.root.cz-actuality-45569</id>
@@ -4072,16 +4092,6 @@ In Roots, you take charge of a band of warriors fleeing an expanding purple smog
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chrome 121 s několika CSS a WebGPU novinkami]]></title>
-        <id>www.root.cz-actuality-45549</id>
-        <link href="https://www.root.cz/zpravicky/chrome-121-s-nekolika-css-a-webgpu-novinkami/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-24T16:45:19.000Z</updated>
-        <summary type="html"><![CDATA[Po Firefoxu 122 je na světě i Chrome / Chromium 121. Opravuje celkem 17 bezpečnostních chyb, včetně tří CVE s vysokým skóre. Mezi novinkami najdeme několik věcí v rámci podporovaných CSS prvků, EditContext API, AI pro uspořádání panelů, Remote Playback API pro elementy typu HTML media, aktualizaci API pravidel spekulací a vylepšení WebGPU.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Valheim's Ashlands update walks a "fine line between fun and frustration", according to new dev video]]></title>
         <id>https://www.rockpapershotgun.com/valheims-ashlands-update-walks-a-fine-line-between-fun-and-frustration-according-to-new-dev-video?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/valheims-ashlands-update-walks-a-fine-line-between-fun-and-frustration-according-to-new-dev-video?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -4228,16 +4238,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulkan ovladač Intel ANV dostává podporu AMD Radeon Memory Visualizeru]]></title>
-        <id>www.root.cz-actuality-45548</id>
-        <link href="https://www.root.cz/zpravicky/vulkan-ovladac-intel-anv-dostava-podporu-amd-radeon-memory-visualizeru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-24T10:43:05.000Z</updated>
-        <summary type="html"><![CDATA[Jelikož AMD vyvíjí vše pro Linux v rámci GPUOpen otevřené a univerzálně použitelné, může nyní Intel pro svůj Vulkan ovladač a tedy svá GPU nabídnout podporu využití nástroje Radeon Memory Visualizer. Intel ANV Mesa ovladač odteď umí poskytovat výpisy paměti, které jsou kompatibilní s Radeon Memory Visualizer.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
