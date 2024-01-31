@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-01-31T06:12:47.011Z</id>
+    <id>urn:2024-01-31T08:12:02.355Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-01-31T06:12:47.011Z</updated>
+    <updated>2024-01-31T08:12:02.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zranitelnosti v knihovně glibc dovolují získat lokálně rootovská oprávnění]]></title>
+        <id>www.root.cz-actuality-45569</id>
+        <link href="https://www.root.cz/zpravicky/zranitelnosti-v-knihovne-glibc-dovoluji-ziskat-lokalne-rootovska-opravneni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-31T07:30:20.000Z</updated>
+        <summary type="html"><![CDATA[Lokální útočníci mohou na počítačích se systémem Linux získat plný přístup roota s využitím nově odhalené bezpečnostní chyby v knihovně GNU C (alias glibc). Zranitelnost je založená na přetečení zásobníku na haldě a dostala označení CVE-2023–6246. Vyskytuje se ve funkci __vsyslog_internal(), kterou používají funkce syslog() a vsyslog() pro systémové logování.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Šestidenní kurz Hacking v praxi dotovaný Úřadem práce]]></title>
+        <id>www.root.cz-actuality-45568</id>
+        <link href="https://www.root.cz/zpravicky/sestidenni-kurz-hacking-v-praxi-dotovany-uradem-prace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-31T06:30:57.000Z</updated>
+        <summary type="html"><![CDATA[Přijďte prozkoumat tajuplný svět hackingu a množství jeho jednotlivých zákoutí. Úřad práce vám na to přispěje v rámci svého programu Jsem v kurzu až 82 % ceny školení. Více informací naleznete na stránkách Úřadu práce.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stahují se mračna nad ownCloudem?]]></title>
+        <id>www.root.cz-actuality-45567</id>
+        <link href="https://www.root.cz/zpravicky/stahuji-se-mracna-nad-owncloudem/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-01-31T06:23:56.000Z</updated>
+        <summary type="html"><![CDATA[Americký dodavatel software pro synchronizaci a sdílení souborů Kiteworks koncem roku oznámil akvizici společností ownCloud a Dracoon. Společnost Kiteworks zdůrazňuje, že zákazníci mají nyní přístup k její aplikaci pro sdílení souborů. Lze očekávat, že nebudou udržovat tři podobné produkty, ale zákazníci budou muset přejít na platformu amerických firem nebo se poohlédnout po jiném řešení.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: FlyingCarpet)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square Enix Has Absorbed 'I Am Setsuna' Developer Tokyo RPG Factory]]></title>
+        <id>https://www.nintendolife.com/#article-161439</id>
+        <link href="https://www.nintendolife.com/news/2024/01/square-enix-has-absorbed-i-am-setsuna-developer-tokyo-rpg-factory"/>
+        <updated>2024-01-31T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It worked on three RPG games for Switch.
+There's some industry news coming out of Japan today that Square Enix has absorbed the developer Tokyo RPG Factory.
+As part of this, Tokyo RPG Factory will be immediately dissolved and "will cease to exist as an individual entity" (thanks, Gematsu). Tokyo RPG Factory was a subsidiary of Square Enix and was founded by Yosuke Matsuda a decade ago.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3 bezpečnostní chyby v glibc (GNU C Library)]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/-3-bezpecnostni-chyby-v-glibc-gnu-c-library</id>
@@ -73,8 +116,8 @@ The post Minecraft unleashes The King of Monsters with Godzilla DLC appeared fir
         <link href="https://www.nintendolife.com/news/2024/01/ea-cant-comment-on-switch-successor-but-admits-improved-platforms-are-good-for-business"/>
         <updated>2024-01-31T01:55:00.000Z</updated>
         <summary type="html"><![CDATA[New hardware "is typically a plus".
-Electronic Arts has shown ongoing support for the Switch generation, so what can we expect from the third-party video game giant when the next iteration of Nintendo hardware arrives?
-When asked about the expected launch of Nintendo's next system during an earnings call, Electronic Arts' CEO Andrew Wilson admitted he couldn't "comment on anything that has not been announced", but was happy to welcome new hardware and improved power.
+Electronic Arts has shown ongoing support throughout the Switch generation, so what can we expect from the third-party video game giant when the next iteration of Nintendo hardware arrives?
+When asked about the expected launch of Nintendo's next system during an earnings call, Electronic Arts CEO Andrew Wilson admitted he couldn't "comment on anything that has not been announced", but was happy to welcome new hardware and improved power:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -126,7 +169,7 @@ To understand GDKP, we first need to discuss DKP. Grab some popcorn as I try to 
         <id>www.root.cz-text-16952</id>
         <link href="https://www.root.cz/clanky/vysla-retro-strategie-combined-arms-ea-otevira-dalsi-patenty/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2024-01-30T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Vyšlo první ostré vydání retro strategie Combined Arms, která kombinuje prvky Red Alert a Command & Conquer. Společnost Electronic Arts přidala zpřístupnila tvůrcům her několik dalších patentů.]]></summary>
+        <summary type="html"><![CDATA[Vyšlo první ostré vydání retro strategie Combined Arms, která kombinuje prvky Red Alert a Command & Conquer. Společnost Electronic Arts zpřístupnila tvůrcům her několik dalších patentů.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
         </author>
@@ -2207,19 +2250,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anniversary: Pokémon FireRed And LeafGreen Are 20 Years Old Today]]></title>
-        <id>https://www.nintendolife.com/#article-161352</id>
-        <link href="https://www.nintendolife.com/news/2024/01/anniversary-pokemon-firered-and-leafgreen-are-20-years-old-today"/>
-        <updated>2024-01-29T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Can you Diglett?
-Get your appropriate ageing GIF at the ready (Matt Damon in Saving Private Ryan, the Tenth Doctor, that Titanic one — the choice is yours) because we have to break it to you that Pokémon FireRed and LeafGreen are now 20 years old.
-While we let that sink in, let's run through some facts. Released on the Game Boy Advance on 29th January 2004 in Japan (the games would be released in September and October in North America and Europe respectively), FireRed and LeafGreen saw The Pokémon Company turn to the past for the first time in the series, remaking Gen I's Pokémon Red and Blue in a similar style that Trainers had seen in Gen III's Ruby and Sapphire two years prior.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[There are almost 20,000 Palworld breeding combos, and now players want to breed Pals with humans]]></title>
         <id>https://www.rockpapershotgun.com/there-are-almost-20000-palworld-breeding-combos-and-now-players-want-to-breed-pals-with-humans?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/there-are-almost-20000-palworld-breeding-combos-and-now-players-want-to-breed-pals-with-humans?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -4211,16 +4241,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OBS Studio konečně začlení podporu AV1 přes VA-API]]></title>
-        <id>www.root.cz-actuality-45547</id>
-        <link href="https://www.root.cz/zpravicky/obs-studio-konecne-zacleni-podporu-av1-pres-va-api/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-24T10:42:48.000Z</updated>
-        <summary type="html"><![CDATA[Požadavek na začlenění této nyní již postarší novinky v balíku FFmpeg se v projektu OBS Studio objevila loni v květnu. Nyní se tak stalo a podpora kódování videa do formátu AV1 přes rozhraní VA-API tak bude k dispozici s příštím vydáním OBS Studia.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spelling]]></title>
         <id>https://xkcd.com/2885/</id>
         <link href="https://xkcd.com/2885/"/>
@@ -4506,16 +4526,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vyšel Firefox 122 s náhledy obrázků v našeptávači výsledků vyhledávání]]></title>
-        <id>www.root.cz-actuality-45546</id>
-        <link href="https://www.root.cz/zpravicky/vysel-firefox-122-s-nahledy-obrazku-v-naseptavaci-vysledku-vyhledavani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-23T16:21:03.000Z</updated>
-        <summary type="html"><![CDATA[Náhledy obrázků a popis hesla jsou nově ve Firefoxu 122 zobrazovány u výsledků vyhledávání v našeptávači, jak to známe u prohlížečů na bázi projektu Chromium. Vylepšena je kvalita překladu stránek, neměli bychom už vídat to, kdy obsah stránky při překladu zmizí, nebo se rozbije příslušný widget.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Palworld update fixes blackscreen and controller bugs, but multiplayer issues persist on Game Pass]]></title>
         <id>https://www.rockpapershotgun.com/palworld-update-fixes-blackscreen-and-controller-bugs-but-multiplayer-issues-persist-on-game-pass?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/palworld-update-fixes-blackscreen-and-controller-bugs-but-multiplayer-issues-persist-on-game-pass?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -4705,16 +4715,6 @@ Watch Our Tekken 8 Review:
 The Heat system …]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vývojáři FreeBSD diskutují zavedení jazyka Rust]]></title>
-        <id>www.root.cz-actuality-45545</id>
-        <link href="https://www.root.cz/zpravicky/vyvojari-freebsd-diskutuji-zavedeni-jazyka-rust/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-23T12:52:42.000Z</updated>
-        <summary type="html"><![CDATA[V rámci BSD se vede diskuse, kterou Linux zažil před řadou měsíců. Diskutuje se o vpuštění Rustu do základu systému a o výhodnosti takové změny. Vývojář Alan Somers vše v sobotu sepsal do přehledu podle jednotlivých částí systému.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
