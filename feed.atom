@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-02T08:12:27.447Z</id>
+    <id>urn:2024-02-02T10:10:52.360Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-02T08:12:27.447Z</updated>
+    <updated>2024-02-02T10:10:52.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hororová hra zdarma na GOG.com: The Beast Inside]]></title>
+        <id>www.root.cz-actuality-45581</id>
+        <link href="https://www.root.cz/zpravicky/hororova-hra-zdarma-na-gog-com-the-beast-inside/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-02T10:02:25.000Z</updated>
+        <summary type="html"><![CDATA[Na serveru GOG.com můžete získat zdarma hororovou adventuru The Beast Inside. Příběh se odehrává v Bostonu v roce 1979. Adam je kryptoanalytik u CIA a stěhuje se se ženou Emmou na venkov.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimalizace AMD pro preferovaná jádra Zen2 a novější bude v jádře 6.9]]></title>
+        <id>www.root.cz-actuality-45580</id>
+        <link href="https://www.root.cz/zpravicky/optimalizace-amd-pro-preferovana-jadra-zen2-a-novejsi-bude-v-jadre-6-9/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-02T09:50:58.000Z</updated>
+        <summary type="html"><![CDATA[Procesory AMD Zen2 a novější dokáží hlásit přes ACPI CPPC přesné frekvence, které každé jednotlivé jádro dokáže dosáhnout. To je obzvlášť důležité u Zen4 a Zen4c (pomalejší a menší vyrovnávací paměť) jader. Doposud linuxový plánovač CPU této informace nevyužíval.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: Yep, Mario Vs. Donkey Kong Has Already Been Modded On Switch]]></title>
+        <id>https://www.nintendolife.com/#article-161585</id>
+        <link href="https://www.nintendolife.com/news/2024/02/random-yep-mario-vs-donkey-kong-has-already-been-modded-on-switch"/>
+        <updated>2024-02-02T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Super Mario 64 returns.
+Stone the crows, these folks don't hang around, do they?
+Mario vs. Donkey Kong has yet to be released on the Nintendo Switch (though we've not got long to wait; it launches on February 16th, 2024), but it looks like people are already looking to mod the game based solely on the public eShop demo.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persona 3 Reload Quest 19: Where to find a Jack Frost doll]]></title>
+        <id>https://www.destructoid.com/?p=455663</id>
+        <link href="https://www.destructoid.com/persona-3-reload-quest-19-where-to-find-jack-frost-doll/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=persona-3-reload-quest-19-where-to-find-jack-frost-doll"/>
+        <updated>2024-02-02T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Persona 3 Reload features many returning quests from prior iterations. As with those previous versions, the Velvet Room attendant Elizabeth doles these out at specific points in the game.
+
+
+One early game quest sees players tasked with getting her 3 Jack Frost Dolls. It's one of the breezier quests and can be completed within a few minutes of beginning it. 
+
+
+Screenshot by Destructoid
+
+
+How to find Jack Frost Dolls
+
+
+The fastest and easiest way of getting them is just outside the arcade in Paulownia Mall. In front of it is a claw machine and a notable prize inside are Jack Frost Dolls. Depending on the day players check out the claw machine the prize is a Ganesha Bank or one of these dolls based on the Shin Megami Tensei franchise mascot. From what I've seen, the claw machine has the Jack Frost Dolls on most days, so check back the next day if they're not the prize. 
+
+
+On the days they are, you can either play once for 200 yen or select another option to play until you win. Since 200 yen is a minuscule amount in Persona 3 Reload and real life, it's easiest to take an option to speed through the process even if it costs more money. 
+
+
+Give the Jack Frost Dolls to Elizabeth once you have them, and that's it! Even when in Persona 3's opening hours, the protagonist should have the funds to complete this quest. The reward is a pair of Jack's Gloves for Akihiko, an excellent weapon that far outweighs what you paid to get it.
+
+The post Persona 3 Reload Quest 19: Where to find a Jack Frost doll appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Andrea Gonzalez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rychlé hlavičkové soubory v jádře, rychlejší kompilace]]></title>
+        <id>www.root.cz-actuality-45579</id>
+        <link href="https://www.root.cz/zpravicky/rychle-hlavickove-soubory-v-jadre-rychlejsi-kompilace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-02T08:23:43.000Z</updated>
+        <summary type="html"><![CDATA[Hlavičkových souborů .h je v linuxovém jádře opravdu hodně a navíc mezi sebou mají složité závislosti (tzv. dependecy hell). Například obří jsou linux/mm.h, linux/fs.h a linux/sched.h. Jsou zahrnuty skoro do všeho a také v sobě mají zahrnuto téměř vše.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Torvalds Has It With "-Wstringop-overflow" On GCC Due To Kernel Breakage]]></title>
         <id>https://www.phoronix.com/news/Linux-Drop-GCC--Wstringop-of</id>
@@ -2389,19 +2462,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: 12 Exciting New Games Coming To Nintendo Switch In February 2024]]></title>
-        <id>https://www.nintendolife.com/#article-161484</id>
-        <link href="https://www.nintendolife.com/news/2024/01/video-12-exciting-new-games-coming-to-nintendo-switch-in-february-2024"/>
-        <updated>2024-01-31T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mario vs. Donkey Kong! Tomb Raider! Slave Zero X!
-The shortest month of the year is here... but it also might be one of the most-packed.
-February 2024 sees Nintendo's next big remake land on the Switch, but this is the month of the retro throwback, and the eShop (and our shelves) will be bursting with new titles to pick up and download.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Onion Games’ latest RPG Stray Children delayed from winter to just ‘2024’]]></title>
         <id>https://www.destructoid.com/?p=457207</id>
         <link href="https://www.destructoid.com/onion-games-latest-rpg-stray-children-delayed-from-winter-to-just-2024/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=onion-games-latest-rpg-stray-children-delayed-from-winter-to-just-2024"/>
@@ -2427,24 +2487,6 @@ Hopefully we'll find out a more concrete release date soon, but if it means a st
 The post Onion Games’ latest RPG Stray Children delayed from winter to just ‘2024’ appeared first on Destructoid.]]></summary>
         <author>
             <name>Joseph Luster</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PDP reveals new wireless Riffmaster guitar controller for Rock Band and Fortnite Festival]]></title>
-        <id>https://www.destructoid.com/?p=457181</id>
-        <link href="https://www.destructoid.com/pdp-reveals-new-wireless-riffmaster-guitar-controller-for-rock-band-and-fortnite-festival/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pdp-reveals-new-wireless-riffmaster-guitar-controller-for-rock-band-and-fortnite-festival"/>
-        <updated>2024-01-31T19:45:23.000Z</updated>
-        <summary type="html"><![CDATA[The last time we had a new plastic instrument hit the Rock Band scene, it was the Fender Jaguar controller that PDP launched alongside Rock Band Rivals in late 2016. With Harmonix's Fortnite Festival now on the music gaming scene, a new contender is headed toward the stage in the wireless Riffmaster from PDP.
-
-
-PDP announced its Riffmaster guitar controller today. It looks to be a generational leap for video game guitars (that's a weird sentence to write). No release date has been announced, but it's intended for both Rock Band and Fornite Festival through instrument support that's coming sometime this year.
-
-
-
-
-The Riffmaster is wireless and will have two versions, each compatible with either the Xbox One and Xbox Series X|S or PlayStation 4 and PlayStation 5. Just like the Jaguar, it com…]]></summary>
-        <author>
-            <name>Jeff Scott</name>
         </author>
     </entry>
     <entry>
@@ -4290,16 +4332,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uutils 0.0.24 nyní podporují sparc64, OpenBSD a Redox]]></title>
-        <id>www.root.cz-actuality-45555</id>
-        <link href="https://www.root.cz/zpravicky/uutils-0-0-24-nyni-podporuji-sparc64-openbsd-a-redox/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-26T14:12:23.000Z</updated>
-        <summary type="html"><![CDATA[Dnes vyšly nástroje Uutils 0.0.24, což je náhrada za GNU Coreutils v Rustu. Už jsme tu o nich psali. Mezi novinky patří opět více úspěšných testů. Podle vývojářů se vydání verze 1.0 blíží.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twang! Horizon Forbidden West on PC keeps PS5 Dualsense support and adaptive triggers]]></title>
         <id>https://www.rockpapershotgun.com/twang-horizon-forbidden-west-on-pc-keeps-ps5-dualsense-support-and-adaptive-triggers?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/twang-horizon-forbidden-west-on-pc-keeps-ps5-dualsense-support-and-adaptive-triggers?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -4319,16 +4351,6 @@ Read more]]></summary>
 However, Blizzard didn't really touch on why the game it had just announced exactly two years prior was canceled. Bloomberg's new report details development struggles around the game's engine, which was prototyped using Epic Games' Unreal Engine before "Blizzard executives decided to switch…]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do jádra navržen ovladač Windows NT Sync kvůli hrám]]></title>
-        <id>www.root.cz-actuality-45554</id>
-        <link href="https://www.root.cz/zpravicky/do-jadra-navrzen-ovladac-windows-nt-sync-kvuli-hram/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-26T12:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Programy a hry ve Windows používají NT synchronization API. Wine toto implementuje přes RPC. Pokud však program nebo hra přistupuje k tomuto rozhraní často, RPC se stává brzdou.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4389,16 +4411,6 @@ Read more]]></summary>
 The post Our third (ish) birthday is coming up! appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Matt Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraform: spravujte infrastrukturu jako kód (školení)]]></title>
-        <id>www.root.cz-actuality-41046</id>
-        <link href="https://www.root.cz/zpravicky/terraform-spravujte-infrastrukturu-jako-kod-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-26T09:28:05.000Z</updated>
-        <summary type="html"><![CDATA[Terraform vám umožní spravovat infrastrukturu jako kód, to znamená verzovanou v Gitu, přidávání zdrojů pomocí merge (pull) requestů a mnoho dalších výhod. Ukážeme si, jak Terraform pracuje, jak jej používat v týmu a jak jím spravovat infrastrukturu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
