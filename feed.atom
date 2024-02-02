@@ -1,10 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-02T06:12:40.197Z</id>
+    <id>urn:2024-02-02T08:12:27.447Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-02T06:12:40.197Z</updated>
+    <updated>2024-02-02T08:12:27.447Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Torvalds Has It With "-Wstringop-overflow" On GCC Due To Kernel Breakage]]></title>
+        <id>https://www.phoronix.com/news/Linux-Drop-GCC--Wstringop-of</id>
+        <link href="https://www.phoronix.com/news/Linux-Drop-GCC--Wstringop-of"/>
+        <updated>2024-02-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the new features for Linux 6.8 that was merged late was enabling the -Wstringop-overflow compiler option to warn about possible buffer overflows in cases where the compiler can detect such possible overflows at compile-time. While it's nice in theory, issues on GCC has led Linus Torvalds to disabling this compiler option as of now Linux 6.8...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can you control your party members in Persona 3 Reload?]]></title>
+        <id>https://www.destructoid.com/?p=452624</id>
+        <link href="https://www.destructoid.com/can-you-control-your-party-members-in-persona-3-reload/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=can-you-control-your-party-members-in-persona-3-reload"/>
+        <updated>2024-02-02T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A staple of turn-based RPGs is being able to control your party members. When a playable character's turn comes up, the player chooses what they do based on their skills. This might seem unnecessary to explain, but the original Persona 3 was an exception to this rule. 
+
+
+Assuming Direct Control
+
+
+In Persona 3 Reload, you can control your entire party or allow them to make their own decisions. 
+
+
+Screenshot by Destructoid
+
+
+Although previous installments allowed direct control, the franchise's soft reboot instead relied on giving CPU-controlled team members basic tactics. Direct control over party members were introduced again in Persona 4 and then Persona 3 Portable on the PSP. With a remake of the base Persona 3 called Persona 3 Reload coming out, this raises the unusual question of whether it allows players direct control over party members. 
+
+
+Thankfully, this is the case, being a nice carryover from the original's sequels. Automating party members is still possible, but most players will likely be most comfortable with direct control. 
+
+
+So, what else is new? 
+
+
+Screenshot by Destructoid
+
+
+There's quite a bit different, but it's a toss-up of what the remake is changing from the original. While direct party member control and some gameplay features from Persona 5 carry over alongside some new mechanics, Persona 3 Reload leaves some head-scratching details alone. 
+
+
+Most content from Persona 3 re-releases is absent from the remake. This is largely swathes of story content including the female protagonist route and The Answer epilogue. As far as combat is concerned, it's more in line with later Persona titles, offering a snappiness that many turn-based titles don't share. 
+
+The post Can you control your party members in Persona 3 Reload? appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Andrea Gonzalez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klasifikace Elektrokardiogramu (EKG) – díl druhý]]></title>
+        <id>www.root.cz-text-16994</id>
+        <link href="https://www.root.cz/clanky/klasifikace-elektrokardiogramu-ekg-dil-druhy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-02T06:46:17.000Z</updated>
+        <summary type="html"><![CDATA[Nejdříve se budu zabývat modely pro každou vstupní sadu (X, Y a S) samostatně. V případě datové sady X to budou plně propojené neuronové vrstvy. U datové sady Y, jak již vyplývá z podstaty EKG křivek, to budou 1D konvoluční sítě.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Every Persona 3 Reload Classroom And Exam Answer]]></title>
         <id>1851207017</id>
@@ -63,6 +122,19 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dragon Quest Monsters: The Dark Prince Has Already Surpassed One Million Sales]]></title>
+        <id>https://www.nintendolife.com/#article-160895</id>
+        <link href="https://www.nintendolife.com/news/2024/02/dragon-quest-monsters-the-dark-prince-has-already-surpassed-one-million-sales"/>
+        <updated>2024-02-02T02:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Square Enix celebrates with some free goodies.
+Update #2 :
+The Mighty Meat Platter celebrating the one million sales of Dragon Quest Monsters: The Dark Prince is now available:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["Capcom And SNK" Inspired Arcade Fighter Blazing Strike Locks In Summer 2024 Switch Release]]></title>
         <id>https://www.nintendolife.com/#article-161574</id>
         <link href="https://www.nintendolife.com/news/2024/02/capcom-and-snk-inspired-arcade-fighter-blazing-strike-locks-in-summer-2024-switch-release"/>
@@ -96,6 +168,26 @@ It was previously announced for the Nintendo Switch last year and is scheduled t
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU libmicrohttpd 1.0.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/gnu-libmicrohttpd-1.0.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/gnu-libmicrohttpd-1.0.0"/>
+        <updated>2024-02-02T00:14:47.000Z</updated>
+        <summary type="html"><![CDATA[Knihovna GNU libmicrohttpd dospěla do verze 1.0.0. Jedná se o knihovnu v C určenou pro spouštění HTTP serveru jako součásti jiné aplikace.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 24.0.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/mesa-24.0.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/mesa-24.0.0"/>
+        <updated>2024-02-02T00:13:37.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána grafická knihovna Mesa 24.0.0, s podporou API OpenGL 4.6 a Vulkan 1.3. Zatím jde o vývojovou verzi, stabilní bude 24.0.1.]]></summary>
+        <author>
+            <name>Fluttershy, yay!</name>
         </author>
     </entry>
     <entry>
@@ -135,7 +227,7 @@ Head over to Game Informer's YouTube channel for more previews, reviews, and 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LibreOffice 24.2: jiné číslovnání a mnoho skvělých novinek]]></title>
+        <title type="html"><![CDATA[LibreOffice 24.2: jiné číslování a mnoho skvělých novinek]]></title>
         <id>www.root.cz-text-16992</id>
         <link href="https://www.root.cz/clanky/libreoffice-24-2-jine-cislovnani-a-mnoho-skvelych-novinek/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2024-02-01T23:00:00.000Z</updated>
@@ -2410,19 +2502,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talking Point: Is Knowing A Game's Ending Really That Bad?]]></title>
-        <id>https://www.nintendolife.com/#article-161469</id>
-        <link href="https://www.nintendolife.com/features/talking-point-is-knowing-a-games-ending-really-that-bad"/>
-        <updated>2024-01-31T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Reverse card.
-Today, 31st January, is National Backwards Day in North America (no, we didn't know it was a thing either). It's a day for doing things with a 180° twist, a quick Google told us, whether that's wearing a shirt the wrong way round like the kids do — maybe? — or moonwalking over to the kettle instead of looking where you are going.
-All of the day's festive cheer has got us thinking about playing games in a different direction. We’re not talking about those skilled individuals out there who can literally play a game backwards (we see you and your Z-Targeting leaps, Ocarina of Time speedrunners), but rather those who start the narrative at the end. The spoiler searchers.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[35-Way Linux GPU Graphics Comparison, Initial NVIDIA RTX 40 SUPER Linux Benchmarks]]></title>
         <id>https://www.phoronix.com/review/nvidia-rtx-40-super-linux</id>
         <link href="https://www.phoronix.com/review/nvidia-rtx-40-super-linux"/>
@@ -2430,32 +2509,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Here's a fresh look at the AMD Radeon versus NVIDIA GeForce Linux graphics/gaming performance across a variety of workloads as well as our first look at the GeForce RTX 4070 series and RTX 4080 SUPER performance. With recently receiving the rest of the GeForce RTX 40 series line-up currently released, we're now able to share a comprehensive look at how the NVIDIA GeForce RTX 40 series versus AMD Radeon RX 7000 series performance is under Linux.]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Square Enix absorbs I am Setsuna developer Tokyo RPG Factory]]></title>
-        <id>https://www.destructoid.com/?p=457193</id>
-        <link href="https://www.destructoid.com/square-enix-absorbs-i-am-setunsa-developer-tokyo-rpg-factory/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=square-enix-absorbs-i-am-setunsa-developer-tokyo-rpg-factory"/>
-        <updated>2024-01-31T18:51:33.000Z</updated>
-        <summary type="html"><![CDATA[It appears that developer Tokyo RPG Factory will be merging into Square Enix. According to Gematsu, as part of an absorption-type merger, Square Enix will inherit all assets and liabilities of Tokyo RPG Factory and the subsidiary will be dissolved and cease to exist. The company was established back in June 2015 as a Square Enix subsidiary to develop I am Setsuna and would go on to also develop Lost Sphear and Oninaki.
-
-
-
-
-JRPG Developer since 2015
-
-
-Tokyo RPG Factory released all three of its titles in a roughly three-year span between 2016-2019. That means it's been almost five years since we've heard or seen anything from Tokyo RPG Factory, which is a big difference compared to its nearly annual releases.
-
-
-All three releases were highly anticipated for their classic JRPG style, but never quite hit the level of success the company surely was hoping for. I am Setuna currently has a 7.4/10 on Metacritic while Lost Sphear and Oninaki are both just under 7/10 at 6.8 and 6.9 respectively. Destructoid's Chris "The Legend" Carter gave Oninaki a 6.5/10 back in 2019 stating "Maybe Tokyo RPG Factory should look at changing their formula and scaling down to tighter 10 hour adventures."
-
-
-Unfortunately, it looks like we might not get to see that possibility.
-
-The post Square Enix absorbs I am Setsuna developer Tokyo RPG Factory appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Steven Mills</name>
         </author>
     </entry>
     <entry>
@@ -2653,16 +2706,6 @@ Palworld has become the hottest (and most controversial) game of the year, and i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ONLYOFFICE Docs a Desktop Editors 8.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/onlyoffice-docs-a-desktop-editors-8.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/onlyoffice-docs-a-desktop-editors-8.0"/>
-        <updated>2024-01-31T15:55:53.000Z</updated>
-        <summary type="html"><![CDATA[Svobodný kancelářský balík ONLYOFFICE (Wikipedie) byl vydán ve verzi 8.0. Jak online Docs, tak i offline Desktop Editors. Přehled novinek také na YouTube.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Persona 3 Reload Leaks Reveal The Answer May Be Coming After All]]></title>
         <id>1851211962</id>
         <link href="https://kotaku.com/persona-3-reload-leaked-the-answer-dlc-1851211962"/>
@@ -2743,16 +2786,6 @@ The thrill of adventure in a boundless playground tickles the imagination, somet
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASCII Theater]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ascii-theater</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ascii-theater"/>
-        <updated>2024-01-31T14:22:23.000Z</updated>
-        <summary type="html"><![CDATA[Umělecká skupina MSCHF (Wikipedie) představila projekt ASCII Theater aneb streamování filmů přes SSH. Dnes je na programu Barbie.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3520,16 +3553,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ChipStar 1.1 Released For Compiling & Running HIP/CUDA On SPIR-V]]></title>
-        <id>https://www.phoronix.com/news/ChipStar-1.1-HIP-CUDA-SPIR-V</id>
-        <link href="https://www.phoronix.com/news/ChipStar-1.1-HIP-CUDA-SPIR-V"/>
-        <updated>2024-01-30T11:38:10.000Z</updated>
-        <summary type="html"><![CDATA[ChipStar 1.1 was released this past week as one of the open-source projects to help in porting HIP and CUDA applications to support the industry-standard SPIR-V. ChipStar acts to get HIP/CUDA codes working on SPIR-V with OpenCL or Intel's oneAPI Level Zero...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nebulous: Fleet Command is the hardcore version of Homeworld I didn't know I wanted]]></title>
         <id>https://www.rockpapershotgun.com/nebulous-fleet-command-is-the-hardcore-version-of-homeworld-i-didnt-know-i-wanted?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/nebulous-fleet-command-is-the-hardcore-version-of-homeworld-i-didnt-know-i-wanted?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -4017,16 +4040,6 @@ Dungeonborne seems likely to satisfy. It's a "PvPvE extraction dungeon crawler" 
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Srovnání Zen1 vs Zen4, IPU6 kamerky Intel konečně otevřeně]]></title>
-        <id>www.root.cz-text-16986</id>
-        <link href="https://www.root.cz/clanky/srovnani-zen1-vs-zen4-ipu6-kamerky-intel-konecne-otevrene/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-01-27T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Beta verze Steamu přináší VA-API DRM dekódování pro Remote Play, Red Hat upravuje cenovou politiku za RHEL v cloudu, Wine 9.1 s lepší detekcí Dvořákova rozložení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
