@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-08T06:13:20.684Z</id>
+    <id>urn:2024-02-08T08:12:19.603Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-08T06:13:20.684Z</updated>
+    <updated>2024-02-08T08:12:19.603Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft potvrdil sudo ve Windows, utilita bude mít otevřený kód]]></title>
+        <id>www.root.cz-actuality-45600</id>
+        <link href="https://www.root.cz/zpravicky/microsoft-potvrdil-sudo-ve-windows-utilita-bude-mit-otevreny-kod/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-08T07:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Nedávno se začaly objevovat informace o tom, že Microsoft do Windows připravuje vlastní variantu utility sudo. Stejně jako na jiných platformách slouží i ve Windows ke spouštění příkazů s navýšenými uživatelskými právy. Použití je potřeba povolit v nastavení nebo v privilegované příkazové řádce použít příkaz sudo config --enable. Poté už nástroj funguje obvyklým způsobem.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zavaděč Shim obsahuje kritickou chybu umožňující vzdálené spuštění kódu]]></title>
+        <id>www.root.cz-actuality-45599</id>
+        <link href="https://www.root.cz/zpravicky/zavadec-shim-obsahuje-kritickou-chybu-umoznujici-vzdalene-spusteni-kodu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-08T07:05:29.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři zavaděče Shim se při vydání verze 15.8 zaměřili na šest zranitelností. Nejzávažnější z nich nese označení CVE-2023–40547 (skóre CVSS: 9,8) a může za určitých okolností vést ke vzdálenému spuštění kódu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's Xbox Layoffs Hit Crash Bandicoot And Spyro Developer 'Toys For Bob']]></title>
+        <id>https://www.nintendolife.com/#article-161884</id>
+        <link href="https://www.nintendolife.com/news/2024/02/microsofts-xbox-layoffs-hit-crash-bandicoot-and-spyro-developer-toys-for-bob"/>
+        <updated>2024-02-08T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It reportedly includes an office closure.
+Just weeks ago, Xbox's owner Microsoft announced mass layoffs, and now in an update, it seems the Crash Bandicoot, Spyro and Skylanders developer Toys for Bob has been hit.
+According to the San Francisco Chronicle, 86 workers will be affected at the developer's office in Novato, California. A state filing has also revealed the facility is closing.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Super Mario Maker 2 Updated To Version 3.0.3, Here Are The Full Patch Notes]]></title>
         <id>https://www.nintendolife.com/#article-161808</id>
@@ -12,7 +45,7 @@
         <updated>2024-02-08T04:55:00.000Z</updated>
         <summary type="html"><![CDATA[Available now.
 Update :
-Following yesterday's update to Super Mario Maker 2 on the Switch, dataminer 'OatmealDome' has shared a post on social media platform X, noting how there was "no new content" added behind the scenes. The sole adjustment has been to the game's code, although it's not clear what exactly has been changed within it.
+Following yesterday's update to Super Mario Maker 2 on the Switch, dataminer 'OatmealDome' has now shared a post on social media platform X, noting how there was "no new content" added behind the scenes in the latest update. The sole adjustment has been to the game's code, although it's not clear what exactly has been changed here.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -34,7 +67,7 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2024/02/evo-would-happily-welcome-back-smash-bros-tournaments"/>
         <updated>2024-02-08T03:00:00.000Z</updated>
         <summary type="html"><![CDATA["Always happy to host Smash".
-The fighting game championship series EVO this week revealed its roster for 2024 and it features the usual mix of Tekken, Mortal Kombat, Street Fighter, and various other notable fighting series. Unfortunately, one popular all-star series that's been missing for a few years now is Smash Bros. by Nintendo.
+The fighting game championship series EVO this week revealed its roster for 2024 and it features the usual mix of Tekken, Mortal Kombat, Street Fighter and various other prominent fighting series. Unfortunately, one popular all-star series that's been missing for a few years now is Smash Bros. by Nintendo.
 Nintendo withdrew from EVO in 2022 after Sony jointly acquired the event in 2021, and while EVO issued its statement at the time about how "saddened" it was by Nintendo's decision, it's apparently still happy to welcome it back with open arms.
 Read the full article on nintendolife.com]]></summary>
         <author>
@@ -47,21 +80,21 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2024/02/switch-online-racer-f-zero-99-receives-another-update-version-1-2-1-heres-whats-included"/>
         <updated>2024-02-08T02:00:00.000Z</updated>
         <summary type="html"><![CDATA[A small patch after last month's big update.
-After a sizable update towards the end of last month, Nintendo has rolled out yet another update for its Switch Online racer F-Zero 99.
-This one is much smaller and bumps the game up to Version 1.2.1. It comes with a single but very helpful bug fix. If we find out anything else about this latest update that's gone behind the scenes, we'll let you know. Here are the patch notes in full:
+After a sizable update towards the end of last month, Nintendo has rolled out yet another one for its Switch Online racer F-Zero 99.
+This one, which is admittedly more of a patch, bumps the game up to Version 1.2.1. It comes with a single but significant fix - resolving an issue that could send players off track when exiting the Skyway. If we find out anything else about this latest update that's gone behind the scenes, we'll let you know.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Disney & Epic Creating New Entertainment Universe Connected With Fortnite]]></title>
+        <title type="html"><![CDATA[Disney Invests $1.5bn In Epic To Create New Universe Connected With Fortnite]]></title>
         <id>https://www.nintendolife.com/#article-161874</id>
-        <link href="https://www.nintendolife.com/news/2024/02/disney-and-epic-creating-new-entertainment-universe-connected-with-fortnite"/>
+        <link href="https://www.nintendolife.com/news/2024/02/disney-invests-usd1-5bn-in-epic-to-create-new-universe-connected-with-fortnite"/>
         <updated>2024-02-08T00:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Disney has also invested $1.5 billion in Epic Games.
-Disney has announced it's teaming up with Epic Games to create an "expansive and open games and entertainment universe" connected to the popular free-to-play title Fortnite. As part of this Disney is also investing $1.5 billion to acquire an equity stake in Epic.
-This new universe, powered by Unreal Engine, will offer a "multitude of opportunities for consumers to play, watch, shop and engage with content, characters and stories from Disney, Pixar, Marvel, Star Wars, Avatar" and more.
+        <summary type="html"><![CDATA[It's Disney's "biggest entry ever" in games.
+Disney has announced it's teaming up with developer and publisher Epic to create a "games and entertainment universe" connected to the popular free-to-play title Fortnite. As part of this Disney is also investing $1.5 billion to acquire an equity stake in Epic Games.
+This new game universe and "multiyear project" (powered by Unreal Engine) will offer a "multitude of opportunities" for fans to play, watch, shop and engage with content, characters, and stories from Disney, Pixar, Marvel, Star Wars, Avatar" and other IP.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2266,20 +2299,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Best-Selling Nintendo Switch Games]]></title>
-        <id>https://www.nintendolife.com/#article-149107</id>
-        <link href="https://www.nintendolife.com/guides/best-selling-nintendo-switch-games"/>
-        <updated>2024-02-06T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Every first-party game that has sold over one million copies.
-Updated with sales figures from Nintendo's Q3 FY24 financial report - enjoy!
-
-At the time of writing, the Switch has the highest number of software sales of any Nintendo console, ever, with over one billion games sold on the platform since March 2017. What's more, its lead is so commanding that it will likely hold this pole position for a good few years to come (unless there is a sudden surge in sales for DS games around the corner that nobody saw coming).
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon Proposes Pkernfs For Better Handling Hypervisor Live Updates]]></title>
         <id>https://www.phoronix.com/news/Amazon-AWS-RFC-Pkernfs</id>
         <link href="https://www.phoronix.com/news/Amazon-AWS-RFC-Pkernfs"/>
@@ -4131,16 +4150,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jak funguje Bitcoin? Nový podcast portálu Měšec.cz vysvětluje vše kolem něj i laikům]]></title>
-        <id>www.root.cz-actuality-45577</id>
-        <link href="https://www.root.cz/zpravicky/jak-funguje-bitcoin-novy-podcast-vysvetluje-vse-kolem-nej-i-laikum/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-02-01T10:01:44.000Z</updated>
-        <summary type="html"><![CDATA[Bitcoin je zatracovaný jako nebezpečný volatilní výstřelek s nejistou budoucností, ale i obdivovaný pro pohádkové zhodnocení, které v minulosti svým držitelům přinesl, když byli „ve správný čas na správném místě“ (rozuměj: když před lety pořídili bitcoiny za zlomek jeho současné ceny).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What did computer engineering students at Cornell make with RP2040 last term?]]></title>
         <id>https://www.raspberrypi.com/?p=105342</id>
         <link href="https://www.raspberrypi.com/news/what-did-computer-engineering-students-at-cornell-make-with-rp2040-last-term/"/>
@@ -4160,16 +4169,6 @@ The post What did computer engineering students at Cornell make with RP2040 last
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreOffice 24.2 mění číslování verzí podle roku a měsíce]]></title>
-        <id>www.root.cz-actuality-45576</id>
-        <link href="https://www.root.cz/zpravicky/libreoffice-24-2-meni-cislovani-verzi-podle-roku-a-mesice/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-02-01T07:43:03.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři uvolnili LibreOffice 24.2 Community, což je první verze tohoto kancelářského balíku s novým číslováním. Předchozí verze nesla označení 7.6, ale nyní se kvůli přehlednosti přechází na verzování podle roku a měsíce vydání.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
