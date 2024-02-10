@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-10T10:09:04.407Z</id>
+    <id>urn:2024-02-10T12:16:02.451Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-10T10:09:04.407Z</updated>
+    <updated>2024-02-10T12:16:02.451Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Hardware Support Increasingly In Good Shape On The Mainline Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024"/>
+        <updated>2024-02-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of work by Qualcomm and Linaro engineers, the Qualcomm SoC support on the mainline Linux kernel has finally matured enough that new hardware support tends to come rather quickly and be well supported. With the forthcoming Linux 6.8 kernel the new Snapdragon 8 Gen 3 can boot on the mainline kernel, the Snapdragon-powered ThinkPad X13s has been popular with Linux developers thanks to the upstream support, and other Qualcomm-powered devices tending to play more nicely with upstream Linux these days rather than having to resort to vendor kernel builds...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xfce 4.20 Aiming For Usable Wayland Support While Maintaining X11 Compatibility]]></title>
+        <id>https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap</id>
+        <link href="https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap"/>
+        <updated>2024-02-10T11:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Xfce developers have updated their Wayland roadmap this week to reflect their latest plans around the Xfce 4.20 release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Refresh Rate "VRR" Support Comes Down To The Wire For GNOME 46]]></title>
+        <id>https://www.phoronix.com/news/GNOME-VRR-February</id>
+        <link href="https://www.phoronix.com/news/GNOME-VRR-February"/>
+        <updated>2024-02-10T11:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the UI, feature, and API/ABI freezes for the GNOME 46 desktop ahead of its stable release on 16 March. One feature coming down to the wire that looks like it may not make it -- unfortunately -- is the Variable Refresh Rate (VRR) integration...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Weeks To Go Until The KDE Plasma 6.0 Release]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6-Three-Weeks</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6-Three-Weeks"/>
+        <updated>2024-02-10T10:36:33.000Z</updated>
+        <summary type="html"><![CDATA[There is just under three weeks to go until the much anticipated KDE Plasma 6 debut...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (February 10th)]]></title>
         <id>https://www.nintendolife.com/#article-161976</id>
@@ -27,6 +67,16 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Adds Support For New "Ampere1B" Third-Gen Cores From Ampere Computing]]></title>
+        <id>https://www.phoronix.com/news/LLVM-Ampere1B</id>
+        <link href="https://www.phoronix.com/news/LLVM-Ampere1B"/>
+        <updated>2024-02-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While we are still waiting to get our hands on AmpereOne hardware for Ampere Computing's in-house design Arm cores with up to 192 cores, Friday night Git activity to LLVM has revealed an "Ampere1B" core...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -53,16 +103,6 @@ In case you missed it the first time, this spirit event is now officially underw
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM Adds Support For New "Ampere1B" Third-Gen Cores From Ampere Computing]]></title>
-        <id>https://www.phoronix.com/news/LLVM-Ampere1B</id>
-        <link href="https://www.phoronix.com/news/LLVM-Ampere1B"/>
-        <updated>2024-02-10T01:11:45.000Z</updated>
-        <summary type="html"><![CDATA[While we are still waiting to get our hands on AmpereOne hardware for Ampere Computing's in-house design Arm cores with up to 192 cores, Friday night Git activity to LLVM has revealed an "Ampere1B" core...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3066,32 +3106,12 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Posts Linux Graphics Driver Patches For New IP Blocks - Presumably For RDNA4]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-New-IP-RDNA4-February</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-New-IP-RDNA4-February"/>
-        <updated>2024-02-07T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AMD engineers on Monday posted a few new patch series for enabling some updated IP (intellectual property) blocks within their open-source AMDGPU Linux kernel graphics driver. This new IP is presumably part of the ongoing hardware enablement work for their next-generation RDNA4 graphics...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Log Cabin]]></title>
         <id>https://xkcd.com/2891/</id>
         <link href="https://xkcd.com/2891/"/>
         <updated>2024-02-07T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arrow Lake OpenGL & Vulkan Driver Support Merged For Mesa 24.1]]></title>
-        <id>https://www.phoronix.com/news/Intel-Arrow-Lake-Mesa-24.1</id>
-        <link href="https://www.phoronix.com/news/Intel-Arrow-Lake-Mesa-24.1"/>
-        <updated>2024-02-07T00:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Intel Arrow Lake platform support has been merged to Mesa 24.1 for providing the ANV Vulkan and Iris Gallium3D (OpenGL) open-source drivers with support for the next-generation Intel Core integrated graphics...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3396,16 +3416,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 LTS Leaning Toward Low-Latency Kernel Optimizations By Default]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-2404-Low-Latency-Generic</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-2404-Low-Latency-Generic"/>
-        <updated>2024-02-06T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last month it was noted on Phoronix that Canonical's kernel team is looking at folding their low-latency kernel optimizations into their generic kernel builds. Right now Ubuntu maintains a separate "lowlatency" kernel flavor with Kconfig tweaks in the name of low-latency responsiveness as an alternative to their "generic" kernel default, but for Ubuntu 24.04 LTS it continues looking like they'll move forward with this change of incorporating the changes into their default kernel build...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Skull And Bones is Ubisoft's "biggest open world" and cutting the campaign was vital, says former creative director]]></title>
         <id>https://www.rockpapershotgun.com/skull-and-bones-is-ubisofts-biggest-open-world-and-cutting-the-campaign-was-vital-says-former-creative-director?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/skull-and-bones-is-ubisofts-biggest-open-world-and-cutting-the-campaign-was-vital-says-former-creative-director?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -3461,16 +3471,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Steve Hogarty</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Greenfield In-Browser Wayland Compositor Is Fast Enough For Gaming]]></title>
-        <id>https://www.phoronix.com/news/Greenfield-Compositor-2024</id>
-        <link href="https://www.phoronix.com/news/Greenfield-Compositor-2024"/>
-        <updated>2024-02-06T16:21:34.000Z</updated>
-        <summary type="html"><![CDATA[While there are a lot of Wayland compositors out there that aren't too different from each other in terms of features, one of the more unique ones is Greenfield. The Greenfield Wayland compositor has been out there for a few years now as an in-browser HTML5-based solution that is continuing to prove itself capable and even fast enough for handling Linux gaming...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
