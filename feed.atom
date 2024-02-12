@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-12T12:17:23.127Z</id>
+    <id>urn:2024-02-12T14:09:08.675Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-12T12:17:23.127Z</updated>
+    <updated>2024-02-12T14:09:08.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Random: Make Valentine's Day Extra Sweet With A Downloadable Princess Peach: Showtime! Card]]></title>
+        <id>https://www.nintendolife.com/#article-162038</id>
+        <link href="https://www.nintendolife.com/news/2024/02/random-make-valentines-day-extra-sweet-with-a-downloadable-princess-peach-showtime-card"/>
+        <updated>2024-02-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[PDF Peach.
+Valentine's Day is right around the corner. All of you romantic lot already knew that, of course, but if (and we're being strictly hypothetical here) the big day has somehow slipped your mind, you might be on the lookout for the perfect last-minute card.
+Well, look no further! As is becoming something of a yearly tradition, Nintendo is spreading the love with a range of downloadable cards this time centred around the upcoming Princess Peach: Showtime! — who knew marketing could be so romantic?
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Quietly Funded A Drop-In CUDA Implementation Built On ROCm: It's Now Open-Source]]></title>
+        <id>https://www.phoronix.com/review/radeon-cuda-zluda</id>
+        <link href="https://www.phoronix.com/review/radeon-cuda-zluda"/>
+        <updated>2024-02-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While there have been efforts by AMD over the years to make it easier to port codebases targeting NVIDIA's CUDA API to run atop HIP/ROCm, it still requires work on the part of developers. The tooling has improved such as with HIPIFY to help in auto-generating but it isn't any simple, instant, and guaranteed solution -- especially if striving for optimal performance. Over the past two years AMD has quietly been funding an effort though to bring binary compatibility so that many NVIDIA CUDA applications could run atop the AMD ROCm stack at the library level -- a drop-in replacement without the need to adapt source code. In practice for many real-world workloads, it's a solution for end-users to run CUDA-enabled software without any developer intervention. Here is more information on this "skunkworks" project that is now available as open-source along with some of my own testing and performance benchmarks of this CUDA implementation built for Radeon GPUs.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom is now playable on an audio spectrogram, because why not?]]></title>
+        <id>https://www.destructoid.com/?p=461965</id>
+        <link href="https://www.destructoid.com/doom-is-now-playable-on-an-audio-spectrogram-because-why-not/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=doom-is-now-playable-on-an-audio-spectrogram-because-why-not"/>
+        <updated>2024-02-12T13:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Oh, Doom. Is there any method by which you can't be ported? Evidently not, it seems. The latest in a near-endless attempt to get id Software's iconic FPS up and running on just about everything on the planet is one that will be music to your ears. Or not, as is the case.
+
+
+Over on Reddit, user wojtek-graj has made Doom completely playable...in audio. That is to say, they've managed to get it to run in a spectrogram, which is a visual representation of sound frequencies. Actually, I'll let them give you the lowdown:
+
+
+
+The game is displayed by generating an audio signal that can be viewed as a spectrogram, while input is taken from the microphone, with specific frequencies being mapped to specific keys.
+
+
+
+
+
+
+They've also made the source code available on GitHub, as well as instructions on how to play it. So if you find playing the classic way a bit too passé, this is at least one alternative.
+
+
+It will never end
+
+
+There simply isn't time in the known universe to go through all the different devices that can now run a 30-year-old shooter. Suffice it to say, it's brought out a lot of creativity in people over the years. Here, someone has been wanting to get Doom to run on E. coli cells.
+
+
+With the reboot coming out in 2016 and Eternal launching in 2020, the legendary id series has truly made a comeback. 
+
+
+Not that it ever really went anywhere. Sure, things looked a little uncertain with Doom 3's approach to more survival horror, but seeing the OG running on a spectrogram means – if nothing else – fans sure aren't bored with Doom yet.
+
+The post Doom is now playable on an audio spectrogram, because why not? appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Andrew Heaton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nihon Falcom's Original 'Ys' RPG Arrives On Switch This Week]]></title>
+        <id>https://www.nintendolife.com/#article-162040</id>
+        <link href="https://www.nintendolife.com/news/2024/02/nihon-falcoms-original-ys-rpg-arrives-on-switch-this-week"/>
+        <updated>2024-02-12T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Yep, the PC-8801 version.
+Publisher D4 Enterprise is back with another entry in the EGGCONSOLE series. The original PC-8801 version of Nihon Falcom's iconic action RPG Ys is set to launch on the Switch eShop on 15th February under the catchy little title EGGCONSOLE Ys PC-8801mkIISR.
+The Ys series has grown in popularity as the years have gone by, thanks in no small part to the later games' global releases, though the first title has always been something of an elusive beast. The OG nabbed itself an English-language Master System port and a TG-16 remake back in the day, but the upcoming EGGCONSOLE edition takes it back to where it all started on the PC-8801.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podpora pro Rust v jádře pro arm64]]></title>
+        <id>www.root.cz-actuality-45617</id>
+        <link href="https://www.root.cz/zpravicky/podpora-pro-rust-v-jadre-pro-arm64/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-12T12:59:25.000Z</updated>
+        <summary type="html"><![CDATA[Do jádra 6.9 se dostane podpora pro Rust v jádře pro architekturu arm64 (AArch64, jen LE). V současnosti je v jádře podpora pro Rust pro architektury x86_64 a čínský LoongArch.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Při používání nativního šifrování v OpenZFS hrozí ztráta dat]]></title>
+        <id>www.root.cz-actuality-45616</id>
+        <link href="https://www.root.cz/zpravicky/pri-pouzivani-nativniho-sifrovani-v-openzfs-hrozi-ztrata-dat/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-12T12:46:46.000Z</updated>
+        <summary type="html"><![CDATA[Od května 2021 se ví o problému při použití nativního šifrování v OpenZFS. Ztráta dat hrozí, pokud použijete send/recv například v případě snapshotu. Nově se objevil požadavek, aby uživatelé byli na toto nebezpečí upozorňováni a nepoužívali šifrování se send/recv v produkci.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Helldivers 2 updates target server and reward issues as Arrowhead apologise for rocky launch]]></title>
         <id>https://www.rockpapershotgun.com/helldivers-2-updates-target-server-and-reward-issues-as-arrowhead-apologise-for-rocky-launch?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
@@ -1999,19 +2093,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prince Of Persia: The Lost Crown Receives A New Update On Switch]]></title>
-        <id>https://www.nintendolife.com/#article-161952</id>
-        <link href="https://www.nintendolife.com/news/2024/02/prince-of-persia-the-lost-crown-receives-a-new-update-on-switch"/>
-        <updated>2024-02-09T06:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Here's what's included.
-Prince of Persia: The Lost Crown has been out for almost a month now and Ubisoft is in the process of rolling out a new update for the game across all platforms.
-On the Switch, this should bump the game up to Version 1.0.5 and it will require around 397MB download. Included are quest fixes, gameplay adjustments, and some user interface and map improvements. Ubisoft has also shared a list of known issues, including some Switch-specific ones.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Banana Prices]]></title>
         <id>https://xkcd.com/2892/</id>
         <link href="https://xkcd.com/2892/"/>
@@ -2038,19 +2119,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Google přejmenoval (YouTube) svou konverzační AI Bard na Gemini. Současně představil placenou (Gemini Advanced) a mobilní verzi (Android, iOS).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Teenage Mutant Ninja Turtles Return To Fortnite With Radical New Cinematic Trailer]]></title>
-        <id>https://www.nintendolife.com/#article-161944</id>
-        <link href="https://www.nintendolife.com/news/2024/02/video-teenage-mutant-ninja-turtles-return-to-fortnite-with-radical-new-cinematic-trailer"/>
-        <updated>2024-02-09T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[They're back and "kicking some baddie butt!".
-The Teenage Mutant Ninja Turtles have returned in a new Fortnite crossover event. Alongside this, Epic Games has released a slick new cinematic trailer titled "Turtles Kick Baddie Butt".
-As part of the event this time, the turtles are wielding their signature weapons in battle:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2757,19 +2825,6 @@ The series, simply titled Knuckles, will be six episodes long and begins streami
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Forza Motorsport’s Update 6 lets you side-step the Car Progression system at last]]></title>
-        <id>https://www.destructoid.com/?p=460628</id>
-        <link href="https://www.destructoid.com/forza-motorsports-update-6-lets-you-side-step-the-car-progression-system-at-last/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=forza-motorsports-update-6-lets-you-side-step-the-car-progression-system-at-last"/>
-        <updated>2024-02-08T15:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Forza Motorsport's Update 6 - due to release in March 2024 - is shaping up to be a huge step forward for the live-service racing game from Turn 10. Notably, the developer has just revealed that the game's entire Car Level progression mechanic will be getting upended in accordance with player feedback.
-
-
-Notably, Turn 10 has gone back to the drawing board with Forza Motorsport's Car Level mechanic, as promised earlier this year. From the very start, a vocal portion of the player base has been highly critical of Turn 10's decision to lock vehicle upgrades behind level gates that, granted, do take a while to reach. The issue was so serious at one point, in fact, that players discovered a way to fully automate the process just to side-step it. That's all set to change with Update 6, however, w…]]></summary>
-        <author>
-            <name>Filip Galekovic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Halo Season 2's First Episode Hits Harder Than A Gravity Hammer]]></title>
         <id>1851236867</id>
         <link href="https://kotaku.com/halo-tv-series-season-2-episode-1-review-paramount-plus-1851236867"/>
@@ -3271,16 +3326,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Ryzen 5 8500G: A Surprisingly Fascinating Sub-$200 CPU]]></title>
-        <id>https://www.phoronix.com/review/amd-ryzen-5-8500g</id>
-        <link href="https://www.phoronix.com/review/amd-ryzen-5-8500g"/>
-        <updated>2024-02-07T15:20:55.000Z</updated>
-        <summary type="html"><![CDATA[After reviewing the Ryzen 7 8700G and the Ryzen 5 8600G as these new Zen 4 processors with RDNA3 integrated graphics, the latest AMD 8000G series CPU in the Linux benchmarking lab at Phoronix is the Ryzen 5 8500G. The Ryzen 5 8500G is a 6-core / 12-thread processor with RDNA3 graphics that retails for just $179 USD. Here's a look at how it's performing against other AMD and Intel processors on Ubuntu Linux. The Ryzen 5 8500G ends up being decent on the GPU side but making me genuinely excited is the Zen 4C prospects in the low-power space for AI workloads at the edge, low power servers, and other different deployments for great low-power performance. Under load this AVX-512 wielding budget desktop processor was typically pulling 50 Watts or less!]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Top 10 Most-Played Games On Steam Deck: January 2024 Edition]]></title>
         <id>1851234422</id>
         <link href="https://kotaku.com/steam-deck-valve-january-2024-baldurs-gate-3-cyberpunk-1851234422"/>
@@ -3419,26 +3464,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Tretí ročník komunitní konference KCD Czech & Slovak 2024 bude tentokrát v Praze a to 6. a 7. června 2024. Tato dvoudenní konference je pro všechny vývojáře, DevOps, Platform Engineery, manažery, studenty a všechny, kteří mají zájem se dozvědět něco o Cloud Native technologiích, CNCF projektech, diskutovat s profíky v této oblasti, poznat kulturu DevOps a přidat se k velké české a slovenské komunitě.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Georg)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 24.1 přinese ovladače OpenGL a Vulkan pro Intel Arrow Lake]]></title>
-        <id>www.root.cz-actuality-45596</id>
-        <link href="https://www.root.cz/zpravicky/mesa-24-1-prinese-ovladace-opengl-a-vulkan-pro-intel-arrow-lake/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-02-07T08:55:22.000Z</updated>
-        <summary type="html"><![CDATA[Do vývojové větve, z níž v budoucnu vzejde Mesa 24.1, byly začleněny patche přidávající podporu příští generace desktopových CPU Intel Arrow Lake v rámci ovladačů ANV pro Vulkan a Iris Gallium3D pro OpenGL. Žádné velké překvapení, bývá zvykem, že Intel připravuje podporu hodně dopředu. Kód neobsahuje oproti Meteor Lake žádné zásadní novinky, hlavně přidává příslušná PCI ID.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla představila placenou službu Monitor Plus]]></title>
-        <id>www.root.cz-actuality-45594</id>
-        <link href="https://www.root.cz/zpravicky/mozilla-predstavila-placenou-sluzbu-monitor-plus/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-02-07T08:39:01.000Z</updated>
-        <summary type="html"><![CDATA[Další pokus Mozilly o navýšení příjmů společnosti se jmenuje Monitor Plus. Jde o placenou variaci na dosavadní službu Firefox Monitor, se kterou bylo možné sledovat úniky osobních informací v důsledků bezpečnostních problémů různých stránek, kam se uživatel přihlašuje.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
