@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-13T08:13:11.439Z</id>
+    <id>urn:2024-02-13T10:10:05.028Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-13T08:13:11.439Z</updated>
+    <updated>2024-02-13T10:10:05.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ZLUDA umožňuje na Radeonech provozovat aplikace napsané pro CUDA]]></title>
+        <id>www.root.cz-actuality-45621</id>
+        <link href="https://www.root.cz/zpravicky/zluda-umoznuje-na-radeonech-provozovat-aplikace-napsane-pro-cuda/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-02-13T09:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Možná si vzpomenete na několik let starý program ZLUDA, který umožňoval podporu CUDA na grafických kartách Intel. Projekt pod křídly Intelu skončil, ale jeho původní vývojář Andrzej Janik přešel v roce 2022 pod společnost AMD, aby ZLUDA přizpůsobil pro použití na grafických procesorech AMD s HIP/ROCm.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FreeBSD postupně ukončí podporu 32bitových architektur]]></title>
         <id>www.root.cz-actuality-45620</id>
@@ -26,6 +36,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FEX 2402 Brings More Performance Improvements For x86_64 Binaries On AArch64]]></title>
+        <id>https://www.phoronix.com/news/FEX-Emulator-2402-Released</id>
+        <link href="https://www.phoronix.com/news/FEX-Emulator-2402-Released"/>
+        <updated>2024-02-13T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The FEX emulator 2402 release is now available for this open-source project allowing x86_64 binaries to run on AArch64 (ARM64) platforms, including games and the likes of Valve's Steam Play software...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Demon Slayer's New Mario Party-Style Game Gets An Overview Trailer]]></title>
         <id>https://www.nintendolife.com/#article-162073</id>
         <link href="https://www.nintendolife.com/news/2024/02/demon-slayers-new-mario-party-style-game-gets-an-overview-trailer"/>
@@ -36,6 +56,16 @@ The latest update from Sega today is the release of a new overview trailer for D
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD Continues Push Toward Deprecating 32-bit Platforms]]></title>
+        <id>https://www.phoronix.com/news/FreeBSD-32-bit-Deprecation-Plan</id>
+        <link href="https://www.phoronix.com/news/FreeBSD-32-bit-Deprecation-Plan"/>
+        <updated>2024-02-13T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As noted in prior Phoronix articles for months, FreeBSD 14 is likely to be the last for supporting prominent 32-bit systems. On the FreeBSD mailing list more details on the FreeBSD 32-bit deprecation process was posted this week...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -157,6 +187,16 @@ An endearing yet whimsical world
 Alongside previewing Nightingale, I also had the chance to chat with Inflexion Games CEO Aaryn Flynn, Art Director and Head …]]></summary>
         <author>
             <name>Steven Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Releases x86-simd-sort 5.0 With 4~5x Faster C++ Object Sorting Using AVX-512]]></title>
+        <id>https://www.phoronix.com/news/x86-simd-sort-5.0</id>
+        <link href="https://www.phoronix.com/news/x86-simd-sort-5.0"/>
+        <updated>2024-02-12T21:03:18.000Z</updated>
+        <summary type="html"><![CDATA[It's been nearly one year to the day since outlining intel's AVX-512 powered sorting library to offer blazing fast sort speeds. Over the past year has brought the 1.0 release, new algorithms in v2.0, AVX2 support and more AVX-512 optimizations in v4.0, and now today Intel is out with x86-simd-sort 5.0 with yet more performance improvements...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -907,6 +947,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AMD Quietly Funded A Drop-In CUDA Implementation Built On ROCm: It's Now Open-Source]]></title>
+        <id>https://www.phoronix.com/review/radeon-cuda-zluda</id>
+        <link href="https://www.phoronix.com/review/radeon-cuda-zluda"/>
+        <updated>2024-02-12T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While there have been efforts by AMD over the years to make it easier to port codebases targeting NVIDIA's CUDA API to run atop HIP/ROCm, it still requires work on the part of developers. The tooling has improved such as with HIPIFY to help in auto-generating but it isn't any simple, instant, and guaranteed solution -- especially if striving for optimal performance. Over the past two years AMD has quietly been funding an effort though to bring binary compatibility so that many NVIDIA CUDA applications could run atop the AMD ROCm stack at the library level -- a drop-in replacement without the need to adapt source code. In practice for many real-world workloads, it's a solution for end-users to run CUDA-enabled software without any developer intervention. Here is more information on this "skunkworks" project that is now available as open-source along with some of my own testing and performance benchmarks of this CUDA implementation built for Radeon GPUs.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Doom is now playable on an audio spectrogram, because why not?]]></title>
         <id>https://www.destructoid.com/?p=461965</id>
         <link href="https://www.destructoid.com/doom-is-now-playable-on-an-audio-spectrogram-because-why-not/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=doom-is-now-playable-on-an-audio-spectrogram-because-why-not"/>
@@ -986,6 +1036,46 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenZFS Native Encryption Use Raises Data Corruption Concerns]]></title>
+        <id>https://www.phoronix.com/news/OpenZFS-Encrypt-Corrupt</id>
+        <link href="https://www.phoronix.com/news/OpenZFS-Encrypt-Corrupt"/>
+        <updated>2024-02-12T11:52:30.000Z</updated>
+        <summary type="html"><![CDATA[At the end of last year OpenZFS 2.2.2 was released to fix a rare but nasty data corruption issue but it turns out there are other data corruption bug(s) still lurking in the OpenZFS file-system codebase...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.9 To Support Samsung Wireless Gamepad, Keyboards & Action Mouse]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-Samsung-Better-HID</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-Samsung-Better-HID"/>
+        <updated>2024-02-12T11:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsung engineers have been extending their "samsung" HID driver to support more of their wireless input devices by the mainline Linux kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDGPU LLVM Adding GFX 9/10/11 "Generic Targets" To Build Once & Run On Multiple GPUs]]></title>
+        <id>https://www.phoronix.com/news/LLVM-AMDGPU-Generic-GFX</id>
+        <link href="https://www.phoronix.com/news/LLVM-AMDGPU-Generic-GFX"/>
+        <updated>2024-02-12T11:28:07.000Z</updated>
+        <summary type="html"><![CDATA[Code merged today to mainline LLVM is preparing for the notion of generic targets across the GFX9, GFX10, and GFX11 GPU families. With follow-on work these generic targets are aiming to allow compiling code once and then running across multiple GPUs in the given hardware family...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Kernel Support On AArch64 Ready To Go For Linux 6.9]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-AArch64-Rust-Support</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-AArch64-Rust-Support"/>
+        <updated>2024-02-12T11:19:02.000Z</updated>
+        <summary type="html"><![CDATA[The 64-bit Arm (AArch64) little-endian kernel will be ready to support the Rust kernel code with the upcoming Linux 6.9 cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1132,6 +1222,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GNOME Mutter 46 Beta A Win For Gamers & VM Users, Other Last Minute Changes Too]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Shell-Mutter-46-Beta</id>
+        <link href="https://www.phoronix.com/news/GNOME-Shell-Mutter-46-Beta"/>
+        <updated>2024-02-12T01:35:38.000Z</updated>
+        <summary type="html"><![CDATA[GNOME Shell and the Mutter compositor today issued their GNOME 46 Beta releases with some notable changes ahead of the API/ABI and feature freezes for the GNOME 46 desktop due for release in March...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 02/12/2024]]></title>
         <id>https://torrentfreak.com/?p=186926</id>
         <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
@@ -1178,6 +1278,16 @@ Yeah, the Junction system made us too strong, too easily. Sure, the monsters' le
 But the worst crime of all was it's a different game from Final Fantasy VII. Still, I'd arg…]]></summary>
         <author>
             <name>Tiago Manuel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.8-rc4 Released With Bcachefs & NTFS3 File-System Fixes, Transmeta Crusoe Fix]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.8-rc4-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.8-rc4-Released"/>
+        <updated>2024-02-11T20:48:54.000Z</updated>
+        <summary type="html"><![CDATA[As more exciting than the Super Bowl (at least for some of us) is the new Linux 6.8-rc4 kernel available for testing...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1264,6 +1374,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AMDGPU Driver Changes Begin For Linux 6.9: RAS ACA Framework, SEQ64 Infrastructure & Fixes]]></title>
+        <id>https://www.phoronix.com/news/AMDGPU-Linux-6.9-First</id>
+        <link href="https://www.phoronix.com/news/AMDGPU-Linux-6.9-First"/>
+        <updated>2024-02-11T14:06:52.000Z</updated>
+        <summary type="html"><![CDATA[AMD has begun queuing AMDGPU Direct Rendering Manager (DRM) kernel graphics driver updates in DRM-Next ahead of the Linux 6.9 merge window kicking off next month...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Projekt Fedora oznamuje Fedora Atomic Desktops pro neměnné varianty Fedory]]></title>
         <id>www.root.cz-actuality-45614</id>
         <link href="https://www.root.cz/zpravicky/projekt-fedora-oznamuje-fedora-atomic-desktops-pro-nemenne-varianty-fedory/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1323,6 +1443,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TrenchBoot Progress For Adding More Security & Integrity To The Boot Process]]></title>
+        <id>https://www.phoronix.com/news/TrenchBoot-Status-2024</id>
+        <link href="https://www.phoronix.com/news/TrenchBoot-Status-2024"/>
+        <updated>2024-02-11T11:49:59.000Z</updated>
+        <summary type="html"><![CDATA[TrenchBoot has been in development for several years now by Oracle, 3mdeb, and other stakeholders for providing greater security and integrity to the Linux boot process via measured launch of the OS using a Dynamic Root of Trust Measurement (DRTM) backed by Intel Trusted Execution Technology (TXT) and AMD Secure Startup. Much progress was made over 2023 while more work is ahead in 2024 for furthering the TrenchBoot efforts...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl - Duel: Inazuma Eleven Strikers]]></title>
         <id>https://www.nintendolife.com/#article-161971</id>
         <link href="https://www.nintendolife.com/news/2024/02/poll-box-art-brawl-duel-inazuma-eleven-strikers"/>
@@ -1370,6 +1500,16 @@ Last July, the Good Smile Company lifted the lid on a new Max Factory figma of L
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 12.5 Released To Provide The Latest Security & Bug Fixes]]></title>
+        <id>https://www.phoronix.com/news/Debian-12.5-Released</id>
+        <link href="https://www.phoronix.com/news/Debian-12.5-Released"/>
+        <updated>2024-02-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debian 12.5 is out this weekend as the newest stable point release for this widely-used Linux distribution in order to ship the latest security fixes and various bug fixes...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1697,6 +1837,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AMD Zen 5 Compiler Support Posted For GCC - Confirms New AVX Features & More]]></title>
+        <id>https://www.phoronix.com/news/AMD-Zen-5-Znver-5-GCC</id>
+        <link href="https://www.phoronix.com/news/AMD-Zen-5-Znver-5-GCC"/>
+        <updated>2024-02-10T14:41:58.000Z</updated>
+        <summary type="html"><![CDATA[Making for a very exciting Saturday morning, AMD just posted their initial enablement patch for plumbing Zen 5 processor support "znver5" into the GNU Compiler Collection! With GCC 14 due to be released as stable in March~April as usual for the annual compiler release, it's been frustrating to see no Zen 5 support even while Intel has already been working on Clear Water Forest and Panther Lake support with already having upstreamed Sierra Forest, Granite Rapids, and other new CPU targets months ago... Well, Granite Rapids was added to GCC in late 2022. But squeezing in as what should now be merged in time is the initial AMD Zen 5 support!..]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Finals' latest patch makes progression faster, stops corpses exploding]]></title>
         <id>https://www.rockpapershotgun.com/the-finals-latest-patch-makes-progression-faster-stops-corpses-exploding?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/the-finals-latest-patch-makes-progression-faster-stops-corpses-exploding?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -1718,6 +1868,46 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Kotaku Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Hardware Support Increasingly In Good Shape On The Mainline Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-Mainline-Linux-2024"/>
+        <updated>2024-02-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After years of work by Qualcomm and Linaro engineers, the Qualcomm SoC support on the mainline Linux kernel has finally matured enough that new hardware support tends to come rather quickly and be well supported. With the forthcoming Linux 6.8 kernel the new Snapdragon 8 Gen 3 can boot on the mainline kernel, the Snapdragon-powered ThinkPad X13s has been popular with Linux developers thanks to the upstream support, and other Qualcomm-powered devices tending to play more nicely with upstream Linux these days rather than having to resort to vendor kernel builds...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xfce 4.20 Aiming For Usable Wayland Support While Maintaining X11 Compatibility]]></title>
+        <id>https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap</id>
+        <link href="https://www.phoronix.com/news/Xfce-4.20-Wayland-Roadmap"/>
+        <updated>2024-02-10T11:36:54.000Z</updated>
+        <summary type="html"><![CDATA[Xfce developers have updated their Wayland roadmap this week to reflect their latest plans around the Xfce 4.20 release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variable Refresh Rate "VRR" Support Comes Down To The Wire For GNOME 46]]></title>
+        <id>https://www.phoronix.com/news/GNOME-VRR-February</id>
+        <link href="https://www.phoronix.com/news/GNOME-VRR-February"/>
+        <updated>2024-02-10T11:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Today marks the UI, feature, and API/ABI freezes for the GNOME 46 desktop ahead of its stable release on 16 March. One feature coming down to the wire that looks like it may not make it -- unfortunately -- is the Variable Refresh Rate (VRR) integration...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Weeks To Go Until The KDE Plasma 6.0 Release]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6-Three-Weeks</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6-Three-Weeks"/>
+        <updated>2024-02-10T10:36:33.000Z</updated>
+        <summary type="html"><![CDATA[There is just under three weeks to go until the much anticipated KDE Plasma 6 debut...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1745,6 +1935,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LLVM Adds Support For New "Ampere1B" Third-Gen Cores From Ampere Computing]]></title>
+        <id>https://www.phoronix.com/news/LLVM-Ampere1B</id>
+        <link href="https://www.phoronix.com/news/LLVM-Ampere1B"/>
+        <updated>2024-02-10T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While we are still waiting to get our hands on AmpereOne hardware for Ampere Computing's in-house design Arm cores with up to 192 cores, Friday night Git activity to LLVM has revealed an "Ampere1B" core...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[First 4 Figures Unveil Zelda: Breath Of The Wild Sheikah Slate Statue, Pre-Orders Open Soon]]></title>
         <id>https://www.nintendolife.com/#article-161947</id>
         <link href="https://www.nintendolife.com/news/2024/02/first-4-figures-unveil-zelda-breath-of-the-wild-sheikah-slate-statue-pre-orders-open-soon"/>
@@ -1755,6 +1955,16 @@ Following the initial announcement, First 4 Figures has already given Zelda fans
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[helloSystem Publishes New Experimental Build Based On FreeBSD 14.0]]></title>
+        <id>https://www.phoronix.com/news/helloSystem-New-14.0-Experiment</id>
+        <link href="https://www.phoronix.com/news/helloSystem-New-14.0-Experiment"/>
+        <updated>2024-02-10T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[The macOS-inspired, FreeBSD-based helloSystem open-source operating system has published a new experimental build based on the fresh FreeBSD 14.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1814,6 +2024,16 @@ Despite the name, Tetrisphere has very…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wine 9.2 Released With System Tray Fixes, Better ARM Exception Handling]]></title>
+        <id>https://www.phoronix.com/news/Wine-9.2-Released</id>
+        <link href="https://www.phoronix.com/news/Wine-9.2-Released"/>
+        <updated>2024-02-09T22:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Wine 9.2 is out as the latest bi-weekly development release of this software for enjoying Windows applications and games on Linux and other platforms...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MythTV 34.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/mythtv-34.0</id>
         <link href="http://www.abclinuxu.cz/zpravicky/mythtv-34.0"/>
@@ -1821,6 +2041,16 @@ Despite the name, Tetrisphere has very…]]></summary>
         <summary type="html"><![CDATA[Byla vydána nová verze 34.0, tj. první stabilní verze nové řady 34, svobodného multimediálního centra MythTV (Wikipedie). Přehled novinek a vylepšení v poznámkách k vydání.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Targeted Intel oneAPI DPC++ Compiler Optimization Rules Out 2k+ SPEC CPU Submissions]]></title>
+        <id>https://www.phoronix.com/news/oneAPI-DPC-Compiler-Cheat-SPEC</id>
+        <link href="https://www.phoronix.com/news/oneAPI-DPC-Compiler-Cheat-SPEC"/>
+        <updated>2024-02-09T22:45:57.000Z</updated>
+        <summary type="html"><![CDATA[SPEC has effectively invalidated more than two thousand SPEC CPU 2017 benchmark submissions after it was discovered the Intel oneAPI DPC++ compiler was effectively "cheating" per their standards with a targeted optimization...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1859,6 +2089,16 @@ The nostalgic journey offers four playable adventurers to choose from as you emb
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MythTV 34 Released For Open-Source DVR/PVR]]></title>
+        <id>https://www.phoronix.com/news/MythTV-34-Released</id>
+        <link href="https://www.phoronix.com/news/MythTV-34-Released"/>
+        <updated>2024-02-09T21:19:51.000Z</updated>
+        <summary type="html"><![CDATA[In an era of Internet streaming digital video recorders (DVR) / personal video recorder (PVR) software isn't nearly as popular as it was in the past, but the long-used open-source MythTV software is out with its first major update in one year...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2173,6 +2413,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux Patch Pending To Fix Support For The Transmeta Crusoe CPU]]></title>
+        <id>https://www.phoronix.com/news/Linux-2024-Transmeta-Crusoe</id>
+        <link href="https://www.phoronix.com/news/Linux-2024-Transmeta-Crusoe"/>
+        <updated>2024-02-09T17:21:44.000Z</updated>
+        <summary type="html"><![CDATA[While the Linux kernel has seen increased activity around dropping old/unused hardware drivers and other support, for old hardware that is still proven to be used on upstream Linux kernel releases does stick around and even will see the occasional fix... The latest example of that is a fix on the way for restoring Linux kernel support for the Transmeta Crusoe, the x86-compatible processor released back in 2000...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Handcrafted "interactive music album" Asterism has a delightful Next Fest demo]]></title>
         <id>https://www.rockpapershotgun.com/handcrafted-interactive-music-album-asterism-has-a-delightful-next-fest-demo?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/handcrafted-interactive-music-album-asterism-has-a-delightful-next-fest-demo?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -2290,6 +2540,16 @@ The post Pucker up for Baldur’s Gate 3 Patch 6, which improves kissing, among 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Ongoing Open-Source Work To Enable Webcam Support On Recent Intel Laptops]]></title>
+        <id>https://www.phoronix.com/news/Ongoing-OSS-Intel-IPU6-Soft-ISP</id>
+        <link href="https://www.phoronix.com/news/Ongoing-OSS-Intel-IPU6-Soft-ISP"/>
+        <updated>2024-02-09T16:17:57.000Z</updated>
+        <summary type="html"><![CDATA[Webcamera support on recent generations of Intel laptops have tended to be a mess due to the Intel IPU6 requiring an out-of-tree kernel driver and a proprietary user-space component. But fortunately thanks to the work of Linar and Red Hat on a "SoftISP" implementation within libcamera, it's becoming possible to leverage these recent MIPI-based webcameras on an open-source software stack...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[People Can’t Stop Playing Piano In The FF7 Rebirth Demo]]></title>
         <id>1851242683</id>
         <link href="https://kotaku.com/final-fantasy-7-rebirth-demo-piano-clips-are-amazing-1851242683"/>
@@ -2329,6 +2589,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intel Arrow Lake Graphics Support Ready For Linux 6.9]]></title>
+        <id>https://www.phoronix.com/news/Intel-Arrow-Lake-Linux-6.9-Gfx</id>
+        <link href="https://www.phoronix.com/news/Intel-Arrow-Lake-Linux-6.9-Gfx"/>
+        <updated>2024-02-09T15:34:34.000Z</updated>
+        <summary type="html"><![CDATA[Along with the recently merged Intel OpenGL and Vulkan driver support for Arrow Lake next-generation Core processors with Mesa 24.1, it looks like the i915 kernel graphics driver support for Arrow Lake will be all-set with the upcoming Linux 6.9 kernel cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Suicide Squad Easter Egg Hints At The Return Of A Beloved Character]]></title>
         <id>1851242453</id>
         <link href="https://kotaku.com/suicide-squad-batman-death-alive-calendar-return-1851242453"/>
@@ -2348,6 +2618,16 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Claire Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora Atomic Desktops Born Out Of Fedora Silverblue Success]]></title>
+        <id>https://www.phoronix.com/news/Fedora-Atomic-Desktops</id>
+        <link href="https://www.phoronix.com/news/Fedora-Atomic-Desktops"/>
+        <updated>2024-02-09T14:57:50.000Z</updated>
+        <summary type="html"><![CDATA[Born out of the success of Fedora Silverblue and the other Fedora immutable variants relying on RPM-OSTree, Fedora has announced Fedora Atomic Desktops as the new branding for these spins...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2419,6 +2699,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building An AMD HIP Stack From Upstream Open-Source Code]]></title>
+        <id>https://www.phoronix.com/news/Building-Upstream-HIP-Stack</id>
+        <link href="https://www.phoronix.com/news/Building-Upstream-HIP-Stack"/>
+        <updated>2024-02-09T11:45:45.000Z</updated>
+        <summary type="html"><![CDATA[While AMD ships pre-built ROCm/HIP stacks for the major enterprise Linux distributions, if you are using not one of them or just want to be adventurous and compile your own stack for building HIP programs for running on AMD GPUs, one of the AMD Linux developers has written a how-to guide...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Appeals Court Hears RIAA and Yout in ‘High Stakes’ Stream-ripper Case]]></title>
         <id>https://torrentfreak.com/?p=246532</id>
         <link href="https://torrentfreak.com/appeals-court-hears-riaa-and-yout-in-high-stakes-streamripper-case-240209/"/>
@@ -2427,6 +2717,26 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Etnaviv NPU Driver Further Boosts Performance, Striking Closer To The Proprietary Driver]]></title>
+        <id>https://www.phoronix.com/news/Etnaviv-NPU-Weight-Compress</id>
+        <link href="https://www.phoronix.com/news/Etnaviv-NPU-Weight-Compress"/>
+        <updated>2024-02-09T11:31:34.000Z</updated>
+        <summary type="html"><![CDATA[Merged for Mesa 24.1 is Teflon for Etnaviv NPU driver support in enabling reverse-engineered, open-source driver support for VeriSilicon NPU IP similar to the long-standing Etnaviv Gallium3D graphics support for Vivante graphics. Tomeu Vizoso who has been leading the work on the Etnaviv NPU support has managed to achieve another performance victory and taking the open-source driver performance closer to the proprietary driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 Vulkan Developer Conference Slides Posted]]></title>
+        <id>https://www.phoronix.com/news/Vulkanised-2024-Slides</id>
+        <link href="https://www.phoronix.com/news/Vulkanised-2024-Slides"/>
+        <updated>2024-02-09T11:23:16.000Z</updated>
+        <summary type="html"><![CDATA[Vulkanised 2024 took place this week in Sunnyvale, California as the 6th go at this Vulkan Developer Conference. The slides from this conference are now available for those wishing to learn more about this open industry standard cxompute/graphics API...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -2632,6 +2942,16 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AMD Posts Linux Driver Patches For Video Core Next 5 "VCN 5.0"]]></title>
+        <id>https://www.phoronix.com/news/AMD-VCN5-AMDGPU-Linux-Driver</id>
+        <link href="https://www.phoronix.com/news/AMD-VCN5-AMDGPU-Linux-Driver"/>
+        <updated>2024-02-08T20:41:54.000Z</updated>
+        <summary type="html"><![CDATA[It looks like next-generation RDNA4 graphics will feature a new iteration of the Video Core Next (VCN) for accelerated video encode/decode. VCN 5.0 patches were posted today for the AMDGPU Linux kernel driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Android Studio Jellyfish | 2023.3.1 Canary 9 now available]]></title>
         <id>https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_8.html</id>
         <link href="https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_8.html"/>
@@ -2772,6 +3092,16 @@ The Game Informer Show – Podcast Timestamps:
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA GH200 CPU Performance Benchmarks Against EPYC Zen 4 & Xeon Emerald Rapids]]></title>
+        <id>https://www.phoronix.com/review/nvidia-gh200-gptshop-benchmark</id>
+        <link href="https://www.phoronix.com/review/nvidia-gh200-gptshop-benchmark"/>
+        <updated>2024-02-08T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kicking off our NVIDIA GH200 Grace Hopper benchmarking at Phoronix is an initial look at the 72-core Grace CPU performance with 96GB of HBM3 memory. Here are some initial benchmarks of the Grace CPU performance while the Hopper GPU benchmarks will be coming in a follow-up article.]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3349,16 +3679,6 @@ Read more]]></summary>
 The post Raspberry Pi Pico feeds Píkíta the chihuahua twice a day appeared first on Raspberry Pi.]]></summary>
         <author>
             <name>Ashley Whittaker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Záznamy přednášek ze setkání CSNOG 2024 jsou dostupné online]]></title>
-        <id>www.root.cz-actuality-45598</id>
-        <link href="https://www.root.cz/zpravicky/zaznamy-prednasek-ze-setkani-csnog-2024-jsou-dostupne-online/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-02-07T14:50:34.000Z</updated>
-        <summary type="html"><![CDATA[Na webových stránkách komunitního setkání CSNOG 2024 jsou zveřejněny prezentace, videozáznamy a také fotografie. V sekci Program naleznou zájemci příspěvky všech účastníků, kteří 23. a 24. ledna na akci vystoupili. Na Root.cz také vyšly dva články shrnující hlavní obsah akce:]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
