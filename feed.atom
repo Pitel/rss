@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-14T00:44:09.004Z</id>
+    <id>urn:2024-02-14T02:16:12.597Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-14T00:44:09.004Z</updated>
+    <updated>2024-02-14T02:16:12.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LZ4 Compression For Hibernation Images Queued For Linux 6.9: Faster Restore Times]]></title>
+        <id>https://www.phoronix.com/news/LZ4-Hibernate-Queued-6.9</id>
+        <link href="https://www.phoronix.com/news/LZ4-Hibernate-Queued-6.9"/>
+        <updated>2024-02-14T01:24:21.000Z</updated>
+        <summary type="html"><![CDATA[In development the past several months has been patches to allow changing the compression algorithm used by the hibernation images of the Linux kernel while preserving the system memory contents. With using LZ4 yields faster system restore times from hibernation than the current de facto compression algorithm used of LZO. This work is now queued for introduction in Linux 6.9...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo To Stop Repairing 2DS, New 3DS & 3DS XL In Japan]]></title>
+        <id>https://www.nintendolife.com/#article-162124</id>
+        <link href="https://www.nintendolife.com/news/2024/02/nintendo-to-stop-repairing-2ds-new-3ds-and-3ds-xl-in-japan"/>
+        <updated>2024-02-14T01:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Goodbye, old friend.
+The 3DS has had a good run over the years, but it's at the end of its life now that Nintendo has concluded eShop sales and announced the shutdown of online play.
+Ahead of the shutdown of online play in April, Nintendo's customer support service has also revealed repairs for the system will be ending in Japan. Even though this service hasn't been available for some time in other parts of the world, Japanese fans with certain model 3DS were still able to access this service.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HITMAN 3 Will Now Launch On Intel GPUs Under Linux After Hiding The GPU Vendor]]></title>
+        <id>https://www.phoronix.com/news/HITMAN-3-Intel-XeSS-Linux-Again</id>
+        <link href="https://www.phoronix.com/news/HITMAN-3-Intel-XeSS-Linux-Again"/>
+        <updated>2024-02-14T00:55:51.000Z</updated>
+        <summary type="html"><![CDATA[While Intel is the company behind XeSS - Xe Super Sampling, under Linux it's an ongoing story of having to hide the fact that Intel graphics are in use when trying to enjoy Windows games running on Steam Play that are XeSS-enabled. The latest example is the HITMAN 3 game that can work on modern Arc Graphics as long as you conceal the fact under Linux that Intel graphics are being used...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First 4 Figures Unveil Zelda: Breath Of The Wild Sheikah Slate Statue, Pre-Orders Open Soon]]></title>
         <id>https://www.nintendolife.com/#article-161947</id>
@@ -2258,19 +2291,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sega Reports 'Sluggish' Sales Of Sonic Superstars And Other Major Titles]]></title>
-        <id>https://www.nintendolife.com/#article-162031</id>
-        <link href="https://www.nintendolife.com/news/2024/02/sega-reports-sluggish-sales-of-sonic-superstars-and-other-major-titles"/>
-        <updated>2024-02-12T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[But Pachislot is doing well.
-Sega has released its financial results for Q3 of FY2024, and it paints a somewhat disappointing picture for the company as it reports 'sluggish' sales of premium titles, including Sonic Superstars (thanks, IGN).
-In its Notice of Revision of Operating Results Forecast letter, the company states "In the Consumer area, although we released some new titles in Q3, including Sonic Superstars, Endless Dungeon, and Total War: Pharaoh, sales went sluggish during the holiday sales season."
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kodi 20.4 "Nexus"]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/kodi-20.4-nexus</id>
         <link href="http://www.abclinuxu.cz/zpravicky/kodi-20.4-nexus"/>
@@ -3131,16 +3151,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Ongoing Open-Source Work To Enable Webcam Support On Recent Intel Laptops]]></title>
-        <id>https://www.phoronix.com/news/Ongoing-OSS-Intel-IPU6-Soft-ISP</id>
-        <link href="https://www.phoronix.com/news/Ongoing-OSS-Intel-IPU6-Soft-ISP"/>
-        <updated>2024-02-09T16:17:57.000Z</updated>
-        <summary type="html"><![CDATA[Webcamera support on recent generations of Intel laptops have tended to be a mess due to the Intel IPU6 requiring an out-of-tree kernel driver and a proprietary user-space component. But fortunately thanks to the work of Linar and Red Hat on a "SoftISP" implementation within libcamera, it's becoming possible to leverage these recent MIPI-based webcameras on an open-source software stack...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[People Can’t Stop Playing Piano In The FF7 Rebirth Demo]]></title>
         <id>1851242683</id>
         <link href="https://kotaku.com/final-fantasy-7-rebirth-demo-piano-clips-are-amazing-1851242683"/>
@@ -3177,16 +3187,6 @@ You know what does have a launch date now? Botany Manor, a lovely 3D puzzle game
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arrow Lake Graphics Support Ready For Linux 6.9]]></title>
-        <id>https://www.phoronix.com/news/Intel-Arrow-Lake-Linux-6.9-Gfx</id>
-        <link href="https://www.phoronix.com/news/Intel-Arrow-Lake-Linux-6.9-Gfx"/>
-        <updated>2024-02-09T15:34:34.000Z</updated>
-        <summary type="html"><![CDATA[Along with the recently merged Intel OpenGL and Vulkan driver support for Arrow Lake next-generation Core processors with Mesa 24.1, it looks like the i915 kernel graphics driver support for Arrow Lake will be all-set with the upcoming Linux 6.9 kernel cycle...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
