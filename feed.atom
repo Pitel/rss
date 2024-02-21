@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-21T10:11:18.823Z</id>
+    <id>urn:2024-02-21T12:17:05.262Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-21T10:11:18.823Z</updated>
+    <updated>2024-02-21T12:17:05.262Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Today's new games struggle because "evergreen" hits like Fortnite "pull players towards them at all times", says former BioWare GM]]></title>
+        <id>https://www.rockpapershotgun.com/todays-new-games-struggle-because-evergreen-hits-like-fortnite-pull-players-towards-them-at-all-times-says-former-bioware-gm?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/todays-new-games-struggle-because-evergreen-hits-like-fortnite-pull-players-towards-them-at-all-times-says-former-bioware-gm?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-02-21T12:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Before founding Inflexion in 2021, Aaryn Flynn worked at BioWare. He's got credits on some of the studio's best-loved games, from Baldur's Gate 2 through Star Wars: Knights Of The Old Republic to Dragon Age: Origins and the Mass Effect trilogy. He was BioWare's general manager for several years, but left the company in 2017 following the release of the less-regarded Mass Effect: Andromeda. New survival sim Nightingale is his first early access project, and it's certainly been a learning experience, with Flynn obliged to rethink many of the things he learned about gamedev during his BioWare days. Speaking to me ahead of Nightingale's launch, Flynn talked about the difficulty of making headway as a new developer in an industry where the most successful competing live service titles have effectively become part of the landscape - indeed, a force of "gravity".
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source NVIDIA Driver Moving To NVK + Zink For OpenGL On Newer GPUs]]></title>
+        <id>https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL</id>
+        <link href="https://www.phoronix.com/news/Zink-NVK-For-NVIDIA-OpenGL"/>
+        <updated>2024-02-21T11:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Mesa 24.1 Git has landed the initial infrastructure for allowing drivers to choose to using Zink instead for OpenGL via this OpenGL-on-Vulkan implementation. The motivating factor for this latest Mesa work is for using Zink atop the NVK Vulkan driver for newer NVIDIA GPUs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Linux Kernel API For Today's Complex RGB Devices Is Being Devised]]></title>
+        <id>https://www.phoronix.com/news/Linux-Kernel-API-Modern-RGB</id>
+        <link href="https://www.phoronix.com/news/Linux-Kernel-API-Modern-RGB"/>
+        <updated>2024-02-21T11:39:47.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to today's complex RGB lighting for PC peripherals and the like it's mostly been left up to user-space. With most RGB devices interfacing via USB, it's been up to Linux user-space projects like OpenRGB, OpenRazer, etc, to implement their RGB lighting controls as needed. But as RGB lighting use continues to grow in the PC space for better or worse, there's an increasing need for a kernel API to handle complex RGB devices. Such an API is currently being devised...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first Elden Ring Shadow Of The Erdtree trailer is hours away, as last February release date hopes fade]]></title>
+        <id>https://www.rockpapershotgun.com/the-first-elden-ring-shadow-of-the-erdtree-trailer-is-hours-away-as-last-february-release-date-hopes-fade?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/the-first-elden-ring-shadow-of-the-erdtree-trailer-is-hours-away-as-last-february-release-date-hopes-fade?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-02-21T10:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Elden Ring: Shadow Of The Erdtree is getting a trailer today and it'll last for three whole minutes, which is more than enough time for folks to tear all of its finer details apart for several hundred hours. I for one, hope the trailer includes a hint of gameplay and not just like, a long cinematic with some croaky fella explaining how there's been another "downfall" or similar.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Helldivers 2 patch fixes quickplay and crash bugs as Arrowhead work on AFK kick option and login rate limits]]></title>
         <id>https://www.rockpapershotgun.com/helldivers-2-patch-fixes-quickplay-and-crash-bugs-as-arrowhead-work-on-afk-kick-option-and-login-rate-limits?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
@@ -3002,16 +3045,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cleaning Up A Mess: Linux 6.9 Likely To Land Rework Of x86 CPU Topology Code]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.9-x86-CPU-Topology-Code</id>
-        <link href="https://www.phoronix.com/news/Linux-6.9-x86-CPU-Topology-Code"/>
-        <updated>2024-02-16T17:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Longtime Linux kernel developer Thomas Gleixner with Intel-owned Linutronix has been spending much time over the past several months reworking the Linux kernel's x86 CPU topology evaluation code. This is to clean-up a mess of aging kernel code as well as some areas of the code being incorrect in today's era of hybrid Intel Core processors with a mix of P / E cores with the E cores lacking SMT/HT and thus throwing off prior kernel assumptions. With the code now queued up in a TIP branch today, it looks like that CPU topology rework could be good to go with Linux 6.9...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[From FF7's Tifa To Nathan Drake, These Are Your Biggest Video Game Crushes]]></title>
         <id>1851264431</id>
         <link href="https://kotaku.com/biggest-video-game-crushes-kotaku-asks-1851264431"/>
@@ -3065,16 +3098,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Germain Lussier</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD Has Been Working On AMD64 SIMD libc Optimizations - Coming For FreeBSD 14.1]]></title>
-        <id>https://www.phoronix.com/news/FreeBSD-Q4-2023-Improvements</id>
-        <link href="https://www.phoronix.com/news/FreeBSD-Q4-2023-Improvements"/>
-        <updated>2024-02-16T16:01:59.000Z</updated>
-        <summary type="html"><![CDATA[The FreeBSD project today issued their Q4'2023 status report that highlights all of their interesting work accomplished last quarter on this open-source platform. Among the interesting achievements were the FreeBSD Foundation sponsoring AMD64 SIMD improvements for FreeBSD 15 that will also be back-ported to FreeBSD 14.1...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4353,28 +4376,6 @@ But instead, you sit. 
 With some exceptions, taking a seat in games equates to a whole lot of nothing. And yet, it remains a regularly recurring mechanic. So why do we sit? Do you like to sit? How long do you sit? Should sitting still be a thing in games? Please take a seat and discuss your stance in the comments below.]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grab the Asus ROG Ally w/ Z1 Extreme processor for just £539 after a 10% Very discount]]></title>
-        <id>https://www.rockpapershotgun.com/grab-the-asus-rog-ally-w-z1-extreme-processor-for-just-539-after-a-10-very-discount?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/grab-the-asus-rog-ally-w-z1-extreme-processor-for-just-539-after-a-10-very-discount?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-02-12T20:11:19.000Z</updated>
-        <summary type="html"><![CDATA[The Asus ROG Ally has dropped in price in response to the release of the Steam Deck OLED, and now a 10% off code at Very makes this handheld gaming PC even better value. You can now get the top-spec ROG Ally with the Z1 Extreme chipset and 512GB of PCIe 4.0 storage for just £539 with code VTQ8C, a brilliant price that puts it in direct competition with the 512GB Steam Deck OLED. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helldivers 2 overtakes God of War and Spider-Man to become PlayStation’s biggest PC release to date]]></title>
-        <id>https://www.rockpapershotgun.com/helldivers-2-overtakes-god-of-war-and-spider-man-to-become-playstations-biggest-pc-release-to-date?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/helldivers-2-overtakes-god-of-war-and-spider-man-to-become-playstations-biggest-pc-release-to-date?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-02-12T19:53:49.000Z</updated>
-        <summary type="html"><![CDATA[Helldivers 2 has become the biggest PlayStation game released on PC yet, at least going by the number of simultaneous players on Steam, as it doubled the previous record of concurrent players set by God of War.
-Read more]]></summary>
-        <author>
-            <name>Matt Jarvis</name>
         </author>
     </entry>
     <entry>
