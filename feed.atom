@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-25T10:09:20.163Z</id>
+    <id>urn:2024-02-25T12:15:38.682Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-25T10:09:20.163Z</updated>
+    <updated>2024-02-25T12:15:38.682Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.8 x86/urgent Update Beefs Up Protection Against Side Channel CPU Bugs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.8-x86-Delay-VERW</id>
+        <link href="https://www.phoronix.com/news/Linux-6.8-x86-Delay-VERW"/>
+        <updated>2024-02-25T11:41:13.000Z</updated>
+        <summary type="html"><![CDATA[Sent in this morning via the "x86/urgent" pull request ahead of the Linux 6.8-rc6 kernel later today is a set of patches from Intel to ensure clearing of CPU buffers using the VERW instruction happens at the latest possible point in the return-to-userspace code path. This is being done to better protect against CPU bugs like Microarchitectural Data Sampling (MDS)...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bcachefs Publishes Patches For Disk Accounting Rewrite]]></title>
+        <id>https://www.phoronix.com/news/Bcachefs-Disk-Account-Rewrite</id>
+        <link href="https://www.phoronix.com/news/Bcachefs-Disk-Account-Rewrite"/>
+        <updated>2024-02-25T11:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Kent Overstreet on Saturday evening posted a set of 21 patches to overhaul the disk accounting code for the Bcachefs file-system. This change does break compatibility with the existing disk accounting on-disk format and thus will require an upgrade when moving to the new version, which may land for Linux v6.9...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl - Castlevania: Legacy Of Darkness]]></title>
+        <id>https://www.nintendolife.com/#article-162628</id>
+        <link href="https://www.nintendolife.com/news/2024/02/poll-box-art-brawl-castlevania-legacy-of-darkness"/>
+        <updated>2024-02-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ah-woooooo.
+Welcome folks, to another episode of Box Art Brawl!
+Last time, we looked at Mario vs. Donkey Kong 2: March of the Minis for the Nintendo DS. We'd love to say it was a close call, but it really wasn't. North America and Europe teamed up to take on Japan, with the Western design winning with a resounding 87% of the vote. Crikey.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Pushes Out Big February Update For CBL-Mariner 2.0 Linux Distro]]></title>
+        <id>https://www.phoronix.com/news/CBL-Mariner-2.0-Linux-Big-Feb</id>
+        <link href="https://www.phoronix.com/news/CBL-Mariner-2.0-Linux-Big-Feb"/>
+        <updated>2024-02-25T10:46:13.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft's in-house CBL-Mariner Linux distribution has routinely seen weekly-ish updates to this open-source code used within Azure, WSL, and other areas of the Redmond company. But it's been one month since the prior CBL-Mariner 2.0 release... That changed Saturday night with a shiny new release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gundam Breaker 4 Blasts Onto Nintendo Switch In 2024]]></title>
         <id>https://www.nintendolife.com/#article-162679</id>
@@ -1887,19 +1930,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mother Creator On Third Game's Localisation: "Please Talk To Nintendo About That"]]></title>
-        <id>https://www.nintendolife.com/#article-162609</id>
-        <link href="https://www.nintendolife.com/news/2024/02/mother-creator-on-third-games-localisation-please-talk-to-nintendo-about-that"/>
-        <updated>2024-02-23T01:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Mother 3 is now playable on Japan's NSO library.
-The 2006 Game Boy Advance title Mother 3 was re-released in Japan this week on the Switch Online service and it's reignited discussion about why there hasn't been a western localisation.
-The series creator Shigesato Itoi has reportedly been bombarded with all sorts of "complaints and requests" and has now issued a response, reminding everyone it's up to Nintendo. Here's the machine translation (via IGN): "Please talk to Nintendo about that, not me".
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Little Devil Inside Reemerges With A New Trailer And Cryptic Developer Update]]></title>
         <id>122121</id>
         <link href="https://www.gameinformer.com/2024/02/22/little-devil-inside-reemerges-with-a-new-trailer-and-cryptic-developer-update"/>
@@ -3274,16 +3304,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IBM Begins Work On Power11 Enablement For Upcoming Linux 6.9]]></title>
-        <id>https://www.phoronix.com/news/IBM-Power11-Linux-Enable-Start</id>
-        <link href="https://www.phoronix.com/news/IBM-Power11-Linux-Enable-Start"/>
-        <updated>2024-02-21T19:08:59.000Z</updated>
-        <summary type="html"><![CDATA[The first "Power11" patches were queued today into the  PowerPC's "next" Git branch ahead of the upcoming Linux 6.9 kernel cycle...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sea Of Thieves Sets Sail For PlayStation 5 This April]]></title>
         <id>122107</id>
         <link href="https://www.gameinformer.com/2024/02/21/sea-of-thieves-sets-sail-for-playstation-5-this-april"/>
@@ -3330,16 +3350,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel QATlib 24.02 Brings Support For GEN 5 QAT Devices]]></title>
-        <id>https://www.phoronix.com/news/Intel-QATlib-24.02</id>
-        <link href="https://www.phoronix.com/news/Intel-QATlib-24.02"/>
-        <updated>2024-02-21T17:48:05.000Z</updated>
-        <summary type="html"><![CDATA[Intel has released a new version of QATlib, their user-space support library for the QuickAssist Technology (QAT) via add-in hardware and recent Xeon Scalable processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3429,16 +3439,6 @@ Arranger: A Role-Puzzling Adventu…]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Mesa Driver Code Working To Split Off Old Broadwell "Gen8" Graphics Code]]></title>
-        <id>https://www.phoronix.com/news/Intel-Mesa-Splitting-Gen8</id>
-        <link href="https://www.phoronix.com/news/Intel-Mesa-Splitting-Gen8"/>
-        <updated>2024-02-21T16:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Iris Gallium3D driver for modern OpenGL support works on hardware going back to old Broadwell processors with "Gen8" integrated graphics as does the HasVK Vulkan driver for Haswell/Broadwell. But in allowing to focus on the common Skylake "Gen9" graphics and newer/future Intel graphics architectures, pending Mesa code is working to split-off that old Broadwell/Gen8 code. The Gen8 support will continue to be in-tree but separated from the rest of the compiler code so that the code can continue to be improved for newer Intel hardware without risking regressions/breaking those still on Broadwell era processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
