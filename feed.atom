@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-02-28T00:42:56.282Z</id>
+    <id>urn:2024-02-28T02:16:31.541Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-02-28T00:42:56.282Z</updated>
+    <updated>2024-02-28T02:16:31.541Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux's V4L2 VP9 Codec Kernel Code Rewritten In Rust For Better Memory Safety]]></title>
+        <id>https://www.phoronix.com/news/VP9-Linux-Kernel-Rust-V4L2-RFC</id>
+        <link href="https://www.phoronix.com/news/VP9-Linux-Kernel-Rust-V4L2-RFC"/>
+        <updated>2024-02-28T01:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Daniel Almeida with Collabora has posted a rewritten of the VP9 codec library code within the Linux kernel's Video 4 Linux 2 (V4L2) subsystem. In using Rust rather than the existing C code, this should yield better memory safety and better fend off potential issues within the existing code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine Wayland Driver Patches Enable Basic OpenGL Support]]></title>
+        <id>https://www.phoronix.com/news/Wine-Wayland-Basic-OpenGL</id>
+        <link href="https://www.phoronix.com/news/Wine-Wayland-Basic-OpenGL"/>
+        <updated>2024-02-28T00:56:46.000Z</updated>
+        <summary type="html"><![CDATA[Continuing to bring-up the Wine Wayland driver for offering native Wayland support without X11/XWayland, Alexandros Frantzis opened the pull request today for enabling basic OpenGL support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Legends: Z-A Is Apparently Set "Entirely" Within Lumiose City]]></title>
+        <id>https://www.nintendolife.com/#article-162802</id>
+        <link href="https://www.nintendolife.com/news/2024/02/pokemon-legends-z-a-is-apparently-set-entirely-within-lumiose-city"/>
+        <updated>2024-02-28T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Return to the Kalos region.
+
+Past Pokémon games have typically required aspiring trainers to go out and explore the world, but the newly announced Pokémon Legends: Z-A for "Nintendo Switch systems" could be a little different.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Narrative studio Deck Nine Games lays off 20% of its staff]]></title>
         <id>https://www.destructoid.com/?p=469342</id>
@@ -2347,19 +2380,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UK Charts: Mario Vs. Donkey Kong Slips Down The Ladder To Third]]></title>
-        <id>https://www.nintendolife.com/#article-162697</id>
-        <link href="https://www.nintendolife.com/news/2024/02/uk-charts-mario-vs-donkey-kong-slips-down-the-ladder-to-third"/>
-        <updated>2024-02-26T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unleash the minis.
-After its debut at number one last week, Mario vs. Donkey Kong has slipped down to third in the UK Boxed Charts, leaving EA Sports FC 24 and Hogwarts Legacy to take number one and two respectively.
-It's still a good showing for the plumber, however, with three Mario titles once again settling in nicely in the top ten. Elsewhere, Lego Star Wars: The Skywalker Saga has seen a good boost in sales to jump up to number eight, while Warner Bros. Games' much-maligned Suicide Squad: Kill the Justice League has fallen down to number twenty-four.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Prodejní automat rozpoznává obličeje?]]></title>
         <id>www.root.cz-actuality-45668</id>
         <link href="https://www.root.cz/zpravicky/prodejni-automat-rozpoznava-obliceje/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2830,26 +2850,6 @@ Logging into Call of Duty: Modern Warfare 3 today is quite the ride. Players hav
 Ranke…]]></summary>
         <author>
             <name>Tim Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton 9.0 Beta Makes More Games Playable Under Steam Play, Updates VKD3D-Proton & DXVK]]></title>
-        <id>https://www.phoronix.com/news/Proton-9.0-Beta-Steam-Play</id>
-        <link href="https://www.phoronix.com/news/Proton-9.0-Beta-Steam-Play"/>
-        <updated>2024-02-24T00:24:49.000Z</updated>
-        <summary type="html"><![CDATA[In time for weekend Linux gamers, Valve and their CodeWeavers partners today rolled out their first public beta of Proton 9.0 as their Wine-based software that powers Steam Play for enjoying Windows games on Linux with ease under the Steam client...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 9.3 Brings New HID Pointer Driver & Better Internet Proxy Support]]></title>
-        <id>https://www.phoronix.com/news/Wine-9.3-Released</id>
-        <link href="https://www.phoronix.com/news/Wine-9.3-Released"/>
-        <updated>2024-02-24T00:02:22.000Z</updated>
-        <summary type="html"><![CDATA[Wine 9.3 is out this Friday as the newest bi-weekly development release of this open-source software for enjoying Windows games and apps on Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
