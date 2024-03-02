@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-02T10:09:17.626Z</id>
+    <id>urn:2024-03-02T12:15:42.353Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-02T10:09:17.626Z</updated>
+    <updated>2024-03-02T12:15:42.353Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux From Scratch a Beyond Linux From Scratch 12.1]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/linux-from-scratch-a-beyond-linux-from-scratch-12.1</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/linux-from-scratch-a-beyond-linux-from-scratch-12.1"/>
+        <updated>2024-03-02T12:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Komunita kolem Linuxu From Scratch (LFS) vydala Linux From Scratch 12.1 a Linux From Scratch 12.1 se systemd. Nové verze knih s návody na instalaci vlastního linuxového systému ze zdrojových kódů přichází s Glibc 2.39, Binutils 2.42 a Linuxem 6.7.4. Současně bylo oznámeno vydání verze 12.1 knih Beyond Linux From Scratch (BLFS) a Beyond Linux From Scratch se systemd.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UWP'ed Mesa Running On Microsoft Xbox, Allowing For New Game Ports With OpenGL]]></title>
+        <id>https://www.phoronix.com/news/UWP-Mesa-Xbox-Port</id>
+        <link href="https://www.phoronix.com/news/UWP-Mesa-Xbox-Port"/>
+        <updated>2024-03-02T11:40:36.000Z</updated>
+        <summary type="html"><![CDATA[Recently there has been out-of-tree successes on adapting Mesa to work on Microsoft's Universal Windows Platform (UWP). UWP is also used by the Microsoft Xbox Series X/S game consoles and in turn paired with the Microsoft D3D12 driver work within Mesa for allowing OpenGL and other APIs atop D3D12, is allowing new games/software to be ported to the Xbox...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.3.279 Brings New NVIDIA Extension Co-Engineered By Valve]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.3.279-Released</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.3.279-Released"/>
+        <updated>2024-03-02T11:24:45.000Z</updated>
+        <summary type="html"><![CDATA[Vulkan 1.3.279 debuted on Friday with many fixes/clarifications to the specifications plus one new extension...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (March 2nd)]]></title>
         <id>https://www.nintendolife.com/#article-162947</id>
@@ -2838,16 +2868,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kali Linux 2024.1]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/kali-linux-2024.1</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/kali-linux-2024.1"/>
-        <updated>2024-02-28T21:10:43.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána (Mastodon, 𝕏) nová verze 2024.1 linuxové distribuce navržené pro digitální forenzní analýzu a penetrační testování Kali Linux (Wikipedie). Přehled novinek se seznamem nových nástrojů v oficiálním oznámení.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mesa NVK Vulkan Driver Now Declared Vulkan 1.3 Conformant, Mesa 24.1 To Build By Default]]></title>
         <id>https://www.phoronix.com/news/Mesa-NVK-Vulkan-Conformant</id>
         <link href="https://www.phoronix.com/news/Mesa-NVK-Vulkan-Conformant"/>
@@ -3296,26 +3316,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVK Vulkan Driver Lands Shader Object & Graphics Pipeline Library]]></title>
-        <id>https://www.phoronix.com/news/NVK-ESO-GPL-Support</id>
-        <link href="https://www.phoronix.com/news/NVK-ESO-GPL-Support"/>
-        <updated>2024-02-28T11:38:08.000Z</updated>
-        <summary type="html"><![CDATA[The open-source NVIDIA "NVK" Vulkan driver within the Mesa codebase has merged support for the important VK_EXT_shader_object and VK_EXT_graphics_pipeline_library extensions. Additionally, as part of supporting these new extensions, this introduces the code for a common Vulkan runtime to Mesa...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Servo Improves Its Experimental Support For HTML Tables, More CSS Features]]></title>
-        <id>https://www.phoronix.com/news/Servo-February-2024</id>
-        <link href="https://www.phoronix.com/news/Servo-February-2024"/>
-        <updated>2024-02-28T11:25:00.000Z</updated>
-        <summary type="html"><![CDATA[The Servo web engine project has put out a new blog post that outlines all of their accomplishments made during the course of February...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
