@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-04T11:21:41.248Z</id>
+    <id>urn:2024-03-04T12:22:46.285Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-04T11:21:41.248Z</updated>
+    <updated>2024-03-04T12:22:46.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa 24.1 Lands Support For GFX11.5.1 "RDNA3 Refresh" Variant]]></title>
+        <id>https://www.phoronix.com/news/Mesa-24.1-Enable-GFX11.5.1</id>
+        <link href="https://www.phoronix.com/news/Mesa-24.1-Enable-GFX11.5.1"/>
+        <updated>2024-03-04T11:57:45.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to the AMD "RDNA3 Refresh" GFX11.5 open-source driver support, to date it's mostly been focused on the GFX 11.5.0 (GFX1150) IP while now being enabled within Mesa 24.1 for the open-source RadeonSI/RADV drivers is support for a GFX 11.5.1 (GFX1151) variant...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Vulkan Driver Lands Descriptor Buffer Support To Reduce Linux Gaming CPU Overhead]]></title>
+        <id>https://www.phoronix.com/news/Intel-VK_EXT_descriptor_buffer</id>
+        <link href="https://www.phoronix.com/news/Intel-VK_EXT_descriptor_buffer"/>
+        <updated>2024-03-04T11:42:08.000Z</updated>
+        <summary type="html"><![CDATA[The VK_EXT_descriptor_buffer extension was made public in November 2022 with Vulkan 1.3.235 while finally this past week Intel's open-source Mesa "ANV" driver has merged support for this extension. This Vulkan extension is important for Linux gaming and other scenarios to lower CPU overhead...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Several WayForward Prototypes Appear Online Following Data Leak]]></title>
+        <id>https://www.nintendolife.com/#article-163007</id>
+        <link href="https://www.nintendolife.com/news/2024/03/several-wayforward-prototypes-appear-online-following-data-leak"/>
+        <updated>2024-03-04T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Upcoming Shantae game will reportedly remain untouched.
+WayForward, the developer behind the likes of the Shantae series and last year's Advance Wars 1+2: Re-Boot Camp, has apparently suffered a data leak which has seen developmental prototypes and game backups posted online.
+As noted on Twitter by Lance McDonald, the leaked information is said to have come from a discarded hard drive which was found, with much of its contents now having been dumped online.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arch Linux's Pacman 6.1 Released With Cache Server Support]]></title>
+        <id>https://www.phoronix.com/news/Arch-Linux-Pacman-6.1</id>
+        <link href="https://www.phoronix.com/news/Arch-Linux-Pacman-6.1"/>
+        <updated>2024-03-04T11:32:12.000Z</updated>
+        <summary type="html"><![CDATA[It was two years since the release of Pacman 6.0 as Arch Linux's package manager software while overnight Pacman 6.1 was released with a tag line "it's been a while..." With Pacman 6.1 comes a few new features...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce RTX 4070 Ti Super review: memory serves this refreshed GPU]]></title>
+        <id>https://www.rockpapershotgun.com/nvidia-geforce-rtx-4070-ti-super-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/nvidia-geforce-rtx-4070-ti-super-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-03-04T11:28:05.000Z</updated>
+        <summary type="html"><![CDATA[I still don’t fully understand the rancor with which the RTX 4070 Ti is often regarded. Where some see an overpriced, memory-deprived albatross of a graphics card, I’ve only ever seen a fast and feature-rich GPU whose 12GB of VRAM is demonstrably fine for 99.95% of games at 4K. A better deal than the RTX 4080 for that resolution, in any case.
+Now, though, we can all agree: nobody should buy an RTX 4070 Ti. Not when the RTX 4070 Ti Super is here, doing a better, hopefully less contentious job of smooth 4K without demanding RTX 4080 (or, indeed, RTX 4080 Super) levels of investment.
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LACT 0.5.3 Released For Managing AMD Graphics Cards Under Linux]]></title>
         <id>https://www.phoronix.com/news/AMD-Graphics-LACT-0.5.3</id>
@@ -81,9 +136,7 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.rockpapershotgun.com/the-maw-4th-9th-march-2024?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
         <updated>2024-03-04T09:25:14.000Z</updated>
         <summary type="html"><![CDATA[New week, new videogames, new newsblog. It's another relatively quiet week for big name PC releases - no mega-sequels or adaptations, unless you're seriously into the Moomins - but if 2024 has taught me anything it's that a breakout hit can come from anywhere, and I will accordingly be watching this week's new games with deep suspicion and barely constrained panic.
-Here are the ones that seem most promising, at the time of writing: Warsaw-set magician RPG The Thaumaturge (4th March); spacey cube-obsessed factory sim Sixty Four (4th March); all-terrain open-worlder Expeditions: A MudRunner Game (5th March); co-op-skewed laboratory gorefest The Outlast Trials (5th March); circus horror Reveil (6th March); Sonic-maniac platformer Berserk Boy (6th March); Shadow of the Octopus 'em up Chasing The Unseen (7th March); storybook puzzler Snufkin: Melody of Moominvalley (7th March); XCOM-meets-Baldur's-Gatea-like Zoria: Age of Shattering (7th March).
-As ever, this list is sponsored by the Maw, that convoluted and churning force of cosmic greed, which we strive ever to keep stuffed full of videogame news, lest it guzzle down what we are pleased to call our reality. It's an incomplete, working list of recommendations - if we've missed something you're looking forward to, it's absolutely because we despise it, and are secretly out to punish you for ever liking it. I mean, it's because I ran out of time. Feel free to suggest games for coverage in the comments along with any breaking news we should pounce on. Have a good week!
- Read more]]></summary>
+Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
         </author>
@@ -1740,16 +1793,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 LTS Enters Its Feature Freeze]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-24.04-Feature-Freeze</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-24.04-Feature-Freeze"/>
-        <updated>2024-03-01T11:10:34.000Z</updated>
-        <summary type="html"><![CDATA[Now rolling into March, Ubuntu 24.04 LTS "Noble Numbat" has entered its feature freeze period ahead of its official release in April...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hlasujte pro přednášky na letošní konferenci InstallFest 2024]]></title>
         <id>www.root.cz-actuality-45685</id>
         <link href="https://www.root.cz/zpravicky/hlasujte-pro-prednasky-na-letosni-konferenci-installfest-2024/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1964,29 +2007,6 @@ A good month because of Sifu alone
 If you haven't had the opportunity to play Sifu, this is your chance. Our very own Eric "Queen's Blood Master" Van Allen gave it a solid 9/10 when it was released two years ago, praising Slowcap's ability to tread the line between challenge and reward. According to Eric, "Sifu is a challenge wor…]]></summary>
         <author>
             <name>Steven Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serpent OS Makes Progress On Packaging The GNOME 45 Desktop]]></title>
-        <id>https://www.phoronix.com/news/Serpent-OS-February-2024</id>
-        <link href="https://www.phoronix.com/news/Serpent-OS-February-2024"/>
-        <updated>2024-03-01T01:16:34.000Z</updated>
-        <summary type="html"><![CDATA[Ikey Doherty's Serpent OS Linux distribution continues being raised and over the past month made progress on packaging up various GNOME 45 desktop components, working on stateless system support with systemd, and other features...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crash Bandicoot Dev Toys For Bob Splits From Activision & Xbox, Goes Independent]]></title>
-        <id>https://www.nintendolife.com/#article-162918</id>
-        <link href="https://www.nintendolife.com/news/2024/03/crash-bandicoot-dev-toys-for-bob-splits-from-activision-and-xbox-goes-independent"/>
-        <updated>2024-03-01T00:45:00.000Z</updated>
-        <summary type="html"><![CDATA["We're thrilled".
-It's been another wild week for the video game industry and it seems we're not done just yet. After mass layoffs at companies like PlayStation and Electronic Arts, we've now got developers splitting from their owner groups.
-Adding to this is the Crash Bandicoot and Spyro developer Toys for Bob, which has now announced it's leaving Activision and the Xbox team to become an independent studio. This follows reports of its facility closing down, with reportedly 86 workers impacted at the time of Microsoft's mass layoffs.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2772,16 +2792,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zink Lands Support For Partial Updates / Damage Handling]]></title>
-        <id>https://www.phoronix.com/news/Zink-Partial-Updates-Damage</id>
-        <link href="https://www.phoronix.com/news/Zink-Partial-Updates-Damage"/>
-        <updated>2024-02-29T15:30:55.000Z</updated>
-        <summary type="html"><![CDATA[Valve contractor Mike Blumenkrantz is back at it working on some exciting improvements to Mesa and in particular for the Zink OpenGL-on-Vulkan implementation...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4545,17 +4555,6 @@ Are you going to check out Hideo Kojima: Connecting Worlds this weekend? Let us 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cosmic Express collides with Sokobond in new game puzzle Sokobond Express]]></title>
-        <id>https://www.rockpapershotgun.com/cosmic-express-collides-with-sokobond-in-new-game-puzzle-sokobond-express?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/cosmic-express-collides-with-sokobond-in-new-game-puzzle-sokobond-express?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-02-23T15:31:28.000Z</updated>
-        <summary type="html"><![CDATA[What happens when you combine two great puzzle games? You get one puzzle game which makes me, an accredited professional fool, feel dizzy with noncomprehension. That game is Sokobond Express, which launched yesterday and combines the atom-shoving chemistry of Sokobond with the route-planning puzzling of Cosmic Express. So you have to draw paths around a grid to gather atoms to correctly build a desired molecule. That's all. Just molecular chemistry and pathing, at the same time. Oh, my poor foolish head.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Final Fantasy VII Rebirth Is The Second-Highest Rated Game In The Series On Metacritic]]></title>
         <id>122125</id>
         <link href="https://www.gameinformer.com/news/2024/02/23/final-fantasy-vii-rebirth-is-the-second-highest-rated-game-in-the-series-on"/>
@@ -5129,16 +5128,6 @@ Below is a list of general fixes in Android Studio Iguana | 2023.2.1 RC 1 and A
 reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You c…]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenTTD 14.0-beta2]]></title>
-        <id>https://www.openttd.org/news/2024/02/04/openttd-14-0-beta2.html</id>
-        <link href="https://www.openttd.org/news/2024/02/04/openttd-14-0-beta2.html"/>
-        <updated>2024-02-04T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You found some bugs in the beta1-release, and we found a new beta. With this update, you can now safely signal to your hearts content again. The full changelog is linked below. Problems like this are exactly why we need you to test the game. Carry on playing the game, and please report any issues you find. And don’t forget to watch this space for more information on OpenTTD 14. With the start of the beta cycle for OpenTTD 14, it’s also a good time to help out with the various translations of the game. No matter if you are already a translator or want become one, head over to our web translator if you like to help out. Download Changelog Bug tracker]]></summary>
-        <author>
-            <name>OpenTTD</name>
         </author>
     </entry>
 </feed>
