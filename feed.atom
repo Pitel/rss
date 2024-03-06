@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-06T08:13:43.625Z</id>
+    <id>urn:2024-03-06T10:10:29.631Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-06T08:13:43.625Z</updated>
+    <updated>2024-03-06T10:10:29.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ansible: úvod do automatizace, role a AWX (školení)]]></title>
+        <id>www.root.cz-actuality-40036</id>
+        <link href="https://www.root.cz/zpravicky/ansible-uvod-do-automatizace-role-a-awx-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-03-06T08:52:23.000Z</updated>
+        <summary type="html"><![CDATA[Na internetu píšou, že začít s automatizací správy serverů můžete do půl hodiny. Dokážeme vám, že s Ansible to je pravda. Stačí navštívit naše pražské školení Ansible – úvod do automatizace a pak navazující Ansible – role a AWX.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pirate IPTV Co. & Seven Workers Fined After Massive Raids Eight Years Ago]]></title>
         <id>https://torrentfreak.com/?p=248050</id>
@@ -826,7 +836,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>www.root.cz-actuality-45699</id>
         <link href="https://www.root.cz/zpravicky/amdgpu-uz-nedovoli-snizit-spotrebu-radeonu-bez-omezeni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2024-03-05T16:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Ovladač AMDGPU donedávna umožňoval ruční snížení limitu spotřeby grafické karty prakticky k nule. To bylo odstraněno s vydáním Linuxu 6.7, kde AMDGPU zavádí jisté minimální limity spotřeby a tato úprava nebude revertována. Od této verze Linux ctí nastavení minimální hodnoty ve vBIOSu karty, stejně jako odjakživa ctí nastavení maximální hodnoty.]]></summary>
+        <summary type="html"><![CDATA[Ovladač AMDGPU donedávna umožňoval ruční snížení limitu spotřeby grafické karty prakticky k nule. To bylo odstraněno s vydáním Linuxu 6.7, kde AMDGPU zavádí jisté minimální limity spotřeby a tato úprava nebude revertována. Od této verze Linux ctí nastavení minimální hodnoty v BIOSu karty, stejně jako odjakživa ctí nastavení maximální hodnoty.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -3994,16 +4004,6 @@ In his letter, Wilson states that EA is restructuring to become more streamlined
         <summary type="html"><![CDATA[Dnes se budeme věnovat slibovaným rozšířením pro vizualizaci dat na dashboard, které by bylo z mého pohledu škoda opomenout a můžeme je využít i pro jiné účely. Výsledkem bude krásná a účelná vizualizace.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Václav Steiner)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V4L2 kodek formátu VP9 přepsán z C do jazyka Rust, autor chce vyvolat diskusi o možné změně]]></title>
-        <id>www.root.cz-actuality-45678</id>
-        <link href="https://www.root.cz/zpravicky/v4l2-kodek-formatu-vp9-prepsan-z-c-do-jazyka-rust-autor-chce-vyvolat-diskusi-o-mozne-zmene/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-02-28T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Almeida z Collabory publikoval implementaci kodeku pro video formát VP9 a kernelové rozhraní Video 4 Linux 2 (V4L2) napsanou v Rustu. Rozhodl se tak z v takové situaci obvyklých důvodů: namísto vylepšování stávajícího C kódu sáhl po Rustu pro jeho větší paměťovou bezpečnost a menší budoucí problémy s kódem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
