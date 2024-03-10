@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-10T10:08:58.512Z</id>
+    <id>urn:2024-03-10T12:15:29.574Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-10T10:08:58.512Z</updated>
+    <updated>2024-03-10T12:15:29.574Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Radeon Memory Visualizer Hooks Up With Qualcomm Adreno Vulkan Driver]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-Adreno-RMV</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-Adreno-RMV"/>
+        <updated>2024-03-10T11:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to the nature of open-source and AMD making their Radeon Memory Visualizer "RMV" open-source under the GPUOpen umbrella, outside of AMD graphics drivers it's found usage elsewhere. Back in January I wrote how Intel's open-source Vulkan driver was adapted for being able to interface with the Radeon Memory Visualizer. Now this week the Qualcomm Adreno "TURNIP" Vulkan driver has also been wired up for enabling RMV integration...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Niri 0.1.3 Wayland Compositor Brings Touch Support, New Animations]]></title>
+        <id>https://www.phoronix.com/news/Niri-0.1.3-Wayland-Compositor</id>
+        <link href="https://www.phoronix.com/news/Niri-0.1.3-Wayland-Compositor"/>
+        <updated>2024-03-10T11:08:20.000Z</updated>
+        <summary type="html"><![CDATA[Niri is an interesting scrollable tiling Wayland compositor inspired by PaperWM that has been gaining user interest in recent months. This weekend marked the v0.1.3 release of this Wayland compositor...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl - Mario & Luigi: Partners In Time]]></title>
+        <id>https://www.nintendolife.com/#article-163251</id>
+        <link href="https://www.nintendolife.com/news/2024/03/poll-box-art-brawl-mario-and-luigi-partners-in-time"/>
+        <updated>2024-03-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It's a MAR10 Day special.
+Welcome back to another clash of the covers in this week's Box Art Brawl!
+Before we meet today's contenders, let's take a look at what happened last time when we matched up three regional covers for Ninja Gaiden Shadow (or Shadow Warriors for those in Europe and Australia). Despite there being three options, it wasn't a close call. North America walked away with the win, taking 67% of the vote, while Japan and Europe picked up 7% and 27% respectively.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-709?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-709?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-03-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for treating your mum to something nice. Let's gift as we read the week's best writing about games and game-related things.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.9 To Upgrade Rust Toolchain - Making More Features Stable]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-Rust-Upgrade</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-Rust-Upgrade"/>
+        <updated>2024-03-10T10:46:03.000Z</updated>
+        <summary type="html"><![CDATA[All of the Rust feature patches have already been submitted in a pull request to Linus Torvalds ahead of the upcoming Linux 6.9 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effort Continues To Remove Most Of The SPARC 32-bit CPU Support From Linux]]></title>
+        <id>https://www.phoronix.com/news/Linux-Drop-Most-SPARC32-v2</id>
+        <link href="https://www.phoronix.com/news/Linux-Drop-Most-SPARC32-v2"/>
+        <updated>2024-03-10T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Last year saw a lot of code clean-up work on the Linux kernel and working to remove support for obsolete hardware no longer being actively maintained within the mainline kernel tree for years. On the CPU side one of the efforts has been to remove unused SPARC 32-bit CPU support for old Sun workstations. The patches for removing unused SPARC32 code was updated this weekend and now undergoing review...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wahoo! LEGO Super Mario Is Getting Brand New Sets This August]]></title>
         <id>https://www.nintendolife.com/#article-163309</id>
@@ -2494,19 +2558,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Unicorn Overlord (Switch) - A Crowning Tactical RPG Achievement For Vanillaware]]></title>
-        <id>https://www.nintendolife.com/#article-162821</id>
-        <link href="https://www.nintendolife.com/reviews/nintendo-switch/unicorn-overlord"/>
-        <updated>2024-03-07T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My kingdom for a unicorn.
-How do you follow up a game like 13 Sentinels: Aegis Rim? Before that ambitious, phenomenal sci-fi adventure, developer Vanillaware found its niche in creating rich, beautiful-looking worlds with a magical, medieval twist. Sometimes it was traditional Western fantasy, while others it jumped back to Edo Japan. Unicorn Overlord marks the developer’s return to the former, taking place in a fantasy realm overtaken by an evil lord. That sounds like the exact opposite of 13 Sentinels’ winding plot, but Unicorn Overlord is ambitious in an entirely different way. It’s also absolutely brilliant, effortlessly blending multiple systems to create a wonderful tactical RPG with a twist.
-At the start of the game, you witness the fall of the Kingdom of Cornia thanks to a revolt led by General Valmore. At the same time, the young prince Alain flees the kingdom with the Holy Knight Josef, to ensure the bloodline survives. The revolt, however, is successful, and the Zenioran Army rises up and gradually overtakes all five nations of Valmore. Ten years later, Alain returns to build a liberation army to take back his kingdom and restore order to the continent of Fevrith.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[After years of silence, Unknown 9: Awakening re-emerges as a supernatural mash-up of Assassin's Creed with Star Wars Force powers]]></title>
         <id>https://www.rockpapershotgun.com/after-years-of-silence-unknown-9-awakening-re-emerges-as-a-supernatural-mash-up-of-assassins-creed-with-star-wars-force-powers?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/after-years-of-silence-unknown-9-awakening-re-emerges-as-a-supernatural-mash-up-of-assassins-creed-with-star-wars-force-powers?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -3277,16 +3328,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lisa Su Says The "Team Is On It" After Tweet About Open-Source AMD GPU Firmware]]></title>
-        <id>https://www.phoronix.com/news/Lisa-Su-Tweet-OSS-Firmware</id>
-        <link href="https://www.phoronix.com/news/Lisa-Su-Tweet-OSS-Firmware"/>
-        <updated>2024-03-06T14:00:59.000Z</updated>
-        <summary type="html"><![CDATA[George Hotz with Tiny Corp that is working on Tinygrad and TinyBox for interesting developments in the open-source AI space has previously called out AMD over ROCm issues. Yesterday yielded new tweets by "the tiny corp" over AI training runs crashing with MES errors and then called for AMD open-sourcing the firmware to which AMD CEO Lisa Su has responded...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Joker's Debut In Suicide Squad: Kill The Justice League Gets Release Date As Warner Bros. Doubles Down On Live-Service Games]]></title>
         <id>122209</id>
         <link href="https://www.gameinformer.com/news/2024/03/06/jokers-debut-in-suicide-squad-kill-the-justice-league-gets-release-date-as-warner"/>
@@ -3368,36 +3409,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM/Clang 18.1 Released With Intel AVX10.1 Work, Adds Clearwater Forest & Panther Lake]]></title>
-        <id>https://www.phoronix.com/news/LLVM-Clang-18.1-Released</id>
-        <link href="https://www.phoronix.com/news/LLVM-Clang-18.1-Released"/>
-        <updated>2024-03-06T12:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Out today is the big LLVM/Clang 18.1 release. Due to shifting to a new versioning scheme like GCC, today's LLVM 18.1 release is the first major stable release in the new series for what previously would have been called LLVM 18.0...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RADV Now Supports Experimental VK_EXT_shader_object For RDNA3 GPUs Using NGG]]></title>
-        <id>https://www.phoronix.com/news/RADV-NGG-RDNA3-ESO-Option</id>
-        <link href="https://www.phoronix.com/news/RADV-NGG-RDNA3-ESO-Option"/>
-        <updated>2024-03-06T11:41:57.000Z</updated>
-        <summary type="html"><![CDATA[Samuel Pitoiset of Valve's Linux graphics team recently wrapped up experimental support for the RADV Vulkan driver for EXT_shader_object support using Next-Gen Geometry (NGG) on RDNA3/GFX11 graphics processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UWSM Aims To Be A Universal Wayland Session Manager]]></title>
-        <id>https://www.phoronix.com/news/UWSM-Wayland-Session-Manager</id>
-        <link href="https://www.phoronix.com/news/UWSM-Wayland-Session-Manager"/>
-        <updated>2024-03-06T11:26:48.000Z</updated>
-        <summary type="html"><![CDATA[UWSM is short for the Universal Wayland Session Manager and it incorporates systemd's help in managing the Wayland compositors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4903,17 +4914,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tomb Raider Remastered devs apologise for releasing an unfinished version on Epic Games Store]]></title>
-        <id>https://www.rockpapershotgun.com/tomb-raider-remastered-devs-apologies-for-releasing-an-unfinished-version-on-epic-games-store?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/tomb-raider-remastered-devs-apologies-for-releasing-an-unfinished-version-on-epic-games-store?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-02-29T16:52:13.000Z</updated>
-        <summary type="html"><![CDATA[The creators of Tomb Raider I-III Remastered have apologised to players for releasing an unfinished version of the game on the Epic Games Store, following a series of unflattering comparisons between versions on ye olde social media. 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pirate Sites With Malicious Ads Face Restrictions Under New Initiative]]></title>
         <id>https://torrentfreak.com/?p=247708</id>
         <link href="https://torrentfreak.com/pirate-sites-with-malicious-ads-face-restrictions-under-new-initiative-240229/"/>
@@ -5232,16 +5232,6 @@ Issue #323512667
 Test SimpleKotlinEnumUnboxingTest fails on kotlin_dev bot]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don’t get your buses in a bunch]]></title>
-        <id>https://www.openttd.org/news/2024/02/10/unbunching.html</id>
-        <link href="https://www.openttd.org/news/2024/02/10/unbunching.html"/>
-        <updated>2024-02-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever waited for a late bus, and then two arrived at once? This is called “bus bunching,” and I bet you’ve seen it happen in OpenTTD – and not just with buses. For years, players have requested an easier way to keep vehicles with shared orders spaced out along their route. In OpenTTD 14, we’ve added one.]]></summary>
-        <author>
-            <name>OpenTTD</name>
         </author>
     </entry>
 </feed>
