@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-14T06:12:47.428Z</id>
+    <id>urn:2024-03-14T08:12:32.186Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-14T06:12:47.428Z</updated>
+    <updated>2024-03-14T08:12:32.186Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Tor představil WebTunnel, nový způsob připojení skrývající se za HTTPS]]></title>
+        <id>www.root.cz-actuality-45744</id>
+        <link href="https://www.root.cz/zpravicky/tor-predstavil-webtunnel-novy-zpusob-pripojeni-skryvajici-se-za-https/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-03-14T07:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Tým projektu Tor pro boj proti cenzuře s oznámil WebTunnel, nový způsob připojení k síti Tor, který má pomoci uživatelům v přísně cenzurovaných oblastech připojit se k síti Tor. Vývoj různých typů připojení je zásadní pro zvýšení odolnosti sítě Tor vůči cenzuře a udržení náskoku před protivníky ve vysoce dynamickém a neustále se měnícím prostředí cenzury, píše se v oznámení.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crypt Of The NecroDancer Returns From The Dead With "Huge New DLC"]]></title>
         <id>https://www.nintendolife.com/#article-163171</id>
@@ -3813,16 +3823,6 @@ While that reveal trailer promises some watery Eikonic action in the DLC, which 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Klasické hry Command & Conquer jsou na Steamu]]></title>
-        <id>www.root.cz-actuality-45720</id>
-        <link href="https://www.root.cz/zpravicky/klasicke-hry-command-conquer-jsou-na-steamu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-08T14:03:18.000Z</updated>
-        <summary type="html"><![CDATA[Klasické strategické hry v reálném čase Command & Conquer jsou nyní dostupné na Steamu. Jde dohromady o 17 her s cenovkou mezi 1,49 – 1,99 eur. Dají se koupit dohromady se slevou 50 % za 9,88 eur jako Command & Conquer The Ultimate Collection.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Son And Bone Preview – Dinosaur, Meet Shotgun]]></title>
         <id>122212</id>
         <link href="https://www.gameinformer.com/preview/2024/03/08/dinosaur-meet-shotgun"/>
@@ -5314,40 +5314,6 @@ API
               
 Issue #319071726
 FR: viewBinding and dataBinding state (whether enabled) should be available as a Property<Boolean> for plugin authors]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Iguana | 2023.2.1 RC 2 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-rc-2-now.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/02/android-studio-iguana-202321-rc-2-now.html"/>
-        <updated>2024-02-13T19:41:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Iguana | 2023.2.1 RC 2 is now available in the Beta channel.
-If you already have an Android Studio build on the Beta channel,
-you can get the update by clicking Help > Check for Update (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Iguana, see the Android Studio Preview release notes. For details of bugs fixed in each preview
-release, see previous entries on this blog.
-General fixes and features
-Below is a list of general fixes in Android Studio Iguana | 2023.2.1 RC 2 and Android Gradle Plugin 8.3.0-rc02 These are a result of your bug 
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Shrinker (R8)
-      
-        
-
-          
-            
-
-              
-Issue #323512667
-Test SimpleKotlinEnumUnboxingTest fails on kotlin_dev bot]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
