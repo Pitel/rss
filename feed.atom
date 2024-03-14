@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-13T22:09:20.352Z</id>
+    <id>urn:2024-03-14T00:42:59.999Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-13T22:09:20.352Z</updated>
+    <updated>2024-03-14T00:42:59.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds Isn't Happy With Some Of The Bcachefs Code For Linux 6.9]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-Bcachefs-Attempt</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-Bcachefs-Attempt"/>
+        <updated>2024-03-14T00:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Since the Bcachefs file-system was upstreamed in the Linux 6.7 kernel it's been humming along fairy well. But today the Bcachefs feature updates were sent in for the Linux 6.9 merge window and Linus Torvalds isn't happy about some of the proposed code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.9 Makes A Change To Satisfy Microsoft For EFI x86 Shim Loader Signing]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-EFI-Updates</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-EFI-Updates"/>
+        <updated>2024-03-14T00:02:02.000Z</updated>
+        <summary type="html"><![CDATA[The EFI updates were merged today for the ongoing Linux 6.9 merge window. This cycle the EFI kernel code is seeing enhancements for confidential computing as well as for satisfy Microsoft's requirements for getting them to sign the x86 shim loader again for UEFI Secure Boot handling...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Assistant: fotovoltaika a nabíjení elektromobilu]]></title>
+        <id>www.root.cz-text-17024</id>
+        <link href="https://www.root.cz/clanky/home-assistant-fotovoltaika-a-nabijeni-elektromobilu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-03-13T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Probereme využití fotovoltaické elektrárny pro nabíjení elektromobilu. Popíšu reálné zkušenosti a jak může fotovoltaická elektrárna, navíc ve spojení s nákupem elektřiny na spotovém trhu, provozu elektromobilu výrazně pomoci.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Václav Steiner)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knihovna LibCST umožňující snadnou modifikaci zdrojových kódů Pythonu (2. část)]]></title>
+        <id>www.root.cz-text-17063</id>
+        <link href="https://www.root.cz/clanky/knihovna-libcst-umoznujici-snadnou-modifikaci-zdrojovych-kodu-pythonu-2-cast/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-03-13T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Ve druhém článku o knihovně LibCST, která umožňuje modifikaci zdrojových kódů napsaných v Pythonu s využitím CST (derivačního stromu), si ukážeme, jak naprogramovat přejmenování proměnné, záměnu operátorů, přejmenování funkce apod.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can you romance multiple characters in Baldur’s Gate 3 (BG3)]]></title>
         <id>https://www.destructoid.com/?p=414091</id>
@@ -3265,26 +3305,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi V3D Graphics Driver Preps For Super Pages To Boost Performance]]></title>
-        <id>https://www.phoronix.com/news/Raspberry-Pi-V3D-Super-Pages</id>
-        <link href="https://www.phoronix.com/news/Raspberry-Pi-V3D-Super-Pages"/>
-        <updated>2024-03-11T10:58:09.000Z</updated>
-        <summary type="html"><![CDATA[Igalia continues maintaining the Broadcom V3D open-source graphics driver code that is used by the Raspberry Pi single board computers. With a new patch series posted today for the V3D DRM driver, support for Super Pages is enabled to help with enhancing the graphics performance. In many benchmarks having Super Pages can enhance the performance by a few percent but in some extreme cases can be 19~42% faster...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x86/cpu Change For Linux 6.9 Slightly Eases Future AMD Zen CPU Enablement]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.9-x86-CPU</id>
-        <link href="https://www.phoronix.com/news/Linux-6.9-x86-CPU"/>
-        <updated>2024-03-11T10:44:32.000Z</updated>
-        <summary type="html"><![CDATA[A number of x86-related pull requests were already submitted today for kicking off the new Linux 6.9 merge window. With the x86/cpu pull for this new kernel cycle there is just one patch and it's for slightly easing future AMD Zen processor enablement under Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Maw - 11th-16th March 2024]]></title>
         <id>https://www.rockpapershotgun.com/the-maw-11th-16th-march-2024?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/the-maw-11th-16th-march-2024?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -3488,16 +3508,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Kompozit z různých forem nitridu boru má mít unikátní vlastnosti. Prozkoumali dosud nejhmotnější pár černých děr (28 miliard Sluncí). Okna budoucnosti. Kuiperův pás by se mohl táhnout mnohem dál. Kovová jizva na kanibalské hvězdě.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LXQt 100% připraveno na Wayland, Nikon koupil firmu RED]]></title>
-        <id>www.root.cz-text-17056</id>
-        <link href="https://www.root.cz/clanky/lxqt-100-pripraveno-na-wayland-nikon-koupil-firmu-red/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-09T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Týden v KDE: až 200 hlášení chyb denně a práce na Plasmě 6.1, Wine 9.4 s novější VKD3D 1.11 a OpenGL na Waylandu, GTK 4.14 nabídne ostřejší renderování písem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -3922,16 +3932,6 @@ You can get a gli…]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rozpoznání zápalu plic z RTG snímků – díl druhý]]></title>
-        <id>www.root.cz-text-17054</id>
-        <link href="https://www.root.cz/clanky/rozpoznani-zapalu-plic-z-rtg-snimku-dil-druhy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-07T23:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Jedná se o jeden ze základních modelů pro klasifikaci obrázků založených na konvolučních vrstvách. Principem je postupné zmenšování plošných dimenzí a naopak rozšiřování velikosti vlastností.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
