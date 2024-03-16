@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-16T10:10:47.126Z</id>
+    <id>urn:2024-03-16T12:18:14.102Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-16T10:10:47.126Z</updated>
+    <updated>2024-03-16T12:18:14.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bcachefs Multi-Device Users Should Avoid Linux 6.7: "A Really Horific Bug"]]></title>
+        <id>https://www.phoronix.com/news/Bcachefs-Move-Past-Linux-6.7</id>
+        <link href="https://www.phoronix.com/news/Bcachefs-Move-Past-Linux-6.7"/>
+        <updated>2024-03-16T10:57:07.000Z</updated>
+        <summary type="html"><![CDATA[If you were feeling adventurous and began using the Bcachefs file-system upon its introduction in Linux 6.7 mainline and using it for a multi-device setup, you are best off upgrading to Linux 6.8 as soon as possible due to known issues with the code in v6.7...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Continuing To Land More Fixes, Eye More Features For Plasma 6.1]]></title>
+        <id>https://www.phoronix.com/news/KDE-More-6.0-Fixes</id>
+        <link href="https://www.phoronix.com/news/KDE-More-6.0-Fixes"/>
+        <updated>2024-03-16T10:34:48.000Z</updated>
+        <summary type="html"><![CDATA[KDE developer Nate Graham is out with his latest weekly development summary to outline all of the new KDE features and bug fixes that have come about for the KDE desktop and apps over the past week...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (16th March)]]></title>
         <id>https://www.nintendolife.com/#article-163551</id>
@@ -3507,26 +3527,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 6.0.2 Delivers Another Week Worth Of Bug Fixes]]></title>
-        <id>https://www.phoronix.com/news/KDE-Plasma-6.0.2</id>
-        <link href="https://www.phoronix.com/news/KDE-Plasma-6.0.2"/>
-        <updated>2024-03-12T19:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Last week saw Plasma 6.0.1 for an initial batch of bug fixes for this major desktop environment that debuted the week prior. Out today is Plasma 6.0.2 with another round of bug fixes that have been addressed over the past week...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GhostRace Detailed - Speculative Race Conditions Affecting All Major CPUs / ISAs]]></title>
-        <id>https://www.phoronix.com/news/CPU-Speculative-GhostRace</id>
-        <link href="https://www.phoronix.com/news/CPU-Speculative-GhostRace"/>
-        <updated>2024-03-12T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VUSec and IBM Research Europe today announced Speculative Race Conditions (SRCs) as a as a new class of vulnerabilities where thread synchronization primitives using conditional branches can be microarchitecturally bypassed on speculative paths using a Spectre-V1 attack. The researchers have dubbed CVE-2024-2193 as GhostRace and is said to affect all major CPU vendors...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
