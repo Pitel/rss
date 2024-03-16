@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-15T22:09:51.066Z</id>
+    <id>urn:2024-03-16T00:42:45.075Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-15T22:09:51.066Z</updated>
+    <updated>2024-03-16T00:42:45.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.8.1 & Other Stable Kernels Released With Intel RFDS Mitigation]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.8.1-Plus-RFDS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.8.1-Plus-RFDS"/>
+        <updated>2024-03-16T00:27:50.000Z</updated>
+        <summary type="html"><![CDATA[A slew of new Linux stable kernel point releases were issued today, driven in part for getting out the Intel Register File Data Sampling "RFDS" mitigations for the kernel code as part of this week's disclosure and microcode updates and kernel patches...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Událo se v týdnu 11/2024]]></title>
+        <id>http://www.abclinuxu.cznull/</id>
+        <link href="http://www.abclinuxu.cznull/"/>
+        <updated>2024-03-15T23:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O víkendu probíhá Installfest 2024]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/o-vikendu-probiha-installfest-2024</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/o-vikendu-probiha-installfest-2024"/>
+        <updated>2024-03-15T22:33:30.000Z</updated>
+        <summary type="html"><![CDATA[O víkendu probíhá v Praze na Karlově náměstí 13 konference Installfest 2024. Na programu je celá řada zajímavých přednášek a workshopů.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to make Mace in Minecraft]]></title>
         <id>https://www.destructoid.com/?p=478512</id>
@@ -2573,16 +2603,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi OS 2024-03-12]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/raspberry-pi-os-2024-03-12</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/raspberry-pi-os-2024-03-12"/>
-        <updated>2024-03-14T10:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pi OS, oficiální operační systém pro Raspberry Pi, byl vydán v nové verzi 2024-03-12.  Přehled novinek v poznámkách k vydání. Chromium bylo povýšeno na verzi 122.0.6261.89, Firefox na verzi 123.0, Linux na verzi 6.6.20, …]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mesa 24.0.3 Released With Many Graphics Driver Bug Fixes]]></title>
         <id>https://www.phoronix.com/news/Mesa-24.0.3-Released</id>
         <link href="https://www.phoronix.com/news/Mesa-24.0.3-Released"/>
@@ -3526,16 +3546,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Intel CPU Microcode & "RFDS" Linux Kernel Patch For New Security Vulnerabilities]]></title>
-        <id>https://www.phoronix.com/news/Intel-March-2024-Security</id>
-        <link href="https://www.phoronix.com/news/Intel-March-2024-Security"/>
-        <updated>2024-03-12T17:50:36.000Z</updated>
-        <summary type="html"><![CDATA[Intel has released new CPU microcode for addressing five security issues and additionally there is newly-merged Linux kernel code for mitigating the new Register File Data Sampling "RFDS" micro-architectural vulnerability affecting Atom / E cores...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -5185,16 +5195,6 @@ Fixed Issues]]></summary>
         <summary type="html"><![CDATA[Test Orchestrator Version 1.5.0-alpha03]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ITBiz: Státy omezují výstavbu datových center, vadí jim obrovská spotřeba energie]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-staty-omezuji-vystavbu-datovych-center-vadi-jim-obrovska-spotreba-energie</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-staty-omezuji-vystavbu-datovych-center-vadi-jim-obrovska-spotreba-energie"/>
-        <updated>2024-02-24T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Acronis Cyber Protect 16 přináší nové standardy kybernetické bezpečnosti a ochrany dat. Zranitelná místa má každá firma. Zabránit tomu nelze, je třeba s tím pracovat. Acer na trh uvádí nové notebooky řady Swift s procesory AMD Ryzen řady 8040 s umělou inteligencí Ryzen. AI Days s Nvidia pod taktovkou M Computers. Umělá inteligence bude v roce 2024 nejsilnějším motorem produktivity vývojářů. Státy omezují výstavbu datových center, vadí jim obrovská spotřeba energie.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
     <entry>
