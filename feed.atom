@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-17T04:11:52.775Z</id>
+    <id>urn:2024-03-17T06:11:38.870Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-17T04:11:52.775Z</updated>
+    <updated>2024-03-17T06:11:38.870Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[More Princess Peach: Showtime! Launch Goodies Revealed (US)]]></title>
+        <id>https://www.nintendolife.com/#article-163589</id>
+        <link href="https://www.nintendolife.com/news/2024/03/more-princess-peach-showtime-launch-goodies-revealed-us"/>
+        <updated>2024-03-17T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Score a free themed cup at Target.
+
+Princess Peach: Showtime! is almost here and ahead of this Switch release, Target in the US has revealed it will be offering Nintendo fans a free cup when they pick up the game in stores.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SDL Storage API Merged For SDL 3.0]]></title>
         <id>https://www.phoronix.com/news/SDL3-SDL_Storage-API-Merged</id>
@@ -2635,19 +2648,6 @@ Check out the Brighter Shores reveal trailer for yourself below: 
 Read more...]]></summary>
         <author>
             <name>Alyssa Mercante</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Don't Be Fooled Into Buying Fake SD Cards For Your Switch]]></title>
-        <id>https://www.nintendolife.com/#article-163494</id>
-        <link href="https://www.nintendolife.com/news/2024/03/video-dont-be-fooled-into-buying-fake-sd-cards-for-your-switch"/>
-        <updated>2024-03-14T13:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Corruption is at hand.
-With so many incredible games now available on the Switch, it's natural that you might be in the market for a micro SD card to boost your storage capacity beyond the measly 64GB afforded by the Switch OLED (or 32 GB if you're using an OG model).
-What our lovely video producer Alex has demonstrated, however, is that not all SD card manufacturers can be trusted; particularly those that promote cheap products with seemingly large storage capacities. Spotted a 1TB card for less than 20 quid? Sounds delightful, right? Well, not quite.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -5324,56 +5324,6 @@ Webkit Version 1.11.0-alpha02]]></summary>
         <summary type="html"><![CDATA[How do you update a 30-year old pixel font to make it more suitable for today? The pixel-art OpenTTD fonts are iconic, but were designed for 640x480 CRT monitors rather than today’s 4k monsters. Without the horizontal smoothing of CRT scanlines, modern pixel-perfect rendering and 2x or 4x upscaling of the old bitmap/sprite-based fonts makes the text jagged and hard to read.]]></summary>
         <author>
             <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Jellyfish | 2023.3.1 Canary 10 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_16.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_16.html"/>
-        <updated>2024-02-16T18:02:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Jellyfish | 2023.3.1 Canary 10 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Update (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Jellyfish, see the Android Studio Preview release notes. For details of bugs fixed in each preview
-release, see previous entries on this blog.
-General fixes and features
-Below is a list of general fixes in Android Studio Jellyfish | 2023.3.1 Canary 10 and Android Gradle Plugin 8.4.0-alpha10 These are a result of your bug 
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #317262738
-AIDL compile fails with IndexOutOfBoundsException: Index 0 out of bounds for length 0
-
-          
-        
-
-      
-    
-API
-      
-        
-
-          
-            
-
-              
-Issue #319071726
-FR: viewBinding and dataBinding state (whether enabled) should be available as a Property<Boolean> for plugin authors]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
