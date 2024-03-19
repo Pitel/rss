@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-19T08:12:33.112Z</id>
+    <id>urn:2024-03-19T10:10:32.022Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-19T08:12:33.112Z</updated>
+    <updated>2024-03-19T10:10:32.022Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Firefox 124 má Screen Wake Lock API]]></title>
+        <id>www.root.cz-actuality-45759</id>
+        <link href="https://www.root.cz/zpravicky/firefox-124-ma-screen-wake-lock-api/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-03-19T08:32:33.000Z</updated>
+        <summary type="html"><![CDATA[Dnes vyjde Firefox 124, ale balíčky jsou již připraveny. Mezi novinky patří podpora Screen Wake Lock API. Přes něj mohou stránky zabránit spořiči a zamknutí obrazovky. To se používá například při přehrávání videa, zobrazení QR kódu, čtení e-knih atd.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Získání roota na Pixelu 8 s povoleným MTE (CVE-2023-6241)]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/ziskani-roota-na-pixelu-8-s-povolenym-mte-cve-2023-6241</id>
@@ -4304,16 +4314,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIRD 2.15 přináší například podrobné zobrazení sezení BFD]]></title>
-        <id>www.root.cz-actuality-45734</id>
-        <link href="https://www.root.cz/zpravicky/nova-verze-routovaciho-demona-bird-prinasi-napriklad-podrobne-zobrazeni-sezeni-bfd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-12T08:12:33.000Z</updated>
-        <summary type="html"><![CDATA[Sdružení CZ.NIC vydalo novou stabilní verzi routovacího démona BIRD. Verze 2.15 obsahuje řadu drobnějších vylepšení, v jejich případě stojí za zmínku zejména nasazení SendHoldTimeru, možnost vynutit si konkrétní capabilities v BGP nebo podrobné zobrazení sezení BFD.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Vilém Sládek)</name>
         </author>
     </entry>
     <entry>
