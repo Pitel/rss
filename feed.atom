@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-23T10:10:03.727Z</id>
+    <id>urn:2024-03-23T12:18:47.369Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-23T10:10:03.727Z</updated>
+    <updated>2024-03-23T12:18:47.369Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Rust Bindings Posted For KMS Drivers, VKMS Ported To Rust]]></title>
+        <id>https://www.phoronix.com/news/Linux-Rust-KMS-RVKMS</id>
+        <link href="https://www.phoronix.com/news/Linux-Rust-KMS-RVKMS"/>
+        <updated>2024-03-23T10:57:48.000Z</updated>
+        <summary type="html"><![CDATA[So far when it comes to Direct Rendering Manager (DRM) / Kernel Mode-Setting (KMS) display drivers for Linux, there are Rust efforts underway for the Apple Silicon kernel graphics driver with the Asahi Linux project as well as the new Nova effort for a modern open-source NVIDIA kernel driver from Red Hat. Also now out from Red Hat is posting the Rust bindings for KMS to review plus porting the existing Virtual KMS driver over to Rust as the "RVKMS" driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Sees A Number Of Regression Fixes & Some Crash Fixes This Week]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6.0.3-Prep</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6.0.3-Prep"/>
+        <updated>2024-03-23T10:41:41.000Z</updated>
+        <summary type="html"><![CDATA[KDE developers continue to be quite busy fixing a variety of regressions -- including some crashes -- with the new KDE Plasma 6 desktop stack. Plasma 6.0.3 will ship next week with yet more fixes while some feature work toward Plasma 6.1 is also underway...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (23rd March)]]></title>
         <id>https://www.nintendolife.com/#article-163896</id>
@@ -89,6 +109,16 @@ While it was struggling to knock over one final level called 'Trimming the Herbs
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The stoppable march of time]]></title>
+        <id>https://www.openttd.org/news/2024/03/23/timekeeping.html</id>
+        <link href="https://www.openttd.org/news/2024/03/23/timekeeping.html"/>
+        <updated>2024-03-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I was once the hottest new model on the street. Newspapers heralded my arrival in every town. The titans of industry were inspired to produce more goods when I visited their factories. But as the years have passed, so do their eyes pass over me, to eye curiously my replacements. Will you try the new style, ma’am? It’s so much better than that old thing. I’ve watched my friends grow old and die. My brother got caught in traffic and caused a horrific level crossing collision. I get sick more often, wheezing to a halt wherever I am. When I visit the doctor for a spot of renewal, they tell me, “Sorry, I can’t help. You’re too old.” When will I be autoreplaced? Woe is the tale of the Balogh Goods Truck. But what if we could slow or pause the steady march of time? In OpenTTD 14, you can.]]></summary>
+        <author>
+            <name>OpenTTD</name>
         </author>
     </entry>
     <entry>
@@ -3316,16 +3346,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Significant Corporate Importance & Pressure Around Mesa Open-Source Linux 3D Drivers]]></title>
-        <id>https://www.phoronix.com/news/Mesa-Revert-For-SPECViewPerf</id>
-        <link href="https://www.phoronix.com/news/Mesa-Revert-For-SPECViewPerf"/>
-        <updated>2024-03-20T00:06:37.000Z</updated>
-        <summary type="html"><![CDATA[It has taken many years but the Mesa 3D open-source graphics drivers have proven very successful from the open-source AMD Vulkan and OpenGL drivers proving they can be capable of competing with the closed-source drivers not only for gaming but also workstation tasks, the Windows vs. Linux graphics driver performance gap largely closed, Microsoft even leveraging Mesa for their translations to the D3D12 API, vendors like Imagination developing once unthinkable open-source drivers, etc. But with the increasing importance to corporations, so has the responsibilities and concerns of Mesa driver developers...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[March 20, 2024]]></title>
         <id>https://developer.android.com/jetpack/androidx/versions/all-channel#march_20_2024</id>
         <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#march_20_2024"/>
@@ -3469,16 +3489,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD With Upstream Linux Nears "The Ultimate Goal Of Confidential Computing"]]></title>
-        <id>https://www.phoronix.com/news/AMD-EPYC-SEV-SNP-CoCo</id>
-        <link href="https://www.phoronix.com/news/AMD-EPYC-SEV-SNP-CoCo"/>
-        <updated>2024-03-19T19:00:17.000Z</updated>
-        <summary type="html"><![CDATA[More AMD SEV-SNP bits are upstreamed now for the in-development Linux 6.9 kernel that is putting the EPYC processor support on the mainline kernel trajectory for "the ultimate goal of the AMD confidential computing side" to hopefully be in great shape come Linux 6.10 later in the year...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
