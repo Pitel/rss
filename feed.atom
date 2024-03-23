@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-23T08:11:18.383Z</id>
+    <id>urn:2024-03-23T10:10:03.727Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-23T08:11:18.383Z</updated>
+    <updated>2024-03-23T10:10:03.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (23rd March)]]></title>
+        <id>https://www.nintendolife.com/#article-163896</id>
+        <link href="https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-23rd-march"/>
+        <updated>2024-03-23T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Perfect organism.
+Hurray, it's the weekend!
+Before we dive into what we're going to be playing, let's take a look at what's been going on this week. For starters, we reviewed Princess Peach: Showtime! for the Switch, and surprise surprise, it turned out to be much better than we were expecting.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
         <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-276?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
@@ -34,7 +47,7 @@ Basically, there are two saves: the last time you slept at an Inn and the most r
         <id>https://www.nintendolife.com/#article-163733</id>
         <link href="https://www.nintendolife.com/news/2024/03/reminder-smash-ultimate-adds-brand-new-mario-wonder-and-princess-peach-showtime-spirits"/>
         <updated>2024-03-23T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Grab 'em later this week.
+        <summary type="html"><![CDATA[Update: Now available!
 Update :
 Here's your reminder this event is now officially underway in Super Smash Bros. Ultimate and will run for five days. Have fun!
 Read the full article on nintendolife.com]]></summary>
@@ -2353,20 +2366,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Download: 21st March (North America)]]></title>
-        <id>https://www.nintendolife.com/#article-163783</id>
-        <link href="https://www.nintendolife.com/news/2024/03/nintendo-download-21st-march-north-america"/>
-        <updated>2024-03-21T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Princess Peach: Showtime! South Park: Snow Day! Krimson!
-The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop in your region. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy!
-Switch eShop - Highlights
-Princess Peach: Showtime! (Nintendo, 22nd Mar, $59.99) - Join Princess Peach as she steps into the spotlight in her very own single-player action game! As Princess Peach attends the Sparkle Theater, the wicked Grape and the Sour Bunch take control over the play to enact their own performances. Joined by Stella, the theater’s guardian, Peach must save each show and transform to match the performance – becoming Swordfighter Peach, Detective Peach, Ninja Peach, Patissiere Peach and more. Each transformation changes up the action and comes with its own abilities for Peach to best save each play and call curtains to Grape’s wicked plans. - Read our Princess Peach: Showtime! review
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -5341,106 +5340,6 @@ Fixed Issues]]></summary>
         <summary type="html"><![CDATA[OpenTTD 14.0 comes with a new ship pathfinder which allows ships to travel great distances without the use of buoys. Gone are the days of long strings of buoys and convoluted ship orders. Using ships is now as hassle-free as the other modes of transport. Just add the destination and send the ship on its way! In this post, I’m going to explain how the new pathfinder works and some of the challenges we had to overcome.]]></summary>
         <author>
             <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Jellyfish | 2023.3.1 Canary 11 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_22.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/02/android-studio-jellyfish-202331-canary_22.html"/>
-        <updated>2024-02-22T22:07:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Jellyfish | 2023.3.1 Canary 11 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Update (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in all preview builds of Android Studio Jellyfish, see the Android Studio Preview release notes. For details of bugs fixed in each preview
-release, see previous entries on this blog.
-General fixes and features
-Below is a list of general fixes in Android Studio Jellyfish | 2023.3.1 Canary 11 and Android Gradle Plugin 8.4.0-alpha11 These are a result of your bug 
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Background Task Inspector
-      
-        
-
-          
-            
-
-              
-Issue #264952950
-Bug: "Background task inspector" tool fail to detect an alarm being set
-
-            
-
-              
-Issue #325593939
-Request: For "Background task inspector" tool , show all information that's possible to get about all alarms
-
-            
-
-              
-Issue #325651935
-Alarm With immutable PendingIntent Doesn't Show as Fired
-
-          
-        
-
-      
-    
-IntelliJ
-      
-        
-
-          
-            
-
-              
-Issue #319147212
-Android Studio Jellyfish does not respect "Accepted Certificates" configuration
-
-          
-        
-
-      
-    
-Lint
-      
-        
-
-          
-            
-
-              
-Issue #325107804
-Lint K2 UAST: UCallableReferenceExpression reports wrong qualifierType
-
-            
-
-              
-Issue #324087645
-Lint false positive with useK2Uast=true with overloaded functions
-
-          
-        
-
-      
-    
-StudioBot
-      
-        
-
-          
-            
-
-              
-Issue #319124681
-No scrolling in studio bot Android Studio Jellyfish | 2023.3.1 Canary 3]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
