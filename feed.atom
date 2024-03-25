@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-24T22:10:29.597Z</id>
+    <id>urn:2024-03-25T00:45:42.092Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-24T22:10:29.598Z</updated>
+    <updated>2024-03-25T00:45:42.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: nový typ DoS útoku na protokoly využívající UDP]]></title>
+        <id>www.root.cz-text-17082</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-novy-typ-dos-utoku-na-protokoly-vyuzivajici-udp/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-03-24T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[V dnešním díle Postřehů se podíváme na nový typ DoS útoku na UDP protokoly, zranitelnosti umožňující otevírat miliony dveří v hotelech po celém světě nebo pokračující problémy s databází NVD.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Kopřiva)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyšlo prostředí GNOME 46, Ubuntu 24.04 má oficiální tapetu]]></title>
+        <id>www.root.cz-text-17079</id>
+        <link href="https://www.root.cz/clanky/vyslo-prostredi-gnome-46-ubuntu-24-04-ma-oficialni-tapetu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-03-24T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Projekt GNOME oznámil vydání stabilní verze GNOME 46 s kódovým označením „Kathmandu“. Ubuntu 24.04 LTS „Noble Numbat“ má svou oficiální tapetu. Red Hat oznámil grafický ovladač Nova jako náhradu za Nouveau.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knihovna libcoro – korutiny pro C++20 (revize)]]></title>
+        <id>www.root.cz-text-17084</id>
+        <link href="https://www.root.cz/clanky/knihovna-libcoro-korutiny-pro-c-20-revize/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-03-24T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Po určité době jsem se rozhodl revidovat svou knihovnu pro práci s korutinami v C++20. Během používání jsem si zapsal postřehy z dosavadního vývoje a tak vznikla nová knihovna která se snaží řešit některé problémy předchozí verze.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.9-rc1 Released With AMD P-State Preferred Core, Larger FB Console Fonts]]></title>
         <id>https://www.phoronix.com/news/Linux-6.9-rc1-Released</id>
@@ -3836,26 +3866,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kurz přežití s Linuxem, otevřený hardware mění společnost a tučňák v telefonu, zápisky z InstallFestu]]></title>
-        <id>www.root.cz-text-17071</id>
-        <link href="https://www.root.cz/clanky/kurz-preziti-s-linuxem-otevreny-hardware-meni-spolecnost-a-tucnak-v-telefonu-zapisky-z-installfestu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-18T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Jak přežít v přírodě s Linuxem, páječkou a hromadou součástek? Jaké výhody má komunikační síť Matrix a proč ji ještě nemají všichni? Jak mění otevřený hardware společnost? Nejen o tom se mluvilo na InstallFestu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Realizace transakcí v systému Redis]]></title>
-        <id>www.root.cz-text-17070</id>
-        <link href="https://www.root.cz/clanky/realizace-transakci-v-systemu-redis/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-18T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Seznámíme se s tím, jak jsou v systému Redis realizovány (či spíše nerealizovány) transakce a jakým způsobem je možné si je naprogramovat, a to s využitím takzvané pipeline a optimistického zamykání.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Valve Introduces New Steam Family Game Sharing Program]]></title>
         <id>122294</id>
         <link href="https://www.gameinformer.com/2024/03/18/valve-introduces-new-steam-family-game-sharing-program"/>
@@ -4201,16 +4211,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Prodej bezpečnostního hardwaru spíše stagnuje. Nový akt EU o umělé inteligenci: Co se (ne)smí. Umělá inteligence v periferních zařízeních: výkonná zařízení, větší úložiště. Při virtuálních schůzkách lidé bojují s nudou. SAP představuje novinky ve správě firemních dat.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: pozor na pluginy ChatGPT a novou variantu StopCrypt]]></title>
-        <id>www.root.cz-text-17066</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-pozor-na-pluginy-chatgpt-a-nove-varianty-malwaru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-17T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Podíváme se na pluginy ChatGPT od třetích stran, které mohou vést k převzetí účtů, hackera ze skupiny LockBit, který musí zaplatit náhradu škody a malware DarkGate zneužívající chybu ve funkci SmartScreen.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Monika Kutějová)</name>
         </author>
     </entry>
     <entry>
