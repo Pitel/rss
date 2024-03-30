@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-03-30T16:12:33.493Z</id>
+    <id>urn:2024-03-30T18:13:07.399Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-03-30T16:12:33.493Z</updated>
+    <updated>2024-03-30T18:13:07.399Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Servo Web Engine Adds WOFF2 Web Fonts, HTML Tables By Default]]></title>
+        <id>https://www.phoronix.com/news/Servo-Web-Engine-March-2023</id>
+        <link href="https://www.phoronix.com/news/Servo-Web-Engine-March-2023"/>
+        <updated>2024-03-30T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Servo Web Engine under the stewardship of Linux Foundation Europe and with ongoing contributions by the likes of Igalia and other developers continues having a very vibrant year. The open-source developers involved remain very busy getting this Rust-written web layout engine into good shape for possible use as an embed-friendly solution for other software...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiny Corp Details More Of Their Planned Tinybox System Specs]]></title>
+        <id>https://www.phoronix.com/news/Tinybox-Green-Red-Specs</id>
+        <link href="https://www.phoronix.com/news/Tinybox-Green-Red-Specs"/>
+        <updated>2024-03-30T17:23:48.000Z</updated>
+        <summary type="html"><![CDATA[After putting their AMD GPU powered Tinybox "on hold" only to decide a few days later to offer both AMD and NVIDIA graphics options for Tinybox compute systems, George Hotz' Tiny Corp has now shared more specifications for these planned "green" and "red" Tinybox designs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Fixes Botched SRSO Mitigation For AMD Zen 3 / Zen 4]]></title>
+        <id>https://www.phoronix.com/news/AMD-SRSO-Inception-Fixes-2024</id>
+        <link href="https://www.phoronix.com/news/AMD-SRSO-Inception-Fixes-2024"/>
+        <updated>2024-03-30T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Disclosed last August was the AMD Inception vulnerability also known as SRSO for the Speculative Return Stack Overflow. The kernel-side patches for the AMD SRSO mitigation were quickly merged. Following that were more clean-ups and fixes to the SRSO mitigation code. It's been a quiet few months since while merged on Friday was fixing some of the mitigation code due to being ineffective...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Helping Out In Making The Linux Kernel Language More Inclusive]]></title>
+        <id>https://www.phoronix.com/news/Microsoft-Linux-More-Inclusive</id>
+        <link href="https://www.phoronix.com/news/Microsoft-Linux-More-Inclusive"/>
+        <updated>2024-03-30T17:07:32.000Z</updated>
+        <summary type="html"><![CDATA[With time Microsoft's Linux kernel contributions have extended beyond just the initial business focus on Hyper-V support and other needs for Azure as well as around Windows Subsystem for Linux (WSL) to more general contributions. Microsoft has also hired more key Linux contributors along with stakes in other projects like systemd. Earlier this week were patches from a Microsoft engineer working out Rust language improvements for the Linux kernel while now in ending out the holiday weekend are patches for making the Linux kernel language more inclusive...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plumbing the depths of Skibidi Toilet with Half-Life writer Marc Laidlaw]]></title>
+        <id>https://www.destructoid.com/?p=485450</id>
+        <link href="https://www.destructoid.com/plumbing-the-depths-of-skibidi-toilet-with-half-life-writer-marc-laidlaw/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=plumbing-the-depths-of-skibidi-toilet-with-half-life-writer-marc-laidlaw"/>
+        <updated>2024-03-30T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The expression “kids these days...” never fails to precede a superior display of generational and cultural disconnect. I’m trying to inoculate myself against one day getting the urge to say that by getting dangerously exposed to the thing that’s currently taking the youths by storm. That thing, right now, is Skibidi Toilet. 
+
+
+Skibidi Toilet is a bizarre YouTube series that combines Half-Life 2 character models with toilets to tell a bonkers story. If it helps, you can think of it as an attempt at making the new generation’s Space Ghost Coast to Coast, or the G.I. JOE PSAs by someone who likely doesn’t even know those exist. 
+
+
+YouTube HL2 spoofs aren’t new, but the thing about Skibidi Toilet is how huge of a phenomenon it has become, and how it still managed to fly under the mainstream ra…]]></summary>
+        <author>
+            <name>Tiago Manuel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Games Would You Like To See Given The 'Gold Master Series' Treatment?]]></title>
         <id>https://www.nintendolife.com/#article-164018</id>
@@ -234,16 +290,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Byla vydána nová verze 2.14 svobodného video editoru Flowblade (GitHub, Wikipedie). Přehled novinek v poznámkách k vydání. Videoukázky funkcí Flowblade na Vimeu. Instalovat lze také z Flathubu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Fixes Botched SRSO Mitigation For AMD Zen 3 / Zen 4]]></title>
-        <id>https://www.phoronix.com/news/AMD-SRSO-Inception-Fixes-2024</id>
-        <link href="https://www.phoronix.com/news/AMD-SRSO-Inception-Fixes-2024"/>
-        <updated>2024-03-30T10:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Disclosed last August was the AMD Inception vulnerability also known as SRSO for the Speculative Return Stack Overflow. The kernel-side patches for the AMD SRSO mitigation were quickly merged. Following that were more clean-ups and fixes to the SRSO mitigation code. It's been a quiet few months since while merged on Friday was fixing some of the mitigation code due to being ineffective...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1381,46 +1427,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to make Raisins and why you should in Stardew Valley]]></title>
-        <id>https://www.destructoid.com/?p=485912</id>
-        <link href="https://www.destructoid.com/how-to-make-raisins-and-why-you-should-in-stardew-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-make-raisins-and-why-you-should-in-stardew-valley"/>
-        <updated>2024-03-29T12:46:50.000Z</updated>
-        <summary type="html"><![CDATA[Raisins are a newly added food item added into Stardew Valley in update 1.6, and if you’ve found the secret notes telling you that they’re the favorite food of the Junimos, you’re likely wondering whether they’re worth making. Spoiler alert: they are. 
-
-
-How to make Raisins in Stardew Valley
-
-
-It’s actually remarkably easy to make Raisins in Stardew Valley. All you need is some Grapes and a Dehydrator. 
-
-
-To get a Dehydrator, you have two options:
-
-
-
-Opt for a Mushroom Cave to be placed on your farm and make use of the Dehydrator which comes included
-
-
-Buy the recipe from Pierre’s Shop for 10,000 Gold and use the following resources to make one:
-
-30 Wood
-
-
-2 Clay
-
-
-1 Fire Quartz
-
-
-
-
-
-Once you’ve got a Dehydrator to use, simply place 5 Grapes inside and you’ll have Raisins after 29 in-game …]]></summary>
-        <author>
-            <name>Paula Vaynshteyn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Random: McDonald's DSi Console Pulled From Second-Hand Sale In Japan]]></title>
         <id>https://www.nintendolife.com/#article-164162</id>
         <link href="https://www.nintendolife.com/news/2024/03/random-mcdonalds-dsi-console-pulled-from-second-hand-sale-in-japan"/>
@@ -2020,17 +2026,6 @@ That core mechanic is, of course, the Grinder, a conical drilling device protago
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pepper Grinder review: short, sweet and incredibly neat]]></title>
-        <id>https://www.rockpapershotgun.com/pepper-grinder-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/pepper-grinder-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-03-28T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pepper Grinder is one of those games that has so many great moments in it that recounting them would almost feel unfair to anyone hoping to play it. There are feats of platforming prowess on show here that should really be experienced fresh and unsullied by rudimentary descriptions of them, because to say anymore would be to spoil the surprise. This feels doubly important when the game itself is so fleeting in length, its brief and dizzying journey through the dirt, magma, ice and marshy bogs of this strange, treasure-stuffed island coming to a swift conclusion in just over three and a half hours. It left me wanting more the moment the credits rolled, but deep down I know it's also perfectly formed just the way it is. Rather than outstay its welcome, Pepper Grinder shows up, performs its party trick, then gets the hell out of the way, leaving you to bask in the warm glow of a good game well done.
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Electronic Wireless Show podcast S3 episode 12: Helldivers 2 has a game master and this is good]]></title>
         <id>https://www.rockpapershotgun.com/the-electronic-wireless-show-podcast-s3-episode-12-helldivers-2-has-a-game-master-and-this-is-good?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/the-electronic-wireless-show-podcast-s3-episode-12-helldivers-2-has-a-game-master-and-this-is-good?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -2041,6 +2036,17 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pepper Grinder review: short, sweet and incredibly neat]]></title>
+        <id>https://www.rockpapershotgun.com/pepper-grinder-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/pepper-grinder-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-03-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pepper Grinder is one of those games that has so many great moments in it that recounting them would almost feel unfair to anyone hoping to play it. There are feats of platforming prowess on show here that should really be experienced fresh and unsullied by rudimentary descriptions of them, because to say anymore would be to spoil the surprise. This feels doubly important when the game itself is so fleeting in length, its brief and dizzying journey through the dirt, magma, ice and marshy bogs of this strange, treasure-stuffed island coming to a swift conclusion in just over three and a half hours. It left me wanting more the moment the credits rolled, but deep down I know it's also perfectly formed just the way it is. Rather than outstay its welcome, Pepper Grinder shows up, performs its party trick, then gets the hell out of the way, leaving you to bask in the warm glow of a good game well done.
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
         </author>
     </entry>
     <entry>
@@ -3040,16 +3046,6 @@ Head over to Game Informer's YouTube channel for more previews, reviews, and 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Engineer Sends Rust Linux Kernel Patches For In-Place Module Initialization]]></title>
-        <id>https://www.phoronix.com/news/Linux-Rust-In-Place-Module-Init</id>
-        <link href="https://www.phoronix.com/news/Linux-Rust-In-Place-Module-Init"/>
-        <updated>2024-03-27T10:52:22.000Z</updated>
-        <summary type="html"><![CDATA[What a time we live in where Microsoft not only continues contributing significantly to the Linux kernel but doing so to further flesh out the design of the Linux kernel's Rust programming language support. A previously unimaginable combination of Microsoft, the Rust programming language, and the Linux kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Failbetter's next game will be "gentler" than Sunless Skies: "you won't go mad or eat your crew"]]></title>
         <id>https://www.rockpapershotgun.com/failbetters-next-game-will-be-gentler-than-sunless-skies-you-wont-go-mad-or-eat-your-crew?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/failbetters-next-game-will-be-gentler-than-sunless-skies-you-wont-go-mad-or-eat-your-crew?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -3087,16 +3083,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Xe Developers Begin Looking At Cross-Device & Cross-Driver HMM]]></title>
-        <id>https://www.phoronix.com/news/Intel-Xe-Eyes-Cross-Device-HMM</id>
-        <link href="https://www.phoronix.com/news/Intel-Xe-Eyes-Cross-Device-HMM"/>
-        <updated>2024-03-27T10:22:34.000Z</updated>
-        <summary type="html"><![CDATA[The Intel open-source engineers working on the modern Xe DRM kernel graphics driver have begun looking at Heterogeneous Memory Management (HMM) support for cross-device and cross-driver scenarios as the latest exciting feature work for this still-experimental driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘Operation 404’ Results in First Prison Sentence for Pirate IPTV Operator]]></title>
         <id>https://torrentfreak.com/?p=249063</id>
         <link href="https://torrentfreak.com/operation-404-results-in-first-prison-sentence-for-pirate-iptv-operator-240327/"/>
@@ -3105,16 +3091,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TornadoVM v1.0.3 OpenJDK/GraalVM Plug-In For Java Heterogeneous Hardware Support]]></title>
-        <id>https://www.phoronix.com/news/TornadoVM-1.0.3-Released</id>
-        <link href="https://www.phoronix.com/news/TornadoVM-1.0.3-Released"/>
-        <updated>2024-03-27T09:57:52.000Z</updated>
-        <summary type="html"><![CDATA[TornadoVM is the OpenJDK and GraalVM plug-in that opens up the Java programming language to heterogeneous hardware support by allowing the easy targeting of Java code to TornadoVM targets including OpenCL, NVIDIA PTX, and SPIR-V -- in addition to CPUs. With the SPIR-V and OpenCL support in turn this means Java can run not only on GPUs but also some FPGAs and other devices...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
