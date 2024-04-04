@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-04T06:12:58.120Z</id>
+    <id>urn:2024-04-04T08:14:15.385Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-04-04T06:12:58.120Z</updated>
+    <updated>2024-04-04T08:14:15.385Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CSIRT.CZ vydal výroční zprávu, rychle roste počet phishingů]]></title>
+        <id>www.root.cz-actuality-45815</id>
+        <link href="https://www.root.cz/zpravicky/csirt-cz-vydal-vyrocni-zpravu-rychle-roste-pocet-phishingu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-04T07:56:01.000Z</updated>
+        <summary type="html"><![CDATA[Národní bezpečnostní tým CSIRT.CZ zveřejnil výroční zprávu [PDF], která přináší kromě shrnutí nejdůležitějších aktivit týmu nebo meziročního srovnání kybernetických incidentů také bližší pohled na problematiku rostoucího phishingu v doméně .CZ.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome testuje novou ochranu proti krádežím souborů cookie]]></title>
+        <id>www.root.cz-actuality-45814</id>
+        <link href="https://www.root.cz/zpravicky/chrome-testuje-novou-ochranu-proti-kradezim-souboru-cookie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-04T07:32:35.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Google v úterý oznámila, že v prohlížeči Chrome testuje novou funkci nazvanou Device Bound Session Credentials (DBSC), která pomáhá chránit uživatele před krádežemi souborů cookie. Přibývá totiž útoků malware, který uživatelům krade soubory cookie. To pak útočníkům umožňuje obejít ochranu vícefaktorového ověřování (MFA) a získat neoprávněný přístup k online účtům.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redict 7.3.0 je prvním vydáním svobodného forku databáze Redis]]></title>
+        <id>www.root.cz-actuality-45813</id>
+        <link href="https://www.root.cz/zpravicky/redict-7-3-0-je-prvnim-vydanim-svobodneho-forku-databaze-redis/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-04T07:17:05.000Z</updated>
+        <summary type="html"><![CDATA[Komunita okolo projektu Redict oznámila vydání Redict 7.3.0, což je první stabilní verze forku databáze Redis 7.2.4.1. Původní Redis nedávno změnil licenci a komunitou už není považován za svobodný software. Redict tedy vytvořil klon, který je uvolněn pod svobodnou licencí GNU LGPL. Naše volba licence vyvažuje tento problém s potřebami komerčních uživatelů – licenci jsme zvolili částečně proto, abychom zajistili, že poskytovatelé cloudových služeb budou moci i nadále nabízet Redict svým zákazníkům, píší vývojáři v oznámení.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbird dělá pokroky v kompatibilitě s Exchange]]></title>
+        <id>www.root.cz-actuality-45812</id>
+        <link href="https://www.root.cz/zpravicky/thunderbird-dela-pokroky-v-kompatibilite-s-exchange/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-04T06:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Nativní podpora pro Microsoft Exchange patří již řadu let mezi nejčastěji požadované vlastnosti. Vývojáři nyní na podpoře intenzivně pracují a nyní dokončili práce na automatickém objevování (Autodiscovery) Exchange a konfiguraci účtu pomocí OAuth. Kromě toho vyřešili načítání a vykreslování všech složek.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian se rozhodl odložit vydání verze 12.6 kvůli analýze dopadů backdooru v XZ]]></title>
+        <id>www.root.cz-actuality-45811</id>
+        <link href="https://www.root.cz/zpravicky/debian-se-rozhodl-odlozit-vydani-verze-12-6-kvuli-analyze-dopadu-backdooru-v-xz/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-04T06:36:34.000Z</updated>
+        <summary type="html"><![CDATA[Úmyslná infiltrace backdoorovaných upstreamových tarballů XZ do repozitáře Debianu Sid, která před několika dny umožnila vzdálený přístup přes SSH bez ověření, vyvolala v linuxové komunitě bouřlivou debatu a v distribucích pak hloubkovou analýzu škod.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tchajwanské zemětřesení zasáhlo výrobu čipů, výpadek by měl být jen krátkodobý]]></title>
+        <id>www.root.cz-actuality-45810</id>
+        <link href="https://www.root.cz/zpravicky/tchajwanske-zemetreseni-zasahlo-vyrobu-cipu-vypadek-by-mel-byt-jen-kratkodoby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-04T06:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Tchaj-wan zažil nejsilnější zemětřesení za posledních nejméně 25 let. Došlo k narušení infrastruktury, pádu budov i ztrátám na životech. Země hraje významnou roli v globálním dodavatelském řetězci čipů, protože je domovem největšího světového výrobce čipů, společnosti TSMC (Taiwan Semiconductor Manufacturing Co), která dodává čipy společnostem Apple a Nvidia.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Palworld Bellanoir Raid Boss location]]></title>
         <id>https://www.destructoid.com/?p=488237</id>
@@ -48,8 +108,8 @@ The main focus of the new update is the first Raid Boss to be added to Palworld,
         <link href="https://www.nintendolife.com/news/2024/04/sonic-superstars-exclusive-amy-rose-outfit-available-in-new-collaboration"/>
         <updated>2024-04-04T03:45:00.000Z</updated>
         <summary type="html"><![CDATA[Available until May 5th.
-SEGA is still showing support for last year's side-scroller Sonic Superstars with all sorts of DLC, and the latest promotion is a new collaboration with the restaurant chain IHOP to unlock an exclusive Amy outfit.
-According to the official PR, loyalty members can earn 'PanCoins' and redeem them for an exclusive Amy Rose outfit until 5th May. Any purchase with an IHOP account will unlock this offer. Of course, the catch is you'll need to be located in North America, as codes are region-locked.
+Sega is still updating last year's side-scroller Sonic Superstars with all sorts of DLC, and the latest promotion is a new collaboration with the restaurant chain 'IHOP' to unlock an exclusive Amy outfit.
+According to the official PR, loyalty members can earn 'PanCoins' and redeem them for an exclusive Amy Rose outfit until 5th May. Any purchase with an IHOP account will unlock this offer. Of course, the catch is you'll need to be located in North America, as the codes are region-locked.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -72,7 +132,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2024-04-04T02:25:00.000Z</updated>
         <summary type="html"><![CDATA[Update: More ratings surface.
 Update :
-Earlier this week, the Xbox store page for Hollow Knight: Silksong went live. Attached to this was an ESRB rating for the game. Now, in an update, it's been discovered the sequel has also rated in South Korea in February 2024, so hopefully, it will be released soon. Here's a look, courtesy of Gematsu:
+Earlier this week, the Xbox store page for Hollow Knight: Silksong went live. Attached to this was an ESRB rating for the game.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -191,7 +251,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2024-04-03T23:30:00.000Z</updated>
         <summary type="html"><![CDATA[Rumours about a new Prince of Persia game are already circulating.
 Ubisoft is one of the many video game companies that loves doing its own broadcast nowadays, and in a new post on social media, it has announced it's returning this year with another Ubisoft Forward presentation.
-This broadcast will take place live from Los Angeles on 10th June and will feature all sorts of "updates" and news about some "upcoming releases". No other information has been shared about this event just yet.
+This broadcast will take place live from Los Angeles on 10th June 2024 and will feature all sorts of "updates" and news about some "upcoming releases". No other information has been shared about this event just yet.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -3968,6 +4028,17 @@ That core mechanic is, of course, the Grinder, a conical drilling device protago
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pepper Grinder review: short, sweet and incredibly neat]]></title>
+        <id>https://www.rockpapershotgun.com/pepper-grinder-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/pepper-grinder-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-03-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pepper Grinder is one of those games that has so many great moments in it that recounting them would almost feel unfair to anyone hoping to play it. There are feats of platforming prowess on show here that should really be experienced fresh and unsullied by rudimentary descriptions of them, because to say anymore would be to spoil the surprise. This feels doubly important when the game itself is so fleeting in length, its brief and dizzying journey through the dirt, magma, ice and marshy bogs of this strange, treasure-stuffed island coming to a swift conclusion in just over three and a half hours. It left me wanting more the moment the credits rolled, but deep down I know it's also perfectly formed just the way it is. Rather than outstay its welcome, Pepper Grinder shows up, performs its party trick, then gets the hell out of the way, leaving you to bask in the warm glow of a good game well done.
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Electronic Wireless Show podcast S3 episode 12: Helldivers 2 has a game master and this is good]]></title>
         <id>https://www.rockpapershotgun.com/the-electronic-wireless-show-podcast-s3-episode-12-helldivers-2-has-a-game-master-and-this-is-good?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/the-electronic-wireless-show-podcast-s3-episode-12-helldivers-2-has-a-game-master-and-this-is-good?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -3978,17 +4049,6 @@ That core mechanic is, of course, the Grinder, a conical drilling device protago
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pepper Grinder review: short, sweet and incredibly neat]]></title>
-        <id>https://www.rockpapershotgun.com/pepper-grinder-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/pepper-grinder-review?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-03-28T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pepper Grinder is one of those games that has so many great moments in it that recounting them would almost feel unfair to anyone hoping to play it. There are feats of platforming prowess on show here that should really be experienced fresh and unsullied by rudimentary descriptions of them, because to say anymore would be to spoil the surprise. This feels doubly important when the game itself is so fleeting in length, its brief and dizzying journey through the dirt, magma, ice and marshy bogs of this strange, treasure-stuffed island coming to a swift conclusion in just over three and a half hours. It left me wanting more the moment the credits rolled, but deep down I know it's also perfectly formed just the way it is. Rather than outstay its welcome, Pepper Grinder shows up, performs its party trick, then gets the hell out of the way, leaving you to bask in the warm glow of a good game well done.
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
         </author>
     </entry>
     <entry>
@@ -4018,16 +4078,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/pri-letecke-havarii-zemrel-vyvojar-postgresql-naposledy-prednasel-v-praze/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2024-03-28T15:29:21.000Z</updated>
         <summary type="html"><![CDATA[Jeden z klíčových vývojářů PostgreSQL, Simon Riggs, zemřel při leteckém neštěstí v anglickém Duxfordu. Riggs byl jedinou osobou v letadle Cirrus SR22-T, které se zřítilo 26. března. Riggs byl zodpovědný za většinu enterprise funkcí PostgreSQL, včetně point-in-time recovery, synchronní replikace a hot standby. Byl také vedoucím společnosti 2ndQuadrant, která poskytuje podporu pro PostgreSQL. Simon bude všem, kteří ho znali, velmi chybět a projekt PostgreSQL vyjadřuje hlubokou soustrast jeho rodině a přátelům, píše se v oznámení na webu projektu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyšla Samba 4.20 s klientem WSP Search a protokolem Service Witness]]></title>
-        <id>www.root.cz-actuality-45788</id>
-        <link href="https://www.root.cz/zpravicky/vysla-samba-4-20-s-klientem-wsp-search-a-protokolem-service-witness/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-28T15:16:58.000Z</updated>
-        <summary type="html"><![CDATA[Čerstvě vydaná Samba 4.20 nabízí nově nástroj samba-tool  s podporou účtů služby Group Managed Service na straně klienta. K dispozici je také nová experimentální podpora klienta protokolu WSP (Windows Search Protocol) pomocí nástroje wspsearch  a nástroj smbcacls nabízí ukládání a obnovu DACL do souborů.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
@@ -4180,16 +4230,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jaký je rozdíl mezi onchain transakcí a Lightning Network? V novém dílu podcastu Bitcoin a blondýna se to dozvíte]]></title>
-        <id>www.root.cz-actuality-45787</id>
-        <link href="https://www.root.cz/zpravicky/jaky-je-rozdil-mezi-onchain-transakci-a-lightning-network-v-novem-dilu-podcastu-bitcoin-a-blondyna-se-to-dozvite/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-28T09:29:50.000Z</updated>
-        <summary type="html"><![CDATA[Platby bitcoinem mohou probíhat ve dvou režimech. Jak se mezi sebou liší a na co se hodí? Právě na otázky kolem placení bitcoinem se zaměřuje nová epizoda podcastu Bitcoin a blondýna, který natáčí kolegové ze sesterské redakce portálu Měšec.cz. Vzhledem k tomu, že v podcastu probírají i technické detaily týkající se kryptoměn, dáváme záznam i na Root.cz.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -4601,26 +4641,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ansible: úvod do automatizace, role a AWX (školení)]]></title>
-        <id>www.root.cz-actuality-40036</id>
-        <link href="https://www.root.cz/zpravicky/ansible-uvod-do-automatizace-role-a-awx-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-27T09:05:01.000Z</updated>
-        <summary type="html"><![CDATA[Na internetu píšou, že začít s automatizací správy serverů můžete do půl hodiny. Dokážeme vám, že s Ansible to je pravda. Stačí navštívit naše pražské školení Ansible – úvod do automatizace a pak navazující Ansible – role a AWX.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyšla Fedora 40 beta s GNOME 46 a KDE Plasma 6]]></title>
-        <id>www.root.cz-actuality-45786</id>
-        <link href="https://www.root.cz/zpravicky/vysla-fedora-40-beta-s-gnome-46-a-kde-plasma-6/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-27T08:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Beta verze Fedory 40 je nyní k dispozici k testování, přičemž ostré vydání je plánováno na druhou půlku příštího měsíce. K dispozici je čerstvá verze prostředí GNOME 46, stejně jako KDE Plasma 6.0. Základem je nejnovější jádro verze 6.8 a k dispozici je řada aktualizovaných balíčků včetně LLVM 18.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cursive Letters]]></title>
         <id>https://xkcd.com/2912/</id>
         <link href="https://xkcd.com/2912/"/>
@@ -4843,16 +4863,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jádro 6.9 označí ovladač souborového systému ext2 za zastaralý]]></title>
-        <id>www.root.cz-actuality-45785</id>
-        <link href="https://www.root.cz/zpravicky/jadro-6-9-oznaci-ovladac-souboroveho-systemu-ext2-za-zastaraly/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-26T14:14:57.000Z</updated>
-        <summary type="html"><![CDATA[Linuxové jádro verze 6.9 má nyní prvního kandidáta na vydání a mělo by vyjít v následujících týdnech. O některých novinkách jsme už podrobně psali v samostatném článku. Toto vydání také mimo jiné označí podporu pro souborový systém ext2 za zastaralou.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Live ‘Piracy Shield’ Data Exposed By New Platform Reveals Akamai IP Blocking]]></title>
         <id>https://torrentfreak.com/?p=249043</id>
         <link href="https://torrentfreak.com/live-piracy-shield-data-exposed-by-new-platform-reveals-akamai-blocking-240326/"/>
@@ -4873,16 +4883,6 @@ Bulwark: Falconeer Chronicles sits at the citybuilding crossroads of 'relaxed' a
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webináře zdarma: Zabbix a Wazuh]]></title>
-        <id>www.root.cz-actuality-45784</id>
-        <link href="https://www.root.cz/zpravicky/webinare-zdarma-zabbix-a-wazuh/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-03-26T13:53:33.000Z</updated>
-        <summary type="html"><![CDATA[Zúčastněte se čtyř webinářů zaměřených na technické aspekty IT bezpečnosti a monitoringu. Tyto bezplatné setkání představují ideální příležitost pro technicky orientované profesionály, kteří chtějí prohloubit své znalosti a získat informace o nejnovějších trendech a technologiích v oboru.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Tomáš Heřmánek)</name>
         </author>
     </entry>
     <entry>
