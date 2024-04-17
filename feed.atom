@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-17T04:13:27.843Z</id>
+    <id>urn:2024-04-17T06:15:30.415Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-04-17T04:13:27.843Z</updated>
+    <updated>2024-04-17T06:15:30.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Šestidenní online kurz Hacking v praxi dotovaný úřadem práce]]></title>
+        <id>www.root.cz-actuality-45864</id>
+        <link href="https://www.root.cz/zpravicky/sestidenni-online-kurz-hacking-v-praxi-dotovany-uradem-prace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-17T05:51:19.000Z</updated>
+        <summary type="html"><![CDATA[Pojďte s námi prozkoumat tajuplný svět hackingu a množství jeho jednotlivých zákoutí. Průvodcem na této cestě vám bude zkušený etický hacker s mnohaletou praxí, který se s vámi podělí o své zkušenosti. Připravili jsme pro vás šestidenní online kurz Hacking v praxi, který je z velké části placený úřadem práce.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svobodný fork Redisu nazvaný Valkey uvolnil první vydání]]></title>
+        <id>www.root.cz-actuality-45863</id>
+        <link href="https://www.root.cz/zpravicky/svobodny-fork-redisu-nazvany-valkey-uvolnil-prvni-vydani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-17T05:39:05.000Z</updated>
+        <summary type="html"><![CDATA[Minulý měsíc nadace Linux Foundation spolu se společnostmi AWS, Google Cloud, Snap, Oracle a dalšími vytvořila projekt Valkey. Jde o svobodný fork databáze Redis, která změnila licenční podmínky. Nyní vyšla Valkey 7.2.5, což je první stabilní vydání.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CZ.NIC: Výstupy veřejného testu aukcí domén]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/cz.nic-vystupy-verejneho-testu-aukci-domen</id>
@@ -4367,26 +4387,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google oznámil procesory Axion s architekturou ARM pro cloudové služby]]></title>
-        <id>www.root.cz-actuality-45837</id>
-        <link href="https://www.root.cz/zpravicky/google-oznamil-procesory-axion-s-architekturou-arm-pro-cloudove-sluzby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-10T08:17:15.000Z</updated>
-        <summary type="html"><![CDATA[Google oznámil nové procesory Google Axion, které jsou postaveny na architektuře ARM a jsou určeny pro cloudová datacentra. Procesory Google Axion jsou první procesory společnosti založené na architektuře ARM určené pro datová centra, k dispozici budou v druhé polovině roku 2024. První procesory Axion jsou postaveny na designu ARM Neoverse V2.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Přijďte na školení MikroTik od základů po velkou síť a odnesete si router]]></title>
-        <id>www.root.cz-actuality-39043</id>
-        <link href="https://www.root.cz/zpravicky/prijdte-na-skoleni-mikrotik-od-zakladu-po-velkou-sit-a-odnesete-si-router/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-10T08:10:41.000Z</updated>
-        <summary type="html"><![CDATA[Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tick Marks]]></title>
         <id>https://xkcd.com/2918/</id>
         <link href="https://xkcd.com/2918/"/>
@@ -5483,94 +5483,6 @@ you can get the update by clicking Help > Check for Update (or Android Stud
 for Updates on macOS). Otherwise, you can download it here.
 For information on new features and changes in all preview builds of Android Studio Jellyfish, see the Android Studio Preview release notes. For details of bugs fixed in each preview
 release, see previous entries on this blog.]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Patch 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/03/android-studio-iguana-202321-patch-1.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/03/android-studio-iguana-202321-patch-1.html"/>
-        <updated>2024-03-18T17:53:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Iguana | 2023.2.1 Patch 1 is now available in the Stable channel.
-If you already have an Android Studio build on the Stable channel,
-you can get the update by clicking Help > Check for Update (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Iguana, see the Android Studio release notes. For details of bugs fixed in each previous release of 
-Android Studio Iguana, see closed issues.
-General fixes and features
-Below is a list of general fixes in Android Studio Iguana | 2023.2.1 Patch 1 and Android Gradle Plugin 8.3.1. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #284003132
-MergeJavaResourcesTask incremental inputs handling issue
-
-          
-        
-
-      
-    
-Compose Preview
-      
-        
-
-          
-            
-
-              
-Issue #324786148
-New strings aren't picked up by Compose Preview until restart
-
-            
-
-              
-Issue #308641013
-Fail to load PreviewParameterProvider only on Iguana
-
-          
-        
-
-      
-    
-Layout Inspector
-      
-        
-
-          
-            
-
-              
-Issue #315023791
-Layout inspector is crashing on Compose in AS Iguana Canary 10
-
-          
-        
-
-      
-    
-Lint Integration
-      
-        
-
-          
-            
-
-              
-Issue #325650375
-Lint cannot resolve sibling source sets' types in AGP 8.3.0-rc02]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
