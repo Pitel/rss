@@ -1,10 +1,223 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-19T12:17:50.723Z</id>
+    <id>urn:2024-04-19T14:09:34.234Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-04-19T12:17:50.723Z</updated>
+    <updated>2024-04-19T14:09:34.234Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Preps A Kernel Panic Screen - Sort Of A "Blue Screen of Death"]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-DRM-Panic-Handler</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-DRM-Panic-Handler"/>
+        <updated>2024-04-19T14:06:33.000Z</updated>
+        <summary type="html"><![CDATA[While systemd 255 last year introduced a "blue screen of death" inspired solution with systemd-bsod for presenting logged error messages full-screen, it's not appropriate for all errors. Systemd-bsod can work out for presenting full-screen messages in case of boot failures and other problems where user-space is alive. But the user-space code does little good in case of a kernel panic and similar issues bringing the system to a halt. Set to be introduced now with Linux 6.10 is a parallel "blue screen of death" like error presenting experience with the introduction of the DRM panic handler...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Compute Runtime 24.13.29138.7 Brings Improved OpenCL/OpenGL Sharing]]></title>
+        <id>https://www.phoronix.com/news/Intel-CR-24.13.29138.7</id>
+        <link href="https://www.phoronix.com/news/Intel-CR-24.13.29138.7"/>
+        <updated>2024-04-19T13:42:28.000Z</updated>
+        <summary type="html"><![CDATA[As the first new release to Intel's open-source Compute Runtime stack in about one month for this OpenCL and Level Zero compute support, Intel Compute Runtime 24.13.29138.7 was released this morning with much improved OpenCL/OpenGL sharing and interoperability on Linux, out-of-the-box support for the Xe kernel graphics driver, new optimizations, and many other changes...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus přidal tabulátory do Kconfig]]></title>
+        <id>www.root.cz-actuality-45875</id>
+        <link href="https://www.root.cz/zpravicky/linus-pridal-tabulatory-do-kconfig/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-19T13:36:49.000Z</updated>
+        <summary type="html"><![CDATA[Vše začalo nevině. Steven Rostedt poslal do jádra nějaké opravy a mezi nimi i opravu tabulátoru na mezeru v souboru Kconfig před FTRACE_RECORD_RECURSION_SIZE. Soubor Kconfig definuje jednotlivé volby při kompilaci jádra, používá jej například  make menuconfig.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Prime's Fallout Is Officially Getting A Second Season]]></title>
+        <id>1851421573</id>
+        <link href="https://kotaku.com/fallout-season-2-amazon-prime-bethesda-1851421573"/>
+        <updated>2024-04-19T13:34:39.000Z</updated>
+        <summary type="html"><![CDATA[It shouldn’t come as an enormous shock that Amazon Prime’s Fallout TV show is getting picked up for a second season, given the combination of its enormous popularity and its being surprisingly actually-good, but you never know with these mercurial streamers. Still, good sense prevails, and it’s been officially…
+Read more...]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper Mario: The Thousand-Year Door Looks Glorious In New Footage]]></title>
+        <id>https://www.nintendolife.com/#article-165092</id>
+        <link href="https://www.nintendolife.com/news/2024/04/paper-mario-the-thousand-year-door-looks-glorious-in-new-footage"/>
+        <updated>2024-04-19T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Please sir, can I have Smorg?
+Nintendo's marketing campaign for Paper Mario: The Thousand-Year Door is well underway at this point (as you would hope, given its 23rd May release date) and that means we are getting to see a lot about what the remaster has in store.
+A new short trailer shared on Twitter today contains some fresh footage of the game, giving us our first look at select locations, map reveal animations and, perhaps most importantly, the cloudy chapter boss Smorg — who's looking just as intimidating as we would have hoped.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grow your very own grandpa in this wonderfully unpleasant little indie horror game]]></title>
+        <id>https://www.rockpapershotgun.com/grow-your-very-own-grandpa-in-this-wonderfully-unpleasant-little-indie-horror-game?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/grow-your-very-own-grandpa-in-this-wonderfully-unpleasant-little-indie-horror-game?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-04-19T13:27:24.000Z</updated>
+        <summary type="html"><![CDATA[I don't remember much about my grandfathers anymore, only that they were once there and they loved me, and now they are gone. So if I were a small child with quarreling parents and I stumbled across a hidden abandoned lab housing a horrifying shapeshifting psychic lifeform, perhaps I would also try to want this maybe-a-demon to be my grandpa. That's the premise of Growing My Grandpa!, a delightful little indie horror game about feeding, teaching, and caring for "a grandpa-like entity". It came out in 2022 and I kept forgetting to post about it, but it's still great so I'm telling you now, okay.
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telltale Games Releases New Screenshots Of The Wolf Among Us 2 Alongside Development Update]]></title>
+        <id>122482</id>
+        <link href="https://www.gameinformer.com/news/2024/04/19/telltale-games-releases-new-screenshots-of-the-wolf-among-us-2-alongside"/>
+        <updated>2024-04-19T13:17:19.000Z</updated>
+        <summary type="html"><![CDATA[The Fabletown gang will be back, developer Telltale Games has promised in a new development update for The Wolf Among Us 2, its sequel to The Wolf Among Us it announced in 2019. This update, which reveals the studio is still hard at work on the game, arrives after an unspecified number of layoffs hit Telltale Games last October. 
+"We've been quiet because we've been heads down, focusing on the promise of [The Wolf Among Us 2]," the update reads. "While we can't give a big update yet, here's a little something for you: in-progress shots from the current build. The work continues. The Fabletown gang will be back. Thanks for being fans." 
+The four in-progress shots from the current build of The Wolf Among Us 2 can be viewed below: 
+
+The Wolf Among Us 2 was originally due out last year but was delayed out of 2023 in a March update from the studio. 
+For more about the game, watch The Wolf Among Us 2's official trailer, and then read about how the game's first episode will catch you up on what happened in the first game. 
+Are you still excited for The Wolf Among Us 2? Let us know in the comments below!]]></summary>
+        <author>
+            <name>Wesley LeBlanc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation And K-Pop Singer NakedBibi Team Up For Stellar Blade Music Video]]></title>
+        <id>122481</id>
+        <link href="https://www.gameinformer.com/news/2024/04/19/playstation-and-k-pop-singer-nakedbibi-team-up-for-stellar-blade-music-video"/>
+        <updated>2024-04-19T13:01:35.000Z</updated>
+        <summary type="html"><![CDATA[PlayStation and K-Pop singer NakedBibi, or Bibi for short, have teamed up to create a new song and music video inspired by Stellar Blade, the upcoming action game from developer ShiftUp. Stellar Blade hits PlayStation 5 exclusively next week on April 26 so this new track, appropriately titled "Eve," is coming at a perfect time to keep excitement for the game going. 
+The song itself is pretty great, too, and the music video visuals are very reminiscent of Stellar Blade itself. If you're excited about the game, or a fan of NakedBibi, it's definitely worth your time. 
+Check out the "Eve" Stellar Blade music video by NakedBibi for yourself below: 
+
+
+If you haven't yet checked it out, there's a free Stellar Blade demo available right now on PS5 to give you a taste of what's in the final release. For more about the game, read Game Informer's exclusive interview with Stellar Blade's director for behind-the-scene details and more. After that, read about how Stellar Blade will have no microtransactions, with one exception. 
+Stellar Blade hits PS5 on April 26, 2024. 
+What do you think of this song? Let us know in the comments below!]]></summary>
+        <author>
+            <name>Wesley LeBlanc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stardew Valley gets yet another update, adding new mine layouts and ominous-sounding "fish frenzies"]]></title>
+        <id>https://www.rockpapershotgun.com/stardew-valley-gets-yet-another-update-adding-new-mine-layouts-and-ominous-sounding-fish-frenzies?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/stardew-valley-gets-yet-another-update-adding-new-mine-layouts-and-ominous-sounding-fish-frenzies?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-04-19T12:59:51.000Z</updated>
+        <summary type="html"><![CDATA[It's starting to feel like ConcernedApe (aka Eric Barone) may in fact be a modern day Sisiphus, destined to work on Stardew Valley forever. Following on from the mega update of 1.6 a month ago, and 1.6.3 soon after that, the hardy perennial farming game has a new 1.6.4 mini update. The key addition this time is more new layouts that will appear after you reach the bottom of the mines, and more layouts for the volcano mines too. If you've not played Stardew Valley you might wonder why there are deep mines and volcanos, and to you I say "Pah! You should play Stardew Valley."
+1.6.4 also has a lot of bug fixes (including fixing disappearing pets, new pets being a key feature of 1.6) and some balance changes, as well as a host of fixes for modders and modded players. ConcernedApe said early on that 1.6 would be an update for modders, so it's nice to see that being supported. You can read the full patch notes here.
+Read more]]></summary>
+        <author>
+            <name>Alice Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get Pathos Clamp in Warframe]]></title>
+        <id>https://www.destructoid.com/?p=496123</id>
+        <link href="https://www.destructoid.com/how-to-get-pathos-clamp-in-warframe/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-pathos-clamp-in-warframe"/>
+        <updated>2024-04-19T12:46:47.000Z</updated>
+        <summary type="html"><![CDATA[Pathos Clamps are an elusive resource that is difficult to obtain, in Warframe if you don't where to look. Fortunately, once you do, getting them isn't all that difficult.
+
+
+Where to find Pathos Clamps in Warframe
+
+
+Warframe has so many resources that you need to hunt down and salvage daily that it can be difficult to keep track of them all. In most cases, resources are found scattered through specific levels, depending on the type. In the nuanced case of Pathos Clamps, they are not found, but instead, given to you as a reward for defeating an Orowyrm in the Duviri Paradox.
+
+
+Screenshot by Destructoid
+
+
+The Duviri Paradox is Warframe's roguelike game mode that changes every time you participate in the content. However, at the end of every run, you will always face an Orowyrm making Pathos …]]></summary>
+        <author>
+            <name>Darrus Myles</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This delightful fantasy immersive sim somehow snuck its merry way into Steam’s FPS fest]]></title>
+        <id>https://www.rockpapershotgun.com/this-delightful-fantasy-immersive-sim-somehow-snuck-its-merry-way-into-steams-fps-fest?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
+        <link href="https://www.rockpapershotgun.com/this-delightful-fantasy-immersive-sim-somehow-snuck-its-merry-way-into-steams-fps-fest?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
+        <updated>2024-04-19T12:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Neverlooted Dungeon is an rpg game in which you can shoot a crossbow from a first person perspective. This, I imagine, was the pitch it used when trying to blag its way past the thermodynamically powered golem wearing a Daikatana t-shirt that guards the gates of Steam’s currently-running FPS fest. Whatever the excuse, this silver tongued rascal succeeded, and is now nestled comfortably between umpteen boomer shooter revivals, trying to squeeze Ultima factoids into the conversation.
+ 
+Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tow-Boot 2023.07 U-Boot Distribution Released With New Board Support]]></title>
+        <id>https://www.phoronix.com/news/Tow-Boot-2023.07-007</id>
+        <link href="https://www.phoronix.com/news/Tow-Boot-2023.07-007"/>
+        <updated>2024-04-19T12:45:04.000Z</updated>
+        <summary type="html"><![CDATA[It's been nearly one year since the last Tow-Boot release while debuting on Thursday was Tow-Boot 2023.07-007 for this open-source project derived from the U-Boot bootloader...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eiyuden Chronicle Developer Is 'Moving Forward With A Sequel' After Creator's Death]]></title>
+        <id>https://www.nintendolife.com/#article-165089</id>
+        <link href="https://www.nintendolife.com/news/2024/04/eiyuden-chronicle-developer-is-moving-forward-with-a-sequel-after-creators-death"/>
+        <updated>2024-04-19T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA["I hope we will be able to carry on Murayama’s legacy".
+Rabbit & Bear Studios, the developer behing the upcoming Eiyuden Chronicle: Hundred Heroes, has confirmed that it is "moving forward" with a sequel after the franchise creator's death earlier this year (thanks, VGC).
+Yoshitaka Murayama, who also created the Suikoden franchise, sadly passed away following complications from an ongoing illness. In a Reddit AMA session, Rabbit & Bear Studios confirmed that it hopes to "carry on Murayama'a legacy" while outright confirming that a sequel is in the works.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon's Fallout TV Series Renewed For Season 2]]></title>
+        <id>122480</id>
+        <link href="https://www.gameinformer.com/news/2024/04/19/amazons-fallout-tv-series-renewed-for-season-2"/>
+        <updated>2024-04-19T12:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Prime Video has renewed its Fallout television show for another season, confirming that Season 2 is in the works following an earlier report. This news arrives just over a week after the series' release on April 10, which premiered two days earlier than expected to rave reviews from both fans and critics. 
+We loved Fallout Season 1, and you can read about why in Game Informer's Fallout review, so we're excited to revisit the wasteland with Lucy, Ghoul, Maximus, and others. As for when to expect Season 2 of Fallout, that remains unknown. The announcement simply confirms another season is coming with no details on Season 2's production. 
+Wouldn't want to keep you on the edge of your seat, now, would we?
+pic.twitter.com/ULs6DEPHDW
+April 18, 2024
+Fallout joins a string of other hit Amazon Prime Video series currently airing on the streamer service, like The Boys (with a new season dropping June 13) and Invincible, which just had its second season wrap up. It also joins a string of other successful video game adaptations, like HBO's The Last of Us, which is getting a Season 2 next year, Peacock's Twisted Metal, Netflix's Arcane, and Netflix's Cyberpunk: Edgerunners. 
+Fallout Season 1 is available to watch on Amazon Prime Video. 
+Did you enjoy Season 1 of Fallout? Let us know in the comments below!]]></summary>
+        <author>
+            <name>Wesley LeBlanc</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fan outrage causes Blizzard to walk back on changes to weekly quests in Hearthstone]]></title>
+        <id>https://www.destructoid.com/?p=497047</id>
+        <link href="https://www.destructoid.com/fan-outrage-causes-blizzard-to-walk-back-on-changes-to-weekly-quests-in-hearthstone/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fan-outrage-causes-blizzard-to-walk-back-on-changes-to-weekly-quests-in-hearthstone"/>
+        <updated>2024-04-19T12:40:50.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes there's a change so bizarre that it leaves you too stupefied to be mad. Maybe that's part of the intent. 
+
+
+Blizzard's Hearthstone team decided that weekly quests needed to be three times as grindy. The reward, however, does not match the effort. And I don't understand why.
+
+
+The knee-jerk reaction here would be to assume to milk more money out of people. But, you can't buy tiers on the Tavern Pass. Nothing you can spend money on is going to help you finish quests faster. So why would they increase weekly quests? I'm sure some math somewhere shows that players spending more physical time in the game equals more money spent on packs somewhere. That just doesn't sound like a human's behavior to me. That sounds like some kind of misinterpretation of statistics, if it's even true.
+
+
+…]]></summary>
+        <author>
+            <name>Randy Marr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VASA-1, generování mluvící hlavy z jediné fotky a zvukového záznamu]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/vasa-1-generovani-mluvici-hlavy-z-jedine-fotky-a-zvukoveho-zaznamu</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/vasa-1-generovani-mluvici-hlavy-z-jedine-fotky-a-zvukoveho-zaznamu"/>
+        <updated>2024-04-19T12:30:20.000Z</updated>
+        <summary type="html"><![CDATA[VASA-1, výzkumný projekt Microsoftu. Na vstupu stačí jediná fotka a zvukový záznam. Na výstupu je dokonalá mluvící nebo zpívající hlava. Prý si technologii nechá jenom pro sebe. Žádné demo, API nebo placená služba. Zatím.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When does Fallout 4’s next-gen update launch? Release date and countdown]]></title>
         <id>https://www.destructoid.com/?p=497194</id>
@@ -25,9 +238,9 @@ You'll be able t…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fedora 40 vyjde v úterý, těšit se můžete na GNOME 64 nebo KDE Plasma 6.0]]></title>
+        <title type="html"><![CDATA[Fedora 40 vyjde v úterý, těšit se můžete na GNOME 46 nebo KDE Plasma 6.0]]></title>
         <id>www.root.cz-actuality-45874</id>
-        <link href="https://www.root.cz/zpravicky/fedora-40-vyjde-v-utery-tesit-se-muzete-na-gnome-64-nebo-kde-plasma-6-0/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <link href="https://www.root.cz/zpravicky/fedora-40-vyjde-v-utery-tesit-se-muzete-na-gnome-46-nebo-kde-plasma-6-0/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2024-04-19T12:12:29.000Z</updated>
         <summary type="html"><![CDATA[Včera proběhla schůze Go/No-Go a Fedora 40 vyjde v úterý 23. dubna. Mezi novinkami bude GNOME 46, KDE Plasma 6.0, jádro 6.8 a LLVM 18. Kromě toho tu bude například rychlejší knihovna zlib-ng a iotop-c.]]></summary>
         <author>
@@ -347,6 +560,15 @@ In the latest update (1.6.4 update), the creator has added all sorts of new cont
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pub Trivia]]></title>
+        <id>https://xkcd.com/2922/</id>
+        <link href="https://xkcd.com/2922/"/>
+        <updated>2024-04-19T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1308,50 +1530,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 best Post-Apocalyptic movies like Fallout]]></title>
-        <id>https://www.destructoid.com/?p=495668</id>
-        <link href="https://www.destructoid.com/10-best-post-apocalyptic-movies-like-fallout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=10-best-post-apocalyptic-movies-like-fallout"/>
-        <updated>2024-04-18T17:45:25.000Z</updated>
-        <summary type="html"><![CDATA[Few things strike me as more post-doomsday-ish than humankind reaching a time when video game to film or TV series adaptations get good, but that's where you and I are right now. The Fallout TV show rocks so much that it immediately prompted its watchers to scour the media wasteland to satiate their hunger for some sweet tales of the post-apocalyptic. 
-
-
-If you're looking for games, that's easy — just play any Fallout game. If you're looking for movies, however, that might be more of a challenge, so I've come up with a list of the best post-apocalyptic movies Fallout fans can enjoy today.
-
-
-Image via Warner Bros
-
-
-Mad Max: Fury Road (George Miller, 2015)
-
-
-Even though we can attribute the boom of the Post-Apocalyptic genre and landscape to the original Mad Max, its sequel, Mad Mad: Fury Ro…]]></summary>
-        <author>
-            <name>Tiago Manuel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Ornate Mirror Answers in Baldur’s Gate 3 (BG3): Including Balsam Ointment]]></title>
-        <id>https://www.destructoid.com/?p=398539</id>
-        <link href="https://www.destructoid.com/all-bg3-baldurs-gate-3-ornate-mirror-answers-balsam-ointment-szass-tam/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-bg3-baldurs-gate-3-ornate-mirror-answers-balsam-ointment-szass-tam"/>
-        <updated>2024-04-18T17:36:34.000Z</updated>
-        <summary type="html"><![CDATA[Completing every Baldur's Gate 3 sidequest is an awfully tall order, but don't let the Ornate Mirror and its tricky Balsam Ointment question throw you off. You'll need to pass its test or risk losing access to the Necromancy of Thay questline. It's not a hard conversation to navigate, but the fancy furniture is kind of a jerk, so here's a quick list of all Ornate Mirror answers for those worried about passing its vibe check.
-
-
-Screenshot via Destructoid
-
-
-Where is the Ornate Mirror?
-
-
-Upon reaching Act 1's Blighted Village, enter the building next to the glowing Waypoint and search for a wooden hatch behind the bar. Climb down into the cellar, proceed to the back northernmost wall, and flip the lever hidden behind a few crates.
-
-
-Follow the tunnel, hugging along the wall curving right, and…]]></summary>
-        <author>
-            <name>Andrea Shearon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Rust-Written LAVD Kernel Scheduler Shows Promising Results For Linux Gaming]]></title>
         <id>https://www.phoronix.com/news/LAVD-Scheduler-Linux-Gaming</id>
         <link href="https://www.phoronix.com/news/LAVD-Scheduler-Linux-Gaming"/>
@@ -2033,32 +2211,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It Seems Jack Black Really Is Playing Steve In The Minecraft Movie]]></title>
-        <id>https://www.nintendolife.com/#article-165011</id>
-        <link href="https://www.nintendolife.com/news/2024/04/it-seems-jack-black-really-is-playing-steve-in-the-minecraft-movie"/>
-        <updated>2024-04-18T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Scheduled to arrive in cinemas next year.
-
-In January, there were reports the Minecraft movie had cast actor and musician Jack Black as the famous character "Steve".
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Idris Elba Hypes Sonic 3 Movie As "One For All The Real Diehard Sonic Fans"]]></title>
-        <id>https://www.nintendolife.com/#article-165007</id>
-        <link href="https://www.nintendolife.com/news/2024/04/idris-elba-hypes-sonic-3-movie-as-one-for-all-the-real-diehard-sonic-fans"/>
-        <updated>2024-04-18T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The voice of Knuckles has spoken.
-
-Sonic the Hedgehog 3 is out in cinemas this December, and if you weren't already excited after the recent report Keanu Reeves would be voicing Shadows, Idris Elba (the voice of Knuckles in the movies) is now here to hype up the blue blur's third big screen outing.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[System76's COSMIC Working On Drag & Drop, More Compositor Improvements]]></title>
         <id>https://www.phoronix.com/news/COSMIC-April-2024-Update</id>
         <link href="https://www.phoronix.com/news/COSMIC-April-2024-Update"/>
@@ -2364,16 +2516,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot HD Atlas šel do důchodu. Nastupuje nová vylepšená elektrická varianta]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/robot-atlas-sel-do-duchodu.-nastupuje-nova-vylepsena-elektricka-varianta</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/robot-atlas-sel-do-duchodu.-nastupuje-nova-vylepsena-elektricka-varianta"/>
-        <updated>2024-04-17T15:45:14.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Boston Dynamics oznámila, že humanoidní hydraulický robot HD Atlas šel do důchodu (YouTube). Nastupuje nová vylepšená elektrická varianta (YouTube).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2885,17 +3027,6 @@ As a longtime Spider-Man and Marvel fan, I've delighted in watching my favorite 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hades II Technical Test Is Coming, Time To Get Excited]]></title>
-        <id>1851414040</id>
-        <link href="https://kotaku.com/hades-2-technical-test-sign-up-steam-pc-1851414040"/>
-        <updated>2024-04-16T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve been anxiously awaiting Hades II, the sequel to Supergiant’s stunning 2020 roguelike, I’ve got good news for you. While the hotly anticipated title isn’t quite entering Early Access just yet, the studio says it’s not all that far off. And ahead of that milestone, Supergiant will be running a technical test…
-Read more...]]></summary>
-        <author>
-            <name>Willa Rowe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Fallout TV show might have answered a decades-old question in the video games]]></title>
         <id>https://www.rockpapershotgun.com/the-fallout-tv-show-might-have-answered-a-decades-old-question-in-the-video-games?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/the-fallout-tv-show-might-have-answered-a-decades-old-question-in-the-video-games?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -3286,16 +3417,6 @@ Meanwhile, the standalone Knuckles series premieres on Paramount Plus on April 2
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[More Bcachefs Fixes & Recovery Improvements Land In Linux 6.9]]></title>
-        <id>https://www.phoronix.com/news/More-Bcachefs-For-Linux-6.9-rc5</id>
-        <link href="https://www.phoronix.com/news/More-Bcachefs-For-Linux-6.9-rc5"/>
-        <updated>2024-04-15T20:54:26.000Z</updated>
-        <summary type="html"><![CDATA[The Bcachefs fixes continue to come in on the heavier side for the in-development Linux 6.9 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pirate Site FMovies Rivals Major Streaming Platforms in U.S. Web Traffic]]></title>
         <id>https://torrentfreak.com/?p=250028</id>
         <link href="https://torrentfreak.com/pirate-site-fmovies-rivals-major-streaming-platforms-in-u-s-web-traffic-240415/"/>
@@ -3420,16 +3541,6 @@ What are you hoping to see from the upcoming Fortnite x Star Wars crossover? Let
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AlmaLinux 9.4 Beta Restores Support For Some Hardware Deprecated By RHEL]]></title>
-        <id>https://www.phoronix.com/news/AlmaLinux-9.4-Beta</id>
-        <link href="https://www.phoronix.com/news/AlmaLinux-9.4-Beta"/>
-        <updated>2024-04-15T16:35:13.000Z</updated>
-        <summary type="html"><![CDATA[AlmaLinux 9.4 Beta is out today for this popular community-oriented Linux distribution derived from upstream Red Hat Enterprise Linux. Besides pulling in the RHEL 9.4 Beta changes, AlmaLinux 9.4 also restores hardware support for some devices that was deprecated by upstream RHEL...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LawBreakers is staging an unofficial comeback, five years after it (and its makers) shut down]]></title>
         <id>https://www.rockpapershotgun.com/lawbreakers-is-staging-an-unofficial-comeback-five-years-after-it-and-its-makers-shut-down?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/lawbreakers-is-staging-an-unofficial-comeback-five-years-after-it-and-its-makers-shut-down?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -3438,16 +3549,6 @@ What are you hoping to see from the upcoming Fortnite x Star Wars crossover? Let
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[openSUSE Leap Micro 6 Reaches Alpha]]></title>
-        <id>https://www.phoronix.com/news/openSUSE-Leap-Micro-6-Alpha</id>
-        <link href="https://www.phoronix.com/news/openSUSE-Leap-Micro-6-Alpha"/>
-        <updated>2024-04-15T15:35:30.000Z</updated>
-        <summary type="html"><![CDATA[openSUSE's Leap Micro OS that caters to containerized and virtualized workloads by providing a lightweight and reliable foundation is embarking on its next major release. The openSUSE Leap Micro 6.0 operating system is now available in alpha form...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4018,16 +4119,6 @@ Valah gets around by using her graffiti paint to stylishly grind on rails while 
 RKGK is Wabisabi Games’ debut title and looks to follow in the graffiti-soaked dystopian future footsteps of games like Jet Set Radio and Marc Ecko’s Getting Up (remember that?). It’s coming to PC later this year.]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gentoo přechazí na profily 23.0]]></title>
-        <id>www.root.cz-actuality-45852</id>
-        <link href="https://www.root.cz/zpravicky/gentoo-prechazi-na-profily-23-0/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-12T14:12:15.000Z</updated>
-        <summary type="html"><![CDATA[Od konce března je možné přejít v Gentoo na nové profily 23.0. Ty mají být ve výchozím nastavení bezpečnější, zajišťovat větší výkon a standardizaci. Postup při přechodu není úplně komplikovaný, ale je potřeba dodržet postup podle návodu (dostupný také v terminálu přes eselect news) a najít si kombinaci aktuálně používaného profilu a architektury podle tabulky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4795,17 +4886,6 @@ Are you excited for Vampire Survivors' Contra DLC? Let us know in the comments b
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eldritch fishing game Dredge is being made into a movie by the people behind the Sonic the Hedgehog films]]></title>
-        <id>https://www.rockpapershotgun.com/eldritch-fishing-game-dredge-is-being-made-into-a-movie-by-the-people-behind-the-sonic-the-hedgehog-films?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/eldritch-fishing-game-dredge-is-being-made-into-a-movie-by-the-people-behind-the-sonic-the-hedgehog-films?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-04-10T17:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Among your obvious blockbuster video games ripe for similarly blockbuster film and TV adaptations like Fallout, Borderlands and The Last of Us, it seems there’s room for some of the smaller gems to be fished out and brought to the big screen, too.
-Read more]]></summary>
-        <author>
-            <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kill Knight Is A Hades-Inspired Isometric Arcade Shooter Set In An Eldritch Abyss Of Horror]]></title>
         <id>122417</id>
         <link href="https://www.gameinformer.com/news/2024/04/10/kill-knight-is-a-hades-inspired-isometric-arcade-shooter-set-in-an-eldritch-abyss"/>
@@ -4826,19 +4906,6 @@ Are you going to check out Kill Knight later this year? Let us know in the comme
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Laysara: Summit Kingdom is a stunning mountainous city builder that’s out now in early access]]></title>
-        <id>https://www.rockpapershotgun.com/laysara-summit-kingdom-is-a-stunning-mountainous-city-builder-thats-out-now-in-early-access?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/laysara-summit-kingdom-is-a-stunning-mountainous-city-builder-thats-out-now-in-early-access?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-04-10T17:32:45.000Z</updated>
-        <summary type="html"><![CDATA[Laysara: Summit Kingdom, a breathtakingly gorgeous city builder set in a fantasy world inspired by the Himalayan region, is out now in Steam early access. The meditative mountain environments are the sort of tranquil backdrop I’d happily stare out for hours, possibly with a Bonobo album and some incense, which is helpful, because the actual game is aiming to be quite a challenge.
-According to its Steam page, the game “tasks you with creating a new home for your people forced out of the lowlands.” There are both campaign and sandbox modes, where you’ll establish multiple towns on multiple mountains, each with its own traits. “All your towns co-exist in symbiosis,” it continues, “creating a trading network, which you can then adjust to your needs by revisiting already developed settlements.” Here are some more deets, via Steam.
- 
-Read more]]></summary>
-        <author>
-            <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Darkest Dungeon II: Race Against The Clock In Free New 'Kingdoms' Game Mode Later This Year]]></title>
         <id>122413</id>
         <link href="https://www.gameinformer.com/news/2024/04/10/darkest-dungeon-ii-race-against-the-clock-in-free-new-kingdoms-game-mode-later-this"/>
@@ -4851,17 +4918,6 @@ Check out the new Darkest Dungeon II: Kingdoms update trailer for yourself below
 "Kingdoms is an exciting project for us," Red Hook Studios co-founder and Darkest Dunge…]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darkest Dungeon 2's free Kingdoms update "remixes" the first two games into a turn-based strategy game]]></title>
-        <id>https://www.rockpapershotgun.com/darkest-dungeon-2s-free-kingdoms-update-remixes-the-first-two-games-into-a-turn-based-strategy-game?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
-        <link href="https://www.rockpapershotgun.com/darkest-dungeon-2s-free-kingdoms-update-remixes-the-first-two-games-into-a-turn-based-strategy-game?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
-        <updated>2024-04-10T17:23:31.000Z</updated>
-        <summary type="html"><![CDATA[There have been a lot of remakes that take provocative creative liberties with the original game of late. I've always felt like last year's Darkest Dungeon 2 was secretly one of them. Rather than simply building on the previous game's premise of a Hamlet's worth of upgradeable, derangeable heroes venturing into tabletop RPG-style labyrinths, it stripped away Darkest Dungeon's skin and moved its bones and organs around to create a gruelling roguelike. Well, developers Red Hook appear to have done it again with Darkest Dungeon 2's free Kingdoms mode, out later this year, which slices open Darkest Dungeon 2's hide and recomposes it into a turn-based strategy boardgame, where you defend a world map against encroaching eldritch creatures.
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
         </author>
     </entry>
     <entry>
@@ -4993,15 +5049,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tick Marks]]></title>
-        <id>https://xkcd.com/2918/</id>
-        <link href="https://xkcd.com/2918/"/>
-        <updated>2024-04-10T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Spoiler-Filled Discussion Of Suicide Squad: Kill The Justice League]]></title>
         <id>122406</id>
         <link href="https://www.gameinformer.com/spoiled/2024/04/09/a-spoiler-filled-discussion-of-suicide-squad-kill-the-justice-league"/>
@@ -5113,40 +5160,6 @@ You get 10 issues for $19.91, or two years and 20 issues for $34.99. Individual 
 You can download the apps to read the issue by following this link.]]></summary>
         <author>
             <name>Kyle Hilliard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destiny 2: The Final Shape Includes New Prismatic Subclass, Enemy Faction, Exotics, And More]]></title>
-        <id>122407</id>
-        <link href="https://www.gameinformer.com/news/2024/04/09/destiny-2-the-final-shape-includes-new-prismatic-subclass-enemy-faction-exotics-and"/>
-        <updated>2024-04-09T18:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Bungie has released a new trailer for Destiny 2's next expansion, The Final Shape, and it includes gameplay of Guardians wielding both light and darkness at once, new weapons and enemies, and more. This trailer was part of a wider information blitz surrounding The Final Shape, which promises to conclude the decade-long War of Light and Darkness story arc, where we also learned more about The Witness and additional exotics. 
-Unveiled last August and originally set to launch in February before getting delayed to June 4, The Final Shape is shaping up (pun intended) to be one of the biggest expansions for Destiny 2 yet. It's fitting, considering the story players have been enjoying for 10 years is set to wrap up in it. 
-Check out the Destiny 2: The Final Shape gameplay trailer for yourself bel…]]></summary>
-        <author>
-            <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Stars Of Amazon's Fallout Series Talk Bringing Bethesda's Wasteland To Life]]></title>
-        <id>122404</id>
-        <link href="https://www.gameinformer.com/feature/2024/04/09/leaving-the-vault"/>
-        <updated>2024-04-09T17:43:00.000Z</updated>
-        <summary type="html"><![CDATA[We sit down with the stars of Amazon's new Fallout series.]]></summary>
-        <author>
-            <name>Brian Shea</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Halo, Destiny Lead Working On Unreal Engine 5 Competitive Multiplayer Game]]></title>
-        <id>122401</id>
-        <link href="https://www.gameinformer.com/news/2024/04/09/former-halo-destiny-lead-working-on-unreal-engine-5-competitive-multiplayer-game"/>
-        <updated>2024-04-09T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ProbablyMonsters, an independent game company founded in 2016 by former Bungie president and CEO Harold Ryan, has created a new team to develop a competitive multiplayer game in Unreal Engine 5. Led by former Bungie leader Chris Opdahl, who has more than 20 years of experience as a game developer working on franchises like Halo and Destiny, Hidden Grove is the new team within ProbablyMonsters working on this multiplayer project.
-"At Hidden Grove, it's not just about developing something different in the field of competitive multiplayer games – it's about doing it better as a team," Opdahl writes in a press release. "We believe that great games start with great teams, and we're building a creative atmosphere where artists, engineers, and creators can come together and thrive." 
-ProbablyMons…]]></summary>
-        <author>
-            <name>Wesley LeBlanc</name>
         </author>
     </entry>
     <entry>
