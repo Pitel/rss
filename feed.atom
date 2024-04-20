@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-20T10:09:58.230Z</id>
+    <id>urn:2024-04-20T12:16:56.953Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-04-20T10:09:58.230Z</updated>
+    <updated>2024-04-20T12:16:56.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux BHI Mitigation Being Tweaked Following 12% Database Performance Hit]]></title>
+        <id>https://www.phoronix.com/news/Linux-BHI-Fix-Server-Perf</id>
+        <link href="https://www.phoronix.com/news/Linux-BHI-Fix-Server-Perf"/>
+        <updated>2024-04-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A new set of Linux kernel patches were sent out on Friday for tweaking th Native BHI mitigation introduced earlier this month for Intel processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: 50 Best Game Boy Games Of All Time]]></title>
+        <id>https://www.nintendolife.com/#article-87056</id>
+        <link href="https://www.nintendolife.com/guides/50-best-game-boy-games-of-all-time"/>
+        <updated>2024-04-20T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Old Boy.
+In honour of the handheld's 35th anniversary on Sunday, we're republishing this reader-ranked list of the top 50 Game Boy games ever. How many have you got?
+Remember, several of these are now playable on Switch with a Nintendo Switch Online subscription. You can check out the full list here:
+
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source "Terakan" Vulkan Driver For Radeon HD 6000 Series Shown On Windows]]></title>
+        <id>https://www.phoronix.com/news/Terakan-HD-6000-VLK-Windows</id>
+        <link href="https://www.phoronix.com/news/Terakan-HD-6000-VLK-Windows"/>
+        <updated>2024-04-20T10:41:07.000Z</updated>
+        <summary type="html"><![CDATA[The past year there's been an independent open-source driver developer working on "Terakan" as a Vulkan driver for old Radeon HD 6000 series GPUs. These pre-GCN GPUs never received any official Vulkan driver support from AMD but thanks to open-source and a strong desire to pull off such a feat, Vitaliy Kuzmin "Triang3l" has been pursuing this challenge and has been pulling off some basic results. The work so far has been predominantly been carried out with the open-source Linux graphics stack while this weekend the Terakan driver was demonstrated under Microsoft Windows...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Sends In More Kernel Graphics Driver Updates For Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-More-AMDGPU</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-More-AMDGPU"/>
+        <updated>2024-04-20T10:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Following last week's AMDGPU pull to DRM-Next preparing more next-gen GPU support and other updates for the upcoming Linux 6.10 merge window, another batch of feature changes were sent out on Friday ahead of this next kernel cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE Developers Work Through More Bug Fixes & Features For Plasma 6.1]]></title>
         <id>https://www.phoronix.com/news/KDE-Fixes-For-Qt-6.7</id>
@@ -2478,19 +2522,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The First Third-Party iOS App Store Hosts A Free Nintendo Emulator (Europe)]]></title>
-        <id>https://www.nintendolife.com/#article-165034</id>
-        <link href="https://www.nintendolife.com/news/2024/04/the-first-third-party-ios-app-store-hosts-a-free-nintendo-emulator-europe"/>
-        <updated>2024-04-18T11:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Because of course it does.
-Apple's latest update for iOS on iPhone has enabled something that the company would have most certainly preferred to keep under lock and key: the ability to download apps from outside the official App Store.
-The change is a result of the Digital Markets Act in the EU, which is intended to enforce a fairer digital economy with better competition, although Apple has been staunchly against opening up its ecosystem for years. Currently, this change is only applicable in Europe, but it's possible that other global regions may follow suit at a later date.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Morels 2 sure has a lot of unicorns, for a mushroom collection game]]></title>
         <id>https://www.rockpapershotgun.com/morels-2-sure-has-a-lot-of-unicorns-for-a-mushroom-collection-game?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/morels-2-sure-has-a-lot-of-unicorns-for-a-mushroom-collection-game?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -3221,16 +3252,6 @@ WorkManager Version 2.10.0-alpha02]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROCm 6.1 Released With Ubuntu 22.04.4 Support, rocDecode For AMD Video Decode]]></title>
-        <id>https://www.phoronix.com/news/AMD-ROCm-6.1-Released</id>
-        <link href="https://www.phoronix.com/news/AMD-ROCm-6.1-Released"/>
-        <updated>2024-04-16T23:08:22.000Z</updated>
-        <summary type="html"><![CDATA[The much anticipated ROCm 6.1 has now been released! ROCm 6.1 is heavy on new features as well as expanding official operating system coverage to include the latest Ubuntu 22.04.4 LTS point release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Výstupy veřejného testu aukcí domén: podněty, čísla a další plány]]></title>
         <id>www.root.cz-text-17114</id>
         <link href="https://www.root.cz/clanky/vystupy-verejneho-testu-aukci-domen-podnety-cisla-a-dalsi-plany/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3248,16 +3269,6 @@ WorkManager Version 2.10.0-alpha02]]></summary>
         <summary type="html"><![CDATA[V pravidelné středeční sondě si představíme nástroj pro manipulaci se síťovým provozem, budeme zkoumat Kubernetes zdroje a stáhneme si oblíbený software z GitHubu. Plus, Elon Musk a jeho AI tweetovací kamarád Grok!]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Foundation, Intel & Others Launch The Open Platform for Enterprise AI]]></title>
-        <id>https://www.phoronix.com/news/Open-Platform-for-Enterprise-Ai</id>
-        <link href="https://www.phoronix.com/news/Open-Platform-for-Enterprise-Ai"/>
-        <updated>2024-04-16T21:00:40.000Z</updated>
-        <summary type="html"><![CDATA[The Linux Foundation along with industry stakeholders like Intel, Red Hat, Hugging Face, MariaDB, Cloudera, and others have launched the Open Platform for Enterprise AI (OPEA) as a new enterprise AI collaborative effort...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3350,16 +3361,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 Supports Easy Installation Of OpenZFS Root File-System With Encryption]]></title>
-        <id>https://www.phoronix.com/news/OpenZFS-Ubuntu-24.04-LTS</id>
-        <link href="https://www.phoronix.com/news/OpenZFS-Ubuntu-24.04-LTS"/>
-        <updated>2024-04-16T16:05:00.000Z</updated>
-        <summary type="html"><![CDATA[For those wondering about the OpenZFS root file-system support for Ubuntu 24.04 LTS, it's in-place with the Ubuntu desktop installer. Not only is it still there but now there's also the ability to easily setup Ubuntu atop an OpenZFS encrypted root file-system...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
