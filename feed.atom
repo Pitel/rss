@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-04-23T06:13:36.325Z</id>
+    <id>urn:2024-04-23T08:13:14.341Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-04-23T06:13:36.325Z</updated>
+    <updated>2024-04-23T08:13:14.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chyba v knihovně GNU C Library (glibc) ohrožuje servery s PHP]]></title>
+        <id>www.root.cz-actuality-45885</id>
+        <link href="https://www.root.cz/zpravicky/chyba-v-knihovne-gnu-c-library-glibc-ohrozuje-servery-s-php/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-23T07:27:16.000Z</updated>
+        <summary type="html"><![CDATA[Charles Fol objevil ve standardní knihovně GNU C (glibc) chybu starou 24 let. Problém se konkrétně nachází ve funkci iconv() v knihovně GNU C verze 2.39 a starší. Při převodu řetězců na znakovou sadu ISO-2022-CN-EXT může přetéct výstupní vyrovnávací paměť až o čtyři bajty, což může vést k pádu aplikace nebo k přepsání sousední proměnné.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Home Foundation nabízí soukromí v chytré domácnosti]]></title>
+        <id>www.root.cz-actuality-45884</id>
+        <link href="https://www.root.cz/zpravicky/open-home-foundation-nabizi-soukromi-v-chytre-domacnosti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-04-23T07:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Nadace Open Home Foundation oznámila svou existenci a snahu stát se podpůrnou organizací pro pro bezplatné projekty domácí automatizace. Založili jsme nadaci Open Home Foundation, abychom bojovali za základní principy soukromí, volby a udržitelnosti chytrých domů za každého člověka, který v nich žije, píše se v oznámení.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Round Up: The Reviews Are In For Eiyuden Chronicle: Hundred Heroes]]></title>
         <id>https://www.nintendolife.com/#article-165193</id>
@@ -3763,16 +3783,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Svobodný fork Redisu nazvaný Valkey uvolnil první vydání]]></title>
-        <id>www.root.cz-actuality-45863</id>
-        <link href="https://www.root.cz/zpravicky/svobodny-fork-redisu-nazvany-valkey-uvolnil-prvni-vydani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-17T05:39:05.000Z</updated>
-        <summary type="html"><![CDATA[Minulý měsíc nadace Linux Foundation spolu se společnostmi AWS, Google Cloud, Snap, Oracle a dalšími vytvořila projekt Valkey. Jde o svobodný fork databáze Redis, která změnila licenční podmínky. Nyní vyšla Valkey 7.2.5, což je první stabilní vydání.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Eclipse Path Maps]]></title>
         <id>https://xkcd.com/2921/</id>
         <link href="https://xkcd.com/2921/"/>
@@ -4022,16 +4032,6 @@ We won't know until the Indie World Showcase properly airs tomorrow. When it doe
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uvolněny zdrojové kódy hry Descent 3]]></title>
-        <id>www.root.cz-actuality-45862</id>
-        <link href="https://www.root.cz/zpravicky/uvolneny-zdrojove-kody-hry-descent-3/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-16T11:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Kevin Bentley na GitHubu zveřejnil zdrojové kódy hry Descent 3, která původně vyšla pro Windows v roce 1999 a později byla portována na macOS a Linux. Oslovil jsem svého bývalého šéfa (Matta Toschloga) z Outrage Entertainment a ten mi dal zelenou. Budu pracovat na tom, aby se to znovu rozběhlo a hledám nějaké spolusprávce, napsal Bentley v oznámení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
