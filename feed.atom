@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-02T06:13:32.746Z</id>
+    <id>urn:2024-05-02T08:13:34.576Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-02T06:13:32.746Z</updated>
+    <updated>2024-05-02T08:13:34.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NZXT Kraken 2023 AIO CPU Cooler Monitoring With Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/NZXT-2023-Coolers-Linux-6.10</id>
+        <link href="https://www.phoronix.com/news/NZXT-2023-Coolers-Linux-6.10"/>
+        <updated>2024-05-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Merged back in 2021 with Linux 5.13 was an NZXT Kraken hardware monitoring "HWMON" driver to support sensor monitoring of these all-in-one liquid cooling products from NZXT. Over time more NZXT Kraken AIO coolers have been supported by the Linux kernel and with the upcoming Linux 6.10 kernel the latest NZXT Kraken CPU coolers will be supported...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU Intel umírají, dopad oprav na výkon je v jednotkách procent]]></title>
+        <id>www.root.cz-actuality-45919</id>
+        <link href="https://www.root.cz/zpravicky/cpu-intel-umiraji-dopad-oprav-na-vykon-je-v-jednotkach-procent/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-05-02T06:26:08.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Intel v posledních týdnech až měsících řeší závažný problém, kdy její procesory 13. a 14. řady předčasně umírají. Podle všeho jsou tyto primárně K-čkové (tedy „overclockerské“) modely provozovány za hranou toho, co křemík unese a podíly reklamovaných kusů jsou extrémně vysoké.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to complete Leave No Man Behind in Gray Zone Warfare]]></title>
         <id>https://www.destructoid.com/?p=504589</id>
@@ -108,9 +128,9 @@ The post How to fix missing task rewards in Gray Zone Warfare appeared first on 
         <id>https://www.nintendolife.com/#article-165605</id>
         <link href="https://www.nintendolife.com/news/2024/05/video-nintendo-shows-off-the-world-of-paper-mario-the-thousand-year-door"/>
         <updated>2024-05-02T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Arriving on Switch later this month.
+        <summary type="html"><![CDATA[The classic RPG returns later this month.
 Paper Mario: The Thousand-Year Door is arriving on the Switch later this month and Nintendo's European social media account continues to share all sorts of video clips. The latest one happens to be a look at the many locations you'll visit throughout this classic adventure.
-This includes locations like Rogueport, the sights of Petalburg and Twilight Town, and various other exciting (and dangerous) locales. The same social account has also uploaded a clip featuring Rogueport's soundtrack, which you can listen to below:
+This includes destinations like Rogueport, the sights of Petalburg and Twilight Town, and various other exciting (and dangerous) locales. The same Nintendo account has also uploaded a sample of Rogueport's soundtrack, which you can listen to below:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -140,13 +160,13 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Take-Two Interactive Reportedly Shutting Down Two Private Division Studios]]></title>
+        <title type="html"><![CDATA[Take-Two Reportedly Shutting Down OlliOlli And Kerbal Space Program 2 Devs]]></title>
         <id>https://www.nintendolife.com/#article-165601</id>
-        <link href="https://www.nintendolife.com/news/2024/05/take-two-interactive-reportedly-shutting-down-two-private-division-studios"/>
+        <link href="https://www.nintendolife.com/news/2024/05/take-two-reportedly-shutting-down-olliolli-and-kerbal-space-program-2-devs"/>
         <updated>2024-05-02T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The teams behind OlliOlli and Kerbal Space Program 2.
+        <summary type="html"><![CDATA[Subsidiaries of Private Division.
 There's already been a record amount of job losses within the games industry this year and it seems this trend is unfortunately set to continue with Bloomberg reporting the closure of another two studios.
-According to "documentation reviewed by Bloomberg", Take-Two Interactive Software has announced it will be shutting down the Private Division subsidiary Roll7 (OlliOlli, Rollerdrome) and the Kerbal Space Program 2 developer Intercept Games.
+According to "documentation reviewed by Bloomberg", Take-Two Interactive Software has announced it will be shutting down the Private Division and London-based subsidiary Roll7 (OlliOlli, Rollerdrome) and the Kerbal Space Program 2 developer Intercept Games, based in Seattle.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -3380,16 +3400,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Prepares Linux For "Bus Lock Trap" Feature On Upcoming CPUs]]></title>
-        <id>https://www.phoronix.com/news/AMD-Bus-Lock-Trap-Detect-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-Bus-Lock-Trap-Detect-Linux"/>
-        <updated>2024-04-29T10:35:12.000Z</updated>
-        <summary type="html"><![CDATA[An upcoming AMD micro-architecture (presumably Zen 5 given the timing and history around AMD's Linux hardware enablement...) is introducing Bus Lock Trap as a feature matching Intel's existing split/bus lock detection functionality...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A bot in Tekken 8 is demolishing players by only pressing one button over and over]]></title>
         <id>https://www.rockpapershotgun.com/a-bot-in-tekken-8-is-demolishing-players-by-only-pressing-one-button-over-and-over?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed</id>
         <link href="https://www.rockpapershotgun.com/a-bot-in-tekken-8-is-demolishing-players-by-only-pressing-one-button-over-and-over?utm_source=feed&amp;utm_medium=rss&amp;utm_campaign=feed"/>
@@ -4456,16 +4466,6 @@ That’s not the only new addition in TWW3 patch 5. They’re also bringing a Go
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Program konference Den IPv6 2024 je kompletní, registrujte se včas]]></title>
-        <id>www.root.cz-actuality-45897</id>
-        <link href="https://www.root.cz/zpravicky/program-konference-den-ipv6-2024-je-kompletni-registrujte-se-vcas/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-25T07:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Rozhodnutí vlády o ukončení podpory IPv4, zkušenosti s IPv6 v cloudovém řešení nebo provozování IPv6-only prostředí, nejen tato témata jsou na programu devátého ročníku tradiční konference o IPv6, které se uskuteční 6. června v Národní technické knihovně. Kompletní program včetně registračního formuláře a dalších informací jsou k dispozici na adrese denipv6.cz.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Vilém Sládek)</name>
         </author>
     </entry>
     <entry>
