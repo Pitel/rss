@@ -22,11 +22,136 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-03 datetime="2024-05-03T04:55:00.000Z">2024-05-03</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-03 datetime="2024-05-03T04:55:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-05-03 datetime="2024-05-03T08:00:00.000Z">2024-05-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-05-03 datetime="2024-05-03T08:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Phoronix</button>
+                  <a class="source-heading__link" href="https://www.phoronix.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.phoronix.com/news/Intel-Compilers-OSS-NA-2024"
+                        open
+                      >
+                        <summary class="article-expander__title">Intel Talks Up Their Latest Compiler Toolchain Enhancements For AVX10.1, AMX &amp; More</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/Intel-Compilers-OSS-NA-2024">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Intel software engineer Victor Rodriguez presented at the Open-Source Summit North America last month on their open-source compiler toolchain work for enabling ISA capabilities of upcoming Intel CPUs as well as using simulation tools for helping to test compiler enhancements/optimizations moving forward...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.phoronix.com/news/OpenZFS-2.2.4-Released"
+                        open
+                      >
+                        <summary class="article-expander__title">OpenZFS 2.2.4 Released With Linux 6.8 Support</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/OpenZFS-2.2.4-Released">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>OpenZFS 2.2.4 was released on Thursday evening to provide the latest ZFS file-system support on Linux and FreeBSD platforms...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.phoronix.com/news/Dell-Laptop-Platform-Profile"
+                        open
+                      >
+                        <summary class="article-expander__title">Dell Laptop Platform Profile Patches Being Worked On For Linux</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/Dell-Laptop-Platform-Profile">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>A patch recently posted to the Linux kernel mailing list is working on implementing ACPI Platform Profile support for modern Dell laptops to allow users to have more control over their balanced / cool / quiet / performance behavior of the laptop and its resulting impact on the fan noise / cooling performance...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Root.cz - zprávičky</button>
+                  <a class="source-heading__link" href="https://www.root.cz/zpravicky/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="www.root.cz-actuality-45924"
+                        open
+                      >
+                        <summary class="article-expander__title">LLVM/Clang možná přijde o -Ofast</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.root.cz/zpravicky/llvm-clang-mozna-prijde-o-ofast/?utm_source&#x3D;rss&amp;utm_medium&#x3D;text&amp;utm_campaign&#x3D;rss">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.iinfo.cz/images/465/llvm-1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Překladače GCC i Clang umožňují nastavit optimalizaci kódu v několika stupních od -O0 do -O3, přičemž standardní je -O2. K tomu kolem roku 2010 přibyla volba -Ofast , což je v podstatě -O3 -ffast-math. Ten druhý přepínač zrychluje výpočty v plovoucí desetinné čárce, ale vynechává některé výjimky a výsledný kód neodpovídá standardu IEEE 754. Jedná se hlavně o NaN a inf.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;17
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="www.root.cz-actuality-39043"
+                        open
+                      >
+                        <summary class="article-expander__title">Přijďte na školení MikroTik od základů po velkou síť a odnesete si router</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.root.cz/zpravicky/prijdte-na-skoleni-mikrotik-od-zakladu-po-velkou-sit-a-odnesete-si-router/?utm_source&#x3D;rss&amp;utm_medium&#x3D;text&amp;utm_campaign&#x3D;rss">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i.iinfo.cz/images/524/mikrotik-1.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;17
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -100,7 +225,7 @@ Read the full article on nintendolife.com</span>
 If you caught the Knuckles series on debut, you&#x27;re not alone - with the new show setting a record as the &quot;most-watched&quot; Paramount+ original series of all time in its opening weekend.
 The viewership racked up more than 4 million hours of watch time in the first few days of release, after releasing all six episodes on 26th April 2024. This also makes it the &quot;most-watched&quot; children&#x27;s series ever on the service. This has given the Sonic movies a boost as well, with viewership up by 278%.
 Read the full article on nintendolife.com</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                &ensp;<span class="article-reading-time">(&hairsp;11
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -269,58 +394,6 @@ You can complete the Medical Detective task in Gray Zone Warfare by exploring th
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Phoronix</button>
-                  <a class="source-heading__link" href="https://www.phoronix.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.phoronix.com/news/OpenZFS-2.2.4-Released"
-                        open
-                      >
-                        <summary class="article-expander__title">OpenZFS 2.2.4 Released With Linux 6.8 Support</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/OpenZFS-2.2.4-Released">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>OpenZFS 2.2.4 was released on Thursday evening to provide the latest ZFS file-system support on Linux and FreeBSD platforms...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.phoronix.com/news/Dell-Laptop-Platform-Profile"
-                        open
-                      >
-                        <summary class="article-expander__title">Dell Laptop Platform Profile Patches Being Worked On For Linux</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/Dell-Laptop-Platform-Profile">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>A patch recently posted to the Linux kernel mailing list is working on implementing ACPI Platform Profile support for modern Dell laptops to allow users to have more control over their balanced / cool / quiet / performance behavior of the laptop and its resulting impact on the fan noise / cooling performance...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >Root.cz - články</button>
                   <a class="source-heading__link" href="https://www.root.cz/clanky/">Open</a>
                 </h3>
@@ -335,10 +408,10 @@ You can complete the Medical Detective task in Gray Zone Warfare by exploring th
                         <summary class="article-expander__title">Většina chyb Linuxu není chyba, ale vlastnost</summary>
                         <a class="article-summary-link article-summary-box-outer" href="https://www.root.cz/clanky/vetsina-chyb-linuxu-neni-chyba-ale-vlastnost/?utm_source&#x3D;rss&amp;utm_medium&#x3D;text&amp;utm_campaign&#x3D;rss">
                           <div class="article-summary-box-inner media-object">
-                              <img src="https://i.iinfo.cz/images/357/tucnak-cisarsky-tux-linux-1.jpg" loading="lazy" class="media-object__media article-image" />
+                              <img src="https://i.iinfo.cz/images/276/kyber-tucnak-tux.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
-                              <span>I v roce 2024 existují lidé, kteří Linuxu vyčítají věci, za které nemůže, nebo je záměrně má jinak než jiné platformy. Není na čase se konečně oprostit od jha let minulých?</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;21
+                              <span>I v roce 2024 existují lidé, kteří Linuxu neustále vyčítají věci, za které nemůže, nebo je záměrně má jinak než jiné platformy. Není na čase se konečně oprostit od jha let minulých?</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;22
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2539,7 +2612,7 @@ From: TF, for the latest news on copyright battles, piracy and more.</span>
 We&#x27;re fast approaching summer, and there&#x27;s no better time of year to go for a dip in the ocean.
 Of course, if you&#x27;re reading this on 2nd May 2024, then you probably know that Nintendo is offering its own virtual &quot;dip&quot; in the ocean in Endless Ocean: Luminous, the surprise new game in the Endless Ocean series. And while we might not have loved the game, it did make us appreciate vthe underwater levels and sections of video games.
 Read the full article on nintendolife.com</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                &ensp;<span class="article-reading-time">(&hairsp;27
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2990,7 +3063,7 @@ Read the full article on nintendolife.com</span>
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>With the recently released Ubuntu 24.04 LTS I&#x27;ve shown various benchmarks how it can deliver nice performance gains over both Ubuntu 23.10 and the existing Ubuntu 22.04 LTS on different platforms. Those benchmarks have tended to focus on the latest-generation processors/platforms given that&#x27;s where the excitement is these days. But for those on older platforms like AMD 3rd Gen EPYC &quot;Milan&quot; servers, here are some benchmarks looking at the performance impact of an Ubuntu 24.04 LTS upgrade...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3121,7 +3194,7 @@ Read the full article on nintendolife.com</span>
                               <img src="https://i.iinfo.cz/images/237/basic.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Včera uběhlo 60 let od uvedení první verze programovacího jazyka BASIC, tedy Beginners&#x27; All-purpose Symbolic Instruction Code. Původní verzi vytvořili už v roce 1963 John G. Kemeny a Thomas E. Kurtz na Dartmouth College. První jmenovaný později v roce 1979 vedl prezidentskou vyšetřovací komisi k havárii na jaderné elektrárně Three Mile Island, sám pak zemřel v 66 letech v roce 1992, druhý jmenovaný letos v únoru oslavil 96. narozeniny.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;26
+                                &ensp;<span class="article-reading-time">(&hairsp;27
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3141,7 +3214,7 @@ Read the full article on nintendolife.com</span>
                               <img src="https://i.iinfo.cz/images/3/6ghz-intel.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Společnost Intel v posledních týdnech až měsících řeší závažný problém, kdy její procesory 13. a 14. řady předčasně umírají. Podle všeho jsou tyto primárně K-čkové (tedy „overclockerské“) modely provozovány za hranou toho, co křemík unese a podíly reklamovaných kusů jsou extrémně vysoké.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                &ensp;<span class="article-reading-time">(&hairsp;29
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3425,7 +3498,7 @@ Read more...</span>
                               <img src="https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9fcfc25c1d6d03d7927558695ea64843.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Read more...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                &ensp;<span class="article-reading-time">(&hairsp;16
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3914,7 +3987,7 @@ Though Rocksteady Studios, the developer of Asylum, City, and Knight, was behind
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>Serpent OS lead developer Ikey Doherty published a monthly status update for this original Linux distribution, which points to having a working OS installer soon so users can begin trying out this creation on real hardware...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                &ensp;<span class="article-reading-time">(&hairsp;7
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3971,7 +4044,7 @@ Though Rocksteady Studios, the developer of Asylum, City, and Knight, was behind
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>For now Fedora / Red Hat is not making any immediate changes, but the ever increasing sizes of required GPU firmware files is causing Linux distribution vendors to re-think including GPU kernel graphics drivers as part of the initramfs...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -5486,7 +5559,7 @@ Read more...</span>
                               <img src="https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/b23b3aa6b2cb53424592298d55addc3e.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Read more...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                &ensp;<span class="article-reading-time">(&hairsp;16
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -5936,7 +6009,7 @@ AndroidX Desktop artifacts packaged in Android APK</span>
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>Last week Noctua announced the NH-L12Sx77 low-profile CPU cooler as effectively an upgraded version of their NH-L12s CPU cooler that is now slightly taller to offer better performance and improved system compatibility.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                &ensp;<span class="article-reading-time">(&hairsp;5
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -6038,25 +6111,6 @@ AndroidX Desktop artifacts packaged in Android APK</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.phoronix.com/news/Fedora-Evaluate-Replacing-Redis"
-                        open
-                      >
-                        <summary class="article-expander__title">Fedora Evaluates Replacing Redis With Valkey</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/Fedora-Evaluate-Replacing-Redis">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Given the upstream Redis software licensing changes, Fedora is evaluating replacing Redis with the new Valkey project...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -6084,7 +6138,7 @@ AndroidX Desktop artifacts packaged in Android APK</span>
                               <img src="https://i.iinfo.cz/images/70/sonda-psyche.webp" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Národní úřad pro letectví a vesmír (NASA) demonstroval schopnosti optické komunikace na velkou vzdálenost. Sonda Psyche míří ke stejnojmenné planetce a v současné době se nachází ve vzdálenosti 226 milionů kilometrů od Země. Odtud je schopná přenášet zpět data rychlostí 25 Mbps.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;29
+                                &ensp;<span class="article-reading-time">(&hairsp;30
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -6164,7 +6218,7 @@ AndroidX Desktop artifacts packaged in Android APK</span>
                               <img src="https://i.iinfo.cz/images/107/terminal-linux-prikazova-radka-1.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Lennart Poettering, hlavní vývojář systemd, představil utilitu run0 , což je náhrada známého příkazu sudo.  Opravuje mnoho problémů spojených s tímto široce používaným nástrojem pro získání dočasných zvýšených oprávnění. S příkazem sudo jsou různé problémy, které v podstatě spočívají v tom, že se jedná o rozsáhlou binárku s příznakem SUID. Skládá se z privilegovaného kódu, který mohou neprivilegovaní uživatelé spouštět ze svého vlastního kontextu.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;83
+                                &ensp;<span class="article-reading-time">(&hairsp;87
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -6502,7 +6556,7 @@ pic.twitter.com/uAkzYOCjjn
 April 29, 2024
 While the kneejerk reaction is to assume this announcement is related to Returnal, be it a sequel or something else, that seems unlikely. In 2022, Housemarque stated it was developing a new IP for its next title. However, that wouldn&#x27;t necessarily rule out the possibility of more Returnal DLC, if nothing else. Much has changed for Housemarque since Returnal launched in April 2021, such as being acquired by Sony just a couple of months later. Returnal launched on PC in February 2023 and has been updated with additional content and features such as co-op. 
 Thankfully, we don’t have to wait long to learn what Housemarque has up its sleeve next. In the meantime, be sure to check out our review of Returnal here.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                &ensp;<span class="article-reading-time">(&hairsp;5
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -6932,7 +6986,7 @@ Read more</span>
                             <span class="media-object__text">
                               <span>New week, new videogames! When will it end, etc. There aren&#x27;t many obvious headliners out in the next few days, but there are a lot of tantalisingly bleak games. Let&#x27;s see here, we&#x27;ve got a survival shooter that&#x27;s essentially set in Black Mesa, a sardonical adventure about questing Russian Orthodox nuns, a game about running the company that starts the zombie apocalypse, and a cosy village grower with an atypical emphasis on disease and death. Lovely!
 Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;44
+                                &ensp;<span class="article-reading-time">(&hairsp;46
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -7821,7 +7875,7 @@ Developer Shift Up does a good job of gradually introducing new core systems as 
 Turn On Auto Loot
 While the developer made many smart decisions in creating Stellar Blade, we’re a little confused why the default choice for gathering dropped loot requires pressing and holding one of the shoulder buttons.
 As soon as you start t…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                &ensp;<span class="article-reading-time">(&hairsp;10
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -8304,46 +8358,6 @@ Read more</span>
                             <span class="media-object__text">
                               <span>Včera vyšlo Ubuntu 24.04 LTS Noble Numbat. Server Phoronix testoval výkon 24.04, 23.10 a 22.04.4 na procesorech Intel Core i9 14900K a AMD Ryzen 9 7950X.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="www.root.cz-actuality-39411"
-                        open
-                      >
-                        <summary class="article-expander__title">Naučte se používat web server Apache (školení)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.root.cz/zpravicky/naucte-se-pouzivat-web-server-apache-skoleni/?utm_source&#x3D;rss&amp;utm_medium&#x3D;text&amp;utm_campaign&#x3D;rss">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.iinfo.cz/images/612/indian-1.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Apache je jeden z nejrozšířenějších a nejpoužívanějších webových server současnosti, na školení Web server Apache se ho naučíme instalovat, spravovat a ladit pro co nejhladší běh našich služeb. Vše si vyzkoušíte prakticky na ostrém serveru, na kterém budete mít možnost provozovat skutečný web a ovlivňovat jeho nastavení.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;18
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="www.root.cz-actuality-45900"
-                        open
-                      >
-                        <summary class="article-expander__title">Zdrojové kódy systému MS-DOS 4.0 zveřejněny pod licencí MIT</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.root.cz/zpravicky/zdrojove-kody-systemu-ms-dos-4-0-zverejneny-pod-licenci-mit/?utm_source&#x3D;rss&amp;utm_medium&#x3D;text&amp;utm_campaign&#x3D;rss">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.iinfo.cz/images/441/ms-dos.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Před deseti lety Microsoft uvolnil zdrojové kódy systémů MS-DOS 1.25 a 2.0 pro Muzeum počítačové historie a později je znovu zveřejnil na GitHubu pro referenční účely. Tento kód zaujímá významné místo v historii a je fascinujícím čtením o operačním systému, který byl před téměř 45 lety napsán výhradně v kódu assembleru 8086, vysvětluje Microsoft.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;23
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -9565,7 +9579,7 @@ They&#x27;ve also given a heads-up on some games we can expect to see. Vampire S
 For more context, last year&#x27;s version of this event included over 20 games, including Sea of Stars, Karateka, and Vampire Survivors again, somehow. Regardless of whether or not it appears, you can bet the comment section will be flooded with Hollow Knight: Silksong fans clamoring for the game, which we haven&#x27;t seen since the Xbox summer showcase in 2022 when it was announced the game would come to Game Pass on day one.
 You can watch the showcase next week on IGN&#x27;s YouTube channel. The showcase will also be available in American Sign Language.
 What are you hoping to see from the showcase? Let us know in the comments!</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                &ensp;<span class="article-reading-time">(&hairsp;5
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -10871,8 +10885,8 @@ Lint unable to disambiguate a KMP dependency</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Pitel/rss/actions/runs/8934888973">
-        <time id="build-timestamp" datetime="2024-05-03T06:13:46.239Z">2024-05-03T06:13:46.239Z</time>
+      <a class="footer-link" href="https://github.com/Pitel/rss/actions/runs/8936049861">
+        <time id="build-timestamp" datetime="2024-05-03T08:12:57.486Z">2024-05-03T08:12:57.486Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-03T06:13:46.268Z</id>
+    <id>urn:2024-05-03T08:12:57.521Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-03T06:13:46.268Z</updated>
+    <updated>2024-05-03T08:12:57.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Talks Up Their Latest Compiler Toolchain Enhancements For AVX10.1, AMX & More]]></title>
+        <id>https://www.phoronix.com/news/Intel-Compilers-OSS-NA-2024</id>
+        <link href="https://www.phoronix.com/news/Intel-Compilers-OSS-NA-2024"/>
+        <updated>2024-05-03T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel software engineer Victor Rodriguez presented at the Open-Source Summit North America last month on their open-source compiler toolchain work for enabling ISA capabilities of upcoming Intel CPUs as well as using simulation tools for helping to test compiler enhancements/optimizations moving forward...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM/Clang možná přijde o -Ofast]]></title>
+        <id>www.root.cz-actuality-45924</id>
+        <link href="https://www.root.cz/zpravicky/llvm-clang-mozna-prijde-o-ofast/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-05-03T07:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Překladače GCC i Clang umožňují nastavit optimalizaci kódu v několika stupních od -O0 do -O3, přičemž standardní je -O2. K tomu kolem roku 2010 přibyla volba -Ofast , což je v podstatě -O3 -ffast-math. Ten druhý přepínač zrychluje výpočty v plovoucí desetinné čárce, ale vynechává některé výjimky a výsledný kód neodpovídá standardu IEEE 754. Jedná se hlavně o NaN a inf.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Přijďte na školení MikroTik od základů po velkou síť a odnesete si router]]></title>
+        <id>www.root.cz-actuality-39043</id>
+        <link href="https://www.root.cz/zpravicky/prijdte-na-skoleni-mikrotik-od-zakladu-po-velkou-sit-a-odnesete-si-router/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-05-03T07:38:28.000Z</updated>
+        <summary type="html"><![CDATA[Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Partner Paladin Studios Closes Its Doors After "Almost 19 Years"]]></title>
         <id>https://www.nintendolife.com/#article-165654</id>
@@ -157,7 +187,7 @@ You can complete the Medical Detective task in Gray Zone Warfare by exploring th
         <id>www.root.cz-text-17140</id>
         <link href="https://www.root.cz/clanky/vetsina-chyb-linuxu-neni-chyba-ale-vlastnost/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2024-05-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I v roce 2024 existují lidé, kteří Linuxu vyčítají věci, za které nemůže, nebo je záměrně má jinak než jiné platformy. Není na čase se konečně oprostit od jha let minulých?]]></summary>
+        <summary type="html"><![CDATA[I v roce 2024 existují lidé, kteří Linuxu neustále vyčítají věci, za které nemůže, nebo je záměrně má jinak než jiné platformy. Není na čase se konečně oprostit od jha let minulých?]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -3205,16 +3235,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fedora Evaluates Replacing Redis With Valkey]]></title>
-        <id>https://www.phoronix.com/news/Fedora-Evaluate-Replacing-Redis</id>
-        <link href="https://www.phoronix.com/news/Fedora-Evaluate-Replacing-Redis"/>
-        <updated>2024-04-30T10:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Given the upstream Redis software licensing changes, Fedora is evaluating replacing Redis with the new Valkey project...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Centum is a horror adventure about training up an AI, also featuring a demon catphone]]></title>
         <id>https://www.rockpapershotgun.com/centum-is-a-horror-adventure-about-training-up-an-ai-also-featuring-a-demon-catphone</id>
         <link href="https://www.rockpapershotgun.com/centum-is-a-horror-adventure-about-training-up-an-ai-also-featuring-a-demon-catphone"/>
@@ -4249,26 +4269,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Včera vyšlo Ubuntu 24.04 LTS Noble Numbat. Server Phoronix testoval výkon 24.04, 23.10 a 22.04.4 na procesorech Intel Core i9 14900K a AMD Ryzen 9 7950X.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naučte se používat web server Apache (školení)]]></title>
-        <id>www.root.cz-actuality-39411</id>
-        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-web-server-apache-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-26T08:46:42.000Z</updated>
-        <summary type="html"><![CDATA[Apache je jeden z nejrozšířenějších a nejpoužívanějších webových server současnosti, na školení Web server Apache se ho naučíme instalovat, spravovat a ladit pro co nejhladší běh našich služeb. Vše si vyzkoušíte prakticky na ostrém serveru, na kterém budete mít možnost provozovat skutečný web a ovlivňovat jeho nastavení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zdrojové kódy systému MS-DOS 4.0 zveřejněny pod licencí MIT]]></title>
-        <id>www.root.cz-actuality-45900</id>
-        <link href="https://www.root.cz/zpravicky/zdrojove-kody-systemu-ms-dos-4-0-zverejneny-pod-licenci-mit/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-26T06:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Před deseti lety Microsoft uvolnil zdrojové kódy systémů MS-DOS 1.25 a 2.0 pro Muzeum počítačové historie a později je znovu zveřejnil na GitHubu pro referenční účely. Tento kód zaujímá významné místo v historii a je fascinujícím čtením o operačním systému, který byl před téměř 45 lety napsán výhradně v kódu assembleru 8086, vysvětluje Microsoft.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
