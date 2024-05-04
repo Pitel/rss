@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-04T12:16:32.744Z</id>
+    <id>urn:2024-05-04T14:10:28.175Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-04T12:16:32.744Z</updated>
+    <updated>2024-05-04T14:10:28.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Asynchroní parsování JSONu v C++20]]></title>
+        <id>www.root.cz-text-17151</id>
+        <link href="https://www.root.cz/clanky/asynchroni-parsovani-jsonu-v-c-20/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-05-04T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[Tento článek je ukázkou a malým cvičením na korutiny. Ukážeme si, jak napsat parser JSONu jako korutinu v C++20.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibrePlanet 2024]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/libreplanet-2024</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/libreplanet-2024"/>
+        <updated>2024-05-04T13:00:12.000Z</updated>
+        <summary type="html"><![CDATA[O víkendu probíhá v Bostonu, a také virtuálně, konference LibrePlanet 2024 organizovaná nadací Free Software Foundation (FSF).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetBSD On The State & Future Of X.Org/X11]]></title>
+        <id>https://www.phoronix.com/news/NetBSD-State-Of-X11-2024</id>
+        <link href="https://www.phoronix.com/news/NetBSD-State-Of-X11-2024"/>
+        <updated>2024-05-04T12:36:33.000Z</updated>
+        <summary type="html"><![CDATA[While on Linux the desktop environments, graphics stack, and other application software is steadily adopting Wayland support and focusing less on X11/X.Org support, the state of Wayland support and the open-source graphics driver stack in general is less robust among the BSDs. The NetBSD project published a status report around their ongoing dependence and modifications to their X.Org stack...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wine 9.8]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/wine-9.8</id>
         <link href="http://www.abclinuxu.cz/zpravicky/wine-9.8"/>
-        <updated>2024-05-04T11:22:42.000Z</updated>
+        <updated>2024-05-04T11:22:41.000Z</updated>
         <summary type="html"><![CDATA[Nová vývojová verze Wine 9.8 řeší mimo jiné chybu #3689 při instalaci Microsoft Office 97 nahlášenou v roce 2005.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -3037,16 +3067,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cascadia Code 2404.23]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/cascadia-code-2404.23</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/cascadia-code-2404.23"/>
-        <updated>2024-05-01T10:57:05.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft vydal novou velkou aktualizaci 2404.23 v září 2019 pod licencí SIL Open Font License (OFL) zveřejněné rodiny písma Cascadia Code pro zobrazování textu v emulátorech terminálu a vývojových prostředích.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We could be seeing Total War: Warhammer 3’s redemption after months of backlash]]></title>
         <id>https://www.rockpapershotgun.com/we-could-be-seeing-total-war-warhammer-3s-redemption-after-months-of-backlash</id>
         <link href="https://www.rockpapershotgun.com/we-could-be-seeing-total-war-warhammer-3s-redemption-after-months-of-backlash"/>
@@ -3161,16 +3181,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Je tady květen a ti, kdo se chystají sestavit si novou mašinu budou mít příležitost obětovat větší částku za hardwarové komponenty, nebo přidat si za nějaké další licence, které hned nenašli na Goodoffer24.com, zde mají velké slevy nabízené v porovnání s oficiálními ceníky.]]></summary>
         <author>
             <name>Reklama</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRM Buddy & AMDGPU Wired Up For Clear Page Tracking In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/DRM-Buddy-Clear-Page-Tracking</id>
-        <link href="https://www.phoronix.com/news/DRM-Buddy-Clear-Page-Tracking"/>
-        <updated>2024-05-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sent in to DRM-Next as part of last week's drm-misc-next changes is implementing support for tracking cleared free memory and is initially wired up for the AMDGPU kernel graphics driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4561,16 +4571,6 @@ While the developer made many smart decisions in creating Stellar Blade, we’re
 As soon as you start t…]]></summary>
         <author>
             <name>Matt Miller</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 LTS Noble Numbat: skvěle nudné vydání s mnohaletou podporou]]></title>
-        <id>www.root.cz-text-17131</id>
-        <link href="https://www.root.cz/clanky/ubuntu-24-04-lts-noble-numbat-skvele-nudne-vydani-s-mnohaletou-podporou/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-04-25T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Nové Ubuntu 24.04 LTS Noble Numbat je zde, nepřináší prakticky nic jiného než předvídatelnou evoluci a je to tak správně. Novinek je ale i přesto spousta, byť třeba fanoušky Kubuntu čeká malé zklamání.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
