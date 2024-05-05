@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-05T10:10:47.232Z</id>
+    <id>urn:2024-05-05T12:17:22.188Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-05T10:10:47.232Z</updated>
+    <updated>2024-05-05T12:17:22.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Star Wars arrives in Fall Guys this week, alongside major changes to bean physics]]></title>
+        <id>https://www.rockpapershotgun.com/star-wars-arrives-in-fall-guys-this-week-alongside-major-changes-to-bean-physics</id>
+        <link href="https://www.rockpapershotgun.com/star-wars-arrives-in-fall-guys-this-week-alongside-major-changes-to-bean-physics"/>
+        <updated>2024-05-05T11:50:34.000Z</updated>
+        <summary type="html"><![CDATA[I need to take all the opportunities to write about Fall Guys that I can get, given how much time I spend playing it with my son. This is a pretty good opportunity, too: a set of Star Wars skins are coming to the bean battle royale, as announced yesterday on May 4th, and they coincide with some major changes to Fall Guys' platforming physics.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synaptics Releases DisplayLink 6.0 USB Graphics Driver Package For Linux]]></title>
+        <id>https://www.phoronix.com/news/DisplayLink-Linux-Driver-6.0</id>
+        <link href="https://www.phoronix.com/news/DisplayLink-Linux-Driver-6.0"/>
+        <updated>2024-05-05T10:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Synaptics this week published a big update to their out-of-tree graphics driver package for DisplayLink USB graphics...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa's Venus Vulkan Driver Updated To Allow QEMU Support]]></title>
+        <id>https://www.phoronix.com/news/Venus-Driver-QEMU-Support</id>
+        <link href="https://www.phoronix.com/news/Venus-Driver-QEMU-Support"/>
+        <updated>2024-05-05T10:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Mesa's Venus Vulkan driver has made cross-device functionality optional in order to enable QEMU support for this open-source driver for virtualized environments...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS ROG RAIKIRI & Lunar Lake Point M Device IDs Sent In For Linux 6.9-rc7]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.9-rc7-New-Hardware</id>
+        <link href="https://www.phoronix.com/news/Linux-6.9-rc7-New-Hardware"/>
+        <updated>2024-05-05T10:13:45.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the Linux 6.9-rc7 kernel being released later today, some last minute pull requests for the week have enabled some new bits of hardware support where only new device IDs are necessary and thus safe to add at this late stage of Linux 6.9 development...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-716</id>
         <link href="https://www.rockpapershotgun.com/the-sunday-papers-716"/>
         <updated>2024-05-05T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sundays are for sorting the tangle of busted pipes under my sink out so I don’t have to change my socks twice a day after forgetting to wear my designated Kitchen Crocs. Before I remember this time and instantly become a style icon, let’s read this week’s best writing about games (and game-related things!)
-The History Of How We Play wrote about ‘How We Learnt To Play With Our Fingers’, tracing the evolution of game controllers from early cabinets to PlayStation pads. I’d have loved to see this charted alongside actual design priorities - the piece does look into this briefly - since I reckon the two are interlinked in some interesting ways, but it’s a cool piece nontheless.
-“Zooming in on the transition of input devices from military to gameplay applications is an interesting exercise to look at the influence of video games through. It shows both the diverse influences and the many paths that were tried and rejected on the way to modern design. The chaotic nature, dead-ends, and parallel evolutions of digital technology puts into sharp focus why the things that won ultimately did. Was it inevitability or just the best thing that we settled on? How early is anything that catches on evident to those who are paying attention?”
- Read more]]></summary>
+ 
+Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
         </author>
@@ -3289,16 +3331,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Punting GPU Drivers From The Initramfs Due To Ever Increasing Firmware Bloat]]></title>
-        <id>https://www.phoronix.com/news/GPU-Drivers-Firmware-Initramfs</id>
-        <link href="https://www.phoronix.com/news/GPU-Drivers-Firmware-Initramfs"/>
-        <updated>2024-05-01T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[For now Fedora / Red Hat is not making any immediate changes, but the ever increasing sizes of required GPU firmware files is causing Linux distribution vendors to re-think including GPU kernel graphics drivers as part of the initramfs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Newspapers Sue OpenAI for Copyright Infringement and ‘Fake News’ Hallucinations]]></title>
         <id>https://torrentfreak.com/?p=250955</id>
         <link href="https://torrentfreak.com/newspapers-sue-openai-for-copyright-infringement-and-fake-news-240501/"/>
@@ -3343,16 +3375,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canonical Releases Landscape 24.04 LTS With New Snap Management, New Web Portal]]></title>
-        <id>https://www.phoronix.com/news/Canonical-Landscape-24.04-LTS</id>
-        <link href="https://www.phoronix.com/news/Canonical-Landscape-24.04-LTS"/>
-        <updated>2024-05-01T09:32:04.000Z</updated>
-        <summary type="html"><![CDATA[Following last week's release of Ubuntu 24.04 LTS, Canonical has now rolled out Landscape 24.04 LTS as the first long-term support version of this commercial software for managing a fleet of Ubuntu systems from a web-based portal. Landscape is part of the Ubuntu Pro subscription package and from the web-based environment makes it easier to manage Ubuntu systems in the enterprise...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Call of Duty 2024 and Gears 6 to get June reveal alongside Avowed and Indiana Jones release dates, claims report]]></title>
         <id>https://www.rockpapershotgun.com/call-of-duty-2024-and-gears-6-to-get-june-reveal-alongside-avowed-and-indiana-jones-release-dates-claims-report</id>
         <link href="https://www.rockpapershotgun.com/call-of-duty-2024-and-gears-6-to-get-june-reveal-alongside-avowed-and-indiana-jones-release-dates-claims-report"/>
@@ -3361,16 +3383,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DM-Crypt Adding "High Priority" Option In Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/DM-Crypt-High-Priority</id>
-        <link href="https://www.phoronix.com/news/DM-Crypt-High-Priority"/>
-        <updated>2024-05-01T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Queued up as part of the DeviceMapper dm-crypt changes for Linux 6.10 is adding a new "high priority" option...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -4663,18 +4675,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Corinna Burton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I followed this ox around in Manor Lords for a day to see what wisdom it could teach me]]></title>
-        <id>https://www.rockpapershotgun.com/i-followed-this-ox-around-in-manor-lords-for-a-day-to-see-what-wisdom-it-could-teach-me</id>
-        <link href="https://www.rockpapershotgun.com/i-followed-this-ox-around-in-manor-lords-for-a-day-to-see-what-wisdom-it-could-teach-me"/>
-        <updated>2024-04-26T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While playing Manor Lords for review, I kept making mental notes to spend time watching the individual routes its villagers and beasts take each day. It’s one of those interestingly granular games that actually becomes more so by remaining a bit mysterious in ways I’m sure will annoy some, so I reasoned some people-watching would be illuminating. And by people, I mean oxen.
- 
-Read more]]></summary>
-        <author>
-            <name>Nic Reuben</name>
         </author>
     </entry>
     <entry>
