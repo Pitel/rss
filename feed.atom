@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-11T10:10:55.619Z</id>
+    <id>urn:2024-05-11T12:17:20.325Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-11T10:10:55.619Z</updated>
+    <updated>2024-05-11T12:17:20.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KDE Making Good Progress On HDR, Better Gamescope Integration]]></title>
+        <id>https://www.phoronix.com/news/KDE-HDR-Colors-Part-3</id>
+        <link href="https://www.phoronix.com/news/KDE-HDR-Colors-Part-3"/>
+        <updated>2024-05-11T11:00:22.000Z</updated>
+        <summary type="html"><![CDATA[KDE developer Xaver Hugl has written a third blog post outlining some of the latest HDR and color management improvements that have been readied for KDE's KWin compositor as well as ongoing improvements to Valve's Gamescope compositor...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Releases Pingora 0.2 For Building Fast & Reliable Networked Systems]]></title>
+        <id>https://www.phoronix.com/news/Cloudflare-Pingora-0.2</id>
+        <link href="https://www.phoronix.com/news/Cloudflare-Pingora-0.2"/>
+        <updated>2024-05-11T10:34:21.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago Cloudflare outlined how they began replacing Nginx with their own in-house creation, Pingora. Back in February of this year Cloudflare open-sourced Pingora and in April issued the maiden release of Pingora. Out today is Pingora 0.2 as the second release of this Rust framework that is already used in production by Cloudflare...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustls Can Now Work With Nginx Via New OpenSSL Compatibility Layer]]></title>
+        <id>https://www.phoronix.com/news/Rustls-With-Nginx</id>
+        <link href="https://www.phoronix.com/news/Rustls-With-Nginx"/>
+        <updated>2024-05-11T10:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Rustls is the modern TLS library written in the Rust programming language with a large emphasis on memory safety and security. Rustls is backed by Google, AWS, and others as well as being a recipient of Germany's Sovereign Tech Fund. The latest exciting milestone for the open-source project is that Rustls can now work with Nginx...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wasmer 4.3 Released: WebAssembly Runtime 25% Faster On Cold Startups]]></title>
         <id>https://www.phoronix.com/news/Wasmer-4.3-Released</id>
@@ -3368,16 +3398,6 @@ Are you going to pick this game up? Let us know in the comments below!]]></summa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fedora Asahi Remix 40 Now Available For Apple Silicon Devices, KDE Plasma 6 By Default]]></title>
-        <id>https://www.phoronix.com/news/Fedora-Asahi-Remix-40</id>
-        <link href="https://www.phoronix.com/news/Fedora-Asahi-Remix-40"/>
-        <updated>2024-05-08T13:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Building off the recent release of Fedora 40, Fedora Asahi Remix 40 is now available for this downstream of Fedora Linux that's optimized to run on Apple Silicon ARM systems...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Surviving The Retro-Inspired Horror Of Crow Country | New Gameplay Today]]></title>
         <id>122573</id>
         <link href="https://www.gameinformer.com/ngt/2024/05/08/surviving-the-retro-inspired-horror-of-crow-country-new-gameplay-today"/>
@@ -3399,16 +3419,6 @@ Head to Game Informer's YouTube channel for more previews, reviews, and discu
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHIFTphone 8 Preparing Mainline Linux Support Ahead Of Launch]]></title>
-        <id>https://www.phoronix.com/news/SHIFTphone-8-Linux-Patches</id>
-        <link href="https://www.phoronix.com/news/SHIFTphone-8-Linux-Patches"/>
-        <updated>2024-05-08T13:26:04.000Z</updated>
-        <summary type="html"><![CDATA[SHIFTphone 8 is the upcoming modular and easy-to-repair smartphone from Germany's SHIFT GmbH. This is the first major SHIFTphone update in four years and there are pending patches providing mainline Linux kernel support for this forthcoming Qualcomm Snapdragon powered modular/upgradeable smartphone...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3514,16 +3524,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Byla vydána verze R14.1.2 desktopového prostředí Trinity Desktop Environment (TDE, fork KDE 3.5). Přehled novinek v poznámkách k vydání, podrobnosti v seznamu změn.]]></summary>
         <author>
             <name>JZD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Linux Engineers Introduce New "schedstat" Tool]]></title>
-        <id>https://www.phoronix.com/news/AMD-Linux-perf-schedstat-Tool</id>
-        <link href="https://www.phoronix.com/news/AMD-Linux-perf-schedstat-Tool"/>
-        <updated>2024-05-08T10:54:45.000Z</updated>
-        <summary type="html"><![CDATA[AMD Linux engineers have introduced a new perf tool called "schedstat" that aims to be less resource intensive and convenient than the existing "perf sched" tool for profiling kernel scheduler behavior...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4444,7 +4444,7 @@ Read more]]></summary>
     <entry>
         <title type="html"><![CDATA[Star Wars [UPDATED]]]></title>
         <id>33418</id>
-        <link href="https://www.gameinformer.com/b/features/archive/2017/10/10/star-wars-star-wars-star-wars-star-wars.aspx"/>
+        <link href="https://www.gameinformer.com/b/features/archive/2015/12/17/star-wars-star-wars-star-wars-star-wars.aspx"/>
         <updated>2024-05-04T18:00:00.000Z</updated>
         <summary type="html"><![CDATA[Star Wars.
 Star Wars.
