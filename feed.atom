@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-11T04:11:58.151Z</id>
+    <id>urn:2024-05-11T06:12:48.876Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-11T04:11:58.151Z</updated>
+    <updated>2024-05-11T06:12:48.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -2599,18 +2599,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I have been texting my Classicist brother about Hades II and he's just enjoying it like a normal person]]></title>
-        <id>https://www.rockpapershotgun.com/i-have-been-texting-my-classicist-brother-about-hades-ii-and-hes-just-enjoying-it-like-a-normal-person</id>
-        <link href="https://www.rockpapershotgun.com/i-have-been-texting-my-classicist-brother-about-hades-ii-and-hes-just-enjoying-it-like-a-normal-person"/>
-        <updated>2024-05-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My older brother (as opposed to "big"; my younger brother is my big brother, because he's built like the kind of hearty giant in a JRPG who laughs a lot and carries an anchor as a weapon, while my older brother is a loathsome scribbling wizard like myself) is a gamer in a very normal sense. He was way more online when he was younger, and is the one who got me into the games of Lucasfilm, Troika and Blizzard, but these days he plays the games he likes a lot and does not read specialist websites that tell him why he shouldn't like them. He used to play loads of League Of Legends, but the game he was most into more recently was Hades. This is because he studied Classics.
-I won't tell you how many years its been since he was at university, but for many years - and still sort of now, to be honest - "liking Apollo" was a key part of his personality. It's interesting, therefore, to text him about Hades 2. Partly because he wasn't even aware it was happening.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Animal Well review: an unmissable creature feature]]></title>
         <id>https://www.rockpapershotgun.com/animal-well-review</id>
         <link href="https://www.rockpapershotgun.com/animal-well-review"/>
@@ -2621,6 +2609,18 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I have been texting my Classicist brother about Hades II and he's just enjoying it like a normal person]]></title>
+        <id>https://www.rockpapershotgun.com/i-have-been-texting-my-classicist-brother-about-hades-ii-and-hes-just-enjoying-it-like-a-normal-person</id>
+        <link href="https://www.rockpapershotgun.com/i-have-been-texting-my-classicist-brother-about-hades-ii-and-hes-just-enjoying-it-like-a-normal-person"/>
+        <updated>2024-05-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[My older brother (as opposed to "big"; my younger brother is my big brother, because he's built like the kind of hearty giant in a JRPG who laughs a lot and carries an anchor as a weapon, while my older brother is a loathsome scribbling wizard like myself) is a gamer in a very normal sense. He was way more online when he was younger, and is the one who got me into the games of Lucasfilm, Troika and Blizzard, but these days he plays the games he likes a lot and does not read specialist websites that tell him why he shouldn't like them. He used to play loads of League Of Legends, but the game he was most into more recently was Hades. This is because he studied Classics.
+I won't tell you how many years its been since he was at university, but for many years - and still sort of now, to be honest - "liking Apollo" was a key part of his personality. It's interesting, therefore, to text him about Hades 2. Partly because he wasn't even aware it was happening.
+Read more]]></summary>
+        <author>
+            <name>Alice Bell</name>
         </author>
     </entry>
     <entry>
@@ -5566,96 +5566,6 @@ If you encounter any bugs or oddities, please report them on our bugtracker.
         <summary type="html"><![CDATA[Welcome to 14.0! OpenTTD’s first release was in March of 2004. Now twenty years later, we are proud to present to you: release 14.0. And boy, what a release it is. Do I dare to say: this has been the biggest release yet?]]></summary>
         <author>
             <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Koala | 2024.1.1 Canary 5 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-5.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/04/android-studio-koala-202411-canary-5.html"/>
-        <updated>2024-04-11T17:29:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Koala | 2024.1.1 Canary 5 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Koala, see the Android Studio Preview release notes.
-
-For details of bugs fixed in each previous release of Android Studio Koala, see
-closed issues.
-General fixes and features
-Below is a list of general fixes in Android Studio Koala | 2024.1.1 Canary 5 and Android Gradle Plugin 8.5.0-alpha05. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #331806519
-JavaPreCompileTask includes KSP classpath dependencies when computing non-incremental annotation processors
-
-            
-
-              
-Issue #332731575
-Execution failed for task ':app:generateDebugLocaleConfig'.
-
-          
-        
-
-      
-    
-Gradle
-      
-        
-
-          
-            
-
-              
-Issue #292110316
-Cannot locate tasks that match ':shared:testClasses' as task 'testClasses' not found in project ':shared'.
-
-          
-        
-
-      
-    
-Layout and Resource Editing
-      
-        
-
-          
-            
-
-              
-Issue #332772484
-Left and Right Margins Constraint Widget Not Working in Android Studio Layout Design Library Module res/layout
-
-          
-        
-
-      
-    
-Rendering
-      
-        
-
-          
-            
-
-              
-Issue #333031898
-Implement basic support for ApplicationInfo in PackageManager]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
