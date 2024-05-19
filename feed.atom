@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-19T08:12:58.929Z</id>
+    <id>urn:2024-05-19T10:09:53.763Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-19T08:12:58.929Z</updated>
+    <updated>2024-05-19T10:09:53.763Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.10 Scheduler Changes Bring More Refinements]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Scheduler</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Scheduler"/>
+        <updated>2024-05-19T10:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Alongside all of the other pull requests by Ingo Molnar submitted at the start of the week during the opening of the Linux 6.10 merge window were the scheduler updates. As usual, the kernel scheduler work continues to see various tweaks and refinements to enhance its behavior...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-718</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-718"/>
+        <updated>2024-05-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for wheeling my old gamer chair to the curb, before flopping back in my new ergonomic office chair  with the same awful posture and whining, "Why doesn't it work?! Who knew that furniture named things like Titan, Pro and Conquer aren't the most conducive to lumbar support?" Before I go, "Aaaaaaahhhhhhh" so loudly I give the local cats tiny heart attacks, let's read this week’s best writing about games (and game related things!)
+ 
+Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turbostat Gains New Features & New Hardware Support With Linux 6.10]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Turbostat</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Turbostat"/>
+        <updated>2024-05-19T09:48:31.000Z</updated>
+        <summary type="html"><![CDATA[Linux's Turbostat utility that is developed by Intel for reporting idle/power state statistics, temperatures, and other useful data on modern Intel/AMD processors has seen its changes submitted for the in-development Linux 6.10 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl - Duel: Super Monkey Ball Adventure]]></title>
+        <id>https://www.nintendolife.com/#article-166228</id>
+        <link href="https://www.nintendolife.com/features/poll-box-art-brawl-duel-super-monkey-ball-adventure"/>
+        <updated>2024-05-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ballin'.
+Let's get the ball rolling on another edition of Box Art Brawl, shall we?
+Last week, we matched up two covers for Capcom's Demon's Crest on the SNES. The regional designs shared few similarities and the same can be said for the spread of votes, with 84% of picks falling in Japan's favour. Talk about a washout!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dave The Diver Getting Physical Switch Release With Guilty Gear Collab Content]]></title>
         <id>https://www.nintendolife.com/#article-162860</id>
@@ -2662,19 +2707,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Splatoon 3 'Sizzle Season 2024' Introduces New Weapons, Stages And Big Run Mode Next Month]]></title>
-        <id>https://www.nintendolife.com/#article-166183</id>
-        <link href="https://www.nintendolife.com/news/2024/05/splatoon-3-sizzle-season-2024-introduces-new-weapons-stages-and-big-run-mode-next-month"/>
-        <updated>2024-05-16T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[BIG Big Run?!
-Nintendo has just revealed our first look at Splatoon 3's 'Sizzle Season 2024' update, and it looks like it is going to be a big one.
-Kicking off on 1st June, the annual Sizzle Season will bring with it a handful of new weapons and stages as well as a variation on the Big Run game mode called 'BIG Big Run'. Yes, really.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Big cool weirdo Yoko Taro may or may not be working on something that may or may not be Nier]]></title>
         <id>https://www.rockpapershotgun.com/big-cool-weirdo-yoko-taro-may-or-may-not-be-working-on-something-that-may-or-may-not-be-nier</id>
         <link href="https://www.rockpapershotgun.com/big-cool-weirdo-yoko-taro-may-or-may-not-be-working-on-something-that-may-or-may-not-be-nier"/>
@@ -3175,16 +3207,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The NTSYNC Driver For Wine/Proton Is "Broken" For Linux 6.10]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-NTSYNC-Broken</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-NTSYNC-Broken"/>
-        <updated>2024-05-15T16:18:10.000Z</updated>
-        <summary type="html"><![CDATA[While Linux 6.10 is poised to merge the initial NTSYNC driver for a Windows NT Synchronization Primitive driver that can help with faster Windows gaming performance under Wine/Proton (Steam Play), the driver isn't complete. The initial patches have been in Greg Kroah-Hartman's char-misc-next branch for several weeks to expose the NTSYNC character device, it isn't the entire patch series. Greg has now marked the driver as "broken" for Linux 6.10...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linus Torvalds získal ARM64 stroj od Ampere]]></title>
         <id>www.root.cz-actuality-45972</id>
         <link href="https://www.root.cz/zpravicky/linus-torvalds-ziskal-arm64-stroj-od-ampere/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3351,16 +3373,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ZLUDA Has Been Seeing New Activity For CUDA On AMD GPUs]]></title>
-        <id>https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA</id>
-        <link href="https://www.phoronix.com/news/ZLUDA-New-Activity-AMD-CUDA"/>
-        <updated>2024-05-15T14:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Back in February I wrote about AMD having quietly funded the effort for a drop-in CUDA implementation for AMD GPUs built atop the ROCm library. This was an incarnation of ZLUDA that originally began as a CUDA implementation for Intel GPUs using oneAPI Level Zero. While AMD discontinued funding ZLUDA development earlier this year, this CUDA implementation for AMD GPUs is continuing to see some new code activity...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -5049,19 +5061,6 @@ You can listen above, or on on Spotify, iTunes, Stitcher, or Pocket Casts. You c
         <link href="https://www.rockpapershotgun.com/tango-gameworks-deserves-to-be-remembered-for-more-than-shinji-mikami"/>
         <updated>2024-05-09T14:08:43.000Z</updated>
         <summary type="html"><![CDATA[When I asked Tango Gameworks creative director John Johanas whom he'd give Hi-Fi Rush's Best Audio trophy away to at this year's GDC Awards, he said he'd split it between the game's audio team and "the person who taught me everything I know" - Shinji Mikami, Tango's founder and one of the erstwhile Capcom and Platinum big brains behind Resident Evil, Vanquish and much more besides. I confess, I found this response annoying - partly because I was hoping Johanas would bring up some obscure indie composer I could then namecheck at parties, and partly, because I have spent years waiting for Tango to escape Mikami's shadow after essentially announcing themselves as a Mikami fan project back in 2010. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animal Well review: an unmissable creature feature]]></title>
-        <id>https://www.rockpapershotgun.com/animal-well-review</id>
-        <link href="https://www.rockpapershotgun.com/animal-well-review"/>
-        <updated>2024-05-09T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Computers have always been animal wells, in a sense. They're havens for creatures of many shapes and degrees of literalness, all the way down to the metal. As in ecologies at large, the most abundant and widespread are probably the bugs, beginning with the moth that flew into that Harvard Mark II in 1947 and ending with the teeming contents of the average free-to-play changelog. A little further up the food chain we find "worms", like the Creeper that once invaded the ARPANET, and "gophers", a directory/client system written in 1991 for the University of Minnesota. There are computer animals spawned by branding - foxes of fire and twittering birds and the anonymous beasts that haunt the margins of Google documents. There are computer animals that are implied by the verbs we use in computing - take "browser", derived from the old French word for nibbling at buds and sprouts, which suggests that all modern internet searches are innately herbivorous. 
 
  
 Read more]]></summary>
