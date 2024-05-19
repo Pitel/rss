@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-19T10:09:53.763Z</id>
+    <id>urn:2024-05-19T12:17:52.553Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-19T10:09:53.763Z</updated>
+    <updated>2024-05-19T12:17:52.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[New Limited-Time Pokémon Scarlet And Violet Distribution Now Available]]></title>
+        <id>https://www.nintendolife.com/#article-165705</id>
+        <link href="https://www.nintendolife.com/news/2024/05/new-limited-time-pokemon-scarlet-and-violet-distribution-now-available"/>
+        <updated>2024-05-19T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Get it while you can.
+Update #2 :
+Dot's Quaxly from the Pokémon Horizons anime series is now live. The code you'll need this time is D0T1STPARTNER and expires on 30th November 2024 (thanks, Serebii.net).
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Praises Golang PGO For Significant CPU Savings]]></title>
+        <id>https://www.phoronix.com/news/Cloudflare-Golang-PGO</id>
+        <link href="https://www.phoronix.com/news/Cloudflare-Golang-PGO"/>
+        <updated>2024-05-19T10:47:59.000Z</updated>
+        <summary type="html"><![CDATA[Released over a year ago was Golang 1.20 with support for Profile Guided Optimizations (PGO) and has since been improved with Go 1.21 for 2~7% faster Go binaries thanks to this optimization approach also found with other compilers. The engineers at Cloudflare have put out a blog post this week praising Go's PGO support and the CPU savings they are seeing as a result...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXT4 In Linux 6.10 Adds FS_IOC_GETFSSYSFSPATH Support]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-EXT4</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-EXT4"/>
+        <updated>2024-05-19T10:36:43.000Z</updated>
+        <summary type="html"><![CDATA[While EROFS is seeing Zstd support and Bcachefs is seeing performance optimizations with the in-development Linux 6.10 kernel, over on the mature EXT4 file-system side the changes are mostly small. There are some minor changes, more folio conversion work, and also adding support for the FS_IOC_GETFSSYSFSPATH ioctl that has been seeing some standardization and adoption by the common Linux file-systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Patch Posted For The Bigscreen Beyond VR Headset]]></title>
+        <id>https://www.phoronix.com/news/Linux-Bigscreen-Beyond-VR</id>
+        <link href="https://www.phoronix.com/news/Linux-Bigscreen-Beyond-VR"/>
+        <updated>2024-05-19T10:14:51.000Z</updated>
+        <summary type="html"><![CDATA[A Linux patch has been posted for delivering a quirk so that the Bigscreen Beyond VR Headset can properly behave under Linux and in turn also jives with the likes of SteamVR...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.10 Scheduler Changes Bring More Refinements]]></title>
         <id>https://www.phoronix.com/news/Linux-6.10-Scheduler</id>
@@ -2639,19 +2682,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japanese Charts: Mario Kart Zooms Onto The Podium, But It Can't Overtake Stellar Blade]]></title>
-        <id>https://www.nintendolife.com/#article-166186</id>
-        <link href="https://www.nintendolife.com/news/2024/05/japanese-charts-mario-kart-zooms-onto-the-podium-but-it-cant-overtake-stellar-blade"/>
-        <updated>2024-05-16T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Stellar competition.
-The latest Japanese charts from Famitsu (via Gematsu) are in and this week paints a pretty familiar picture.
-Last week's champion, Stellar Blade, takes the trophy once again and stands as the representative of the only non-Switch title in the running. On the flip side, the likes of Eiyuden Chronicle: Hundred Heroes and Demon Slayer: Kimetsu no Yaiba – Sweep the Board! have dropped out of the top ten, leaving Mario Kart 8 Deluxe the chance to speed back onto the podium and take second place.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Samsung Dunks On Apple's Crushing iPad Commercial Fiasco]]></title>
         <id>1851481107</id>
         <link href="https://kotaku.com/samsung-apple-crush-commercial-1851481107"/>
@@ -2903,16 +2933,6 @@ Co je potřeba udělat, abyste se mohli zúčastnit? Připravit si desetiminutov
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linus Torvalds On Dogfooding The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding</id>
-        <link href="https://www.phoronix.com/news/Linus-Torvalds-Linux-Dogfooding"/>
-        <updated>2024-05-16T10:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Besides Linus Torvalds examining various elements of code he's merging and build testing it on his AMD Ryzen Threadripper workstation and now also testing more on ARM64 with Ampere Altra, he does these days still believe in "dogfooding" and is in fact running the leading-edge Linux kernel code even during the merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shockingly great soulslike Lies Of P is due a DLC by the end of the year]]></title>
         <id>https://www.rockpapershotgun.com/shockingly-great-soulslike-lies-of-p-is-due-a-dlc-by-the-end-of-the-year</id>
         <link href="https://www.rockpapershotgun.com/shockingly-great-soulslike-lies-of-p-is-due-a-dlc-by-the-end-of-the-year"/>
@@ -3014,16 +3034,6 @@ Test Services Version 1.5.0-beta01]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 24.1-rc4 Backports NVK DRM Format Modifiers Support]]></title>
-        <id>https://www.phoronix.com/news/Mesa-24.1-rc4-Released</id>
-        <link href="https://www.phoronix.com/news/Mesa-24.1-rc4-Released"/>
-        <updated>2024-05-15T20:35:51.000Z</updated>
-        <summary type="html"><![CDATA[The Mesa 24.1 stable release is nearing while out today is the fourth weekly release candidate. While the Intel and AMD Radeon graphics driver changes typically dominate new Mesa releases, Mesa 24.1-rc4 is headlined by a big change for the NVK open-source NVIDIA Vulkan driver...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3172,16 +3182,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Matt Jarvis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel TDX For Confidential VMs Causing Concern Among Fedora & Open-Source Advocates]]></title>
-        <id>https://www.phoronix.com/news/Intel-TDX-Fedora-OSS-Concerns</id>
-        <link href="https://www.phoronix.com/news/Intel-TDX-Fedora-OSS-Concerns"/>
-        <updated>2024-05-15T16:58:41.000Z</updated>
-        <summary type="html"><![CDATA[One of the capabilities of newer Intel Xeon Scalable processors is support for Trust Domain Extensions (TDX) as a way of providing for confidential virtual machines. Intel TDX allows for "isolation, confidentiality, and integrity at the VM level" which is good from the security perspective but the dependence on signed binaries is causing mixed feelings within the Fedora camp at the broader open-source community...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
