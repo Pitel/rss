@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-31T06:14:47.481Z</id>
+    <id>urn:2024-05-31T08:14:00.120Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-31T06:14:47.481Z</updated>
+    <updated>2024-05-31T08:14:00.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vyšlo XZ 5.6.2 s odstraněnými zadními vrátky]]></title>
+        <id>www.root.cz-actuality-46028</id>
+        <link href="https://www.root.cz/zpravicky/vyslo-xz-5-6-2-s-odstranenymi-zadnimi-vratky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-05-31T07:56:06.000Z</updated>
+        <summary type="html"><![CDATA[V kompresním programu XZ byla před dvěma měsíci objevena šikovně skrytá zadní vrátka CVE-2024–3094. Teoreticky by je bylo možné vzdáleně zneužít přes SSH a knihovnu liblzma, která je součástí XZ. Škodlivé byly verze 5.6 a 5.6.1. Ve středu vyšlo XZ 5.6.2 s již odstraněnými zadními vrátky.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google začne za několik dní vypínat starší rozšíření pro Chrome]]></title>
+        <id>www.root.cz-actuality-46027</id>
+        <link href="https://www.root.cz/zpravicky/google-zacne-za-nekolik-dni-vypinat-starsi-rozsireni-pro-chrome/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-05-31T07:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Google se drží svého plánu postupně ukončit starší rozšíření pro Chrome, které používají „Manifest V2“. Začne s tím už 3. června, přičemž se to nejprve dotkne vývojářského kanálu Dev a Canary. Uživatelům se budou rozšíření vypínat postupně a vše by mělo být hotovo na začátku příštího roku.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayland nabízí podporu pro OpenBSD]]></title>
+        <id>www.root.cz-actuality-46026</id>
+        <link href="https://www.root.cz/zpravicky/wayland-nabizi-podporu-pro-openbsd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-05-31T07:21:09.000Z</updated>
+        <summary type="html"><![CDATA[Simon Ser vydal Wayland 1.23, který přináší drobná vylepšení, opravy chyb a vylepšení protokolu Wayland. Nová verze není příliš zajímavá pro uživatele, ale vývojářům by se mohlo hodit několik nových API, vylepšené rozhraní pro ladění a podobně.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splatoon 3 Receives A Fresh New Update (Version 8.0.0), Here Are The Full Patch Notes]]></title>
+        <id>https://www.nintendolife.com/#article-166745</id>
+        <link href="https://www.nintendolife.com/news/2024/05/splatoon-3-receives-a-fresh-new-update-version-8-0-0-here-are-the-full-patch-notes"/>
+        <updated>2024-05-31T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Now available.
+Nintendo has released its next major update for Splatoon 3, bumping the Switch title up to Version 8.0.0.
+It comes with new 'season and catalog' changes, changes to the game's multiplayer, Splatfest, Salmon Run, and all sorts of bug fixes across each mode of the game.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Distribuční novinky 16-17/2024]]></title>
         <id>http://www.abclinuxu.cznull/</id>
@@ -21,8 +64,8 @@
         <link href="https://www.nintendolife.com/news/2024/05/minecrafts-tricky-trials-update-launches-on-switch-this-june"/>
         <updated>2024-05-31T03:30:00.000Z</updated>
         <summary type="html"><![CDATA["Discover the trial chambers".
-As part of Minecraft's 15th anniversary celebrations, Mojang has confirmed the release of the next major update 'Tricky Trials' will be 13th June 2024.
-So, yeah - that's just "a few short weeks" when this update will roll out in both the Java Edition and Bedrock Edition of the game. In case you've not kept up with the coverage so far, the Trial Chambers are a new structure filled with traps, tricks and treasures you can solo or play with friends.
+As part of the 15th anniversary Minecraft celebrations, Mojang has confirmed the release date of the next major update 'Tricky Trials' will be 13th June 2024.
+So, yeah - that's just "a few short weeks" from when this update will roll out in both the Java Edition and Bedrock Edition of the game. In case you've not kept up with the coverage so far, the Trial Chambers are a new structure filled with traps, tricks and treasures you can solo or play with friends.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1943,19 +1986,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Update: The second wave is now live.
 
 Update :
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splatoon 3 Receives A Fresh New Update (Version 8.0.0), Here Are The Full Patch Notes]]></title>
-        <id>https://www.nintendolife.com/#article-166745</id>
-        <link href="https://www.nintendolife.com/news/2024/05/splatoon-3-receives-a-fresh-new-update-version-8-0-0-here-are-the-full-patch-notes"/>
-        <updated>2024-05-30T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Out this week.
-Nintendo has announced its next major update for Splatoon 3, bumping the Switch title up to Version 8.0.0.
-It comes with new 'season and catalog' changes, changes to the game's multiplayer, Splatfest, Salmon Run, and all sorts of bug fixes across each mode of the game.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -4008,16 +4038,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Přijďte na školení MikroTik od základů po velkou síť a odnesete si router]]></title>
-        <id>www.root.cz-actuality-39043</id>
-        <link href="https://www.root.cz/zpravicky/prijdte-na-skoleni-mikrotik-od-zakladu-po-velkou-sit-a-odnesete-si-router/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-05-24T07:36:28.000Z</updated>
-        <summary type="html"><![CDATA[Máte spravovat síťové prvky společnosti MikroTik, ale chybí vám potřebné znalosti a zkušenosti? Přijďte na naše školení MikroTik od základů po velkou síť a kromě všech důležitých informací si domů odnesete i vlastní router MikroTik.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Room Code]]></title>
         <id>https://xkcd.com/2937/</id>
         <link href="https://xkcd.com/2937/"/>
@@ -4191,16 +4211,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nefunguje Bing, Copilot, DuckDuckGo a ChatGPT - aktualizováno]]></title>
-        <id>www.root.cz-actuality-46002</id>
-        <link href="https://www.root.cz/zpravicky/nefunguje-bing-copilot-duckduckgo-a-chatgpt/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-05-23T08:59:35.000Z</updated>
-        <summary type="html"><![CDATA[Od dnešního rána nefunguje vyhledávač Microsoftu Bing (downdetector). Kvůli tomu vyhledávač DuckDuckGo (downdetector) nevrací žádné výsledky, protože  používá výsledky Bingu. Stejně tak nefunguje vyhledávání internetu v ChatGPT-4.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anti-Piracy Chief: Google’s Gambling Ad Liability Should Be Adopted For Piracy]]></title>
         <id>https://torrentfreak.com/?p=251908</id>
         <link href="https://torrentfreak.com/anti-piracy-chief-googles-gambling-ad-liability-should-be-adopted-for-piracy-240523/"/>
@@ -4249,16 +4259,6 @@ Lorelei and the Laser Eyes’ setup is bland compared to the others in the puzzl
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.10 přinese nový ovladač pro další USB-LPT adaptéry]]></title>
-        <id>www.root.cz-actuality-46001</id>
-        <link href="https://www.root.cz/zpravicky/linux-6-10-prinese-novy-ovladac-pro-dalsi-usb-lpt-adaptery/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-05-22T17:44:52.000Z</updated>
-        <summary type="html"><![CDATA[Byť je s námi USB už čtvrt století, stále jsou používány mnohé tiskárny a jiná zařízení připojované přes LPT, tedy paralelní port. Greg Kroah-Hartman tak mezi změny USB/Thunderbolt subsystému příští verze jádra začleňuje i patche, které přidávají nový ovladač pro další čip obsažený v adaptérech z USB na LPT.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
