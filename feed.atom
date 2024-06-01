@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-05-31T22:10:04.731Z</id>
+    <id>urn:2024-06-01T00:52:30.130Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-05-31T22:10:04.731Z</updated>
+    <updated>2024-06-01T00:52:30.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.3.286 Released With One New Extension]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.3.286-Released</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.3.286-Released"/>
+        <updated>2024-06-01T00:38:43.000Z</updated>
+        <summary type="html"><![CDATA[Vulkan 1.3.286 was released today with a handful of corrections/clarifications as well as one new extension...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 9.10 Released With Upgrade To VKD3D 1.12, Brings DPI Awareness Improvements]]></title>
+        <id>https://www.phoronix.com/news/Wine-9.10-Released</id>
+        <link href="https://www.phoronix.com/news/Wine-9.10-Released"/>
+        <updated>2024-05-31T23:14:46.000Z</updated>
+        <summary type="html"><![CDATA[Wine 9.10 is out today as the newest bi-weekly development release for this open-source software to enjoy Windows games/applications on Linux and other operating systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft: The Manga English Release Coming Spring 2025]]></title>
+        <id>https://www.nintendolife.com/#article-166872</id>
+        <link href="https://www.nintendolife.com/news/2024/06/minecraft-the-manga-english-release-coming-spring-2025"/>
+        <updated>2024-05-31T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Minecraft is currently celebrating its 15th anniversary.
+Minecraft has now turned 15 and as part of the celebrations, the official manga (which originally made its debut in CoroCoro Comic in April 2020) will finally be released in English.
+VIZ Media is handling the localisation of Minecraft: The Manga, with it expected to launch at some point in Spring 2025. Here's the official announcement, which also provides some information about what to expect from this particular story:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Událo se v týdnu 22/2024]]></title>
+        <id>http://www.abclinuxu.cznull/</id>
+        <link href="http://www.abclinuxu.cznull/"/>
+        <updated>2024-05-31T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seznam.cz otevřel datacentrum Kokura 3: má moderní chlazení a vyšší kapacitu]]></title>
         <id>www.root.cz-text-17192</id>
@@ -2630,19 +2673,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mortal Kombat 1 DLC Fighter 'Homelander' Arrives Early Next Month]]></title>
-        <id>https://www.nintendolife.com/#article-166749</id>
-        <link href="https://www.nintendolife.com/news/2024/05/mortal-kombat-1-dlc-fighter-homelander-arrives-early-next-month"/>
-        <updated>2024-05-30T05:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The new Kameo Fighter follows "later in June".
-After a long wait, we've finally got some proper gameplay footage of the new Mortal Kombat 1 DLC fighter Homelander. The new trailer also confirms he'll be arriving next month on 4th June 2024.
-In case you missed it, 'The Boys' character will be joining existing DLC characters such as Omni-Man and Peacemaker. It's worth mentioning this character won't be voiced by the actor Antony Starr.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[VKD3D 1.12 Released With Support For Directly Outputting SPIR-V & D3D Shader Assembly]]></title>
         <id>https://www.phoronix.com/news/VKD3D-1.12-Released</id>
         <link href="https://www.phoronix.com/news/VKD3D-1.12-Released"/>
@@ -3202,26 +3232,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/Intel-GCC-Loop-Alignment"/>
         <updated>2024-05-29T10:30:08.000Z</updated>
         <summary type="html"><![CDATA[Coming up on my radar today is a commit made to the GNU Compiler Collection (GCC) for adjusting the loop alignment with Intel's generic tuning path. In turn this should address "some random performance penalty in benchmarks" with coping better around cache lines...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Sub-NUMA Clustering Support Linux Patches Spun A 19th Time]]></title>
-        <id>https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19</id>
-        <link href="https://www.phoronix.com/news/Intel-SNC-With-RDT-Linux-v19"/>
-        <updated>2024-05-29T10:22:29.000Z</updated>
-        <summary type="html"><![CDATA[The past year there's been a big Linux kernel patch series in the work by Intel to improve Sub-NUMA Clustering "SNC" support so it behaves well with Intel Resource Director Technology (RDT) on modern Intel hardware. Hopefully that work will soon be ready for mainlining in the Linux kernel while this week brought the 19th revision to those patches...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowblade 2.16 Open-Source Video Editor Released]]></title>
-        <id>https://www.phoronix.com/news/Flowblade-2.16-Released</id>
-        <link href="https://www.phoronix.com/news/Flowblade-2.16-Released"/>
-        <updated>2024-05-29T10:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Flowblade 2.16 is out today as the newest version of this open-source non-linear video editor...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -5300,16 +5310,6 @@ For details of bugs fixed in each previous release of Android Studio Koala, see
 closed issues.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ScienceMag.cz: O krok blíže k molekulárním počítačům]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-o-krok-blize-k-molekularnim-pocitacum</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-o-krok-blize-k-molekularnim-pocitacum"/>
-        <updated>2024-05-09T22:01:00.000Z</updated>
-        <summary type="html"><![CDATA[U altermagnetů ověřili existenci jevu, který pomůže při výrobě čipů. Data o bosonu W nenašla žádnou fyziku za Standardním modelem. Nová studie zpochybňuje exoplanetu s životem produkujícím dimethylsulfid. Záznam starý 3,7 miliardy let ukazuje, že magnetické pole Země vzniklo rychle.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
     <entry>
