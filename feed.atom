@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-13T04:13:36.104Z</id>
+    <id>urn:2024-06-13T06:15:03.876Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-06-13T04:13:36.104Z</updated>
+    <updated>2024-06-13T06:15:03.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poll: So, Will You Be Getting Monster Hunter Stories For Switch?]]></title>
+        <id>https://www.nintendolife.com/#article-167560</id>
+        <link href="https://www.nintendolife.com/news/2024/06/poll-so-will-you-be-getting-monster-hunter-stories-for-switch"/>
+        <updated>2024-06-13T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Capcom's 3DS title returns this week.
+Capcom's 3DS title Monster Hunter Stories returns this week as a new remastered release for the Nintendo Switch.
+It's now fully voiced and comes with a Museum mode, allowing players to view over 200 pieces of concept art and listen to additional BGM. The game's existing updates are also included, making this a slightly more complete version than the original release. Although it's worth noting the Zelda DLC isn't included in this new package.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to complete Gather Personal Effects for Craig in Fallout 76]]></title>
         <id>https://www.destructoid.com/?p=535338</id>
@@ -2262,19 +2275,6 @@ Assassin's Creed Shadows Preview – Kat…]]></summary>
         <summary type="html"><![CDATA[Coincidentally coming out on the day of Raspberry Pi's IPO is AlmaLinux providing official support for the Raspberry Pi 5...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Random: Sakurai Demonstrates The Importance Of The Finer Details]]></title>
-        <id>https://www.nintendolife.com/#article-167462</id>
-        <link href="https://www.nintendolife.com/news/2024/06/random-sakurai-demonstrates-the-importance-of-the-finer-details"/>
-        <updated>2024-06-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Breaking the fourth, fifth, sixth wall.
-Masahiro Sakurai is known for his keen eye for detail and staunch perfectionism, but his latest YouTube video demonstrates just how many revisions are required for even the smallest details.
-The majority of the video focuses on one particular example of this. He discusses the Mishima Dojo stage from Super Smash Bros. Ultimate, showcasing the initial design submitted by his team. He highlights that the destroyed wall on the left-hand side looked as though something had taken a huge bite out of it, and wasn't a good representation of how planks of wood would break.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -5285,63 +5285,6 @@ For information on new features and changes in Android Studio Koala, see the An
 
 For details of bugs fixed in each previous release of Android Studio Koala, see
 closed issues.]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Koala Feature Drop | 2024.1.2 Canary 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/05/android-studio-koala-feature-drop.html"/>
-        <updated>2024-05-14T17:58:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Koala Feature Drop | 2024.1.2 Canary 1 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Koala Feature Drop, see the Android Studio Preview release notes.
-
-
-General fixes and features
-Below is a list of general fixes in Android Studio Koala Feature Drop | 2024.1.2 Canary 1 and Android Gradle Plugin 8.6.0-alpha01. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #183423660
-AGP 7.0.0-alpha10 regression: Failed to apply plugin 'com.android.internal.library' when databinding is enabled
-
-            
-
-              
-Issue #337848180
-Errors when running lint with and without K2 UAST
-
-          
-        
-
-      
-    
-Find Usages
-      
-        
-
-          
-            
-
-              
-Issue #235848109
-"Find usages" finds parent style usages instead of the selected one]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
