@@ -1,19 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-16T10:11:35.983Z</id>
+    <id>urn:2024-06-16T12:18:42.126Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-06-16T10:11:35.983Z</updated>
+    <updated>2024-06-16T12:18:42.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux's New DRM Panic "Blue Screen of Death" In Action]]></title>
+        <id>https://www.phoronix.com/news/Linux-DRM-Panic-BSoD-Picture</id>
+        <link href="https://www.phoronix.com/news/Linux-DRM-Panic-BSoD-Picture"/>
+        <updated>2024-06-16T10:48:26.000Z</updated>
+        <summary type="html"><![CDATA[After being talked about for years of DRM panic handling and coming with a "Blue Screen of Death" solution for DRM/KMS drivers, Linux 6.10 is introducing a new DRM panic handler infrastructure for being able to display a message when a panic occurs.  This is especially important for those building a kernel without VT/FBCON support where otherwise viewing the kernel panic message isn't otherwise easily available...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Hypercall API To Likely Land In Linux 6.11]]></title>
+        <id>https://www.phoronix.com/news/VMware-Hypercall-API-Linux-6.11</id>
+        <link href="https://www.phoronix.com/news/VMware-Hypercall-API-Linux-6.11"/>
+        <updated>2024-06-16T10:36:39.000Z</updated>
+        <summary type="html"><![CDATA[For months Broadcom has been working on the VMware Hypercall API for the Linux kernel. This "vmware_hyperscall" is a new family of functions for use by the VMware guest code and virtual device drivers in an architecture-independent manner...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora Making Strides On Enabling Greater AI Use, Easier AMD ROCm PyTorch Acceleration]]></title>
+        <id>https://www.phoronix.com/news/Fedora-Seeing-More-AI-Work</id>
+        <link href="https://www.phoronix.com/news/Fedora-Seeing-More-AI-Work"/>
+        <updated>2024-06-16T10:23:33.000Z</updated>
+        <summary type="html"><![CDATA[Christian Schaller of Red Hat shared an update on Friday around the ongoing enhancements to Fedora Workstation. Given the current industry trends, ongoing Fedora Workstation development is seeing a lot of attention around... AI, AI, AI...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RKVDEC2 Driver Posted For Accelerated Video Decoding On Newer Rockchip SoCs]]></title>
+        <id>https://www.phoronix.com/news/RKVDEC2-Rockchip-Video-Decode</id>
+        <link href="https://www.phoronix.com/news/RKVDEC2-Rockchip-Video-Decode"/>
+        <updated>2024-06-16T10:11:50.000Z</updated>
+        <summary type="html"><![CDATA[For years there has been the RKVDEC Linux media driver to provide accelerated video decoding on Rockchip SoCs. Being worked on now is RKVDEC2 for providing video decoding on the newer Rockchip SoCs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-722</id>
         <link href="https://www.rockpapershotgun.com/the-sunday-papers-722"/>
         <updated>2024-06-16T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sundays are for hoping the plumber has ordered that new sink part in. My sink is ‘non-standard’ apparently. "Why can't I just be normal?!" I scream in silent longing. Armitage Shanks would never. Before I look forward to no longer having to wash up my pasta bowl in the same place I brush my teeth, let’s read this week’s best writing about games (and game related things!)
-For Aftermath, Luke Plunkett spoke to ‘Albert’, an anonymous industry vet, about the struggles of making a demo for a big showcase or event - despite sometimes knowing it’s “100% Grade A Bullshit”.
-Actually, now that I think about it, I was at a studio (if not directly involved) in a trailer that was 100% Grade A bullshit. Essentially our publisher really, really wanted stuff to show and despite the fact that our next project wasn't even in the pitch phase, let alone production, we had an external team create a trailer to build hype. It was completely divorced from anything we hoped to do, and it was so early in development that it couldn't help but be misleading or tie our hands. That one sucked. It thankfully didn't eat up a ton of our resources and time, but it was still demoralizing because we had little to do with it and we all knew it was going to be promises that we couldn't necessarily deliver on.
- Read more]]></summary>
+ 
+Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
         </author>
@@ -552,7 +591,7 @@ Image via Square Enix…]]></summary>
         <link href="https://www.nintendolife.com/features/16-great-late-gen-nintendo-games-maybe-theres-life-in-the-ol-switch-yet"/>
         <updated>2024-06-15T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Fashionably late.
-Yes, yes - we know Nintendo Switch is old now. There comes a time in each console's life when the games start to dry up and we look to the future — and the Switch is very much in the autumn of its years. Back in May, two months into its eighth year, Nintendo said a new hardware announcement is coming at some point before April next year, and with that acknowledgement comes a sense that the really good stuff will be saved to launch the next console with a bang.
+Yes, yes - we know Nintendo Switch is old now. There comes a time in each console's life when the games start to dry up and we look to the future, and the Switch is very much in the autumn of its years. Back in May, two months into its eighth year, Nintendo said a new hardware announcement is coming at some point before April next year, and with that acknowledgement comes a sense that the really good stuff will be saved to launch the next console with a bang.
 However, looking back at past Nintendo systems, it doesn't necessarily mean Switch will be running on fumes for the rest of the year. You would have been forgiven for thinking Zelda: Tears of the Kingdom was the Switch's last hurrah, and then Super Mario Bros. Wonder turned up. You may have thought the release of Switch in 2017 meant that the might 3DS' days of quality exclusive software were numbered, but as we'll highlight below, that wasn't the case. In fact, Nintendo has good form when it comes to putting out brilliant games at the very end of a console's lifecycle and having sold over 140 million Switches, there's a high chance that there's still gold in them first-party hills, as well as all the third-party stuff we already know about.
 Read the full article on nintendolife.com]]></summary>
         <author>
@@ -2656,16 +2695,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valve Rolls Out Proton 9.0-2 With Many Fixes For Running More Games On Steam Play]]></title>
-        <id>https://www.phoronix.com/news/Valve-Proton-9.0-2</id>
-        <link href="https://www.phoronix.com/news/Valve-Proton-9.0-2"/>
-        <updated>2024-06-12T19:24:24.000Z</updated>
-        <summary type="html"><![CDATA[Proton 9.0-2 is out this afternoon as the Valve/CodeWeavers downstream of Wine that powers Steam Play for running Windows games under Linux within the Steam client...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Star Wars Outlaws Won't Take You 100 Hours To Complete, Says Ubisoft]]></title>
         <id>1851536051</id>
         <link href="https://kotaku.com/star-wars-outlaws-ubisoft-how-big-time-to-beat-30-hours-1851536051"/>
@@ -2773,16 +2802,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safety-Critical Rust Consortium Announced]]></title>
-        <id>https://www.phoronix.com/news/Safety-Critical-Rust-Consortium</id>
-        <link href="https://www.phoronix.com/news/Safety-Critical-Rust-Consortium"/>
-        <updated>2024-06-12T16:34:11.000Z</updated>
-        <summary type="html"><![CDATA[In aiming to make the Rust programming language more suitable for safety-critical software like within automobiles, aviation, and other industries, the Safety-Critical Rust Consortium was announced today...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2936,16 +2955,6 @@ Purchase]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Fast CPPC To Be Merged For Linux 6.11]]></title>
-        <id>https://www.phoronix.com/news/AMD-Fast-CPPC-For-Linux-6.11</id>
-        <link href="https://www.phoronix.com/news/AMD-Fast-CPPC-For-Linux-6.11"/>
-        <updated>2024-06-12T13:50:25.000Z</updated>
-        <summary type="html"><![CDATA[The AMD Fast CPPC feature enablement for the "amd_pstate" driver has been submitted to the power management subsystem ahead of next month's Linux 6.11 merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How The Team Behind Before Your Eyes Conceived Its Psychic Baby Adventure, Goodnight Universe]]></title>
         <id>122910</id>
         <link href="https://www.gameinformer.com/preview/2024/06/12/how-the-team-behind-before-your-eyes-conceived-its-psychic-baby-adventure"/>
@@ -2965,16 +2974,6 @@ Developer:
 Purchase]]></summary>
         <author>
             <name>Marcus Stewart</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[openSUSE Leap 15.6 Release - Adds Cockpit, Linux 6.4 & Other Updates]]></title>
-        <id>https://www.phoronix.com/news/openSUSE-Leap-15.6-Released</id>
-        <link href="https://www.phoronix.com/news/openSUSE-Leap-15.6-Released"/>
-        <updated>2024-06-12T13:21:43.000Z</updated>
-        <summary type="html"><![CDATA[OpenSUSE Leap 15.6 is now officially available for this community Linux distribution release aligned with SUSE Linux Enterprise 15 Service Pack 6. With Leap 15.6 comes the inclusion of the Cockpit web administration software and many software updates...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
