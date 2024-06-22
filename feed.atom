@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-22T20:10:35.807Z</id>
+    <id>urn:2024-06-22T22:10:28.323Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-06-22T20:10:35.807Z</updated>
+    <updated>2024-06-22T22:10:28.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Režim černobílé TV v Linuxu 6.11, darktable 4.8 opět bez AI]]></title>
+        <id>www.root.cz-text-17217</id>
+        <link href="https://www.root.cz/clanky/rezim-cernobile-tv-v-linuxu-6-11-darktable-4-8-opet-bez-ai/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-06-22T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ovladač GPU Raspberry Pi 5 snad brzy v upstreamu, Mike Blumenkrantz z Valve zase válí, zrychlil Mesa/glReadPixels, ovladač Intel Xe zase blíže i915, dostává podporu Platform Monitoring Technology.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bcachefs Making Tiny Steps Toward Full Self-Healing Capabilities]]></title>
+        <id>https://www.phoronix.com/news/Bcachefs-Tiny-Step-Self-Healing</id>
+        <link href="https://www.phoronix.com/news/Bcachefs-Tiny-Step-Self-Healing"/>
+        <updated>2024-06-22T20:09:27.000Z</updated>
+        <summary type="html"><![CDATA[Another round of Bcachefs file-system fixes were merged today for the in-development Linux 6.10 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to get the O Mother gesture in Elden Ring]]></title>
         <id>https://www.destructoid.com/?p=542537</id>
@@ -3127,16 +3147,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Systemd 256.1 Fixes "systemd-tmpfiles" Unexpectedly Deleting Your /home Directory]]></title>
-        <id>https://www.phoronix.com/news/systemd-tmpfiles-purge-drama</id>
-        <link href="https://www.phoronix.com/news/systemd-tmpfiles-purge-drama"/>
-        <updated>2024-06-19T10:03:57.000Z</updated>
-        <summary type="html"><![CDATA[For those running the command "systemd-tmpfiles --purge" and think that this command just deletes your temporary files, think again and watch out. In reality it will delete all files and directories created by a tmpfiles.d entry... Including the /home that is created by systemd-tmpfiles' home.conf. With users being bitten in recent days by this behavior when they were just expecting tmp files to be removed, systemd 256.1 is now available and does have a change to avoid inadvertently deleting your all-important home directory...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KDE Plasma 6.1 vylepšuje uživatelský zážitek i běh na Waylandu]]></title>
         <id>www.root.cz-actuality-46099</id>
         <link href="https://www.root.cz/zpravicky/kde-plasma-6-1-vylepsuje-uzivatelsky-zazitek-i-beh-na-waylandu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -4789,16 +4799,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Disketovka k osmibitu byl dříve nedostižný sen, tak jsem si jednu koupil. V poslední části se budeme věnovat postupu, jak vytvořit vlastní disketu a také, jak se projeví použití cartridge Fast Load.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Michal Tauchman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konstrukce kolon a kompozice funkcí v jazyku Coconut]]></title>
-        <id>www.root.cz-text-17205</id>
-        <link href="https://www.root.cz/clanky/konstrukce-kolon-a-kompozice-funkci-v-jazyku-coconut/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-06-12T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Pipeline je v současném IT jedno z nejzneužívanějších slov. V jazyku Coconut lze pipeline používat ve smyslu kolon, tedy pro zajištění předávání návratových hodnot funkcí do jiných funkcí, což je základ tacit programmingu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
         </author>
     </entry>
     <entry>
