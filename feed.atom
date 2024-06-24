@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-06-24T06:15:37.877Z</id>
+    <id>urn:2024-06-24T08:14:42.830Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-06-24T06:15:37.877Z</updated>
+    <updated>2024-06-24T08:14:42.830Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zranitelnost UEFIcanhazbufferowerflow ohrožuje počítače s procesorem Intel a biosem Phoenix]]></title>
+        <id>www.root.cz-actuality-46113</id>
+        <link href="https://www.root.cz/zpravicky/zranitelnost-ueficanhazbufferowerflow-ohrozuje-pocitace-s-procesorem-intel-a-biosem-phoenix/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-06-24T08:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Eclypsium objevilo novou kritickou zranitelnost CVE-2024–0762, které dalo přezdívku UEFIcanhazbufferowerflow. Jde o zranitelnost UEFI Phoenix v modulu pro TPM. Pro zranitelnost ale ani nemusí být TPM přítomen. Chyba byla objevena v Lenovo ThinkPad X1 Carbon 7th Gen a X1 Yoga 4th Gen. Nicméně Phoenix později oznámil, že se chyba týká patrně všech jejich UEFI firmware s procesory Intel AlderLake, CoffeeLake, CometLake, IceLake, JasperLake, KabyLake, MeteorLake, RaptorLake, RocketLake a TigerLake. Zranitelné tedy jsou tedy stovky modelů od Lenovo, Dell, Acer a HP.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elden Ring ‘Unable to summon cooperator’ error – explained]]></title>
         <id>https://www.destructoid.com/?p=543093</id>
@@ -3757,16 +3767,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Knihovna Pythonu pro numerické vědecké výpočty NumPy vyšla včera ve verzi 2.0.0. Mezi novinky patří rychlejší řazení ( sort, argsort, partition a argpartitions), protože se používá SIMD knihovna Google Highway a také x86-simd-sort od Intelu. Na macOS 14 a novějším je využíván framework Apple Accelerate, který také vede ke zrychlení.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux a správa počítačové sítě (školení)]]></title>
-        <id>www.root.cz-actuality-44513</id>
-        <link href="https://www.root.cz/zpravicky/linux-a-sprava-pocitacove-site-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-06-17T10:54:09.000Z</updated>
-        <summary type="html"><![CDATA[Linux je v síťovém prostředí jako doma, může zastat prakticky všechny potřebné role od směrovače (router), přes DHCP, DNS až po souborový server Samba pro Microsoft Windows. Přijďte se to všechno naučit na naše třídenní školení s názvem Linux: správa počítačové sítě.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
