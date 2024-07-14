@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-14T10:13:00.749Z</id>
+    <id>urn:2024-07-14T12:29:42.280Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-07-14T10:13:00.749Z</updated>
+    <updated>2024-07-14T12:29:42.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora 42 Looks To Make Use Of The "Screen Of Death" DRM Panic Screen]]></title>
+        <id>https://www.phoronix.com/news/Fedora-42-DRM-Panic-Plans</id>
+        <link href="https://www.phoronix.com/news/Fedora-42-DRM-Panic-Plans"/>
+        <updated>2024-07-14T10:37:21.000Z</updated>
+        <summary type="html"><![CDATA[While Fedora 41 isn't even out yet, early feature planning is already underway for Fedora 42 that will debut in the early months of 2025. One of the interesting proposals raised so far is for making use of the new DRM Panic screen functionality for a "Blue Screen of Death" of sorts for better presenting kernel error messages in case of kernel panics...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Patches To Get More Qualcomm Lenovo Devices Supported By The Mainline Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Lenovo-Qualcomm-8916-8939-Patch</id>
+        <link href="https://www.phoronix.com/news/Lenovo-Qualcomm-8916-8939-Patch"/>
+        <updated>2024-07-14T10:26:40.000Z</updated>
+        <summary type="html"><![CDATA[Patches have been posted to the Linux kernel mailing list for getting various Lenovo devices supported by the mainline Linux kernel that rely on the Qualcomm MSM8916 and MSM8939 platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Most Interesting Linux 6.10 Features From MSEAL To Intel Xe2 Preparations]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.10-Features-Recap</id>
+        <link href="https://www.phoronix.com/news/Linux-6.10-Features-Recap"/>
+        <updated>2024-07-14T10:14:54.000Z</updated>
+        <summary type="html"><![CDATA[Linux 6.10 stable should be released later today. It's been a fairly calm week in the kernel world and thus Linus Torvalds will most likely opt for tagging v6.10 as opposed to doing a v6.10-rc8 extra release candidate. So with Linux 6.10 likely upon us, here's a reminder about some of the most interesting changes in this new kernel release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - Kirby's Pinball Land]]></title>
         <id>https://www.nintendolife.com/#article-168850</id>
@@ -2759,16 +2789,6 @@ Price changes for services you already pay for are always frustrating. What do y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JetBrains IntelliJ-Based IDEs Offer Preview Wayland Support]]></title>
-        <id>https://www.phoronix.com/news/JetBrains-IntelliJ-Wayland-Pre</id>
-        <link href="https://www.phoronix.com/news/JetBrains-IntelliJ-Wayland-Pre"/>
-        <updated>2024-07-10T13:26:56.000Z</updated>
-        <summary type="html"><![CDATA[JetBrains announced this week that via their 2024.2 Early Access Program  that IntelliJ-based IDEs will now offer experimental Wayland support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GNOME 47 dostane podporu transformace z sRGB na HDR výstup]]></title>
         <id>www.root.cz-actuality-46161</id>
         <link href="https://www.root.cz/zpravicky/gnome-47-dostane-podporu-transformace-z-srgb-na-hdr-vystup/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2798,16 +2818,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Brendan Caldwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXVK 2.4 Released With Direct3D 8 Support, Native WSI Improvements]]></title>
-        <id>https://www.phoronix.com/news/DXVK-2.4-Released</id>
-        <link href="https://www.phoronix.com/news/DXVK-2.4-Released"/>
-        <updated>2024-07-10T11:38:53.000Z</updated>
-        <summary type="html"><![CDATA[DXVK 2.4 has been released for this Direct3D over Vulkan API implementation...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2944,16 +2954,6 @@ Wear Tiles Version 1.4.0-beta01]]></summary>
         <summary type="html"><![CDATA[V rámci iniciativy GPUOpen vydala AMD novou verzi vývojářského kitu FidelityFX 1.1. Zahrnuje mimo jiné novější verzi upscalingu FidelityFX Super Resolution, tedy FSR 3.1, přidává pak dále dva nové prvky, knihovny Breadcrumbs a Brixelizer.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Code Gets Open-Source Mesa RADV Vulkan Driver Running On Windows]]></title>
-        <id>https://www.phoronix.com/news/Experimental-RADV-Windows</id>
-        <link href="https://www.phoronix.com/news/Experimental-RADV-Windows"/>
-        <updated>2024-07-09T21:45:48.000Z</updated>
-        <summary type="html"><![CDATA[Over the years there have been various attempts at getting the open-source RADV Vulkan driver on Windows, Faith Ekstrand of Collabora has been recently hacking on it and achieving success for having this popular Radeon Vulkan API driver for Linux working under Windows...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
