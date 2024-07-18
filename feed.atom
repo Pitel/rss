@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-17T22:11:10.844Z</id>
+    <id>urn:2024-07-18T00:51:51.014Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-07-17T22:11:10.844Z</updated>
+    <updated>2024-07-18T00:51:51.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's WSL 2.3.11 Brings "Hundreds Of New Kernel Modules" & New Features]]></title>
+        <id>https://www.phoronix.com/news/Microsoft-WSL-2.3.11</id>
+        <link href="https://www.phoronix.com/news/Microsoft-WSL-2.3.11"/>
+        <updated>2024-07-18T00:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft today published a new version of their Windows Subsystem for Linux (WSL) in pre-release form...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Safety Standard Proposed For The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Rust-Safety-Standard-Linux-RFC</id>
+        <link href="https://www.phoronix.com/news/Rust-Safety-Standard-Linux-RFC"/>
+        <updated>2024-07-18T00:24:09.000Z</updated>
+        <summary type="html"><![CDATA[While Rust is viewed as a memory safe and robust programming language, there is the "unsafe" keyword within Rust that can be used for unsafe code that grants "unsafe superpowers" for the language. As dealing with Rust at low-levels as the Linux kernel can lead to needing to use "unsafe" Rust at times, a documentation standard has been proposed for dealing with such code inside the kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jaderné noviny – přehled za červen 2024]]></title>
+        <id>http://www.abclinuxu.cznull/</id>
+        <link href="http://www.abclinuxu.cznull/"/>
+        <updated>2024-07-17T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Přehled červnových vydání Jaderných novin: stav vydání jádra, citáty týdne a seznam článků týkajících se jádra.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAPwned: zranitelnosti v SAP AI]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/sapwned-zranitelnosti-v-sap-ai</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/sapwned-zranitelnosti-v-sap-ai"/>
+        <updated>2024-07-17T22:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Příspěvek na blogu společnosti Wiz se podrobně věnuje dnes již opraveným zranitelnostem v SAP AI. Útočník si mohl změnit své UID na UID firewallu, tj. 1337, a tím obejít firewall, …]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grafická karta Hercules: úspěšná alternativa a konkurence MDA i CGA]]></title>
         <id>www.root.cz-text-17253</id>
@@ -3076,16 +3116,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Retro PC emulátor UTM SE nově zdarma k dispozici v App Storu]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/retro-pc-emulator-utm-se-nove-zdarma-k-dispozici-v-app-storu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/retro-pc-emulator-utm-se-nove-zdarma-k-dispozici-v-app-storu"/>
-        <updated>2024-07-15T01:22:28.000Z</updated>
-        <summary type="html"><![CDATA[Retro PC emulátor UTM SE pro iPhone, iPad a Apple Vision Pro je nově zdarma k dispozici v App Storu (𝕏). UTM SE je postavený nad QEMU.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 07/15/2024]]></title>
         <id>https://torrentfreak.com/?p=186926</id>
         <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
@@ -3097,16 +3127,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.10 Released With New Panthor Graphics Driver, Radeon Display Support On RISC-V]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.10-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-6.10-Released"/>
-        <updated>2024-07-14T22:58:05.000Z</updated>
-        <summary type="html"><![CDATA[As anticipated the Linux 6.10 kernel was released as stable a few minutes ago by Linus Torvalds...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: Signal pod palbou a lepší arzenál APT41]]></title>
         <id>www.root.cz-text-17244</id>
         <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-signal-pod-palbou-a-lepsi-arzenal-apt41/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3114,16 +3134,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[V tomto vydání Postřehů se podíváme na zabavení farmy ruských botů, vylepšený malwarový arzenál čínské skupiny, zranitelnost Veeam nebo twitterovou přestřelku a špaddtné zabezpečení klienta aplikace Signal.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Monika Kutějová)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.11 Features To Include A Lot For Intel & AMD Systems, Extensible Scheduler]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.11-Early-Look-Features</id>
-        <link href="https://www.phoronix.com/news/Linux-6.11-Early-Look-Features"/>
-        <updated>2024-07-14T20:40:15.000Z</updated>
-        <summary type="html"><![CDATA[With Linux 6.10 expected to be released in the coming hours, in turn the Linux 6.11 merge window will open tomorrow unless there is any last-minute v6.10 release delay. With that said, here's a look at some of the features you can likely expect to see for this next kernel version...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -5093,16 +5103,6 @@ In the meantime, watch the reveal trailer for Lost Records: Bloom & Rage, and th
 Are you going to play Life Is Strange: Double Exposure and Lost Records: Bloom & Rage? Let us know in the comments below!]]></summary>
         <author>
             <name>Wesley LeBlanc</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ScienceMag.cz: Realizovali kvantové provázání s nejtěžším kvarkem top]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-realizovali-kvantove-provazani-s-nejtezsim-kvarkem-top</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-realizovali-kvantove-provazani-s-nejtezsim-kvarkem-top"/>
-        <updated>2024-06-28T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Kosmologická konstanta a energie vakua. Obří černá díra se probouzí přímo před zraky astronomů. Nová laboratoř v Řeži testuje originální technologii pro výrobu radionuklidu aktinium-225.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
     <entry>
