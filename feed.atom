@@ -1,10 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-24T22:11:22.412Z</id>
+    <id>urn:2024-07-25T00:52:39.667Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-07-24T22:11:22.412Z</updated>
+    <updated>2024-07-25T00:52:39.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ASUS ROG Ally X Begins Seeing Linux Patches]]></title>
+        <id>https://www.phoronix.com/news/ASUS-ROG-Ally-X-Linux-Patches</id>
+        <link href="https://www.phoronix.com/news/ASUS-ROG-Ally-X-Linux-Patches"/>
+        <updated>2024-07-25T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[This weekend the ASUS ROG Ally X began shipping as an upgraded version of the ASUS ROG Ally handheld gaming console that launched last year. The ASUS ROG Ally X is still powered by the AMD Ryzen Z1 Extreme SoC and for the most part similar to the original model but now with 24GB of LPDDR5X-7500 memory up from 16GB of LPDDR5-6400, twice as large battery capacity, 1TB of NVMe storage rather than 512GB, improved input controls, improved cooling, and other refinements. But it still is running Microsoft Windows 11 out-of-the-box...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Clang Switches MMX Intrinsics To Use SSE2 Instead]]></title>
+        <id>https://www.phoronix.com/news/LLVM-Clang-MMX-Intrinsics-SSE2</id>
+        <link href="https://www.phoronix.com/news/LLVM-Clang-MMX-Intrinsics-SSE2"/>
+        <updated>2024-07-24T23:52:00.000Z</updated>
+        <summary type="html"><![CDATA[Following LLVM/Clang recently dropping support for AMD 3DNow! instructions, the open-source compiler stack is now pushing the MMX SIMD instruction set to a backseat. Moving forward the MMX intrinsics will not make use of MMX but rather be mapped to SSE2. This is all fine unless you are wanting to use this modern code compiler on an Intel Pentium MMX / Pentium II / Pentium III or AMD K6 / K7 processor from the late 90's...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get Jean’s Envisaged Echoes in Genshin Impact]]></title>
+        <id>https://www.destructoid.com/?p=565172</id>
+        <link href="https://www.destructoid.com/how-to-get-jean-envisaged-echoes-genshin-impact/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-jean-envisaged-echoes-genshin-impact"/>
+        <updated>2024-07-24T22:12:16.000Z</updated>
+        <summary type="html"><![CDATA[Genshin Impact has cosmetic particle effects that trail behind your characters, but you’ll need to pass a test to unlock them. Here’s how to get Jean’s Envisaged Echo effect in Genshin Impact, from unlocking her stage to adjusting her build.
+
+
+Unlock Jean’s Envisaged Echoes challenge
+
+
+First off, in order to participate in her challenge, your Jean must be at least level 90 and Friendship level 8. 
+
+
+Once you’ve confirmed that your character meets the requirements, unlock Jean’s challenge stage using two Keys of Echoes. You will receive two Keys when you first unlock Envisaged Echoes, and you can get an additional key every month when the Imaginarium Theater cycle resets.
+
+
+Strategies for Jean's Envisaged Echoes challenges
+
+
+Jean’s Envisaged Echoes challenge tasks you with protecting a cent…]]></summary>
+        <author>
+            <name>Christine Choi</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grafická karta EGA: pouze mírný pokrok v mezích zákona (2. část)]]></title>
         <id>www.root.cz-text-17261</id>
@@ -1202,25 +1247,6 @@ Read more...]]></summary>
 Dog has shown up a few times since in other expansions, but always as a guest on the side. In The War Within beta, and presumably main game, you'll be able to finally bring Dog home permanently. It's not terribly complicated, but requires a lot of work through previous expansions if you haven't kept up. To that end, here's how to get your faithful companion, Dog, in…]]></summary>
         <author>
             <name>Randy Marr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warzone Season 5 patch notes: New camo rewards, gas mask fixes, and more]]></title>
-        <id>https://www.destructoid.com/?p=564914</id>
-        <link href="https://www.destructoid.com/warzone-season-5-patch-notes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=warzone-season-5-patch-notes"/>
-        <updated>2024-07-24T15:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Warzone Season 5 is already shaping up to be a game-changer with its many new features. From a unique POI to a weapon re-balances, there will surely be something for any player. We're here to show you what to expect from Warzone's Season 5 patch notes.
-
-
-All Warzone Season 5 changes 
-
-
-If you've been keeping up with the Warzone universe, you'll likely have heard about the thrilling addition of the new Superstore POI for the Urzikstan map. This place will be your one-stop shop for everything, perfect for looters. And the new Superstore Resurgence mode, set in this bustling location, promises to bring mayhem and excitement throughout the supermarket.
-
-
-Besides the POI, Warzone Rewards has been updated with new content, including exclusive weapon camos. Participate in the four challenge categ…]]></summary>
-        <author>
-            <name>Kristina Ebanez</name>
         </author>
     </entry>
     <entry>
@@ -2996,26 +3022,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/LZ4-1.10-Multi-Threading"/>
         <updated>2024-07-22T11:04:00.000Z</updated>
         <summary type="html"><![CDATA[Yann Collet released LZ4 v1.10 today as a major update to this extremely fast compression algorithm. Most significant with LZ4 1.10 is adding multi-threaded compression support for much faster performance with today's modern multi-core processors...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[systemd Talks Up Automatic Boot Assessment In Light Of The Crowdstrike-Microsoft Outage]]></title>
-        <id>https://www.phoronix.com/news/systemd-Auto-Boot-Assessment</id>
-        <link href="https://www.phoronix.com/news/systemd-Auto-Boot-Assessment"/>
-        <updated>2024-07-22T10:52:44.000Z</updated>
-        <summary type="html"><![CDATA[In light of the CrowdStrike-Microsoft outage/disaster that has been wreaking havoc on corporate Windows systems around the world since Friday, systemd lead developer Lennart Poettering pointed out how such a situation on Linux systems could be averted by leveraging systemd's Automatic Boot Assessment functionality...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kalray Updates Patches For Their Linux Kernel Port To The KV3-1 "Coolidge" SoC]]></title>
-        <id>https://www.phoronix.com/news/KVX-Linux-Kernel-Port-v3</id>
-        <link href="https://www.phoronix.com/news/KVX-Linux-Kernel-Port-v3"/>
-        <updated>2024-07-22T10:35:16.000Z</updated>
-        <summary type="html"><![CDATA[Way back at the start of 2023, French fabless semiconductor company Kalray posted Linux kernel patches for a "KVX" Linux kernel port to get Linux up and running on their MPPA3-80 "Coolidge" DPU SoC with the KV3-1 CPU architecture. A year and a half later this work still is outside the Linux kernel but finally a third iteration of the KVX Linux kernel port has been posted for review...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
