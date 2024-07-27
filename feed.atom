@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-27T08:13:00.299Z</id>
+    <id>urn:2024-07-27T10:11:25.467Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-07-27T08:13:00.299Z</updated>
+    <updated>2024-07-27T10:11:25.467Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zulip Server 9.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/zulip-server-9.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/zulip-server-9.0"/>
+        <updated>2024-07-27T09:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Zulip Server z open source komunikační platformy Zulip (Wikipedie, GitHub) byl vydán ve verzi 9.0. Přehled novinek v příspěvku na blogu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (27th July)]]></title>
+        <id>https://www.nintendolife.com/#article-169462</id>
+        <link href="https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-27th-july"/>
+        <updated>2024-07-27T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What a horrible night to have a curse.
+It's been a pretty quiet few days in the world of Nintendo, but as we're all gearing up for a another weekend of gaming, let's take a peek at some of the highlights of the week.
+First up, there's a new Nintendo Lego set incoming! Hooray! This one looks spectacular and is essentially a replica of the Mario & Yoshi sprite from Super Mario World. It's gorgeous, but like all Lego, it's got a hefty price tag. Speaking of Lego, Eiji Aonuma also commented on the upcoming Lego Deku Tree from The Legend of Zelda.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
         <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-293</id>
@@ -2393,29 +2416,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Brendan Caldwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEGO Reveals New Shadow The Hedgehog Set, Launching This October]]></title>
-        <id>https://www.nintendolife.com/#article-169392</id>
-        <link href="https://www.nintendolife.com/news/2024/07/lego-reveals-new-shadow-the-hedgehog-set-launching-this-october"/>
-        <updated>2024-07-25T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Oh Shadow, what have they done to you?
-LEGO has today revealed a Shadow the Hedgehog bust set, which is set to be released on 1st October 2024.
-Retailing for £59.99 / $69.99, the 720-piece kit features Shadow's head mounted on a stand with an attachable nameplate. It all sounds rather sinister when we write it out. Fortunately, the set features "Easter eggs hidden in both the head and the sturdy stand", so that takes the edge off it, right?
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Stack Overflow Developer Survey]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/-2024-stack-overflow-developer-survey</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/-2024-stack-overflow-developer-survey"/>
-        <updated>2024-07-25T11:11:22.000Z</updated>
-        <summary type="html"><![CDATA[Portál Stack Overflow po roce opět vyzpovídal své uživatele, jedná se především o vývojáře softwaru, a zveřejnil detailní výsledky průzkumu. Průzkumu se letos zúčastnilo více než 65 tisíc vývojářů. Z Česka jich bylo 710. Ze Slovenska 246.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -5379,86 +5379,6 @@ Although not an adventure game, Moonbase Commander, developed by Humongous Enter
         <summary type="html"><![CDATA[Lifecycle Version 2.8.3]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Koala Feature Drop | 2024.1.2 Canary 8 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop_27.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/06/android-studio-koala-feature-drop_27.html"/>
-        <updated>2024-06-27T20:36:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Koala Feature Drop | 2024.1.2 Canary 8 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Koala Feature Drop, see the Android Studio Preview release notes.
-
-For details of bugs fixed in each previous release of Android Studio Koala Feature Drop, see
-closed issues.
-General fixes and features
-Below is a list of general fixes in Android Studio Koala Feature Drop | 2024.1.2 Canary 8 and Android Gradle Plugin 8.6.0-alpha08. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Code Editor
-      
-        
-
-          
-            
-
-              
-Issue #347766337
- ColumnReferencesTest.testResolvePrimaryIdColumnByDifferentNames() not testing anything
-
-            
-
-              
-Issue #347766104
-NullabilityUtilsTest.testCanAnnotateTypesWithNullabilityAnnotations() not testing anything
-
-            
-
-              
-Issue #339003051
-Turn off Code Author Inlay Hints by default
-
-          
-        
-
-      
-    
-Resources
-      
-        
-
-          
-            
-
-              
-Issue #345753568
-Errors when adding an empty <public /> tag
-
-          
-        
-
-      
-    
-Running Devices
-      
-        
-
-          
-            
-
-              
-Issue #348699128
-Support turning display power off on Android 14]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
