@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-07-28T22:10:54.504Z</id>
+    <id>urn:2024-07-29T00:54:23.491Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-07-28T22:10:54.504Z</updated>
+    <updated>2024-07-29T00:54:23.491Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vanilla OS 2 „Orchid“]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/vanilla-os-2-orchid</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/vanilla-os-2-orchid"/>
+        <updated>2024-07-28T22:24:43.000Z</updated>
+        <summary type="html"><![CDATA[Vanilla OS 2 „Orchid“ byl vydán. Jde o desktopovou distribuci, založenou nově na Debianu „Sid“ (dříve Ubuntu), ale s transakčními aktualizacemi „neměnného“ systému (ABRoot) a vlastním meta-správcem balíčků APX postaveným nad Distroboxem.]]></summary>
+        <author>
+            <name>Fluttershy, yay!</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: pokračování CrowdStrike a problémy Secure Bootu]]></title>
         <id>www.root.cz-text-17265</id>
@@ -2450,16 +2460,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[While the hope remains that GPU resets are a very infrequent task, AMD Linux driver engineers have recently been working on the ability to support a per-queue GC reset capability for more precise reset capabilities when needed...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust 1.80.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/rust-1.80.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/rust-1.80.0"/>
-        <updated>2024-07-25T15:14:04.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána verze 1.80.0 programovacího jazyka Rust (Wikipedie). Podrobnosti v poznámkách k vydání. Vyzkoušet Rust lze například na stránce Rust by Example.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
