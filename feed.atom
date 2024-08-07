@@ -1,10 +1,184 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-06T22:11:19.585Z</id>
+    <id>urn:2024-08-07T00:54:09.336Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-08-06T22:11:19.585Z</updated>
+    <updated>2024-08-07T00:54:09.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[OpenZFS 2.2.5 Released With Linux 6.9 Support, Some Linux 6.10 Bits]]></title>
+        <id>https://www.phoronix.com/news/OpenZFS-2.2.5-Released</id>
+        <link href="https://www.phoronix.com/news/OpenZFS-2.2.5-Released"/>
+        <updated>2024-08-07T00:48:51.000Z</updated>
+        <summary type="html"><![CDATA[OpenZFS 2.2.5 is now available as the newest stable update to this open-source ZFS file-system implementation for Linux and FreeBSD systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Is Hiring 'Nintendo Experience Specialists' In Canada]]></title>
+        <id>https://www.nintendolife.com/#article-169944</id>
+        <link href="https://www.nintendolife.com/news/2024/08/nintendo-is-hiring-nintendo-experience-specialists-in-canada"/>
+        <updated>2024-08-06T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Become a 'NES'.
+
+Nintendo is always hiring new talent, and in Canada, it's currently seeking 'Nintendo Experience Specialists'.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to unlock Super Helldive in Helldivers 2]]></title>
+        <id>https://www.destructoid.com/?p=573124</id>
+        <link href="https://www.destructoid.com/how-to-unlock-super-helldive-in-helldivers-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-unlock-super-helldive-in-helldivers-2"/>
+        <updated>2024-08-06T22:37:43.000Z</updated>
+        <summary type="html"><![CDATA[The Super Helldive difficulty is here in Helldivers 2, and it is aptly named to topple difficulty 9, which was already a huge hurdle to jump over. If you want even more of a challenge with even more rewards, here’s what you need to do to unlock the Helldivers 2 difficulty.
+
+
+How to get Super Helldive in Helldivers 2
+
+
+To unlock Super Helldive in Helldivers 2, you have to complete a level 9– Helldive operation. This means that you simply have to complete an entire mission set, consisting of three levels, to unlock the difficulty.
+
+
+This could be a lot tougher now with the recent nerfs to some of the best weapons in the game, but also, the inclusion of new enemy variants to both the Terminids and Automatons. Even with the new patch, you’re still better off completing a Terminid operation ove…]]></summary>
+        <author>
+            <name>Elliott Gatica</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Koala Feature Drop | 2024.1.2 RC 1 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2024/08/android-studio-koala-feature-drop.html</id>
+        <link href="https://androidstudio.googleblog.com/2024/08/android-studio-koala-feature-drop.html"/>
+        <updated>2024-08-06T22:15:00.001Z</updated>
+        <summary type="html"><![CDATA[Android Studio Koala Feature Drop | 2024.1.2 RC 1 is now available in the Beta channel.
+If you already have an Android Studio build on the Beta channel,
+you can get the update by clicking Help > Check for Updates (or Android Studio > Check
+for Updates on macOS). Otherwise, you can download it here.
+For information on new features and changes in Android Studio Koala Feature Drop, see the Android Studio Preview release notes.
+
+For details of bugs fixed in each previous release of Android Studio Koala Feature Drop, see
+closed issues.
+General fixes and features
+Below is a list of general fixes in Android Studio Koala Feature Drop | 2024.1.2 RC 1 and Android Gradle Plugin 8.6.0-rc01. These are a result of your bug
+reports, which help us to make Android Studio better. If you encounter a problem,…]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Ladybug | 2024.2.1 Canary 4 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2024/08/android-studio-ladybug-202421-canary-4.html</id>
+        <link href="https://androidstudio.googleblog.com/2024/08/android-studio-ladybug-202421-canary-4.html"/>
+        <updated>2024-08-06T22:12:00.001Z</updated>
+        <summary type="html"><![CDATA[Android Studio Ladybug | 2024.2.1 Canary 4 is now available in the Canary channel.
+If you already have an Android Studio build on the Canary channel,
+you can get the update by clicking Help > Check for Updates (or Android Studio > Check
+for Updates on macOS). Otherwise, you can download it here.
+For information on new features and changes in Android Studio Ladybug, see the Android Studio Preview release notes.
+
+For details of bugs fixed in each previous release of Android Studio Ladybug, see
+closed issues.
+General fixes and features
+Below is a list of general fixes in Android Studio Ladybug | 2024.2.1 Canary 4 and Android Gradle Plugin 8.7.0-alpha04. These are a result of your bug
+reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
+you.
+
+  
+    
+Fixed Issues
+    
+Android Gradle Plugin
+      
+        
+
+          
+            
+
+              
+Issue #344016691
+AGP should claim that it supports API 35 that is about to ship
+
+            
+
+              
+Issue #355397971
+AGP 8.5: Many more "mergeDebugResources" tasks are run, slowing down builds
+
+            
+
+              
+Issue #353579998
+Make ndk 27 the default NDK in AGP.
+
+          
+        
+
+      
+    
+C++ Build
+      
+        
+
+          
+            
+
+              
+Issue #353259702
+JAVA_TOOL_OPTIONS environment variable causes NDK builds to fail
+
+          
+        
+
+      
+    
+Code Analysis
+      
+        
+
+          
+            
+
+              
+Issue #355299370
+Lint giving incorrect suggestion about removeLast
+
+          
+        
+
+      
+    
+Database Inspector
+      
+        
+
+          
+            
+
+              
+Issue #354307313
+Databse inspector, Table's last rows hides behind the bottom bars
+
+          
+        
+
+      
+    
+Preview
+      
+        
+
+          
+            
+
+              
+Issue #348208777
+AS Compose Preview doesn't work with generated assets]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Softwarová sklizeň (7. 8. 2024): posílejte vlastní požadavky pomocí HTTP]]></title>
         <id>www.root.cz-text-17276</id>
@@ -1090,28 +1264,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to complete Where We Fallin’? quests in Fortnite]]></title>
-        <id>https://www.destructoid.com/?p=572844</id>
-        <link href="https://www.destructoid.com/how-to-complete-where-we-fallin-quests-in-fortnite/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-complete-where-we-fallin-quests-in-fortnite"/>
-        <updated>2024-08-06T17:28:30.000Z</updated>
-        <summary type="html"><![CDATA[Fortnite recently added Fall Guys content into its Battle Royale mode. An obstacle course looms over the snowy northeast corner of the map, ready to be tackled. Completing several quests on this course will grant you some unique rewards, so grab them before the event ends on August 15.
-
-
-How to get started
-
-
-Image by Destructoid
-
-
-When you dive out of the Battle Bus, you might be tempted to just glide over to the obstacle course. That won't work, however! You'll be rifted away immediately. To access the obstacle course, you'll need to find one of several Golden Bean statues around Classy Courts.
-
-
-Only 8 people can be on the course at once. You can see how many are active by looking at the numbers hovering over the statues. Once there's room, interact with the statue and you'll be teleport…]]></summary>
-        <author>
-            <name>Randy Marr</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tales From The Borderlands Convinced Gearbox A Movie Was A Good Idea]]></title>
         <id>1851614468</id>
         <link href="https://kotaku.com/tales-from-the-borderlands-live-action-movie-gearbox-1851614468"/>
@@ -1718,9 +1870,9 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zelda: Echoes Of Wisdom New Art And Screenshots Revealed By Nintendo]]></title>
+        <title type="html"><![CDATA[Gallery: Zelda: Echoes Of Wisdom New Art And Screenshots Revealed By Nintendo]]></title>
         <id>https://www.nintendolife.com/#article-169890</id>
-        <link href="https://www.nintendolife.com/news/2024/08/zelda-echoes-of-wisdom-new-art-and-screenshots-revealed-by-nintendo"/>
+        <link href="https://www.nintendolife.com/news/2024/08/gallery-zelda-echoes-of-wisdom-new-art-and-screenshots-revealed-by-nintendo"/>
         <updated>2024-08-06T02:45:00.000Z</updated>
         <summary type="html"><![CDATA[It's Zelda on a horse!
 Nintendo yesterday gave Switch fans a brand new look at The Legend of Zelda: Echoes of Wisdom, due out this September.
@@ -2204,19 +2356,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Releases Adorable Summer-Themed Mario Artwork]]></title>
-        <id>https://www.nintendolife.com/#article-169847</id>
-        <link href="https://www.nintendolife.com/news/2024/08/nintendo-releases-adorable-summer-themed-mario-artwork"/>
-        <updated>2024-08-05T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Download now.
-Nintendo has released an adorable new piece of artwork featuring Mario and Luigi to celebrate the warm, relaxing Summer months (thanks, Tokyo Game Life).
-Available to download over on My Nintendo, the artwork features Mario and his brother Luigi chiling in the shallow depths of the ocean, while a cute Blooper gazes up from underwater. We can also see a standard Super Star nestled in the sandy beach, which suggests that Mario and Luigi's vacation getaway probably wasn't Isle Delfino, where the native Shine Sprites boast a different design.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Valve "White Sands" project spotted on Starfield voice actor portfolio, prompting Half-Life speculation]]></title>
         <id>https://www.rockpapershotgun.com/valve-white-sands-project-spotted-on-starfield-voice-actor-portfolio-prompting-half-life-speculation</id>
         <link href="https://www.rockpapershotgun.com/valve-white-sands-project-spotted-on-starfield-voice-actor-portfolio-prompting-half-life-speculation"/>
@@ -2679,16 +2818,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Intel má problém se stabilitou desktopových procesorů 13. a 14. generace. Týká se to všech modelů s TDP 65 W a vyšším. Intel minulý týden uvedl, že za nestabilitu může chyba v mikrokódu,  která nastavuje procesoru vyšší napětí, než by měla. Výsledkem je nestabilita, ale také postupné nevratné poškození procesoru.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canonical Evaluating -O3 Optimized Packages For Ubuntu Linux]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-Evaluating-O3-Optimized</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-Evaluating-O3-Optimized"/>
-        <updated>2024-08-02T21:02:31.000Z</updated>
-        <summary type="html"><![CDATA[With Ubuntu 24.04 LTS the engineers at Canonical began focusing more on the performance of Ubuntu and establishing a performance team at the company. This work is ongoing and for Ubuntu 24.10 they are exploring another exciting area: leveraging "-O3" compiler optimizations for Ubuntu packages. Available today is an experimental build of the Ubuntu desktop and server ISOs that are compiled for the -O3 optimization level...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
