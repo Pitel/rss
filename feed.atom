@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-11T10:11:13.718Z</id>
+    <id>urn:2024-08-11T12:19:42.845Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-08-11T10:11:13.718Z</updated>
+    <updated>2024-08-11T12:19:42.845Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Wayland Merges New Screen Capture Protocols]]></title>
+        <id>https://www.phoronix.com/news/Wayland-Merges-Screen-Capture</id>
+        <link href="https://www.phoronix.com/news/Wayland-Merges-Screen-Capture"/>
+        <updated>2024-08-11T10:43:21.000Z</updated>
+        <summary type="html"><![CDATA[Nearly three years in the making, the ext-image-capture-source-v1 and ext-image-copy-capture-v1 protocols have been merged into the Wayland Protocols repository for vastly improving screen capture support on the Wayland desktop...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA EGL-Wayland 1.15 Brings Stability Fixes For Explicit Sync]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-EGL-Wayland-1.15</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-EGL-Wayland-1.15"/>
+        <updated>2024-08-11T10:33:36.000Z</updated>
+        <summary type="html"><![CDATA[There's a new release of NVIDIA's EGL-Wayland project for an EGL External Library Platform library implementing EGL on top of EGLDevice and EGLStream extensions. This week's NVIDIA EGL-Wayland 1.15 release is primarily centered on delivering Wayland explicit sync fixes...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine-Staging 9.15 Adds Fixes For Lotus Approach & Need For Speed: Underground]]></title>
+        <id>https://www.phoronix.com/news/Wine-Staging-9.15</id>
+        <link href="https://www.phoronix.com/news/Wine-Staging-9.15"/>
+        <updated>2024-08-11T10:22:26.000Z</updated>
+        <summary type="html"><![CDATA[Building off yesterday's release of Wine 9.15, Wine-Staging 9.15 is now available with 376 patches currently being applied atop the upstream codebase...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl: Zelda: A Link To The Past And Four Swords (GBA)]]></title>
         <id>https://www.nintendolife.com/#article-170064</id>
@@ -24,9 +54,7 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.rockpapershotgun.com/the-sunday-papers-730"/>
         <updated>2024-08-11T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Sundays are for more Gene Wolfe. I’ve finished Shadow Of The Torturer now, and I think Claw Of The Conciliator might be even better so far? Before I become ever more enamoured with Severian’s self-mythologising antics, let’s read this week’s best writing about games (and game related things!)
-This is an older piece, but pertinent since the ridiculous “strong men/hard times” meme has been doing the rounds again recently. Historian Bret Devereaux breaks it down for A Collection of Unmitigated Pedantry.
-The opposite of Fremenism is almost invariably termed ‘decadence.’ This is the reserve side of this reductive view of history: not only do hard conditions make for superior people, but that ‘soft’ conditions, associated with complex societies, wealth and book-reading weenies (read: literacy) make for morally inferior people who are consequently worse at fighting. Because we all know that moral purity makes you better at fighting, right?
- Read more]]></summary>
+Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
         </author>
@@ -2678,16 +2706,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mold 2.33 Adds New Flag To Further Speed Up The Linker]]></title>
-        <id>https://www.phoronix.com/news/Mold-2.33-Released</id>
-        <link href="https://www.phoronix.com/news/Mold-2.33-Released"/>
-        <updated>2024-08-07T10:13:48.000Z</updated>
-        <summary type="html"><![CDATA[Mold 2.33 is out as the newest version of this high speed linker as an alternative to the likes of GNU Gold and LLVM LLD. With Mold 2.33 there are still new performance optimizations being worked out by lead developer Rui Ueyama...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nvidia have added a Final Fantasy XVI driver profile, fuelling PC release hopes]]></title>
         <id>https://www.rockpapershotgun.com/nvidia-have-added-a-final-fantasy-xvi-driver-profile-fuelling-pc-release-hopes</id>
         <link href="https://www.rockpapershotgun.com/nvidia-have-added-a-final-fantasy-xvi-driver-profile-fuelling-pc-release-hopes"/>
@@ -2747,16 +2765,6 @@ Read more]]></summary>
         <updated>2024-08-07T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenZFS 2.2.5 Released With Linux 6.9 Support, Some Linux 6.10 Bits]]></title>
-        <id>https://www.phoronix.com/news/OpenZFS-2.2.5-Released</id>
-        <link href="https://www.phoronix.com/news/OpenZFS-2.2.5-Released"/>
-        <updated>2024-08-07T00:48:51.000Z</updated>
-        <summary type="html"><![CDATA[OpenZFS 2.2.5 is now available as the newest stable update to this open-source ZFS file-system implementation for Linux and FreeBSD systems...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2951,16 +2959,6 @@ AS Compose Preview doesn't work with generated assets]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sway Compositor Lands Wayland Explicit Sync Support]]></title>
-        <id>https://www.phoronix.com/news/Sway-Explicit-Sync-Merged</id>
-        <link href="https://www.phoronix.com/news/Sway-Explicit-Sync-Merged"/>
-        <updated>2024-08-06T19:34:47.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday the Sway i3-inspired Wayland compositor saw tearing control support merged while today another prominent Wayland protocol has been merged: linux-drm-syncobj-v1 for explicit sync support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
