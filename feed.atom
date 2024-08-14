@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-08-14T06:16:05.072Z</id>
+    <id>urn:2024-08-14T08:14:40.359Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-08-14T06:16:05.072Z</updated>
+    <updated>2024-08-14T08:14:40.359Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Proxmox: moderní virtualizační platforma schopná nahradit VMware (školení)]]></title>
+        <id>www.root.cz-actuality-40445</id>
+        <link href="https://www.root.cz/zpravicky/proxmox-moderni-virtualizacni-platforma-schopna-nahradit-vmware-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-08-14T07:39:36.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox je moderní virtualizační platforma, která v mnoha případech může nahradit VMware. Je open-source, zdarma a je postaven na otevřených technologiích jako KVM, LXC, CEPH a dalších. Pokud potřebujete provozovat virtualizaci, Proxmox je pro vás ideální stack a na našem workshopu Proxmox se dozvíte, jak na něj.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Situační uvědomění: vývoj AI]]></title>
+        <id>www.root.cz-actuality-46275</id>
+        <link href="https://www.root.cz/zpravicky/situacni-uvedomeni-vyvoj-ai/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-08-14T06:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Série esejí Situational awareness: The Decade Ahead od bývalého zaměstnance OpenAI (PDF, 165 stran) se zamýšlí nad možným scénářem nejbližšího vývoje umělé inteligence.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Hrach)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mario Kart 8 Deluxe + Booster Course Physical Release Reportedly Updated]]></title>
         <id>https://www.nintendolife.com/#article-170218</id>
@@ -3512,16 +3532,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ZLUDA alias CUDA pro Radeony zmizela z GitHubu (snad jen dočasně)]]></title>
-        <id>www.root.cz-actuality-46250</id>
-        <link href="https://www.root.cz/zpravicky/zluda-alias-cuda-pro-radeony-zmizela-z-githubu-snad-jen-docasne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-08-07T09:55:53.000Z</updated>
-        <summary type="html"><![CDATA[V únoru jsme psali o projektu ZLUDA, tedy kdysi pod Intelem vyvíjené, později osamostatněné náhradě umožňující provozovat aplikace pro framework CUDA na AMD Radeonech (případně/výhledově Intel Arc). Tento projekt má nyní značně skrouhnutý kód na GitHubu, jeho tvůrce jej na žádost AMD odstranil.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Total War Warhammer 3 teases new content this month, and a hotfix ensures goblins will now get dismembered correctly]]></title>
         <id>https://www.rockpapershotgun.com/total-war-warhammer-3-teases-new-content-this-month-and-a-hotfix-ensures-goblins-will-now-get-dismembered-correctly</id>
         <link href="https://www.rockpapershotgun.com/total-war-warhammer-3-teases-new-content-this-month-and-a-hotfix-ensures-goblins-will-now-get-dismembered-correctly"/>
@@ -3530,16 +3540,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (školení)]]></title>
-        <id>www.root.cz-actuality-40574</id>
-        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-08-07T08:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -4712,30 +4712,6 @@ Project Structure
               
 Issue #321213646
 Why Project structure dialog not searching for dependencies?]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Ladybug | 2024.1.3 Canary 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-1.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/07/android-studio-ladybug-202413-canary-1.html"/>
-        <updated>2024-07-15T19:35:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Ladybug | 2024.1.3 Canary 1 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Ladybug, see the Android Studio Preview release notes.
-
-
-General fixes and features
-Below is a list of general fixes in Android Studio Ladybug | 2024.1.3 Canary 1 and Android Gradle Plugin 8.7.0-alpha01. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed…]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
