@@ -1,10 +1,336 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-17T20:12:59.601Z</id>
+    <id>urn:2024-09-17T22:11:19.306Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-09-17T20:12:59.601Z</updated>
+    <updated>2024-09-17T22:11:19.306Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Manipulace se strukturovanými daty: úskalí naivních metod a jejich dopady]]></title>
+        <id>www.root.cz-text-17307</id>
+        <link href="https://www.root.cz/clanky/manipulace-se-strukturovanymi-daty-uskali-naivnich-metod-a-jejich-dopady/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-09-17T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Zahajujeme sérii článků věnované umění sémantické manipulace se strukturovanými daty. Prozkoumáme běžné chyby při manipulaci s řetězci (strings) a jejich vliv na softwarové systémy.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Zdeněk Biberle)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Softwarová sklizeň (17. 9. 2024): spravujte přehledně svou flotilu proxy serverů]]></title>
+        <id>www.root.cz-text-17333</id>
+        <link href="https://www.root.cz/clanky/softwarova-sklizen-17-9-2024-spravujte-prehledne-svou-flotilu-proxy-serveru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-09-17T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Pravidelná středeční sonda do světa software. Dnes se podíváme na správce proxy serverů, necháme si vykreslit průběhy (waveforms) z CSV a nakonec budeme testovat protokoly.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All new Auras and Items in Sol’s RNG Era 9 Update]]></title>
+        <id>https://www.destructoid.com/?p=599865</id>
+        <link href="https://www.destructoid.com/all-new-auras-and-items-in-sols-rng-era-9-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-new-auras-and-items-in-sols-rng-era-9-update"/>
+        <updated>2024-09-17T21:42:23.000Z</updated>
+        <summary type="html"><![CDATA[The latest update for Sol's RNG, titled Era 9, added a ton of new Auras to roll for, as well as a couple of new Items you can craft to increase your chances of getting your hands on the new Auras. The new update also added a new Biome that benefits your chances of rolling specific Auras, which is always helpful. Here are all the new Auras and Items in the Sol's RNG Era 9 Update.
+
+
+
+
+
+All Sol's RNG Era 9 Auras
+
+
+Sol's RNG is all about the Auras, and the Era 9 update adds 10 of them and an all-new mutation. The new Auras are spread out over all phases of the game, with Ash, Player, and Lost Soul being available in the early game, while late-game Auras such as Aegis and Apostolos have become available in Era 9 as well. Here are all of the new Auras in the Sol's RNG Era 9 Update and their chan…]]></summary>
+        <author>
+            <name>Steven Mills</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Koala Feature Drop | 2024.1.2 Patch 1 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2024/09/android-studio-koala-feature-drop.html</id>
+        <link href="https://androidstudio.googleblog.com/2024/09/android-studio-koala-feature-drop.html"/>
+        <updated>2024-09-17T21:18:00.001Z</updated>
+        <summary type="html"><![CDATA[Android Studio Koala Feature Drop | 2024.1.2 Patch 1 is now available in the Stable channel.
+If you already have an Android Studio build on the Stable channel,
+you can get the update by clicking Help > Check for Updates (or Android Studio > Check
+for Updates on macOS). Otherwise, you can download it here.
+For information on new features and changes in Android Studio Koala Feature Drop, see the Android Studio release notes.
+
+For details of bugs fixed in each previous release of Android Studio Koala Feature Drop, see
+closed issues.
+General fixes and features
+Below is a list of general fixes in Android Studio Koala Feature Drop | 2024.1.2 Patch 1 and Android Gradle Plugin 8.6.1. These are a result of your bug
+reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
+you.
+
+  
+    
+Fixed Issues
+    
+Dexer (D8)
+      
+        
+
+          
+            
+
+              
+Issue #359616078
+Dexing task/transform generates non-deterministic classes.dex contents
+
+          
+        
+
+      
+    
+Gradle
+      
+        
+
+          
+            
+
+              
+Issue #354109782
+R8 regression from 8.4.2 to 8.5.0
+
+          
+        
+
+      
+    
+IntelliJ
+      
+        
+
+          
+            
+
+              
+Issue #361027507
+Cannot close Koala when updating indices (which takes forever)
+
+          
+        
+
+      
+    
+Shrinker (R8)
+      
+        
+
+          
+            
+
+              
+Issue #355238622
+R8 8.5.x StackOverflowError in SimpleInliningConstraintAnalysis
+
+            
+
+              
+Issue #359385828
+Task :xxxx:minifyXXXReleaseWithR8 ERROR: R8: java.util.ConcurrentModificationException
+
+            
+
+              
+Issue #358913905
+java.lang.NullPointerException: Cannot invoke "com.android.tools.r8.ir.analysis.type.TypeElement.asClassType()"]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clock Tower: Rewind arrives in the west two days before Halloween]]></title>
+        <id>https://www.destructoid.com/?p=599856</id>
+        <link href="https://www.destructoid.com/clock-tower-rewind-arrives-in-the-west-two-days-before-halloween/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=clock-tower-rewind-arrives-in-the-west-two-days-before-halloween"/>
+        <updated>2024-09-17T21:13:16.000Z</updated>
+        <summary type="html"><![CDATA[Hifumi Kono's original 1995 Clock Tower game is finally making its way over to the U.S., and it's doing so two days earlier than Japan. WayForward's Clock Tower: Rewind revival is now set to launch on PlayStation 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC in the Americas and Europe on October 29, 2024.
+
+
+Outside of folks who have played the ROM or watched Shinya Arino brave its horrors on Game Center CX, most westerners likely first encountered the series on PlayStation. WayForward's update takes the Super Famicom classic and breathes new life into its horrifying hallways. The original gameplay is still intact along with the graphics and sound, but now there are some quality-of-life improvements in the mix along with added features. 
+
+
+That fresh content can be found in Rewind mode. There's a new animated intro, as well as functions like save states, rewind (hey, it's in the title!), a music player, art gallery, and vocal songs by Mary Elizabeth McGlynn and Emi Evans. There's also the aforementioned Clock Tower Commercial Sampler demo for a nice piece of video game history. You can get an idea of how it's shaping up in a recent gameplay video:
+
+
+
+
+It's very appropriate that Japan gets this one on October 31, but two days earlier ain't bad. Either way, it's the perfect time of the year to spend running like mad from Scissorman. 
+
+
+Beyond the Clock Tower update, WayForward set a release window for River City Girls 2's Double Dragon DLC. Bimmy and Jimmy will join the brawl sometime this fall, which is a slight delay from the original summer plans. 
+
+The post Clock Tower: Rewind arrives in the west two days before Halloween appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Joseph Luster</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA FC 25 Ultimate Edition: Best ways to spend 4600 FC Points]]></title>
+        <id>https://www.destructoid.com/?p=599650</id>
+        <link href="https://www.destructoid.com/ea-fc-25-ultimate-edition-best-ways-to-spend-4600-fc-points/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ea-fc-25-ultimate-edition-best-ways-to-spend-4600-fc-points"/>
+        <updated>2024-09-17T21:11:25.000Z</updated>
+        <summary type="html"><![CDATA[One of the main reasons to get EA FC 25's Ultimate Edition is the 4,600 FC Points you get.
+
+
+This is the game's premium currency and the only other way to get it is by purchasing via microtransactions. Naturally, you'll want to make the best use possible of this resource, but that job can be pretty confusing. Let's take a look at all possible ways of spending the FC Points and assess the best options.
+
+
+How can you spend 4600 FC Points in EA FC 25 Ultimate Edition
+
+
+Here's the list of all possible options when it comes to spending the first set of FC Points.
+
+
+
+Open tradeable packs
+
+
+Use in paid evolutions
+
+
+Play Online Draft
+
+
+
+An additional outlay this year could be the option to purchase a premium version of the Season Pass, but for now, we will go with the other methods.
+
+
+
+
+Best way t…]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helldivers 2’s ridiculous Thermite Grenade buff is the real star of the 60-day update]]></title>
+        <id>https://www.destructoid.com/?p=599889</id>
+        <link href="https://www.destructoid.com/helldivers-2s-ridiculous-thermite-grenade-buff-is-the-real-star-of-the-60-day-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=helldivers-2s-ridiculous-thermite-grenade-buff-is-the-real-star-of-the-60-day-update"/>
+        <updated>2024-09-17T20:57:07.000Z</updated>
+        <summary type="html"><![CDATA[Following the release of Helldivers 2's 60-day update, players seem pretty happy with the buffs and changes that have been brought to the game. The one weapon fans have latched onto isn't a primary, secondary, or Stratagem, though. It's the Thermite Grenade. 
+
+
+The buff to Helldivers 2's Thermite Grenade in this 60-day update sounds like a mistake, but I believe it's very deliberate. Prior to the update, the Thermite Grenade would attach to enemies, give them a little tickle, and warm them up with a spark of fire when it exploded. Now, it scorches foes before causing a colossal explosion that can crack open a Bile Titan's carapace and spill its gooey innards all over a planet's surface. 
+
+
+You're going to need sunglasses for this one
+
+
+Screenshot by Destructoid
+
+
+The official patch notes f…]]></summary>
+        <author>
+            <name>Jamie Moorcroft-Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pikachu Worlds Promo Releasing Without Stamp!]]></title>
+        <id>155251</id>
+        <link href="https://www.pokebeach.com/forums/threads/pikachu-worlds-promo-releasing-without-stamp.155251/"/>
+        <updated>2024-09-17T20:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Starting this week, players who participate in Gym stores in Singapore, Malaysia, and the Philippines will receive the Worlds Pikachu promo — but without the Worlds stamp! Gym stores are basically their version of Pokemon League.
+This is yet another English-exclusive print releasing in Southeast...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘No pre-orders’: Battlefield fans are wary of hopping on the hype train for the newest one right away]]></title>
+        <id>https://www.destructoid.com/?p=599771</id>
+        <link href="https://www.destructoid.com/no-pre-orders-battlefield-fans-are-wary-of-hopping-on-the-hype-train-for-the-newest-one-right-away/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=no-pre-orders-battlefield-fans-are-wary-of-hopping-on-the-hype-train-for-the-newest-one-right-away"/>
+        <updated>2024-09-17T20:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Following the reveal of the first piece of concept art and details for the next Battlefield entry, fans are reminding each other to avoid jumping on the hype train. This community feels like it's been burned before with past entries, and now "no pre-orders" has become its motto. 
+
+
+The first piece of concept art for the next Battlefield game was revealed in an exclusive with IGN. In the accompanying interview piece, Head of Respawn & Group GM for EA Studios Vince Zampella pointed to Battlefield 3 and Battlefield 4 as the peaks of the franchise's modern era shooters. While that's encouraging and exciting news, fans remain skeptical and are trying to hold each other accountable to avoid creating an uncontrollable hype train. 
+
+
+Don't get carried away
+
+
+Image via EA
+
+
+Zampella doesn't announc…]]></summary>
+        <author>
+            <name>Jamie Moorcroft-Sharp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where to find the NaNa Village in LEGO Fortnite]]></title>
+        <id>https://www.destructoid.com/?p=599873</id>
+        <link href="https://www.destructoid.com/where-to-find-the-nana-village-in-lego-fortnite/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=where-to-find-the-nana-village-in-lego-fortnite"/>
+        <updated>2024-09-17T20:21:31.000Z</updated>
+        <summary type="html"><![CDATA[LEGO Fortnite's Lost Isles is all about finding dinosaurs, exploring the jungle, and fighting against pirates. However, if you search long enough, you might spot a little banana character next to a small village square marker.
+
+
+While it may not look like much now, this place known as NaN'er Hamlet or NaNa Village is where most of this area's fun comes from. Here's how to find NaNa Village in LEGO Fortnite.
+
+
+NaNa Village location in LEGO Fortnite
+
+
+The exact spawn location of NaNa Village, known in-game as NaN'er Hamlet, differs with every world seed. Although the Lost Isles' land masses don't change, the spawn spots for Klombos, various NPCs, and NaNa village do. Although using a set seed will guarantee you find it in the same location every time, looking for it on a random world means you'll have to run around Lost Isle until you spot it.
+
+
+Screenshot by Destructoid
+
+
+Fortunately, there's some good and bad news. The good news is that the actual appearance of the NaN'er Hamlet never changes. The bad news is that it's a small village square statue with one character, Bananthony, next to it. Considering Lost Isles' size, you might have to search for a while. 
+
+
+Bananthony and the NaNa Village marker can spawn in the jungle, on a beach's coastline, or in random plains biomes around Lost Isle. Although plenty of random buildings will spawn around the area, NaN'er Hamlet is the only place that specifically spawns a village square and Bananthony. Watch for his colorful appearance, the village square structure, and its peculiar dirt patch to help you spot it. Otherwise, you'll need plenty of luck or a custom world seed to make the search easier.
+
+
+Once you find NaN'er Hamlet, you can speak to Bananthony and interact with the village square marker to begin upgrading this little settlement, much like you would with any other village or the Rebel Outpost from the Star Wars event.
+
+The post Where to find the NaNa Village in LEGO Fortnite appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Madison Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to talk to Haven in LEGO Fortnite]]></title>
+        <id>https://www.destructoid.com/?p=599862</id>
+        <link href="https://www.destructoid.com/how-to-talk-to-haven-in-lego-fortnite/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-talk-to-haven-in-lego-fortnite"/>
+        <updated>2024-09-17T20:21:04.000Z</updated>
+        <summary type="html"><![CDATA[The Lost Isles harnesses many unique characters that can either be dangerous or friendly. Of all of them, Haven is one of the most helpful allies to set you on the best path. Here's how to find Haven in LEGO Fortnite.
+
+
+Where to find Haven in LEGO Fortnite
+
+
+You can find Haven by upgrading your Lost Isle village to Level 2 or creating a new world in LEGO Fortnite. For a quick and easy route, use the second option to travel to Haven's Village automatically. Select Cozy or Survival when setting up a world; you should interact with the character immediately afterward.
+
+
+Screenshot by Destructoid
+
+
+Those who don't want to start a new file can use the Bus Station's fast-travel to reach Lost Isle. Set up a base there and upgrade it to trigger Haven's appearance. If she doesn't show up, try to level it up again to, hopefully, produce her spawn. Once you speak to Haven in LEGO Fortnite, she'll want a place to stay. Upgrade your Village Level to meet her requirements.
+
+
+Haven will enlist you in a few more tasks to better acquaint you with Lost Isles, including the acquisition of the new Mahogany Wood. You can also claim rewards from the Best Friend Klombo task, earning you Studs for the Tropical Treasures LEGO Pass.
+
+
+How to tame a Klombo in LEGO Fortnite
+
+
+Once you've completed the Talk to Haven quest, you'll unlock the Tame a Klombo objective. To complete this task, head to the Jungle and give Klomberries to the Klombo to gain its trust. 
+
+
+Image via Epic Games
+
+
+Klomberries are relatively easy to find, especially if you're at Haven's Village. Just be on the lookout for some light blue berries and save some for the Klombo. After you've tamed it, you can start riding it to travel across Lost Isles.
+
+The post How to talk to Haven in LEGO Fortnite appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Kristina Ebanez</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Paradise Dragona” Secret Rares and Pull Rates Revealed!]]></title>
         <id>155245</id>
@@ -80,14 +406,14 @@ Scree…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dead by Daylight PvE shooter Project T is shut down following ‘unsatisfactory results’ from playtests]]></title>
+        <title type="html"><![CDATA[Dead by Daylight PvE shooter Project T is canceled following ‘unsatisfactory results’ from playtests]]></title>
         <id>https://www.destructoid.com/?p=599795</id>
-        <link href="https://www.destructoid.com/dead-by-daylight-pve-shooter-project-t-is-shut-down-following-unsatisfactory-results-from-playtests/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dead-by-daylight-pve-shooter-project-t-is-shut-down-following-unsatisfactory-results-from-playtests"/>
+        <link href="https://www.destructoid.com/behavior-cancels-dead-by-daylight-pve-shooter-project-t/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=behavior-cancels-dead-by-daylight-pve-shooter-project-t"/>
         <updated>2024-09-17T19:26:38.000Z</updated>
         <summary type="html"><![CDATA[Project T, a PvE co-op shooter set in the Dead by Daylight universe, has been canceled. Developer Midwinter Games cites "unsatisfactory overall results" following a deep analysis from internal risk assessment and commercial teams. 
 
 
-Midwinter Games was working with Project T players who signed up for its early Insider Program on playtests and feedback to ensure the game was developed to meet players' needs. While many players provided positive responses in feedback surveys following the few playtests Project T had, it wasn't enough to counteract the negative feedback or make the game a viable commercial product. 
+Midwinter Games initially sought feedback for Project T from players who signed up for its early Insider Program to ensure the game was on track to deliver. While many players provided positive responses in feedback surveys following the few playtests Project T had, it wasn't enough to counteract the negative feedback or make the game a viable commercial product. 
 
 
 Lost in The Backwaters
@@ -96,7 +422,7 @@ Lost in The Backwaters
 Screenshot by Destructoid
 
 
-The above statement was sent to everyone in the Project T Insider Program. It explains how the team was able to get valuabl…]]></summary>
+The above statement was sent to everyone in the Project T Insider Program. It explains how the team was able to get valuable insight into the ga…]]></summary>
         <author>
             <name>Jamie Moorcroft-Sharp</name>
         </author>
@@ -319,17 +645,6 @@ You can purchase both from Iron Man, who roams south of Grim Gate near the armor
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pikachu Worlds Promo Releasing Without Stamp!]]></title>
-        <id>155251</id>
-        <link href="https://www.pokebeach.com/forums/threads/pikachu-worlds-promo-releasing-without-stamp.155251/"/>
-        <updated>2024-09-17T18:23:52.000Z</updated>
-        <summary type="html"><![CDATA[Starting this week, players who participate in Gym stores in Singapore, Malaysia, and the Philippines will receive the Worlds Pikachu promo — but without the Worlds stamp! Gym stores are basically their version of Pokemon League.
-This is yet another English-exclusive print releasing in Southeast...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Initial AMD Zen 5 "Znver5" Support Merged For LLVM/Clang]]></title>
         <id>https://www.phoronix.com/news/LLVM-Clang-Znver5-Merged</id>
         <link href="https://www.phoronix.com/news/LLVM-Clang-Znver5-Merged"/>
@@ -382,10 +697,10 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Wizards of the Coast has revealed yet another Ghostbusters and Secret Lair crossover for Magic: The Gathering. We've had an entire set dedicated to Slimer, but this one focuses on the animated TV series, something many of us grew up watching. 
 
 
-First, we had Secret Lair x Ghostbusters: Slimer! as a Superdrop, and now we have Secret Lair X The Real Ghostbusters as another. This second set looks at various episodes from throughout The Real Ghostbusters TV show, containing hand-picked moments that fit well with the mechanics of the cards they've been used for. The artwork is reminiscent of the original show as well, which is a really nice touch I love as both a fan who watched the episodes growing up and someone who enjoys Magic: The Gathering today. 
+First, we had Secret Lair x Ghostbusters: Slimer! as a Superdrop, and now we have Secret Lair X The Real Ghostbusters as another. This second set looks at various episodes from throughout The Real Ghostbusters TV show, containing hand-picked moments that fit well with the mechanics of the cards they've been used for. The artwork is reminiscent of the original show, too. It's a nice touch I love as both a fan who watched the series growing up and someone who enjoys Magic: The Gathering today. 
 
 
-Every card in the Secret Lair x The Re…]]></summary>
+Every card in the Secret Lair x The Real Ghostbusters …]]></summary>
         <author>
             <name>Jamie Moorcroft-Sharp</name>
         </author>
@@ -759,7 +1074,7 @@ In the Discover section, you'll find Day of Doom, a Fortnite 16v16 battle riddle
         <title type="html"><![CDATA[Exploze osobních komunikačních zařízení v Libanonu]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/exploze-osobnich-komunikacnich-zarizeni-v-libanonu</id>
         <link href="http://www.abclinuxu.cz/zpravicky/exploze-osobnich-komunikacnich-zarizeni-v-libanonu"/>
-        <updated>2024-09-17T17:03:58.000Z</updated>
+        <updated>2024-09-17T17:03:56.000Z</updated>
         <summary type="html"><![CDATA[Exploze osobních komunikačních zařízení v Libanonu zabily osm lidí, přibližně 2750 lidí je zraněno. Zhruba 200 jich je v kritickém stavu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -923,38 +1238,6 @@ The aim of the hunt, if you want to win and relegate Abigail to second place, is
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA 5 now has BattlEye anti-cheat on PC]]></title>
-        <id>https://www.destructoid.com/?p=599466</id>
-        <link href="https://www.destructoid.com/gta-5-now-has-battleye-anti-cheat-on-pc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gta-5-now-has-battleye-anti-cheat-on-pc"/>
-        <updated>2024-09-17T16:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Even after ten years, GTA 5 is still one of the biggest releases in modern gaming. With almost 160,000 people logged into the game on PC in the past 24 hours, it's no wonder it's one of the most played releases on Steam. But there's been one thing missing all this time, until now.
-
-
-As noted in a recent report from Insider Gaming's Tom Henderson, it looks as though Rockstar has finally added anti-cheat software to GTA 5. More than nine years after releasing (bearing in mind the console versions came out in 2013), the hit Grand Theft Auto installment comes packed with BattlEye, at least on the PC version.
-
-
-
-
-Screenshots from X user Tez2 – who's pretty noteworthy when it comes to tracking all things related to GTA – initially showed the software listed in the patch notes over on SteamDB. Rockstar has since updated its patch notes thread, dropping in its official notice that GTA 5 now comes with a Battleye install. 
-
-
-Is this the end of GTA 5 silliness?
-
-
-Over the years, studios and publishing houses have taken strides to protect intellectual properties, especially when it comes to guarding against online cheaters. This is basically what BattlEye is all about, but the report from Henderson points to a few concerns.
-
-
-For one, will having anti-cheat software in the PC version of Grand Theft Auto 5 have any effect on modding? It can't be said at this stage what the result will be, but no doubt the community will let us know post-haste.
-
-
-In general, it seems fans are quite pleased with BattlEye finally making its way to the game, about a decade after it came out. But given how long it's taking for GTA 6 to arrive, we already know that Rockstar can be a bit slow on the uptake at times.
-
-The post GTA 5 now has BattlEye anti-cheat on PC appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Andrew Heaton</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Behold The Latest Massive Lego Star Wars Set: A $500 Jabba's Barge]]></title>
         <id>1851650301</id>
         <link href="https://kotaku.com/star-wars-return-jedi-lego-set-jabbas-barge-pre-order-1851650301"/>
@@ -963,67 +1246,6 @@ The post GTA 5 now has BattlEye anti-cheat on PC appeared first on Destructoid.]
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Stark Fan Club Found secret quest items in Fortnite]]></title>
-        <id>https://www.destructoid.com/?p=599639</id>
-        <link href="https://www.destructoid.com/all-stark-fan-club-found-secret-quest-items-in-fortnite/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-stark-fan-club-found-secret-quest-items-in-fortnite"/>
-        <updated>2024-09-17T16:38:18.000Z</updated>
-        <summary type="html"><![CDATA[Marvel's Tony Stark has quite the fanbase surrounding him, partly because of his other identity, Iron Man. His Fortnite version is no exception, as there's even a gung-ho secret fan club you can find in Doomstadt if you do some digging.
-
-
-How to start the Stark Fan Club Found secret quest in Fortnite
-
-
-Starting the Stark Fan Club Found secret quest requires going to Doomstadt, entering the northernmost building in the POI, and descending into its basement. Here, you'll find a computer with a quest icon that, when interacted with, reveals its name to be "Super Stark Fan."
-
-
-
-Screenshot by Destructoid
-
-
-Screenshot by Destructoid
-
-
-
-Once you talk to the computer, the mysterious Super Stark Fan will express excitement over Tony Stark before asking if you could collect some memorabilia. You'll …]]></summary>
-        <author>
-            <name>Madison Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to adopt Inky in Zenless Zone Zero: Inky trust guide and best answers]]></title>
-        <id>https://www.destructoid.com/?p=587741</id>
-        <link href="https://www.destructoid.com/how-to-adopt-inky-in-zenless-zone-zero-inky-trust-guide-and-best-answers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-adopt-inky-in-zenless-zone-zero-inky-trust-guide-and-best-answers"/>
-        <updated>2024-09-17T16:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Apart from diving into the hollows and unlocking the mysteries of New Eridu, Zenless Zone Zero allows players to grow closer to their agents by completing quests and trust events. But did you know that it's also possible to get a pet by adopting Inky, one of Sixth Street's street cats? 
-
-
-So that you can get a new video store mascot and give the cutest cat in the game a home, here's how to adopt Inky in ZZZ.
-
-
-
-Table of Contents:
-
-How to adopt Inky in ZZZ
-
-
-Inky trust guide
-
-
-How to unlock and complete Adoption Plan in Zenless Zone Zero
-
-
-
-
-
-How to adopt Inky in ZZZ
-
-
-You can adopt Inky in Zenless Zone Zero by maxing their trust rank before completing the Adoption Plan commission. Inky's trust gauge can be unlocked by completing Spending Time with Inky, which only becomes available after c…]]></summary>
-        <author>
-            <name>Franklin Bellone Borges</name>
         </author>
     </entry>
     <entry>
@@ -1056,25 +1278,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[OpenJDK 23 is now generally available as the reference implementation to Java 23...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to solve Topsy’s Biscuits puzzle in The Plucky Squire]]></title>
-        <id>https://www.destructoid.com/?p=592798</id>
-        <link href="https://www.destructoid.com/how-to-solve-topsys-biscuits-puzzle-plucky-squire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-solve-topsys-biscuits-puzzle-plucky-squire"/>
-        <updated>2024-09-17T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's set the scene: you've just met Minibeard, one of the goofiest characters in The Plucky Squire's first few chapters, and you're now in a secluded forest with a large cat. This cat, Topsy, reveals they're hungry and wishes you to find their lost biscuits.
-
-
-While this sounds easy initially, especially with Topsy's hints, you'll still have to complete a slightly challenging puzzle to navigate these treats across the forest. Let's walk through the entire biscuit puzzle step by step.
-
-
-How to find Topsy's Biscuits in The Plucky Squire
-
-
-When you first begin the puzzle, you'll find the phrase "Here was a secluded forest" that you can hit with your sword. Doing this separates forest from the rest of the quote, allowing you to pick it up and move it later. You won't need to just yet, but we'…]]></summary>
-        <author>
-            <name>Madison Benson</name>
         </author>
     </entry>
     <entry>
@@ -1122,62 +1325,6 @@ Then it hit me. It struggles to balance the fine line between being approachable
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remnant 2: The Dark Horizon DLC adds Warden archetype, new N’Erud area, Boss Rush mode, and more]]></title>
-        <id>https://www.destructoid.com/?p=598960</id>
-        <link href="https://www.destructoid.com/remnant-2-the-dark-horizon-dlc-adds-warden-archetype-new-nerud-area-boss-rush-mode-and-more/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=remnant-2-the-dark-horizon-dlc-adds-warden-archetype-new-nerud-area-boss-rush-mode-and-more"/>
-        <updated>2024-09-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The final DLC for the action RPG souls-like Remnant 2 will take players into an all-new area of N'Erud, the sci-fi construct that was once home to the Drzyr as they searched the universe for sentient life, but instead found the center of the universe. Remnant 2: The Dark Horizon adds the drone-wielding Warden archetype, a massive sprawling new area of N'Erud, a new Prism system that essentially adds further end-game, and a new boss rush mode.
-
-
-
-
-The Dark Horizon
-
-
-I recently sat down with Ben Cureton, Principal Designer at Gunfire Games, and Cindy To, Principal Level Designer at Gunfire Games, to get a hands-off preview of everything new coming in the final DLC for Remnant 2, and wow is there a lot. For starters, even though I was expecting The Dark Horizon to take place on N'Erud, what I…]]></summary>
-        <author>
-            <name>Steven Mills</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: The Plucky Squire]]></title>
-        <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=598796</id>
-        <link href="https://www.destructoid.com/reviews/review-the-plucky-squire/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-the-plucky-squire"/>
-        <updated>2024-09-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've been excited about The Plucky Squire since Devolver Digital first announced it back in 2022. Even though I don't usually love platformer games, I was instantly drawn to its peculiar, dimension-bending mechanics and a particular type of art style I've been familiar with for years.
-
-
-I was worried at first, too. I've had my heart broken one too many times, banking on my admiration for its style, only to wind up with a messy, incoherent, or straight-up boring ordeal. There was a small part of me harboring hesitancy, hoping this wouldn't be the same. Thankfully, making an optimistic-fueled gamble with my time paid off, and I walked away happier than ever before after venturing out of my comfort zone. Well, except during a few puzzles, but that lies entirely in my problem-solving abilities…]]></summary>
-        <author>
-            <name>Madison Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where to find Mahogany Wood in LEGO Fortnite]]></title>
-        <id>https://www.destructoid.com/?p=599627</id>
-        <link href="https://www.destructoid.com/where-to-find-mahogany-wood-in-lego-fortnite/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=where-to-find-mahogany-wood-in-lego-fortnite"/>
-        <updated>2024-09-17T15:53:50.000Z</updated>
-        <summary type="html"><![CDATA[The Lost Isles update introduces a new wood type to diversify your collection. We're here to show you where to find Mahogany Wood in LEGO Fortnite, including some recipes you can use it with.
-
-
-How to get Mahogany Wood in LEGO Fortnite
-
-
-You can find Mahogany Wood in LEGO Fortnite's new Lost Isles area, a lush and vibrant region with unique flora and fauna. Look for trees with darker brown trunks, as these are the ones that yield Mahogany Wood. Keep in mind that regular trees showcase a lighter appearance, so make sure to note their differences.
-
-
-Screenshot by Destructoid
-
-
-If you need help getting to Lost Isles, you can either start a new world and spawn there or use fast travel with the Bus Station. Once you get there, you should encounter some Mahogany trees in no time.
-
-
-Screenshot by…]]></summary>
-        <author>
-            <name>Kristina Ebanez</name>
         </author>
     </entry>
     <entry>
@@ -2065,10 +2212,10 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sonic Fans Might Want To Go See The New Transformers Movie On Day One]]></title>
+        <title type="html"><![CDATA[Sonic Fans Might Want To Go See The New Transformers Movie On Day One [Update]]]></title>
         <id>1851649010</id>
         <link href="https://kotaku.com/sonic-3-shadow-print-transformers-one-theater-showtimes-1851649010"/>
-        <updated>2024-09-16T15:27:38.000Z</updated>
+        <updated>2024-09-16T15:27:00.000Z</updated>
         <summary type="html"><![CDATA[Transformers One wasn’t even on my radar before this morning. I’ve seen a few of the Michael Bay films but the Transformers craze mostly passed me by as a child. Even when Overwatch 2 had its collaboration with the series I was unmoved despite over a thousand hours in that game. But Paramount has found a way to target…
 Read more...]]></summary>
         <author>
@@ -3944,26 +4091,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Přehled srpnových vydání Jaderných novin: stav vydání jádra, citáty týdne a seznam článků týkajících se jádra.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google chce omezit platnost certifikátů na 90 dnů, změna zřejmě přijde brzy]]></title>
-        <id>www.root.cz-text-17320</id>
-        <link href="https://www.root.cz/clanky/google-chce-omezit-platnost-certifikatu-na-90-dnu-zmena-zrejme-prijde-brzy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-09-10T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Google se chystá prosadit další zkrácení platnosti certifikátů až na 90 dnů. Neznáme přesné datum, ale certifikační autority ho znají a intenzivně se na velkou změnu připravují. Jste připraveni i vy?]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Softwarová sklizeň (11. 9. 2024): zjistěte detaily o svém počítači]]></title>
-        <id>www.root.cz-text-17316</id>
-        <link href="https://www.root.cz/clanky/softwarova-sklizen-11-9-2024-zjistete-detaily-o-svem-pocitaci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-09-10T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Sonda do světa otevřeného softwaru. Dnes si zobrazíme informace o systému, vyzkoušíme grafické rozhraní pro správu Gitu, přehrajeme si hudební alba a uděláme si pořádek v oprávněních k souborům.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
         </author>
     </entry>
     <entry>
