@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-09-27T04:15:27.668Z</id>
+    <id>urn:2024-09-27T06:18:43.200Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-09-27T04:15:27.668Z</updated>
+    <updated>2024-09-27T06:18:43.200Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Skeledirge from Supercharged Breaker!]]></title>
+        <id>155281</id>
+        <link href="https://www.pokebeach.com/forums/threads/skeledirge-from-supercharged-breaker.155281/"/>
+        <updated>2024-09-27T05:02:03.000Z</updated>
+        <summary type="html"><![CDATA[The Skeledirge line has been revealed from Supercharged Breaker, which releases in Japan on October 18th. We expect most of the cards from this set to become part of the international set Surging Sparks, which releases in November.
+Fuecoco – Fire – HP80
+Basic Pokémon
+[R][C] Heat Burn: 20 damage...]]></summary>
+        <author>
+            <name>JustInBasil</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top Three Winners Crowned for 2024’s Pokemon TCG Illustration Contest, Runner-Ups Announced!]]></title>
         <id>155269</id>
@@ -807,19 +820,6 @@ Cash
 20 Peg-E prize drop…]]></summary>
         <author>
             <name>Madison Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skeledirge from Supercharged Breaker!]]></title>
-        <id>155281</id>
-        <link href="https://www.pokebeach.com/forums/threads/skeledirge-from-supercharged-breaker.155281/"/>
-        <updated>2024-09-26T19:25:02.000Z</updated>
-        <summary type="html"><![CDATA[The Skeledirge line has been revealed from Supercharged Breaker, which releases in Japan on October 18th. We expect most of the cards from this set to become part of the international set Surging Sparks, which releases in November.
-Fuecoco – Fire – HP80
-Basic Pokémon
-[R][C] Heat Burn: 20 damage...]]></summary>
-        <author>
-            <name>JustInBasil</name>
         </author>
     </entry>
     <entry>
@@ -5267,50 +5267,6 @@ For information on new features and changes in Android Studio Koala Feature Drop
 
 For details of bugs fixed in each previous release of Android Studio Koala Feature Drop, see
 closed issues.]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Ladybug | 2024.2.1 Canary 8 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/08/android-studio-ladybug-202421-canary-8.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/08/android-studio-ladybug-202421-canary-8.html"/>
-        <updated>2024-08-28T17:38:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Ladybug | 2024.2.1 Canary 8 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Ladybug, see the Android Studio Preview release notes.
-
-For details of bugs fixed in each previous release of Android Studio Ladybug, see
-closed issues.
-Support for Pixel 9 Series Devices
-You can now test your apps on the Google Pixel 9 series device configurations. Android Studio and the latest Android Emulator now have device definitions for the Pixel 9, Pixel 9 Pro, Pixel 9 Pro XL, and the Pixel 9 Pro Fold, enabling you to validate your apps on these virtual devices to ensure they react correctly to a variety of screen sizes and device types. You should use API 35 with the Pixel 9 AVDs to ensure the best experience and access to the latest platform features.
-General fixes and features
-Below is a list of general fixes in Android Studio Ladybug | 2024.2.1 Canary 8 and Android Gradle Plugin 8.7.0-alpha08. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #344016691
-AGP should claim that it supports API 35 that is about to ship
-
-            
-
-              
-Issue #230685896
-Running Android lint failed with NoSuchFileException]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
