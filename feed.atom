@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-09T04:15:09.804Z</id>
+    <id>urn:2024-10-09T06:18:22.139Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-10-09T04:15:09.804Z</updated>
+    <updated>2024-10-09T06:18:22.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NanoKVM: vzdálený přístup pomocí malého počítače s RISC-V]]></title>
+        <id>www.root.cz-actuality-46482</id>
+        <link href="https://www.root.cz/zpravicky/nanokvm-vzdaleny-pristup-pomoci-maleho-pocitace-s-risc-v/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-10-09T06:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Sipeed přestavila NanoKVM, které je založené na architektuře RISC-V. Jedná se o zařízení typu IP-KVM, které umožňuje vzdálené ovládání počítače nebo serveru prostřednictvím připojení HDMI a USB. NanoKVM dokáže simulovat klávesnici, myš a další HID zařízení, nabízí možnost přístupu k BIOSu a ovládání napájení. Obraz je komprimován a přenášen k uživateli prostřednictvím Ethernetu, přičemž využívá různé obaly a kompresní metody.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jozef Mlich)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastodon 4.3 vylepšuje upozornění, filtry a design]]></title>
+        <id>www.root.cz-actuality-46481</id>
+        <link href="https://www.root.cz/zpravicky/mastodon-4-3-vylepsuje-upozorneni-filtry-a-design/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-10-09T06:09:35.000Z</updated>
+        <summary type="html"><![CDATA[Po 11 měsících nočních aktualizací je nyní k dispozici stabilní verze Mastodon 4.3 s vylepšenými upozorněními, lepším filtrováním nechtěné pozornosti a přehlednějším designem.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jozef Mlich)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinář: Pokročilý monitoring Windows serveru Zabbixem]]></title>
+        <id>www.root.cz-actuality-46483</id>
+        <link href="https://www.root.cz/zpravicky/webinar-pokrocily-monitoring-windows-serveru-zabbixem/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-10-09T06:07:43.000Z</updated>
+        <summary type="html"><![CDATA[Zúčastněte se webináře, který se zaměří na pokročilý monitoring Windows serverů pomocí Zabbixu. Na programu bude monitorování služeb, jako jsou Active Directory, DHCP, DNS, MSSQL, Exchange, registry, WMI, performance countery a využití externích PowerShell skriptů.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Tomáš Heřmánek)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Throne and Liberty: How to defeat the Old Wizard’s Eye]]></title>
         <id>https://www.destructoid.com/?p=614131</id>
@@ -3420,16 +3450,6 @@ I fully expected to be running a Black & White–focused theme right about now. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cloudflare zaznamenal rekordní útok DDoS o rychlosti 3,8 Tb/s]]></title>
-        <id>www.root.cz-actuality-46458</id>
-        <link href="https://www.root.cz/zpravicky/cloudflare-zaznamenal-rekordni-utok-ddos-o-rychlosti-3-8-tb-s/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-10-04T06:06:51.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Cloudflare nedávno zaznamenala nový rekordní útok DDoS, který dosáhl rychlosti 3,8 Tb/s a 2,14 miliardy paketů za sekundu (Pps). Od začátku září už prý bylo zaznamenáno více než 100 hypervolumetrických útoků DDoS na třetí nebo čtvrtou síťovou vrstvu, přičemž mnohé z nich přesáhly 2 miliardy Pps a 3 Tb/s.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Týden na ScienceMag.cz: Kolik je ve vesmíru světla?]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-kolik-je-ve-vesmiru-svetla</id>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-kolik-je-ve-vesmiru-svetla"/>
@@ -3437,16 +3457,6 @@ I fully expected to be running a Black & White–focused theme right about now. 
         <summary type="html"><![CDATA[Kvantové provázání při dosud nejvyšší energii. Černé díry tvořené temnou hmotou by mohly ovlivňovat pohyb Marsu. Matematika a volby: Jak výsledky ovlivňuje velikost obvodu.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vydání QtRvSim 0.9.8: grafický simulátor RISC-V pro výuku]]></title>
-        <id>www.root.cz-actuality-46457</id>
-        <link href="https://www.root.cz/zpravicky/vydani-qtrvsim-0-9-8-graficky-simulator-risc-v-pro-vyuku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-10-04T05:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Nové vydání k vizualizaci zřetězeného zpracování instrukcí (pipeline) a činnosti vyrovnávacích pamětí (cache) přidává predikci skoků a její vizualizaci (Branch target Buffer, Branch History Buffer, Global History Register). Prediktor implementoval v rámci své diplomové práce Jiří Štefan.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Píša)</name>
         </author>
     </entry>
     <entry>
@@ -3668,16 +3678,6 @@ Are you ready to play? Dig up your good old CD and fire up the latest daily buil
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Remote Play přidává podporu AV1 a nahrávání do H.265 s GPU]]></title>
-        <id>www.root.cz-actuality-46456</id>
-        <link href="https://www.root.cz/zpravicky/steam-remote-play-pridava-podporu-av1-a-nahravani-do-h-265-s-gpu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-10-03T12:18:38.000Z</updated>
-        <summary type="html"><![CDATA[Na moderních počítačích s podporou video formátu AV1 – což typicky znamená desktopová či integrovaná GPU posledních generací AMD, Nvidia i Intel – nově umí Steam využívat (de)kódování video streamu do AV1 ve službě Remote Play. Teoreticky by tak na takových strojích mohl uživatel zaznamenávat vyšší kvalitu videa při stejné přenosové rychlosti.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
