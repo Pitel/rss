@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-10-27T10:11:59.789Z</id>
+    <id>urn:2024-10-27T12:21:47.748Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-10-27T10:11:59.789Z</updated>
+    <updated>2024-10-27T12:21:47.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.12-rc5 Disabling Intel's Linear Address Masking "LAM" Due To Security Concerns]]></title>
+        <id>https://www.phoronix.com/news/Linux-Disabling-Intel-LAM</id>
+        <link href="https://www.phoronix.com/news/Linux-Disabling-Intel-LAM"/>
+        <updated>2024-10-27T11:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel merged Linear Address Masking into the Linux kernel last year as a means of allowing user-space to store metadata within some bits of pointers without masking it out before use. LAM can be useful for virtual machines, sanitizers / profiling / memory tagging, and other uses. While the brand new Intel Arrow Lake and Lunar Lake CPUs support LAM, the Linux kernel is now disabling LAM out of security concerns...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's PCIe Cooling Driver Ready For Linux 6.13 To Reduce Bandwidth When Running Hot]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.13-PCIe-Cooling-Driver</id>
+        <link href="https://www.phoronix.com/news/Linux-6.13-PCIe-Cooling-Driver"/>
+        <updated>2024-10-27T11:01:26.000Z</updated>
+        <summary type="html"><![CDATA[For the past year Intel software engineers have been developing a PCIe cooling driver to reduce the PCIe link speed to cope with thermal issues. In the future with PCI Express 6.0 this driver may be further adapted to also reduce the PCIe link width when encountering thermal problems. This cooling driver is now ready for merging with the upcoming Linux 6.13 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-741</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-741"/>
+        <updated>2024-10-27T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for doing things you haven't done in a long time, like a long stretch after years trapped in a languorous hunch.
+
+Former Edge designer Andrew Hind has launched On, a premium print magazine in which he and editor-in-chief Nathan Brown invite writers to produce their dream article.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux NETFS Patches Help With CIFS Performance, Single Blob Objects]]></title>
+        <id>https://www.phoronix.com/news/Linux-NETFS-Better-Reads</id>
+        <link href="https://www.phoronix.com/news/Linux-NETFS-Better-Reads"/>
+        <updated>2024-10-27T10:27:55.000Z</updated>
+        <summary type="html"><![CDATA[The Linux NETFS code as a network file-system helper library is seeing patches to help enhance the read performance for solutions like CIFS as well as adding single blob object support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DM-INLINECRYPT Being Worked On To Leverage Inline Block Device Encryption]]></title>
+        <id>https://www.phoronix.com/news/DM-INLINECRYPT-Patches</id>
+        <link href="https://www.phoronix.com/news/DM-INLINECRYPT-Patches"/>
+        <updated>2024-10-27T10:15:59.000Z</updated>
+        <summary type="html"><![CDATA[In addition to Eric Biggers of Google being busy working on various crypto and hashing performance optimizations, the longtime Linux developer has also been working on "dm-inlinecrypt" for better leveraging inline block device encryption...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shiinotic, Morelull from Paradise Dragona!]]></title>
         <id>155186</id>
@@ -3142,16 +3197,6 @@ Dialga ex...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Several Linux Kernel Driver Maintainers Removed Due To Their Association To Russia]]></title>
-        <id>https://www.phoronix.com/news/Russian-Linux-Maintainers-Drop</id>
-        <link href="https://www.phoronix.com/news/Russian-Linux-Maintainers-Drop"/>
-        <updated>2024-10-22T18:22:26.000Z</updated>
-        <summary type="html"><![CDATA[Quietly merged into this week's Linux 6.12-rc4 kernel was a patch that removes a number of kernel maintainers from being noted in the official MAINTAINERS file that recognizes all of the driver and subsystem maintainers...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meowth, Paldean Wooper, Suicune, Duraludon Promos Releasing for “Starter Deck Generations!”]]></title>
         <id>155364</id>
         <link href="https://www.pokebeach.com/forums/threads/meowth-paldean-wooper-suicune-duraludon-promos-releasing-for-%E2%80%9Cstarter-deck-generations-%E2%80%9D.155364/"/>
@@ -3205,16 +3250,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AlmaLinux OS Kitten 10 Now Available For Testing, Derived From CentOS Stream 10]]></title>
-        <id>https://www.phoronix.com/news/AlmaLinux-Kitten-10</id>
-        <link href="https://www.phoronix.com/news/AlmaLinux-Kitten-10"/>
-        <updated>2024-10-22T16:15:03.000Z</updated>
-        <summary type="html"><![CDATA[AlmaLinux Kitten 10 has been introduced today as what will be the next iteration of this community-based, RHEL/CentOS-derived enterprise-grade Linux distribution. AlmaLinux Kitten 10 is tracking the CentOS Stream 10 sources for what will eventually become the base of Red Hat Enterprise Linux 10...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Here's a free god sim from the Shotgun King devs in which you Build The Sun]]></title>
         <id>https://www.rockpapershotgun.com/heres-a-free-god-sim-from-the-shotgun-king-devs-in-which-you-build-the-sun</id>
         <link href="https://www.rockpapershotgun.com/heres-a-free-god-sim-from-the-shotgun-king-devs-in-which-you-build-the-sun"/>
@@ -3238,16 +3273,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System76 Thelio Astra Reviewed: High-End ARM64 Developer Desktop]]></title>
-        <id>https://www.phoronix.com/review/system76-thelio-astra</id>
-        <link href="https://www.phoronix.com/review/system76-thelio-astra"/>
-        <updated>2024-10-22T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[System76 is announcing one of their most innovative and interesting products going back to their Launch Configurable Keyboard and HP Dev One collaboration: the System76 Thelio Astra. The Thelio Astra is a high-end ARM64 desktop system geared for developers with a focus on AI / STEM / self-driving technologies and powered by Ampere Computing and NVIDIA.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Netflix's "Team Blue" of Halo, Overwatch and God Of War vets close without a single game to their name]]></title>
         <id>https://www.rockpapershotgun.com/netflixs-team-blue-of-halo-overwatch-and-god-of-war-vets-close-without-a-single-game-to-their-name</id>
         <link href="https://www.rockpapershotgun.com/netflixs-team-blue-of-halo-overwatch-and-god-of-war-vets-close-without-a-single-game-to-their-name"/>
@@ -3256,16 +3281,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA R565 Linux Driver Beta Brings Improvements For Wayland, DMA-BUF & VKD3D]]></title>
-        <id>https://www.phoronix.com/news/NVIDIA-565.57.01-Linux-Beta</id>
-        <link href="https://www.phoronix.com/news/NVIDIA-565.57.01-Linux-Beta"/>
-        <updated>2024-10-22T13:30:49.000Z</updated>
-        <summary type="html"><![CDATA[The first NVIDIA R565 series Linux driver beta was released this morning in the form of the NVIDIA 565.57.01 driver release...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4525,17 +4540,6 @@ Or maybe not. Lonely Mountains: Snow Riders is the frosty followup to the mounta
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trip is a pleasant train journey with normal folk, like this unblinking child who speaks only in dark symbols]]></title>
-        <id>https://www.rockpapershotgun.com/trip-is-a-pleasant-train-journey-with-normal-folk-like-this-unblinking-child-who-speaks-only-in-dark-symbols</id>
-        <link href="https://www.rockpapershotgun.com/trip-is-a-pleasant-train-journey-with-normal-folk-like-this-unblinking-child-who-speaks-only-in-dark-symbols"/>
-        <updated>2024-10-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Normal games for normal people, that's what everyone loves. Cosy experiences where nothing goes wrong and you have absolutely zero things to investigate and no otherworldly mysteries to worry about. It may shock you to learn that we were recently duped by "normal" gardening sim Grunn, which was not normal at all. But don't worry, it won't happen again. Today we bring you the ordinary and not-one-bit-suspicious Trip, which sees players wandering from carriage to carriage, chatting pleasantly with passengers during a long train journey. How long? Let me look at the timetable here, let's see... "Forever," it says. Hm. Must be a misprint.
-Read more]]></summary>
-        <author>
-            <name>Brendan Caldwell</name>
         </author>
     </entry>
     <entry>
