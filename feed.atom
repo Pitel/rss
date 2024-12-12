@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-12T01:05:08.938Z</id>
+    <id>urn:2024-12-12T02:59:07.941Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-12-12T01:05:08.938Z</updated>
+    <updated>2024-12-12T02:59:07.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Flutter 3.27 a Dart 3.6]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/flutter-3.27-a-dart-3.6</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/flutter-3.27-a-dart-3.6"/>
-        <updated>2024-12-12T00:55:17.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 3.27 frameworku Flutter (Wikipedie) pro vývoj mobilních, webových i desktopových aplikací a nová verze 3.6 souvisejícího programovacího jazyka Dart (Wikipedie).]]></summary>
+        <title type="html"><![CDATA[MagPi 148]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/magpi-148</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/magpi-148"/>
+        <updated>2024-12-12T02:45:10.000Z</updated>
+        <summary type="html"><![CDATA[Prosincové číslo časopisu MagPi od nakladatelství Raspberry Pi zdarma ke čtení: MagPi 148 (pdf).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
         </author>
@@ -19,7 +19,7 @@
         <title type="html"><![CDATA[Most Valuable Cards from “Terastal Festival ex,” Surprisingly #1 is Not a Secret Rare!]]></title>
         <id>155515</id>
         <link href="https://www.pokebeach.com/forums/threads/most-valuable-cards-from-%E2%80%9Cterastal-festival-ex-%E2%80%9D-surprisingly-1-is-not-a-secret-rare.155515/"/>
-        <updated>2024-12-12T00:25:13.000Z</updated>
+        <updated>2024-12-12T02:26:17.000Z</updated>
         <summary type="html"><![CDATA[Terastal Festival ex released in Japan last week!
 I’ve gathered the average card prices from auction websites. These prices give us a clue of the initial interest in these cards. These are the most valuable cards in the set as of today:
 
@@ -30,23 +30,46 @@ Umbreon ex...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Výpočetní ověření Collatzovy domněnky až do velikosti 2⁶⁸]]></title>
-        <id>www.root.cz-text-17416</id>
-        <link href="https://www.root.cz/clanky/vypocetni-overeni-collatzovy-domnenky-az-do-velikosti-2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-11T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Collatzova domněnka, fascinující matematický problém, zůstává nevyřešená. V roce 2020 byla ale výpočetně ověřena pro všechna čísla až do velikosti 2⁶⁸. Ukážeme si, jak toho bylo dosaženo.]]></summary>
+        <title type="html"><![CDATA[Linux Fixes Regression That Broke File Names With ❤️ & Other Special Characters]]></title>
+        <id>https://www.phoronix.com/news/Linux-Reverts-Special-Char-Uni</id>
+        <link href="https://www.phoronix.com/news/Linux-Reverts-Special-Char-Uni"/>
+        <updated>2024-12-12T02:11:01.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds took to reverting some code tonight within the mainline Linux kernel that inadvertently had broken support having filenames with ❤️ and other special Unicode characters in filenames when on file-systems with case-folding (optional case insensitive file/folder name) support...]]></summary>
         <author>
-            <name>redakce@root.cz (Root.cz: David Bařina)</name>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Využití serializačního formátu MessagePack v Pythonu]]></title>
-        <id>www.root.cz-text-17468</id>
-        <link href="https://www.root.cz/clanky/vyuziti-serializacniho-formatu-messagepack-v-pythonu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-11T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Se serializačním formátem nazvaným MessagePack jsme se již na stránkách Roota jednou setkali. Dnes si ukážeme, jak se tento formát používá v jazyku Python, a to včetně serializace N-dimenzionálních polí knihovny NumPy.]]></summary>
+        <title type="html"><![CDATA[Nintendo Expands Switch Online's NES And Game Boy Color Library With Two More Classics]]></title>
+        <id>https://www.nintendolife.com/#article-175714</id>
+        <link href="https://www.nintendolife.com/news/2024/12/nintendo-expands-switch-onlines-nes-and-game-boy-color-library-with-two-more-classics"/>
+        <updated>2024-12-12T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Celebrate the history of Tetris.
+To celebrate the 40th anniversary of Tetris this year, Nintendo has added Tetris (NES) and Tetris DX (Game Boy Color) to the Switch Online service this week.
+As part of this, Tetris creator Alexey Pajitnov has also shared a special message - thanking fans for being part of the Tetris legacy for all of this time:
+Read the full article on nintendolife.com]]></summary>
         <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenZFS 2.2.7 Released With Linux 6.12 Support, Many Fixes]]></title>
+        <id>https://www.phoronix.com/news/OpenZFS-2.2.7-Released</id>
+        <link href="https://www.phoronix.com/news/OpenZFS-2.2.7-Released"/>
+        <updated>2024-12-12T01:18:57.000Z</updated>
+        <summary type="html"><![CDATA[While we are awaiting the release of OpenZFS 2.3 that has been seeing release candidates since early October, OpenZFS 2.2.7 is out today as the newest stable release of this ZFS file-system implementation for Linux and FreeBSD systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter 3.27 a Dart 3.6]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/flutter-3.27-a-dart-3.6</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/flutter-3.27-a-dart-3.6"/>
+        <updated>2024-12-12T00:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 3.27 frameworku Flutter (Wikipedie) pro vývoj mobilních, webových i desktopových aplikací a nová verze 3.6 souvisejícího programovacího jazyka Dart (Wikipedie).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -871,16 +894,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ptyxis možná bude výchozím terminálem i v Ubuntu]]></title>
-        <id>www.root.cz-actuality-46739</id>
-        <link href="https://www.root.cz/zpravicky/ptyxis-mozna-bude-vychozim-terminalem-i-v-ubuntu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-11T18:12:16.000Z</updated>
-        <summary type="html"><![CDATA[V září jsme o novém emulátoru terminálu Ptyxis GNOME vývojáře Christiana Hergerta psali v Softwarové sklizni. Na konci října vydaná Fedora 41 už jej používá jako výchozí a ke stejnému kroku se podle všeho blíží Ubuntu, minimálně jej zvažuje.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[5 Things I Love And 4 Things I Loathe About Indiana Jones And The Great Circle]]></title>
         <id>1851718447</id>
         <link href="https://kotaku.com/indiana-jones-great-circle-bethesda-locks-doors-breath-1851718447"/>
@@ -1052,16 +1065,6 @@ To coun…]]></summary>
         <summary type="html"><![CDATA[Going back to April 2024, SiFive announced the HiFive Premier P550 as an interesting RISC-V developer board to succeed their HiFive Unleashed that was a nice little RISC-V board. There were delays in shipping the HiFive Premier P550 but they have been making progress and are now ready to ship Ubuntu 24.04 LTS pre-installed on this RISC-V board. They have also lowered the pricing on these RISC-V boards...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenMandriva ROME 24.12 nabízí jádro 6.12, KDE Plasma 6 či Chromium včetně JPEG XL a GIMP 3.0]]></title>
-        <id>www.root.cz-actuality-46738</id>
-        <link href="https://www.root.cz/zpravicky/openmandriva-rome-24-12-nabizi-jadro-6-12-kde-plasma-6-ci-chromium-vcetne-jpeg-xl-a-gimp-3-0/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-11T16:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Předvánoční verze OpenMandrivy je zde a s ní i plný přechod této distribuce na Qt6 prostředí. Vedle Plasmy 5, aktuálního GNOME či COSMIC 1.0 alpha nabízí verze 24.12 hlavně čtyřkombinaci KDE Plasma 6.2.4 + KDE Applications 24.08.3 + KDE Frameworks 6.8.0 + Qt 6.8.0, případně pro méně zmlsané zájemce o Qt6 také novou verzi desktopu LXQt, již na bázi této verze Qt.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -1575,16 +1578,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Čtyřdenní kurz Docker s Kubernetes dotovaný Úřadem práce]]></title>
-        <id>www.root.cz-actuality-46089</id>
-        <link href="https://www.root.cz/zpravicky/ctyrdenni-kurz-docker-s-kubernetes-dotovany-uradem-prace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-11T09:02:56.000Z</updated>
-        <summary type="html"><![CDATA[Zajímá vás moderní přístup ke službám a témata jako Docker, kontejnery, cloud, virtualizace a Kubernetes? Připravili jsme pro vás čtyřdenní kurz Docker s Kubernetes, na který můžete získat dotaci až 82 % od Úřadu práce. Kontaktujte naši kolegyni pavla.hettnerova@iinfo.cz. K dotaci se musíte přihlásit do 19. prosince.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Piracy Shield Blacks Out Tech News Site by Blocking Another CDN IP]]></title>
         <id>https://torrentfreak.com/?p=261399</id>
         <link href="https://torrentfreak.com/piracy-shield-blacks-out-tech-news-after-blocking-another-cdn-ip-241211/"/>
@@ -1743,26 +1736,6 @@ Wear Tiles Version 1.5.0-alpha05
 Webkit Version 1.13.0-alpha02]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenWrt přechází z opkg na balíčky apk – jaký je v tom vlastně rozdíl?]]></title>
-        <id>www.root.cz-text-17465</id>
-        <link href="https://www.root.cz/clanky/openwrt-prechazi-z-opkg-na-balicky-apk-jaky-je-v-tom-vlastne-rozdil/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Projekt OpenWrt nedávno oznámil přechod ze stávajícího formátu balíčků opkg na apk. Co to znamená pro běžného uživatele? Jak se tyto dva formáty a nástroje s nimi pracující vlastně liší?]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Michal Hrušecký)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Softwarová sklizeň (11. 12. 2024): rychlé mazání souborů ve více vláknech]]></title>
-        <id>www.root.cz-text-17466</id>
-        <link href="https://www.root.cz/clanky/softwarova-sklizen-11-12-2024-rychle-mazani-souboru-ve-vice-vlaknech/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Pravidelná středeční sonda do světa software. Dnes se společně podíváme na nástroj pro správu ACME certifikátů, vytvoříme animaci pro web a nakonec si budeme řídit zabezpečení síťového provozu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
         </author>
     </entry>
     <entry>
@@ -1978,16 +1951,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nový firmware Dasharo pro MSI PRO Z790-P a PRO Z690-A řeší nejen stabilitu CPU Raptor Lake]]></title>
-        <id>www.root.cz-actuality-46737</id>
-        <link href="https://www.root.cz/zpravicky/novy-firmware-dasharo-pro-msi-pro-z790-p-a-pro-z690-a-resi-nejen-stabilitu-cpu-raptor-lake/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T18:25:45.000Z</updated>
-        <summary type="html"><![CDATA[Už i otevřený firmware pro základní desku MSI PRO Z790-P WIFI přináší v nové verzi opravu řešící nestabilitu běhu posledních generací CPU Intel Raptor Lake. Nechybí podpora provádění aktualizací a migrace nastavení či aktualizace mikrokódu CPU rodin Alder Lake i Raptor Lake (aktuálně používá verzi 0×12B), dále podpora dual TPM či nové konfigurační menu pro CPU.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ptyxis Becomes Ubuntu's Recommended Replacement To GNOME Terminal]]></title>
         <id>https://www.phoronix.com/news/Ubuntu-Ptyxis-Recommended</id>
         <link href="https://www.phoronix.com/news/Ubuntu-Ptyxis-Recommended"/>
@@ -2034,16 +1997,6 @@ Every ship has a bunch of broken modules. Some are easy to understand, like Fuel
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linuxový subsystém perf zvedá limit na 4096 CPU jader]]></title>
-        <id>www.root.cz-actuality-46736</id>
-        <link href="https://www.root.cz/zpravicky/linuxovy-subsystem-perf-zveda-limit-na-4096-cpu-jader/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T17:48:02.000Z</updated>
-        <summary type="html"><![CDATA[Počet jader moderních CPU stále roste a s ním musí i příslušné limity. Zatímco s AMD EPYC se zásadní problémy nedějí – i přes současné 96jádrové a budoucí 128jádrové procesory nepředstavoval při počtu možných CPU socketů stávající limit 2048 jader žádný problém, u Intelu je to jiné. V rámci platformy Xeonů Granite Rapids lze stavět až 32socketové systémy, což u 128jádrového / 256vláknového Xeonu 6980P už zvýšení limitu vyžaduje.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -2118,19 +2071,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omega 6: The Triangle Stars Lands February Release Date]]></title>
-        <id>https://www.nintendolife.com/#article-175629</id>
-        <link href="https://www.nintendolife.com/news/2024/12/omega-6-the-triangle-stars-lands-february-release-date"/>
-        <updated>2024-12-10T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Based in Takaya Imamura's manga.
-Omega 6: The Triangle Stars, the adventure game based on Takaya Imamura's manga of the same name, finally has a Western release date
-Launching on the Switch on 28th February 2025 (thanks IGN!), Omega 6 blends the first-person adventure genre with RPG elements. You'll follow two humanoids who are searching for a new planet where humans will be able to live. However, a planetary loan stands in the way of their success.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2258,16 +2198,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Komunitní setkání CSNOG 2025 má program a otevřené registrace]]></title>
-        <id>www.root.cz-actuality-46735</id>
-        <link href="https://www.root.cz/zpravicky/komunitni-setkani-csnog-2025-ma-program-a-otevrene-registrace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T14:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Nový zákon o kybernetické bezpečnosti, Aktivity ČTÚ v roce 2025, Timeseries Troubles: Jak (ne)počítat statistiky nebo Inovace praktické výuky – Virtuální laboratoře NetLAB FEL ČVUT – to jsou jen některé z názvů přednášek, na které se mohou těšit účastníci osmého komunitního setkání nejen českých a slovenských správců sítí CSNOG 2025 (21. a 22. ledna 2025, Zlín).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Yes, Broken Weapons Are Useful In Disney Dreamlight Valley]]></title>
         <id>1851716840</id>
         <link href="https://kotaku.com/disney-dreamlight-valley-storybook-vale-broken-weapons-1851716840"/>
@@ -2289,16 +2219,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BIRD 2.16 optimalizuje BMP a vylepšuje CLI]]></title>
-        <id>www.root.cz-actuality-46734</id>
-        <link href="https://www.root.cz/zpravicky/bird-2-16-optimalizuje-bmp-a-vylepsuje-cli/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T13:46:46.000Z</updated>
-        <summary type="html"><![CDATA[Tým projektu BIRD vydává novou stabilní verzi 2.16, ve které přibyla výrazná optimalizace BMP (BGP Monitoring Protocol) a několik vylepšení CLI. BIRD nyní také umí validovat BGP AS Path podle RPKI ASPA záznamů (jak ROA ověřuje zdroj, tak ASPA ověřuje cestu).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Vilém Sládek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[If the demo for this magical Scandinavian skiing game is so "serene" then why do I die constantly]]></title>
         <id>https://www.rockpapershotgun.com/if-the-demo-for-this-magical-scandinavian-skiing-game-is-so-serene-then-why-do-i-die-constantly</id>
         <link href="https://www.rockpapershotgun.com/if-the-demo-for-this-magical-scandinavian-skiing-game-is-so-serene-then-why-do-i-die-constantly"/>
@@ -2308,16 +2228,6 @@ If you think that's a desperately cavalier and confusing way to run a news secti
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus TUF GAMING X670E PLUS, další AM5 deska s podporou senzorů v jádru Linux 6.14]]></title>
-        <id>www.root.cz-actuality-46733</id>
-        <link href="https://www.root.cz/zpravicky/asus-tuf-gaming-x670e-plus-dalsi-am5-deska-s-podporou-senzoru-v-jadru-linux-6-14/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T13:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Dalším kouskem hardwaru. jemuž se dostává podpory v rámci ovladače asus-ec-sensors, je Asus TUF GAMING X670E PLUS. Této vyšší model pro platformu AMD AM5 (aktuálně stále v prodeji kolem 7 až 8 tisíc Kč) tak v linuxovém jádru získává podporu čtení informací ze senzorů desky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -2462,36 +2372,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zabbix 7.2: nová verze a pozvánka na tematické webináře]]></title>
-        <id>www.root.cz-actuality-46731</id>
-        <link href="https://www.root.cz/zpravicky/zabbix-7-2-nova-verze-a-pozvanka-na-tematicke-webinare/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T08:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Nová verze monitorovacího nástroje Zabbix 7.2 byla právě vydána. Tato verze přináší mnoho zajímavých novinek a vylepšení, která rozšiřují možnosti monitorování a zjednodušují správu IT prostředí. Mezi hlavní novinky patří:]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Tomáš Heřmánek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Správce služeb GNU Shepherd 1.0 vydán jako alternativa k systemd]]></title>
-        <id>www.root.cz-actuality-46732</id>
-        <link href="https://www.root.cz/zpravicky/spravce-sluzeb-gnu-shepherd-1-0-vydan-jako-alternativa-k-systemd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-10T07:22:07.000Z</updated>
-        <summary type="html"><![CDATA[GNU Shepherd (původně GNU dmd) je správce služeb pro systémové i uživatelské služby, který používá Guix a který se opírá o Guile Scheme. Vývojáři nyní po 21 letech vývoje vydali verzi 1.0 a mělo by jít o řešení pro uživatele, kteří nejsou například spokojeni s initem z projektu systemd.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU Shepherd 1.0.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/gnu-shepherd-1.0.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/gnu-shepherd-1.0.0"/>
-        <updated>2024-12-10T04:33:13.000Z</updated>
-        <summary type="html"><![CDATA[GNU Shepherd (Wikipedie) dospěl do verze 1.0.0. Po 21 letech. Jedná se o init systém a správce služeb napsaný v Guile Scheme. Původně se jmenoval GNU dmd (Daemon managing Daemons). Používá se v systému GNU Guix.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shiren the Wanderer: The Mystery Dungeon Of Serpentcoil Island Review: a traditional roguelite heavy on charm but light on agency]]></title>
         <id>https://www.rockpapershotgun.com/shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-review</id>
         <link href="https://www.rockpapershotgun.com/shiren-the-wanderer-the-mystery-dungeon-of-serpentcoil-island-review"/>
@@ -2500,26 +2380,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[640K by mělo stačit každému: skutečně?]]></title>
-        <id>www.root.cz-text-17464</id>
-        <link href="https://www.root.cz/clanky/640k-by-melo-stacit-kazdemu-skutecne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-09T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Billu Gatesovi se připisuje výrok „640K ought to be enough for anybody“, který ovšem pravděpodobně nikdy neřekl. Na počítačích IBM PC se skutečně dlouhou dobu bojovalo s omezenými možnostmi adresování většího paměťového rozsahu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bezeztrátové formáty obrazu: GIF, PNG a JPEG-LS]]></title>
-        <id>www.root.cz-text-17428</id>
-        <link href="https://www.root.cz/clanky/bezeztratove-formaty-obrazu-gif-png-a-jpeg-ls/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-09T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Dnes se podíváme, jak fungují bezeztrátové nebo téměř bezeztrátové formáty obrazu. K tomu bude ale nejprve třeba seznámit se s tím, co to jsou prediktory. Poté si podrobně rozebereme formáty GIF, PNG a JPEG-LS.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Bařina)</name>
         </author>
     </entry>
     <entry>
@@ -2542,16 +2402,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kontroverzní Recall ve Windows 11 již také pro AMD a Intel Copilot+PC]]></title>
-        <id>www.root.cz-actuality-46730</id>
-        <link href="https://www.root.cz/zpravicky/kontroverzni-recall-ve-windows-11-jiz-take-pro-amd-a-intel-copilot-pc/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-09T20:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Recall, několikrát odvolaný AI pomocník ve Windows 11, který zaznamenává vše, co uživatel ve Windows dělá, vyšel v preview verzi pro Qualcomm Snapdragon před dvěma týdny.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -2731,16 +2581,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google Messages nepoužívá vždy šifrování]]></title>
-        <id>www.root.cz-actuality-46729</id>
-        <link href="https://www.root.cz/zpravicky/google-messages-nepouziva-vzdy-sifrovani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-09T14:32:28.000Z</updated>
-        <summary type="html"><![CDATA[Google Messages je aplikace pro Android, která umožňuje komunikovat textovými zprávami pomocí SMS a RCS (Rich Communication Services). Na stránce v Google Play se tvrdí, že zprávy jsou zašifrovány E2E. To však není podle Johna Grubera přesné.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Which Marvel Rivals Characters Should You Start With?]]></title>
         <id>1851716341</id>
         <link href="https://kotaku.com/marvel-rivals-characters-beginner-starting-squirrel-gir-1851716341"/>
@@ -2846,16 +2686,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Neplaťte si IT kurzy sami, využijte dotace od EU, ať jste zaměstnanec nebo podnikatel]]></title>
-        <id>www.root.cz-text-17463</id>
-        <link href="https://www.root.cz/clanky/neplatte-si-it-kurzy-sami-vyuzijte-dotace-od-eu-at-jste-zamestnanec-nebo-podnikatel/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-09T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Přijďte k nám na odborná školení pořádaná serverem Root.cz. Přijďte se vzdělávat a rozvíjet své dovednosti. Můžete získat dotaci až 82%, ať jste zaměstnanec, podnikatel, nezaměstnaný nebo třeba student.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ASUS TUF GAMING X670E PLUS Seeing Linux Sensors Support]]></title>
         <id>https://www.phoronix.com/news/ASUS-X670E-PLUS-EC-Sensors</id>
         <link href="https://www.phoronix.com/news/ASUS-X670E-PLUS-EC-Sensors"/>
@@ -2898,16 +2728,6 @@ After the last site maintenance (I guess April 13 2024?) homepage RSS feed stopp
 Before maintenance, I've set up an RSS feed to only fetch homepage news, and not forums, and it worked...]]></summary>
         <author>
             <name>piyuv</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi 500: počítač v klávesnici a monitor]]></title>
-        <id>www.root.cz-actuality-46728</id>
-        <link href="https://www.root.cz/zpravicky/raspberry-pi-500-pocitac-v-klavesnici-a-monitor/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-09T11:12:12.000Z</updated>
-        <summary type="html"><![CDATA[Dnes Eben Upton oznámil Raspberry Pi 500, tedy Raspberry Pi 5 s 8 GB RAM uvnitř klávesnice, podobně jako bylo Raspberry Pi 400. Navíc byl představen i Raspberry Pi Monitor 15,6" Full HD 1080p IPS LCD s vestavěnými reproduktory.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -2957,26 +2777,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hra zdarma na Steamu Pankapu]]></title>
-        <id>www.root.cz-actuality-46727</id>
-        <link href="https://www.root.cz/zpravicky/hra-zdarma-na-steamu-pankapu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-09T09:11:44.000Z</updated>
-        <summary type="html"><![CDATA[Na Steamu je možné získat zdarma hru Pankapu. Jde o akční skákačku ve světě snů dítěte Djaha'rell. Bojujete proti jeho nočním můrám.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zabbix: monitorujte svou infrastrukturu a mějte ji pod kontrolou (školení)]]></title>
-        <id>www.root.cz-actuality-44644</id>
-        <link href="https://www.root.cz/zpravicky/zabbix-monitorujte-svou-infrastrukturu-a-mejte-ji-pod-kontrolou-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-09T08:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Provozujete vlastní infrastrukturu a chcete vědět, v jakém stavu se v každém okamžiku nachází? Zabbix vám umožní monitorovat infrastrukturu z pohledu sítí, tak i z pohledu operačních systémů až po aplikace. Přináší ucelené monitorovací řešení. Naučíme vás konfigurovat monitorovací systém Zabbix od základních kroků až po složité nízkoúrovňové objevování monitorovaných objektů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Maw: what's new in PC games this week?]]></title>
         <id>https://www.rockpapershotgun.com/the-maw-whats-new-in-pc-games-this-week-24</id>
         <link href="https://www.rockpapershotgun.com/the-maw-whats-new-in-pc-games-this-week-24"/>
@@ -3016,26 +2816,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Přehled listopadových vydání Jaderných novin: stav vydání jádra a seznam článků týkajících se jádra.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: zranitelnost v Google Chrome umožňuje vzdálené spuštění kódu]]></title>
-        <id>www.root.cz-text-17461</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-zranitelnost-v-google-chrome-umoznuje-vzdalene-spusteni-kodu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-08T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V dnešním dílu bezpečnostních postřehů se podíváme na nebezpečnou zranitelnost v Google Chrome, na varování FBI před AI, zneužívání MMS zpráv nebo novou taktiku útočníků určenou k oklamání antivirů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: CSIRT.CZ)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Téma vzhledu Debianu 13, plán vydání Ubuntu Touch 24.04]]></title>
-        <id>www.root.cz-text-17456</id>
-        <link href="https://www.root.cz/clanky/tema-vzhledu-debianu-13-plan-vydani-ubuntu-touch-24-04/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-08T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Bylo odhaleno výchozí téma vzhledu nadcházejícího Debianu 13. Tým UBports zveřejnil informace o tom, jak projekt směřuje k vydání verze systému postaveného na Ubuntu 24.04. Vyšla nová verze desktopového prostředí Cinnamon 6.4.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
         </author>
     </entry>
     <entry>
@@ -3126,16 +2906,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.13-rc2 To Workaround Buggy Intel Lunar Lake Leading To Responsiveness Issues]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.13-rc2-x86-urgent</id>
-        <link href="https://www.phoronix.com/news/Linux-6.13-rc2-x86-urgent"/>
-        <updated>2024-12-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sent out this morning were the "x86/urgent" updates ahead of Linux 6.13-rc2 due out later today. There are x86 fixes for both Intel and AMD processors this week. Most notable though is fixing some buggy Intel Core Ultra "Lunar Lake" behavior that could lead to responsiveness/delay issues due to the MONITOR implementation being buggy/broken...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘Historic Decision’ to Imprison Pirate IPTV User Smells of Propaganda]]></title>
         <id>https://torrentfreak.com/?p=261293</id>
         <link href="https://torrentfreak.com/historic-decision-to-imprison-pirate-iptv-user-smells-of-propaganda-241208/"/>
@@ -3144,16 +2914,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu flash-kernel Package Looks To Drop Support For Old ARM Hardware]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-flash-Kernel-Drop-Old</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-flash-Kernel-Drop-Old"/>
-        <updated>2024-12-08T11:51:00.000Z</updated>
-        <summary type="html"><![CDATA[The flash-kernel package is used for putting the Linux kernel image and initramfs in the boot location for embedded devices that aren't able to boot directly from /boot. The flash-kernel package is particularly important for older ARM hardware while now Ubuntu maintainers are looking at dropping patches they currently carry for a number of aging ARM platforms...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3194,16 +2954,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[HP Wolf Security nabízí ochranu firemních počítačů před fyzickými kybernetickými útoky. ČSÚ: Tržby v ICT sektoru loni přesáhly bilion Kč. Cloudový trh nejen roste, ale tempo se navíc ještě zrychluje. Nasazení AI vyžaduje týmové úsilí. Jak řešit nedostatek dovedností v kyberbezpečnosti v malých a středně velkých podnicích.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nová verze OBS Studio 31.0, ještě lepší ovladač AMD P-State v jádru 6.14]]></title>
-        <id>www.root.cz-text-17462</id>
-        <link href="https://www.root.cz/clanky/nova-verze-obs-studio-31-0-jeste-lepsi-ovladac-amd-p-state-v-jadru-6-14/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-07T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pravidelný nedělní souhrn toho, co se do zpráviček nevešlo. Vývojová verze Wine 10.0-rc1, týden v KDE a nejen vylepšené umísťování oken, OBS Studio bez podpory NVENC pro Nvidia Kepler a Maxwell.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -3381,16 +3131,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rustls je rychlejší než OpenSSL a BoringSSL na ARM64]]></title>
-        <id>www.root.cz-actuality-46726</id>
-        <link href="https://www.root.cz/zpravicky/rustls-je-rychlejsi-nez-openssl-a-boringssl-na-arm64/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-06T14:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Knihovna Rustls je moderní implementace TLS (Transport Layer Security) v Rustu a již nedávné testy na procesoru Intel ukázaly, že je rychlejší než tradiční OpenSSL a BoringSSL od Google.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Indiana Jones And The Great Circle review: a grand adventure that keeps faith with the movies]]></title>
         <id>https://www.rockpapershotgun.com/indiana-jones-and-the-great-circle-review-a-grand-adventure-that-keeps-faith-with-the-movies</id>
         <link href="https://www.rockpapershotgun.com/indiana-jones-and-the-great-circle-review-a-grand-adventure-that-keeps-faith-with-the-movies"/>
@@ -3431,26 +3171,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla představila nové logo a vizuální identitu]]></title>
-        <id>www.root.cz-actuality-46725</id>
-        <link href="https://www.root.cz/zpravicky/mozilla-predstavila-nove-logo-a-vizualni-identitu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-06T11:31:02.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla se spojila s se společností Jones Knowles Ritchie (JKR) a přišla s novou vizuální identitou a logem. Naše nová strategie a značka ztělesňují naši roli lídra v oblasti digitálních práv a inovací, který dává přednost lidem před ziskem prostřednictvím produktů chránících soukromí, vývojářských nástrojů s otevřeným zdrojovým kódem a úsilí o budování komunity, vysvětluje svou novou tvář Mozilla.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro 6.12 je oficiálně LTS jádrem s dlouhou podporou]]></title>
-        <id>www.root.cz-actuality-46724</id>
-        <link href="https://www.root.cz/zpravicky/jadro-6-12-je-oficialne-lts-jadrem-s-dlouhou-podporou/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-06T11:27:09.000Z</updated>
-        <summary type="html"><![CDATA[Jádro 6.12 se včera stalo oficiálně LTS jádrem s dlouhou podporou. Podpora je zatím plánována jen na dva roky do prosince 2026. Pak záleží na podpoře a zájmu dodavatelů a výrobců hardware i software.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ACE Seizes Sports Piracy Domains including Crackstream and Streameast Clones]]></title>
         <id>https://torrentfreak.com/?p=261211</id>
         <link href="https://torrentfreak.com/ace-seizes-sports-piracy-domains-including-crackstream-and-streameast-clones-241206/"/>
@@ -3459,36 +3179,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keycloak SSO: efektivní správa uživatelů a bezpečné přihlášení (školení)]]></title>
-        <id>www.root.cz-actuality-46705</id>
-        <link href="https://www.root.cz/zpravicky/keycloak-sso-efektivni-sprava-uzivatelu-a-bezpecne-prihlaseni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-06T08:41:28.000Z</updated>
-        <summary type="html"><![CDATA[Keycloak je Identity provider (IDP) a Single Sign On (SSO). Umožní vám spravovat uživatele na jednom místě a vytvořit single sign on – jediné místo pro přihlášení uživatelů. Už nemusíte psát jméno a heslo do každé aplikace zvlášť. Připravili jsme pro vás školení Keycloak SSO, které proběhne 10. a 11. února a zúčastnit se ho můžete online.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI představil chytřejší a rychlejší LLM o1 a o1 pro za dražší předplatné]]></title>
-        <id>www.root.cz-actuality-46723</id>
-        <link href="https://www.root.cz/zpravicky/openai-predstavil-novy-llm-o1-a-o1-pro-za-drazsi-predplatne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-06T08:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Včera na akci 12 days of OpenAI představil CEO OpenAI Sam Altman nový velký jazykový model o1. Měl by být rychlejší a „chytřejší“ než o1-preview. Zároveň byl představen ještě lepší o1 pro. K tomu budete však potřebovat předplatné ChatGPT Pro za 200 dolarů měsíčně.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let’s Encrypt ukončí podporu OCSP postupně do poloviny roku 2025]]></title>
-        <id>www.root.cz-actuality-46722</id>
-        <link href="https://www.root.cz/zpravicky/let-s-encrypt-ukonci-podporu-ocsp-postupne-do-poloviny-roku-2025/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-06T08:21:36.000Z</updated>
-        <summary type="html"><![CDATA[Certifikační autorita Let's Encrypt už delší dobu hovoří o tom, že chce ukončit podporu protokolu OCSP pro ověřování platnosti jednotlivých certifikátů. Původně bylo v plánu podporu ukončit v průběhu letošního podzimu, nejpozději na konci roku. Nakonec se vše protáhlo a teprve teď je k dispozici konkrétní harmonogram.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -3544,16 +3234,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modulární notebooky Framework lze oficiálně objednat v Česku]]></title>
-        <id>www.root.cz-actuality-46721</id>
-        <link href="https://www.root.cz/zpravicky/modularni-notebooky-framework-lze-oficialne-objednat-v-cesku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-05T21:45:37.000Z</updated>
-        <summary type="html"><![CDATA[Tuzemští zájemci o notebooky Framework se konečně dočkali, modulární notebooky lze nyní objednat přímo ze stránek výrobce i v České republice a nově také v Bulharsku, Maďarsku a Rumunsku.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Cikáda)</name>
         </author>
     </entry>
     <entry>
@@ -3833,16 +3513,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Alpine Linux 3.21.0 přidává podporu architektury LoongArch64]]></title>
-        <id>www.root.cz-actuality-46720</id>
-        <link href="https://www.root.cz/zpravicky/alpine-linux-3-21-0-pridava-podporu-architektury-loongarch64/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-05T16:22:54.000Z</updated>
-        <summary type="html"><![CDATA[Po půl roce od předchozího vydání byla uvolněna nová pravidelná verze linuxové distribuce Alpine Linux, tentokrát s označením 3.21.0. Hlavní novinkou je přidání podpory pro architekturu LoongArch64, což je procesorová architektura kompatibilní s MIPS vyvíjená společností Loongson, jejíž vývojářský tým se na podpoře v Alpine podílel.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Final Fantasy creator's artful RPG Fantasian Neo Dimension launches on PC today]]></title>
         <id>https://www.rockpapershotgun.com/final-fantasy-creators-artful-rpg-fantasian-neo-dimension-launches-on-pc-today</id>
         <link href="https://www.rockpapershotgun.com/final-fantasy-creators-artful-rpg-fantasian-neo-dimension-launches-on-pc-today"/>
@@ -3863,26 +3533,6 @@ Here’s a handy breakdown of the issue by X user Blue Stigma, but briefly: hits
 Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds je proti zavedení úrovní architektury x86-64 v1–v4 do jádra]]></title>
-        <id>www.root.cz-actuality-46719</id>
-        <link href="https://www.root.cz/zpravicky/linus-torvalds-je-proti-zavedeni-urovni-architektury-x86-64-v1-v4-do-jadra/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-05T13:38:05.000Z</updated>
-        <summary type="html"><![CDATA[Arnd Bergmann včera navrhl do jádra podporu pro úrovně architektury x86–64 v1 – v4. V současnosti je možné v jádře vybrat AMD K8, Intel P4, Intel Core 2, Intel Atom a obecný x86–64.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Podmínku TPM 2.0 pro Windows 11 nepůjde obejít]]></title>
-        <id>www.root.cz-actuality-46718</id>
-        <link href="https://www.root.cz/zpravicky/podminku-tpm-2-0-pro-windows-11-nepujde-obejit/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-05T13:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 již od začátku požaduje TPM 2.0. Nicméně tento požadavek jde již nějakou dobu obejít pomocí vytvoření klíčů BypassTPMCheck=0x1, BypassRAMCheck=0x1 a BypassSecureBootCheck=0x1 v registru HKLM\SYSTEM\Setup\LabConfig. V úterý však Steven Hosking na blogu napsal, že podmínku TPM 2.0 pro Windows 11 již obejít nepůjde.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
