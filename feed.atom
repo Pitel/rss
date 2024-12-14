@@ -1,10 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-14T10:12:38.382Z</id>
+    <id>urn:2024-12-14T12:23:41.686Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-12-14T10:12:38.382Z</updated>
+    <updated>2024-12-14T12:23:41.686Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The RPS Advent Calendar 2024, December 14th]]></title>
+        <id>https://www.rockpapershotgun.com/the-rps-advent-calendar-2024-december-14th</id>
+        <link href="https://www.rockpapershotgun.com/the-rps-advent-calendar-2024-december-14th"/>
+        <updated>2024-12-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Squeezing through the advent calendar window into a sodden glade of flower and coral, you spy a curious organism on a ledge in the shadows. It’s a video game of some description, though it looks like a squirrel, with frantic white eyes. What’s it doing? Ah, whoops, you’ve startled it. Better follow it offscreen.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>RPS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTSYNC Linux Driver Updated With API Design Improvements]]></title>
+        <id>https://www.phoronix.com/news/Linux-NTSYNC-Driver-v7</id>
+        <link href="https://www.phoronix.com/news/Linux-NTSYNC-Driver-v7"/>
+        <updated>2024-12-14T11:36:03.000Z</updated>
+        <summary type="html"><![CDATA[After some six months of silence, this past week the NTSYNC LInux kernel driver patches were revived for completing this open-source driver to better match the Windows NT synchronization primitives to help with Wine / Proton (Steam Play) Windows gaming performance on Linux. Following those "v6" patches posted a few days ago, on Friday evening a seventh iteration of the patches were volleyed to offer up some API design improvements for this NTSYNC driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Preps Cloud AI 200 "AIC200" Accelerator Support]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-AIC200-Support</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-AIC200-Support"/>
+        <updated>2024-12-14T11:22:00.000Z</updated>
+        <summary type="html"><![CDATA[While not as popular as their Snapdragon SoCs, Qualcomm has been offering their Cloud AI line of accelerators for scalable AI inference. The current flagship is the Qualcomm Cloud AI 100 Ultra as a 150 Watt rated PCIe Gen4 x16 card for up to 870 TOPS INT8 performance, 576MB of SRAM, and 128GB LPR4x memory. But given the latest open-source Linux driver patch activity, Cloud AI 200 "AIC200" wares are on the way...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CentOS Stream 10]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/centos-stream-10</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/centos-stream-10"/>
+        <updated>2024-12-14T11:04:46.000Z</updated>
+        <summary type="html"><![CDATA[Byl představen CentOS Stream 10 s kódovým názvem Coughlan. Detaily v poznámkách k vydání. CentOS Stream 10 už neobsahuje balíček s Xorg serverem (xorg-x11-server-Xorg). O zobrazování se stará Wayland s Xwaylandem (xorg-x11-server-Xwayland). Odstraněny byly aplikace Firefox, GIMP, LibreOffice, Inkscape a Thunderbird. Ty jsou k dispozici ve Flatpaku z Flathubu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.3 Delivers Much Better Fractional Scaling, Clipboard Using SQLite]]></title>
+        <id>https://www.phoronix.com/news/Plasma-6.3-Better-Frac-Scaling</id>
+        <link href="https://www.phoronix.com/news/Plasma-6.3-Better-Frac-Scaling"/>
+        <updated>2024-12-14T10:46:19.000Z</updated>
+        <summary type="html"><![CDATA[KDE developers continue to be quite busy ahead of the holidays to pack more features into the upcoming Plasma 6.3 desktop release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next Standard Rotation May Occur in April 2025, List of Important Cards We’ll Lose]]></title>
         <id>155520</id>
@@ -1507,7 +1560,7 @@ Read more...]]></summary>
         <title type="html"><![CDATA[The Game Awards 2024: Hrou roku se stal Astro Bot]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/the-game-awards-2024-hrou-roku-se-stal-astro-bot</id>
         <link href="http://www.abclinuxu.cz/zpravicky/the-game-awards-2024-hrou-roku-se-stal-astro-bot"/>
-        <updated>2024-12-13T14:44:42.000Z</updated>
+        <updated>2024-12-13T14:44:40.000Z</updated>
         <summary type="html"><![CDATA[Byly vyhlášeny výsledky The Game Awards 2024 (YouTube). Hrou roku se stal Astro Bot (YouTube) běžící pouze na PlayStation 5.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -3252,16 +3305,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenMandriva ROME 24.12]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/openmandriva-rome-24.12</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/openmandriva-rome-24.12"/>
-        <updated>2024-12-11T15:58:38.000Z</updated>
-        <summary type="html"><![CDATA[OpenMandriva ROME, tj. průběžně aktualizovaná (rolling) edice linuxové distribuce OpenMandriva, byla vydána ve verzi 24.12.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenMandriva ROME 24.12 Released With KDE Plasma 6 Desktop By Default]]></title>
         <id>https://www.phoronix.com/news/OpenMandriva-ROME-24.12</id>
         <link href="https://www.phoronix.com/news/OpenMandriva-ROME-24.12"/>
@@ -3315,16 +3358,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How AMD Is Taking Standard C/C++ Code To Run Directly On GPUs]]></title>
-        <id>https://www.phoronix.com/news/AMD-Standard-C-Code-GPUs</id>
-        <link href="https://www.phoronix.com/news/AMD-Standard-C-Code-GPUs"/>
-        <updated>2024-12-11T13:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Back at the 2024 LLVM Developers' Meeting was an interesting presentation by AMD engineer Joseph Huber for how they have been exploring running common, standard C/C++ code directly on GPUs without having to be adapted for any GPU language / programming dialects or other adaptations...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Symphonia might scratch your Silksong itch, even though it's not a metroidvania]]></title>
         <id>https://www.rockpapershotgun.com/symphonia-might-scratch-your-silksong-itch-even-though-its-not-a-metroidvania</id>
         <link href="https://www.rockpapershotgun.com/symphonia-might-scratch-your-silksong-itch-even-though-its-not-a-metroidvania"/>
@@ -3333,16 +3366,6 @@ Read more...]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miracle-WM 0.4 Released With i3 IPC Support]]></title>
-        <id>https://www.phoronix.com/news/Miracle-WM-0.4-Released</id>
-        <link href="https://www.phoronix.com/news/Miracle-WM-0.4-Released"/>
-        <updated>2024-12-11T12:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Miracle-WM is the Mir-based Wayland tiling window manager that is inspired in part by the likes of i3 and Sway. Miracle-WM also has a goal to be a flagship example of a Mir-based full featured window manager with this project being led by a Canonical engineer. Out today is Miracle-WM 0.4 to deliver the latest features...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3379,16 +3402,6 @@ The biggest treat, of course, is hearing Hayter read for Raziel, especially as i
 Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QEMU 9.2 Released With VirtIO GPU Vulkan Support, AVX10 & Experimental Rust Support]]></title>
-        <id>https://www.phoronix.com/news/QEMU-9.2-Released</id>
-        <link href="https://www.phoronix.com/news/QEMU-9.2-Released"/>
-        <updated>2024-12-11T11:23:13.000Z</updated>
-        <summary type="html"><![CDATA[QEMU 9.2 is out today for this processor emulator that plays an important role within the open-source Linux virtualization stack...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4591,18 +4604,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You can play the demo for heavy-breathing open world mountain climber Cairn now]]></title>
-        <id>https://www.rockpapershotgun.com/you-can-play-the-demo-for-heavy-breathing-open-world-mountain-climber-cairn-now</id>
-        <link href="https://www.rockpapershotgun.com/you-can-play-the-demo-for-heavy-breathing-open-world-mountain-climber-cairn-now"/>
-        <updated>2024-12-05T20:12:08.000Z</updated>
-        <summary type="html"><![CDATA[“So, you’ve fallen off a mountain,” strikes me as a brilliant book to write and then stock in every mountainside gift shop across the land, purely for the image of a falling climber rapidly scanning the pages as they tumble comically to their doom, searching for the one piece of sage advice that might alleviate their predicament. If you, personally, are reading RPS while falling off a mountain at this very moment, I’m afraid I can’t help you. Luckily, if you bonk your head on Steam on the way down, you’ll find a demo for stylish open world climbing game Cairn, which should hopefully distract you from your imminent pancaking.
-Cairn is from The Game Bakers, of Furi and Haven fame. We first saw it at the Day Of The Devs this year. I was fresh off the lovely Jusant at the time. “Ah, another relaxing and whimsical French game about mountain climbing!” I thought. I was a fool. It’s far more intense, this one, although there are dashes of Breath Of The Wild and Death Stranding to add some whimsy and wonder to your Sisyphean struggle. Plus, it's very pretty. Here’s some new footage, or possibly some old footage depending on badly the embargo has messed up my schedule.
-Read more]]></summary>
-        <author>
-            <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android Studio Ladybug Feature Drop | 2024.2.2 RC 1 now available]]></title>
         <id>https://androidstudio.googleblog.com/2024/12/android-studio-ladybug-feature-drop.html</id>
         <link href="https://androidstudio.googleblog.com/2024/12/android-studio-ladybug-feature-drop.html"/>
@@ -5236,26 +5237,6 @@ Android Studio crashes when previewing layout files]]></summary>
 Existuje vícero českých filmů, které surfují na oblíbené vlně "zakažte exekutory, zrušte dluhy, je to nelidské!" (například Tancuj Matyldo). After Party takovým filmem není. Exekutoři se v něm chovají korektně a slušně a vinu na situaci celé rodiny nese naprosto jednoznačně otec, který neopatrně investoval, i když nevíme jak. A "nevíme jak" je téma, prolínající se celým tímto filmem. Takže nevíme, co vlastně otec komu naslibova…]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Meerkat | 2024.3.1 Canary 2 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/11/android-studio-meerkat-202431-canary-2.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/11/android-studio-meerkat-202431-canary-2.html"/>
-        <updated>2024-11-15T00:00:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Meerkat | 2024.3.1 Canary 2 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Meerkat, see the Android Studio Preview release notes.
-
-For details of bugs fixed in each previous release of Android Studio Meerkat, see
-closed issues.
-General fixes and features
-Below is a list of general fixes in Android Studio Meerkat | 2024.3.1 Canary 2 and Android Gradle Plugin 8.9.0-alpha02. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a b…]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
