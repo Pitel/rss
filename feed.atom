@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2024-12-29T22:11:14.062Z</id>
+    <id>urn:2024-12-30T01:02:05.183Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2024-12-29T22:11:14.062Z</updated>
+    <updated>2024-12-30T01:02:05.183Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hop’s Zacian ex, Mamoswine ex, and More from “Battle Partners” Revealed!]]></title>
+        <id>155563</id>
+        <link href="https://www.pokebeach.com/forums/threads/hop%E2%80%99s-zacian-ex-mamoswine-ex-and-more-from-%E2%80%9Cbattle-partners%E2%80%9D-revealed.155563/"/>
+        <updated>2024-12-29T23:03:59.000Z</updated>
+        <summary type="html"><![CDATA[New cards have just been revealed from Battle Partners! It turns out the set will include regular Pokemon like Sprigatito and Mamoswine ex, not just Trainer’s Pokemon!
+This may mean the set will only feature Trainer’s Pokemon for Iono, Lillie, N, and Hop, as indicated by the booster pack...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: aktualizace telefonů Google Pixel vás odpojí od dat]]></title>
+        <id>www.root.cz-text-17484</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-aktualizace-telefonu-google-pixel-vas-odpoji-od-dat/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-12-29T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Podíváme se na aktualizace mobilních zařízení Google Pixel, na v Japonsku tolik neoblíbené zpoždění způsobené DDoS útokem na tamní aerolinky JAL a vyhlásíme vítěze soutěže o největšího zloděje kryptoměn za minulý rok.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: ČD - Telematika)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vhsky.cz jako alternativa k YouTube, SvarDOS jako samostatný systém]]></title>
+        <id>www.root.cz-text-17481</id>
+        <link href="https://www.root.cz/clanky/vhsky-cz-jako-alternativa-k-youtube-svardos-jako-samostatny-system/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2024-12-29T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Vznikl projekt VHSky.cz, komunitní platforma pro sdílení videí, postavená na otevřeném softwaru PeerTube. Ze SvarDOS se díky implementaci vlastního jádra stal samostatný open-source operační systém.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better Together – A Guide for Regigigas / Pikachu ex]]></title>
         <id>155567</id>
@@ -23,6 +54,16 @@ While the “Regis” were originally designed to work together as your only six
         <link href="https://www.phoronix.com/news/Linux-6.13-rc5-Released"/>
         <updated>2024-12-29T21:30:30.000Z</updated>
         <summary type="html"><![CDATA[The holiday between Christmas and New Year's is... Linus Torvalds' birthday on 28 December. Capping off the Linux creator's 55th birthday week is the Linux 6.13-rc5 kernel release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Benchmarking The AMD INVLPGB Linux Kernel Patches For Better Performance]]></title>
+        <id>https://www.phoronix.com/review/amd-invlpgb-linux</id>
+        <link href="https://www.phoronix.com/review/amd-invlpgb-linux"/>
+        <updated>2024-12-29T21:15:20.000Z</updated>
+        <summary type="html"><![CDATA[Last weekend a Meta engineer posted Linux kernel patches to make use of the AMD INVLPGB instruction for broadcast TLB invalidation. The Linux kernel can in turn invalidate TLB entries on remote CPUs without needing to send IPIs and without having to wait for remote CPUs to handle those interrupts. Synthetic benchmarks shown in that patch series were very promising and thus I carried out some benchmarking over the holidays of this AMD INVLPGB support for the Linux kernel.]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -477,16 +518,6 @@ However, there is some tongue-in-cheek history to this seemingly innocent mod. S
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Benchmarking The AMD INVLPGB Linux Kernel Patches For Better Performance]]></title>
-        <id>https://www.phoronix.com/review/amd-invlpgb-linux</id>
-        <link href="https://www.phoronix.com/review/amd-invlpgb-linux"/>
-        <updated>2024-12-29T17:35:20.000Z</updated>
-        <summary type="html"><![CDATA[Last weekend a Meta engineer posted Linux kernel patches to make use of the AMD INVLPGB instruction for broadcast TLB invalidation. The Linux kernel can in turn invalidate TLB entries on remote CPUs without needing to send IPIs and without having to wait for remote CPUs to handle those interrupts. Synthetic benchmarks shown in that patch series were very promising and thus I carried out some benchmarking over the holidays of this AMD INVLPGB support for the Linux kernel.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Feature: 15 Best-Looking Switch Games Of 2024]]></title>
         <id>https://www.nintendolife.com/#article-175974</id>
         <link href="https://www.nintendolife.com/features/15-best-looking-switch-games-of-2024"/>
@@ -936,17 +967,6 @@ Over the course of the year, our Create-a-Card contests look for perfection; the
         <summary type="html"><![CDATA[Correct me if I'm wrong, but I don't believe anyone has created a complete list of every Shiny Pokemon card, and Bulbapedia's list is criminally empty. So, because collecting Shinys is my number one priority for my own personal collection, I finally decided to create a complete checklist on...]]></summary>
         <author>
             <name>MasterGallade</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hop’s Zacian ex, Mamoswine ex, and More from “Battle Partners” Revealed!]]></title>
-        <id>155563</id>
-        <link href="https://www.pokebeach.com/forums/threads/hop%E2%80%99s-zacian-ex-mamoswine-ex-and-more-from-%E2%80%9Cbattle-partners%E2%80%9D-revealed.155563/"/>
-        <updated>2024-12-29T04:07:30.000Z</updated>
-        <summary type="html"><![CDATA[New cards have just been revealed from Battle Partners! It turns out the set will include regular Pokemon like Sprigatito and Mamoswine ex, not just Trainer’s Pokemon!
-This may mean the set will only feature Trainer’s Pokemon for Iono, Lillie, N, and Hop, as indicated by the booster pack...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -4277,16 +4297,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Manipulace s binárními datovými strukturami v Pythonu]]></title>
-        <id>www.root.cz-text-17475</id>
-        <link href="https://www.root.cz/clanky/manipulace-s-binarnimi-datovymi-strukturami-v-pythonu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-18T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Ve vývojářské praxi se prakticky každý den setkáme s nutností zpracování dat uložených v binární podobě, tj. například v binárních souborech atd. Ukážeme si, jak tyto operace provést v Pythonu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Beastmaster of S.T.A.L.K.E.R. 2, part four: the last bite]]></title>
         <id>https://www.rockpapershotgun.com/the-beastmaster-of-stalker-2-part-four-the-last-bite</id>
         <link href="https://www.rockpapershotgun.com/the-beastmaster-of-stalker-2-part-four-the-last-bite"/>
@@ -4379,16 +4389,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JPEG 2000 smývá rozdíl mezi ztrátovou a bezeztrátovou kompresí]]></title>
-        <id>www.root.cz-text-17429</id>
-        <link href="https://www.root.cz/clanky/jpeg-2000-smyva-rozdil-mezi-ztratovou-a-bezeztratovou-kompresi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2024-12-17T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Formát JPEG 2000, vyvinutý v roce 2000, měl nahradit JPEG. Nabízí vyšší kompresní poměr, lepší odolnost vůči chybám a kombinaci ztrátové a bezeztrátové komprese, ale je výpočetně náročnější.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Bařina)</name>
         </author>
     </entry>
     <entry>
