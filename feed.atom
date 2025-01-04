@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-04T06:16:17.756Z</id>
+    <id>urn:2025-01-04T08:14:58.153Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-01-04T06:16:17.756Z</updated>
+    <updated>2025-01-04T08:14:58.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
+        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-315</id>
+        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-315"/>
+        <updated>2025-01-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Happy new year to you all! Let's make sure we collectively start off 2025 in the right way: that is, by playing games in our free time, and leaving no room for anything else. Here's what we're all clicking on this weekend!
+ Read more]]></summary>
+        <author>
+            <name>Ollie Toms</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Home Town (Hop's Zacian ex / Hop's Snorlax / Hop's Cramornat / Metang)]]></title>
         <id>155557</id>
@@ -4664,18 +4675,6 @@ XR Emulator: Test your XR applications without needing physica…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Marvel Rivals review: it's like Overwatch, if Overwatch was overcomplex and frequented Comic Con]]></title>
-        <id>https://www.rockpapershotgun.com/marvel-rivals-review</id>
-        <link href="https://www.rockpapershotgun.com/marvel-rivals-review"/>
-        <updated>2024-12-12T15:53:27.000Z</updated>
-        <summary type="html"><![CDATA[At first I thought Marvel Rivals was basically rebranded Overwatch, in the way it's a free-to-play PVP hero shooter. And in some ways, it is. Fights are like if you took a MOBA and forced both teams to bash heads constantly. Success lies in picking off Spider-Man or Squirrel Girl or Marcus Fenix so as they wait to respawn, you hop on the big area that needs capturing. Or you push the cart while tanky Hulk absorbs bullets with his biceps and John Marvel snipes from afar.
-The more I played Rivals, though, the more it hit me that it's specifically a messier, more complex Overwatch. A hero shooter with a surprising amount of polish and charm, sure, but also one that slides off my brain like water off Birdman's back. I understand why it's supremely popular at the moment and yet, I really don't.
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audio recenze: Lovec Kraven [Kraven The Hunter] - 40 %]]></title>
         <id>tag:blogger.com,1999:blog-2270872860161924291.post-7214602501692185246</id>
         <link href="https://www.fffilm.cz/2024/12/audio-recenze-lovec-kraven-kraven.html"/>
@@ -4776,96 +4775,6 @@ Webkit Version 1.13.0-alpha02]]></summary>
 U zrodu tohoto počinu stálo elektronické hudební duo Daft Punk, které v roce 2001 vydalo své album "Discovery". K písničkám z alba vyšly animované videoklipy, které produkoval Leidži Macumoto, což byl kultovní japonský výtvarník (zemřel loni), který měl na svém kontě mnoho animovaných seriálů, především ze 70. - 80. let (nejslavnější z nich byl asi "Space Battleship Yamato"). Daft Punk ho oslovili proto, že na jeho seriálech vyrůstali, takže výsledné dílo, včetně "jednodušší" retro animace a naivní zápletky zcela záměrně připomíná staré japonské televizní počiny (n…]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Ladybug Feature Drop | 2024.2.2 RC 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2024/12/android-studio-ladybug-feature-drop.html</id>
-        <link href="https://androidstudio.googleblog.com/2024/12/android-studio-ladybug-feature-drop.html"/>
-        <updated>2024-12-05T19:32:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Ladybug Feature Drop | 2024.2.2 RC 1 is now available in the Beta channel.
-If you already have an Android Studio build on the Beta channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Ladybug Feature Drop, see the Android Studio Preview release notes.
-
-For details of bugs fixed in each previous release of Android Studio Ladybug Feature Drop, see
-closed issues.
-General fixes and features
-Below is a list of general fixes in Android Studio Ladybug Feature Drop | 2024.2.2 RC 1 and Android Gradle Plugin 8.8.0-rc01. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #317358817
-com.android.settings plugin doesn't recognize targetSdk
-
-          
-        
-
-      
-    
-Import/Sync
-      
-        
-
-          
-            
-
-              
-Issue #378453262
-Ladybug Feature Drop 2024.2.2 Canary 9 freezes when indexing
-
-          
-        
-
-      
-    
-Jetpack Compose
-      
-        
-
-          
-            
-
-              
-Issue #376491756
-"produceState calls should assign value inside the producer lambda: lint check does not grok "if" expression assignment
-
-          
-        
-
-      
-    
-Lint
-      
-        
-
-          
-            
-
-              
-Issue #375352607
-False positive lint check android.permission.SCHEDULE_EXACT_ALARM is only granted to system apps 
-
-            
-
-              
-Issue #360354551
-K2 Mode throws RestrictedApi warning when using .hasRoute(Route::class) in Android Studio]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
