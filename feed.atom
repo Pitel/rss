@@ -1,20 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-01-16T10:13:10.758Z</id>
+    <id>urn:2025-01-16T12:23:26.143Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-01-16T10:13:10.758Z</updated>
+    <updated>2025-01-16T12:23:26.143Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Maractus from Battle Partners!]]></title>
         <id>155630</id>
         <link href="https://www.pokebeach.com/forums/threads/maractus-from-battle-partners.155630/"/>
-        <updated>2025-01-16T10:09:38.000Z</updated>
+        <updated>2025-01-16T12:22:03.000Z</updated>
         <summary type="html"><![CDATA[Maractus has been revealed from Battle Partners, which releases in Japan on January 24th. We expect most of the unreleased cards from this set to become part of the international set Journey Together, which releases in March.
-Translations are currently in progress. Check back shortly!
-Maractus –...]]></summary>
+Maractus – Grass – HP110
+Basic Pokémon
+Ability: Bursting Needle
+If...]]></summary>
         <author>
             <name>JustInBasil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora KDE Plasma Edition Aims To Appeal To Multimedia Enthusiasts & Content Creators]]></title>
+        <id>https://www.phoronix.com/news/Fedora-KDE-Edition-Plan</id>
+        <link href="https://www.phoronix.com/news/Fedora-KDE-Edition-Plan"/>
+        <updated>2025-01-16T12:03:28.000Z</updated>
+        <summary type="html"><![CDATA[Back in November it was decided that the Fedora KDE Desktop Spin would be promoted to the same tier as the GNOME-based Fedora Workstation. Fedora KDE as an "Edition" status for Fedora 42 will now be on the same level as Fedora Workstation Edition. More details on those Fedora KDE Edition plans have now come to light...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Broken Sword 'Reforged' Team Teases Another Remaster Might Be On The Cards]]></title>
+        <id>https://www.nintendolife.com/#article-176912</id>
+        <link href="https://www.nintendolife.com/news/2025/01/broken-sword-reforged-team-teases-another-remaster-might-be-on-the-cards"/>
+        <updated>2025-01-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The mystery continues... maybe.
+Last year, we had a great time with Revolution Software's 'Reforged' remaster of the classic point-and-click adventure Broken Sword: Shadow of the Templars. "It sure would be neat if the rest of the series received such a treatment," we thought to ourselves, "if only Revolution had something up its sleeve..."
+As it turns out, it does! Or, more accurately, it might. Three weeks ago, the studio released its 'Christmas Video 2024', thanking fans for their support over the past 12 months and showing off some of the game's original art. It's a sweet video that, we'll admit, flew under the radar for us a little; but, as noted by Game Watcher (and brought to our attention by our friends over at Push Square), the message also contains a tease of what the future might hold — ooh, how sneaky!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT_EXECVE_CHECK Submitted For Linux 6.14 To Help With Consistent Security]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.14-AT_EXECVE_CHECK</id>
+        <link href="https://www.phoronix.com/news/Linux-6.14-AT_EXECVE_CHECK"/>
+        <updated>2025-01-16T11:55:00.000Z</updated>
+        <summary type="html"><![CDATA[In anticipation of the Linux 6.14 merge window opening next week if Linux 6.13 releases as expected this coming Sunday, Google engineer Kees Cook has already sent out pull requests to Linus Torvalds of new feature code he's been aligning for the v6.14 cycle. One of the interesting pulls is the introduction of the AT_EXECVE_CHECK flag to the execveat call...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXL Address Translation Support For AMD Zen 5 Sees Linux Patches]]></title>
+        <id>https://www.phoronix.com/news/AMD-Zen5-CXL-Translation-v1</id>
+        <link href="https://www.phoronix.com/news/AMD-Zen5-CXL-Translation-v1"/>
+        <updated>2025-01-16T11:48:03.000Z</updated>
+        <summary type="html"><![CDATA[A set of Linux kernel patches posted by AMD engineers last week are working on enhancing the CXL address translation support between the HPA decoder and system physical memory addresses. These patches get that CXL address translation support working for the recently launched AMD EPYC 9005 "Turin" Zen 5 server processors...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Expanding Web Camera Support Among Newer Intel Laptops Planned For Fedora 42]]></title>
+        <id>https://www.phoronix.com/news/Intel-More-Webcams-Fedora-42</id>
+        <link href="https://www.phoronix.com/news/Intel-More-Webcams-Fedora-42"/>
+        <updated>2025-01-16T11:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat engineer Hans de Goede wrote a blog post a few days ago around the Intel IPU6 and newer web camera support still being a challenge on Linux. While various Intel IPU6 open-source code has been upstreamed, there remain differences with a number of laptops currently available still not working out-of-the-box for web camera support on Linux. Hans de Goede has now initiated a change proposal for Fedora 42 to take care of more Intel web camera issues...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC Goes Ahead With The ARM64 ILP32 Deprecation]]></title>
+        <id>https://www.phoronix.com/news/GCC-Deprecates-ARM64-ILP32</id>
+        <link href="https://www.phoronix.com/news/GCC-Deprecates-ARM64-ILP32"/>
+        <updated>2025-01-16T11:02:58.000Z</updated>
+        <summary type="html"><![CDATA[As a follow-up to the recent news around GCC considering deprecating ARM64 ILP32 support, the free software developers have indeed decided to move ahead in deprecating this 32-bit ABI for ARM64...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TPCi Promises to Print More “Prismatic Evolutions” Amid Unusual Demand]]></title>
+        <id>155627</id>
+        <link href="https://www.pokebeach.com/forums/threads/tpci-promises-to-print-more-%E2%80%9Cprismatic-evolutions%E2%80%9D-amid-unusual-demand.155627/"/>
+        <updated>2025-01-16T10:35:49.000Z</updated>
+        <summary type="html"><![CDATA[In a statement posted to Twitter, TPCi has announced they plan to print more Prismatic Evolutions “due to high demand impacting availability [at launch].”
+The announcement is similar to past ones they’ve made when there’s been product shortages, like during the pandemic.
+This comes amid news...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo's New Japan-Exclusive Donkey Kong Merch Range Goes Hard]]></title>
+        <id>https://www.nintendolife.com/#article-176907</id>
+        <link href="https://www.nintendolife.com/news/2025/01/nintendos-new-japan-exclusive-donkey-kong-merch-range-goes-hard"/>
+        <updated>2025-01-16T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You'll either love it or hate it.
+Nintendo has just unleashed its second DK rerelease on the Switch with Donkey Kong Country Returns HD, a game that's seemingly taken a few cues from Emperor Palpatine on how to cheat death ("Somehow..."). To celebrate, the firm has also launched a range of Donkey Kong-themed merchandise in Japan and, well, it goes hard.
+Honestly, we're kinda torn on whether this stuff is actually any good or not. Let's be honest, it's not exactly subtle. The Diddy Kong fleece in particular is quite literally the character's torso and arms in the form of a jumper; certainly something we wouldn't mind popping on while chilling on the sofa, but perhaps also something we'd think twice about rocking while out and about.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -311,18 +401,6 @@ It's now got a release date: February 14th.
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TPCi Promises to Print More “Prismatic Evolutions” Amid Unusual Demand]]></title>
-        <id>155627</id>
-        <link href="https://www.pokebeach.com/forums/threads/tpci-promises-to-print-more-%E2%80%9Cprismatic-evolutions%E2%80%9D-amid-unusual-demand.155627/"/>
-        <updated>2025-01-16T07:59:42.000Z</updated>
-        <summary type="html"><![CDATA[In a statement posted to Twitter, TPCi has announced they plan to print more Prismatic Evolutions “due to high demand impacting availability [at launch].”
-The announcement is similar to past ones they’ve made when there’s been product shortages, like during the pandemic.
-This comes amid news...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -2449,19 +2527,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acclaimed Horror Hit 'Soma' Is Finally Coming To Switch]]></title>
-        <id>https://www.nintendolife.com/#article-176821</id>
-        <link href="https://www.nintendolife.com/news/2025/01/acclaimed-horror-hit-soma-is-finally-coming-to-switch"/>
-        <updated>2025-01-14T14:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Alongside Amnesia: Rebirth and Amnesia: The Bunker.
-Abylight Studios has announced that it's bringing three of Frictional Games' horror titles to the Switch in 2025.
-SOMA, Amnesia Rebirth, and Amnesia: The Bunker will all be getting digital and physical releases later this year. This means all Amnesia games will at last be on Switch, alongside the critically acclaimed Soma.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Furret from “Battle Partners” Revealed!]]></title>
         <id>155616</id>
         <link href="https://www.pokebeach.com/forums/threads/furret-from-%E2%80%9Cbattle-partners%E2%80%9D-revealed.155616/"/>
@@ -2488,19 +2553,6 @@ Furret...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retro Staff Credits Removed From Donkey Kong Country Returns HD, Forever Entertainment Confirmed As Devs]]></title>
-        <id>https://www.nintendolife.com/#article-176743</id>
-        <link href="https://www.nintendolife.com/news/2025/01/retro-staff-credits-removed-from-donkey-kong-country-returns-hd-forever-entertainment-confirmed-as-devs"/>
-        <updated>2025-01-14T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Monkey business.
-Donkey Kong Country Returns HD is just around the corner and, now that the embargo on our review coverage has lifted, we can officially confirm that developer Forever Entertainment is responsible for the porting duties on Retro Studios' platformer.
-However, much like Metroid Prime Remastered before it, Nintendo has opted to omit the original Retro Studios development team from the credits of the new release. Instead, it simply states 'Based on the work of the original development staff'.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3098,26 +3150,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Microsoft-Contributed Change To Linux 6.13 Is Causing A Last Minute Ruckus]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.13-Dropping-EXECMEM_ROX</id>
-        <link href="https://www.phoronix.com/news/Linux-6.13-Dropping-EXECMEM_ROX"/>
-        <updated>2025-01-13T13:40:34.000Z</updated>
-        <summary type="html"><![CDATA[A change to the Linux 6.13 kernel contributed by a Microsoft engineer ended up changing Linux x86_64 code without proper authorization and in turn causing troubles for users and now set to be disabled ahead of the Linux 6.13 stable release expected next Sunday...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alibaba Engineers Work To Address Suspend/Resume Bugs With The AMD Graphics Driver]]></title>
-        <id>https://www.phoronix.com/news/Alibaba-AMDGPU-Suspend-Resume</id>
-        <link href="https://www.phoronix.com/news/Alibaba-AMDGPU-Suspend-Resume"/>
-        <updated>2025-01-13T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alibaba engineers have recently been working through some AMD Linux kernel graphics driver bugs uncovered during suspend-and-resume testing with AMD graphics cards...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ahh! 72 indie horror games and a Haunted PS1 demo disc just screeched into 2025 honking the horn and apologising for being late]]></title>
         <id>https://www.rockpapershotgun.com/ahh-72-indie-horror-games-and-a-haunted-ps1-demo-disc-just-screeched-into-2025-honking-the-horn-and-apologising-for-being-late</id>
         <link href="https://www.rockpapershotgun.com/ahh-72-indie-horror-games-and-a-haunted-ps1-demo-disc-just-screeched-into-2025-honking-the-horn-and-apologising-for-being-late"/>
@@ -3137,36 +3169,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Gigabit Ethernet Driver To Speed-Up With AF_XDP Zero-Copy For Linux 6.14]]></title>
-        <id>https://www.phoronix.com/news/IntelIGB-AF-XDP-Zero-Copy</id>
-        <link href="https://www.phoronix.com/news/IntelIGB-AF-XDP-Zero-Copy"/>
-        <updated>2025-01-13T11:36:44.000Z</updated>
-        <summary type="html"><![CDATA[Queued up into the networking subsystem's "net-next" branch last week ahead of the Linux 6.14 kernel cycle is AF_XDP zero-copy support for the common Intel Gigabit Ethernet "IGB" driver. With this the AF_XDP performance improvements can be quite dramatic in leveraging this zero-copy path...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Broadcast TLB Invalidation Linux Patches Reworked In 4th Spin]]></title>
-        <id>https://www.phoronix.com/news/AMD-INVLPGB-Linux-v4-Patches</id>
-        <link href="https://www.phoronix.com/news/AMD-INVLPGB-Linux-v4-Patches"/>
-        <updated>2025-01-13T11:20:00.000Z</updated>
-        <summary type="html"><![CDATA[A nice Christmas surprise for 2024 was Meta engineer Rik van Riel posting Linux kernel patches for making use of the AMD INVLPGB instruction found since Zen 3 processors for broadcast TLB invalidation...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyprland Wayland Compositor Lands HDR / Color Management Support]]></title>
-        <id>https://www.phoronix.com/news/Hyprland-HDR-Color-Management</id>
-        <link href="https://www.phoronix.com/news/Hyprland-HDR-Color-Management"/>
-        <updated>2025-01-13T11:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Hyprland is now the latest Wayland compositor supporting the color management protocols and allowing High Dynamic Range (HDR) color support with capable displays...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
