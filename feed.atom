@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-18T08:16:52.714Z</id>
+    <id>urn:2025-02-18T08:45:39.914Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-02-18T08:16:52.714Z</updated>
+    <updated>2025-02-18T08:45:39.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sandisk má ve svých plánech petabajtové SSD]]></title>
+        <id>www.root.cz-actuality-47019</id>
+        <link href="https://www.root.cz/zpravicky/sandisk-ma-ve-svych-planech-petabajtove-ssd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-02-18T08:29:18.000Z</updated>
+        <summary type="html"><![CDATA[Společnost SanDisk chce v rámci své nové platformy UltraQLC vyrábět SSD disky v řádu petabajtů, ačkoli zatím neuvedla časový plán jejich uvedení na trh. Tato technologie podle ní kombinuje BICS 8 QLC 3D NAND společnosti SanDisk s vlastním 64kanálovým řadičem s hardwarovými akcelerátory, které snižují latenci, rozšiřuje přenosovou kapacitu a zvyšují spolehlivost.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Komunitní open-source konference Bratislava OpenCamp hledá přednášející]]></title>
         <id>www.root.cz-actuality-47016</id>
@@ -1510,6 +1520,29 @@ As posted before, the set will release on March 14th in Japan. Its cards will be
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7269-1: Intel Microcode vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7269-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7269-1"/>
+        <updated>2025-02-17T03:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Ke Sun, Paul Grosen and Alyssa Milburn discovered that some Intel®
+Processors did not properly implement Finite State Machines (FSMs) in
+Hardware Logic. A local privileged attacker could use this issue to cause a
+denial of service.  (CVE-2024-31068)
+
+It was discovered that some Intel® Processors with Intel® SGX did not
+properly restrict access to the EDECCSSA user leaf function. A local
+authenticated attacker could use this issue to cause a denial of
+service. (CVE-2024-36293)
+
+Ke Sun, Alyssa Milburn, Benoit Morgan, and Erik Bjorge discovered that the
+UEFI firmware for some Intel® processors did not properly restrict
+access. An authenticated local attacker could use this issue to cause a
+denial of service. (CVE-2024-39279)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GNOME 48.beta]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/gnome-48.beta</id>
         <link href="http://www.abclinuxu.cz/zpravicky/gnome-48.beta"/>
@@ -2510,6 +2543,22 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7268-1: Apache ActiveMQ vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7268-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7268-1"/>
+        <updated>2025-02-14T10:36:08.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Apache ActiveMQ incorrectly handled
+authentication. A remote attacker could possibly use this issue to run
+arbitrary code. (CVE-2022-41678)
+
+It was discovered that Apache ActiveMQ incorrectly handled
+deserialization. A remote attacker could possibly use this issue to run
+arbitrary shell commands. (CVE-2023-46604)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Elden Ring Nightreign to get DLC bosses and characters in yet more evidence that it's a From Extended Universe game]]></title>
         <id>https://www.rockpapershotgun.com/elden-ring-to-get-dlc-bosses-and-characters-in-yet-more-evidence-that-its-a-from-extended-universe-game</id>
         <link href="https://www.rockpapershotgun.com/elden-ring-to-get-dlc-bosses-and-characters-in-yet-more-evidence-that-its-a-from-extended-universe-game"/>
@@ -2899,6 +2948,18 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7267-1: libsndfile vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7267-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7267-1"/>
+        <updated>2025-02-13T15:18:04.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that libsndfile incorrectly handled certain malformed
+OggVorbis files. An attacker could possibly use this issue to cause
+libsndfile to crash, resulting in a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Jiggle-powered, apparently decent action game Stellar Blade confirmed for PC release in June]]></title>
         <id>https://www.rockpapershotgun.com/jiggle-powered-apparently-decent-action-game-stellar-blade-confirmed-for-pc-release-in-june</id>
         <link href="https://www.rockpapershotgun.com/jiggle-powered-apparently-decent-action-game-stellar-blade-confirmed-for-pc-release-in-june"/>
@@ -3121,6 +3182,33 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-6846-3: Ansible regression]]></title>
+        <id>https://ubuntu.com/security/notices/USN-6846-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-6846-3"/>
+        <updated>2025-02-13T08:30:29.000Z</updated>
+        <summary type="html"><![CDATA[USN-6846-1 fixed vulnerabilities in ansible. The update introduced a
+regression in ansible. This update fixes the problem.
+
+We apologize for the inconvenience.
+
+Original advisory details:
+
+ It was discovered that Ansible incorrectly handled certain inputs when
+ using tower_callback parameter. If a user or an automated system were
+ tricked into opening a specially crafted input file, a remote attacker
+ could possibly use this issue to obtain sensitive information. This issue
+ only affected Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, and Ubuntu 22.04 LTS.
+ (CVE-2022-3697)
+
+ It was discovered that Ansible incorrectly handled certain inputs. If a
+ user or an automated system were tricked into opening a specially crafted
+ input file, a remote attacker could possibly use this issue to perform a
+ Template Injection. (CVE-2023-5764)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenSUSE Tumbleweed přechází z AppArmor na SELinux]]></title>
         <id>www.root.cz-actuality-46974</id>
         <link href="https://www.root.cz/zpravicky/opensuse-tumbleweed-prechazi-z-apparmor-na-selinux/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3148,6 +3236,70 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Vláda Spojeného kráľovstva nariadila spoločnosti Apple, aby jej umožnila prístup ku všetkému obsahu, ktorý používatelia z celého sveta nahrali do cloudu. Vláda vydala minulý mesiac príkaz, ktorý vyžaduje všeobecnú schopnosť prezerať si všetky zašifrované dáta užívateľov.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: anonymní)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7266-1: digiKam vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7266-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7266-1"/>
+        <updated>2025-02-13T03:28:13.000Z</updated>
+        <summary type="html"><![CDATA[Zinuo Han and Ao Wang discovered that the Android DNG SDK, vendored in
+digiKam, did not correctly parse certain files. An attacker could possibly
+use this issue to execute arbitrary code. This issue only affected
+Ubuntu 16.04 LTS, Ubuntu 18.04 LTS and Ubuntu 20.04 LTS. (CVE-2017-0691)
+
+It was discovered that Platinum Upnp SDK, vendored in digiKam, was
+vulnerable to a path traversal attack. An attacker could possibly use this
+issue to leak sensitive information. This issue only affected 
+Ubuntu 20.04 LTS. (CVE-2020-19858)
+
+It was discovered that LibRaw, vendored in digiKam, did not correctly
+handle certain memory operations. If a user or automated system were
+tricked into opening a specially crafted file, an attacker could possibly
+use this issue to leak sensitive information. This issue only affected
+Ubuntu 20.04 LTS. (CVE-2020-22628)
+
+It was discovered that LibRaw, vendored in digiKam, did not correctly
+handle certain memory operations. If a user or automated system were
+tricked into opening a specially crafted file, an attacker could possibly
+use this issue to cause a denial of service or execute arbitrary code. This
+issue only affected Ubuntu 18.04 LTS and Ubuntu 20.04 LTS. (CVE-2020-35530,
+CVE-2020-35531, CVE-2020-35532, CVE-2020-35533)
+
+It was discovered that LibRaw, vendored in digiKam, did not correctly
+handle certain memory operations. If a user or automated system were
+tricked into opening a specially crafted file, an attacker could possibly
+use this issue to cause a denial of service or execute arbitrary code.
+This issue only affected Ubuntu 20.04 LTS. (CVE-2021-32142)
+
+It was discovered that LibRaw, vendored in digiKam, did not correctly
+handle certain memory operations. If a user or automated system were
+tricked into opening a specially crafted file, an attacker could possibly
+use this issue to cause a denial of service or execute arbitrary code.
+This issue only affected Ubuntu 18.04 LTS, Ubuntu 20.04 LTS and
+Ubuntu 22.04 LTS. (CVE-2023-1729)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7256-2: Ruby regression]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7256-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7256-2"/>
+        <updated>2025-02-13T02:49:16.000Z</updated>
+        <summary type="html"><![CDATA[USN-7256-1 fixed vulnerabilities in Ruby. The update introduced a minor
+regression. This update fixes the problem.
+
+We apologize for the inconvenience.
+
+Original advisory details:
+
+ It was discovered that Ruby incorrectly handled parsing of an XML document
+ that has specific XML characters in an attribute value using REXML gem. An
+ attacker could use this issue to cause Ruby to crash, resulting in a
+ denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3287,6 +3439,29 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7234-4: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7234-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7234-4"/>
+        <updated>2025-02-12T18:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Ye Zhang and Nicolas Wu discovered that the io_uring subsystem in the Linux
+kernel did not properly handle locking for rings with IOPOLL, leading to a
+double-free vulnerability. A local attacker could use this to cause a
+denial of service (system crash) or possibly execute arbitrary code.
+(CVE-2023-21400)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - TTY drivers;
+  - Netfilter;
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2024-53141, CVE-2024-53103, CVE-2024-40967, CVE-2024-53164)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[11 Important Changes Coming To Overwatch 2 To Finally Get It Back On Track]]></title>
         <id>1851761489</id>
         <link href="https://kotaku.com/overwatch-2-showcase-perks-stadium-freja-aqua-season-15-1851761489"/>
@@ -3295,6 +3470,53 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7235-3: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7235-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7235-3"/>
+        <updated>2025-02-12T18:19:29.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Netfilter;
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2024-53164, CVE-2024-53103, CVE-2024-53141)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7236-3: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7236-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7236-3"/>
+        <updated>2025-02-12T18:09:55.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Netfilter;
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2024-53164, CVE-2024-53103, CVE-2024-53141)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7238-4: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7238-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7238-4"/>
+        <updated>2025-02-12T17:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2024-53103, CVE-2024-53164)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3672,16 +3894,6 @@ Trainers - 36
         <link href="https://www.root.cz/zpravicky/flac-1-5-s-podporou-vicevlaknoveho-kodovani-je-tu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2025-02-11T15:44:48.000Z</updated>
         <summary type="html"><![CDATA[Byla vydána nová verze kodéru pro formát Free Lossless Audio Codec, tedy FLAC 1.5. Hlavní a velmi významnou novinkou je zde podpora vícevláknového kódování pomocí parametru -j # či --threads=#. Na straně kodéru nová verze podporu pro řetězené Ogg FLAC soubory, dále přináší některé opravy, aktualizaci build systému a další drobná vylepšení. Došlo též k aktualizaci verze licence GFDL na 1.3.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vyšla KDE Plasma 6.3, přináší snadné klonování panelů či lepší podporu grafických tabletů]]></title>
-        <id>www.root.cz-actuality-46950</id>
-        <link href="https://www.root.cz/zpravicky/vysla-kde-plasma-6-3-prinasi-snadne-klonovani-panelu-ci-lepsi-podporu-grafickych-tabletu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-11T15:17:40.000Z</updated>
-        <summary type="html"><![CDATA[Očekávaná nová verze desktopového prostředí KDE Plasma 6.3.0 je na světě. Přehled novinek je k dispozici v oznámení na domovském webu, detialní soupis změn jednotlivých komponent pak v obsáhlém seznamu čítajícím stovky položek.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
