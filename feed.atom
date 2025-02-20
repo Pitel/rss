@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-20T04:15:34.759Z</id>
+    <id>urn:2025-02-20T06:17:52.310Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-02-20T04:15:34.759Z</updated>
+    <updated>2025-02-20T06:17:52.310Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Zstd 1.5.7 Pushing Compression Performance Even Further]]></title>
+        <id>https://www.phoronix.com/news/Zstd-Zstandard-1.5.7</id>
+        <link href="https://www.phoronix.com/news/Zstd-Zstandard-1.5.7"/>
+        <updated>2025-02-20T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Zstandard 1.5.7 was released a short time ago as the newest update to this widely-used compression algorithm backed by Meta. Zstd 1.5.7 packs more than 500 commits, including new performance optimizations and other enhancements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix Exclusive 'Pokémon Concierge' Coming To YouTube For A Limited-Time]]></title>
+        <id>https://www.nintendolife.com/#article-178451</id>
+        <link href="https://www.nintendolife.com/news/2025/02/netflix-exclusive-pokemon-concierge-coming-to-youtube-for-a-limited-time"/>
+        <updated>2025-02-20T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[No subscription required.
+Ahead of Pokémon Day later this month, The Pokémon Company has announced it will be releasing "all four episodes" of its Netflix series 'Pokémon Concierge' on YouTube.
+Trainers will be able to tune in and watch these episodes for a limited-time. These episodes will be released sequentially from 21st February 2025 until 9th March 2025. After this, you'll need to have access to a Netflix subscription to watch them again.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25+ “Journey Together” Cards Revealed, Some Cards to Be Cut from English Set]]></title>
         <id>155687</id>
@@ -2192,19 +2215,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tetris Forever Is Getting Its Own Collectable Handheld Console]]></title>
-        <id>https://www.nintendolife.com/#article-178362</id>
-        <link href="https://www.nintendolife.com/news/2025/02/tetris-forever-is-getting-its-own-collectable-handheld-console"/>
-        <updated>2025-02-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Digital Eclipse's 'Gold Master Series' Goes Physical.
-Digital Eclipse has announced that its Gold Master Series will be going physical via publisher Clear River Games, with boxed editions available for The Making of Karateka, Llamasoft: The Jeff Minter Story, and Tetris Forever.
-The crown jewel of the collection is undoubtedly the collector's edition for Tetris Forever. Priced at $139.99 (€139.99), this will come with its own bespoke handheld unit that will play Tetris (Famicom) and Tetris 2 + BomBliss.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mass Effect Fans Are Freaking Out About Avowed’s Sexy Fish Man Companion]]></title>
         <id>1851765192</id>
         <link href="https://kotaku.com/avowed-kai-mass-effect-garrus-voice-brandon-keener-1851765192"/>
@@ -3000,16 +3010,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Hello everyone! Gardevoir ex was on the rise at the end of the Surging Sparks format and is looking stronger in Prismatic Evolutions. Regidrago VSTAR was one of your tougher matchups before and has been pushed out of the format by the presence of Budew in multiple decks which has opened the door...]]></summary>
         <author>
             <name>PMJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New "Faux Bus" API Merged For Linux 6.14 - Including Both Rust & C Bindings]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.14-Faux-Bus-Merged</id>
-        <link href="https://www.phoronix.com/news/Linux-6.14-Faux-Bus-Merged"/>
-        <updated>2025-02-16T21:10:00.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks back the Linux kernel "Faux Bus" was proposed by Greg Kroah-Hartman as a "fake" bus solution for simple devices. Today ahead of the Linux 6.14-rc3 tagging, the faux bus code was merged and comes at the same time both with C and Rust language bindings...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -5193,111 +5193,6 @@ Lint
               
 Issue #389023409
 Wrong lint warning for `@Parcelize` annotation on sealed interfaces]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Meerkat Feature Drop | 2024.3.2 Canary 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2025/01/android-studio-meerkat-feature-drop.html</id>
-        <link href="https://androidstudio.googleblog.com/2025/01/android-studio-meerkat-feature-drop.html"/>
-        <updated>2025-01-21T18:07:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Meerkat Feature Drop | 2024.3.2 Canary 1 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Meerkat Feature Drop, see the Android Studio Preview release notes.
-
-
-General fixes and features
-Below is a list of general fixes in Android Studio Meerkat Feature Drop | 2024.3.2 Canary 1 and Android Gradle Plugin 8.10.0-alpha01. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Build Output
-      
-        
-
-          
-            
-
-              
-Issue #280524982
-Build output doesn't link to error
-
-          
-        
-
-      
-    
-Layout and Resource Editing
-      
-        
-
-          
-            
-
-              
-Issue #385766062
-No "Layout Resource File" menu item
-
-            
-
-              
-Issue #386986765
-UI rendering on the right side does not update in real time
-
-          
-        
-
-      
-    
-Lint
-      
-        
-
-          
-            
-
-              
-Issue #389023409
-Wrong lint warning for `@Parcelize` annotation on sealed interfaces
-
-          
-        
-
-      
-    
-Running Devices
-      
-        
-
-          
-            
-
-              
-Issue #380015353
-Developer screen mirroring broken in android studio only since updating to QPR1 Beta 1
-
-          
-        
-
-      
-    
-Translations Editor
-      
-        
-
-          
-            
-
-              
-Issue #389084428
-Deletes the wrong string resource]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
