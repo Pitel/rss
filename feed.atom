@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-23T06:16:37.854Z</id>
+    <id>urn:2025-02-23T08:16:09.434Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-02-23T06:16:37.854Z</updated>
+    <updated>2025-02-23T08:16:09.434Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa's Venus Now Exposes Vulkan 1.4 Support]]></title>
+        <id>https://www.phoronix.com/news/Mesa-Venus-Vulkan-1.4</id>
+        <link href="https://www.phoronix.com/news/Mesa-Venus-Vulkan-1.4"/>
+        <updated>2025-02-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Mesa Venus driver code for use with VirtIO-GPU for exposing accelerated Vulkan API support within virtualized environments (VMs) now is advertising Vulkan 1.4 API support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Does anyone get these cards?]]></title>
         <id>155703</id>
@@ -2940,16 +2950,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[Byla vydána grafická knihovna Mesa 25.0.0, s podporou API OpenGL 4.6 a Vulkan 1.4. Zatím jde o vývojovou verzi, stabilní bude 25.0.1.]]></summary>
         <author>
             <name>Fluttershy, yay!</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD ROCm 6.3.3 Released With Installer & Documentation Improvements]]></title>
-        <id>https://www.phoronix.com/news/AMD-ROCm-6.3.3-Released</id>
-        <link href="https://www.phoronix.com/news/AMD-ROCm-6.3.3-Released"/>
-        <updated>2025-02-20T01:20:59.000Z</updated>
-        <summary type="html"><![CDATA[Just a few weeks after the ROCm 6.3.2 update, ROCm 6.3.3 is out this evening with a few more incremental improvements to this open-source AMD GPU compute stack...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
