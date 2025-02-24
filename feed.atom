@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-24T04:15:57.365Z</id>
+    <id>urn:2025-02-24T06:19:07.996Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-02-24T04:15:57.365Z</updated>
+    <updated>2025-02-24T06:19:07.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[KiCad 9.0 Released For Advancing Open-Source EDA]]></title>
+        <id>https://www.phoronix.com/news/KiCad-9.0-Released</id>
+        <link href="https://www.phoronix.com/news/KiCad-9.0-Released"/>
+        <updated>2025-02-24T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KiCad 9.0 is now available as the newest version of this leading open-source Electronics Design Automation (EDA) suite that can rival some proprietary solutions for designing PCBs and other electronic hardware...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TRADING POST]]></title>
         <id>155709</id>
@@ -13,6 +23,34 @@
         <summary type="html"><![CDATA[Looking for anyone who has OG Professor Sleeves still sealed and willing to trade lmk thank you.]]></summary>
         <author>
             <name>DreadBreaks</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7269-2: Intel Microcode vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7269-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7269-2"/>
+        <updated>2025-02-24T02:29:47.000Z</updated>
+        <summary type="html"><![CDATA[USN-7269-1 fixed vulnerabilities in Intel Microcode. This update provides
+the corresponding updates for Ubuntu 24.04 LTS.
+
+Original advisory details:
+
+ Ke Sun, Paul Grosen and Alyssa Milburn discovered that some Intel®
+ Processors did not properly implement Finite State Machines (FSMs) in
+ Hardware Logic. A local privileged attacker could use this issue to cause
+ a denial of service.  (CVE-2024-31068)
+
+ It was discovered that some Intel® Processors with Intel® SGX did not
+ properly restrict access to the EDECCSSA user leaf function. A local
+ authenticated attacker could use this issue to cause a denial of
+ service. (CVE-2024-36293)
+
+ Ke Sun, Alyssa Milburn, Benoit Morgan, and Erik Bjorge discovered that the
+ UEFI firmware for some Intel® processors did not properly restrict
+ access. An authenticated local attacker could use this issue to cause a
+ denial of service. (CVE-2024-39279)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2896,16 +2934,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Finally Introducing A Standardized Way Of Informing User-Space Over Hung GPUs]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.14-Wedged-GPUs-User</id>
-        <link href="https://www.phoronix.com/news/Linux-6.14-Wedged-GPUs-User"/>
-        <updated>2025-02-20T16:10:00.000Z</updated>
-        <summary type="html"><![CDATA[The upcoming Linux 6.15 kernel is set to finally introduce a standardized way of informing user-space of GPUs becoming hung or otherwise unresponsive. This is initially wired up for AMD and Intel graphics drivers on Linux so the user can be properly notified of problems and/or user-space software taking steps to address the hung/unresponsive graphics processor...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[If there's a PUBG 2, it won't be from PlayerUnknown - "I have no investors telling me to make things"]]></title>
         <id>https://www.rockpapershotgun.com/if-theres-a-pubg-2-it-wont-be-from-playerunknown-i-have-no-investors-telling-me-to-make-things</id>
         <link href="https://www.rockpapershotgun.com/if-theres-a-pubg-2-it-wont-be-from-playerunknown-i-have-no-investors-telling-me-to-make-things"/>
@@ -3318,40 +3346,6 @@ It's a free first-person melee dungeon crawler from SaintPesticide. It's awash w
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7277-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7277-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7277-1"/>
-        <updated>2025-02-19T16:34:05.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM32 architecture;
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - RISC-V architecture;
-  - S390 architecture;
-  - SuperH RISC architecture;
-  - User-Mode Linux (UML);
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Compute Acceleration Framework;
-  - ACPI drivers;
-  - Drivers core;
-  - ATA over ethernet (AOE) driver;
-  - RAM backed block device driver;
-  - Network block device driver;
-  - Ublk userspace block driver;
-  - Compressed RAM block device driver;
-  - Bluetooth drivers;
-  - TPM device driver;
-  - Clock framework and drivers;
-  - Data acquisition framework and drive…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
