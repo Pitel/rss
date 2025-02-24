@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-02-24T02:49:36.242Z</id>
+    <id>urn:2025-02-24T04:15:57.365Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-02-24T02:49:36.242Z</updated>
+    <updated>2025-02-24T04:15:57.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[TRADING POST]]></title>
+        <id>155709</id>
+        <link href="https://www.pokebeach.com/forums/threads/trading-post.155709/"/>
+        <updated>2025-02-24T03:48:02.000Z</updated>
+        <summary type="html"><![CDATA[Looking for anyone who has OG Professor Sleeves still sealed and willing to trade lmk thank you.]]></summary>
+        <author>
+            <name>DreadBreaks</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teal, Hearthflame, Wellspring, and Cornerstone Mask Ogerpon from Heat Wave Arena!]]></title>
         <id>155706</id>
@@ -54,6 +64,24 @@ In my defense, I quickly...]]></summary>
 An interest list to attend Worlds as a spectator will open in March. There will be no cap to how many fans can sign up for the interest...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7284-1: Netty vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7284-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7284-1"/>
+        <updated>2025-02-24T01:39:46.000Z</updated>
+        <summary type="html"><![CDATA[Jonathan Leitschuh discovered that Netty did not correctly handle file
+permissions when writing temporary files. An attacker could possibly use
+this issue to leak sensitive information. (CVE-2022-24823)
+
+It was discovered that Netty did not correctly handle limiting the number
+of fields when decoding a HTTP request. An attacker could possibly use
+issue to cause a denial of service. This issue only affected
+Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, Ubuntu 22.04 LTS and
+Ubuntu 24.04 LTS. (CVE-2024-29025)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3360,37 +3388,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7276-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7276-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7276-1"/>
-        <updated>2025-02-19T15:58:57.000Z</updated>
-        <summary type="html"><![CDATA[Attila Szász discovered that the HFS+ file system implementation in the
-Linux Kernel contained a heap overflow vulnerability. An attacker could use
-a specially crafted file system image that, when mounted, could cause a
-denial of service (system crash) or possibly execute arbitrary code.
-(CVE-2025-0927)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM32 architecture;
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - RISC-V architecture;
-  - S390 architecture;
-  - SuperH RISC architecture;
-  - User-Mode Linux (UML);
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Compute Acceleration Framework;
-  - ACPI drivers;
-  - Drive…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Internet Reacts To Shocking Marvel Rivals Layoffs]]></title>
         <id>1851765418</id>
         <link href="https://kotaku.com/marvel-rivals-netease-layoff-reaction-seattle-developer-1851765418"/>
@@ -4052,16 +4049,6 @@ As posted before, the set will release on March 14th in Japan. Its cards will be
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gardevoir ex in Prismatic Evolutions]]></title>
-        <id>155684</id>
-        <link href="https://www.pokebeach.com/forums/threads/gardevoir-ex-in-prismatic-evolutions.155684/"/>
-        <updated>2025-02-16T21:55:36.000Z</updated>
-        <summary type="html"><![CDATA[Hello everyone! Gardevoir ex was on the rise at the end of the Surging Sparks format and is looking stronger in Prismatic Evolutions. Regidrago VSTAR was one of your tougher matchups before and has been pushed out of the format by the presence of Budew in multiple decks which has opened the door...]]></summary>
-        <author>
-            <name>PMJ</name>
         </author>
     </entry>
     <entry>
