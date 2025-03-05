@@ -1,15 +1,234 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-05T12:25:45.562Z</id>
+    <id>urn:2025-03-05T14:13:26.643Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-03-05T12:25:45.562Z</updated>
+    <updated>2025-03-05T14:13:26.643Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux From Scratch a Beyond Linux From Scratch 12.3]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/linux-from-scratch-a-beyond-linux-from-scratch-12.3</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/linux-from-scratch-a-beyond-linux-from-scratch-12.3"/>
+        <updated>2025-03-05T14:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Komunita kolem Linuxu From Scratch (LFS) vydala Linux From Scratch 12.3 a Linux From Scratch 12.3 se systemd. Nové verze knih s návody na instalaci vlastního linuxového systému ze zdrojových kódů přichází s Glibc 2.41, Binutils 2.44 a Linuxem 6.13.4. Současně bylo oznámeno vydání verze 12.3 knih Beyond Linux From Scratch (BLFS) a Beyond Linux From Scratch se systemd.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Radeon RX 9070 + RX 9070 XT Linux Performance]]></title>
+        <id>https://www.phoronix.com/review/amd-radeon-rx9070-linux</id>
+        <link href="https://www.phoronix.com/review/amd-radeon-rx9070-linux"/>
+        <updated>2025-03-05T14:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Last week AMD formally announced the Radeon RX 9070 series graphics cards that will begin shipping tomorrow at $549 for the Radeon RX 9070 and $599 for the RX 9070 XT. Today the review embargo is lifted so we can now share Linux performance benchmarks and more details on the open-source Linux driver support for these first AMD RDNA4 graphics cards.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Throw Everyone In The Air With Marvel Rivals' The Thing]]></title>
+        <id>1851767768</id>
+        <link href="https://kotaku.com/marvel-rivals-how-to-play-the-thing-guide-1851767768"/>
+        <updated>2025-03-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No one embodies the soul of the Fantastic Four like The Thing, so it only makes sense that lovable lug would join Marvel Rivals after the rest of his family was added to the game. I’m here to tell you how to best use Ben Grimm to stop that pesky Yancy Street Gang, once and for all.
+Read more...]]></summary>
+        <author>
+            <name>Simon Estey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: What We Expect From The Switch 2 Direct]]></title>
+        <id>https://www.nintendolife.com/#article-178966</id>
+        <link href="https://www.nintendolife.com/features/talking-point-what-we-expect-from-the-switch-2-direct"/>
+        <updated>2025-03-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In four weeks' time...
+In exactly four weeks, we're all going to know more about Switch 2 - hopefully a lot more. Wednesday 2nd April is the day of Switch 2 Direct when Nintendo lifts the lid on its upcoming console and gives us a much better idea of what's in store beyond the initial reveal.
+Will we get a release date? Are there hardware secrets that haven't leaked already? Are we going to see more games, perchance? What are you expecting/hoping to see?
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Radeon RX 9070 Series Linux GPU Compute Performance]]></title>
+        <id>https://www.phoronix.com/review/amd-radeon-rx9070-linux-compute</id>
+        <link href="https://www.phoronix.com/review/amd-radeon-rx9070-linux-compute"/>
+        <updated>2025-03-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the Radeon RX 9070 series Linux gaming/graphics benchmarks with today's embargo lift, I've also spent some time working on some GPU compute benchmarks for these first RDNA4 graphics cards. Here is a look at some initial GPU compute benchmarks of the Radeon RX 9070 and Radeon RX 9070 XT graphics cards, mostly on cross-vendor OpenCL benchmarks, and a few words on the GPU compute stack support for the Radeon RX 9070.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7328-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7328-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7328-1"/>
+        <updated>2025-03-05T13:58:46.000Z</updated>
+        <summary type="html"><![CDATA[Attila Szász discovered that the HFS+ file system implementation in the
+Linux Kernel contained a heap overflow vulnerability. An attacker could use
+a specially crafted file system image that, when mounted, could cause a
+denial of service (system crash) or possibly execute arbitrary code.
+(CVE-2025-0927)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Block layer subsystem;
+(CVE-2024-56672)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honkai Star Rail Anaxa ascension materials leaked]]></title>
+        <id>https://www.destructoid.com/?p=1024518</id>
+        <link href="https://www.destructoid.com/honkai-star-rail-anaxa-ascension-materials/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=honkai-star-rail-anaxa-ascension-materials"/>
+        <updated>2025-03-05T13:54:44.000Z</updated>
+        <summary type="html"><![CDATA[Anaxa is an upcoming character in Honkai Star Rail and his ascension materials have been leaked by a reliable source. He will be released in version 3.2 so players can use the chance to pre-farm Anaxa's materials and level him up when he makes his debut. 
+
+
+In this article, you can find all the materials required to level up Anaxa and his Traces in Honkai Star Rail.
+
+
+Anaxa's ascension and Traces materials guide
+
+
+Listed below are all of Anaxa's ascension materials you will need to farm in Honkai Star Rail, as per leaks via Hakush.in:
+
+
+
+A Glass of the Besotted Era x65
+
+
+Ethereal Omen x15
+
+
+Echoing Wail x15
+
+
+Eternal Lament x15
+
+
+Credit x308,000
+
+
+
+After leveling up Anaxa, you can start farming the following items to upgrade his Traces:
+
+
+
+Ethereal Omen x41
+
+
+Echoing Wail x56
+
+
+Eternal Lam…]]></summary>
+        <author>
+            <name>Hijam Tompok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genshin Impact Invasive Fish Wrangler event guide and rewards]]></title>
+        <id>https://www.destructoid.com/?p=1024611</id>
+        <link href="https://www.destructoid.com/genshin-impact-invasive-fish-wrangler-event-guide-and-rewards/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=genshin-impact-invasive-fish-wrangler-event-guide-and-rewards"/>
+        <updated>2025-03-05T13:48:37.000Z</updated>
+        <summary type="html"><![CDATA[Invasive Fish Wrangler is a new event in Genshin Impact 5.4. During the event, you meet a hunter named Jala and help her catch all the invasive fish species in Fontaine. There are two game modes in the event and completing all the challenges will give you Primogem rewards.
+
+
+Invasive Fish Wrangler event guide
+
+
+
+Image via HoYoverse
+
+
+Image via HoYoverse
+
+
+
+Invasive Fish Wrangler is a new and fun event in which you must catch fish using nets inside the event area. During each challenge, you can throw nets of 3 different catch AoE to capture fish, ranging in 4 sizes - small, medium, large, and huge.
+
+
+Note that using a small, medium, and large net to capture a small, medium, and large fish respectively has a higher chance of success. Therefore, depending on the size of the fish, you will hav…]]></summary>
+        <author>
+            <name>Hijam Tompok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honkai Star Rail Castorice ascension materials leaked]]></title>
+        <id>https://www.destructoid.com/?p=1024716</id>
+        <link href="https://www.destructoid.com/honkai-star-rail-castorice-ascension-materials/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=honkai-star-rail-castorice-ascension-materials"/>
+        <updated>2025-03-05T13:47:06.000Z</updated>
+        <summary type="html"><![CDATA[Castorice is an upcoming character in Honkai Star Rail who will debut in version 3.2. Fortunately, her ascension materials have already been leaked by a reliable source, and you can start pre-farming her materials so you can level her up as early as possible once she is released.
+
+
+Read on for more details about Castorice's ascension materials and where to farm them.
+
+
+Castorice's ascension and Trace materials
+
+
+According to leaks via Hakush.in, here is a list of all the materials you will need to max ascend Castorice:
+
+
+
+Darkveil Moonlight x65
+
+
+Ethereal Omen x15
+
+
+Echoing Wail x15
+
+
+Eternal Lament x15
+
+
+Credit x308,000
+
+
+
+Listed below are items needed to max all of Castorice's Traces:
+
+
+
+Ethereal Omen x41
+
+
+Echoing Wail x56
+
+
+Eternal Lament x58
+
+
+Bīja of Consciousness x18
+
+
+Seedling of M…]]></summary>
+        <author>
+            <name>Hijam Tompok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7327-1: Linux kernel vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7327-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7327-1"/>
+        <updated>2025-03-05T13:44:48.000Z</updated>
+        <summary type="html"><![CDATA[A security issues was discovered in the Linux kernel.
+An attacker could possibly use this to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Block layer subsystem;
+(CVE-2024-56672)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cynthia’s Garchomp ex Full Art Revealed from “Heat Wave Arena!”]]></title>
         <id>155750</id>
         <link href="https://www.pokebeach.com/forums/threads/cynthia%E2%80%99s-garchomp-ex-full-art-revealed-from-%E2%80%9Cheat-wave-arena-%E2%80%9D.155750/"/>
-        <updated>2025-03-05T12:25:16.000Z</updated>
+        <updated>2025-03-05T13:34:49.000Z</updated>
         <summary type="html"><![CDATA[The full art version of Cynthia’s Garchomp ex has now been revealed from Heat Wave Arena! The set releases on March 14th in Japan. The cards from the set will become part of our Destined Rivals set in May.
 
 			
@@ -24,6 +243,309 @@ Cynthia’s Garchomp ex – Fighting – HP330
 Stage 2 – Evolves...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to get Hao’s Special Works car upgrade in GTA 5]]></title>
+        <id>https://www.destructoid.com/?p=1024634</id>
+        <link href="https://www.destructoid.com/how-to-get-haos-special-works-car-upgrade-in-gta-5/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-haos-special-works-car-upgrade-in-gta-5"/>
+        <updated>2025-03-05T13:31:06.000Z</updated>
+        <summary type="html"><![CDATA[Hao's Special Works car upgrade is a unique set of customizations available on the current-gen version of GTA 5. With the free upgrade pushed out on PC, players can tune a selected set of cars with great upgrades.
+
+
+This guide will help you understand how the upgrades work and how to begin the process.
+
+
+How to access Hao's Special Works upgrades in GTA 5
+
+
+First, head out to Los Santos and wait a bit for Hao to call you. He will talk to you about a new car he wants you to take out for a test drive. Once you have the garage's location, set a waypoint to help yourself get there with the sat nav. Once you reach the garage, lift the shutter, and you'll meet Hao and the new car.
+
+
+The test drive that Hao was talking to you about is a time trial. You'll have 8:10 to beat Hao's timing, which isn…]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Games Of 2025 So Far]]></title>
+        <id>1851767689</id>
+        <link href="https://kotaku.com/2025-best-games-monster-hunter-split-fiction-avowed-1851767689"/>
+        <updated>2025-03-05T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s only the beginning of March but 2025 already has some bangers worth spotlighting, including real standouts like Split Fiction and Avowed, so we decided to start compiling the best games of the year early and update this list as the days, weeks, and months go by. Here are some of the best games we’ve played so far…
+Read more...]]></summary>
+        <author>
+            <name>Kenneth Shepard, John Walker, Ethan Gach, and Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destiny 2’s Guardian Games return with a “bite-sized” boss rush mode]]></title>
+        <id>https://www.destructoid.com/?p=1024356</id>
+        <link href="https://www.destructoid.com/destiny-2s-guardian-games-return-with-a-bite-sized-boss-rush-mode/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=destiny-2s-guardian-games-return-with-a-bite-sized-boss-rush-mode"/>
+        <updated>2025-03-05T13:29:00.000Z</updated>
+        <summary type="html"><![CDATA[Bungie revealed that the Guardian Games were returning to Destiny 2 on March 11, alongside the start of the second Act of Episode: Heresy. While the team promised that more info would come before its arrival, the devs teased a "bite-sized" boss rush activity inbound for the event.
+
+
+Every year, the Guardian Games return to Destiny 2, pitting the three player Classes against each other to determine whether Hunters, Warlocks, or Titans reign supreme. Typically, Guardian Games is centered around participating in Class vs Class PvP matches and specific highlighted PvE content. For 2025, it sounds like the event might be changing itself up a bit, opting for something a bit more in the vein of Into the Light's well-received Pantheon activity.
+
+
+Smaller than Pantheon
+
+
+Image via Bungie
+
+
+While Bu…]]></summary>
+        <author>
+            <name>Jonathan LoChiatto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiple Mario games, including Super Mario RPG, get $20 discount on MAR10 day]]></title>
+        <id>https://www.destructoid.com/?p=1024686</id>
+        <link href="https://www.destructoid.com/multiple-mario-games-including-super-mario-rpg-get-20-discount-on-mar10-day/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=multiple-mario-games-including-super-mario-rpg-get-20-discount-on-mar10-day"/>
+        <updated>2025-03-05T13:27:48.000Z</updated>
+        <summary type="html"><![CDATA[It's time to say, "Wahoo!" because multiple Mario games will get a $20 discount for March 10 (otherwise known as Mar10 day). Some of the discounted games include Super Mario RPG and Mario Kart 8 Deluxe, potentially giving your Switch library a 1-UP. 
+
+
+Many Mario games will be on sale
+
+
+From March 9 to March 15, the following Mario games will be on sale at Best Buy, Walmart, GameStop, and Target:
+
+
+$39.99
+
+
+
+Super Mario Odyssey
+
+
+Super Mario RPG
+
+
+Mario Kart 8 Deluxe 
+
+
+Super Mario 3D World + Bowser's Fury
+
+
+Princess Peach: Showtime!
+
+
+Luigi's Mansion 2 HD
+
+
+
+$29.99
+
+
+
+Mario vs. Donkey Kong
+
+
+
+Image via Nintendo
+
+
+If you haven't purchased a Nintendo Switch yet, the Japanese console manufacturer will provide a new bundle. For $349.99, you can get a Nintendo Switch - OLED model with Super Mario Bros. Wonder and three months of Nintendo Switch Online (NSO). NSO provides access to the online features of the console's games and a library of classic NES, SNES, and Game Boy titles. This bundle will be available at Best Buy and GameStop locations.
+
+
+Whether or not it's worth getting a Nintendo Switch OLED model at this point is up to you. The Nintendo Switch 2 is due to launch sometime this year; a new Mario Kart has been teased alongside it.
+
+
+Super Mario RPG launched last year as a remake of the classic SNES RPG. It updates the visuals to a wonderful degree while staying true to the original gameplay. It's one of the best Mario games on the Nintendo Switch.
+
+
+Destructoid gave the remake a 9/10 review. "This Switch remake brilliantly preserves the spirit of the original SNES game, with some great quality-of-life enhancements and a phenomenally redone soundtrack," the article said. "Longtime fans looking for a more transformative remake may feel disappointed, but when the core game itself has aged this well, it doesn’t suffer in the ways a lesser title would."
+
+The post Multiple Mario games, including Super Mario RPG, get $20 discount on MAR10 day appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Chris Penwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kick demon ass as iconic Mortal Kombat characters with this Doom 2 mod]]></title>
+        <id>https://www.destructoid.com/?p=1024729</id>
+        <link href="https://www.destructoid.com/kick-demon-ass-as-iconic-mortal-kombat-characters-with-this-doom-2-mod/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kick-demon-ass-as-iconic-mortal-kombat-characters-with-this-doom-2-mod"/>
+        <updated>2025-03-05T13:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Doom and Doom 2 have been around for decades and have retained their status as influential games in the first-person shooter genre. But the series isn't as old as, say, Mortal Kombat, which released its first game in 1992. Hmmm...I wonder what it would be like to mix the two together.
+
+
+Lo and behold, someone has done just that. Take a look at what SkeletronMK666 over on ModDB has given us. Ultimate Mortal Kombat for DOOM is a way to battle the demons of hell as some of the fighting franchise's most iconic characters.
+
+
+Screenshot via Destructoid.
+
+
+The mod is for Doom 2, and you get to choose between Scorpion, Sub-Zero, Cyrax, Smoke, and Rain, or you can let the game decide for you. What's it like to perform the "Get Over Here" move on an imp? Well, if the video is anything to go by, pretty dope, it seems (do people still say dope?).
+
+
+Finish them!
+
+
+It's not just pure aesthetics, either, such as getting to see Doom Guy's avatar replaced with someone from Mortal Kombat. The weapons have also been changed to reflect each character. So Sub-Zero has his ice powers, Rain can blast his foes with water, and yes, Scorpion does have his iconic spear throw.
+
+
+I should say that, technically, SkeletronMK666's mod has been out since 2021. However, it had an update not long ago, which would explain why it's now showing on the most recent list for ModDB downloads. This one has clearly passed me by, so I wanted to give it a shout-out.
+
+
+If you know me, you know I love talking about Doom and Doom 2 mods. I'm actually just fascinated by the modding community in general. To think that, 30 years after release, id Software's legendary FPS is still attracting large swathes of fans that take a look at these aging games and think, I know what I can do with this.
+
+The post Kick demon ass as iconic Mortal Kombat characters with this Doom 2 mod appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Andrew Heaton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best consumables in Monster Hunter Wilds, ranked]]></title>
+        <id>https://www.destructoid.com/?p=1024423</id>
+        <link href="https://www.destructoid.com/best-consumables-in-monster-hunter-wilds-ranked/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=best-consumables-in-monster-hunter-wilds-ranked"/>
+        <updated>2025-03-05T13:09:32.000Z</updated>
+        <summary type="html"><![CDATA[Consumables in Monster Hunter Wilds are a core part of its gameplay loop. That's especially true as you approach the endgame. While all of them have their place, the best define how hunts begin and how quickly they end, which is why we're ranking them here today.
+
+
+The best consumables in Monster Hunter Wilds
+
+
+Screenshot by Destructoid
+
+
+For this list, I'll be ranking items from the Healing/Support crafting menu, which includes things like Mega Potions, Cool Drinks, Demon Drugs, and the like. I'll also be including items like Might and Adamant Seeds, as their effects stack. Let's get started.
+
+
+15. Potions and First Aid Meds
+
+
+The humble Potion is the most basic consumable in the game. It doesn't heal much, takes forever to use without Skill buffs, and is usually only good to keep so you …]]></summary>
+        <author>
+            <name>John Schutt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destiny 2’s free Rite of the Nine event brings back the best parts of Into the Light for Dungeons during Heresy Act 3]]></title>
+        <id>https://www.destructoid.com/?p=1024322</id>
+        <link href="https://www.destructoid.com/destiny-2s-free-rite-of-the-nine-event-brings-back-the-best-parts-of-into-the-light-for-dungeons-during-heresy-act-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=destiny-2s-free-rite-of-the-nine-event-brings-back-the-best-parts-of-into-the-light-for-dungeons-during-heresy-act-3"/>
+        <updated>2025-03-05T12:59:05.000Z</updated>
+        <summary type="html"><![CDATA[A free event is coming to Destiny 2 for the third Act of Episode: Heresy. Much like the beloved event that preceded The Final Shape expansion, the upcoming Rite of the Nine adds coveted holofoil variant weapons, a new social space, and a fresh breath of life into the game.
+
+
+Just before The Final Shape, all Guardians got to experience Into the Light. The Into the Light event added the Onslaught horde mode to Destiny 2 and first introduced the concept of holofoil, or shiny, weapon variants. The event was a big success, and now it looks like Bungie is trying to recapture some of that energy for Rite of the Nine.
+
+
+A focus on Dungeons
+
+
+Image via Bungie YouTube
+
+
+Rite of the Nine will put players' focus on three Dungeons from Destiny 2's past: Prophecy, Spire of the Watcher, and Ghosts of the…]]></summary>
+        <author>
+            <name>Jonathan LoChiatto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hollywood Studios Sue Pirate IPTV Services in U.S. Court]]></title>
+        <id>https://torrentfreak.com/?p=264613</id>
+        <link href="https://torrentfreak.com/hollywood-studios-sue-pirate-iptv-services-in-u-s-court-250305/"/>
+        <updated>2025-03-05T12:54:01.000Z</updated>
+        <summary type="html"><![CDATA[Members of the Alliance for Creativity and Entertainment (ACE) filed two separate copyright infringement lawsuits yesterday, targeting the alleged operators of IPTV services including 'Outer Limits IPTV', 'Shrugs' and 'Zing'. Amazon, Netflix and several major Hollywood studios demand an end to the infringing activity and an award for damages, which could run to millions of dollars. 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA 5's free Enhanced PC update spoiled by missing in-game text chat, but it may only be temporary]]></title>
+        <id>https://www.rockpapershotgun.com/gta-5s-free-enhanced-update-spoiled-by-missing-in-game-text-chat-but-it-may-only-be-temporary</id>
+        <link href="https://www.rockpapershotgun.com/gta-5s-free-enhanced-update-spoiled-by-missing-in-game-text-chat-but-it-may-only-be-temporary"/>
+        <updated>2025-03-05T12:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Grand Theft Auto 5 on PC has been updated with a new Enhanced version, bundling in a range of tune-ups such as ray-traced graphics and support for AMD FSR and NVIDIA DLSS, new features for GTA Online, and a heaping helping of swankmobiles for your fleet of GTA cars. Existing GTA 5 story mode and GTA Online progress will carry over, and it’s all free to people who own the old version of GTA 5, which is now known as the Legacy version on Steam. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab FreeDesktop.org nebude od 16. března cca týden k dispozici]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/gitlab-freedesktop.org-nebude-od-16.-brezna-cca-tyden-k-dispozici</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/gitlab-freedesktop.org-nebude-od-16.-brezna-cca-tyden-k-dispozici"/>
+        <updated>2025-03-05T12:35:34.000Z</updated>
+        <summary type="html"><![CDATA[Infrastruktura GitLab FreeDesktop.org (X.Org, XDG, Wayland, Mesa, PipeWire, …) nebude od 16. března cca týden k dispozici kvůli jejímu přesunu k novému providerovi, tj. od Equinix Metal k Hetzner.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Definitive Guide on How to Get Reputation in Verse Piece [Lancer]]]></title>
+        <id>https://www.destructoid.com/?p=1023801</id>
+        <link href="https://www.destructoid.com/how-to-get-reputation-in-verse-piece/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-reputation-in-verse-piece"/>
+        <updated>2025-03-05T12:33:52.000Z</updated>
+        <summary type="html"><![CDATA[Unless you are a veteran Verse Piece player, then you've probably once wondered what the Reputation next to your name means. So, to answer your question and teach you how to earn a name for yourself, we prepared the following guide on how to get Reputation in Verse Piece.
+
+
+Table of Contents
+What is Reputation in Verse Piece
+How to Farm Reputation in Verse Piece
+
+Farming Reputation With Jujutsu Missions
+Farming Reputation With Hueco Mundo (Bleach) Missions
+Gaining Reputation by Defeating Other Players in Verse Piece
+
+Trading Reputation With Other Players
+What to Do With Reputation in Verse Piece
+
+How Long Does it Take to Reach Special Grade?
+
+
+What is Reputation in Verse Piece
+
+
+
+You can see your current reputation in the Leaderboard menu
+
+
+
+Initially, the Reputation and Bounty systems in …]]></summary>
+        <author>
+            <name>Matija Stojkovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hydrapple from “Heat Wave Arena”]]></title>
+        <id>155737</id>
+        <link href="https://www.pokebeach.com/forums/threads/hydrapple-from-%E2%80%9Cheat-wave-arena%E2%80%9D.155737/"/>
+        <updated>2025-03-05T12:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Hydrapple will appear in Heat Wave Arena, which releases on March 14th in Japan. The cards from the set will become part of our Destined Rivals set in May.
+Applin – Grass – HP40
+Basic Pokémon
+[G] Mini Drain: 10 damage. Heal 10 damage from this Pokémon.
+Weakness: Fire (x2)
+Resistance: None...]]></summary>
+        <author>
+            <name>JustInBasil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7326-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7326-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7326-1"/>
+        <updated>2025-03-05T12:30:11.000Z</updated>
+        <summary type="html"><![CDATA[Attila Szász discovered that the HFS+ file system implementation in the
+Linux Kernel contained a heap overflow vulnerability. An attacker could use
+a specially crafted file system image that, when mounted, could cause a
+denial of service (system crash) or possibly execute arbitrary code.
+(CVE-2025-0927)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Media drivers;
+  - Network drivers;
+(CVE-2024-50274, CVE-2024-53104, CVE-2024-53064)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -98,16 +620,6 @@ In simple words, Hunter Rank is a leveling system corresponding to how experienc
 If you're a relative beginner, it's best to priori…]]></summary>
         <author>
             <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 136 je tu a nabízí boční panel i HTTPS-First]]></title>
-        <id>www.root.cz-actuality-47217</id>
-        <link href="https://www.root.cz/zpravicky/firefox-136-je-tu-a-nabizi-bocni-panel-i-https-first/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-05T11:45:18.000Z</updated>
-        <summary type="html"><![CDATA[V nastavení uspořádání prvků nové verze Firefoxu 136 přibyla toužebně očekávaná položka: možnost přistupovat k řadě nástrojů bez nutnosti opuštění daného okna prohlížeče. Boční panel zahrnuje vedle záložek, historie a panelů ze synchronizovaných zařízení také AI chatbota. Panely lze také uspořádat do vertikální podoby usnadňující přístup, když jich je opravdu hodně.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -428,26 +940,6 @@ code. (CVE-2024-0321)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fotograf amatér: jaký přístroj je pro mě ten pravý?]]></title>
-        <id>www.root.cz-text-17571</id>
-        <link href="https://www.root.cz/clanky/fotograf-amater-jaky-pristroj-je-pro-me-ten-pravy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-04T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V druhé části obsáhlého článku se dozvíte něco o tom, čím jsem nahradil svou letitou zrcadlovku Pentax a jak vlastně vypadal upgrade. Co vyhrálo, jaké parametry jsou pro mě důležité? Co jsem koupil?]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Svatopluk Vít)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Softwarová sklizeň (5. 3. 2025): ovládněte databáze a clustery]]></title>
-        <id>www.root.cz-text-17667</id>
-        <link href="https://www.root.cz/clanky/softwarova-sklizen-5-3-2025-ovladnete-databaze-a-clustery/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-04T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Pravidelná sonda do světa software. Podíváme se na platformu pro monitorování a správu clusterů Apache Cassandra, vyzkoušíme správce databází založených na SQLite a nakonec budeme analyzovat binární soubory.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to find and collect mineral samples using the Plasma Burst Laser in Fortnite]]></title>
         <id>https://www.destructoid.com/?p=1024246</id>
         <link href="https://www.destructoid.com/how-to-find-and-collect-mineral-samples-using-the-plasma-burst-laser-in-fortnite/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-find-and-collect-mineral-samples-using-the-plasma-burst-laser-in-fortnite"/>
@@ -542,7 +1034,7 @@ Reddit user Fondor_Yards shared a helpful tip for the Glass Alga…]]></summary>
         <id>https://www.destructoid.com/?p=1024355</id>
         <link href="https://www.destructoid.com/how-to-level-up-staff-faster-in-two-point-museum/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-level-up-staff-faster-in-two-point-museum"/>
         <updated>2025-03-04T22:22:11.000Z</updated>
-        <summary type="html"><![CDATA[Two Point Museum values the rate at which you're leveling up your staff, as it will ultimately determine your success (or failure).
+        <summary type="html"><![CDATA[Two Point Museum places a lot of value on the rate at which you're leveling up your staff, as it will ultimately determine your success (or failure).
 
 
 While it makes sense to hire a large number of crew members to run your museum, efficiency is key. Leveling up your staff will improve their performance in their respective roles and give them the necessary skills to run the place.
@@ -554,7 +1046,7 @@ While your staff will level up on their own, some critical steps must be taken t
 Best tips and tricks to level up staff faster in Two Point Museum
 
 
-The first task is ensuring that your workers are constantly engaged with productive work. They will always earn XP when they perform tasks that relate closely to their specializations. While it makes sense to cover workers adequately, don't hire so man…]]></summary>
+The first task is ensuring that your workers are constantly engaged with productive work. They will always earn XP when they perform tasks that relate closely to their specializations. While it makes sense to cover workers adequately,…]]></summary>
         <author>
             <name>Arka Sarkar</name>
         </author>
@@ -916,16 +1408,6 @@ At its core, Absolum is an arcade-style beat 'em up, Dotemu is well known for de
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Radeon R9 290X je 11 let starý, nyní dostává průběžnou integraci pro Mesa RADV]]></title>
-        <id>www.root.cz-actuality-47214</id>
-        <link href="https://www.root.cz/zpravicky/radeon-r9-290x-je-11-let-stary-nyni-dostava-prubeznou-integraci-pro-mesa-radv/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-04T18:35:51.000Z</updated>
-        <summary type="html"><![CDATA[Radeon R9 290X a další karty této generace mají 11 let od uvedení na trh. Pro končící Windows 10 pro ně nevyšel nový ovladač už skoro tři roky, pro Windows 11 vůbec. Na Linuxu v rámci projektu Mesa se ale ledy dále hýbou, tvůrci připravili podporu průběžné integrace (continuous integration) pro RADV ovladač, tedy API Vulkan.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Twitch Bans Hasan Piker After Hypothetical About Republicans Killing Senator Rick Scott [Update]]]></title>
         <id>1851767446</id>
         <link href="https://kotaku.com/hasan-piker-twitch-ban-kill-rick-scott-medicaid-fraud-1851767446"/>
@@ -989,16 +1471,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu Touch OTA-8 s podporou WPA3 a opravami chyb]]></title>
-        <id>www.root.cz-actuality-47211</id>
-        <link href="https://www.root.cz/zpravicky/ubuntu-touch-ota-8-s-podporou-wpa3-a-opravami-chyb/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-04T18:07:28.000Z</updated>
-        <summary type="html"><![CDATA[Nové vydání Ubuntu Touch 20.04 OTA-8 je neplánovanou bezpečností opravou pro Ubuntu Touch 20.04, která se během pár dnů objeví pro jednotlivá podporovaná zařízení (další kromě níže uvedených budou následovat později). Přináší tak jen minimum novinek, mezi kterými najdeme navrácení podpory VoLTE pro Volla Phone X23 a Volla Phone 22 (běžící na portu Halium 12) či podporu připojení k Wi-Fi sítím zabezpečeným WPA3.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -1325,82 +1797,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dragon Ball DAIMA just completely forgot about Join Bugs]]></title>
-        <id>https://www.destructoid.com/?p=1022804</id>
-        <link href="https://www.destructoid.com/dragon-ball-daima-just-completely-forgot-about-join-bugs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=dragon-ball-daima-just-completely-forgot-about-join-bugs"/>
-        <updated>2025-03-04T16:37:21.000Z</updated>
-        <summary type="html"><![CDATA[Dragon Ball DAIMA, the anime that celebrates the franchise's four decades of history, has recently come to a close. It's a beautiful love letter to the fans, perfectly encapsulating the excitement the franchise brings in just 20 episodes. It, after all, features numerous Super Saiyan and even canonizes Super Saiyan 4.
-
-
-Dragon Ball DAIMA, however, is more than just a recap. It wonderfully expounds on the Demon Realm, while also introducing new nemeses and curious items. One of these items are Join Bugs, though the anime seemed to have completely forgotten about it.
-
-
-Image via Crunchyroll
-
-
-A variety of powerful creepy crawlies
-
-
-The first quarter of the show were rightfully spent on exploring the Demon Realm. During which, the trio of Goku, Nahare, and Glorio had a number of misadventures…]]></summary>
-        <author>
-            <name>Christian Markle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honkai Star Rail 3.2 Stellar Jade and total pull count estimation]]></title>
-        <id>https://www.destructoid.com/?p=1023305</id>
-        <link href="https://www.destructoid.com/honkai-star-rail-3-2-stellar-jade-and-total-pull-count-estimation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=honkai-star-rail-3-2-stellar-jade-and-total-pull-count-estimation"/>
-        <updated>2025-03-04T16:36:18.000Z</updated>
-        <summary type="html"><![CDATA[A reliable source on X recently shared the estimated Stellar Jades and total pull count in the upcoming Honkai Star Rail 3.2 update. You can look forward to plenty of rewards as the new version will release a ton of exciting new content, including a new map and missions.
-
-
-Stellar Jades and pull count estimation in Honkai Star Rail 3.2
-
-
-The HSR 3.2 update is expected to go live on April 8, 2025, and it will release a lot of new content to look forward to. According to @_hiragara_ on X, one can obtain a good amount of Stellar Jades and Special Passes to pull for their favorite characters.
-
-
-Here's a rough estimation of the total pulls you can obtain in Honkai Star Rail 3.2 for free:
-
-
-Permanent and Recurring Content
-
-
-
-Daily Training - Stellar Jade x2520
-
-
-Gift of Odyssey - Star Rail Speci…]]></summary>
-        <author>
-            <name>Hijam Tompok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Split Fiction launch times and pre-load details]]></title>
-        <id>https://www.destructoid.com/?p=1024133</id>
-        <link href="https://www.destructoid.com/split-fiction-launch-times-and-pre-load-details/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=split-fiction-launch-times-and-pre-load-details"/>
-        <updated>2025-03-04T16:32:34.000Z</updated>
-        <summary type="html"><![CDATA[Split Fiction, the new title from It Takes Two developers Hazelight Studios, is set to drop on March 6. It’s a new chance for co-op gameplay with a friend, exploring the dual worlds of fantasy and sci-fi in a world-hopping adventure. 
-
-
-If you’re excited to give into the Split Fiction world, then there’s good news — here’s everything you need to know about when the game will release in your time zone, and how to pre-load the game ready for the drop. 
-
-
-When is Split Fiction releasing?
-
-
-Image via Hazelight Studios 
-
-
-I get it, converting time zones can be somewhat of a challenge, and that’s coming from someone who regularly has to contend with a time difference. The image above shows when Split Fiction will be coming out in your time zone. 
-
-
-Here’s the full list of release times per timez…]]></summary>
-        <author>
-            <name>Paula Vaynshteyn</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fix Monster Hunter Wilds' Greediest Microtransaction And More With These Five Great Mods]]></title>
         <id>1851767589</id>
         <link href="https://kotaku.com/monster-hunter-wilds-mods-pc-graphics-edit-voucher-ui-1851767589"/>
@@ -1430,28 +1826,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Byl vydán Mozilla Firefox 136.0. Přehled novinek v poznámkách k vydání a poznámkách k vydání pro vývojáře. V Nastavení v Rozložení prohlížeče lze zapnout Zobrazit postranní lištu a v Postranní liště lze zapnout Svislé panely (Vertical Tabs). Řešeny jsou rovněž bezpečnostní chyby. Nový Firefox 136 je již k dispozici také na Flathubu a Snapcraftu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to complete Big Dill’s Found Story quests in Fortnite]]></title>
-        <id>https://www.destructoid.com/?p=1024094</id>
-        <link href="https://www.destructoid.com/how-to-complete-big-dills-found-story-quests-in-fortnite/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-complete-big-dills-found-story-quests-in-fortnite"/>
-        <updated>2025-03-04T16:03:18.000Z</updated>
-        <summary type="html"><![CDATA[It's time to party hard in Fortnite with Big Dill in Crime City. He lives on the dance floor and needs your help planning a party. Thankfully, he already did most of the setup, so your main job is to find some drinks and get some music records playing.
-
-
-Fortnite Big Dill Found quest walkthrough
-
-
-Fortnite Big Dill Found quest is a two-part mission where you'll locate Big Dill and start a party with him. However, starting it requires progressing through Wanted: Joss until you reach the "Help Big Dill with the party" stage. You may also encounter a bug during this mission, which you can fix by joining a Ranked Fortnite match.
-
-
-How to complete "Somebody's planning a party in Crime City"
-
-
-Your goal with this first task is to find Big Dill, a pickle NPC that roams on top of a rooftop in Crim…]]></summary>
-        <author>
-            <name>Madison Benson</name>
         </author>
     </entry>
     <entry>
@@ -1490,46 +1864,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Split Fiction]]></title>
-        <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=1023248</id>
-        <link href="https://www.destructoid.com/reviews/review-split-fiction/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=review-split-fiction"/>
-        <updated>2025-03-04T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Josef Fares' games have held a firm spot in my heart for years. I haven't finished my Brothers playthrough, but I thoroughly enjoyed A Way Out and watched some friends play It Takes Two. Those games are already stellar, but Split Fiction is an absolute masterpiece.
-
-
-I went into Split Fiction with high expectations, knowing I had enjoyed Fares' and Hazelight's previous games. I wasn't expecting a game that raises the bar for what a cooperative multiplayer game can look like. What started as curiosity and mild excitement turned into some of the most memorable and enjoyable gaming nights I've ever had with my long-time best friend, who shared similar sentiments.
-
-
-
-
-Split Fiction (PC [reviewed], PlayStation 5, Xbox Series X/S)
-Developer: Hazelight Studios
-Publisher: Electronic Arts
-Released:…]]></summary>
-        <author>
-            <name>Madison Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suikoden II-inspired series will be Konami Animation’s first TV anime production]]></title>
-        <id>https://www.destructoid.com/?p=1024152</id>
-        <link href="https://www.destructoid.com/suikoden-ii-inspired-series-will-be-konami-animations-first-tv-anime-production/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=suikoden-ii-inspired-series-will-be-konami-animations-first-tv-anime-production"/>
-        <updated>2025-03-04T15:56:16.000Z</updated>
-        <summary type="html"><![CDATA[In February of last year, Konami started its own anime studio, appropriately called Konami Animation. Now, one year later, the studio is embarking on its first full TV anime project to adapt Suikoden II. 
-
-
-Much like the studio’s name, the title of the anime is another no-brainer. Suikoden: The Anime aims to bring the second entry in the series — which first hit PlayStation back in 1998 — to the screen at an as-yet-undecided date. So far, outside of the source material, the only thing we really know is that Yuzo Sato (MUTEKING THE Dancing HERO) is directing. 
-
-
-Prior to this, the recently-established Konami Animation got its start working on animation production for Yu-Gi-Oh! Card Game The Chronicles. The pair of anime shorts were created to celebrate the 25th anniversary of the game. 
-
-
-T…]]></summary>
-        <author>
-            <name>Joseph Luster</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel Finds More Women Getting Involved In Open-Source, Maintainer Burnout Continues]]></title>
         <id>https://www.phoronix.com/news/Intel-Open-Source-Survey-2024</id>
         <link href="https://www.phoronix.com/news/Intel-Open-Source-Survey-2024"/>
@@ -1563,38 +1897,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to get to the Lightning Spirit on Stormpeak in Rune Slayer]]></title>
-        <id>https://www.destructoid.com/?p=1024073</id>
-        <link href="https://www.destructoid.com/how-to-get-to-the-lightning-spirit-on-stormpeak-in-rune-slayer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-to-the-lightning-spirit-on-stormpeak-in-rune-slayer"/>
-        <updated>2025-03-04T15:20:24.000Z</updated>
-        <summary type="html"><![CDATA[Looking to get your Lightning spell in Rune Slayer? Well, first you need to find the Lightning Spirit, this elusive NPC can be quite difficult to find, but if you follow or guide, you can find it in no time. Keep reading for all the details.
-
-
-How to reach the Lightning Spirit in Rune Slayer?
-
-
-Screenshot by Destructoid
-
-
-The Lightning Spirit NPC can be found on a mountain not far from Ashenshire. From there, follow the path that is headed towards the north and leads through the forest. Once you reach Greatwood Forest, continue heading towards the spire in the distance.
-
-
-Once you reach the swamp you have basically arrived, now you should hang right, after the big tree and in the direction of the mountain. Here, you should find a hanging rope close by. There are other ways you can start th…]]></summary>
-        <author>
-            <name>Damiano Gerli</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Godot 4.4 oficiálně s fyzikálním enginem Jolt]]></title>
-        <id>www.root.cz-actuality-47208</id>
-        <link href="https://www.root.cz/zpravicky/godot-4-4-oficialne-s-fyzikalnim-enginem-jolt/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-04T15:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Nová verze herního enginu Godot přináší Jolt Physics jako oficiální součást projektu. Fyzikální engine tak už nebude potřeba přidávat dodatečně, Godot jen formalizuje typický stav, kdy Jolt patřil mezi nejinstalovanější rozšíření enginu od svého entrée v roce 2022. A tvůrci rovnou dodávají, že ač toto začlenění je nejvíce otestovaným v historii, je vítána zpětná vazba od širšího spektra uživatelů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ExpressVPN Adds A GUI To Their Linux App]]></title>
         <id>https://www.phoronix.com/news/ExpressVPN-GUI-Linux-App</id>
         <link href="https://www.phoronix.com/news/ExpressVPN-GUI-Linux-App"/>
@@ -1602,43 +1904,6 @@ Once you reach the swamp you have basically arrived, now you should hang right, 
         <summary type="html"><![CDATA[There are a number of NetworkManager VPN plug-ins for different virtual private networking providers as a great way for setting up VPN access from the Linux desktop. But for those interested in using ExpressVPN with their official Linux client, they now offer a GUI to ease the setup process for using their commercial VPN service and proprietary software package...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All weapon skills in Monster Hunter Wilds]]></title>
-        <id>https://www.destructoid.com/?p=1023797</id>
-        <link href="https://www.destructoid.com/all-weapon-skills-in-monster-hunter-wilds/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-weapon-skills-in-monster-hunter-wilds"/>
-        <updated>2025-03-04T15:06:29.000Z</updated>
-        <summary type="html"><![CDATA[Monster Hunter Wilds has different weapons, and there are various skills you can utilize against the monsters for each weapon.
-
-
-Not only do the skills make your weapons feel unique, but they can also level up. While some of them increase the base damage of your equipment, others focus more on elemental damage. This guide will help you get a fair idea about all the available skills that are imparted by the weapons of your choice.
-
-
-Complete list of Weapon Skills in Monster Hunter Wilds
-
-
-Image by Destructoid
-
-
-Skill
-Effect
-Buffs
-
-
-
-
-Airborne
-Increases the damage from Jump attacks
-Lv. 1: Jumping attack power +10%
-
-
-Artillery
-Increases damage from explosive attacks
-Lv. 1: Moderately increases each attack and Wyvern's Fire firing speed. Shelling fire attack +30.
-Lv. 2: Increases each attack a…]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
         </author>
     </entry>
     <entry>
@@ -1653,49 +1918,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Honkai Star Rail 3.2 Light Cones leaked]]></title>
-        <id>https://www.destructoid.com/?p=1024055</id>
-        <link href="https://www.destructoid.com/honkai-star-rail-3-2-light-cones/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=honkai-star-rail-3-2-light-cones"/>
-        <updated>2025-03-04T14:48:50.000Z</updated>
-        <summary type="html"><![CDATA[The upcoming Honkai Star Rail 3.2 update is expected to release three new Light Cones. According to a reliable source, two of them are 5-star and are likely to be Castorice and Anaxa's signature Light Cones. Meanwhile, the third one is a free 4-star event Light Cone.
-
-
-Three new Light Cones in Honkai Star Rail 3.2
-
-
-As per the leaks via Hakush.in, the new version 3.2 will likely release the following three Light Cones:
-
-
-
-Life Should Be Cast to Flames (5-star - The Erudition)
-
-
-Make Farewells More Beautiful (5-star - The Remembrance)
-
-
-The Great Cosmic Enterprise (4-star - The Erudition)
-
-
-
-Life Should Be Cast to Flames
-
-
-Image via HoYoverse
-
-
-Life Should Be Cast to Flames is Anaxa's signature Light Cone and it has the following stats and effects at level 80 S1:
-
-
-
-Base HP - 983
-
-
-Base ATK…]]></summary>
-        <author>
-            <name>Hijam Tompok</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hledá se nové jméno pro postmarketOS]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/hleda-se-nove-jmeno-pro-postmarketos</id>
         <link href="http://www.abclinuxu.cz/zpravicky/hleda-se-nove-jmeno-pro-postmarketos"/>
@@ -1703,29 +1925,6 @@ Base ATK…]]></summary>
         <summary type="html"><![CDATA[Vývojáři postmarketOS publikovali přehled vývoje a dění za únor 2025. Vedle technických informací se věnují také vlastnímu jménu postmarketOS. Když projekt začínal, vývojáři cílili na nepodporované telefony. Dnes to už neplatí a například Fairphony mají podporu  postmarketOS ode dne uvedení na trh. Dalšími důvody pro změnu jména je, že jméno postmarketOS je příliš dlouhé a v textech se často uvádí jako PostmarketOS nebo PostMarketOS.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use community-created Hunters in Monster Hunter Wilds?]]></title>
-        <id>https://www.destructoid.com/?p=1024022</id>
-        <link href="https://www.destructoid.com/how-to-use-community-created-hunters-in-monster-hunter-wilds/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-use-community-created-hunters-in-monster-hunter-wilds"/>
-        <updated>2025-03-04T14:38:17.000Z</updated>
-        <summary type="html"><![CDATA[Monster Hunter Wilds allows you to customize the appearance of your hunter pretty freely, but you can also rely on the creativity of other members of the community.
-
-
-You'll have to select the design of your hunter at the start of a new journey. You can make plenty of tweaks to how they appear in-game, but you can also rely on other player's creations.
-
-
-How to use character design codes in Monster Hunter Wilds
-
-
-Whenever you create a character, it will be assigned a code. You can upload this code to allow other players to use it for their own hunters. Similarly, you can use the code shared by another person to use it inside the game.
-
-
-
-Saving an appearance is pretty easy, and you can do so from the rightmost tab in the character creation screen. However, you can do this only after you ha…]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
         </author>
     </entry>
     <entry>
@@ -2106,26 +2305,6 @@ service. (CVE-2023-22486, CVE-2023-26485)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Navrhujeme a vyrábíme vlastní CPU: první pokusy s FPGA]]></title>
-        <id>www.root.cz-text-17598</id>
-        <link href="https://www.root.cz/clanky/navrhujeme-a-vyrabime-vlastni-cpu-prvni-pokusy-s-fpga/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V tomto článku začneme jednoduchými obvody, postavíme digitální budík a nakonec připravíme periferní zařízení pro náš budoucí počítač: VGA výstup, vstup z klávesnice PS/2 a sériový port.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Martin Beran)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIMD instrukce v rozšíření SSE (2. část)]]></title>
-        <id>www.root.cz-text-17661</id>
-        <link href="https://www.root.cz/clanky/simd-instrukce-v-rozsireni-sse-2-cast/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Popíšeme si zbylé instrukce pro provádění numerických výpočtů. Také se zmíníme o instrukci pro porovnání prvků vektorů, která má celkem osm různých variant. A nezapomeneme ani na problematiku nekonečných hodnot a hodnot NaN.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Godot 4.4]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/godot-4.4</id>
         <link href="http://www.abclinuxu.cz/zpravicky/godot-4.4"/>
@@ -2143,25 +2322,6 @@ service. (CVE-2023-22486, CVE-2023-26485)]]></summary>
         <summary type="html"><![CDATA[Hello PokeBeach readers! Isaiah here, and I am happy to be writing another article! Last time, I discussed my updated Charizard ex deck list in the new format with Budew releasing in Prismatic Evolutions. Since then, a few tournaments have happened, each which has resulted in a Miraidon ex...]]></summary>
         <author>
             <name>PMJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7317-1: wpa_supplicant and hostapd vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7317-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7317-1"/>
-        <updated>2025-03-03T19:42:04.000Z</updated>
-        <summary type="html"><![CDATA[George Chatzisofroniou and Panayiotis Kotzanikolaou discovered that
-wpa_supplicant and hostapd reused encryption elements in the PKEX protocol.
-An attacker could possibly use this issue to impersonate a wireless access
-point, and obtain sensitive information. (CVE-2022-37660)
-
-Daniel De Almeida Braga, Mohamed Sabt, and Pierre-Alain Fouque discovered
-that wpa_supplicant and hostapd were vulnerable to side channel attacks due
-to the cache access patterns. An attacker could possibly use this issue to
-obtain sensitive information. This issue only affected Ubuntu 20.04 LTS.
-(CVE-2022-23303, CVE-2022-23304)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2188,44 +2348,6 @@ A brand new blog post from Level-5 has revealed some of the development woes its
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7294-4: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7294-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-7294-4"/>
-        <updated>2025-03-03T18:44:51.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - Block layer subsystem;
-  - ACPI drivers;
-  - Drivers core;
-  - ATA over ethernet (AOE) driver;
-  - TPM device driver;
-  - GPIO subsystem;
-  - GPU drivers;
-  - HID subsystem;
-  - I2C subsystem;
-  - InfiniBand drivers;
-  - Mailbox framework;
-  - Multiple devices driver;
-  - Media drivers;
-  - Network drivers;
-  - NTB driver;
-  - Virtio pmem driver;
-  - Parport drivers;
-  - PCI subsystem;
-  - SPI subsystem;
-  - Direct Digital Synthesis drivers;
-  - USB Device Class drivers;
-  - USB Dual Role (OTG-ready) Controller drivers;
-  - USB Serial drivers;
-  - USB Type-C support driver;
-  - Framebu…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2274,44 +2396,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7303-3: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7303-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7303-3"/>
-        <updated>2025-03-03T18:27:41.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM32 architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI drivers;
-  - Drivers core;
-  - ATA over ethernet (AOE) driver;
-  - Network block device driver;
-  - TPM device driver;
-  - Hardware crypto device drivers;
-  - ARM SCMI message protocol;
-  - EFI core;
-  - GPU drivers;
-  - I2C subsystem;
-  - I3C subsystem;
-  - InfiniBand drivers;
-  - Input Device core drivers;
-  - IOMMU subsystem;
-  - Mailbox framework;
-  - Media drivers;
-  - Ethernet bonding driver;
-  - Network drivers;
-  - Mellanox network drivers;
-  - STMicroelectronics network drivers;
-  - NTB driver;
-  - PC…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shaymin from “Heat Wave Arena”]]></title>
         <id>155730</id>
         <link href="https://www.pokebeach.com/forums/threads/shaymin-from-%E2%80%9Cheat-wave-arena%E2%80%9D.155730/"/>
@@ -2336,29 +2420,6 @@ Prevent all damage done to your Benched Pokémon without a Rule Box by attacks..
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Opinion: Nintendo, Let Us Buy The Games Being Delisted From Switch Online]]></title>
-        <id>https://www.nintendolife.com/#article-178886</id>
-        <link href="https://www.nintendolife.com/features/opinion-nintendo-let-us-buy-the-games-being-delisted-from-switch-online"/>
-        <updated>2025-03-03T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[NSO-go.
-Well, it finally happened: the first game to be delisted from Nintendo Switch Online will disappear on 27th March. For years, the numbers have only gone up, and the total NSO game-count sits at an impressive 182 at the time of writing - with 109 more if you subscribe at the Expansion Pack tier.
-NSO was a slow starter, but the value has grown enormously with its vintage game catalogue since October 2019. The threat of games being removed always lingered — and that's the reason we've called for the return of the Virtual Console in the past — but as streaming services of all sorts routinely pull content for a variety of reasons, Nintendo's lack of absentees was notable. Until now.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla obrací a mění podmínky používání Firefoxu]]></title>
-        <id>www.root.cz-actuality-47199</id>
-        <link href="https://www.root.cz/zpravicky/mozilla-obraci-a-meni-podminky-pouzivani-firefoxu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T17:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla vydala aktualizaci svých podmínek používání, které byly oznámeny 26. února a způsobily mnoho rozruchu. Organizace do nich totiž přidala některé sporné podmínky, které umožnily prohlížeči sbírat více údajů o uživatelích. Mozilla by podle původní verze podmínek také získávala automaticky licenci k odesílaným souborům a datům vkládaným na webu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Godot 4.4 Open-Source Game Engine Released With Many Improvements]]></title>
         <id>https://www.phoronix.com/news/Godot-4.4-Released</id>
         <link href="https://www.phoronix.com/news/Godot-4.4-Released"/>
@@ -2366,16 +2427,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Godot 4.4 is out as stable today for serving as the newest feature release to this leading open-source, cross-platform 2D/3D game engine...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi CM4 má nové varianty pro velký rozsah provozních teplot]]></title>
-        <id>www.root.cz-actuality-47196</id>
-        <link href="https://www.root.cz/zpravicky/raspberry-pi-cm4-ma-nove-varianty-pro-velky-rozsah-provoznich-teplot/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T17:12:22.000Z</updated>
-        <summary type="html"><![CDATA[Raspberry Pi oznámilo nové „rozšířené teplotní“ varianty výpočetního modulu Raspberry Pi Compute Module 4. Tyto nové varianty CM4 vydrží provozní teplotu od –40 °C do +85 °C a obsahují aktualizované paměti SDRAM, eMMC a další součástky, které jsou ověřeny tak, aby vydržely provoz při velmi vysokých a velmi nízkých teplotách.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -2541,31 +2592,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepSeek má linuxový distribuovaný souborový systém pro velký výkon v AI]]></title>
-        <id>www.root.cz-actuality-47193</id>
-        <link href="https://www.root.cz/zpravicky/deepseek-ma-linuxovy-distribuovany-souborovy-system-pro-velky-vykon-v-ai/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T14:18:39.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek zveřejnil linuxový distribuovaný souborový systém 3FS (Fire-Flyer File System) pro velký výkon v AI. Jde o souborový systém pro tisíce SSD a stovky uzlů, které jsou propojené rychlou sítí RDMA (Remote Direct Memory Access).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hydrapple from “Heat Wave Arena”]]></title>
-        <id>155737</id>
-        <link href="https://www.pokebeach.com/forums/threads/hydrapple-from-%E2%80%9Cheat-wave-arena%E2%80%9D.155737/"/>
-        <updated>2025-03-03T14:08:39.000Z</updated>
-        <summary type="html"><![CDATA[Hydrapple will appear in Heat Wave Arena, which releases on March 14th in Japan. The cards from the set will become part of our Destined Rivals set in May.
-Applin – Grass – HP40
-Basic Pokémon
-[G] Mini Drain: 10 damage. Heal 10 damage from this Pokémon.
-Weakness: Fire (x2)
-Resistance: None...]]></summary>
-        <author>
-            <name>JustInBasil</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Clair Obscur: Expedition 33 Delivers What Final Fantasy Has Been Missing]]></title>
         <id>1851767119</id>
         <link href="https://kotaku.com/clair-obscur-expedition-33-rpg-preview-turn-based-1851767119"/>
@@ -2616,36 +2642,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Brandon Morgan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetworkManager 1.52.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/networkmanager-1.52.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/networkmanager-1.52.0"/>
-        <updated>2025-03-03T13:26:13.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 1.52.0 sady nástrojů pro správu síťových připojení NetworkManager. Novinkám se v příspěvku na blogu NetworkManageru věnuje Íñigo Huguet.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edge Canary zakazuje doplňky z obchodu Chrome používající Manifest v2]]></title>
-        <id>www.root.cz-actuality-47190</id>
-        <link href="https://www.root.cz/zpravicky/edge-canary-zakazuje-manifest-v2-doplnky-z-obchodu-chrome/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T12:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Minulý týden prohlížeč Chrome začal postupně uživatelům vypínat Manifest v2, což má za následek nemožnost používat některé doplňky, jako třeba uBlock Origin. Uživatelé testovacího prohlížeče Edge Canary si minulý týden všimli, že doplňky z obchodu Chrome s Manifest v2 jsou také zakázány.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTC, ETH, XRP, SOL a ADA budou součástí strategických kryptorezerv Spojených států]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/btc-eth-xrp-sol-a-ada-budou-soucasti-strategickych-kryptorezerv-spojenych-statu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/btc-eth-xrp-sol-a-ada-budou-soucasti-strategickych-kryptorezerv-spojenych-statu"/>
-        <updated>2025-03-03T12:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Americký prezident Donalda Trumpa včera vyjmenoval digitální měny, jež budou součástí strategických kryptorezerv Spojených států: BTC, ETH, XRP, SOL a ADA [Truth Social].]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2750,46 +2746,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hra na Steamu zdarma Isle of Jura]]></title>
-        <id>www.root.cz-actuality-47187</id>
-        <link href="https://www.root.cz/zpravicky/hra-na-steamu-zdarma-isle-of-jura/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T09:09:06.000Z</updated>
-        <summary type="html"><![CDATA[Na Steamu je možné zdarma získat Isle of Jura. Jde o indie rybaření na pustém ostrově ve Skotsku. Hrajete Alexu, která potřebuje nachytat různé druhy ryb do své práce o biologii.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pětidenní kurz Zabbix dotovaný Úřadem práce]]></title>
-        <id>www.root.cz-actuality-46090</id>
-        <link href="https://www.root.cz/zpravicky/petidenni-kurz-zabbix-dotovany-uradem-prace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T09:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Chcete se stát odborníky na monitoring pomocí systému Zabbix? Nabízíme pětidenní kurz Zabbix, který probíhá online a je zaměřen na řešení praktických problémů. Kurz je dotován Úřadem práce, od kterého můžete získat až 82 % ceny kurzu. Kontaktujte naši kolegyni pavla.hettnerova@iinfo.cz.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V Blenderu vytvořený animovaný film Kočičí odysea vyhrál Oskara]]></title>
-        <id>www.root.cz-actuality-47184</id>
-        <link href="https://www.root.cz/zpravicky/v-blenderu-vytvoreny-animovany-film-kocici-odysea-vyhral-oskara/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T08:53:27.000Z</updated>
-        <summary type="html"><![CDATA[V Blenderu vytvořený nezávislý animovaný film Kočičí odysea vyhrál včera Oskara za nejlepší animovaný film a porazil tak profesionální studia Disney/Pixar a Dreamworks.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Procesor Intel Core 2 nefungoval dobře s jádry od roku 2019]]></title>
-        <id>www.root.cz-actuality-47181</id>
-        <link href="https://www.root.cz/zpravicky/procesor-intel-core-2-nefungoval-dobre-s-jadry-od-roku-2019/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-03T08:35:22.000Z</updated>
-        <summary type="html"><![CDATA[Procesor Intel Core 2 nefungoval dobře s jádry od roku 2019, kdy byl jako výchozí ovladač vybrán intel_idle místo ACPI idle. V procesoru Core 2 je totiž zvláštní chyba, kdy se zdroj času TSC zastaví v C2 a nižším ACPI stavu. ACPI ovladač měl pro tuto chybu opravu, intel_idle však ne.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tall Structures]]></title>
         <id>https://xkcd.com/3058/</id>
         <link href="https://xkcd.com/3058/"/>
@@ -2836,26 +2792,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: velká korejská kryptoloupež]]></title>
-        <id>www.root.cz-text-17658</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-velka-korejska-kryptoloupez/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-02T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V dnešním článku si povíme, jak se kryptozlodějům podařilo ukrást pořádný balík pro KLDR. Přijde řeč i na pár zranitelností, milion napadených chytrých televizí, a další díl boje policie proti aktivistům.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: CESNET CERTS)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora zlepší podporu RISC-V, openSUSE chce zrušit podporu pro BIOS]]></title>
-        <id>www.root.cz-text-17637</id>
-        <link href="https://www.root.cz/clanky/fedora-zlepsi-podporu-risc-v-opensuse-chce-zrusit-podporu-pro-bios/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-02T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Fedora se začíná vážněji zabývat architekturou RISC-V. Linuxová distribuce openSUSE zvažuje zrušení podpory starších BIOSů. DietPi, odlehčená linuxová distribuce založená na Debianu pro SBC, vyšla ve verzi 9.11.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 6.14-rc5 Released: "Nothing Strange Stands Out"]]></title>
         <id>https://www.phoronix.com/news/Linux-6.14-rc5-Released</id>
         <link href="https://www.phoronix.com/news/Linux-6.14-rc5-Released"/>
@@ -2863,16 +2799,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Linus Torvalds just released the Linux 6.14-rc5 kernel as the Linux 6.14 stable kernel approaches toward release later in March...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtuální Bastlírna vol. 48: čtyři roky virtuálního bastlení]]></title>
-        <id>www.root.cz-actuality-47178</id>
-        <link href="https://www.root.cz/zpravicky/virtualni-bastlirna-vol-48-ctyri-roky-virtualniho-bastleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-02T19:56:36.000Z</updated>
-        <summary type="html"><![CDATA[S počínajícím jarem přichází teplo jen pomalu, ovšem se zajímavými technickými tématy zatopí strahováci pod kotlem již toto úterý. Konat se bude 48. Virtuální Bastlírna, na které si můžete volně popovídat s ostatními bastlíři z celé československé bastlscény, jako byste seděli u piva, avšak online. Pro případ, že by se však volná diskuze zadrhávala, mají organizátoři připraveno i mnoho vlastních zajímavých témat. Pojďte se na ně podívat!]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: bkralik)</name>
         </author>
     </entry>
     <entry>
@@ -2970,26 +2896,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ARM Linux Kernel May Shift To Generic Entry Code: Less Assembly But Lower Performance]]></title>
-        <id>https://www.phoronix.com/news/ARM-Linux-Generic-Entry</id>
-        <link href="https://www.phoronix.com/news/ARM-Linux-Generic-Entry"/>
-        <updated>2025-03-02T11:16:26.000Z</updated>
-        <summary type="html"><![CDATA[A pull request was sent out on Friday that could potentially land for the upcoming Linux 6.15 kernel to transition ARM's kernel entry code from some architecture-specific Assembly over to using the generic entry code path. It means more unification and transitioning some Assembly code over to C, but it also comes with some hits to performance...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SDL 3.2.6 Released With HiDPI Icons & Color Management On Wayland]]></title>
-        <id>https://www.phoronix.com/news/SDL-3.2.6-Released</id>
-        <link href="https://www.phoronix.com/news/SDL-3.2.6-Released"/>
-        <updated>2025-03-02T11:02:18.000Z</updated>
-        <summary type="html"><![CDATA[Following the official SDL 3 release back in January, SDL 3.2.6 was released this weekend as the newest iteration of this widely-used software/hardware abstraction layer that is commonly leveraged by cross-platform games...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-754</id>
         <link href="https://www.rockpapershotgun.com/the-sunday-papers-754"/>
@@ -3058,16 +2964,6 @@ Most of the holo cards in the set have Abilities that give them boosts if Arceus
         <summary type="html"><![CDATA[Kybernetická kriminalita je pro evropské banky stále největším rizikem, navíc čelí výzvám okamžitých plateb. Salesforce a Google přinášejí AI Gemini do Agentforce. T-Mobile s 11,6 Gbit/s zaznamenal rekord v přenosu dat vzduchem. 197% nárůst e-mailových útoků a personalizované taktiky řízené AI. Od izolovaných datových sil ke sjednocenému úložišti: transformační síla multicloudových strategií v oblasti ukládání souborů.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepseek vyvíjí souborový systém 3FS, FFmpeg testuje AV1 RTP]]></title>
-        <id>www.root.cz-text-17655</id>
-        <link href="https://www.root.cz/clanky/deepseek-vyviji-souborovy-system-3fs-ffmpeg-testuje-av1-rtp/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-01T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jádro Linux 6.15 už bez >4GB RAM pro 32bit x86, týden v KDE: cihla k cihle pro Plasmu 6.4.0, týden v GNOME: nejen globální klávesové zkratky, beta ovladač API Vulkan pro karty Nvidia generace Blackwell.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -3503,16 +3399,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skype končí 5. května]]></title>
-        <id>www.root.cz-actuality-47172</id>
-        <link href="https://www.root.cz/zpravicky/skype-konci-5-kvetna/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-28T15:07:20.000Z</updated>
-        <summary type="html"><![CDATA[Oblíbený uzavřený software pro hlasovou, textovou a video komunikaci mezi lidmi skončí již za dva měsíce 5. května. Microsoft, který Skype vlastní od roku 2010, umožní stávajícím uživatelům Skype přejít na Teams.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monster Hunter Wilds Explodes On Steam Despite Terrible User Reviews]]></title>
         <id>1851766992</id>
         <link href="https://kotaku.com/monster-hunter-wilds-pc-performance-steam-framerate-1851766992"/>
@@ -3521,16 +3407,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hry na itch.io za 10 dolarů na podporu požáry zničené Kalifornie]]></title>
-        <id>www.root.cz-actuality-47169</id>
-        <link href="https://www.root.cz/zpravicky/hry-na-itch-io-za-10-dolaru-na-podporu-pozary-znicene-kalifornie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-28T14:54:17.000Z</updated>
-        <summary type="html"><![CDATA[Na serveru itch.io běží akce na podporu požáry zničené Kalifornie (Californie Fire Relief Bundle).  Za 10 dolarů dostanete 187 počítačových her bez DRM (z toho umí Linux nativně 66), 189 fyzických her (většinou jako PDF ke stažení), 17 knížek a 4 komiksy.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3554,16 +3430,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Keith Nelson Jr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro bude mít subsystém pro řízení pohybu]]></title>
-        <id>www.root.cz-actuality-47166</id>
-        <link href="https://www.root.cz/zpravicky/jadro-bude-mit-subsystem-pro-rizeni-pohybu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-28T13:59:13.000Z</updated>
-        <summary type="html"><![CDATA[Do jádra byl včera navržen subsystém pro řízení pohybu (Linux Motion Control, LMC). Je zaměřen například na CNC stroje a 3D tiskárny. Jde většinou o řízení různých motorů či lineárních aktuátorů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3615,16 +3481,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Christoph Hellwig odstupuje jako správce DMA-mapping v jádře]]></title>
-        <id>www.root.cz-actuality-47163</id>
-        <link href="https://www.root.cz/zpravicky/christoph-hellwig-odstupuje-jako-spravce-dma-v-jadre/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-28T09:42:33.000Z</updated>
-        <summary type="html"><![CDATA[V linuxovém jádře se odehrála ostrá diskuse ohledně budoucnosti Rustu v jádře. Spor byl o Rust rozhraní k DMA-mapping, kde je správcem Christoph Hellwig. Na jedné straně odstoupil správce Apple Silicon Hector Martin. Poté se Linus Torvalds i Greg Kroah-Hartman zastali Rustu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Axe Ghost is mix of Tetris, Sokoban, and Gloomhaven - a sort of 'Tekken', if you will]]></title>
         <id>https://www.rockpapershotgun.com/axe-ghost-is-mix-of-tetris-sokoban-and-gloomhaven-a-sort-of-tekken-if-you-will</id>
         <link href="https://www.rockpapershotgun.com/axe-ghost-is-mix-of-tetris-sokoban-and-gloomhaven-a-sort-of-tekken-if-you-will"/>
@@ -3644,16 +3500,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Kooperace agentů umělé inteligence při lovu. Termodynamika a kvantová fyzika jsou na sobě nezávislé. Svět amorfních ledů. Oceánským světem by mohl být i Jupiterův měsíc Callisto.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA vydala staré Command & Conquer hry jako open source]]></title>
-        <id>www.root.cz-actuality-47160</id>
-        <link href="https://www.root.cz/zpravicky/ea-vydala-stare-command-conquer-hry-jako-open-source/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-28T08:27:59.000Z</updated>
-        <summary type="html"><![CDATA[EA včera vydala staré Command & Conquer hry jako open source pod licencí GNU GPL v3. Týká se to Red Alert, Tiberian Down, Renegade a Generals & Zero Hour. Povolené jsou taky modifikace pře Steam Workshop pro Renegade, Generals & Zero Hour, Tiberium Wars and Kane’s Wrath, Red Alert 3 & Uprising a Tiberian Twilight.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3694,32 +3540,12 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prometheus: moderní monitoringový nástroj a sběrač metrik (školení)]]></title>
-        <id>www.root.cz-actuality-43419</id>
-        <link href="https://www.root.cz/zpravicky/prometheus-moderni-monitoringovy-nastroj-a-sberac-metrik/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-28T07:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Prometheus je moderní monitoringový nástroj a metrics server. Umožňuje sbírat metrická data z vaší aplikace a většiny komponent vaší infrastruktury a nad těmito daty dělat grafy (v Grafaně) a vytvářet varování. Prometheus spadá pod CNCF, stejně jako Kubernetes. Pokud chcete podrobně sledovat stav infrastruktury a služeb, zúčastněte se našeho dvoudenního školení Prometheus.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Excusing Yourself]]></title>
         <id>https://xkcd.com/3057/</id>
         <link href="https://xkcd.com/3057/"/>
         <updated>2025-02-28T05:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome mění pravidla pro rozšíření, éra uBlock Origin tím končí]]></title>
-        <id>www.root.cz-text-17649</id>
-        <link href="https://www.root.cz/clanky/chrome-meni-pravidla-pro-rozsireni-era-ublock-origin-tim-konci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-27T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Google rozhodl, že přechází u rozšíření prohlížeče na striktnější Manifest v3. S tím nastává konec efektivních blokátorů obsahu (reklam) jako uBlock Origin, které potřebují širší oprávnění.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -3762,28 +3588,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Details You Might’ve Missed In The First Pokémon Legends: Z-A Trailers]]></title>
-        <id>1851766880</id>
-        <link href="https://kotaku.com/pokemon-legends-z-a-switch-trailer-mega-evolution-az-1851766880"/>
-        <updated>2025-02-27T20:10:00.000Z</updated>
-        <summary type="html"><![CDATA[After a year of waiting, we finally got our first look at Pokémon Legends: Z-A during the annual Pokémon Presents showcase. The Switch game seems like a significant departure from the untamed open zones of Pokémon Legends: Arceus, which is exciting because we don’t know what to expect. The stream gave us a trailer as…
-Read more...]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel Rivals' Peni Parker Is A Trap-Setting Tank From The Future]]></title>
-        <id>1851766835</id>
-        <link href="https://kotaku.com/marvel-rivals-peni-parker-guide-abilities-guide-1851766835"/>
-        <updated>2025-02-27T19:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Peni Parker is a spider-person from the future, but instead of relying on mutations or enhancements herself, she has her mechanized counterpart to fill the web-slinging role for her. Peni is a fantastic ‘setup’ tank who excels at area denial, if she has time to set up. Weaker when pushing, she shines when defending…
-Read more...]]></summary>
-        <author>
-            <name>Brian Barnett</name>
         </author>
     </entry>
     <entry>
@@ -3847,16 +3651,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vyšel shell Fish 4.0 s kódem přepsaným z C++ do Rustu]]></title>
-        <id>www.root.cz-actuality-47157</id>
-        <link href="https://www.root.cz/zpravicky/vysel-shell-fish-4-0-s-kodem-prepsanym-z-c-do-rustu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-27T14:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Vyšla první stabilní verze řady 4.0 populárního shellu Fish shell, který je nově napsaný v jazyce Rust. Už v loňském roce vývojáři přišli s beta verzí, která převedla kód z jazyka C++ do jazyka Rust. Znamená to upravený proces sestavování a jiné závislosti, ale pro uživatele by se při používání nemělo nic změnit.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I found a great deal on this HP OMEN 45L RTX 4080 gaming PC, down to just $2199.99 with this coupon code]]></title>
         <id>https://www.rockpapershotgun.com/hp-omen-45l-rtx-4080-gaming-pc-best-deal-2025</id>
         <link href="https://www.rockpapershotgun.com/hp-omen-45l-rtx-4080-gaming-pc-best-deal-2025"/>
@@ -3915,36 +3709,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Haasoscope Pro je otevřený USB osciloskop s šířkou pásma 2 GHz]]></title>
-        <id>www.root.cz-actuality-47145</id>
-        <link href="https://www.root.cz/zpravicky/haasoscope-pro-je-otevreny-usb-osciloskop-s-sirkou-pasma-2-ghz/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-27T09:14:00.000Z</updated>
-        <summary type="html"><![CDATA[Andy Haas vymyslel a vytvořil Haasoscope Pro, cenově dostupný USB osciloskop s velkou šířkou pásma a vzorkováním v reálném čase. Jde o významné vylepšení původního projektu Haasoscope z roku 2018. Novou a výrazně vylepšenou verzi je možné podpořit v crowdfundingové kampani na serveru Crowd Supply.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KCD Czech & Slovak 2025 bude tentokrát v Bratislavě 5 a 6. června]]></title>
-        <id>www.root.cz-actuality-47154</id>
-        <link href="https://www.root.cz/zpravicky/kcd-czech-slovak-2025-bude-tentokrat-v-bratislave-5-a-6-cervna/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-27T09:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Čtvrtý ročník komunitní konference KCD Czech & Slovak 2025  bude tentokrát  v Bratislavě a to 5. a 6. června 2025. Tato dvoudenní konference je pro všechny vývojáře, DevOps, Platform Engineery, manažery, studenty a všechny, kteří mají zájem se dozvědět něco o Cloud Native technologiích, CNCF projektech, diskutovat s profíky v této oblasti, poznat DevOps kulturu a přidat se k velké české a slovenské komunitě.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: lbocinco)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knihovna zlib-rs napsaná v Rustu je rychlejší než ta původní v C]]></title>
-        <id>www.root.cz-actuality-47151</id>
-        <link href="https://www.root.cz/zpravicky/knihovna-zlib-rs-napsana-v-rustu-je-rychlejsi-nez-ta-puvodni-v-c/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-27T08:40:01.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři knihovny zlib-rs vydali novou verzi 0.4.2, která obsahuje řadu podstatných vylepšení výkonu. Nyní máme (pokud je nám známo) nejrychlejší implementaci zlib pro dekompresi a překonáváme konkurenci i v nejdůležitějších případech komprese, píše Folkert de Vries v oznámení nové verze.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Upcoming Civilization VII expansion release dates seemingly leaked by Nintendo]]></title>
         <id>https://www.rockpapershotgun.com/upcoming-civilization-vii-expansion-release-dates-seemingly-leaked-by-nintendo</id>
         <link href="https://www.rockpapershotgun.com/upcoming-civilization-vii-expansion-release-dates-seemingly-leaked-by-nintendo"/>
@@ -3958,26 +3722,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mozilla zveřejnila podmínky pro použití Firefoxu, umožňují jí sbírat více dat]]></title>
-        <id>www.root.cz-actuality-47148</id>
-        <link href="https://www.root.cz/zpravicky/mozilla-zverejnila-podminky-pro-pouziti-firefoxu-umoznuji-ji-sbirat-vice-dat/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-27T08:26:38.000Z</updated>
-        <summary type="html"><![CDATA[Organizace Mozilla poprvé zveřejnila podmínky používání prohlížeče Firefox a aktualizované oznámení o ochraně osobních údajů, které vstupují v platnost okamžitě a obsahují některé sporné podmínky. Ty umožní Mozille sbírat více dat o uživatelích a získat přístup k jejich datům.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Armbian 25.2 podporuje mnoho nových desek a přináší linuxové jádro 6.12]]></title>
-        <id>www.root.cz-actuality-47142</id>
-        <link href="https://www.root.cz/zpravicky/armbian-25-2-podporuje-mnoho-novych-desek-a-prinasi-linuxove-jadro-6-12/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-27T08:22:30.000Z</updated>
-        <summary type="html"><![CDATA[Vývojáři uvolnili novou verzi linuxové distribuce Armbian s označením 25.2, která se specializuje na jednodeskové počítače (SBC). K dispozici je podpora pro mnoho nových desek: Rock 2A a 2F, NanoPi R3S, Retroid Pocket RP5, RPMini, Rock 5T, GenBook, MKS-PI, SKIPR, Armsom CM5, NextThing C.H.I.P a Magicsee C400 Plus.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Second U.S. Pirate Site-Blocking Bill Incoming: MPA, Google, Verizon Met to Discuss]]></title>
         <id>https://torrentfreak.com/?p=264432</id>
         <link href="https://torrentfreak.com/second-u-s-piracyiblocking-bill-incoming-mpa-google-verizon-meet-to-discuss-250227/"/>
@@ -3986,26 +3730,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programovatelné IO na mikrořadičích RP2040: komunikace s PIO a ovládání PIO]]></title>
-        <id>www.root.cz-text-17646</id>
-        <link href="https://www.root.cz/clanky/programovatelne-io-na-mikroradicich-rp2040-komunikace-s-pio-a-ovladani-pio/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-26T23:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Ukážeme si základní způsoby komunikace hlavního programu běžícího na mikrořadiči s PIO programy. Pro tyto účely se používají fronty (FIFO) a vstupní i výstupní posuvné registry.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Potulky tmavými zákutiami kryptológie: pruská kryptografia]]></title>
-        <id>www.root.cz-text-17607</id>
-        <link href="https://www.root.cz/clanky/potulky-tmavymi-zakutiami-kryptologie-pruska-kryptografia/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-02-26T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Dnes si predstavíme metódy použitia kódov a šifier v rámci pruskej ríše, inštitúcie zodpovedné za schvaľovanie, podozrenia z ich krádeže. Bližšie sa zameriame na ich odolnosť voči útočníkom v praxi.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jozef Krajčovič)</name>
         </author>
     </entry>
     <entry>
@@ -5032,32 +4756,6 @@ Last night, one of the project's game directors, Thaddeus Sasser, revealed that 
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refusing to get drunk in Kingdom Come: Deliverance 2 is an oddly captivating act of rebellion]]></title>
-        <id>https://www.rockpapershotgun.com/refusing-to-get-drunk-in-kingdom-come-deliverance-2-is-an-oddly-captivating-act-of-rebellion</id>
-        <link href="https://www.rockpapershotgun.com/refusing-to-get-drunk-in-kingdom-come-deliverance-2-is-an-oddly-captivating-act-of-rebellion"/>
-        <updated>2025-02-19T10:22:20.000Z</updated>
-        <summary type="html"><![CDATA[This article contains moderate spoilers for the closing events of the Wedding Crashers quest in Kingdom Come: Deliverance 2.
-
-It’s impossible, I think, to play Kingdom Come: Deliverance 2 without playing a boozer, even if you’re only boozing in cutscenes. The game’s 15th century world is greased by many splendours of hooch, from the wine used in potion-brewing through the finer vintages at banqueting tables to the viral pondwater they sell in seedier taverns. A lot of the time, the writing views alcohol as a means of teeing up some slapstick debauchery reminiscent of Paul Bettany’s character in A Knight’s Tale. It venerates the spectacle of having a large one, with custom dialogue and voice-acting for protagonist Henry when you woozily explain your antics to guards. But sometimes, perhaps despite itself, it expresses something about the culture of drinking and the unpleasantness of being militantly exhorted to drink.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISP Will Unmask 100 Alleged BitTorrent Pirates in RIAA Lawsuit]]></title>
-        <id>https://torrentfreak.com/?p=263932</id>
-        <link href="https://torrentfreak.com/isp-will-unmask-100-alleged-bittorrent-pirates-in-riaa-lawsuit-250219/"/>
-        <updated>2025-02-19T10:09:48.000Z</updated>
-        <summary type="html"><![CDATA[Altice, parent company of Internet provider Optimum, agreed to disclose the personal details of a hundred alleged music pirates. The request comes from a group of prominent record labels and is part of an ongoing copyright infringement liability lawsuit. Altice, meanwhile, will receive anti-piracy information, including that related to a letter the RIAA previously sent to BitTorrent Inc., the owner of popular torrent client uTorrent.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
