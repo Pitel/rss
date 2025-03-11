@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-11T04:16:16.189Z</id>
+    <id>urn:2025-03-11T06:19:03.465Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-03-11T04:16:16.189Z</updated>
+    <updated>2025-03-11T06:19:03.465Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Okami 2 Studio Won't Limit Itself To Sequels And Existing IP]]></title>
+        <id>https://www.nintendolife.com/#article-179264</id>
+        <link href="https://www.nintendolife.com/news/2025/03/okami-2-studio-wont-limit-itself-to-sequels-and-existing-ip"/>
+        <updated>2025-03-11T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The next project could be "entirely new".
+The new Clovers Studio, led by video game industry legend Hideki Kamiya, won't be limited to "existing IP".
+Speaking to Japanese publication GameSpark, Kamiya and his former PlatinumGames colleague Kento Koyama mentioned how just because Clovers was starting with a sequel to Okami, didn't mean it would necessarily limit itself to sequels and spiritual successors.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ban Mimikyu]]></title>
+        <id>155766</id>
+        <link href="https://www.pokebeach.com/forums/threads/ban-mimikyu.155766/"/>
+        <updated>2025-03-11T05:17:49.000Z</updated>
+        <summary type="html"><![CDATA[It's an auto win! No damage from ex's or V's, then why did you event make the cards in the first place. My one out was stuck in my prize card pool. 😫]]></summary>
+        <author>
+            <name>ZelvaczMaidan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumour: Xbox Expected To Join Switch 2 With A New Handheld This Year]]></title>
+        <id>https://www.nintendolife.com/#article-179262</id>
+        <link href="https://www.nintendolife.com/news/2025/03/rumour-xbox-expected-to-join-switch-2-with-a-new-handheld-this-year"/>
+        <updated>2025-03-11T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft could be testing the waters...
+
+The Switch 2 is just around the corner and according to a new report it could be joined by a new Xbox handheld "later in 2025".
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What’s the ‘best’ worst game of all time?]]></title>
         <id>https://www.destructoid.com/whats-the-best-worst-game-of-all-time/</id>
@@ -68,6 +104,78 @@ Following on from Super Mario Bros. 2 last month and the Zelda: Link to the Past
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7338-1: CRaC JDK 17 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7338-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7338-1"/>
+        <updated>2025-03-11T01:13:38.000Z</updated>
+        <summary type="html"><![CDATA[Andy Boothe discovered that the Networking component of CRaC JDK 17 did not
+properly handle access under certain circumstances. An unauthenticated
+attacker could possibly use this issue to cause a denial of service.
+(CVE-2024-21208)
+
+It was discovered that the Hotspot component of CRaC JDK 17 did not
+properly handle vectorization under certain circumstances. An
+unauthenticated attacker could possibly use this issue to access
+unauthorized resources and expose sensitive information.
+(CVE-2024-21210, CVE-2024-21235)
+
+It was discovered that the Serialization component of CRaC JDK 17 did not
+properly handle deserialization under certain circumstances. An
+unauthenticated attacker could possibly use this issue to cause a denial
+of service. (CVE-2024-21217)
+
+It was discovered that the Hotspot component of CRaC JDK 17 did not
+properly handle API access under certain circumstances. An unauthenticated
+attacker could possibly use this issue to access unauthorized resources
+and expose sensitive information. (CVE-2025-21502)
+
+In addition to security fixes, the updated packages contain bug fixes, new
+features, and possibly incompatible changes.
+
+Please see the following for more information:
+https://openjdk.org/groups/vulnerability/advisories/2024-10-15
+https://openjdk.org/groups/vulnerability/advisories/2025-01-21]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7339-1: CRaC JDK 21 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7339-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7339-1"/>
+        <updated>2025-03-11T01:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Andy Boothe discovered that the Networking component of CRaC JDK 21 did not
+properly handle access under certain circumstances. An unauthenticated
+attacker could possibly use this issue to cause a denial of service.
+(CVE-2024-21208)
+
+It was discovered that the Hotspot component of CRaC JDK 21 did not
+properly handle vectorization under certain circumstances. An
+unauthenticated attacker could possibly use this issue to access
+unauthorized resources and expose sensitive information.
+(CVE-2024-21210, CVE-2024-21235)
+
+It was discovered that the Serialization component of CRaC JDK 21 did not
+properly handle deserialization under certain circumstances. An
+unauthenticated attacker could possibly use this issue to cause a denial
+of service. (CVE-2024-21217)
+
+It was discovered that the Hotspot component of CRaC JDK 21 did not
+properly handle API access under certain circumstances. An unauthenticated
+attacker could possibly use this issue to access unauthorized resources
+and expose sensitive information. (CVE-2025-21502)
+
+In addition to security fixes, the updated packages contain bug fixes, new
+features, and possibly incompatible changes.
+
+Please see the following for more information:
+https://openjdk.org/groups/vulnerability/advisories/2024-10-15
+https://openjdk.org/groups/vulnerability/advisories/2025-01-21]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2724,19 +2832,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA["The Answer Was Always No" - Ex-Nintendo Employee On Zelda Movie Pitches]]></title>
-        <id>https://www.nintendolife.com/#article-179155</id>
-        <link href="https://www.nintendolife.com/news/2025/03/the-answer-was-always-no-ex-nintendo-employee-on-zelda-movie-pitches"/>
-        <updated>2025-03-07T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Even if Steven Spielberg were involved.
-With the news in 2023 that Nintendo would be working on an official Legend of Zelda movie in collaboration with Sony Pictures Entertainment, you can bet that we had to scoop our jaws from off the floor.
-Even with the success of the Super Mario Bros. Movie, a Zelda adaptation just didn't seem all that feasible to us, and it sounds like Nintendo was of the same mind for many years. According to the Video Game History Hour podcast with ex-Nintendo "marketing mastermind" Gail Tilden (thanks, GamesRadar+), legendary developer Shigeru Miyamoto would flat-out say "No" when approached about a potential Zelda movie.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GCC 15 Now Enables AArch64 Early Scheduling For -O3/-Ofast Modes]]></title>
         <id>https://www.phoronix.com/news/GCC-15-AArch64-Early-Sched</id>
         <link href="https://www.phoronix.com/news/GCC-15-AArch64-Early-Sched"/>
@@ -2755,19 +2850,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monolith Soft Adds Final Fantasy Cutscene Artist To Its Ranks, So What's It Cooking For Switch 2?]]></title>
-        <id>https://www.nintendolife.com/#article-179153</id>
-        <link href="https://www.nintendolife.com/news/2025/03/monolith-soft-adds-final-fantasy-cutscene-artist-to-its-ranks-so-whats-it-cooking-for-switch-2"/>
-        <updated>2025-03-07T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The future is bright(er).
-If our hopes of some Monolith Soft Switch 2 goodness weren't already high enough, today, they reached a new peak as we learned that the team has added a fresh cutscene director to its ranks with a pretty beefy portfolio to his name.
-As brought to our attention by Stealth40K on BlueSky, the Nintendo-owned studio signed Daisuke Honda to its freelance staff late last year. One glance at the cutscene director's LinkedIn page reveals names like Square Enix and NetEase games, having previously worked on the likes of Final Fantasy XVI, VII Remake, Kingdom Hearts III and Visions of Mana.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3556,29 +3638,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7330-1: Ansible vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7330-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7330-1"/>
-        <updated>2025-03-05T20:26:48.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Ansible did not properly verify certain fields of
-X.509 certificates. An attacker could possibly use this issue to spoof
-SSL servers if they were able to intercept network communications. This
-issue only affected Ubuntu 14.04 LTS. (CVE-2015-3908)
-
-Martin Carpenter discovered that certain connection plugins for Ansible
-did not properly restrict users. An attacker with local access could
-possibly use this issue to escape a restricted environment via symbolic
-links misuse. This issue only affected Ubuntu 14.04 LTS. (CVE-2015-6240)
-
-Robin Schneider discovered that Ansible's apt_key module did not properly
-verify key fingerprints. A remote attacker could possibly use this issue
-to perform key injection, leading to the access of sensitive information.
-This issue only affec…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jádro Linux 6.15 s podporou 4k grafického tabletu XP-Pen Artist Pro 19 Gen2]]></title>
         <id>www.root.cz-actuality-47223</id>
         <link href="https://www.root.cz/zpravicky/jadro-linux-6-15-s-podporou-4k-grafickeho-tabletu-xp-pen-artist-pro-19-gen2/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3624,25 +3683,6 @@ Basic Pokémon
 [C] Ascension: Search your deck for a card that evolves from this Pokémon and put it onto...]]></summary>
         <author>
             <name>JustInBasil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7333-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7333-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7333-1"/>
-        <updated>2025-03-05T15:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Media drivers;
-  - Direct Digital Synthesis drivers;
-  - TTY drivers;
-  - 9P distributed file system;
-  - ALSA framework;
-(CVE-2023-52880, CVE-2024-43900, CVE-2024-36964, CVE-2024-50233,
-CVE-2022-48994)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4012,18 +4052,6 @@ Read more]]></summary>
 
 They will give up three Prize cards like Pokemon VMAX.
 They will be the same stages as their regular forms: Mega Gardevoir ex is a Stage 2 that evolves from Kirlia. Because...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cynthia’s Garchomp ex Special Illustration Rare Revealed from “Heat Wave Arena!”]]></title>
-        <id>155735</id>
-        <link href="https://www.pokebeach.com/forums/threads/cynthia%E2%80%99s-garchomp-ex-special-illustration-rare-revealed-from-%E2%80%9Cheat-wave-arena-%E2%80%9D.155735/"/>
-        <updated>2025-03-04T07:40:11.000Z</updated>
-        <summary type="html"><![CDATA[The Special Illustration Rare version of Cynthia’s Garchomp ex has been revealed from Heat Wave Arena! The set releases on March 14th in Japan. The cards from the set will become part of our Destined Rivals set in May.
-Cynthia’s Garchomp ex – Fighting – HP330
-Stage 2 – Evolves from Cynthia’s...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
