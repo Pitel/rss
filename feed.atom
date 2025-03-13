@@ -1,10 +1,204 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-13T08:18:38.058Z</id>
+    <id>urn:2025-03-13T10:14:42.377Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-03-13T08:18:38.058Z</updated>
+    <updated>2025-03-13T10:14:42.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mozilla varuje uživatele, aby aktualizovali Firefox před vypršením kořenového certifikátu]]></title>
+        <id>www.root.cz-actuality-47337</id>
+        <link href="https://www.root.cz/zpravicky/mozilla-varuje-uzivatele-aby-aktualizovali-firefox-pred-vyprsenim-korenoveho-certifikatu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-03-13T10:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla varuje uživatele prohlížeče Firefox, aby aktualizovali svůj prohlížeč na nejnovější verzi a vyhnuli se tak výpadku a bezpečnostním rizikům způsobeným blížícím se vypršením platnosti jednoho z kořenových certifikátů organizace. Platnost certifikátu vyprší už v pátek 14. března 2025 a byl používán k podepisování obsahu, včetně doplňků pro různé projekty Mozilla a samotný Firefox.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 25.1 To Enable Working Chromium VA-API Support]]></title>
+        <id>https://www.phoronix.com/news/Mesa-Chromium-VA-API-MR</id>
+        <link href="https://www.phoronix.com/news/Mesa-Chromium-VA-API-MR"/>
+        <updated>2025-03-13T10:09:07.000Z</updated>
+        <summary type="html"><![CDATA[A new set of Gallium3D video acceleration front-end patches by AMD contractor David Rosca allow for the Google Chromium/Chrome browser code to enjoy working VA-API accelerated video decoding with the open-source Mesa drivers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7325-3: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7325-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7325-3"/>
+        <updated>2025-03-13T09:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Attila Szász discovered that the HFS+ file system implementation in the
+Linux Kernel contained a heap overflow vulnerability. An attacker could use
+a specially crafted file system image that, when mounted, could cause a
+denial of service (system crash) or possibly execute arbitrary code.
+(CVE-2025-0927)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Media drivers;
+(CVE-2024-53104)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proposed Patches Would Allow Using Linux Kernel's libperf From Python]]></title>
+        <id>https://www.phoronix.com/news/Linux-libperf-Python-RFC</id>
+        <link href="https://www.phoronix.com/news/Linux-libperf-Python-RFC"/>
+        <updated>2025-03-13T09:58:31.000Z</updated>
+        <summary type="html"><![CDATA[A set of patches from IBM would introduce a C extension module for the Linux kernel's libperf code to allow usage from the Python programming language...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7332-3: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7332-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7332-3"/>
+        <updated>2025-03-13T09:40:20.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - PowerPC architecture;
+  - Block layer subsystem;
+  - GPIO subsystem;
+  - GPU drivers;
+  - Media drivers;
+  - Network drivers;
+  - SCSI subsystem;
+  - Direct Digital Synthesis drivers;
+  - TTY drivers;
+  - 9P distributed file system;
+  - JFS file system;
+  - NILFS2 file system;
+  - File systems infrastructure;
+  - BPF subsystem;
+  - Netfilter;
+  - Network sockets;
+  - Memory management;
+  - Amateur Radio drivers;
+  - B.A.T.M.A.N. meshing protocol;
+  - Bluetooth subsystem;
+  - Ethernet bridge;
+  - Networking core;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netlink;
+  - TIPC protocol;
+  - Wireless networking;
+  - ALSA framework;
+(CVE-2024-53156, CVE-2024-40943, CVE-2024-49902, CVE-2023-52488,
+CVE-2024-50233, CVE-2024-40911, CVE-2022-48994, CVE-2024-40981,
+CVE-2024-53104, CVE-2024-43900, CVE-2024-44938, CVE-2024-36952,
+CVE-2023-52799, CVE-2021-47103, CVE-2024-43863, CVE-2024-50171,
+CVE-2024-43892, CVE-2023-52522, CVE-2021-47606, CVE-2024-50148,
+CVE-2024-50117, CVE-2024-43893, CVE-2024-38567, CVE-2024-36886,
+CVE-2024-41064, CVE-2023-52818, CVE-2024-26685, CVE-2024-41063,
+CVE-2024-43854, CVE-2024-44931, CVE-2024-42068, CVE-2024-40910,
+CVE-2023-52880, CVE-2024-42070, CVE-2024-36964, CVE-2024-35896)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Mega Brave” and “Mega Symphonia” TCG Sets Releasing in August, Mega Gengar ex and Mega Diancie ex Decks!]]></title>
+        <id>155771</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-brave%E2%80%9D-and-%E2%80%9Cmega-symphonia%E2%80%9D-tcg-sets-releasing-in-august-mega-gengar-ex-and-mega-diancie-ex-decks.155771/"/>
+        <updated>2025-03-13T09:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Mega Brave and Mega Symphonia will release on August 1st in Japan! The sets will feature Mega Lucario ex and Mega Gardevoir ex, respectively.
+
+			
+				
+			
+			
+				
+			
+		
+
+The prefix of each set will be “Pokemon Card Game MEGA,” again confirming the TCG is departing from the Scarlet & Violet...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Pokemon Card Game MEGA” Trademarked, Goodbye “Scarlet & Violet!”]]></title>
+        <id>155752</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpokemon-card-game-mega%E2%80%9D-trademarked-goodbye-%E2%80%9Cscarlet-violet-%E2%80%9D.155752/"/>
+        <updated>2025-03-13T09:14:40.000Z</updated>
+        <summary type="html"><![CDATA[A new trademark for Pokemon Card Game MEGA has been filed by Pokemon Japan.
+
+			
+				
+			
+		
+
+While it’s under the same terms as trademarks used for set names, this trademark is likely referring to the name of the next series of sets that will begin with Legends: Z-A. The first MEGA sets will be...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyšší zemský soud Šlesvicka-Holštýnska přejde na LibreOffice]]></title>
+        <id>www.root.cz-actuality-47334</id>
+        <link href="https://www.root.cz/zpravicky/vyssi-zemsky-soud-slesvicka-holstynska-prejde-na-libreoffice/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-03-13T09:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Severoněmecká spolková země Šlesvicko-Holštýnsko dlouhodobě mluví o svém příklonu k otevřeným řešením a snaží se nasazovat svobodný software na počítačích místní samosprávy. Vyšší zemský soud Šlesvicka-Holštýnska oznámil, že ke konci roku přejde naplno na LibreOffice a opustí tak Microsoft Office.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Heat Wave Arena” Set Revealed Featuring Misty, Ethan, Cynthia, and Arven’s Pokemon!]]></title>
+        <id>155674</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cheat-wave-arena%E2%80%9D-set-revealed-featuring-misty-ethan-cynthia-and-arven%E2%80%99s-pokemon.155674/"/>
+        <updated>2025-03-13T08:51:59.000Z</updated>
+        <summary type="html"><![CDATA[The Heat Wave Arena set has been officially revealed! As posted before, it will release on March 14th.
+The set will feature 63 cards before secret rares. It will feature Trainer’s Pokemon for Misty, Ethan (Ho-Oh), Cynthia (Garchomp), and Arven (Mabosstiff).
+We anticipate our May set set will...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Journey Together” Prerelease Promos Revealed!]]></title>
+        <id>155764</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cjourney-together%E2%80%9D-prerelease-promos-revealed.155764/"/>
+        <updated>2025-03-13T08:47:39.000Z</updated>
+        <summary type="html"><![CDATA[The Journey Together prerelease promos have been revealed! All four cards are reprints from the set, but feature English-exclusive artwork (for now).
+
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+		
+
+You can get one of the promos in a Journey Together Build & Battle Box. They can be...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chimera Linux upouští od podpory RISC-V, neexistuje prý potřebný hardware]]></title>
+        <id>www.root.cz-actuality-47331</id>
+        <link href="https://www.root.cz/zpravicky/chimera-linux-upousti-od-podpory-risc-v-neexistuje-pry-potrebny-hardware/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-03-13T08:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři linuxové distribuce Chimera Linux oznámili, že ukončí podporu architektury RISC-V. Jde o zásadní krok, protože RISC-V byl touto distribucí podporován prakticky od samého počátku. Podle vývojářů neexistuje žádný dostatečně schopný hardware pro účely sestavení linuxové distribuce a všech jejích balíčků.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All EA FC 25 Season 6: Memory Lane rewards]]></title>
         <id>https://www.destructoid.com/?p=1030618</id>
@@ -56,26 +250,6 @@ Le…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Mega Brave” and “Mega Symphonia” TCG Sets Releasing in August, Mega Gengar ex and Mega Diancie ex Decks!]]></title>
-        <id>155771</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-brave%E2%80%9D-and-%E2%80%9Cmega-symphonia%E2%80%9D-tcg-sets-releasing-in-august-mega-gengar-ex-and-mega-diancie-ex-decks.155771/"/>
-        <updated>2025-03-13T08:09:57.000Z</updated>
-        <summary type="html"><![CDATA[Mega Brave and Mega Symphonia will release on August 1st in Japan! The sets will feature Mega Lucario ex and Mega Gardevoir ex, respectively.
-
-			
-				
-			
-			
-				
-			
-		
-
-The prefix of each set will be “Pokemon Card Game MEGA,” again confirming the TCG is departing from the Scarlet & Violet...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ubuntu nahradí klasické nástroje coreutils variantami založenými na Rustu]]></title>
         <id>www.root.cz-actuality-47328</id>
         <link href="https://www.root.cz/zpravicky/ubuntu-nahradi-klasicke-nastroje-coreutils-variantami-zalozenymi-na-rustu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -124,32 +298,6 @@ The set will release in Japan on March 14th. Its cards will become part of our D
 Ethan’s Typhlosion – Fire – HP170
 Stage 2 – Evolves from Ethan’s Quilava
 [R] Buddy Blast: 40+...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Journey Together” Prerelease Promos Revealed!]]></title>
-        <id>155764</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cjourney-together%E2%80%9D-prerelease-promos-revealed.155764/"/>
-        <updated>2025-03-13T04:24:44.000Z</updated>
-        <summary type="html"><![CDATA[The Journey Together prerelease promos have been revealed! All four cards are reprints from the set, but feature English-exclusive artwork (for now).
-
-			
-				
-			
-			
-				
-			
-			
-				
-			
-			
-				
-			
-		
-
-You can get one of the promos in a Journey Together Build & Battle Box. They can be...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -2398,30 +2546,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7343-1: Jinja2 vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7343-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7343-1"/>
-        <updated>2025-03-11T17:25:01.000Z</updated>
-        <summary type="html"><![CDATA[Rafal Krupinski discovered that Jinja2 did not properly restrict
-the execution of code in situations where templates are used maliciously.
-An attacker with control over a template's filename and content could
-potentially use this issue to enable the execution of arbitrary code.
-This issue only affected Ubuntu 14.04 LTS and Ubuntu 16.04 LTS.
-(CVE-2024-56201)
-
-It was discovered that Jinja2 sandboxed environments could be escaped
-through a call to a string format method. An attacker could possibly use
-this issue to enable the execution of arbitrary code. This issue only
-affected Ubuntu 14.04 LTS and Ubuntu 16.04 LTS. (CVE-2024-56326)
-
-It was discovered that Jinja2 sandboxed environments could be escaped
-through the malicious use of certain filters. An attacker could possibly
-use this issue to enable the execution of arbitrary code. (CVE-2025-27516)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ender Magnolia's latest update invites you to fight its toughest baddies again with a new boss rush mode]]></title>
         <id>https://www.rockpapershotgun.com/ender-magnolias-latest-update-invites-you-to-fight-its-toughest-baddies-again-with-a-new-boss-rush-mode</id>
         <link href="https://www.rockpapershotgun.com/ender-magnolias-latest-update-invites-you-to-fight-its-toughest-baddies-again-with-a-new-boss-rush-mode"/>
@@ -2445,61 +2569,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7332-2: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7332-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7332-2"/>
-        <updated>2025-03-11T16:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Attila Szász discovered that the HFS+ file system implementation in the
-Linux Kernel contained a heap overflow vulnerability. An attacker could use
-a specially crafted file system image that, when mounted, could cause a
-denial of service (system crash) or possibly execute arbitrary code.
-(CVE-2025-0927)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - PowerPC architecture;
-  - Block layer subsystem;
-  - GPIO subsystem;
-  - GPU drivers;
-  - Media drivers;
-  - Network drivers;
-  - SCSI subsystem;
-  - Direct Digital Synthesis drivers;
-  - TTY drivers;
-  - 9P distributed file system;
-  - JFS file system;
-  - NILFS2 file system;
-  - File systems infrastructure;
-  - BPF subsystem;
-  - Netfilter;
-  - Network sockets;
-  - Memory management;
-  - Amateur Radio drivers;
-  - B.A.T.M.A.N. meshing protocol;
-  - Bluetooth subsystem;
-  - Ethernet bridge;
-  - Networking core;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Netlink;
-  - TIPC protocol;
-  - Wireless networking;
-  - ALSA framework;
-(CVE-2024-26685, CVE-2024-50233, CVE-2024-41063, CVE-2024-42070,
-CVE-2024-40910, CVE-2024-40911, CVE-2024-36886, CVE-2024-35896,
-CVE-2024-43863, CVE-2023-52522, CVE-2024-53156, CVE-2023-52488,
-CVE-2024-43854, CVE-2024-44938, CVE-2024-53104, CVE-2024-44931,
-CVE-2024-50171, CVE-2024-43892, CVE-2024-50148, CVE-2024-38567,
-CVE-2024-36964, CVE-2024-43893, CVE-2024-36952, CVE-2022-48994,
-CVE-2021-47606, CVE-2023-52818, CVE-2024-41064, CVE-2024-40981,
-CVE-2024-40943, CVE-2024-42068, CVE-2023-52880, CVE-2021-47103,
-CVE-2024-43900, CVE-2024-50117, CVE-2023-52799, CVE-2024-49902)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2739,23 +2808,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Pokemon Card Game MEGA” Trademarked, Goodbye “Scarlet & Violet!”]]></title>
-        <id>155752</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpokemon-card-game-mega%E2%80%9D-trademarked-goodbye-%E2%80%9Cscarlet-violet-%E2%80%9D.155752/"/>
-        <updated>2025-03-11T13:57:47.000Z</updated>
-        <summary type="html"><![CDATA[A new trademark for Pokemon Card Game MEGA has been filed by Pokemon Japan.
-
-			
-				
-			
-		
-
-While it’s under the same terms as trademarks used for set names, this trademark is likely referring to the name of the next series of sets that will begin with Legends: Z-A. The first MEGA sets will be...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -3428,16 +3480,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux's ARM Apple Support Now Has Another Code Reviewer]]></title>
-        <id>https://www.phoronix.com/news/Apple-Linux-Another-Reviewer</id>
-        <link href="https://www.phoronix.com/news/Apple-Linux-Another-Reviewer"/>
-        <updated>2025-03-10T10:42:07.000Z</updated>
-        <summary type="html"><![CDATA[In hopefully helping Asahi Linux reduce their downstream patch burden and helping to enhance the overall flow of new Apple Silicon related code into the mainline Linux kernel, another developer has agreed to serve as an official code reviewer over the ARM Apple bits within the Linux kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Death Stranding 2 trailer features a familiar bandana and a weapon to legally surpass Metal Gear]]></title>
         <id>https://www.rockpapershotgun.com/new-death-stranding-2-trailer-features-a-familiar-bandana-and-a-weapon-to-legally-surpass-metal-gear</id>
         <link href="https://www.rockpapershotgun.com/new-death-stranding-2-trailer-features-a-familiar-bandana-and-a-weapon-to-legally-surpass-metal-gear"/>
@@ -3502,26 +3544,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Free95 je lehký otevřený operační systém kompatibilní s Windows]]></title>
-        <id>www.root.cz-actuality-47271</id>
-        <link href="https://www.root.cz/zpravicky/free95-je-lehky-otevreny-operacni-system-kompatibilni-s-windows/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-10T09:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Free95 je nový operační systém kompatibilní s Windows, který je k dispozici na GitHubu. Zdrojové kódy jsou k dispozici pod licencí GNU GPL 3. Ve své současné podobě dokáže systém spustit velmi základní grafické rozhraní Win32 a konzolové aplikace, ale jeho vývojář slibuje, že na něm bude dále pracovat, aby dosáhl kompatibility s DirectX a dokonce i s hrami.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V telefonech s Androidem brzy spustíte plnohodnotné linuxové prostředí]]></title>
-        <id>www.root.cz-actuality-47265</id>
-        <link href="https://www.root.cz/zpravicky/v-telefonech-s-androidem-brzy-spustite-plnohodnotne-linuxove-prostredi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-10T09:06:23.000Z</updated>
-        <summary type="html"><![CDATA[Google pracuje na nativní aplikaci s linuxovým terminálem, která umožní provoz linuxových programů. Využívá přitom virtualizační rozhraní Androidu (AVF), skrz který spouští místní virtuální počítač a v něm Debian. Dnes je linuxové prostředí k dispozici jen na nejnovějších Pixelech s Androidem 15.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pirate Streaming Site Malware Campaign Infected One Million Devices]]></title>
         <id>https://torrentfreak.com/?p=264815</id>
         <link href="https://torrentfreak.com/pirate-streaming-site-malware-campaign-infected-one-million-devices-250310/"/>
@@ -3530,26 +3552,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linuxové jádro 6.15 dostane ovladače pro Apple Touch Bar]]></title>
-        <id>www.root.cz-actuality-47262</id>
-        <link href="https://www.root.cz/zpravicky/linuxove-jadro-6-15-dostane-ovladace-pro-apple-touch-bar/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-03-10T08:17:55.000Z</updated>
-        <summary type="html"><![CDATA[Připravované linuxové jádro 6.15 bude patrně obsahovat dva nové ovladače Direct Rendering Manager (DRM) pro podporu displejů Apple Touch Bar na starších počítačích Mac s procesory Intel x86 a novější ovladač „ADP“ pro práci s displeji Apple Touch Bar na novějších počítačích MacBook s procesory Apple M1/M2.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New Rust-Written NVIDIA "NOVA" Driver Submitted Ahead Of Linux 6.15]]></title>
-        <id>https://www.phoronix.com/news/NOVA-Driver-For-Linux-6.15</id>
-        <link href="https://www.phoronix.com/news/NOVA-Driver-For-Linux-6.15"/>
-        <updated>2025-03-10T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For quite a while Red Hat engineers have been developing the open-source, Rust-written NOVA driver to in effect serve as the successor to the reverse-engineered Nouveau driver that isn't too actively developed in more recent times. But unlike Nouveau's extensive range of NVIDIA GPU support, the NOVA driver is intentionally limited to the RTX 20 "Turing" GPUs and newer where there is the NVIDIA GPU System Processor (GSP) with the firmware support to leverage for an easier driver-writing experience. The very initial NOVA driver code was sent out on Sunday for DRM-Next ahead of the Linux 6.15 merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4248,31 +4250,6 @@ Cynthia’s Garchomp ex – Fighting – HP330
 Stage 2 – Evolves...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hydrapple EX Deck List. Looking For Suggestions To Improve this Deck!]]></title>
-        <id>155753</id>
-        <link href="https://www.pokebeach.com/forums/threads/hydrapple-ex-deck-list-looking-for-suggestions-to-improve-this-deck.155753/"/>
-        <updated>2025-03-06T07:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Pokémon: 9
-1 Dipplin SCR 13 PH
-1 Fezandipiti ex SFA 84
-3 Applin TWM 17
-2 Hydrapple ex SCR 14
-3 Teal Mask Ogerpon ex TWM 190
-2 Dipplin TWM 18
-1 Toedscruel ex OBF 22
-1 Toedscool PAR 15
-1 Toedscruel PAR 17
-
-Trainer: 18
-1 Drayton SSP 232
-1 Iono PAL 254
-4 Bug Catching Set TWM 143
-2 Night Stretcher...]]></summary>
-        <author>
-            <name>IslwynZ</name>
         </author>
     </entry>
     <entry>
