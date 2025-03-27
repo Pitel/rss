@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-27T01:04:02.191Z</id>
+    <id>urn:2025-03-27T02:54:58.925Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-03-27T01:04:02.191Z</updated>
+    <updated>2025-03-27T02:54:58.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Spotted Preparing For Switch 2 'Hands-On' Experience, Here's A First Look]]></title>
+        <id>https://www.nintendolife.com/#article-180061</id>
+        <link href="https://www.nintendolife.com/news/2025/03/nintendo-spotted-preparing-for-switch-2-hands-on-experience-heres-a-first-look"/>
+        <updated>2025-03-27T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The special event kicks off next week.
+
+The Nintendo Switch 2 Direct takes place next week and ahead of the big broadcast, Nintendo is now busy preparing for its special "hands on" experience which will take place just days later.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Team Rocket’s Wobbuffet from “The Glory of Team Rocket” Revealed!]]></title>
         <id>155811</id>
@@ -25,6 +38,34 @@ Team...]]></summary>
         <summary type="html"><![CDATA[List of all "notable" characters without a secret rare card that features them in any prominent way. If they have a character rare, that counts as if they have a SR for now even if they don't have a traditional full art card. If the character shares the full art I'm still counting them (Ingo and...]]></summary>
         <author>
             <name>Alex Hesketh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7375-1: Org Mode vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7375-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7375-1"/>
+        <updated>2025-03-27T00:41:50.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Org Mode did not correctly handle filenames
+containing shell metacharacters. An attacker could possibly use this issue
+to cause a denial of service or execute arbitrary code. This issue only
+affected Ubuntu 22.04 LTS. (CVE-2023-28617)
+
+It was discovered that Org Mode could run untrusted code left in its
+buffer. An attacker could possibly use this issue to cause a denial of
+service or execute arbitrary code. This issue only affected
+Ubuntu 22.04 LTS and Ubuntu 24.04 LTS. (CVE-2024-30202)
+
+It was discovered that Org Mode did not correctly handle the contents of
+remote files. An attacker could possibly use this issue to cause a denial
+of service or execute arbitrary code. This issue only affected
+Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, Ubuntu 22.04 LTS and Ubuntu 24.04 LTS.
+(CVE-2024-30205)
+
+It was discovered that Org Mode could be made to run arbitrary Elisp code.
+An attacker could possibly use this issue to cause a denial of service or
+execute arbitrary code. (CVE-2024-39331)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -140,11 +181,11 @@ Basic Pokemon
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to gather intel from Merchant Tamao in AC Shadows The Iron Hand Guild quest]]></title>
+        <title type="html"><![CDATA[How to gather intel from Merchant Tamao in Assassin’s Creed Shadows The Iron Hand Guild quest]]></title>
         <id>https://www.destructoid.com/?p=1040061</id>
         <link href="https://www.destructoid.com/how-to-gather-intel-from-merchant-tamao-in-ac-shadows-the-iron-hand-guild-quest/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-gather-intel-from-merchant-tamao-in-ac-shadows-the-iron-hand-guild-quest"/>
         <updated>2025-03-26T21:33:55.000Z</updated>
-        <summary type="html"><![CDATA[A dangerous merchant syndicate, the 'Iron Hand Guild,' seeks to infiltrate Settsu's thriving businesses. Among their many targets, the elusive Merchant Tamao proves the most challenging, requiring you to use a unique tactic to uncover his location. Find out how to gather intel from him in Assassin's Creed Shadows.
+        <summary type="html"><![CDATA[A dangerous merchant syndicate, the "Iron Hand Guild," seeks to infiltrate Settsu's thriving businesses. Among their many targets, the elusive Merchant Tamao proves the most challenging, requiring you to use a unique tactic to uncover his location. Find out how to gather intel from him in Assassin's Creed Shadows.
 
 
 Table of contents
@@ -2683,19 +2724,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Random: New Video Highlights 120FPS Gameplay On Modded Switch]]></title>
-        <id>https://www.nintendolife.com/#article-179943</id>
-        <link href="https://www.nintendolife.com/news/2025/03/random-new-video-highlights-120fps-gameplay-on-modded-switch"/>
-        <updated>2025-03-25T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Smooth!
-The Nintendo Switch is a truly remarkable device. Despite falling well short in terms of raw power when compared to the likes of the PS5 and Xbox Series X|S, the console has nevertheless proved to be a monumental success. But what if you could boost its performance beyond what Nintendo deems appropriate?
-Well naturally, we wouldn't recommend doing so, but that hasn't stopped some folks from trying anyway. A new video posted by naga on YouTube (thanks, wccftech) showcases what Switch games might look like with frame rates of up to 120fps. Now, it's important to note here that this is a modded Switch with 8GB, so what you see in the video can't be achieved with the base Switch alone.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GNU Linux-libre 6.14-gnu Deals With New Firmware Blobs From AMDXDNA & Other Drivers]]></title>
         <id>https://www.phoronix.com/news/GNU-Linux-libre-6.14-gnu</id>
         <link href="https://www.phoronix.com/news/GNU-Linux-libre-6.14-gnu"/>
@@ -3339,18 +3367,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7367-1: zvbi vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7367-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7367-1"/>
-        <updated>2025-03-24T12:57:37.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that zvbi incorrectly handled memory when processing user
-input. An attacker could possibly use this issue to cause a denial of
-service or execute arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
