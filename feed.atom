@@ -1,23 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-30T10:12:48.138Z</id>
+    <id>urn:2025-03-30T12:23:47.194Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-03-30T10:12:48.138Z</updated>
+    <updated>2025-03-30T12:23:47.194Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Blaziken from The Glory of Team Rocket!]]></title>
         <id>155828</id>
         <link href="https://www.pokebeach.com/forums/threads/blaziken-from-the-glory-of-team-rocket.155828/"/>
-        <updated>2025-03-30T10:09:17.000Z</updated>
+        <updated>2025-03-30T12:22:33.000Z</updated>
         <summary type="html"><![CDATA[Blaziken, Combusken, and Torchic have been revealed from The Glory of Team Rocket! The set will release in Japan on April 18th and become part of May’s Destined Rivals.
-Translations are currently underway. Check back shortly!
 Torchic – Fire – HP70
 Basic Pokémon
 [C] Collect: Draw a card.
-[R]...]]></summary>
+[R] Combustion: 10 damage.
+Weakness: Water (x2)
+Resistance: None...]]></summary>
         <author>
             <name>JustInBasil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa's Exciting Q1 With More Ray-Tracing, NVK Progress & Performance Optimizations]]></title>
+        <id>https://www.phoronix.com/news/Mesa-Q1-2025-Highlights</id>
+        <link href="https://www.phoronix.com/news/Mesa-Q1-2025-Highlights"/>
+        <updated>2025-03-30T10:51:07.000Z</updated>
+        <summary type="html"><![CDATA[The first quarter of 2025 is already drawing to a close... It seemed like Q1'2025 flew by but when looking back at all the Mesa 3D graphics driver activity, there was a heck of a lot accomplished in this area of the open-source landscape. Open-source Vulkan drivers continued advancing feverishly, Mesa code continues to be adapted to new platforms from Windows to Haiku OS, and all the big vendors continue being involved in open-source GPU drivers in one form or another...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IO_uring Network Zero-Copy Receive Lands In Linux 6.15]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.15-IO_uring</id>
+        <link href="https://www.phoronix.com/news/Linux-6.15-IO_uring"/>
+        <updated>2025-03-30T10:44:11.000Z</updated>
+        <summary type="html"><![CDATA[IO_uring continues maturing while being one of the greatest innovations within the Linux kernel in the past number of years. With Linux 6.15, IO_uring is getting even more interesting with introducing network zero-copy receive support. With this new code a 200G link could be saturated off a single CPU core in a recent demonstration...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shotcut 25.03.29]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/shotcut-25.03.29</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/shotcut-25.03.29"/>
+        <updated>2025-03-30T10:37:00.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 25.03.29 svobodného multiplatformního video editoru Shotcut (Wikipedie) postaveného nad multimediálním frameworkem MLT. Nejnovější Shotcut je již vedle zdrojových kódů k dispozici také ve formátech AppImage, Flatpak a Snap.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MIPS Lands Multi-Cluster Support In Linux 6.15 For The EyeQ6 SoC]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.15-MIPS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.15-MIPS"/>
+        <updated>2025-03-30T10:30:33.000Z</updated>
+        <summary type="html"><![CDATA[While the upstream MIPS architecture is at a dead-end due to RISC-V, the Linux kernel code for the MIPS CPU architecture continues to improve for all the existing MIPS-based platforms out there. With Linux 6.15 there is new work for enhancing the Mobileye EyeQ6 SoC support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -923,7 +964,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[libtheora 1.2]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/libtheora-1.2</id>
         <link href="http://www.abclinuxu.cz/zpravicky/libtheora-1.2"/>
-        <updated>2025-03-29T14:15:54.000Z</updated>
+        <updated>2025-03-29T14:15:52.000Z</updated>
         <summary type="html"><![CDATA[Byla vydána libtheora 1.2, tj. nová stabilní verze referenční implementace formátu komprese digitálního videa Theora. Po 16 letech od vydání verze 1.1. Přehled novinek v souboru CHANGES.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -3679,26 +3720,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.15 Adds Support For The New AMD Versal NET SoC]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.15-AMD-Versal-NET</id>
-        <link href="https://www.phoronix.com/news/Linux-6.15-AMD-Versal-NET"/>
-        <updated>2025-03-26T19:38:15.000Z</updated>
-        <summary type="html"><![CDATA[Submitted today for upstreaming into the Linux 6.15 kernel is support for the Versal NET SoC, an addition to the AMD/Xilinx Versal family that doesn't appear to have been talked about much publicly yet but should be an interesting addition to their product line-up...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Announces Open-Source "Hyperlight Wasm" Project]]></title>
-        <id>https://www.phoronix.com/news/Microsoft-Hyperlight-Wasm</id>
-        <link href="https://www.phoronix.com/news/Microsoft-Hyperlight-Wasm"/>
-        <updated>2025-03-26T17:44:16.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft last year announced the open-source Hyperlight project as an embedded VMM for use as a micro-VM manager of sorts that can be run within Windows and Linux applications. This VM-based security for small embedded functions now has its scope expanded with the open-source release today of Hyperlight Wasm for bringing in WebAssembly to the party...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[One Of 2023's Best Shooters Will Be Free On PS Plus]]></title>
         <id>1851772522</id>
         <link href="https://kotaku.com/robocop-rogue-city-fps-rpg-2023-ps-plus-march-2025-free-1851772522"/>
@@ -3707,16 +3728,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.15 Adds AMD Zen 5 SRSO Mitigation For KVM, Preps For Attack Vector Controls]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.15-x86-bugs</id>
-        <link href="https://www.phoronix.com/news/Linux-6.15-x86-bugs"/>
-        <updated>2025-03-26T17:36:42.000Z</updated>
-        <summary type="html"><![CDATA[While there is a lot of exciting new x86_64 CPU features coming with Linux 6.15, there is also some of the not so fun changes too: namely the "x86/bugs" pull request to bring the latest CPU security mitigation work to the mainline kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3897,16 +3908,6 @@ Read more...]]></summary>
  Read more]]></summary>
         <author>
             <name>Christian Wait</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uzavření kapitoly o OpenH264]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/uzavreni-kapitoly-o-openh264</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/uzavreni-kapitoly-o-openh264"/>
-        <updated>2025-03-26T12:44:28.000Z</updated>
-        <summary type="html"><![CDATA[Boudhayan "bbhtt" Bhattcharya v článku Uzavření kapitoly o OpenH264 vysvětluje, proč bylo OpenH264 odstraněno z Freedesktop SDK.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
