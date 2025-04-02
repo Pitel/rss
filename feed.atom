@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-02T04:16:39.246Z</id>
+    <id>urn:2025-04-02T06:19:40.614Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-04-02T04:16:39.246Z</updated>
+    <updated>2025-04-02T06:19:40.614Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-7405-1: InspIRCd vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7405-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7405-1"/>
+        <updated>2025-04-02T05:04:12.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that InspIRCd did not correctly handle certificate
+fingerprints, which could lead to spoofing. A remote attacker could
+possibly use this issue to bypass authentication. This issue only affected
+Ubuntu 16.04 LTS. (CVE-2016-7142)
+
+It was discovered that InspIRCd did not correctly handle certain memory
+operations, which could lead to a NULL pointer dereference. A remote
+attacker could possibly use this issue to cause a denial of service. This
+issue only affected Ubuntu 16.04 LTS and Ubuntu 18.04 LTS.
+(CVE-2019-20917)
+
+It was discovered that InspIRCd did not correctly handle certain memory
+operations, which could lead to a use-after-free. A remote attacker could
+possibly use this issue to cause a denial of service. (CVE-2020-25269)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumour: GameCube Revival Planned For Nintendo Switch Online]]></title>
+        <id>https://www.nintendolife.com/#article-180351</id>
+        <link href="https://www.nintendolife.com/news/2025/04/rumour-gamecube-revival-planned-for-nintendo-switch-online"/>
+        <updated>2025-04-02T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA["It's just a question of when, not if".
+Not everyone got to experience the joy of the GameCube generation, but a new rumour has renewed hopes this past Nintendo system might finally make a return.
+According to podcaster 'Nate the Hate', who previously revealed Game Boy and Nintendo 64 updates for the Switch Online, he now appears to be teasing GameCube for Nintendo's subscription service within possibly the "first launch year" of the Switch 2's life.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokemon Center Releases 25 New TCG Accessories Featuring Mew, Caterpie, Tyrantrum, Clodsire, Roaring Moon, and More!]]></title>
         <id>155838</id>
@@ -1974,24 +2010,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7285-2: nginx vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7285-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7285-2"/>
-        <updated>2025-04-01T08:28:19.000Z</updated>
-        <summary type="html"><![CDATA[USN-7285-1 fixed vulnerabilities in nginx.
-This update provides the corresponding updates for Ubuntu 24.04 LTS.
-
-Original advisory details:
-
- It was discovered that nginx incorrectly handled when multiple
- server blocks are configured to share the same IP address and port.
- An attacker could use this issue to use session resumption to bypass
- client certificate authentication requirements on these servers.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Destined Rivals Prospective Setlist (SV10)]]></title>
         <id>155654</id>
         <link href="https://www.pokebeach.com/forums/threads/destined-rivals-prospective-setlist-sv10.155654/"/>
@@ -2766,19 +2784,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The in-development Linux 6.15 kernel is continuing to enhance its support for MIPI's SoundWire specification for small audio peripherals with this two-pin, low-complexity audio interface...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nier Automata's Dev Was "Ordered" To Ignore What The West Thinks Of His Game]]></title>
-        <id>https://www.nintendolife.com/#article-180248</id>
-        <link href="https://www.nintendolife.com/news/2025/03/nier-automatas-dev-was-ordered-to-ignore-what-the-west-thinks-of-his-game"/>
-        <updated>2025-03-31T10:15:00.000Z</updated>
-        <summary type="html"><![CDATA["you can’t make games for overseas".
-Nier Automata is widely regarded as one of the finest action games in recent years thanks to its remarkably compelling gameplay and deceptively deep storytelling.
-In a new interview with AV Watch (thanks, Automaton), PlayStation vet Shuhei Yoshida went so far as to credit Automata as the "game that changed everything". He said that it effectively reversed the Japanese game industry's fortunes after years of struggle during the late 2000s and early 2010s when it tried too hard to appeal to Western tastes.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
