@@ -1,20 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-06T10:13:48.230Z</id>
+    <id>urn:2025-04-06T12:23:29.903Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-04-06T10:13:48.231Z</updated>
+    <updated>2025-04-06T12:23:29.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: Zelda: Wind Waker Is On Switch 2 - Do You Still Want A WW:HD Port?]]></title>
+        <id>https://www.nintendolife.com/#article-180607</id>
+        <link href="https://www.nintendolife.com/features/talking-point-zelda-wind-waker-is-on-switch-2-do-you-still-want-a-wwhd-port"/>
+        <updated>2025-04-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Can't always get what U want.
+Wind Waker is coming to Switch 2! With a whole load of classic GameCube games too! And a nice optional CRT filter!
+In a week with more official Nintendo announcements than we've had in the last year combined, this news could be seen as minor, but it ticks off yet another missing link in the Zelda canon that wasn't previously playable on a Switch. Not the Switch that you own right now, but one you've probably got your eye on if you're reading this. And there was much rejoicing.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Team Rocket’s Moltres ex, Crobat ex, and More from “The Glory of Team Rocket” Revealed!]]></title>
         <id>155843</id>
         <link href="https://www.pokebeach.com/forums/threads/team-rocket%E2%80%99s-moltres-ex-crobat-ex-and-more-from-%E2%80%9Cthe-glory-of-team-rocket%E2%80%9D-revealed.155843/"/>
-        <updated>2025-04-06T10:07:04.000Z</updated>
+        <updated>2025-04-06T11:24:20.000Z</updated>
         <summary type="html"><![CDATA[A new batch of cards from The Glory of Team Rocket has just been revealed at Japan’s Champions League! The set will release in Japan on April 18th and become part of our Destined Rivals set in May 30th.
 Thanks goes to Toine L. and JustInBasil for the translations!
 Team Rocket’s Moltres ex – Fire...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL Turns To AVX-512 For CRC32 Computations: Up To 3x Faster]]></title>
+        <id>https://www.phoronix.com/news/PostgreSQL-CRC32C-AVX512</id>
+        <link href="https://www.phoronix.com/news/PostgreSQL-CRC32C-AVX512"/>
+        <updated>2025-04-06T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the recent optional IO_uring support for the PostgreSQL database server on Linux and async I/O batch mode, another exciting performance improvement was merged this week. Landing in the PostgreSQL database server this week was support for using AVX-512 instructions for CRC32C computations...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Large Atomic Write Preparations Land In Linux 6.15]]></title>
+        <id>https://www.phoronix.com/news/Linux-Preps-Large-Atomic-Write</id>
+        <link href="https://www.phoronix.com/news/Linux-Preps-Large-Atomic-Write"/>
+        <updated>2025-04-06T10:48:19.000Z</updated>
+        <summary type="html"><![CDATA[One of the early pull requests for Linux 6.15 that I've been meaning to highlight are the VFS iomap updates sent in by Microsoft engineer Christian Brauner. In particular, the VFS iomap pull brings preparations for large atomic writes and its upcoming usage by the XFS and EXT4 file-systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.15 Performance Events Adds Support For AMD Zen 5 Load Latency Filtering]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.15-Perf-Events</id>
+        <link href="https://www.phoronix.com/news/Linux-6.15-Perf-Events"/>
+        <updated>2025-04-06T10:31:53.000Z</updated>
+        <summary type="html"><![CDATA[Merged a few days ago for the Linux 6.15 kernel were all of the performance events updates for which there are a few notable patches on the AMD and Intel side this cycle...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.15 Kbuild Adds Support For LoongArch Debian & Faster gendwarfksyms]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.15-Kbuild</id>
+        <link href="https://www.phoronix.com/news/Linux-6.15-Kbuild"/>
+        <updated>2025-04-06T10:15:28.000Z</updated>
+        <summary type="html"><![CDATA[Among the pull requests coming in at the tail end of the Linux 6.15 merge window with 6.15-rc1 expected tonight are all of the Kbuild updates as the infrastructure for building out the kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -1883,19 +1936,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Delays Switch 2 Pre-Orders In The US Amidst New Trump Tariffs]]></title>
-        <id>https://www.nintendolife.com/#article-180595</id>
-        <link href="https://www.nintendolife.com/news/2025/04/nintendo-delays-switch-2-pre-orders-in-the-us-amidst-new-trump-tariffs"/>
-        <updated>2025-04-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Release date remains unchanged.
-Nintendo has delayed pre-orders for the Switch 2 in the US while it evaluates the potential impact of new tariffs from The Trump Administration.
-As reported by The Verge, the proposed release date for the Switch 2 remains unchanged and the console will launch on 5th June 2025 as planned, but there's currently no word on when pre-orders might go live. Previously, it was expected that customers would be able to place their pre-orders on 9th April 2025.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD RDNA 3.5 Graphics On 2025 Drivers: Windows 11 vs. Ubuntu 25.04 iGPU Performance]]></title>
         <id>https://www.phoronix.com/review/amd-rdna35-ubuntu-2504</id>
         <link href="https://www.phoronix.com/review/amd-rdna35-ubuntu-2504"/>
@@ -2793,16 +2833,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust 1.86 Released With Trait Upcasting, Deprecates i586-PC-Windows-MSVC]]></title>
-        <id>https://www.phoronix.com/news/Rust-1.86-Released</id>
-        <link href="https://www.phoronix.com/news/Rust-1.86-Released"/>
-        <updated>2025-04-03T10:25:21.000Z</updated>
-        <summary type="html"><![CDATA[Rust 1.86 is now available today as the latest version of this popular programming language...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CSIRT.CZ vydal výroční zprávu za rok 2024, poprvé od Covidu ubylo incidentů]]></title>
         <id>www.root.cz-actuality-47598</id>
         <link href="https://www.root.cz/zpravicky/csirt-cz-vydal-vyrocni-zpravu-za-rok-2024-poprve-od-covidu-ubylo-incidentu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2965,16 +2995,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.15 Removes Support For IBM's CXL/CAPI Drivers]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.15-Drops-IBM-CXL-CAPI</id>
-        <link href="https://www.phoronix.com/news/Linux-6.15-Drops-IBM-CXL-CAPI"/>
-        <updated>2025-04-03T00:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Not to be confused with the modern Compute Express Link (CXL) standard, but IBM's Coherent Accelerator Interface "CXL" / Coherent Accelerator Processor Interface "CAPI" support was stripped away today from the mainline Linux kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SIEVE: algoritmus pro kešování lepší než LRU?]]></title>
         <id>www.root.cz-text-17739</id>
         <link href="https://www.root.cz/clanky/sieve-algoritmus-pro-kesovani-lepsi-nez-lru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3104,16 +3124,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.15 Further Improves AMD P-State Driver, Intel Dev Tackles A ~50% SPEC Regression]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.15-ACPI-PM</id>
-        <link href="https://www.phoronix.com/news/Linux-6.15-ACPI-PM"/>
-        <updated>2025-04-02T19:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Linux power management and ACPI subsystems maintainer Rafael Wysocki last week sent out the assortment of ACPI/PM material for the new Linux 6.15 kernel cycle. The AMD P-State driver continues to be heavy with its code churn and there have been various other optimizations and code clean-ups. The CPUIdle Menu governor also received some performance tuning worth mentioning...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Midnight Console Launches Are Making A Comeback For The Switch 2]]></title>
         <id>1851774355</id>
         <link href="https://kotaku.com/switch-2-midnight-launch-preorder-best-buy-mario-kart-1851774355"/>
@@ -3146,16 +3156,6 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framework Laptop 12 Pre-Orders Open Next Week]]></title>
-        <id>https://www.phoronix.com/news/Framework-Laptop-12-PO</id>
-        <link href="https://www.phoronix.com/news/Framework-Laptop-12-PO"/>
-        <updated>2025-04-02T17:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Back in late February when Framework announced a slew of new hardware products they will be launching next year, they also teased the Framework Laptop 12 as a new, smaller laptop while continuing to be modular/upgradeable. They announced today that Framework Laptop 12 pre-orders will begin next week...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
