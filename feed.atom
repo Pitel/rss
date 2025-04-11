@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-10T22:13:15.151Z</id>
+    <id>urn:2025-04-11T01:05:30.677Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-04-10T22:13:15.151Z</updated>
+    <updated>2025-04-11T01:05:30.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.15 Lands Patches To Further Clean Up Its Spectre RSB Mitigations]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.15-x86-Fixes-RSB</id>
+        <link href="https://www.phoronix.com/news/Linux-6.15-x86-Fixes-RSB"/>
+        <updated>2025-04-11T00:49:18.000Z</updated>
+        <summary type="html"><![CDATA[Merged today was this week's batch of x86 fixes ahead of the Linux 6.15-rc2 release on Sunday. Notable with these x86 fixes are landing several patches to fix and clean-up the Spectre Return Stack Buffer "RSB" mitigation handling as well as introducing a new document to clarify the overall state and current mitigations...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random: Mouse Work Dev Nitrome Shows Off Its "Frankenstein Joy-Con 2 Alternative"]]></title>
+        <id>https://www.nintendolife.com/#article-180932</id>
+        <link href="https://www.nintendolife.com/news/2025/04/random-mouse-work-dev-nitrome-shows-off-its-frankenstein-joy-con-2-alternative"/>
+        <updated>2025-04-11T00:35:00.000Z</updated>
+        <summary type="html"><![CDATA[This is what happens when you "don't have a dev kit".
+Perhaps one of the most exciting games we've seen announced for the Switch 2 so far is Mouse Work, which makes full use of the Joy-Con 2's mouse-like capabilities across a variety of minigames.
+Surprisingly, the talented team at Nitro (Shovel Knight Dig, Bomb Chicken) don't even have a Switch 2 development kit yet. So how exactly were they able to make this Switch 2 game without it? Well, it's not the prettiest, but this "Frankenstein" alternative was enough to make things work.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Team Rocket’s Orbeetle from The Glory of Team Rocket]]></title>
+        <id>155854</id>
+        <link href="https://www.pokebeach.com/forums/threads/team-rocket%E2%80%99s-orbeetle-from-the-glory-of-team-rocket.155854/"/>
+        <updated>2025-04-11T00:13:46.000Z</updated>
+        <summary type="html"><![CDATA[Team Rocket’s Orbeetle, Team Rocket’s Dottler, and Team Rocket’s Blipbug have been revealed from The Glory of Team Rocket! The set will release in Japan on April 18th and become part of May’s Destined Rivals.
+Team Rocket’s Blipbug – Grass – HP60
+Basic Pokémon
+[C] Searching Eye: Look at 1 of your...]]></summary>
+        <author>
+            <name>JustInBasil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street Fighter 6 Releasing Final 'Year 2' Fighter Alongside Switch 2 Game Launch]]></title>
+        <id>https://www.nintendolife.com/#article-180930</id>
+        <link href="https://www.nintendolife.com/news/2025/04/street-fighter-6-releasing-final-year-2-fighter-alongside-switch-2-game-launch"/>
+        <updated>2025-04-10T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Elena returns for a new generation.
+Capcom announced it would be bringing Street Fighter 6 to the Switch 2 last week and today it has confirmed the release date of the final 'Year 2' DLC fighter Elena.
+This character (first appearing in Street Fighter III: New Generation) will be released the same day as Street Fighter 6's Switch 2 launch on 5th June 2025. She'll be available across all the game's modes including World Tour, the Battle Hub, and Fighting Ground.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fedora 42 pohledem cizince v cizí zemi]]></title>
         <id>www.root.cz-text-17808</id>
@@ -26,19 +75,6 @@
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Team Rocket’s Orbeetle from The Glory of Team Rocket]]></title>
-        <id>155854</id>
-        <link href="https://www.pokebeach.com/forums/threads/team-rocket%E2%80%99s-orbeetle-from-the-glory-of-team-rocket.155854/"/>
-        <updated>2025-04-10T21:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Team Rocket’s Orbeetle, Team Rocket’s Dottler, and Team Rocket’s Blipbug have been revealed from The Glory of Team Rocket! The set will release in Japan on April 18th and become part of May’s Destined Rivals.
-Team Rocket’s Blipbug – Grass – HP60
-Basic Pokémon
-[C] Searching Eye: Look at 1 of your...]]></summary>
-        <author>
-            <name>JustInBasil</name>
         </author>
     </entry>
     <entry>
@@ -176,6 +212,24 @@ S-tier characters are currently the best ones to use in your squads. If you find
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7432-1: libsoup vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7432-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7432-1"/>
+        <updated>2025-04-10T20:38:22.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that libsoup could be made to read out of bounds. An
+attacker could possibly use this issue to cause applications using
+libsoup to crash, resulting in a denial of service. (CVE-2025-2784,
+CVE-2025-32050, CVE-2025-32052, CVE-2025-32053)
+
+It was discovered that libsoup could be made to dereference invalid
+memory. An attacker could possibly use this issue to cause applications
+using libsoup to crash, resulting in a denial of service.
+(CVE-2025-32051)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2497,19 +2551,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Direct: Mario Kart World: Time, Date, Where To Watch, What To Expect]]></title>
-        <id>https://www.nintendolife.com/#article-180734</id>
-        <link href="https://www.nintendolife.com/guides/nintendo-direct-mario-kart-world-time-date-where-to-watch-what-to-expect"/>
-        <updated>2025-04-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our predictions for Switch 2's biggest launch game.
-Nintendo announced during the Switch 2 Direct that there's another one coming: a Mario Kart World Direct is scheduled for 17th April.
-Promising details of the freshly unveiled open-world Mario Kart, it's the first game-specific Direct for a Switch 2 game and we're excited to get a closer look at the launch game ahead of its June release.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft fire employees who protested the sale of genAI tech to the Israeli military]]></title>
         <id>https://www.rockpapershotgun.com/microsoft-fire-employees-who-protested-the-sale-of-genai-tech-to-the-israeli-military</id>
         <link href="https://www.rockpapershotgun.com/microsoft-fire-employees-who-protested-the-sale-of-genai-tech-to-the-israeli-military"/>
@@ -2550,19 +2591,6 @@ Read the full article on nintendolife.com]]></summary>
  Read more]]></summary>
         <author>
             <name>Christian Wait</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Digital Foundry Dives Into GameCube Emulation For The Switch 2]]></title>
-        <id>https://www.nintendolife.com/#article-180841</id>
-        <link href="https://www.nintendolife.com/news/2025/04/video-digital-foundry-dives-into-gamecube-emulation-for-the-switch-2"/>
-        <updated>2025-04-09T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[With a bunch of Nvidia Shield TV talk, too.
-For many of us, GameCube games on Nintendo Switch Online kind of felt like the holy grail. Granted, it very much depends on your age and which systems you happened to grow up with, but with the GameCube playing host to some of Nintendo's finest games of all time, its inclusion on the Switch 2 is a pretty big deal.
-The folks over at Digital Foundry have done a deep dive on the emulation used for GameCube on Switch 2, looking at how the games – Zelda: Wind Waker, SoulCalibur II, and F-Zero GX – all hold up next to their original releases, and why Nintendo perhaps didn't opt to bring GameCube to the original Switch.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3282,19 +3310,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7425-1: Erlang vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7425-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7425-1"/>
-        <updated>2025-04-08T13:48:08.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Erlang OTP's SSH module did not limit the size of
-certain data in initialization messages. An attacker could possibly use
-this issue to consume large amount of memory leading to a denial of
-service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenSSL 3.5 LTS Released With Server-Side QUIC]]></title>
         <id>https://www.phoronix.com/news/OpenSSL-3.5-Released</id>
         <link href="https://www.phoronix.com/news/OpenSSL-3.5-Released"/>
@@ -3384,16 +3399,6 @@ You will definitely need to look up in Orbifold, a forthcoming shooter project f
         <link href="https://www.phoronix.com/news/CUPS-2.4.12-Released"/>
         <updated>2025-04-08T11:05:01.000Z</updated>
         <summary type="html"><![CDATA[After the CUPS lead developer left Apple and OpenPrinting taking up CUPS developer after Apple ceased development, CUPS 2.4 eventually materialized. CUPS 2.4 released in 2021 as the culmination of that work to restore the open-source development around this print server while today brings CUPS 2.4.12 for ending out the series and looking toward a future with CUPS 2.5...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Patches Revised For The Lenovo Gaming Series WMI Drivers]]></title>
-        <id>https://www.phoronix.com/news/Lenovo-Gaming-Series-WMI-v5</id>
-        <link href="https://www.phoronix.com/news/Lenovo-Gaming-Series-WMI-v5"/>
-        <updated>2025-04-08T10:50:43.000Z</updated>
-        <summary type="html"><![CDATA[One of the patch series that unfortunately weren't finished up in time for the recent Linux v6.15 kernel merge window were the Lenovo Gaming Series WMI Drivers. These are the drivers for supporting some of the Lenovo gaming-oriented hardware under Linux and all the more interesting with the Lenovo Legion Go S handheld having an official Steam OS option...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
