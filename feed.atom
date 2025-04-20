@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-20T10:13:10.354Z</id>
+    <id>urn:2025-04-20T12:23:48.082Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-04-20T10:13:10.354Z</updated>
+    <updated>2025-04-20T12:23:48.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sway 1.11-rc1 Released With Many New Features & New Wayland Protocols]]></title>
+        <id>https://www.phoronix.com/news/Sway-1.11-rc1-Released</id>
+        <link href="https://www.phoronix.com/news/Sway-1.11-rc1-Released"/>
+        <updated>2025-04-20T12:02:30.000Z</updated>
+        <summary type="html"><![CDATA[Sway 1.11-rc1 is out today as a test release ahead of this next Wayland compositor feature release. Sway 1.11 is bringing a number of new features for this i3-inspired Wayland compositor while also building off the new features laid out in the recent wlroots 0.19-rc1 library...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mailbox: Switch 2 Price Drops, Remake Replacements, Pokémon Acquisitions - Nintendo Life Letters]]></title>
+        <id>https://www.nintendolife.com/#article-181282</id>
+        <link href="https://www.nintendolife.com/news/2025/04/mailbox-switch-2-price-drops-remake-replacements-pokemon-acquisitions-nintendo-life-letters"/>
+        <updated>2025-04-20T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Issue #23 - April 2025.
+Here we are, everyone. We're living in a post-Switch 2 release-date reveal world! And it's...oof, it's a lot!
+Welcome back to the Nintendo Life Mailbox, our monthly delve into correspondences of you lovely lot. Got something you want to get off your chest? We're ready and waiting to read about your game-related ponderings.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeType Fixes Inefficient Code Causing 10x Startup Time Hit When Loading Arial TTF Font]]></title>
+        <id>https://www.phoronix.com/news/FreeType-Slow-Loading-Arial-TTF</id>
+        <link href="https://www.phoronix.com/news/FreeType-Slow-Loading-Arial-TTF"/>
+        <updated>2025-04-20T10:33:03.000Z</updated>
+        <summary type="html"><![CDATA[The FreeType library for rendering text onto bitmaps that is widely used by a variety of applications has landed a set of three patches today providing an important performance improvement to address a significant inefficiency within the existing FreeType codebase...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.13 Series Ends With The Linux 6.13.12 Release]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.13-Ends</id>
+        <link href="https://www.phoronix.com/news/Linux-6.13-Ends"/>
+        <updated>2025-04-20T10:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Greg Kroah-Hartman has released a few new Linux kernel stable point releases today for Easter and also capping off the Linux 6.13 kernel cycle in the process...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenVPN DCO Driver Queued In Net-Next Ahead Of Linux 6.16]]></title>
         <id>https://www.phoronix.com/news/OpenVPN-DCO-In-Net-Next-6.16</id>
@@ -1965,19 +2008,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[N64 Platformer 'Glover' Is Getting Its First Patch On Switch Next Week]]></title>
-        <id>https://www.nintendolife.com/#article-181259</id>
-        <link href="https://www.nintendolife.com/news/2025/04/n64-platformer-glover-is-getting-its-first-patch-on-switch-next-week"/>
-        <updated>2025-04-17T23:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Taking the gloves off.
-Following its arrival on the Switch and multiple other platforms in February, Glover will soon be receiving its very first patch. It will be available next week on 23rd April 2025.
-The team says it's been listening to player feedback to ensure it can bring "important fixes and improvements to this beloved cult classic". So here's the full rundown, which covers visual upgrades, game-breaking bugs, and more:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[List of Missing Gen IX Pokémon Multi-Prize Cards]]></title>
         <id>154835</id>
         <link href="https://www.pokebeach.com/forums/threads/list-of-missing-gen-ix-pok%C3%A9mon-multi-prize-cards.154835/"/>
@@ -2896,16 +2926,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesa's Old OpenCL "Clover" Driver Removed For Mesa 25.2]]></title>
-        <id>https://www.phoronix.com/news/Mesa-25.2-Drops-Clover</id>
-        <link href="https://www.phoronix.com/news/Mesa-25.2-Drops-Clover"/>
-        <updated>2025-04-16T17:51:03.000Z</updated>
-        <summary type="html"><![CDATA[Now that Mesa 25.1 is branched for this quarter's Mesa 3D feature release, Mesa 25.2 has entered development on the main Git branch. One of the first merged changes for Mesa 25.2 is removing the old OpenCL Gallium3D "Clover" driver...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lost Records: Bloom & Rage: The Kotaku Review]]></title>
         <id>1851776436</id>
         <link href="https://kotaku.com/lost-records-bloom-rage-tape-2-review-dont-nod-swann-1851776436"/>
@@ -2936,16 +2956,6 @@ Read more...]]></summary>
  Read more]]></summary>
         <author>
             <name>Christian Wait</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Newest Linux Driver Being Worked On For The Kernel: iXD]]></title>
-        <id>https://www.phoronix.com/news/Intel-Linux-iXD-Driver-Patches</id>
-        <link href="https://www.phoronix.com/news/Intel-Linux-iXD-Driver-Patches"/>
-        <updated>2025-04-16T16:56:56.000Z</updated>
-        <summary type="html"><![CDATA[Intel open-source software engineers last week posted a set of patches for a new driver: iXD. The three letter acronym party continues and this time even more difficult to decipher than some of their other obscure driver names...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3039,16 +3049,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 25.1-rc1 Released With AMD RDNA4 Improvements, Lots Of RADV & Intel ANV Additions]]></title>
-        <id>https://www.phoronix.com/news/Mesa-25.1-rc1-Released</id>
-        <link href="https://www.phoronix.com/news/Mesa-25.1-rc1-Released"/>
-        <updated>2025-04-16T14:16:20.000Z</updated>
-        <summary type="html"><![CDATA[Eric Engestrom is once again stepping up to manage the next quarterly Mesa driver feature release and thus today we have the on-time branching of Mesa 25.1 from Mesa Git and already the release of Mesa 25.1-rc1. This release brings many improvements to the collection of open-source OpenGL and Vulkan drivers that should be ready for their stable debut in May...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
