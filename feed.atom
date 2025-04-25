@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T08:19:25.354Z</id>
+    <id>urn:2025-04-25T10:14:45.007Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-04-25T08:19:25.354Z</updated>
+    <updated>2025-04-25T10:14:45.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Linux Graphics Driver Patches Updated For DRM Panic Support]]></title>
+        <id>https://www.phoronix.com/news/Intel-Graphics-DRM-Panic-v7</id>
+        <link href="https://www.phoronix.com/news/Intel-Graphics-DRM-Panic-v7"/>
+        <updated>2025-04-25T10:07:12.000Z</updated>
+        <summary type="html"><![CDATA[One of the interesting new features merged to the Linux kernel last year was the DRM Panic infrastructure so that Linux can display an error screen akin to Windows' "Blue Screen of Death" when encountering problems. With follow-on kernel releases it's been extended to add QR code error messages and other improvements. But DRM Panic does require the support/cooperation of the different Direct Rendering Manager drivers and so far Intel graphics haven't been supported...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Updates Its PyTorch Extension With DeepSeek-R1 Support, New Optimizations]]></title>
+        <id>https://www.phoronix.com/news/Intel-PyTorch-Extension-2.7</id>
+        <link href="https://www.phoronix.com/news/Intel-PyTorch-Extension-2.7"/>
+        <updated>2025-04-25T09:47:24.000Z</updated>
+        <summary type="html"><![CDATA[Intel today released a new version of the Intel Extension for PyTorch in order to apply optimizations to PyTorch for benefiting Intel's hardware. With the Intel Extension for PyTorch v2.7 release, there is support for new large language models (LLMs) as well as various performance optimizations and other enhancements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil's Continued Success Makes Us Eager For Switch 2 Ports]]></title>
+        <id>https://www.nintendolife.com/#article-181520</id>
+        <link href="https://www.nintendolife.com/news/2025/04/resident-evils-continued-success-makes-us-eager-for-switch-2-ports"/>
+        <updated>2025-04-25T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Do it, Capcom.
+Capcom has released updated sales figures for its most recent entries in the Resident Evil series, proving just how darn popular the survival horror franchise continues to be.
+Headlining the bunch is Resident Evil 4, the remake of the 2005 classic which has yet to see a release on Nintendo platforms. Capcom has confirmed that it has now surpassed 10 million sales and is the fastest entry in the series to achieve such a lofty milestone.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Destroy everything you have" on Fallout's development, Interplay told creator]]></title>
+        <id>https://www.rockpapershotgun.com/destroy-everything-you-have-on-fallouts-development-interplay-told-creator</id>
+        <link href="https://www.rockpapershotgun.com/destroy-everything-you-have-on-fallouts-development-interplay-told-creator"/>
+        <updated>2025-04-25T09:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Do subscribe to Tim Cain's YouTube channel if you haven't already. The Fallout creator is eminently listenable and seems to have an infinite well of great stories about a career working on formative RPGs. His latest is on game preservation, in which he reveals that Fallout developer and publisher Interplay had to approach him after he'd left the company to ask if he still had development archives they'd ordered him to destroy. The reason? "Oops! We lost it", Cain says (cheers, Games Radar).
+Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 25.10 bude patrně mít coreutils v Rustu]]></title>
+        <id>www.root.cz-actuality-47835</id>
+        <link href="https://www.root.cz/zpravicky/ubuntu-25-10-bude-patrne-mit-coreutils-v-rustu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-04-25T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu se již nějakou dobu snaží o nahrazení klasických nástrojů novými v Rustu. Počítá se, že v Ubuntu 25.10 GNU coreutils bude nahrazeno uutils v Rustu. Pokud se tato změna osvědčí, měla by se dostat i do 26.04 LTS.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7455-4:  Linux kernel (Oracle) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7455-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7455-4"/>
+        <updated>2025-04-25T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[Jann Horn discovered that the watch_queue event notification subsystem in
+the Linux kernel contained an out-of-bounds write vulnerability. A local
+attacker could use this to cause a denial of service (system crash) or
+escalate their privileges. (CVE-2022-0995)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network drivers;
+  - File systems infrastructure;
+  - NTFS3 file system;
+  - Ethernet bridge;
+  - Ethtool driver;
+  - IPv6 networking;
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2025-21993, CVE-2025-21703, CVE-2024-50248, CVE-2025-21700,
+CVE-2024-50256, CVE-2025-21701, CVE-2024-56651, CVE-2025-21756,
+CVE-2024-26837, CVE-2025-21702, CVE-2024-46826)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ваш любимый слот, и почему именно он?]]></title>
+        <id>155905</id>
+        <link href="https://www.pokebeach.com/forums/threads/%D0%92%D0%B0%D1%88-%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D1%8B%D0%B9-%D1%81%D0%BB%D0%BE%D1%82-%D0%B8-%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D0%B8%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BE%D0%BD.155905/"/>
+        <updated>2025-04-25T08:22:28.000Z</updated>
+        <summary type="html"><![CDATA[Ваш любимый слот, и почему именно он?]]></summary>
+        <author>
+            <name>CerysGraham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chyba v binárních ovladačích NVIDIA umožňuje lokální eskalaci práv]]></title>
         <id>www.root.cz-actuality-47832</id>
@@ -1498,18 +1590,6 @@ This update corrects flaws in the following subsystems:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7457-1: OpenSSH vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7457-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7457-1"/>
-        <updated>2025-04-24T12:40:43.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that OpenSSH incorrectly handled the DisableForwarding
-directive. The directive would fail to disable X11 and agent forwarding,
-contrary to documentation and expectations.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 6.15 Fixes A Performance Issue For Extremely Heavy Read-Only Workloads]]></title>
         <id>https://www.phoronix.com/news/Linux-6.15-Extreme-Heavy-Reads</id>
         <link href="https://www.phoronix.com/news/Linux-6.15-Extreme-Heavy-Reads"/>
@@ -2144,19 +2224,6 @@ games last like 5-10 min, and I made them several decks. They've since moved on 
         <summary type="html"><![CDATA[Where to buy Switch 2 consoles, accessories & games.
 Following the Direct showcase, Switch 2 pre-orders from Nintendo itself went live on the 8th April in the UK and Europe. Retailer pre-orders in the US and Canada go live on 24th April at 12am ET.
 If you're hoping to get a Switch 2 on launch day, you'll want to slam down your money sharpish. In this guide, we've collected the latest info, plus the best Switch 2 pre-order options from Nintendo and reputable retailers in the US and UK, including any discounts or bundle deals.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guide: Where To Pre-Order Street Fighter 6 amiibo]]></title>
-        <id>https://www.nintendolife.com/#article-181364</id>
-        <link href="https://www.nintendolife.com/guides/where-to-pre-order-street-fighter-6-amiibo"/>
-        <updated>2025-04-24T02:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Update: £24.99 each at My Nintendo Store in the UK.
-Following on from the Street Fighter amiibo in the Super Smash Bros. line, Capcom is releasing three new amiibo figures and a series of cards alongside Street Fighter 6 on Switch 2 - and they're out on 5th June 2025, the same day as the console itself.
-Jamie, Kimberly, and Luke are getting the full-figure treatment, and to help you get hold of the ones you're after, we're keeping an eye on all reputable retailers and dropping the deals we find in this guide.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2851,16 +2918,6 @@ It is 2020. There is a Charizard-focused set with an...]]></summary>
         <summary type="html"><![CDATA[Pulled out my old cards. Any good ones worth grading etc?   Any help would be great looking to give a 2 or so to my daughter to continue to collect.]]></summary>
         <author>
             <name>zackmando</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What card is this?]]></title>
-        <id>154230</id>
-        <link href="https://www.pokebeach.com/forums/threads/what-card-is-this.154230/"/>
-        <updated>2025-04-23T02:09:40.000Z</updated>
-        <summary type="html"><![CDATA[I can’t find this card anywhere because the picture does not match the title and I am new to this, so I don’t know how to figure this out.]]></summary>
-        <author>
-            <name>Kathys</name>
         </author>
     </entry>
     <entry>
@@ -3623,16 +3680,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCC Patch Revived For -mtune=generic Showing Nice Benefits On Intel & AMD CPUs]]></title>
-        <id>https://www.phoronix.com/news/GCC-Inline-Memset-Memcpy-Gen</id>
-        <link href="https://www.phoronix.com/news/GCC-Inline-Memset-Memcpy-Gen"/>
-        <updated>2025-04-21T17:26:22.000Z</updated>
-        <summary type="html"><![CDATA[A 2021 era patch for the GNU Compiler Collection (GCC) has been revived and discussed in recent days around simplifying the memcpy and memset inlining strategies when compiling code with the "-mtune=generic" option. The patch takes the approach during that generic tuning to try to avoid branches. In doing so, some nice performance benefits are observed in some benchmarks...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nintendo Seeks Damages & Broad Injunction Against ‘Pirate’ Game Streamer]]></title>
         <id>https://torrentfreak.com/?p=266494</id>
         <link href="https://torrentfreak.com/nintendo-seeks-damages-and-broad-injunction-against-pirate-game-streamer-250421/"/>
@@ -3641,16 +3688,6 @@ Read more...]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Posts Newest Code For Cache Aware Scheduling On Linux]]></title>
-        <id>https://www.phoronix.com/news/Linux-RFC-Cache-Aware-Sched</id>
-        <link href="https://www.phoronix.com/news/Linux-RFC-Cache-Aware-Sched"/>
-        <updated>2025-04-21T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel engineers have recently been working on the notion of cache-aware scheduling / load balancing for benefiting the likes of Intel and AMD processors sporting multiple caches. Posted today was the newest iteration of these patches that are still seeking to get more feedback and testing around this potential useful addition to the Linux kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3873,16 +3910,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraform: spravujte infrastrukturu jako kód (školení)]]></title>
-        <id>www.root.cz-actuality-41046</id>
-        <link href="https://www.root.cz/zpravicky/terraform-spravujte-infrastrukturu-jako-kod-online-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-04-18T08:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Terraform vám umožní spravovat infrastrukturu jako kód, to znamená verzovanou v Gitu, přidávání zdrojů pomocí merge (pull) requestů a mnoho dalších výhod. Ukážeme si, jak Terraform pracuje, jak jej používat v týmu a jak jím spravovat infrastrukturu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -4937,17 +4964,6 @@ Here's what we're all clicking on this weekend!
 Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mafia: The Old Country release date pegged for August by now-edited Steam blog]]></title>
-        <id>https://www.rockpapershotgun.com/mafia-the-old-country-release-date-pegged-for-august-by-now-edited-steam-blog</id>
-        <link href="https://www.rockpapershotgun.com/mafia-the-old-country-release-date-pegged-for-august-by-now-edited-steam-blog"/>
-        <updated>2025-04-11T14:37:38.000Z</updated>
-        <summary type="html"><![CDATA[Mafia: The Old Country will release on August 8th, but shut your yap and don't tell anyone, because developers Hangar 13 and publishers 2K Games appear to have revealed this early by accident. You didn't hear any of this from me. I ain't a rat. I'm not interested in things that don't concern me.
- Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
         </author>
     </entry>
     <entry>
