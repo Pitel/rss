@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-26T10:13:40.101Z</id>
+    <id>urn:2025-04-26T12:23:47.804Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-04-26T10:13:40.101Z</updated>
+    <updated>2025-04-26T12:23:47.804Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
+        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-330</id>
+        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-330"/>
+        <updated>2025-04-26T12:15:11.000Z</updated>
+        <summary type="html"><![CDATA[I'm out of milk! Where's the milk! I thought we had milk! How am I supposed to have my favourite Saturday treat (triple milk milk bowl) without milk! There's nothing on this website about milk at all, it's all video games! That's incredibly useless to me, someone who desperately needs to find milk! I have coconut milk but it's separated so it's more like coconut water with a giant puck of coconut cream stuck to one end of the tin! I can't make a triple milk milk bowl with that! Gahhhhhh! Have any of you seen my milk?
+ Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Celestial Guardians” Pokemon TCG Pocket Set Announced for April, New Anniversary Missions!]]></title>
         <id>155904</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelestial-guardians%E2%80%9D-pokemon-tcg-pocket-set-announced-for-april-new-anniversary-missions.155904/"/>
-        <updated>2025-04-26T10:02:33.000Z</updated>
+        <updated>2025-04-26T11:51:10.000Z</updated>
         <summary type="html"><![CDATA[Celestial Guardians will be the name of Pocket‘s next set! It will feature over 200 cards themed after the Alola region. It will release on April 30th.
 
 			
@@ -33,13 +44,43 @@ Some Pokemon will have cards...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux 6.15-rc4 To Fix The Kernel Crashing For 32-bit Systems With Too Much RAM]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.15-rc4-Fix-32-RAM-Crash</id>
+        <link href="https://www.phoronix.com/news/Linux-6.15-rc4-Fix-32-RAM-Crash"/>
+        <updated>2025-04-26T10:54:00.000Z</updated>
+        <summary type="html"><![CDATA[With the Linux kernel now limiting 32-bit systems to 4GB of memory even with the "HIGHMEM" Kconfig option, an issue was uncovered where if the system was still populated with more memory than addressable by 32-bit systems, the kernel would crash. With the Linux 6.15-rc4 kernel due out on Sunday, this issue will be addressed...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Mutter Adds Support For Tablet Pad Relative Dials On Wayland]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Mutter-Tablet-Pad-Dials</id>
+        <link href="https://www.phoronix.com/news/GNOME-Mutter-Tablet-Pad-Dials"/>
+        <updated>2025-04-26T10:27:02.000Z</updated>
+        <summary type="html"><![CDATA[A new Wayland-only feature merged for GNOME 49's Mutter is support for tablet pad relative dials. These dials found on some drawing tablets now allow for relative moment under the GNOME Wayland session when paired with recent libinput and libwacom releases...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Developers Prepare More Wayland Improvements For Plasma 6.4]]></title>
+        <id>https://www.phoronix.com/news/KDE-More-Wayland-Plasma-6.4</id>
+        <link href="https://www.phoronix.com/news/KDE-More-Wayland-Plasma-6.4"/>
+        <updated>2025-04-26T10:16:04.000Z</updated>
+        <summary type="html"><![CDATA[As we near the end of April, KDE developers remain quite busy working on more enhancements for the Plasma 6.4 desktop while many of them were also meeting this week in Graz, Austria for further development and planning...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Turok Receives A New Update On Switch, Here Are The Full Patch Notes]]></title>
         <id>https://www.nintendolife.com/#article-181564</id>
         <link href="https://www.nintendolife.com/news/2025/04/turok-receives-a-new-update-on-switch-here-are-the-full-patch-notes"/>
         <updated>2025-04-26T10:00:00.000Z</updated>
         <summary type="html"><![CDATA[Download it now.
 The team at Nightdive Studios have rolled out a new update for Turok's Switch eShop release and multiple other platforms.
-Patch 3.0.1013 includes a whole list of Switch-specific updates - including fixes, some new options, and much more. Here are the full patch notes for this latest update (via Nightdive Studios' official website):
+Patch 3.0.1013 includes a whole list of Switch-specific updates. This includes fixes, some new options, and much more. Here are the full patch notes for this latest update (via Nightdive Studios' official website):
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -3832,16 +3873,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CachyOS Linux Distribution Makes More Improvements To Its Handheld Edition]]></title>
-        <id>https://www.phoronix.com/news/CachyOS-April-2025</id>
-        <link href="https://www.phoronix.com/news/CachyOS-April-2025"/>
-        <updated>2025-04-22T19:30:07.000Z</updated>
-        <summary type="html"><![CDATA[The April 2025 ISO update is out today for CachyOS, the Arch based Linux distribution known for its aggressive out-of-the-box performance on modern hardware...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Marvel Rivals: Breaking Down The Season 2 Meta]]></title>
         <id>1851777338</id>
         <link href="https://kotaku.com/marvel-rivals-season-2-changes-rocket-raccoon-emma-fros-1851777338"/>
@@ -3898,16 +3929,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NVK Now Vulkan 1.4 Conformant For NVIDIA Maxwell GPUs]]></title>
-        <id>https://www.phoronix.com/news/NVK-Vulkan-1.4-Maxwell</id>
-        <link href="https://www.phoronix.com/news/NVK-Vulkan-1.4-Maxwell"/>
-        <updated>2025-04-22T18:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Mesa's NVK Vulkan driver had been Vulkan 1.4 conformant for Turing and newer GPUs, but now with Mesa 25.2-devel it's Vulkan 1.4 conformant going back to Maxwell GPUs. This change is exported to be back-ported to the upcoming Mesa 25.1 release as well for those interested in using this open-source NVIDIA Vulkan driver...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ex-Skylanders devs announce Voidling Bound, a monster-taming game that looks more Spore than it does Pokemon]]></title>
         <id>https://www.rockpapershotgun.com/ex-skylanders-devs-announce-voidling-bound-a-monster-taming-game-that-looks-more-spore-than-it-does-pokemon</id>
         <link href="https://www.rockpapershotgun.com/ex-skylanders-devs-announce-voidling-bound-a-monster-taming-game-that-looks-more-spore-than-it-does-pokemon"/>
@@ -3946,16 +3967,6 @@ closed issues.]]></summary>
  Read more]]></summary>
         <author>
             <name>Robert Anderson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen AI Max 300 "Strix Halo" Graphics IP Versions Confirmed]]></title>
-        <id>https://www.phoronix.com/news/AMD-Ryzen-AI-Max-300-IP-Version</id>
-        <link href="https://www.phoronix.com/news/AMD-Ryzen-AI-Max-300-IP-Version"/>
-        <updated>2025-04-22T16:27:32.000Z</updated>
-        <summary type="html"><![CDATA[For those that have been wondering about the Linux support and more details around the Ryzen AI Max 300 "Strix Halo" APUs on Linux, here's a brief update...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -5399,17 +5410,6 @@ Here's what we're all clicking on this weekend!
         <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top up your Steam Deck or ROG Ally X with this hidden 3TB SanDisk Ultra discount]]></title>
-        <id>https://www.rockpapershotgun.com/upgrade-rog-ally-x-3tb-sandisk-ultra-hidden-discount-deal</id>
-        <link href="https://www.rockpapershotgun.com/upgrade-rog-ally-x-3tb-sandisk-ultra-hidden-discount-deal"/>
-        <updated>2025-04-11T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SanDisk has one of the best offers going right now if you're looking for a massive storage upgrade on your handheld gaming device. There's already a discount on these memory cards, but if you buy two 1.5TB SanDisk Ultra microSDs directly from SanDisk today, you'll get an extra 20% off at checkout. That drops the price to just £74.45/$90 per card (2 for £148.90, or $179.98) which is wild considering these were going for a whole lot more during Amazon's Spring Sale a couple of weeks back.
- Read more]]></summary>
-        <author>
-            <name>Christian Wait</name>
         </author>
     </entry>
     <entry>
