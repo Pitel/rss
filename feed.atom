@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-04T20:14:23.560Z</id>
+    <id>urn:2025-05-04T22:13:07.388Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-04T20:14:23.560Z</updated>
+    <updated>2025-05-04T22:13:07.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: rootkit Curing ukazuje slabiny detekce]]></title>
+        <id>www.root.cz-text-17923</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-rootkit-curing-ukazuje-slabiny-detekce/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-05-04T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Podíváme se na nové PoC linuxového rootkitu Curing, který rafinovaně obchází systémová volání. Dále se zaměříme na spouštění vzdáleného kódu přes Wi-Fi nebo na proměnu vzdělávacího cloudu na nástroj k těžení kryptoměn.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: CSIRT.CZ)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetBSD na Nintendo Wii, Fedora 43 možná bez GNOME X11]]></title>
+        <id>www.root.cz-text-17914</id>
+        <link href="https://www.root.cz/clanky/netbsd-na-nintendo-wii-fedora-43-mozna-bez-gnome-x11/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-05-04T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Byl zahájen vývoj Ubuntu 25.10 „Questing Quokka“. Fedora 43 možná bude bez podpory GNOME pro X11. Operační systém NetBSD běží na herní konzoli Nintendo Wii. Tým Murena plánuje v roce 2025 spustit služby pro podniky.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More Cards Revealed from “Black Bolt” and “White Flare,” Including New “BWR” Rarity Cards!]]></title>
         <id>155923</id>
         <link href="https://www.pokebeach.com/forums/threads/more-cards-revealed-from-%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare-%E2%80%9D-including-new-%E2%80%9Cbwr%E2%80%9D-rarity-cards.155923/"/>
-        <updated>2025-05-04T19:59:51.000Z</updated>
+        <updated>2025-05-04T21:41:53.000Z</updated>
         <summary type="html"><![CDATA[Following yesterday’s reveal, several more cards have just been revealed from Black Bolt and White Flare! The set will release in Japan on June 6th and will then release in English on July 18th. Thanks goes to JustInBasil for the translations!
 Tynamo – Lightning – HP40
 Basic Pokemon
 [C] Hold...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.15-rc5 Released: "Most Of It Looks Very Nice & Small"]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.16-rc5-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.16-rc5-Released"/>
+        <updated>2025-05-04T21:13:11.000Z</updated>
+        <summary type="html"><![CDATA[The fifth weekly release candidate of the Linux 6.15 kernel is now available for testing...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3052,16 +3082,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesa 25.1-rc3 & Mesa 25.0.5 Deliver More Graphics Driver Fixes]]></title>
-        <id>https://www.phoronix.com/news/Mesa-25.1-rc3-Released</id>
-        <link href="https://www.phoronix.com/news/Mesa-25.1-rc3-Released"/>
-        <updated>2025-04-30T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eric Engestrom with Igalia continues doing a superb job managing the Mesa releases with today bringing the timely Mesa 25.1-rc3 release candidate as well as the new Mesa 25.0.5 stable point release...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Jack Black's Minecraft Chicken Song Just Broke A Billboard Charts Record]]></title>
         <id>1851778515</id>
         <link href="https://kotaku.com/jack-black-minecraft-lava-chicken-song-billboard-record-1851778515"/>
@@ -3158,7 +3178,7 @@ Read more...]]></summary>
         <id>www.root.cz-actuality-47887</id>
         <link href="https://www.root.cz/zpravicky/nvidia-poslala-60-patchu-do-nouveau-pro-gpu-generaci-hopper-a-blackwell/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2025-04-30T15:43:06.000Z</updated>
-        <summary type="html"><![CDATA[Ben Skeggs je v Nvidii, kam přešel z Red Hatu, přibližně rok a zdá se, že i nadále se s ním věcí hýbou trošku k lepšímu, tedy pro uživatele grafických karet s GPU NVidia. Nyní do jádra, konkrétně ovladače nouveau, přidává dalších 60 patchů pro poslední generace CPU.]]></summary>
+        <summary type="html"><![CDATA[Ben Skeggs je v Nvidii, kam přešel z Red Hatu, přibližně rok a zdá se, že i nadále se s ním věcí hýbou trošku k lepšímu, tedy pro uživatele grafických karet s GPU NVidia. Nyní do jádra, konkrétně ovladače nouveau, přidává dalších 60 patchů pro poslední generace GPU.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -4172,26 +4192,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[V dnešním díle Postřehů se společně podíváme na schválení novely zákona o kybernetické bezpečnosti, novou verzi rámce MITRE ATT&CK nebo pokračující podporu cookies třetích stran v Chromu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Kopřiva)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu na OrangePi RV2, Nitrux mění správce balíčků]]></title>
-        <id>www.root.cz-text-17889</id>
-        <link href="https://www.root.cz/clanky/ubuntu-na-orangepi-rv2-nitrux-meni-spravce-balicku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-04-27T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Vývojářské obrazy Ubuntu 24.04 jsou nyní k dispozici pro nový jednodeskový počítač OrangePi RV2 RISC-V. Tým Nitrux provádí úklid, odstraňuje staré nástroje pro správu balíčků a zavádí nové.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zamyšlení se nad korutinami v C++20]]></title>
-        <id>www.root.cz-text-17899</id>
-        <link href="https://www.root.cz/clanky/zamysleni-se-nad-korutinami-v-c-20/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-04-27T22:00:03.000Z</updated>
-        <summary type="html"><![CDATA[V tomto příspěvku se vrátím ke korutinám, shrnu v jakém stavu je C++ 5 let po zavedení do normy a jaké osobní zkušenosti s korutinami mám.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
