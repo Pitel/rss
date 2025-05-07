@@ -1,10 +1,319 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T08:19:59.650Z</id>
+    <id>urn:2025-05-07T10:16:01.070Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-07T08:19:59.650Z</updated>
+    <updated>2025-05-07T10:16:01.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Introducing QAT "GEN6" Driver To The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Intel-QAT-GEN6-Linux-Driver</id>
+        <link href="https://www.phoronix.com/news/Intel-QAT-GEN6-Linux-Driver"/>
+        <updated>2025-05-07T10:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Intel has readied a new "qat_6xxx" driver for the Linux kernel for supporting QAT GEN6 devices with QuickAssist Technology. QAT GEN6 will presumably be found with upcoming Xeon 6 Clearwater Forest and Diamond Rapids processors while the Linux kernel driver should be introduced for Linux 6.16...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7496-3: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7496-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7496-3"/>
+        <updated>2025-05-07T10:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Block layer subsystem;
+  - Character device driver;
+  - Hardware crypto device drivers;
+  - GPU drivers;
+  - Media drivers;
+  - Network drivers;
+  - SCSI subsystem;
+  - USB Gadget drivers;
+  - Framebuffer layer;
+  - Ceph distributed file system;
+  - File systems infrastructure;
+  - JFS file system;
+  - Network file system (NFS) client;
+  - NILFS2 file system;
+  - SMB network file system;
+  - Netfilter;
+  - CAN network layer;
+  - IPv6 networking;
+  - MAC80211 subsystem;
+  - Netlink;
+  - Network traffic control;
+  - SCTP protocol;
+  - TIPC protocol;
+(CVE-2023-52741, CVE-2024-56631, CVE-2024-50296, CVE-2024-50256,
+CVE-2024-50237, CVE-2021-47219, CVE-2024-49944, CVE-2024-26915,
+CVE-2024-56642, CVE-2023-52664, CVE-2024-36934, CVE-2023-52458,
+CVE-2024-35864, CVE-2024-56598, CVE-2025-21971, CVE-2024-53063,
+CVE-2023-52927, CVE-2024-46771, CVE-2024-49925, CVE-2024-53140,
+CVE-2024-36015, CVE-2024-26689, CVE-2024-53173, CVE-2021-47191,
+CVE-2024-56770, CVE-2024-56650, CVE-2021-47150, CVE-2021-47163,
+CVE-2024-46780, CVE-2024-56651, CVE-2024-26996, CVE-2024-26974,
+CVE-2024-53066)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel P-State Energy Aware Scheduling May Be Ready For Lunar Lake]]></title>
+        <id>https://www.phoronix.com/news/Intel-P-State-EAS-Linux-Maybe</id>
+        <link href="https://www.phoronix.com/news/Intel-P-State-EAS-Linux-Maybe"/>
+        <updated>2025-05-07T09:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Going back to last year there have been patches for adapting the Intel P-State Linux driver with support for Energy Aware Scheduling (EAS) as what began as an Arm big.LITTLE feature but since being explored for use by the Intel P-State driver for hybrid CPUs without SMT which for the moment means Lunar Lake SoCs. A new version of the patches were posted on Tuesday and likely to be the last refinement to this patch series...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7495-3: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7495-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7495-3"/>
+        <updated>2025-05-07T09:55:03.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network drivers;
+  - Ceph distributed file system;
+  - Netfilter;
+(CVE-2023-52664, CVE-2024-26689, CVE-2023-52927)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7494-5: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7494-5</id>
+        <link href="https://ubuntu.com/security/notices/USN-7494-5"/>
+        <updated>2025-05-07T09:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network drivers;
+  - Netfilter;
+(CVE-2023-52664, CVE-2023-52927)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo May Record Video And Audio From GameChat Sessions On Switch 2]]></title>
+        <id>https://www.nintendolife.com/#article-182027</id>
+        <link href="https://www.nintendolife.com/news/2025/05/nintendo-may-record-video-and-audio-from-gamechat-sessions-on-switch-2"/>
+        <updated>2025-05-07T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Behave yourselves.
+Nintendo has updated its privacy policy to confirm that it may record video and audio from GameChat sessions on Switch 2.
+As spotted by Nintendo Soup, the change from Nintendo has been enacted in order to "provide a safe and secure environment for certain of our services". The privacy policy also clarifies that consent from the user will need to be provided before Nintendo does this.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7494-4: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7494-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7494-4"/>
+        <updated>2025-05-07T09:37:36.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network drivers;
+  - Netfilter;
+(CVE-2023-52927, CVE-2023-52664)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA 6's animations have improved, says original GTA programmer: "things are moving much better"]]></title>
+        <id>https://www.rockpapershotgun.com/gta-6s-animations-have-improved-says-original-gta-programmer-things-are-moving-much-better</id>
+        <link href="https://www.rockpapershotgun.com/gta-6s-animations-have-improved-says-original-gta-programmer-things-are-moving-much-better"/>
+        <updated>2025-05-07T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the programmers behind the very first Grand Theft Auto has praised Rockstar for delaying GTA 6's initial release to May next year, observing (not in so many words) that the developers could have rushed out an early release consisting of a city's worth of T-posing NPCs and whitebox freeways, and people would still have paid top dollar for the game. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Black Bolt” and “White Flare” Special Sets Revealed in English, Will Be First-Ever Dual Sets!]]></title>
+        <id>155937</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare%E2%80%9D-special-sets-revealed-in-english-will-be-first-ever-dual-sets.155937/"/>
+        <updated>2025-05-07T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome back to Unova — Black Bolt and White Flare have now been revealed for the English TCG! They will be our next special sets. Their products will release between July 18th and August 22nd...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to complete Clean Your Room in Disney Dreamlight Valley]]></title>
+        <id>https://www.destructoid.com/?p=1063831</id>
+        <link href="https://www.destructoid.com/how-to-complete-clean-your-room-in-disney-dreamlight-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-complete-clean-your-room-in-disney-dreamlight-valley"/>
+        <updated>2025-05-07T09:22:48.000Z</updated>
+        <summary type="html"><![CDATA[The Cheshire Cat is up to some mysterious antics again in Disney Dreamlight Valley. First, he messed around with mannequins in Scrooge McDuck's shop, only to return later and make a mess in Remy's kitchen. Now, he's back to spread mischief in your village realms during the Cheshire Chaos event.
+
+
+Disney Dreamlight Valley's Cheshire Chaos event introduces four duties that grant cosmetic rewards, with Clean Your Room being one of the trickier ones to complete. Here's exactly how to finish this duty and claim its rewards.
+
+
+How to complete Clean Your Room duty in Disney Dreamlight Valley
+
+
+Completing the Clean Your Room duty during the Cheshire Chaos event requires venturing into the Toy Story realm and using your Royal Watering Can to clear away purple paw prints. You'll need to find 20 of t…]]></summary>
+        <author>
+            <name>Madison Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7500-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7500-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7500-1"/>
+        <updated>2025-05-07T09:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Bluetooth drivers;
+  - Microsoft Azure Network Adapter (MANA) driver;
+(CVE-2025-21953, CVE-2024-56653)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Test Post]]></title>
+        <id>155941</id>
+        <link href="https://www.pokebeach.com/forums/threads/test-post.155941/"/>
+        <updated>2025-05-07T09:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Test]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 25 best N64 games of all time, ranked]]></title>
+        <id>https://www.destructoid.com/?p=351932</id>
+        <link href="https://www.destructoid.com/top-5-best-n64-games-of-all-time-ranked/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=top-5-best-n64-games-of-all-time-ranked"/>
+        <updated>2025-05-07T09:19:34.000Z</updated>
+        <summary type="html"><![CDATA[I consider the N64 to be my main stomping ground, comprising a large portion of my video game library. Although I recognize the considerable drawbacks of both the hardware and the era in which it was spawned, I love it all the same. I suppose the fact that it’s a contrasting mix of good and bad is really the cause of my attraction. The PS1 is too good. The Saturn is too lacking. But the N64 is like fine art played on a vaseline-smeared screen.
+
+
+It had some great titles, though. While I’m confident in my picks for this list, I’m leaving out a number of titles that I could gush about. That’s sort of why I don’t like lists like this, I’d rather talk in-depth about the merits and problems of each game in their own context, not compare them. However, if someone is going to do it, I’m definitel…]]></summary>
+        <author>
+            <name>Zoey Handley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7499-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7499-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7499-1"/>
+        <updated>2025-05-07T09:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Microsoft Azure Network Adapter (MANA) driver;
+  - Timer subsystem;
+(CVE-2025-21813, CVE-2025-21953)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fire Force Reignition Trello and Discord Link]]></title>
+        <id>https://www.destructoid.com/?p=1063801</id>
+        <link href="https://www.destructoid.com/fire-force-reignition-trello-link/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fire-force-reignition-trello-link"/>
+        <updated>2025-05-07T09:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Fire Force Online is making a comeback, and we're really excited to get back in the game. Now titled Fire Force Reignition, the game aims to bring back the familiar gameplay while improving it with new mechanics, new maps, and even a new official Trello Board. We're here to provide you with the Fire Force Reignition Discord and Trello Link.
+
+
+Fire Force Reignition Relevant Links
+
+
+If you want to stay up to date with this reignited version of Fire Force, you can do so with the following links:
+
+
+
+Fire Force Reignition Discord
+
+
+Fire Force Reignition Game Page
+
+
+Fire Force Reignition Trello board (we'll link it as soon as it becomes available)
+
+
+
+Screenshot by Fire Force Reignition
+
+
+One of the best ways to stay up to date and chat with the community is through the official Discord channel (it's still called Fire Force Online, by the way). Currently, the server has over 70k members, and about 15k are constantly active. This is where you'll get informed of all the upcoming updates, share tips with the community, and maybe even make some friends.
+
+
+Keeping up with modern Roblox game standards, Fire Force Reignition adds an official Trello board. This board will provide you with everything you could want to know about the game, including the new progression system, new zones, and new bosses, among other innovations. The board is scheduled to release when the game goes live, and we'll add the link as soon as possible.
+
+
+That's all there is to it. If you need a game to play until Fire Force Reignition comes out, check out Roblox Wagarashi, and check out our Ultimate Wagarashi Clans Tier List.
+
+The post Fire Force Reignition Trello and Discord Link appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Aleksandar Perisic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Split Fiction Surpasses 4 Million Copies Sold Ahead Of Switch 2 Launch]]></title>
+        <id>https://www.nintendolife.com/#article-182024</id>
+        <link href="https://www.nintendolife.com/news/2025/05/split-fiction-surpasses-4-million-copies-sold-ahead-of-switch-2-launch"/>
+        <updated>2025-05-07T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[EA praises its "hugely successful" performance.
+EA and Hazelight Studios have confirmed that Split Fiction has now sold over 4 million copies since its launch on 6th March 2025.
+In EA's latest financial release, the publisher noted that Split Fiction had a "hugely successful launch", which was then swiftly followed up by a social media post from Hazelight to highlight the milestone.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Cheshire Cat Chaos event duties and rewards in Disney Dreamlight Valley]]></title>
+        <id>https://www.destructoid.com/?p=1063794</id>
+        <link href="https://www.destructoid.com/all-cheshire-cat-chaos-event-duties-and-rewards-in-disney-dreamlight-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-cheshire-cat-chaos-event-duties-and-rewards-in-disney-dreamlight-valley"/>
+        <updated>2025-05-07T08:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Have you noticed that your Disney Dreamlight Valley village looks a little peculiar in some places? The Cheshire Cat Chaos event is here, turning your world into, as the game puts it, a world full of "Cheshire-fied" items. Fortunately, you can use this change to gain some special cosmetic items.
+
+
+Table of contents
+All Cheshire Cat Chaos event duties and rewards in Disney Dreamlight Valley
+When does the Cheshire Cat Chaos event end?
+
+
+All Cheshire Cat Chaos event duties and rewards in Disney Dreamlight Valley
+
+
+Disney Dreamlight Valley's Cheshire Cat Chaos event features four tasks, each granting exclusive cosmetics rewards not available through realm or friendship quests. It lasts from May 7 to May 30, with each week allowing you to complete additional objectives. Here's a list of every d…]]></summary>
+        <author>
+            <name>Madison Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Switch 2 Game-Key Card titles, listed]]></title>
+        <id>https://www.destructoid.com/?p=1063795</id>
+        <link href="https://www.destructoid.com/all-switch-2-game-key-card-titles-listed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-switch-2-game-key-card-titles-listed"/>
+        <updated>2025-05-07T08:24:32.000Z</updated>
+        <summary type="html"><![CDATA[With Nintendo Switch 2, developers have access to a new type of cartridge that allows them to put their games on a physical cart but forces players to download a large chunk of the game online, effectively not making them physical games at all.
+
+
+These cartridges are known as Nintendo Switch 2 Game-Key cards and are Nintendo's way of getting larger games that might not fit onto a small cartridge onto the Nintendo Switch 2 system, and to have more games appear on store shelves. They can be identified by a label on the bottom of the box that specifies it is a Game-Key card.
+
+
+While the upside to these games outside of a code is that you can trade the game in or sell it instead of it being locked to your account, and you can give the game card to friends to try out, its still left a sour tast…]]></summary>
+        <author>
+            <name>Adam Newell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EA FC 25 maintenance (May 7): When will the servers come back?]]></title>
         <id>https://www.destructoid.com/?p=1063778</id>
@@ -25,6 +334,16 @@ The maintenance began as expected on May 7. It started at 7:30AM UTC/00:30AM PST
 Screenshot via Destruct…]]></summary>
         <author>
             <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasaďte moderní web server s Nginx (školení)]]></title>
+        <id>www.root.cz-actuality-38548</id>
+        <link href="https://www.root.cz/zpravicky/nasadte-moderni-web-server-s-nginx-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-05-07T08:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Nginx je dnes přibližně na třetině web serverů na internetu a toto číslo stále roste. Je výkonný, spolehlivý, má spoustu funkcí a dobře se spravuje. Pokud potřebujete dobrý web server pro svůj projekt, bude Nginx správnou volbou.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -307,16 +626,6 @@ Guide to Conflict x63
 …]]></summary>
         <author>
             <name>Hijam Tompok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Black Bolt” and “White Flare” Special Sets Revealed in English, Will Be First-Ever Dual Sets!]]></title>
-        <id>155937</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare%E2%80%9D-special-sets-revealed-in-english-will-be-first-ever-dual-sets.155937/"/>
-        <updated>2025-05-07T06:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Welcome back to Unova — Black Bolt and White Flare have now been revealed for the English TCG! They will be our next special sets. Their products will release between July 18th and August 22nd...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -680,34 +989,6 @@ Basic Pokemon
 [C] Hold...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7490-2: libsoup regression]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7490-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7490-2"/>
-        <updated>2025-05-06T20:06:08.000Z</updated>
-        <summary type="html"><![CDATA[USN-7490-1 fixed vulnerabilities in libsoup. It was discovered that the fix
-for CVE-2025-32912 was incomplete. This update fixes the problem.
-
-We apologize for the inconvenience.
-
-Original advisory details:
-
- Tan Wei Chong discovered that libsoup incorrectly handled memory when
- parsing HTTP request headers. An attacker could possibly use this issue to
- send a maliciously crafted HTTP request to the server, causing a denial of
- service. (CVE-2025-32906)
- 
- Alon Zahavi discovered that libsoup incorrectly parsed video files. An
- attacker could possibly use this issue to send a maliciously crafted HTTP
- response back to the client, causing a denial of service, or leading to
- undefined behavior. (CVE-2025-32909)
- 
- Jan Różański discovered that libsoup incorrectly handled memory when
- parsing a…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1276,38 +1557,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7488-1: Python vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7488-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7488-1"/>
-        <updated>2025-05-06T16:12:40.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Python incorrectly handled parsing bracketed hosts.
-A remote attacker could possibly use this issue to perform a Server-Side
-Request Forgery (SSRF) attack. This issue only affected python 2.7 and
-python3.4 on Ubuntu 14.04 LTS; python2.7 on Ubuntu 16.04 LTS;
-python2.7, python3.6, python3.7, and python3.8 on Ubuntu 18.04 LTS;
-python2.7 and python3.9 on Ubuntu 20.04 LTS; and python2.7 and
-python3.11 on Ubuntu 22.04 LTS. (CVE-2024-11168)
-
-It was discovered that Python allowed excessive backtracking while
-parsing certain tarfile headers. A remote attacker could possibly use
-this issue to cause Python to consume excessive resources, leading to
-a denial of service. This issue only affected python3.4 on
-Ubuntu 14.04 LTS; python3.6, python3.7, and python3.8 on
-Ubuntu 18.04 LTS; python3.9 on Ubuntu 20.04 LTS; and python3.11 on
-Ubuntu 22.04 LTS. (CVE-2024-6232)
-
-It was discovered that Python incorrectly handled quoted path names
-when using the venv module. A local attacker able to control virtual
-environments could possibly use this issue to execute arbitrary code
-when the virtual environment is activated. This issue only affected
-python3.4 on Ubuntu 14.04 LTS; python3.6, python3.7, and python3.8
-on Ubuntu 18.04 LTS; python3.9 on Ubuntu 20.04 LTS; python3.11 on
-Ubuntu 22.04 LTS; and python3.13 on Ubuntu 24.10. (CVE-2024-9287)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Welcomes Fedora Linux As An Official WSL Distro]]></title>
         <id>https://www.phoronix.com/news/Fedora-Linux-Official-WSL</id>
         <link href="https://www.phoronix.com/news/Fedora-Linux-Official-WSL"/>
@@ -1383,22 +1632,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7495-2: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7495-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7495-2"/>
-        <updated>2025-05-06T15:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network drivers;
-  - Ceph distributed file system;
-  - Netfilter;
-(CVE-2023-52664, CVE-2024-26689, CVE-2023-52927)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Genshin Impact Dahlia ascension and skill materials leaked]]></title>
         <id>https://www.destructoid.com/?p=1063429</id>
         <link href="https://www.destructoid.com/genshin-impact-dahlia-ascension-and-skill-materials/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=genshin-impact-dahlia-ascension-and-skill-materials"/>
@@ -1450,22 +1683,6 @@ To level up all three of Dahlia's talents, you can farm the following materia…
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7495-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7495-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7495-1"/>
-        <updated>2025-05-06T15:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network drivers;
-  - Ceph distributed file system;
-  - Netfilter;
-(CVE-2023-52927, CVE-2023-52664, CVE-2024-26689)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ampere Computing Soft Announces AmpereOne M With 12 Channel DDR5 Memory]]></title>
         <id>https://www.phoronix.com/news/AmpereOne-M-Soft-Announcement</id>
         <link href="https://www.phoronix.com/news/AmpereOne-M-Soft-Announcement"/>
@@ -1497,21 +1714,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more...]]></summary>
         <author>
             <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7494-3: Linux kernel (Real-time) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7494-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7494-3"/>
-        <updated>2025-05-06T15:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network drivers;
-  - Netfilter;
-(CVE-2023-52664, CVE-2023-52927)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1637,64 +1839,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7494-2: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7494-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7494-2"/>
-        <updated>2025-05-06T14:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network drivers;
-  - Netfilter;
-(CVE-2023-52927, CVE-2023-52664)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA 6’s second trailer just dropped on a random Tuesday, so let’s all freak out]]></title>
-        <id>https://www.destructoid.com/?p=1063448</id>
-        <link href="https://www.destructoid.com/gta-6s-second-trailer-just-dropped-on-a-random-tuesday-so-lets-all-freak-out/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gta-6s-second-trailer-just-dropped-on-a-random-tuesday-so-lets-all-freak-out"/>
-        <updated>2025-05-06T14:17:15.000Z</updated>
-        <summary type="html"><![CDATA[So, Grand Theft Auto 6 is actually happening, and Rockstar Games just finally dropped a second trailer to prove it.
-
-
-Happy Tuesday, gamers, and welcome back to Vice City. The new footage of the long-anticipated sequel just revealed a lot of new info about the mega entertainment title, including the full names of its protagonists (Jason Duval and Lucia Camino), along with some shockingly gorgeous graphics.
-
-
-
-
-And I mean, REALLY gorgeous graphics. Rockstar's photorealistic visuals look to be stepping things up to a new level with these criminal lovebirds as they romp around the fictional version of Miami that hasn't been seen since Tommy Vercetti was tearing it up in the mid-2000s.
-
-
-"Set in Vice City, Jason & Lucia have always known the deck is stacked against them," the game's new offici…]]></summary>
-        <author>
-            <name>Scott Duwe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forza Motorsport’s 20th Anniversary Update makes it potential Racing Game GOTY contender for 2025]]></title>
-        <id>https://www.destructoid.com/?p=1063401</id>
-        <link href="https://www.destructoid.com/forza-motorsports-20th-anniversary-update-makes-it-potential-racing-game-goty-contender-for-2025/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=forza-motorsports-20th-anniversary-update-makes-it-potential-racing-game-goty-contender-for-2025"/>
-        <updated>2025-05-06T14:16:23.000Z</updated>
-        <summary type="html"><![CDATA[Forza Motorsport's 20th Anniversary Update is one of those batches of content drops that can radically overhaul how you see a game, and it can even qualify as a new launch for 2025 (and the best racing game).
-
-
-My go-to racing game over the last couple of years has been Forza Horizon 5 (yes, I was late to the party), and it has grabbed a special place in my heart since. I have played Forza Motorsport in bits and pieces, but the 20th Anniversary Update has grabbed all my attention.
-
-
-The last few hours of playing it haven't been joyous, but I had to force myself to remember that this isn't a new game.
-
-
-Forza Motorsport's 20th Anniversary Update is a gift from the Gods
-
-
-2025 hasn't been a good year so far if you're a fan of racing games. The biggest announcement of the first quarter has be…]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Konec Windows 10 jako příležitost pro Linux]]></title>
         <id>www.root.cz-actuality-47935</id>
         <link href="https://www.root.cz/zpravicky/konec-windows-10-jako-prilezitost-pro-linux/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1702,32 +1846,6 @@ Forza Motorsport's 20th Anniversary Update is a gift from the Gods
         <summary type="html"><![CDATA[Windows 10 to mají spočítané, přesně 14. října 2025 skončí jejich podpora (myšleno standardních, normálním uživatelem používaných edicí). Microsoft samozřejmě doporučuje jako náhradu přechod na Windows 11, nicméně ty nelze na hromady počítačů, na kterých desítky spokojeně běží a i jedenáctkám by výkonově dostačovaly, nainstalovat, třeba kvůli absenci TPM 2.0. Řešením tak vedle vyházení takových PC do sběrného dvora může být přechod na Linux.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA 6 official release date and trailers]]></title>
-        <id>https://www.destructoid.com/?p=1025771</id>
-        <link href="https://www.destructoid.com/gta-6-official-release-date-window-and-trailers/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gta-6-official-release-date-window-and-trailers"/>
-        <updated>2025-05-06T13:57:50.000Z</updated>
-        <summary type="html"><![CDATA[For months, Grand Theft Auto 6 was set for a 2025 release. While Rockstar hadn't announced an exact date, that's changed as of May 2, 2025. Unfortunately, there's some bad news for anyone looking to play in 2025.
-
-
-When is GTA 6 releasing?
-
-
-Rockstar confirmed GTA 6 will launch on May 26, 2026. While Rockstar previously planned for a Fall 2025 release window, it has since delayed the game's launch to nearly halfway through next year.
-
-
-This confirmation originated from an official news article released on Rockstar's site. It immediately sets the tone by stating that GTA 6 will launch on May 26, 2026. They didn't divulge the cause of the delay, but it can range from wanting to fine-tune its quality to unknown complications.
-Image via Rockstar Games
-
-
-Image via Rockstar Games
-
-
-The original …]]></summary>
-        <author>
-            <name>Bhernardo Viana</name>
         </author>
     </entry>
     <entry>
@@ -1763,25 +1881,6 @@ The PokeBeach podcast is available on Apple Podcasts, Spotify, and our YouTube c
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to increase carry weight in Oblivion Remastered]]></title>
-        <id>https://www.destructoid.com/?p=1063262</id>
-        <link href="https://www.destructoid.com/how-to-increase-carry-weight-in-oblivion-remastered/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-increase-carry-weight-in-oblivion-remastered"/>
-        <updated>2025-05-06T13:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Increasing your carry weight capacity is vital in Oblivion Remastered, and there are different ways to get this done, with and without cheats.
-
-
-Once you clear the tutorial and start exploring the map, you'll come across a lot of items to pick up. Unfortunately, you can't have an infinite number of items with you, and a low capacity will force you to throw away items all the time. To prevent that, the only solution is to increase your carry weight capacity.
-
-
-How to carry more items in Oblivion Remastered
-
-
-The easiest way to improve your carry weight capacity is by increasing the Strength stat. This is one of the eight available attributes in the game. Every +1 addition to Strength will offer +5 value to Encumbrance. If you're using a melee build, investing in Strength should be your top …]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Final Fantasy VII 'Creator's Voice' Implies Rebirth May Also Come To Switch 2]]></title>
         <id>https://www.nintendolife.com/#article-181986</id>
         <link href="https://www.nintendolife.com/news/2025/05/final-fantasy-vii-creators-voice-implies-rebirth-may-also-come-to-switch-2"/>
@@ -1792,30 +1891,6 @@ Hamaguchi makes a couple of references to the 'Final Fantasy VII Remake Series' 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to bring a Jedi Padawan lightsaber to General Grievous in Fortnite Chapter 6, season 3]]></title>
-        <id>https://www.destructoid.com/?p=1063417</id>
-        <link href="https://www.destructoid.com/how-to-bring-a-jedi-padawan-lightsaber-to-general-grievous-in-fortnite-chapter-6-season-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-bring-a-jedi-padawan-lightsaber-to-general-grievous-in-fortnite-chapter-6-season-3"/>
-        <updated>2025-05-06T13:16:09.000Z</updated>
-        <summary type="html"><![CDATA[There are lots of tricky quests you can tackle around the island in Fortnite, all of which reward massive amounts of XP. One of the tougher tasks you'll come across asks you to bring a Jedi Padawan lightsaber to General Grievous.
-
-
-Lightsabers aren't easy to come by, and General Grievous is asking for a very specific version of this weapon, which makes acquiring it even more difficult. This quest can seem a bit daunting, but it has some stellar rewards for completing it, so it's worth working on. Here's how to bring a Jedi Padawan lightsaber to General Grievous in Fortnite. 
-
-
-Table of contents
-Bring a Jedi Padawan Lightsaber to General Grievous in Fortnite
-How to get a Jedi Padawan Lightsaber in Fortnite
-
-
-Bring a Jedi Padawan Lightsaber to General Grievous in Fortnite
-
-
-Screenshot by Des…]]></summary>
-        <author>
-            <name>Kacee Fay</name>
         </author>
     </entry>
     <entry>
@@ -2497,19 +2572,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shuhei Yoshida On Higher Switch 2 Game Prices: "It Was Going To Happen Eventually"]]></title>
-        <id>https://www.nintendolife.com/#article-181929</id>
-        <link href="https://www.nintendolife.com/news/2025/05/shuhei-yoshida-on-higher-switch-2-game-prices-it-was-going-to-happen-eventually"/>
-        <updated>2025-05-05T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA["The heart of the matter lies in production costs".
-Ex-Sony and PlayStation veteran Shuhei Yoshida has been talking a fair amount about the video game industry since his retirement earlier this year. But he's had a few things to say about the Switch 2 in particular in recent weeks.
-And the former president of SIE Worldwide Studios has done it again, sharing his thoughts on game prices in an interview with French outlet PlayStation Inside. While most of the interview focuses on the changes at PlayStation, AI, and the growing international market, the Switch 2 comes up a handful of times.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[11 More Mildly Scary Things To Watch If Sinners Is The Right Amount Of Horror For You]]></title>
         <id>1851779099</id>
         <link href="https://kotaku.com/sinners-not-that-scary-1851779099"/>
@@ -2581,19 +2643,6 @@ As posted last November, the dual sets will release on June 6th in Japan and fea
 				#100 Team Rocket’s...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Store Listing Suggests Switch 2 Joy-Con Might Be Customisable]]></title>
-        <id>https://www.nintendolife.com/#article-181917</id>
-        <link href="https://www.nintendolife.com/news/2025/05/store-listing-suggests-switch-2-joy-con-might-be-customisable"/>
-        <updated>2025-05-05T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We'd advise caution, though.
-A new store listing on AliExpress suggests that the new Switch 2 Joy-Con might be customisable; at least to a certain degree.
-As highlighted by Stealth40k on Bluesky, a listing from Electronics-Dropshipping Store shows that the side panels on both Joy-Con can be removed and replaced with different colours. The two products up for grabs include the standard blue and orange colours; one mirroring the setup of the Switch 2 itself, and the other reversing the colours (so orange on the left, blue on the right).
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3010,16 +3059,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KDE Plasma 6.4 Tackles An 18 Year Old Feature Request, More Wayland Protocols Added]]></title>
-        <id>https://www.phoronix.com/news/KDE-Plasma-6.4-Starts-May-2025</id>
-        <link href="https://www.phoronix.com/news/KDE-Plasma-6.4-Starts-May-2025"/>
-        <updated>2025-05-03T09:54:44.000Z</updated>
-        <summary type="html"><![CDATA[The KDE Plasma developer sprint in Graz wrapped up just days ago but there's still been no shortage of new feature work landing into Plasma 6.4 this week. It was another exciting week of feature development as the soft feature freeze approaches for Plasma 6.4...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Oregon State University Open Source Lab v ohrožení, problém se dotýká také Gentoo]]></title>
         <id>www.root.cz-actuality-47914</id>
         <link href="https://www.root.cz/zpravicky/oregon-state-university-open-source-lab-v-ohrozeni-problem-se-dotyka-take-gentoo/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3113,16 +3152,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 10.7 Brings An Exciting Performance Optimization]]></title>
-        <id>https://www.phoronix.com/news/Wine-10.7-Released</id>
-        <link href="https://www.phoronix.com/news/Wine-10.7-Released"/>
-        <updated>2025-05-02T20:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Wine 10.7 is out today as the newest bi-weekly release of this open-source software for running Windows games and applications on Linux and other platforms...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3992,16 +4021,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox 138.0 vylepšuje práci s panely a uživatelskými profily]]></title>
-        <id>www.root.cz-actuality-47872</id>
-        <link href="https://www.root.cz/zpravicky/firefox-138-0-vylepsuje-praci-s-panely-a-uzivatelskymi-profily/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-04-30T06:26:03.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána verze 138.0 webového prohlížeče Firefox. Přináší podporu otevírání odkazů na panely na pozadí pomocí kontextové nabídky v Linuxu a macOS, vylepšenou funkci automatického vyplňování adres a platebních karet, která si lépe poradí s dynamicky aktualizovanými formuláři, a nové nastavení kontrastu, které uživatelům umožňuje používat stejné barvy na různých webových stránkách pro lepší čitelnost.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[All “Celestial Guardians” Cards Revealed from “Pocket!”]]></title>
         <id>155909</id>
         <link href="https://www.pokebeach.com/forums/threads/all-%E2%80%9Ccelestial-guardians%E2%80%9D-cards-revealed-from-%E2%80%9Cpocket-%E2%80%9D.155909/"/>
@@ -4353,16 +4372,6 @@ Issue #409716542
 Lint inspection in 'libs.versions.toml' file suggests upgrade to non-supported AGP version.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Deck Beats Everything — Gholdengo with Dragapult]]></title>
-        <id>155886</id>
-        <link href="https://www.pokebeach.com/forums/threads/this-deck-beats-everything-%E2%80%94-gholdengo-with-dragapult.155886/"/>
-        <updated>2025-04-28T16:40:29.000Z</updated>
-        <summary type="html"><![CDATA[At the recent Atlanta Regionals, I placed 10th with Gholdengo ex, a deck I was very confident in. After lots of testing and tweaking the deck, I was convinced that it was favored into every meta deck. If there was any point of concern, it was Flareon ex, a fringe Tier 2 deck that posed a very...]]></summary>
-        <author>
-            <name>PMJ</name>
         </author>
     </entry>
     <entry>
@@ -4973,18 +4982,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Co je bezpečnostní hardening a jak na něj? DeepSeek nic nemění, umělá inteligence vyžaduje obrovské investice do cloudové infrastruktury. Útočníci exfiltrují data za pouhé tři dny. Moderní virtualizace je připravena pro podniková produkční prostředí. Red Hat zjednodušuje nasazení podnikové AI v hybridním cloudu.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onimusha 2: Samurai's Destiny is a crisp remaster of a charming relic]]></title>
-        <id>https://www.rockpapershotgun.com/onimusha-2-samurais-destiny-is-a-crisp-remaster-of-a-charming-relic</id>
-        <link href="https://www.rockpapershotgun.com/onimusha-2-samurais-destiny-is-a-crisp-remaster-of-a-charming-relic"/>
-        <updated>2025-04-22T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm a lifelong Resi fan but relatively late-coming Capcom devotee, so I find Onimusha 2: Samurai's Destiny's amalgam of more famed series hallmarks fun to think about - sitting as it does at the intersection of Devil May Cry's orb-sucking fighting game combat and Resident Evil's deliberate spatial awareness, fixed camera exploration and puzzles.
-But I've also got some second-hand nostalgia for this 2002 action game. I didn't play it myself, although I did spectate snippets at a friend's house. I remember him having fun, although he may have mostly enjoyed boasting about how sword-tough he was in the face of the game's difficulty.
-Read more]]></summary>
-        <author>
-            <name>Nic Reuben</name>
         </author>
     </entry>
     <entry>
