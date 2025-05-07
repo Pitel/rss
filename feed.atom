@@ -1,15 +1,319 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-07T06:20:36.556Z</id>
+    <id>urn:2025-05-07T08:19:59.650Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-07T06:20:36.556Z</updated>
+    <updated>2025-05-07T08:19:59.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EA FC 25 maintenance (May 7): When will the servers come back?]]></title>
+        <id>https://www.destructoid.com/?p=1063778</id>
+        <link href="https://www.destructoid.com/ea-fc-25-maintenance-may-7-when-will-the-servers-come-back/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ea-fc-25-maintenance-may-7-when-will-the-servers-come-back"/>
+        <updated>2025-05-07T08:19:35.000Z</updated>
+        <summary type="html"><![CDATA[EA Sports has started a surprise maintenance for EA FC 25 that's currently live as of writing, and it has disrupted all kinds of online matchmaking.
+
+
+Unlike the usual patterns, EA Sports didn't make a prior announcement about the maintenance. Players only got to know about the timings from an in-game message that didn't pop out for everyone. Thankfully, we have confirmed information about when the servers are going to be back, allowing everyone to enjoy normal matchmaking once again.
+
+
+EA FC 25 server maintenance schedule (May 7)
+
+
+The maintenance began as expected on May 7. It started at 7:30AM UTC/00:30AM PST/2:30AM CT/3:30AM EST. Based on the in-game message, the servers are going to be unavailable for at least seven and half hours since the maintenance began.
+
+
+Screenshot via Destruct…]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone made a Rock Paper Shotgun game. Well, pistol anyway]]></title>
+        <id>https://www.rockpapershotgun.com/someone-made-a-rock-paper-shotgun-game-well-pistol-anyway</id>
+        <link href="https://www.rockpapershotgun.com/someone-made-a-rock-paper-shotgun-game-well-pistol-anyway"/>
+        <updated>2025-05-07T08:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Polar Star is, basically, rock paper pistol, but with a few dab-handed puzzle twists that make it instantly compelling.  You're a saloon dwelling varmint sat at a table with nothing but your six shooter and a glass of whiskey for company, and you're accosted by a chain of ne'er-do-wells. Perhaps there's a bounty on your head. Perhaps it's their whiskey you're drinking. It's not clear, but it seems nefarious. You know what ne'er-do-wells are like.
+Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You could buy Berserk's entire Golden Age arc in hardback for the price of Diablo 4's crossover cosmetics]]></title>
+        <id>https://www.rockpapershotgun.com/you-could-buy-berserks-entire-golden-age-arc-in-hardback-for-the-price-of-diablo-4s-crossover-cosmetics</id>
+        <link href="https://www.rockpapershotgun.com/you-could-buy-berserks-entire-golden-age-arc-in-hardback-for-the-price-of-diablo-4s-crossover-cosmetics"/>
+        <updated>2025-05-07T08:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Last month, Blizzard announced the first of their planned collaboration events/themed cosmetic greed-jamborees for action RPG Diablo 4. Kicking things off is Berserk - Kentaro Miura's dark fantasy manga about a large man swinging a large sword at demons, full of panels that are very good at conveying thrilling duels with a bunch of slash marks and captions that say 'snick' a lot. I'm no superfan, but I do own a few books, and the original anime is one of my favourites - even if its brilliant theme song lied to me re: having zero problems in life as long as I'm wearing my glasses.
+Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7498-1: Linux kernel vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7498-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7498-1"/>
+        <updated>2025-05-07T07:55:45.000Z</updated>
+        <summary type="html"><![CDATA[A security issue was discovered in the Linux kernel.
+An attacker could possibly use this to compromise the system.
+This update corrects flaws in the following subsystems:
+  - JFS file system;
+(CVE-2024-56598)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7496-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7496-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7496-2"/>
+        <updated>2025-05-07T07:38:21.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Block layer subsystem;
+  - Character device driver;
+  - Hardware crypto device drivers;
+  - GPU drivers;
+  - Media drivers;
+  - Network drivers;
+  - SCSI subsystem;
+  - USB Gadget drivers;
+  - Framebuffer layer;
+  - Ceph distributed file system;
+  - File systems infrastructure;
+  - JFS file system;
+  - Network file system (NFS) client;
+  - NILFS2 file system;
+  - SMB network file system;
+  - Netfilter;
+  - CAN network layer;
+  - IPv6 networking;
+  - MAC80211 subsystem;
+  - Netlink;
+  - Network traffic control;
+  - SCTP protocol;
+  - TIPC protocol;
+(CVE-2023-52664, CVE-2024-26974, CVE-2024-49944, CVE-2024-50256,
+CVE-2024-35864, CVE-2025-21971, CVE-2023-52741, CVE-2024-50296,
+CVE-2024-50237, CVE-2021-47191, CVE-2024-46771, CVE-2024-56770,
+CVE-2021-47163, CVE-2024-53063, CVE-2024-53140, CVE-2024-36015,
+CVE-2024-56650, CVE-2024-53173, CVE-2024-53066, CVE-2024-26689,
+CVE-2024-56651, CVE-2024-36934, CVE-2024-56598, CVE-2021-47219,
+CVE-2024-26915, CVE-2024-46780, CVE-2024-49925, CVE-2023-52458,
+CVE-2021-47150, CVE-2024-56631, CVE-2024-26996, CVE-2023-52927,
+CVE-2024-56642)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genshin Impact Skirk ascension and skill materials leaked]]></title>
+        <id>https://www.destructoid.com/?p=1063394</id>
+        <link href="https://www.destructoid.com/genshin-impact-skirk-ascension-and-skill-materials/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=genshin-impact-skirk-ascension-and-skill-materials"/>
+        <updated>2025-05-07T07:30:39.000Z</updated>
+        <summary type="html"><![CDATA[Skirk is one of the upcoming characters expected to be released in Genshin Impact 5.7. She is one of the most popular characters in the game, and the materials required to upgrade her just got leaked.
+
+
+You can find a complete guide on all the materials you will need for Skirk's ascension and talents, and how to farm them in the game.
+
+
+Skirk ascension and talent materials in Genshin Impact leaked
+
+
+According to the leaks shared by @_hiragara_, here is a list of all the materials you will need for Skirk's ascension:
+
+
+
+Shivada Jade Sliver x1
+
+
+Shivada Jade Fragment x9
+
+
+Shivada Jade Chunk x9
+
+
+Shivada Jade Gemstone x6
+
+
+Meshing Gear x18
+
+
+Mechanical Spur Gear x30
+
+
+Artificed Dynamic Gear x36
+
+
+Skysplit Gembloom x168
+
+
+Ensnaring Gaze x46
+
+
+
+As for Skirk's talents, you will need to farm the …]]></summary>
+        <author>
+            <name>Hijam Tompok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wuthering Waves reveals new character Cartethyia for version 2.4]]></title>
+        <id>https://www.destructoid.com/?p=1063766</id>
+        <link href="https://www.destructoid.com/wuthering-waves-reveals-new-character-cartethyia-for-version-2-4/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wuthering-waves-reveals-new-character-cartethyia-for-version-2-4"/>
+        <updated>2025-05-07T07:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Kuro Games has finally confirmed that Cartethyia will become a playable character in Wuthering Waves via drip marketing. She is a 5-star character and will be released in the upcoming version 2.4 update.
+
+
+Unfortunately, the developers did not share any details about Cartethyia’s Attribute and weapon type. That said, we do have an idea, thanks to all the recent leaks.
+
+
+Cartethyia will release in WuWa 2.4
+
+
+Kuro Games finally drip-marketed Cartethyia, also known as Fleurdelys, on Wuthering Waves’ official social media accounts, confirming that the Blessed Maiden will be released in version 2.4. Furthermore, the post reveals that she is a 5-star unit, which shouldn’t be surprising considering her role in the story.
+
+
+The drip marketing post also reads:
+
+
+
+"The powers of the Sentinel and Thr…]]></summary>
+        <author>
+            <name>Hijam Tompok</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7496-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7496-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7496-1"/>
+        <updated>2025-05-07T07:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Block layer subsystem;
+  - Character device driver;
+  - Hardware crypto device drivers;
+  - GPU drivers;
+  - Media drivers;
+  - Network drivers;
+  - SCSI subsystem;
+  - USB Gadget drivers;
+  - Framebuffer layer;
+  - Ceph distributed file system;
+  - File systems infrastructure;
+  - JFS file system;
+  - Network file system (NFS) client;
+  - NILFS2 file system;
+  - SMB network file system;
+  - Netfilter;
+  - CAN network layer;
+  - IPv6 networking;
+  - MAC80211 subsystem;
+  - Netlink;
+  - Network traffic control;
+  - SCTP protocol;
+  - TIPC protocol;
+(CVE-2024-53173, CVE-2024-26689, CVE-2024-46771, CVE-2024-36934,
+CVE-2023-52458, CVE-2021-47191, CVE-2024-50296, CVE-2024-26974,
+CVE-2021-47150, CVE-2024-53140, CVE-2025-21971, CVE-2024-50237,
+CVE-2024-46780, CVE-2023-52741, CVE-2024-56642, CVE-2024-56631,
+CVE-2024-53063, CVE-2024-36015, CVE-2021-47163, CVE-2024-56651,
+CVE-2024-49925, CVE-2023-52664, CVE-2021-47219, CVE-2024-50256,
+CVE-2024-53066, CVE-2024-49944, CVE-2024-56598, CVE-2024-56650,
+CVE-2024-26996, CVE-2024-35864, CVE-2024-56770, CVE-2024-26915,
+CVE-2023-52927)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump Told to Back Pirate Site Blocking Law Instead of 100% Movie Tariffs]]></title>
+        <id>https://torrentfreak.com/?p=267059</id>
+        <link href="https://torrentfreak.com/trump-told-to-back-pirate-site-blocking-law-instead-of-100-movie-tariffs-250507/"/>
+        <updated>2025-05-07T07:00:50.000Z</updated>
+        <summary type="html"><![CDATA[President Trump's strategy to "save" the "dying" movie industry in the United States amounts to a 100% tariff on "any and all" movies produced in "foreign lands." Trump appears to be taking aim at generous incentives offered by the UK, among others. In a response, think tank ITIF suggests an alternative; urge Congress to pass site-blocking legislation and compel countries to enforce copyright protection as part of their tariff negotiations.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genshin Impact Ifa ascension and talent materials]]></title>
+        <id>https://www.destructoid.com/?p=1040561</id>
+        <link href="https://www.destructoid.com/genshin-impact-ifa-ascension-and-talent-materials/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=genshin-impact-ifa-ascension-and-talent-materials"/>
+        <updated>2025-05-07T06:26:41.000Z</updated>
+        <summary type="html"><![CDATA[Ifa in Genshin Impact is an Anemo character who excels in Electro-Charged teams as an Anemo driver. He is also a decent support who can provide party-wide healing.
+
+
+This article covers all the items needed to level up Ifa and his skills, as well as a guide on how to farm them.
+
+
+Ifa ascension and talent materials
+
+
+Listed below are Ifa's ascension materials in Genshin Impact:
+
+
+
+Vayuda Turquoise Sliver x1
+
+
+Vayuda Turquoise Fragment x9
+
+
+Vayuda Turquoise Chunk x9
+
+
+Vayuda Turquoise Gemstone x6
+
+
+Saurian Claw Succulent x168
+
+
+Juvenile Fang x18
+
+
+Seasoned Fang x30
+
+
+Tyrant's Fang x36
+
+
+Sparkless Statue Core x46
+
+
+
+To max out Ifa's talents, you will need the following materials:
+
+
+
+Juvenile Fang x18
+
+
+Seasoned Fang x66
+
+
+Tyrant’s Fang x93
+
+
+Teachings of Conflict x9
+
+
+Guide to Conflict x63
+
+
+…]]></summary>
+        <author>
+            <name>Hijam Tompok</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Black Bolt” and “White Flare” Special Sets Revealed in English, Will Be First-Ever Dual Sets!]]></title>
         <id>155937</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare%E2%80%9D-special-sets-revealed-in-english-will-be-first-ever-dual-sets.155937/"/>
-        <updated>2025-05-07T06:13:17.000Z</updated>
+        <updated>2025-05-07T06:25:15.000Z</updated>
         <summary type="html"><![CDATA[Welcome back to Unova — Black Bolt and White Flare have now been revealed for the English TCG! They will be our next special sets. Their products will release between July 18th and August 22nd...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
@@ -1348,21 +1652,6 @@ This update corrects flaws in the following subsystems:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7494-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7494-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7494-1"/>
-        <updated>2025-05-06T14:37:50.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network drivers;
-  - Netfilter;
-(CVE-2023-52664, CVE-2023-52927)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GTA 6’s second trailer just dropped on a random Tuesday, so let’s all freak out]]></title>
         <id>https://www.destructoid.com/?p=1063448</id>
         <link href="https://www.destructoid.com/gta-6s-second-trailer-just-dropped-on-a-random-tuesday-so-lets-all-freak-out/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gta-6s-second-trailer-just-dropped-on-a-random-tuesday-so-lets-all-freak-out"/>
@@ -1406,20 +1695,6 @@ Forza Motorsport's 20th Anniversary Update is a gift from the Gods
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7493-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7493-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7493-1"/>
-        <updated>2025-05-06T14:09:50.000Z</updated>
-        <summary type="html"><![CDATA[A security issue was discovered in the Linux kernel.
-An attacker could possibly use this to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Clock framework and drivers;
-(CVE-2024-58081)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Konec Windows 10 jako příležitost pro Linux]]></title>
         <id>www.root.cz-actuality-47935</id>
         <link href="https://www.root.cz/zpravicky/konec-windows-10-jako-prilezitost-pro-linux/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1453,20 +1728,6 @@ Image via Rockstar Games
 The original …]]></summary>
         <author>
             <name>Bhernardo Viana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7492-2: Linux kernel (Real-time) vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7492-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7492-2"/>
-        <updated>2025-05-06T13:47:41.000Z</updated>
-        <summary type="html"><![CDATA[A security issue was discovered in the Linux kernel.
-An attacker could possibly use this to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Bluetooth drivers;
-(CVE-2024-56653)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1578,63 +1839,6 @@ Screenshot by Des…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Genshin Impact Skirk signature weapon stats and effects leaked]]></title>
-        <id>https://www.destructoid.com/?p=1063380</id>
-        <link href="https://www.destructoid.com/genshin-impact-skirk-signature-weapon-stats-and-effects-leaked/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=genshin-impact-skirk-signature-weapon-stats-and-effects-leaked"/>
-        <updated>2025-05-06T12:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Genshin Impact is expected to release Skirk as a playable character in the version 5.7 update. She is rumored to be a Sword user, and her signature weapon info was recently leaked by a reliable source.
-
-
-This article covers all the stats and effects of the new rumored weapon based on the leaks.
-
-
-Skirk signature weapon stats leaked
-
-
-Here are all the stats and effects of Skirk's signature weapon at level 90 R1 in Genshin Impact, based on leaks via @_hiragara_ on X:
-
-
-
-Base ATK - 608
-
-
-Second stat - 33.1% CRIT Rate
-
-
-Effects - After using Elemental Skill, the equipping character's ATK is increased by 24% for 12 seconds. When the equipping character's Elemental Energy is zero, their ATK is increased by 24%, and CRIT DMG is increased by 40%.
-
-
-
-To avoid any confusion, I must make it clear tha…]]></summary>
-        <author>
-            <name>Hijam Tompok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genshin Impact 5.7 drip marketing speculation]]></title>
-        <id>https://www.destructoid.com/?p=1063369</id>
-        <link href="https://www.destructoid.com/genshin-impact-5-7-drip-marketing-speculation/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=genshin-impact-5-7-drip-marketing-speculation"/>
-        <updated>2025-05-06T12:21:45.000Z</updated>
-        <summary type="html"><![CDATA[It is almost time for the next Genshin Impact drip marketing that will reveal the new characters for version 5.7. According to the latest leaks, we can expect two playable characters in the upcoming update, and the developers will reveal them a few days after version 5.6 goes live.
-
-
-You can find more details about the expected Genshin Impact 5.7 drip marketing date and the characters in this article.
-
-
-Table of contents
-Genshin Impact 5.7 drip marketing expected date
-Drip marketing expected characters
-
-
-Genshin Impact 5.7 drip marketing expected date
-
-
-Until last year, Genshin Impact used to reveal the new playable characters two days before the new update that precedes their release version. After version 5.3, the developers changed the schedule for unknown reasons. Thus, based on the ne…]]></summary>
-        <author>
-            <name>Hijam Tompok</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PoCL 7.0 RC1 Released With Official OpenCL 3.0 Conformance On CPUs & Level Zero]]></title>
         <id>https://www.phoronix.com/news/PoCL-7.0-RC1-Released</id>
         <link href="https://www.phoronix.com/news/PoCL-7.0-RC1-Released"/>
@@ -1642,79 +1846,6 @@ Until last year, Genshin Impact used to reveal the new playable characters two d
         <summary type="html"><![CDATA[PoCL 7.0 is on approach as the newest version of this "Portable Computing Language" implementation that began as a CPU-based OpenCL driver implementation but with time has added support for other back-ends from Intel Level Zero to NVIDIA PTX and AMD HSA...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genshin Impact Skirk ascension and skill materials leaked]]></title>
-        <id>https://www.destructoid.com/?p=1063394</id>
-        <link href="https://www.destructoid.com/genshin-impact-skirk-ascension-and-skill-materials/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=genshin-impact-skirk-ascension-and-skill-materials"/>
-        <updated>2025-05-06T12:13:23.000Z</updated>
-        <summary type="html"><![CDATA[Skirk is one of the upcoming characters expected to be released in Genshin Impact 5.7. She is one of the most popular characters in the game, and the materials required to upgrade her just got leaked.
-
-
-You can find a complete guide on all the materials you will need for Skirk's ascension and talents, and how to farm them in the game.
-
-
-Skirk ascension and talent materials in Genshin Impact leaked
-
-
-According to the leaks shared by @_hiragara_, here is a list of all the materials you will need for Skirk's ascension:
-
-
-
-Shivada Jade Sliver x1
-
-
-Shivada Jade Fragment x9
-
-
-Shivada Jade Chunk x9
-
-
-Shivada Jade Gemstone x6
-
-
-Meshing Gear x18
-
-
-Mechanical Spur Gear x30
-
-
-Artificed Dynamic Gear x36
-
-
-Skysplit Gembloom x168
-
-
-Ensnaring Gaze x46
-
-
-
-As for Skirk's talents, you will need to farm the …]]></summary>
-        <author>
-            <name>Hijam Tompok</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All force abilities in Fortnite Chapter 6, season 3 and how to get them]]></title>
-        <id>https://www.destructoid.com/?p=1063080</id>
-        <link href="https://www.destructoid.com/all-force-abilities-in-fortnite-chapter-6-season-3/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-force-abilities-in-fortnite-chapter-6-season-3"/>
-        <updated>2025-05-06T12:09:52.000Z</updated>
-        <summary type="html"><![CDATA[Some of the hardest abilities to unlock on the island are force abilities, all of which are fairly secret and rare in Fortnite. If you can master these powers, you'll excel in combat, so you may be wondering how to earn them. 
-
-
-Force abilities are quite exclusive, with only a few of them available in each match. If you want to learn them, you have to act quickly, since once they've been claimed, you cannot steal them from another player. Here are all of the force abilities you can unlock in Fortnite Chapter Six, season three, and how to earn each one. 
-
-
-Table of contents
-All force abilities in Fortnite Star Wars Galactic Battle
-How to get Force Push in Fortnite
-How to get Force Lightning in Fortnite
-How to get Force Saber Throw in Fortnite
-How to get Force Pull in Fortnite
-How to get For…]]></summary>
-        <author>
-            <name>Kacee Fay</name>
         </author>
     </entry>
     <entry>
@@ -1793,9 +1924,9 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Black Bolt/White Flare Prospective Setlist (SV10.5)]]></title>
+        <title type="html"><![CDATA[Black Bolt & White Flare Prospective Setlists (SV10.5)]]></title>
         <id>155921</id>
-        <link href="https://www.pokebeach.com/forums/threads/black-bolt-white-flare-prospective-setlist-sv10-5.155921/"/>
+        <link href="https://www.pokebeach.com/forums/threads/black-bolt-white-flare-prospective-setlists-sv10-5.155921/"/>
         <updated>2025-05-06T10:05:37.000Z</updated>
         <summary type="html"><![CDATA[Black Bolt and White Flare release July 18th, 2025.
 
@@ -4857,19 +4988,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Overwatch 2 season 16 is here, bringing in its new mode Stadium and the ability to say no, you can't play as Mercy]]></title>
-        <id>https://www.rockpapershotgun.com/overwatch-2-season-16-is-here-bringing-in-its-new-mode-stadium-and-the-ability-to-say-no-you-cant-play-as-mercy</id>
-        <link href="https://www.rockpapershotgun.com/overwatch-2-season-16-is-here-bringing-in-its-new-mode-stadium-and-the-ability-to-say-no-you-cant-play-as-mercy"/>
-        <updated>2025-04-22T20:38:43.000Z</updated>
-        <summary type="html"><![CDATA[In a free world, all Overwatch 2 heroes would be playable no matter how annoying they might be to face off against because sometimes them's the breaks. We don't live in a free world though, not anymore at least, as Overwatch 2 season 16 starts today. Most notably it's introducing its new mode Stadium, but also something that'll change up the competitive aspect of the shooter quite a bit: hero bans.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MPA and RIAA Want to be Heard in Crucial DMCA Subpoena Appeal]]></title>
         <id>https://torrentfreak.com/?p=266555</id>
         <link href="https://torrentfreak.com/mpa-and-riaa-want-to-be-heard-in-crucial-dmca-subpoena-appeal/"/>
@@ -4878,19 +4996,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creepy Redneck Dinosaur Mansion 3 is a survival horror, match-3 metroidvania sequel to a game that doesn't exist]]></title>
-        <id>https://www.rockpapershotgun.com/creepy-redneck-dinosaur-mansion-3-a-survival-horror-match-3-metroivania-sequel-to-a-game-that-doesnt-exist-is-out-now</id>
-        <link href="https://www.rockpapershotgun.com/creepy-redneck-dinosaur-mansion-3-a-survival-horror-match-3-metroivania-sequel-to-a-game-that-doesnt-exist-is-out-now"/>
-        <updated>2025-04-22T18:55:10.000Z</updated>
-        <summary type="html"><![CDATA[Creepy Redneck Dinosaur Mansion 3 is not the third game in a series about creepy rednecks and dinosaurs in a mansion. I'd forgive you if that was where your mind went, given the number three in its name, but I assure you, it's a brand new game that just came out today! It is also a match-3, survival horror, comedy RPG metroidvania, a combination of genres that I never thought was possible, and yet here we are with a game that looks pretty fun.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
     <entry>
@@ -4977,17 +5082,6 @@ Issue #400746842
 Cannot invoke com.android.tools.r8.internal.H5.x()]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Seeks Damages & Broad Injunction Against ‘Pirate’ Game Streamer]]></title>
-        <id>https://torrentfreak.com/?p=266494</id>
-        <link href="https://torrentfreak.com/nintendo-seeks-damages-and-broad-injunction-against-pirate-game-streamer-250421/"/>
-        <updated>2025-04-21T11:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo is hoping to wrap up its lawsuit against gamer Jesse Keighin, aka EveryGameGuru, after he failed to answer the complaint. The game giant seeks $17,500 in damages for copyright infringement, including streaming pre-release games and sharing links to emulators. In addition, Nintendo requests a broad global injunction to prevent future infringements, even for games that do not yet exist.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
