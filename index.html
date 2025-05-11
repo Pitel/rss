@@ -22,11 +22,44 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-05-11 datetime="2025-05-11T02:05:00.000Z">2025-05-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-05-11 datetime="2025-05-11T02:05:00.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-05-11 datetime="2025-05-11T04:00:00.000Z">2025-05-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-05-11 datetime="2025-05-11T04:00:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Phoronix</button>
+                  <a class="source-heading__link" href="https://www.phoronix.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.phoronix.com/news/Intel-oneDNN-3.8"
+                        open
+                      >
+                        <summary class="article-expander__title">Intel oneDNN 3.8 Brings More CPU &amp; GPU Performance Optimizations</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/Intel-oneDNN-3.8">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Intel software engineers released oneDNN 3.8 to end out the week with various new performance optimizations and more...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -54,7 +87,7 @@
 
 Nintendo&#x27;s new Mario Kart World game arrives on the Switch 2 next month and if you&#x27;re planning on getting a physical copy, this is what you can expect when you flip over the back of the box art.
 Read the full article on nintendolife.com</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                &ensp;<span class="article-reading-time">(&hairsp;8
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -3635,7 +3668,7 @@ Read more</span>
                               <img src="https://i.iinfo.cz/images/410/rust.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Ubuntu 25.10 bude ve výchozím stavu používat bezpečnější sudo-rs  napsané v Rustu místo klasického sudo. Stejně tak patrně bude ve verzi 25.10 použit ve výchozím stavu balíček rust-coreutils  (uutils) místo  gnu-coreutils.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;28
+                                &ensp;<span class="article-reading-time">(&hairsp;27
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -6424,25 +6457,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.phoronix.com/news/NVMe-FDP-Block-Linux-6.16"
-                        open
-                      >
-                        <summary class="article-expander__title">Linux 6.16 To Introduce Block Write Streams For NVMe Flexible Data Placement &quot;FDP&quot;</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/NVMe-FDP-Block-Linux-6.16">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Linux block subsystem maintainer Jens Axboe has queued up a set of patches being worked on the past number of months around block write streams for making use of NVMe SSDs supporting the NVMe Flexible Data Placement (FDP) specification...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -8577,7 +8591,7 @@ From: TF, for the latest news on copyright battles, piracy and more.</span>
                               <img src="https://i.iinfo.cz/images/108/redis-1.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Databáze Redis před rokem změnila licenci na duální Redis Source Available License (RSALv2) a Server Side Public License (SSPLv1). Tyto licence již nebyly považovány za svobodné. Kvůli změně licence se objevily forky například Valkey (BSD3) a Redict (LGPL-3.0).</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;27
+                                &ensp;<span class="article-reading-time">(&hairsp;28
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -10772,8 +10786,8 @@ AS: Koala: Gravity: Auto scrolls up after option selected</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/Pitel/rss/actions/runs/14951714599">
-        <time id="build-timestamp" datetime="2025-05-11T03:11:06.040Z">2025-05-11T03:11:06.040Z</time>
+      <a class="footer-link" href="https://github.com/Pitel/rss/actions/runs/14952199182">
+        <time id="build-timestamp" datetime="2025-05-11T04:17:17.141Z">2025-05-11T04:17:17.141Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
