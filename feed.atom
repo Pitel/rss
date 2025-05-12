@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-12T04:18:57.143Z</id>
+    <id>urn:2025-05-12T06:21:27.827Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-12T04:18:57.143Z</updated>
+    <updated>2025-05-12T06:21:27.827Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Support For New RISC-V SiFive Vendor Extensions On The Way For Linux 6.16]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.16-New-SiFive-RISC-ISA</id>
+        <link href="https://www.phoronix.com/news/Linux-6.16-New-SiFive-RISC-ISA"/>
+        <updated>2025-05-12T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Queued within the development tree for the RISC-V processor code for the Linux kernel is supporting several new vendor-specific ISA extensions for SiFive RISC-V CPU cores...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shotcut 25.05 Video Editor Working Toward HDR Support]]></title>
         <id>https://www.phoronix.com/news/Shotcut-25.05-Video-Editor</id>
@@ -2937,16 +2947,6 @@ control bypass and information leakage.]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 25.2 Merges AMD Support For Setting Queue Priorities]]></title>
-        <id>https://www.phoronix.com/news/Mesa-25.2-AMDGPU-Queue-Priority</id>
-        <link href="https://www.phoronix.com/news/Mesa-25.2-AMDGPU-Queue-Priority"/>
-        <updated>2025-05-08T09:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Going along with new AMDGPU kernel driver patches on their way to the mainline kernel with Linux 6.16, the Mesa 25.2 user-space driver code has landed the infrastructure for being able to set queue priorities as well as secure queues...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
