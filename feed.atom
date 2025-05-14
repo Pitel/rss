@@ -1,10 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-14T06:20:29.548Z</id>
+    <id>urn:2025-05-14T08:19:23.872Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-14T06:20:29.548Z</updated>
+    <updated>2025-05-14T08:19:23.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[チャットGPT 日本語]]></title>
+        <id>155971</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E3%83%81%E3%83%A3%E3%83%83%E3%83%88gpt-%E6%97%A5%E6%9C%AC%E8%AA%9E.155971/"/>
+        <updated>2025-05-14T08:01:37.000Z</updated>
+        <summary type="html"><![CDATA[チャットGPT 日本語  簡単に利用可能]]></summary>
+        <author>
+            <name>Saito Hina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustls Server-Side Performance Looking Very Good Compared To OpenSSL]]></title>
+        <id>https://www.phoronix.com/news/Rustls-Server-Side-Beat-OpenSSL</id>
+        <link href="https://www.phoronix.com/news/Rustls-Server-Side-Beat-OpenSSL"/>
+        <updated>2025-05-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rustls as a modern TLS library written in the Rust programming language has long been showing promising performance and competitive to OpenSSL and other alternatives. In a fresh exploration of Rustls server-side performance, it's easily beating OpenSSL...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-Powered News Piracy Site Blocked By ISPs After Court Sides With Publishers]]></title>
+        <id>https://torrentfreak.com/?p=267281</id>
+        <link href="https://torrentfreak.com/ai-powered-news-piracy-site-blocked-by-isps-after-court-sides-with-publishers-250514/"/>
+        <updated>2025-05-14T07:19:59.000Z</updated>
+        <summary type="html"><![CDATA[Legal frameworks put in place to protect the audiovisual industries were never likely to exist in a vacuum forever. A coalition of publishers, whose news content was quickly digested, rewritten, and republished on an automated AI-powered news platform, now have a similar ISP blocking order in hand. To have any noticeable effect on this type of piracy, they'll need more than just that.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zoroark, Zorua from White Flare!]]></title>
         <id>155960</id>
@@ -141,7 +172,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.nintendolife.com/#article-182330</id>
         <link href="https://www.nintendolife.com/news/2025/05/super-mario-world-looks-to-be-the-official-name-of-the-next-mario-movie"/>
         <updated>2025-05-14T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Now you're playing with super power.
+        <summary type="html"><![CDATA[Update: Now removed from NBCUniversal's page.
 
 It's been over a year now since our last proper update about the next Mario Movie, but it seems we might finally have some new information to share.
 Read the full article on nintendolife.com]]></summary>
@@ -2386,6 +2417,18 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7505-1: Abseil vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7505-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7505-1"/>
+        <updated>2025-05-12T11:43:43.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Abseil incorrectly handled memory with the upper
+bound of the size argument. An attacker could possibly use this issue to
+cause a denial of service or memory corruption.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Fremen are the missing link in Dune: Awakening's efforts to be more than a survival game]]></title>
         <id>https://www.rockpapershotgun.com/the-fremen-are-the-missing-link-in-dune-awakenings-efforts-to-be-more-than-a-survival-game</id>
         <link href="https://www.rockpapershotgun.com/the-fremen-are-the-missing-link-in-dune-awakenings-efforts-to-be-more-than-a-survival-game"/>
@@ -3018,16 +3061,6 @@ Anyway. As much as I know you all love hearing about my current oral situation; 
  Read more]]></summary>
         <author>
             <name>Ollie Toms</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME Showtime Accepted As Video Player App For GNOME 49]]></title>
-        <id>https://www.phoronix.com/news/GNOME-49-Video-Player-Showtime</id>
-        <link href="https://www.phoronix.com/news/GNOME-49-Video-Player-Showtime"/>
-        <updated>2025-05-10T00:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Back in January you may recall the news of GNOME's Showtime app looking to replace Totem as the default video player. That didn't happen in time for GNOME 48 back in March but this week all the formalities were met that Showtime has been cleared to replace the outdated Totem with GNOME 49...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3954,19 +3987,6 @@ this issue to perform remote code execution. (CVE-2020-13756)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7501-1: Django vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7501-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7501-1"/>
-        <updated>2025-05-07T15:22:55.000Z</updated>
-        <summary type="html"><![CDATA[Elias Myllymäki discovered that Django incorrectly handled stripping large
-sequences of incomplete HTML tags. A remote attacker could possibly use
-this issue to cause Django to consume resources, leading to a denial of
-service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fedora Linux je nově oficiální Microsoft WSL distribucí]]></title>
         <id>www.root.cz-actuality-47947</id>
         <link href="https://www.root.cz/zpravicky/fedora-linux-je-nove-oficialni-microsoft-wsl-distribuci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -4357,16 +4377,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resealed japanese box?]]></title>
-        <id>155938</id>
-        <link href="https://www.pokebeach.com/forums/threads/resealed-japanese-box.155938/"/>
-        <updated>2025-05-06T09:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Hi there, this is my first time using the forum so apologise in advance if iv posted in the wrong section. I went to japan in February and bought multiple boosyer boxs that was sealed, one of them was ruler of the black flame and iv noticed the seal is abit off on the wrap. It feels the same as...]]></summary>
-        <author>
-            <name>samwhite</name>
         </author>
     </entry>
     <entry>
@@ -4941,17 +4951,6 @@ Issue #409716542
 Lint inspection in 'libs.versions.toml' file suggests upgrade to non-supported AGP version.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pirate Site Blocking Demands Shelved as Filmmakers Settle With U.S. ISP]]></title>
-        <id>https://torrentfreak.com/?p=266552</id>
-        <link href="https://torrentfreak.com/pirate-site-blocking-demands-shelved-as-filmmakers-settle-with-u-s-isp-250428/"/>
-        <updated>2025-04-28T06:34:41.000Z</updated>
-        <summary type="html"><![CDATA[A pending settlement between movie companies and ISP Frontier has significantly altered the scope of an upcoming copyright trial. The movie studios are expected to withdraw their claims, including their demand for pirate site blocking, leaving Frontier to face only major record labels in court. With the music companies seeking potentially over a billion dollars in damages for subscribers' piracy activities, the stakes remain exceptionally high.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
