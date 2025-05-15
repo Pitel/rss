@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-15T06:21:15.560Z</id>
+    <id>urn:2025-05-15T08:19:47.127Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-15T06:21:15.560Z</updated>
+    <updated>2025-05-15T08:19:47.127Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nextcloud tvrdí, že Google zneužívá svého dominantního postavení]]></title>
+        <id>www.root.cz-actuality-48034</id>
+        <link href="https://www.root.cz/zpravicky/nextcloud-tvrdi-ze-google-zneuziva-sveho-dominantniho-postaveni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-05-15T08:17:00.000Z</updated>
+        <summary type="html"><![CDATA[Nextcloud poskytuje open-source platformu pro spolupráci nazvanou Nextcloud Hub, která zahrnuje funkce sdílení souborů a synchronizace. Společnost napsala na svém blogu příspěvek, ve kterém vysvětluje, že společnost Google zrušila kritické oprávnění aplikace Nextcloud Files pro Android, které jí umožňuje synchronizovat soubory s Nextcloud Hub.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Swap Table Code Shows The Potential For Huge Performance Gains]]></title>
+        <id>https://www.phoronix.com/news/Linux-Swap-Table-Patches</id>
+        <link href="https://www.phoronix.com/news/Linux-Swap-Table-Patches"/>
+        <updated>2025-05-15T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Following recent discussions by Linux kernel developers around integrating swap cache and swap maps functionality with the swap allocator, Swap Table was born. With Swap Tables the hope is for lower memory use, higher performance, dynamic swap allocation and growth, greater extensibility, and other improvements over the existing swap code within the Linux kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Komunita FreeBSD chce pokračovat v TrueNAS CORE a zakládá projekt zVault]]></title>
+        <id>www.root.cz-actuality-48031</id>
+        <link href="https://www.root.cz/zpravicky/komunita-freebsd-chce-pokracovat-v-truenas-core-a-zaklada-projekt-zvault/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-05-15T07:34:12.000Z</updated>
+        <summary type="html"><![CDATA[Přibližně před rokem bylo oznámeno, že projekt TrueNAS už nadále nebude postaven na FreeBSD a jeho vývoj se zaměří už jen na Linux. Letos v únoru tak skončilo rozdělení na větve CORE (FreeBSD) a SCALE (Linux) a dále existuje už jen varianta TrueNAS Community Edition (CE) využívající pouze linuxový základ.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Enterprise Linux 10 je už dostupný pro platící zákazníky]]></title>
+        <id>www.root.cz-actuality-48019</id>
+        <link href="https://www.root.cz/zpravicky/red-hat-enterprise-linux-10-je-uz-dostupny-pro-platici-zakazniky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-05-15T07:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Red Hat zřejmě v tichosti zpřístupnila RHEL 10 platícím zákazníkům, několik dní před jeho očekávaným oficiálním představením na Red Hat Summitu, který se uskuteční příští týden. V běžném seznamu vydání desítku nenajdete, ale po přepnutí do japonštiny se objeví. Stránka pak prozradí, že RHEL 10 vyšel 13. května 2025 a nese kódové jméno Coughlan.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Encrypt ukončí v příštím roce podporu TLS certifikátů pro ověřování klientů]]></title>
+        <id>www.root.cz-actuality-48028</id>
+        <link href="https://www.root.cz/zpravicky/let-s-encrypt-ukonci-v-pristim-roce-podporu-tls-certifikatu-pro-overovani-klientu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-05-15T06:53:44.000Z</updated>
+        <summary type="html"><![CDATA[Let's Encrypt nebude od roku 2026 zahrnovat do svých certifikátů rozšířené použití klíče (Extended Key Usage – EKU) s označením „TLS Client Authentication“. Většiny uživatelů, kteří používají Let's Encrypt k zabezpečení webových stránek, se to nedotkne a nebudou muset podnikat žádné kroky. Pokud však používáte certifikáty Let's Encrypt jako klientské certifikáty pro ověřování na serveru, může se vás tato změna týkat.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grafana 12 přichází s konfigurací v podobě kódu]]></title>
         <id>www.root.cz-actuality-48025</id>
@@ -13,6 +63,19 @@
         <summary type="html"><![CDATA[Vývojáři uvolnili novou verzi nástroje Grafana označenou číslem 12. Hlavní novinkou je posun ke konfiguraci v podobě kódu. Nyní lze dashboardy, upozornění a pravidla pro záznam plně spravovat prostřednictvím pracovních postupů zaměřených na kód. Grafanu je možné připojit přímo k úložišti na GitHubu a verzovat ji společně s kódem aplikace. Úpravy uživatelského rozhraní pak probíhají pomocí pull requestů, což zajišťuje plnou auditovatelnost a snadnější spolupráci.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Round Up: The Reviews Are In For Capcom Fighting Collection 2]]></title>
+        <id>https://www.nintendolife.com/#article-182398</id>
+        <link href="https://www.nintendolife.com/news/2025/05/round-up-the-reviews-are-in-for-capcom-fighting-collection-2"/>
+        <updated>2025-05-15T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's what the critics think.
+It's another exciting week for fighting game fans with the anticipated arrival of the Capcom Fighting Collection 2.
+This latest collection packs eight titles into one package - with games like Power Stone and Project Justice finally making a return. We've already shared our review here on Nintendo Life and the good news it's another fun dose of top-class arcade action.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -35,6 +98,19 @@ As posted before, Destined Rivals will release on May 30th. Prereleases will tak
 We will post the full set list tomorrow, so stay tuned...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom Hearts 4 Team Provides Dev Update, Shares New Screenshots]]></title>
+        <id>https://www.nintendolife.com/#article-182397</id>
+        <link href="https://www.nintendolife.com/news/2025/05/kingdom-hearts-4-team-provides-dev-update-shares-new-screenshots"/>
+        <updated>2025-05-15T05:15:00.000Z</updated>
+        <summary type="html"><![CDATA["We've seen how excited you are".
+Square Enix ended up releasing the Kingdom Hearts series as cloud games on the Switch, and while it wasn't exactly what fans wanted, there's always hope for the Switch 2 (and there have even been some rumours).
+If you did happen to play through the cloud versions on Switch or are just curious to know what's up next in the series it's Kingdom Hearts IV. This title was originally revealed way back in 2022, and in a new update today, the team has issued a reminder it's "currently working hard" on this new project and will reveal more details "when the time is right":
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -65,6 +141,45 @@ We will post the full set list tomorrow, so stay tuned...]]></summary>
         <summary type="html"><![CDATA[The Direct Rendering Manager (DRM) updates have been submitted for the Mediatek driver in advance of the upcoming Linux 6.16 merge window...]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft's Prince Of Persia Remake Expected By 2026, But It's Delaying Other Major IP]]></title>
+        <id>https://www.nintendolife.com/#article-182395</id>
+        <link href="https://www.nintendolife.com/news/2025/05/ubisofts-prince-of-persia-remake-expected-by-2026-but-its-delaying-other-major-ip"/>
+        <updated>2025-05-15T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Following a similar decision with Assassin's Creed Shadows.
+It's been some time since Ubisoft provided an update about the Prince of Persia: The Sands of Time 'Remake' project, but we've officially got one in the company's latest earnings call.
+Although the plan is to now provide unannounced major IPs additional development time to improve the overall quality of each experience after a similar delay helped Assassin's Creed Shadows - it seems the long-awaited Sands of Time remake could be on the horizon.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gallery: Nintendo Gives Us A Closer Look At Its New Store In The US]]></title>
+        <id>https://www.nintendolife.com/#article-182393</id>
+        <link href="https://www.nintendolife.com/news/2025/05/gallery-nintendo-gives-us-a-closer-look-at-its-new-store-in-the-us"/>
+        <updated>2025-05-15T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo New York is also celebrating 20 years.
+
+It's not every day Nintendo opens a new store to the public, but this week happens to be one of those very special occasions.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mortal Kombat 1 Looks To Be Winding Down Support With The 'Definitive Edition']]></title>
+        <id>https://www.nintendolife.com/#article-182390</id>
+        <link href="https://www.nintendolife.com/news/2025/05/mortal-kombat-1-looks-to-be-winding-down-support-with-the-definitive-edition"/>
+        <updated>2025-05-15T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[That's a wrap.
+Following rumours late last year Mortal Kombat 1 could be winding down its support sooner rather than later, NetherRealm and WB Games have this week announced the arrival of the Mortal Kombat 1: Definitive Edition.
+This version of the game, which is available for $59.99 USD (or your regional equivalent), is said to offer the "most extensive Mortal Kombat 1 experience" including not only the base game and more recent Khaos Reigns story expansion but also both Kombat Packs (including all of the DLC fighters so far).
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -247,6 +362,19 @@ Earning the We're Gonna Need a Bigger Holding Cell achievemen…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pokémon Fossil Museum Lets You See "Life-Size" Replicas Of Pokémon Skeletons]]></title>
+        <id>https://www.nintendolife.com/#article-182381</id>
+        <link href="https://www.nintendolife.com/news/2025/05/pokemon-fossil-museum-lets-you-see-life-size-replicas-of-pokemon-skeletons"/>
+        <updated>2025-05-14T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[And its heading to North America.
+The Pokémon Company has revealed that the Pokémon Fossil Museum, a travelling exhibit of Pokémon skeletons and fossils for pudding paleontologists, will be leaving Japan for the first time in 2026.
+The first exhibit to debut outside of Japan will be at Chicago's Field Museum in Illinois, and is due to open on 22nd May 2026. That gives you a full year to start saving up to visit.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sovereign Tech Agency podpoří GFortran částkou 360 000 eur]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/sovereign-tech-agency-podpori-gfortran-castkou-360-000-eur</id>
         <link href="http://www.abclinuxu.cz/zpravicky/sovereign-tech-agency-podpori-gfortran-castkou-360-000-eur"/>
@@ -279,6 +407,19 @@ Image via Playground Games
 When open-world games are…]]></summary>
         <author>
             <name>Smangaliso Simelane</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: How Can The Next Animal Crossing Improve Crafting?]]></title>
+        <id>https://www.nintendolife.com/#article-182286</id>
+        <link href="https://www.nintendolife.com/features/talking-point-how-can-the-next-animal-crossing-improve-crafting"/>
+        <updated>2025-05-14T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tools of the trade.
+
+If you happen to live in the UK, then you’ll know that the weather this week has been pretty glorious – mostly. So, as I was out on one of my evening walks with the dog, I gazed out toward the horizon as the sun was setting. Crepuscular rays pierced through the clouds and trees, butterflies erratically flip-flopped around my head, and I found my mind begin to drift toward Animal Crossing; was it about time I started a new game from scratch?
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -388,6 +529,19 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pokémon Cards Soar Back Into McDonald's UK Happy Meals]]></title>
+        <id>https://www.nintendolife.com/#article-182383</id>
+        <link href="https://www.nintendolife.com/news/2025/05/pokemon-cards-soar-back-into-mcdonalds-uk-happy-meals"/>
+        <updated>2025-05-14T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Nugglocke run.
+Ah, The Pokémon Company and McDonald's. Is there a better duo out there? Well, that depends on who you ask, but the pair is teaming up once again for a new range of Happy Meals packed with cards.
+If you cast your mind all the way back to January 2025, you might remember maccies branches in the US landed a sweet Happy Meal range containing a bunch of Dragon-Type Pokémon cards. Well, that same tie-in has finally made its way over to the UK, and it's available right now.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Where To Find Rock Crystals For The Hexga In Clair Obscur: Expedition 33]]></title>
         <id>1851780665</id>
         <link href="https://kotaku.com/clair-obscur-expedition-33-rock-crystals-hexga-attack-1851780665"/>
@@ -429,6 +583,19 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting The Switch 2 Pro Controller's GL And GR Buttons Looks As Easy As Pie]]></title>
+        <id>https://www.nintendolife.com/#article-182379</id>
+        <link href="https://www.nintendolife.com/news/2025/05/setting-the-switch-2-pro-controllers-gl-and-gr-buttons-looks-as-easy-as-pie"/>
+        <updated>2025-05-14T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Map skills.
+The Nintendo Today! app has continued its never-ending stream of Switch 2 information drops with a closer look at the new Pro Controller's fresh rear buttons, specifically, how easy it is to set them up.
+In a new app segment titled 'How to Use the GL and GR Buttons', Nintendo explains that mapping an input to one of these bonus buttons all comes down to a simple press of the HOME Button. Just like on Switch 1, holding the HOME Button will open the Quick Settings on Switch 2, where you will be able to assign commands for GL and GR.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -550,6 +717,19 @@ For the Employee of the Day trophy, longer shifts might seem like the safest bet
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fast Fusion Gets An Extra Dose Of F-Zero Goodness With Returning 'GX' Voice Actor]]></title>
+        <id>https://www.nintendolife.com/#article-182373</id>
+        <link href="https://www.nintendolife.com/news/2025/05/fast-fusion-gets-an-extra-dose-of-f-zero-goodness-with-returning-gx-voice-actor"/>
+        <updated>2025-05-14T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Fast & Fusionous.
+One of the Switch 2 titles that we are most looking forward to is Fast Fusion, the latest high-octane racer from Shin'en Multimedia that will be speeding onto the new hardware on launch day. Like the previous entries in the 'Fast' series, this one already boasted more than a few F-Zero stylings, but the dev has revealed that things are even more F-Zeroy than we thought.
+That's because we today found out that voice actor Jack Merluzzi will once again be lending his vocal talents to the Shin'en joint, bringing a welcome pinch of F-Zero GX in the process. You see, Merluzzi voiced the likes of Black Shadow, Beastman, The Skull and the announcer in the 2003 GameCube racer — talk about synergy!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AMD Ryzen 9 9900 Series Linux Performance Since Launch]]></title>
         <id>https://www.phoronix.com/review/ryzen-9900-linux-2025</id>
         <link href="https://www.phoronix.com/review/ryzen-9900-linux-2025"/>
@@ -604,6 +784,19 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Capcom Fighting Collection 2 (Switch) - A Cracking Collection Of Top-Class Arcade Fighters]]></title>
+        <id>https://www.nintendolife.com/#article-181499</id>
+        <link href="https://www.nintendolife.com/reviews/nintendo-switch/capcom-fighting-collection-2"/>
+        <updated>2025-05-14T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Dream(cast) collection.
+We love Capcom Fighting Collection 2! There, that's the review done.
+Seriously though, this is a particularly strong lineup of actual arcade Bangers (yes, with a capital B), that doesn't have anything approaching a full-on weak spot across a stellar roster of classic titles, so it's not really a surprise, is it? Indeed, outside of losing console-specific extra modes (which aren't really the point here anyway), it's not the easiest of game collections to pick fault with.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -662,6 +855,19 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch 2 Final Tech Specs Have Been Confirmed]]></title>
+        <id>https://www.nintendolife.com/#article-182364</id>
+        <link href="https://www.nintendolife.com/news/2025/05/nintendo-switch-2-final-tech-specs-have-been-confirmed"/>
+        <updated>2025-05-14T14:15:00.000Z</updated>
+        <summary type="html"><![CDATA[GameChat has a "significant impact on system resources".
+We all know the Nintendo Switch 2 is going to be significantly more powerful than its predecessor, but just what kind of internals is the new console boasting? Well, thanks to a new breakdown by Digital Foundry, we can now finally dive into the specifics.
+First, let's take a look at the custom Nvidia SoC (system on a chip). When compared to the equivalent for the original Switch – which, as DF's Rich Leadbetter says, was effectively a "vanilla" Tegra X1 – the new Nvidia T239 for the Switch 2 is absolutely custom-built specifically for Nintendo.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -778,6 +984,19 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Random: 'New' Super Mario 64 Sound Effect Can Only Be Heard By Leaving The Game On...For 14 Months]]></title>
+        <id>https://www.nintendolife.com/#article-182350</id>
+        <link href="https://www.nintendolife.com/news/2025/05/random-new-super-mario-64-sound-effect-can-only-be-heard-by-leaving-the-game-on-for-14-months"/>
+        <updated>2025-05-14T13:15:00.000Z</updated>
+        <summary type="html"><![CDATA[But what about my backlog?
+Super Mario 64 is one of those classic sorts of games that, almost 30 since its release, is still giving up delightful little secrets. This time around, and as reported by GamesRadar, it's a hidden sound effect that's gonna take an insane snack budget to settle into listening out for.
+Kaze Emanuar, a hacker who's been reporting his findings on Super Mario 64 for years now, has released a new YouTube video detailing some bugs that result from inbuilt game timers, some of which - he's found out the hard way - take some 14 months to go off. That's ages, mate.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[All Marvel Rivals season 0 battle pass skins and cosmetics]]></title>
         <id>https://www.destructoid.com/?p=1066740</id>
         <link href="https://www.destructoid.com/all-marvel-rivals-season-0-battle-pass-skins-and-cosmetics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-marvel-rivals-season-0-battle-pass-skins-and-cosmetics"/>
@@ -812,6 +1031,19 @@ Screenshot by Destructoid
 The first page mostly has …]]></summary>
         <author>
             <name>Kacee Fay</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feature: 7 Switch Games We Played At PAX East 2025 - Here's What We Thought]]></title>
+        <id>https://www.nintendolife.com/#article-182043</id>
+        <link href="https://www.nintendolife.com/previews/feature-7-switch-games-we-played-at-pax-east-2025-heres-what-we-thought"/>
+        <updated>2025-05-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Plenty of new Switch (2) offerings.
+PAX East 2025 just finished up this past weekend, and Nintendo Life was there sampling lots of juicy upcoming Switch releases.
+Yes, there's plenty to look forward to with the old Switch, even as the new Switch looms in the distance. So we're sharing our hands-on impressions of some of the games we had a chance to play - from irreverent indies to secret Switch 2 releases.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -858,6 +1090,19 @@ Weakness: Grass (x2)...]]></summary>
         <summary type="html"><![CDATA[Inspired by Deep Pocket Monster's Collect All 1,000+ Pokémon in ONE Binder (Pokemon Card Challenge) [Youtube] and a Tiktoker (can't remember) I plan to collect all Pokemon TCG card based on their Game Variant. The long term plan is to collect arts that I like (like the Tiktoker) but for the time...]]></summary>
         <author>
             <name>GM DracLord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First Review For Fantasy Life i: The Girl Who Steals Time Is In]]></title>
+        <id>https://www.nintendolife.com/#article-182356</id>
+        <link href="https://www.nintendolife.com/news/2025/05/the-first-review-for-fantasy-life-i-the-girl-who-steals-time-is-in"/>
+        <updated>2025-05-14T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A fantasy score?
+Level-5's long-awaited new Fantasy Life game, Fantasy Life i: The Girl Who Steals Time, is just over a week away, and the first review for the upcoming game has just dropped.
+Japanese publication Famitsu has scored the "slow-life RPG" an impressive 9/9/9/9, totalling 36/40, and according to the reviewers, it will take between 30-40 hours to beat the story, and up to 80 to 100 hours if you're going for 100%. Thanks to Ryokutya2089 for sharing this info (via Gematsu).
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -908,12 +1153,7 @@ The restaurateurs are Tiana and Rem…]]></summary>
 
 Yesterday we were made aware of reports of leaks of older text messages that had previously been sent to Steam customers. We have examined the leak sample and have determined this was NOT a breach of Steam systems.
 We’re still digging into the source of the leak, which is compounded by the fact that any SMS messages are unencrypted in transit, and routed through multiple providers on the way to your phone.
- The leak consisted of older text messages that included one-time codes that were only valid for 15-minute time frames and the phone numbers they were sent to. The leaked data did not associate the phone numbers with a Steam account, password information, payment information or other personal data. Old text messages cannot be used to breach the security of your Steam account, and whenever a code is used to change your Steam email or password using SMS, you will receive a confirmation via email and/or Steam secure messages.
- From a Steam perspective, customers do not need to change their passwords or phone numbers as a result of this event.
-
-Original article continues below. 
-Details from 89 million Steam accounts have reportedly gone up for sale on the dark web. Since RPS's dedicated tech team have just informed me that the dark web is not the thing you get when you click 'incognito tab' and is actually potentially much scarier than that, you might want to consider changing your password. Or maybe not. As I say, it's all alleged at this point.
-Read more]]></summary>
+ Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
         </author>
@@ -988,6 +1228,19 @@ Ye…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Square Enix Is Teaming Up With Japanese TV Network TBS On A New Game IP]]></title>
+        <id>https://www.nintendolife.com/#article-182353</id>
+        <link href="https://www.nintendolife.com/news/2025/05/square-enix-is-teaming-up-with-japanese-tv-network-tbs-on-a-new-game-ip"/>
+        <updated>2025-05-14T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Name a better duo.
+On today's edition of 'Collaborations We Didn't Expect,' Square Enix has announced that it is teaming up with the Japanese TV network TBS Television to develop a brand-new game IP (thanks, Gematsu).
+TBS Television, not the one that our friends in the US will likely be familiar with, is a Tokyo-based network responsible for shows like Takeshi's Castle, Ultraman and Sasuku (which you might recognise as 'Ninja Warrior' out West). The network established TBS Games back in 2023 with the hopes of "deliver the most impressive gaming experiences," and has since published a handful of games based on its franchises, including the 2024 Switch release of I Am Adventure Boy: Ultimate Escape Island in Japan.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Founder of accessibility nonprofit AbleGamers accused of abusive conduct and financial mismanagement]]></title>
         <id>https://www.rockpapershotgun.com/founder-of-accessibility-nonprofit-ablegamers-accused-of-abusive-conduct-and-financial-mismanagement</id>
         <link href="https://www.rockpapershotgun.com/founder-of-accessibility-nonprofit-ablegamers-accused-of-abusive-conduct-and-financial-mismanagement"/>
@@ -1006,6 +1259,19 @@ Read more]]></summary>
         <summary type="html"><![CDATA[V říjnu loňského roku provedl Úřad pro ochranu hospodářské soutěže (ÚOHS) místní šetření u společnosti Seznam.cz. Krajský soud v Brně tento týden konstatoval, že toto šetření bylo nezákonné.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSN's 'Agent 07 - Revenge' Reportedly Uses Assets From GoldenEye 007]]></title>
+        <id>https://www.nintendolife.com/#article-182337</id>
+        <link href="https://www.nintendolife.com/news/2025/05/psns-agent-07-revenge-reportedly-uses-assets-from-goldeneye-007"/>
+        <updated>2025-05-14T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[The spy who nabbed me.
+A dubious game currently available on the PlayStation Store for $14.99 appears to have lifted the Dam level from GoldenEye 007 almost in its entirety.
+As reported over at Recollect64, 'iOrder SRL' has been wholesale borrowing entire level layouts and assets from the Nintendo 64's finest hour (fight me).
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1032,6 +1298,19 @@ Turns out it wasn't always so, as early in development Clair Obscur was set in "
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square Enix Details Plan To 'Reboot And Awaken' Its Business]]></title>
+        <id>https://www.nintendolife.com/#article-182346</id>
+        <link href="https://www.nintendolife.com/news/2025/05/square-enix-details-plan-to-reboot-and-awaken-its-business"/>
+        <updated>2025-05-14T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With a focus on quality over quantity.
+Square Enix has released its financial results for FY2025, detailing a rather middling performance for the company with a distinct lack of major releases.
+The good news is that its HD Digital Entertainment sub-segment (i.e. the big games we're all interested in) turned a profit, but only because a combination of lower development and marketing costs mixed with higher-than-expected sales of Dragon Quest III HD-2D Remake effectively outweighed the higher net sales from the previous year. So, in short, Dragon Quest saved the day.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1155,6 +1434,19 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PSA: Mix And Match Your Switch OLED At Nintendo's New Store (US)]]></title>
+        <id>https://www.nintendolife.com/#article-182334</id>
+        <link href="https://www.nintendolife.com/news/2025/05/psa-mix-and-match-your-switch-oled-at-nintendos-new-store-us"/>
+        <updated>2025-05-14T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Decide how you want your Switch to look.
+
+It might be incredibly late in the Switch's life to be doing this, but Nintendo will allow fans who visit its new store in San Francisco to fully customise the colour of their brand-new Switch OLED.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Firefox už hostuje zdrojové kódy na GitHubu]]></title>
         <id>www.root.cz-actuality-48007</id>
         <link href="https://www.root.cz/zpravicky/firefox-uz-hostuje-zdrojove-kody-na-githubu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1239,6 +1531,58 @@ How to complete the Historian…]]></summary>
         <updated>2025-05-14T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo's New Store Will Stock Mini Sculpture Replicas]]></title>
+        <id>https://www.nintendolife.com/#article-182332</id>
+        <link href="https://www.nintendolife.com/news/2025/05/nintendos-new-store-will-stock-mini-sculpture-replicas"/>
+        <updated>2025-05-14T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA["Bring a piece of Nintendo San Francisco home with you".
+
+Nintendo is opening its new San Francisco store in the US this week on 15th May and if you do plan on taking the trip there, you'll able to pick up one of five minature "sculpture replicas" based on the same statues in Nintendo's stores.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mario Kart 8 Deluxe Has Been Updated To Version 3.0.4, Here Are The Full Patch Notes]]></title>
+        <id>https://www.nintendolife.com/#article-182331</id>
+        <link href="https://www.nintendolife.com/news/2025/05/mario-kart-8-deluxe-has-been-updated-to-version-3-0-4-here-are-the-full-patch-notes"/>
+        <updated>2025-05-14T02:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Swansong.
+Ahead of the arrival of Mario Kart World next month, Mario Kart 8 Deluxe has received a new update bumping it up to Version 3.0.4. This likely isn't the final update for the game, but it is probably the last one we'll be getting before the new entry speeds onto the Switch 2 in June.
+So, what exactly does this latest update include? It's multiple "general" fixes revolving some various issues. Here are the full patch notes, courtesy of the official Nintendo support page:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Super Mario World Looks To Be The Official Name Of The Next Mario Movie]]></title>
+        <id>https://www.nintendolife.com/#article-182330</id>
+        <link href="https://www.nintendolife.com/news/2025/05/super-mario-world-looks-to-be-the-official-name-of-the-next-mario-movie"/>
+        <updated>2025-05-14T01:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Now removed from NBCUniversal's page.
+
+It's been over a year now since our last proper update about the next Mario Movie, but it seems we might finally have some new information to share.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clair Obscur: ﻿Expedition 33 Developer Seems Open To A Switch 2 Port]]></title>
+        <id>https://www.nintendolife.com/#article-182329</id>
+        <link href="https://www.nintendolife.com/news/2025/05/clair-obscur-expedition-33-developer-seems-open-to-a-switch-2-port"/>
+        <updated>2025-05-14T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Success changes everything.
+The RPG Clair Obscur: Expedition 33 by French studio Sandfall Interactive is already the surprise hit of 2025 and it's of course led to many questions about a possible port to the Switch 2. So, will something like this happen in the future?
+Speaking to the YouTube channel 'mistermv' recently, Sandfall's CEO Guillaume Broche apparently explained how the success of the game had "kind of" changed everything and while it's still too early to say, there are now a lot more opportunities showing up for the developer - with the team open to the idea of it:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1388,6 +1732,19 @@ The first task is to reach the required locations (more on that further down). Y
 Here are the requ…]]></summary>
         <author>
             <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch 2 Hardware Chip Was Potentially Finalised As Early As 2021]]></title>
+        <id>https://www.nintendolife.com/#article-182325</id>
+        <link href="https://www.nintendolife.com/news/2025/05/nintendo-switch-2-hardware-chip-was-potentially-finalised-as-early-as-2021"/>
+        <updated>2025-05-13T19:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Planning ahead.
+With the Nintendo Switch 2 entering development as early as 2019, it might not come as a surprise that the hardware chip may have been finalised as early as 2021. And according to a teardown of a supposed Switch 2 motherboard, that's exactly what it's come down to.
+Digital Foundry has summarised findings by Geekerwan and Kurnal, who have acquired a Switch 2 motherboard (from an online retailer in China) and performed a complete analysis of the tech. And the pair have suggested that the hardware was finalised four years ago. If that's true, that means Nintendo has been holding onto the chip since then.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1608,6 +1965,19 @@ Read more...]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: Are You Excited At All For Switch 2 GameChat?]]></title>
+        <id>https://www.nintendolife.com/#article-182034</id>
+        <link href="https://www.nintendolife.com/features/talking-point-are-you-excited-at-all-for-switch-2-gamechat"/>
+        <updated>2025-05-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Student lounge around.
+It's been nearly six weeks since the Switch 2 Direct, and we're now only three-and-a-half more away from the system's launch. Overall, we were pretty impressed with the hour-long presentation Nintendo assembled to officially pull back the curtain at the start of April. Yes, some mixed messaging and unanswered questions could — and should — have been avoided, but the reveal itself contained loads of great games and a decent look at the hardware. A solid opening salvo after years of speculation.
+If we had any notes, we probably wouldn't have spent five minutes discussing a voice and video chat feature like it was some revolutionary new concept in video game communication. But hey, maybe with some distance from the announcement, we'd understand the angle and appreciate the approach a little more! Several weeks on, though, and we're still not really sold on or excited about GameChat.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2845,16 +3215,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.15 Adds Support For Several More Gaming Controllers]]></title>
-        <id>https://www.phoronix.com/news/Linux-615-More-Game-Controllers</id>
-        <link href="https://www.phoronix.com/news/Linux-615-More-Game-Controllers"/>
-        <updated>2025-05-11T20:50:45.000Z</updated>
-        <summary type="html"><![CDATA[Merged today to Linux Git ahead of the Linux 6.15-rc6 release is support for several more gaming controllers...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's on your bookshelf?: Game urbanist and author Konstantinos Dimopoulos]]></title>
         <id>https://www.rockpapershotgun.com/whats-on-your-bookshelf-game-urbanist-and-author-konstantinos-dimopoulos</id>
         <link href="https://www.rockpapershotgun.com/whats-on-your-bookshelf-game-urbanist-and-author-konstantinos-dimopoulos"/>
@@ -3258,16 +3618,6 @@ One place to start the R&D rollout might be Knights Of The Crusades, a grand str
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi Connect 2.5 již není beta]]></title>
-        <id>www.root.cz-actuality-47962</id>
-        <link href="https://www.root.cz/zpravicky/raspberry-pi-connect-2-5-jiz-neni-beta/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-05-09T10:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Vzdálený přístup Raspberry Pi Connect pro jednodeskové počítače Raspberry Pi vyšel dnes ve verzi 2.5, která již není označena jako beta. Vzdálený přístup Raspberry Pi Connect se objevil před rokem a usnadňuje život hlavně začátečníkům, kteří mají možnost se připojit odkudkoli bez potřeby mít vlastní IP adresu. Služba je oblíbená a rychle se připojilo 100 tisíc zařízení.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Alien: Rogue Incursion gets a non-VR "Evolved" edition this year, with prettier, deadlier xenomorphs]]></title>
         <id>https://www.rockpapershotgun.com/alien-rogue-incursion-gets-a-non-vr-evolved-edition-this-year-with-prettier-deadlier-xenomorphs</id>
         <link href="https://www.rockpapershotgun.com/alien-rogue-incursion-gets-a-non-vr-evolved-edition-this-year-with-prettier-deadlier-xenomorphs"/>
@@ -3321,16 +3671,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Brendan Caldwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 25.10 bude používat bezpečnější sudo-rs napsané v Rustu]]></title>
-        <id>www.root.cz-actuality-47959</id>
-        <link href="https://www.root.cz/zpravicky/ubuntu-25-10-bude-pouzivat-bezpecnejsi-sudo-rs-napsane-v-rustu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-05-09T07:50:02.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 25.10 bude ve výchozím stavu používat bezpečnější sudo-rs  napsané v Rustu místo klasického sudo. Stejně tak patrně bude ve verzi 25.10 použit ve výchozím stavu balíček rust-coreutils  (uutils) místo  gnu-coreutils.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3423,16 +3763,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Pal World released into early access in Jan. 2024.  It has since drawn a massive amount of attention for its similarities with Pokemon.  For a while there has been discourse on whether PalWorld would face legal action.  The Pokemon Company issued an official statement saying they have no...]]></summary>
         <author>
             <name>DuoForce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sraz spolku OpenAlt a komunita OpenSSL]]></title>
-        <id>www.root.cz-actuality-47956</id>
-        <link href="https://www.root.cz/zpravicky/sraz-spolku-openalt-a-komunita-openssl/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-05-08T20:09:47.000Z</updated>
-        <summary type="html"><![CDATA[Příští pátek proběhne v Brně sraz spolku OpenAlt, který stojí za stejnojmennou podzimní konferencí. Tentokrát pozvání přijal Anton Arapov z OpenSSL Corporation, který představí projekt OpenSSL a jakým způsobem se do jeho vývoje zapojuje komunita skrze nově založené OpenSSL Corporation a OpenSSL Foundation.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Michal Stanke)</name>
         </author>
     </entry>
     <entry>
@@ -3781,16 +4111,6 @@ Original advisory details:
  service.]]></summary>
         <author>
             <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fwupd 2.0.9 s podporou aktualizace firmwaru pro Intel Arc Battlemage]]></title>
-        <id>www.root.cz-actuality-47953</id>
-        <link href="https://www.root.cz/zpravicky/fwupd-2-0-9-s-podporou-aktualizace-firmwaru-pro-intel-arc-battlemage/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-05-07T18:21:57.000Z</updated>
-        <summary type="html"><![CDATA[Vydání balíku Fwupd 2.0.9, které již tradičně ohlásil Richard Hughes z Red Hatu, přináší významnou funkcionalitu pro majitele nejnovější generace GPU Intel, jejichž firmware nově umí aktualizovat. Jde o karty typu Arc Bxxx generace „Battlemage“, z nichž na trhu jsou dostupné modely Arc B570 a Arc B580 (a je otázkou, jestli přibudou další).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
