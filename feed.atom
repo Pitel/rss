@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-24T08:16:38.973Z</id>
+    <id>urn:2025-05-24T10:13:38.909Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-24T08:16:38.973Z</updated>
+    <updated>2025-05-24T10:13:38.909Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor 46 Deprecates SGX Support, Google To Take Over TDX Maintenance]]></title>
+        <id>https://www.phoronix.com/news/Cloud-Hypervisor-46</id>
+        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-46"/>
+        <updated>2025-05-24T09:55:06.000Z</updated>
+        <summary type="html"><![CDATA[While the open-source, Rust-based Cloud Hypervisor project was started by Intel as a modern VMM for cloud workloads and focused on security, some Intel CPU features are now bit-rotting. In turn the new Cloud Hypervisor 46 release has deprecated support for Intel Software Guard Extensions (SGX) while even their modern Trust Domain Extensions (TDX) feature is in jeopardy but now with Google engineers set to takeover that code...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.4 Adds Time-Of-Day Wallpapers, Disabling Adaptive-Sync By Default]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-TOD-Wallpapers</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-TOD-Wallpapers"/>
+        <updated>2025-05-24T09:43:24.000Z</updated>
+        <summary type="html"><![CDATA[KDE developers have been busy addressing bugs within the Plasma 6.4 desktop ahead of its stable release in June. But there has been some last minute feature work to arrive, including support for time-of-day wallpapers with Plasma 6.4...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC 16 Lands Better Support For -march= Targeting On RISC-V]]></title>
+        <id>https://www.phoronix.com/news/GCC-16-Better-march-RISC-V</id>
+        <link href="https://www.phoronix.com/news/GCC-16-Better-march-RISC-V"/>
+        <updated>2025-05-24T09:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Merged on Friday for the GCC 16 compiler is better handling of the "-march=" compiler option on RISC-V systems when seeing multiple -march= hits and wanting to specify the RISC-V CPU name for targeting...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (24th May)]]></title>
+        <id>https://www.nintendolife.com/#article-182812</id>
+        <link href="https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-24th-may"/>
+        <updated>2025-05-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready..? Fight!
+Well folks, the weekend is finally here... Wait, what do you mean it only feels like yesterday when we did our last What Are You Playing? Yeah... time flies, huh? The Switch 2 will be here before you know it!
+Anyway, this week saw the release of four new titles for the Game Boy app on Nintendo Switch Online, which is awesome. We also finally got an explanation from Shigeru Miyamoto as to why Donkey Kong has gone through such a major redesign. Spoiler: it's not as dramatic as you might think.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worlds 2025 Spectator Badge Interest List Now Open!]]></title>
+        <id>155768</id>
+        <link href="https://www.pokebeach.com/forums/threads/worlds-2025-spectator-badge-interest-list-now-open.155768/"/>
+        <updated>2025-05-24T08:42:20.000Z</updated>
+        <summary type="html"><![CDATA[The spectator interest list is now open for Worlds 2025 in Anaheim. You can register until March 23rd at 11:59 PM PDT.
+Fans will be randomly selected to get a spectator badge to enter the event. Those selected will be emailed the week of March 24th.
+There are two types of passes available...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Piracy Shield: European Commission Urged to Assess Legality Under EU Law]]></title>
         <id>https://torrentfreak.com/?p=267823</id>
@@ -1099,6 +1154,17 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[May 23, 2025]]></title>
+        <id>https://developer.android.com/jetpack/androidx/versions/all-channel#may_23_2025</id>
+        <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#may_23_2025"/>
+        <updated>2025-05-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lifecycle ViewModel Navigation3 Version 1.0.0-alpha01
+Navigation3 Version 1.0.0-alpha02]]></summary>
+        <author>
+            <name>AndroidX - Release Notes</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ban Mimikyu]]></title>
         <id>155766</id>
         <link href="https://www.pokebeach.com/forums/threads/ban-mimikyu.155766/"/>
@@ -1916,19 +1982,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[Last week I began posting Linux benchmarks of the flagship "Strix Halo" SoC, the AMD Ryzen AI Max+ PRO 395 with powerful Radeon 8060S graphics using the HP ZBook Ultra G1a laptop. Both the CPU and GPU results for the data published thus far have been mighty impressive and done at the Ubuntu Linux defaults... But the Ryzen AI Max+ 395 within the ZBook Ultra G1a can be pushed even further by leveraging the ACPI Platform Profiles capabilities. In this article is showing how much further performance -- and the power costs -- can be achieved out of this AMD Strix Halo SoC when leveraging the HP Power Profiles as well as the power efficiency for those wanting to run the SoC instead in the "power saver" / "low power" configuration.]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese Charts: Capcom Fighting Collection 2 Brawls Its Way To The Top]]></title>
-        <id>https://www.nintendolife.com/#article-182738</id>
-        <link href="https://www.nintendolife.com/news/2025/05/japanese-charts-capcom-fighting-collection-2-brawls-its-way-to-the-top"/>
-        <updated>2025-05-22T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Finding its groove.
-Famitsu is back with its latest look at the boxed games chart in Japan, and Capcom Fighting Collection 2 for the Switch has deservedly stormed to the top with a total of 7,801 units sold in its debut week. The PS4 version also entered the top 10 at number 6, selling an additional 4,275.
-Konami's Tokimeki Memorial: Forever With You Emotional has now slipped down to number 7, adding another 3,170 unit sales to its pot, while a whole bunch of Nintendo regulars make up the bulk of the top 10.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3211,16 +3264,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FreeBSD Continues Improving Hardware Support For Framework Laptops, WiFi Devices]]></title>
-        <id>https://www.phoronix.com/news/FreeBSD-Q1-2025</id>
-        <link href="https://www.phoronix.com/news/FreeBSD-Q1-2025"/>
-        <updated>2025-05-21T12:01:20.000Z</updated>
-        <summary type="html"><![CDATA[The FreeBSD project today published their status report outlining their development happenings during Q1'2025. There's been a lot going on in the FreeBSD world, especially for improving laptop support and other modern hardware coverage for this BSD operating system...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A studio gutted by Embracer have come back to life and are working on a new RPG]]></title>
         <id>https://www.rockpapershotgun.com/a-studio-gutted-by-embracer-have-come-back-to-life-and-are-working-on-a-new-rpg</id>
         <link href="https://www.rockpapershotgun.com/a-studio-gutted-by-embracer-have-come-back-to-life-and-are-working-on-a-new-rpg"/>
@@ -3259,26 +3302,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Dostupné od července tohoto roku budou na trhu nové Threadrippery od AMD. Tato Zen 5 generace s kódovým označením „Shimada Peak“ vyráběná 4nm procesem u TSMC nabídne v nejvyšším modelu 96 CPU jader, resp. 192 vláken, a to při zachování kompatibility se stávajícími deskami se Socket TR5.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Compute Runtime 25.18.33578.6 Brings ULLS For Lunar Lake]]></title>
-        <id>https://www.phoronix.com/news/Intel-CR-25.18.33578.6</id>
-        <link href="https://www.phoronix.com/news/Intel-CR-25.18.33578.6"/>
-        <updated>2025-05-21T10:23:50.000Z</updated>
-        <summary type="html"><![CDATA[Released yesterday was the newest monthly feature update to the Intel Compute Runtime as their open-source GPU compute stack for OpenCL and oneAPI Level Zero support on Intel integrated and discrete graphics processors...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME GDM Now Disables The X11/X.Org Session By Default]]></title>
-        <id>https://www.phoronix.com/news/GNOME-GDM-Disable-X11-Default</id>
-        <link href="https://www.phoronix.com/news/GNOME-GDM-Disable-X11-Default"/>
-        <updated>2025-05-21T09:42:30.000Z</updated>
-        <summary type="html"><![CDATA[Merged yesterday to the GNOME Display Manager "GDM" codebase is disabling of the X11/X.Org session by default as the first step toward deprecating GNOME's X11 session support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3812,19 +3835,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Microsoft zpřístupnil zdrojové kódy svého Windows Subsystem for Linux (WSL) pod svobodnou licencí MIT. open-source a otevírá kód, do kterého mohou přispívat členové komunity. WSL je nyní k dispozici na GitHubu a je otevřený komunitě! Můžete si stáhnout WSL a sestavit jej ze zdrojových kódů, přidávat nové opravy a funkce a podílet se na aktivním vývoji, píše Microsoft na svém blogu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chandelure, Lampent, and Litwick from Black Bolt!]]></title>
-        <id>155992</id>
-        <link href="https://www.pokebeach.com/forums/threads/chandelure-lampent-and-litwick-from-black-bolt.155992/"/>
-        <updated>2025-05-20T03:39:23.000Z</updated>
-        <summary type="html"><![CDATA[Chandelure and its evolution line have just been revealed from Black Bolt and White Flare! The set will release in Japan on June 6th and will then release in English on July 18th.
-Litwick - Fire - HP60
-Basic Pokémon
-[R] Light and Burn: Look at the top card of your deck. You may discard that...]]></summary>
-        <author>
-            <name>JustInBasil</name>
         </author>
     </entry>
     <entry>
