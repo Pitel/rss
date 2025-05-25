@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-25T12:25:29.234Z</id>
+    <id>urn:2025-05-25T14:12:05.718Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-25T12:25:29.234Z</updated>
+    <updated>2025-05-25T14:12:05.718Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ScummVM 2.9.1 “Slappin da BASS” is here!]]></title>
+        <id>https://www.scummvm.org/news/archive/#2025-05-25</id>
+        <link href="https://www.scummvm.org/news/20250525/"/>
+        <updated>2025-05-25T13:26:13.000Z</updated>
+        <summary type="html"><![CDATA[Get ready to jam and slap da BASS!
+Yes, it is this time of the year again! Please welcome the first ScummVM release of the year: ScummVM 2.9.1.
+This maintenance release mainly focused on fixing bugs that our developers and users have uncovered since our last stable release.
+As usual, several engines and platforms received their fair share of bug fixes and improvements: AGI, AGS, Asylum, BAGEL, Bladerunner, Hopkins, MADS, NGI, SCI, SCUMM, Sky, Sword1, Tetraedge, Tinsel, Tucker, TwinE, and TWP.
+Our porters also went on a bug-hunting spree, so all we can provide is a small summary of the latest and greatest fixes!
+The Nintendo 3DS (yes, we do not care about end-of-life dates!) has the GUI appropriately displayed if it is configured to use the top screen only.
+Android now provides an option to save and restore your configuration file and save games, and the vast majority of older Android devices will see increased performance thanks to the ARM NEON optimizations, which are now enabled by default. And the Beneath a Steel Sky game is not crashing in the intro anymore!
+The Atari port received some internal backend, GUI, and audio fixes. Speaking of audio: iOS/iPad will now always properly recognize FluidSynth soundfonts, macOS has support for Audio CD playback from original discs on Snow Leopard and earlier, and Windows 9x (yes, EOL…) can use FLAC files again!
+The detailed list of improvements is available here.
+Head over to our downloads page and grab it while it’s hot! As usual, macOS and Windows users can update ScummVM with our integrated, magical auto-upgrade solution.
+>]]></summary>
+        <author>
+            <name>nospam@scummvm.org (The ScummVM Team)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Week's Top Tips For Doom: The Dark Ages, Clair Obscur, Oblivion Remastered, And More]]></title>
+        <id>1851782186</id>
+        <link href="https://kotaku.com/doom-dark-ages-wolf-statues-oblivion-remastered-tips-1851782186"/>
+        <updated>2025-05-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Whether you need help locating some of Doom: The Dark Ages, want to make the most of Verso in Clair Obscur: Expedition 33, or you’d just like to learn some essential things that Oblivion Remastered doesn’t tell you, read on, we’ve got all this info and more.
+Read more...]]></summary>
+        <author>
+            <name>Kotaku Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Opinion: Not Enough People Are Talking About This Early GOTY Contender]]></title>
+        <id>https://www.nintendolife.com/#article-182792</id>
+        <link href="https://www.nintendolife.com/features/opinion-not-enough-people-are-talking-about-this-early-goty-contender"/>
+        <updated>2025-05-25T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Centennial masterpiece.
+
+Warning: This article delves into spoiler territory for The Hundred Line - Last Defense Academy. If you've yet to play the game and want to go in blind, we recommend you come back at another time...
+
+I’m not a fan of tactical RPGs… is what I would have told you before I played The Hundred Line - Last Defense Academy. Heck, I’m still not sure I would call myself a 'fan' of the genre, necessarily; one game perhaps isn’t enough to sway me that much. The Hundred Line, though..? Yeah, I’m a fan of The Hundred Line.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Btrfs To See More Performance Improvements With Linux 6.16]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.16-Btrfs-Performance</id>
+        <link href="https://www.phoronix.com/news/Linux-6.16-Btrfs-Performance"/>
+        <updated>2025-05-25T12:44:30.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the Linux 6.16 merge window opening, several early pull requests were already sent out this week in advance of Linux 6.15 expected for release later today. Among those early feature pulls was Btrfs maintainer David Sterba sending out updates to this advanced copy-on-write file-system...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dell Latitude 7455 Is The Newest Qualcomm Snapdragon X Elite Laptop Seeing Linux Patches]]></title>
         <id>https://www.phoronix.com/news/Dell-Latitude-7455-X1E-Linux</id>
@@ -1376,19 +1432,6 @@ This update corrects flaws in the following subsystems:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: First Look At 'Wild Hearts S' Four-Player Gameplay On Switch 2]]></title>
-        <id>https://www.nintendolife.com/#article-182771</id>
-        <link href="https://www.nintendolife.com/news/2025/05/video-first-look-at-wild-hearts-s-four-player-gameplay-on-switch-2"/>
-        <updated>2025-05-23T04:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Featuring online and local support.
-Koei Tecmo will be showing its support for the Switch 2 this year with some of its games and launching in July is Wild Hearts S - a monster hunting-style game, which originally made its debut on other platforms in 2023.
-This updated version coming to the Switch 2 will include some adjustments to the gameplay and perhaps most notably is the increase from three to four players for both local and online play. This means you can now hunt with three other players. Although cross-platform multiplayer won't be supported.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Drafting]]></title>
         <id>https://xkcd.com/3093/</id>
         <link href="https://xkcd.com/3093/"/>
@@ -2528,16 +2571,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CentOS Now Providing Initial RISC-V Support]]></title>
-        <id>https://www.phoronix.com/news/CentOS-RISC-V-Support</id>
-        <link href="https://www.phoronix.com/news/CentOS-RISC-V-Support"/>
-        <updated>2025-05-22T09:33:52.000Z</updated>
-        <summary type="html"><![CDATA[With Red Hat Enterprise Linux 10 providing a RISC-V developer preview, CentOS is now in turn also providing initial RISC-V CPU ISA support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is it just me, or does June have too many new MMOs, Destructoid?]]></title>
         <id>https://www.destructoid.com/?p=1069332</id>
         <link href="https://www.destructoid.com/is-it-me-or-does-june-have-too-many-new-mmos-destructoid/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=is-it-me-or-does-june-have-too-many-new-mmos-destructoid"/>
@@ -3575,17 +3608,6 @@ Weezing eats garbage. Gunk Shot involves the user spewing garbage at the opponen
 Read more...]]></summary>
         <author>
             <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Call Of Duty: Black Ops Dev's New PlayStation Studio Looking For Artist With 'Advanced Expertise' In Generative AI]]></title>
-        <id>1851781628</id>
-        <link href="https://kotaku.com/outlaw-games-playstation-generative-ai-jason-blundell-1851781628"/>
-        <updated>2025-05-20T22:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Dark Outlaw Games is a new PlayStation studio born out of the ashes of Deviation Games and led by developer Jason Blundell, best known for Call of Duty: Black Ops’hit Zombies mode. The team is looking for a concept artist for its first project, but not just any concept artist. A new job listing on Sony’s website…
-Read more...]]></summary>
-        <author>
-            <name>Ethan Gach</name>
         </author>
     </entry>
     <entry>
