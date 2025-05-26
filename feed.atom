@@ -1,21 +1,233 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-26T12:28:20.067Z</id>
+    <id>urn:2025-05-26T14:14:18.578Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-26T12:28:20.067Z</updated>
+    <updated>2025-05-26T14:14:18.578Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Armbian 25.5]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/armbian-25.5</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/armbian-25.5"/>
+        <updated>2025-05-26T14:13:54.000Z</updated>
+        <summary type="html"><![CDATA[Armbian, tj. linuxová distribuce založená na Debianu a Ubuntu optimalizovaná pro jednodeskové počítače na platformě ARM a RISC-V, ke stažení ale také pro Intel a AMD, byl vydán ve verzi 25.5. Přehled novinek v Changelogu.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cofagrigus from White Flare!]]></title>
         <id>156018</id>
         <link href="https://www.pokebeach.com/forums/threads/cofagrigus-from-white-flare.156018/"/>
-        <updated>2025-05-26T12:11:41.000Z</updated>
+        <updated>2025-05-26T14:13:52.000Z</updated>
         <summary type="html"><![CDATA[Yamask and Cofagrigus have just been revealed from Black Bolt and White Flare! The set will release in Japan on June 6th and will then release in English on July 18th.
 Yamask - Psychic - HP70
 Basic Pokémon
 [P] Focused Wish: 20+ damage. Flip a coin. If heads, this attack does 20 more damage...]]></summary>
         <author>
             <name>JustInBasil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Coreutils 0.1.0 jsou rychlejší]]></title>
+        <id>www.root.cz-actuality-48171</id>
+        <link href="https://www.root.cz/zpravicky/rust-coreutils-0-1-0-jsou-rychlejsi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-05-26T13:40:57.000Z</updated>
+        <summary type="html"><![CDATA[V sobotu vyšel Rust Coreutils ve verzi 0.1.0. Jde o náhradu GNU Coreutils napsanou v Rustu. Od minulého vydání 0.0.30 poskočilo číslování, což znamená dosažení menšího milníku. Nově jsou cat, ls, wc, tail, seq a more rychlejší, dosahují nebo překračují rychlost GNU Coreutils. Podpora SELinuxu je nově integrována do  cp, ls, mkdir, mknod, mkfifo, install a  stat.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU Linux-libre 6.15-gnu Neuters The New NOVA NVIDIA Driver]]></title>
+        <id>https://www.phoronix.com/news/GNU-Linux-Libre-6.15-gnu</id>
+        <link href="https://www.phoronix.com/news/GNU-Linux-Libre-6.15-gnu"/>
+        <updated>2025-05-26T13:16:40.000Z</updated>
+        <summary type="html"><![CDATA[Following last night's release of the Linux 6.15 stable kernel, the FSF Latin America team has released GNU Linux-libre 6.15-gnu for their downstream kernel that strips out the ability to load non-free firmware/microcode and other elements of the Linux kernel deemed for not aligning with their software freedoms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7517-3: Linux kernel (BlueField) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7517-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7517-3"/>
+        <updated>2025-05-26T13:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - Block layer subsystem;
+  - Drivers core;
+  - Network block device driver;
+  - Character device driver;
+  - GPU drivers;
+  - HID subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - PPS (Pulse Per Second) driver;
+  - PTP clock framework;
+  - RapidIO drivers;
+  - Real Time Clock drivers;
+  - SCSI subsystem;
+  - SLIMbus drivers;
+  - QCOM SoC drivers;
+  - Trusted Execution Environment drivers;
+  - USB DSL drivers;
+  - USB Device Class drivers;
+  - USB core drivers;
+  - USB Gadget drivers;
+  - USB Host Controller drivers;
+  - Renesas USBHS…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armbian 25.5 Adds Support For Newer Single Board Computers]]></title>
+        <id>https://www.phoronix.com/news/Armbian-25.5-Released</id>
+        <link href="https://www.phoronix.com/news/Armbian-25.5-Released"/>
+        <updated>2025-05-26T13:00:50.000Z</updated>
+        <summary type="html"><![CDATA[Armbian 25.5 is out today as the newest version of this Debian-based Linux distribution catering primarily to ARM and RISC-V single board computers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Official Universal Piece Trello and Discord Links]]></title>
+        <id>https://www.destructoid.com/?p=1070401</id>
+        <link href="https://www.destructoid.com/universal-piece-trello-and-discord/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=universal-piece-trello-and-discord"/>
+        <updated>2025-05-26T12:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Universal Piece is an upcoming Roblox Anime re-release, and there's a lot of hype surrounding it. We're really excited to get our hands on the game, and if you're anything like us, you'll want to stay up to stay in the loop. The best way to do that is to keep an eye on the relevant links. We'll provide you with all the relevant links in our Official Universal Piece Trello and Discord Links.
+
+
+Universal Piece Relevant Links
+
+
+Screenshot by Universal Sea
+
+
+Down below, you can find links to all Universe Piece related links:
+
+
+
+Universal Piece Game Page
+
+
+Universal Piece Community Group
+
+
+Universal Piece Official Discord
+
+
+Universal Piece Trello Link (Coming Soon)
+
+
+
+Kicking things off with the official Game Page. If you visit it right now, you'll see that the title is [The game is currently under development], but everything else seems right. You can find a brief description on how the game works, what you can expect, and some general info about the developers.
+
+
+The official Roblox Community Group "Universal Sea" currently has over 5k members, and that number is only going to grow when the game officially drops. Currently, the comments are filled with anticipating players waiting for the upcoming technical test and the re-release.
+
+
+If you want to be the first to know when something new is going on in Universe Piece, the official Discord server is going to be your best friend. The game got delayed, so the devs have temporarily changed the name to "Delay Piece." There are just over 10k members who are happily spamming the general chat.
+
+
+Last but not least, Universal Piece still doesn't have a Trello board, but the devs have mentioned that one might be coming as soon as the game is officially released. We'll share the link as soon as the Trello board goes live.
+
+
+That's all there is to it. We hope you're as excited as we are for Universal Piece. In the meantime, check out the Universal Piece codes list.
+
+The post Official Universal Piece Trello and Discord Links appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Aleksandar Perisic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7516-6: Linux kernel (IBM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7516-6</id>
+        <link href="https://ubuntu.com/security/notices/USN-7516-6"/>
+        <updated>2025-05-26T12:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - Block layer subsystem;
+  - Drivers core;
+  - Network block device driver;
+  - Character device driver;
+  - GPU drivers;
+  - HID subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - PPS (Pulse Per Second) driver;
+  - PTP clock framework;
+  - RapidIO drivers;
+  - Real Time Clock drivers;
+  - SCSI subsystem;
+  - SLIMbus drivers;
+  - QCOM SoC drivers;
+  - Trusted Execution Environment drivers;
+  - USB DSL drivers;
+  - USB Device Class drivers;
+  - USB core drivers;
+  - USB Gadget drivers;
+  - USB Host Controller drivers;
+  - Renesas USBHS…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEGA Gives A Behind-The-Scenes Look At Its New London Office]]></title>
+        <id>https://www.nintendolife.com/#article-182863</id>
+        <link href="https://www.nintendolife.com/news/2025/05/sega-gives-a-behind-the-scenes-look-at-its-new-london-office"/>
+        <updated>2025-05-26T12:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Ping pong! Pool table! Boardroom!
+Sega has posted a video showcasing its brand-new London office in Chiswick Business Park, and cor blimey, it looks really nice.
+The roughly one-minute long video takes us through the reception area (with a lovely-looking main desk, we might add) before swooping through what looks like a recreation/dining area, a few meeting rooms, the main boardroom, and a digital gallery area.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7524-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7524-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7524-1"/>
+        <updated>2025-05-26T12:39:02.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - SuperH RISC architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - Compute Acceleration Framework;
+  - ACPI drivers;
+  - Drivers core;
+  - RAM backed block device driver;
+  - Ublk userspace block driver;
+  - Virtio block driver;
+  - Compressed RAM block device driver;
+  - Bluetooth drivers;
+  - TPM device driver;
+  - Clock framework and drivers;
+  - Data acquisition framework and drivers;
+  - CPU frequency scaling framework;
+  - …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -413,13 +625,16 @@ I'll just say it now: Untitled Goose Game is one of the funniest games I've ever
         <id>https://www.destructoid.com/?p=1070233</id>
         <link href="https://www.destructoid.com/i-went-back-to-a-classic-racing-game-and-i-finally-realized-what-made-it-so-good/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=i-went-back-to-a-classic-racing-game-and-i-finally-realized-what-made-it-so-good"/>
         <updated>2025-05-25T19:52:36.000Z</updated>
-        <summary type="html"><![CDATA[The walls are magnetic, the roads are too narrow, and the keyboard just isn't made for this thing. Such are the woes of the incompetent arcade racer, I suppose. Racing games have been an on-again-off-again thing for me in my adult years, mainly because a genre shift I saw in my teens really pissed me off. But now I went back on a whim to a golden oldie, and I finally saw the appeal.
+        <summary type="html"><![CDATA[The walls are magnetic, the roads are too narrow, and the keyboard just isn't made for this thing. Such are the woes of the incompetent arcade racer, I suppose. Racing games have been an on-again-off-again thing for me in my adult years. 
+
+
+That's mostly because the genre shift I witnessed as a teen really pissed me off. But now I went back on a whim to a golden oldie, and I finally saw the appeal.
 
 
 Running in the '90s
 
 
-We'd have to go back all the way to MS-DOS prompts to find my first racing game experiences (Screamer Rally at the tender age of three if you want to know), but we don't have that kind of time, so let's get into a quick car and rush straight to the next stage of the story. The Need for Speed games around the turn of the millennium—High Stakes and Porsche Unleashed—set the blueprint for w…]]></summary>
+We'd have to go back all the way to MS-DOS prompts to find my first racing game experiences (Screamer Rally at the tender age of three if you want to know), but we don't have that kind of time, so grab a fast car and let's rush to the next part of the story. The Need for Speed games around the turn of the millennium—High Stakes and Porsche Unleashed—set the blueprint for …]]></summary>
         <author>
             <name>Luci Kelemen</name>
         </author>
@@ -1363,16 +1578,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apache NetBeans 26]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/apache-netbeans-26</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/apache-netbeans-26"/>
-        <updated>2025-05-23T16:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Organizace Apache Software Foundation (ASF) vydala verzi 26 integrovaného vývojového prostředí a vývojové platformy napsané v Javě NetBeans (Wikipedie). Přehled novinek na GitHubu. Instalovat lze také ze Snapcraftu a Flathubu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[70% of games with online requirements are doomed, according to Stop Killing Games survey]]></title>
         <id>https://www.rockpapershotgun.com/70-of-games-with-online-requirements-are-doomed-according-to-stop-killing-games-survey</id>
         <link href="https://www.rockpapershotgun.com/70-of-games-with-online-requirements-are-doomed-according-to-stop-killing-games-survey"/>
@@ -1383,19 +1588,6 @@ To support their campaign, they’ve carried out a survey of games with online r
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check Out This New YouTube Channel For Negativity-Free Pokémon Chat]]></title>
-        <id>https://www.nintendolife.com/#article-182808</id>
-        <link href="https://www.nintendolife.com/news/2025/05/check-out-this-new-youtube-channel-for-negativity-free-pokemon-chat"/>
-        <updated>2025-05-23T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA["a chill place full of discussions on Pokémon news and nostalgia".
-Pokémon, eh? Great, isn't it? Naturally, we're big Pocket Monster fans around these parts, but we can also say without fear of contradiction that certain corners of the Pokéfandom can get a bit, well, heated. A bit het up. A bit much sometimes. What's that noise? Sounds like pitchforks being sharpened...
-Fortunately, if you're after somewhere to keep your PokéPositivity charged to the max while flushing all the negativity, there's a new channel starting up that promises to focus on just the good stuff. Introducing Amphie!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1953,16 +2145,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 25.10 Switching To Chrony By Default, Enabling Network Time Security]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-25.10-Chrony</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-25.10-Chrony"/>
-        <updated>2025-05-22T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu 25.10 is joining the likes of Red Hat Enterprise Linux and SUSE Linux Enterprise that are using Chrony as their Network Time Protocol (NTP) implementation. Ubuntu 25.10 is switching over to Chrony in enabling Network Time Security (NTS) support on Ubuntu Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GameStop To Implement Purchase Limits for Pokemon TCG Products]]></title>
         <id>155997</id>
         <link href="https://www.pokebeach.com/forums/threads/gamestop-to-implement-purchase-limits-for-pokemon-tcg-products.155997/"/>
@@ -2095,16 +2277,6 @@ When I last reported on the total in March 2024, there were less than 200 machin
 As noted...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla Is Shutting Down Pocket]]></title>
-        <id>https://www.phoronix.com/news/Mozilla-Pocket-Ending</id>
-        <link href="https://www.phoronix.com/news/Mozilla-Pocket-Ending"/>
-        <updated>2025-05-22T17:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Mozilla announced today it's going to be shutting down its Pocket read-it-later bookmarking service this summer...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2748,18 +2920,6 @@ I’ve been playing the previous format for a long time, starting with one of th
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7527-1: libfcgi-perl vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7527-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7527-1"/>
-        <updated>2025-05-22T06:19:23.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that libfcgi-perl incorrectly handled certain inputs.
-An attacker could possibly use this issue to cause a crash or execute
-arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pikachu ex partner]]></title>
         <id>155469</id>
         <link href="https://www.pokebeach.com/forums/threads/pikachu-ex-partner.155469/"/>
@@ -3312,32 +3472,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fantasy Life i multiplayer guide – How to play with friends]]></title>
-        <id>https://www.destructoid.com/?p=1069111</id>
-        <link href="https://www.destructoid.com/fantasy-life-i-multiplayer-guide-how-to-play-with-friends/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=fantasy-life-i-multiplayer-guide-how-to-play-with-friends"/>
-        <updated>2025-05-21T16:42:43.000Z</updated>
-        <summary type="html"><![CDATA[Fantasy Life i is a lot of fun playing alone, but it can also be enjoyed with your friends, and you can share the progress with your buddies.
-
-
-There are different types of multiplayer available with the game, and they unlock at different points. This guide will provide you with all the information required to unlock the ability to play with your friends.
-
-
-Table of contents
-How to access multiplayer in Fantasy Life i
-Is multiplayer worth it in Fantasy Life i
-
-
-How to access multiplayer in Fantasy Life i
-
-
-When you start your journey in Fantasy Life i, all forms of multiplayer will be locked. The first form of multiplayer you'll get access to is Couch co-op, which is easy to unlock. This feature gets unlocked in the very first hour of your gameplay, after a cutscene with Edward and Trip.
-
-…]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Upgrade Your Spellcaster With The Ring Of Destruction In Oblivion Remastered]]></title>
         <id>1851781735</id>
         <link href="https://kotaku.com/oblivion-remastered-ring-of-destruction-swim-water-1851781735"/>
@@ -3401,80 +3535,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7517-2: Linux kernel (IBM) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7517-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7517-2"/>
-        <updated>2025-05-21T14:50:14.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - Block layer subsystem;
-  - Drivers core;
-  - Network block device driver;
-  - Character device driver;
-  - GPU drivers;
-  - HID subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - PPS (Pulse Per Second) driver;
-  - PTP clock framework;
-  - RapidIO drivers;
-  - Real Time Clock drivers;
-  - SCSI subsystem;
-  - SLIMbus drivers;
-  - QCOM SoC drivers;
-  - Trusted Execution Environment drivers;
-  - USB DSL drivers;
-  - USB Device Class drivers;
-  - USB core drivers;
-  - USB Gadget drivers;
-  - USB Host Controller drivers;
-  - Renesas USBHS…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7516-4: Linux kernel (Oracle) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7516-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-7516-4"/>
-        <updated>2025-05-21T14:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - Block layer subsystem;
-  - Drivers core;
-  - Network block device driver;
-  - Character device driver;
-  - GPU drivers;
-  - HID subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - PPS (Pulse Per Second) driver;
-  - PTP clock framework;
-  - RapidIO drivers;
-  - Real Time Clock drivers;
-  - SCSI subsystem;
-  - SLIMbus drivers;
-  - QCOM SoC drivers;
-  - Trusted Execution Environment drivers;
-  - USB DSL drivers;
-  - USB Device Class drivers;
-  - USB core drivers;
-  - USB Gadget drivers;
-  - USB Host Controller drivers;
-  - Renesas USBHS…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3865,16 +3925,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Služba Have I Been Pwned má novou verzi]]></title>
-        <id>www.root.cz-actuality-48103</id>
-        <link href="https://www.root.cz/zpravicky/sluzba-have-i-been-pwned-ma-novou-verzi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-05-20T10:32:13.000Z</updated>
-        <summary type="html"><![CDATA[Troy Hunt spustil novou verzi služby Have I Been Pwned, na které si můžete ověřit, zda vám někde neuniklo heslo. Služba totiž shromažďuje nejrůznější úniky hesel a dovoluje v nich prohledávat. V současné době je v databázi 884 různých webů a téměř 15 miliard uživatelských účtů s uniklými údaji. Vývoj nové verze trval rok, během kterého bylo téměř vše přepsáno, změnila se část funkcí a přibyla řada novinek.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
