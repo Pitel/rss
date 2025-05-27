@@ -1,10 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-27T10:16:07.854Z</id>
+    <id>urn:2025-05-27T12:29:18.184Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-27T10:16:07.854Z</updated>
+    <updated>2025-05-27T12:29:18.184Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-7535-1: Intel Microcode vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7535-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7535-1"/>
+        <updated>2025-05-27T12:21:14.000Z</updated>
+        <summary type="html"><![CDATA[Sander Wiebing and Cristiano Giuffrida discovered that some Intel®
+Processors did not properly handle data in Shared Microarchitectural
+Structures during Transient Execution. An authenticated attacker could
+possibly use this issue to obtain sensitive information. (CVE-2024-28956)
+
+It was discovered that some Intel® Processors did not properly handle
+prediction calculations. An authenticated attacker could possibly use this
+issue to obtain sensitive information. (CVE-2024-43420, CVE-2024-45332,
+CVE-2025-20623)
+
+It was discovered that some Intel® Processors did not properly initialize
+resources in the branch prediction unit. An authenticated attacker could
+possibly use this issue to obtain sensitive information. (CVE-2025-20012,
+CVE-2025-24495)
+
+Michal Raviv and Jeff Gilbert discovered that some Intel® Processors did
+not properly handle resources and exceptions in the core management
+mechanism. An authenticated attacker could possibly use this issue to
+cause a denial of service. (CVE-2025-20054, CVE-2025-20103)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XFS Atomic Writes Support Merged For Linux 6.16]]></title>
+        <id>https://www.phoronix.com/news/XFS-Atomic-Writes-Linux-6.16</id>
+        <link href="https://www.phoronix.com/news/XFS-Atomic-Writes-Linux-6.16"/>
+        <updated>2025-05-27T11:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Building off the atomic write preparations that landed in prior Linux kernel versions, merged for the Linux 6.16 cycle is atomic write support for the XFS file-system...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Round Up: The Previews For Dragon Quest I & II HD-2D Remake Are In]]></title>
+        <id>https://www.nintendolife.com/#article-182904</id>
+        <link href="https://www.nintendolife.com/news/2025/05/round-up-the-previews-for-dragon-quest-i-and-ii-hd-2d-remake-are-in"/>
+        <updated>2025-05-27T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[How is it shaping up?
+Square Enix recently confirmed that Dragon Quest I & II HD-2D Remake will be launching on the Switch and Switch 2 on 30th October 2025.
+As part of the Dragon Quest Day celebrations, several outlets have gone hands-on with the latest title to see how its shaping up in the months leading up to its release. It seems Square Enix provided the PlayStation 5 version for preview purposes, so we'll have to wait and see how it holds up on Nintendo's systems, but early accounts indicate that it's another hit for fans of the series.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.16 Adds "X86_NATIVE_CPU" Option To Optimize Your Kernel Build For Your CPU]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.16-X86_NATIVE_CPU</id>
+        <link href="https://www.phoronix.com/news/Linux-6.16-X86_NATIVE_CPU"/>
+        <updated>2025-05-27T10:38:40.000Z</updated>
+        <summary type="html"><![CDATA[The X86_NATIVE_CPU Kconfig build time option has been merged for the Linux 6.16 merge window as an easy means of enforcing "-march=native" compiler behavior on AMD and Intel processors to optimize your kernel build for the local CPU architecture/family of your system...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Curse Of The Dead Gods Follow-up 'Ravenswatch' Adds Romeo & Juliet As Playable Characters]]></title>
+        <id>https://www.nintendolife.com/#article-182903</id>
+        <link href="https://www.nintendolife.com/news/2025/05/curse-of-the-dead-gods-follow-up-ravenswatch-adds-romeo-and-juliet-as-playable-characters"/>
+        <updated>2025-05-27T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[They're free, and arrive today.
+Nacon and Passtech Games have just announced that their well-reviewed isometric roguelike, Ravenswatch — which is currently sitting on a very healthy 84% (PC) over on Metacritic — will receive some lovely (or should that be lovestruck?) Romeo & Juliet DLC for free today. Now that really is true love.
+It launched on Switch back in January and we don't have a review of the base game, unfortunately, but judging from the word of mouth on them there streets, it seems this is one Hades tribute act that's a cut above the rest. Of course, given that Passtech developed the astoundingly good Curse of the Dead Gods, that's not really a big surprise.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rav1e v0.8 Released For Rust-Based AV1 Encoding]]></title>
+        <id>https://www.phoronix.com/news/Rav1e-0.8-Released</id>
+        <link href="https://www.phoronix.com/news/Rav1e-0.8-Released"/>
+        <updated>2025-05-27T10:28:15.000Z</updated>
+        <summary type="html"><![CDATA[Rav1e v0.8 was released on Monday for this self-proclaimed "fastest and safest AV1 encoder" that makes use of the Rust programming language...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.16 Lands "rt_group_sched" Option, Faster Core Offlining & Scheduler Improvements]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.16-Scheduler</id>
+        <link href="https://www.phoronix.com/news/Linux-6.16-Scheduler"/>
+        <updated>2025-05-27T10:17:50.000Z</updated>
+        <summary type="html"><![CDATA[The many scheduler updates have been merged for the Linux 6.16 kernel which include a wide assortment of different fixes and new improvements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vyšel Firefox 139 s překlady celých stránek a lepší podporou HTTP/3]]></title>
         <id>www.root.cz-actuality-48180</id>
@@ -75,7 +169,7 @@ Read more]]></summary>
         <updated>2025-05-27T09:30:00.000Z</updated>
         <summary type="html"><![CDATA[Nintendo's only top-10 showing.
 We're back with the latest look at the UK physical charts, and it has been another sleepy one for Nintendo — what a surprise...
-Yes, the wait for Switch 2 continues, naturally meaning fewer people are picking up titles for Switch 1. Mario Kart 8 Deluxe is the only showing from the Big N in the top 10 this week, and that only makes it by the skin of its teeth. You have to look down in the late teens to spot the other familiar faces.
+Yes, the wait for Switch 2 continues, naturally meaning fewer people are picking up titles for Switch 1. Mario Kart 8 Deluxe is the only first-party showing from the Big N in the top 10 this week, and that only makes it by the skin of its teeth. You have to look down in the late teens to spot the other familiar faces.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1335,19 +1429,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fantasy Life i: The Girl Who Steals Time Switch Update Detailed]]></title>
-        <id>https://www.nintendolife.com/#article-182509</id>
-        <link href="https://www.nintendolife.com/news/2025/05/fantasy-life-i-the-girl-who-steals-time-switch-update-detailed"/>
-        <updated>2025-05-25T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fixes for Switch version delayed.
-: Fantasy Life i: The Girl Who Steals Time arrives on the Switch next week and ahead of release Level-5 is rolling out an early access update on select platforms, bumping the game up to Version 1.1.1.
-This will be slightly different on the Switch front - with Version 1.1.0 apparently reflecting "some of the contents of this update" on 22nd May (JST). The version that reflects "most" of the content will be released in the future as Version 1.2.0.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crimson Fandango (Armarouge ex / Reshiram ex / Emboar)]]></title>
         <id>155987</id>
         <link href="https://www.pokebeach.com/forums/threads/crimson-fandango-armarouge-ex-reshiram-ex-emboar.155987/"/>
@@ -1459,19 +1540,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sega & Lizardcube Talk Shinobi: Art Of Vengeance And How To Modernise A Classic]]></title>
-        <id>https://www.nintendolife.com/#article-182826</id>
-        <link href="https://www.nintendolife.com/news/2025/05/sega-and-lizardcube-talk-shinobi-art-of-vengeance-and-how-to-modernise-a-classic"/>
-        <updated>2025-05-24T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Take this!
-With Shinobi: Art of Vengeance's release date now just 97 days away (not that we're counting), both Sega and Lizardcube have been out and about and making sure to satiate our increasing desire for more information on their upcoming side-scrolling adventure.
-Of course, this isn't just any old adventure and, much like Lizardcube's previous work, such as Streets of Rage 4 and Wonder Boy: The Dragon's Trap (both phenomenal), here we have a reworking, a full modernisation after a long period of dormancy, of the one and only Shinobi. The pressure of pulling apart a classic for the ages and rebuilding it in such a way that it satisfies newcomers and the hardcore, whilst also appearing modern and 'good'? These folks have been there and done that.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1817,16 +1885,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.15 Brings Many Features For Intel & AMD Hardware]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.15-Features-Reminder</id>
-        <link href="https://www.phoronix.com/news/Linux-6.15-Features-Reminder"/>
-        <updated>2025-05-23T17:10:00.000Z</updated>
-        <summary type="html"><![CDATA[With the Linux 6.15 kernel expected to be released as stable on Sunday unless Linus Torvalds has last-minute reservations, here's a look back at some of the most interesting Linux 6.15 changes...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EA never grasped Dragon Age's value as an RPG, says Inquisition writer]]></title>
         <id>https://www.rockpapershotgun.com/ea-never-grasped-dragon-ages-value-as-an-rpg-says-inquisition-writer</id>
         <link href="https://www.rockpapershotgun.com/ea-never-grasped-dragon-ages-value-as-an-rpg-says-inquisition-writer"/>
@@ -1846,16 +1904,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Samuel Moreno</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME Help & Documentation Are In Need Of Help]]></title>
-        <id>https://www.phoronix.com/news/GNOME-Help-Needs-Help</id>
-        <link href="https://www.phoronix.com/news/GNOME-Help-Needs-Help"/>
-        <updated>2025-05-23T16:31:36.000Z</updated>
-        <summary type="html"><![CDATA[The GNOME Release Team is issuing a call for help as GNOME Help and the associated GNOME documentation are much in need of some assistance...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2028,26 +2076,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GCC 14.3 Compiler Released With 200+ Bug Fixes]]></title>
-        <id>https://www.phoronix.com/news/GCC-14.3-Released</id>
-        <link href="https://www.phoronix.com/news/GCC-14.3-Released"/>
-        <updated>2025-05-23T12:21:33.000Z</updated>
-        <summary type="html"><![CDATA[For those not yet on the newest GCC 15 compiler that debuted as stable one month ago, GCC 14.3 is out today in delivering the latest fixes for the GCC 14 stable series...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.15 Sees Last Minute Power Savings Fix For Intel Arrow Lake U/H]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.15-Fix-ARL-U-H-s2idle</id>
-        <link href="https://www.phoronix.com/news/Linux-6.15-Fix-ARL-U-H-s2idle"/>
-        <updated>2025-05-23T11:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Sent out today as part of last minute x86 platform driver fixes for Linux 6.15 is a rather important power-savings fix for Intel Arrow Lake U and Arrow Lake H laptops...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What are you playing this weekend, Destructoid?]]></title>
         <id>https://www.destructoid.com/?p=1069800</id>
         <link href="https://www.destructoid.com/what-are-you-playing-this-weekend-destructoid-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=what-are-you-playing-this-weekend-destructoid-2"/>
@@ -2127,43 +2155,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Microsoft Recall je nový AI pomocník pro Windows 11, který bude zaznamenávat vše, co na počítači děláte. Bude tedy dělat každé tři sekundy snímek obrazovky a uživatel si pak bude moci zpětně vyhledat, co kdy dělal. Komunikační program Signal s tímto nesouhlasí kvůli soukromí uživatelů.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7516-5: Linux kernel (HWE) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7516-5</id>
-        <link href="https://ubuntu.com/security/notices/USN-7516-5"/>
-        <updated>2025-05-23T07:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - Block layer subsystem;
-  - Drivers core;
-  - Network block device driver;
-  - Character device driver;
-  - GPU drivers;
-  - HID subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - PPS (Pulse Per Second) driver;
-  - PTP clock framework;
-  - RapidIO drivers;
-  - Real Time Clock drivers;
-  - SCSI subsystem;
-  - SLIMbus drivers;
-  - QCOM SoC drivers;
-  - Trusted Execution Environment drivers;
-  - USB DSL drivers;
-  - USB Device Class drivers;
-  - USB core drivers;
-  - USB Gadget drivers;
-  - USB Host Controller drivers;
-  - Renesas USBHS…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
