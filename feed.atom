@@ -1,10 +1,185 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-28T08:19:38.581Z</id>
+    <id>urn:2025-05-28T10:16:20.590Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-28T08:19:38.581Z</updated>
+    <updated>2025-05-28T10:16:20.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Video: Diddy Kong, Tunes & Vines - Here's Everything We Want From Donkey Kong Bananza]]></title>
+        <id>https://www.nintendolife.com/#article-182967</id>
+        <link href="https://www.nintendolife.com/news/2025/05/video-diddy-kong-tunes-and-vines-heres-everything-we-want-from-donkey-kong-bananza"/>
+        <updated>2025-05-28T10:15:00.000Z</updated>
+        <summary type="html"><![CDATA[All aboard the hype train.
+We are a little under two months away from Donkey Kong Bananza arriving on Switch 2 now, and it's fair to say we are excited. The first 3D DK platformer in decades is enough to get the hype train running, but let's not pretend that it doesn't come with a hefty dose of trepidation, too. There's a lot riding on this one, and we want Nintendo to get it right.
+Of course, we trust the Big N to do exactly that (and from everything we've seen and played so far, Bananza is shaping up to be a good 'un), but that won't stop us from compiling some hopes and dreams in the run-up to the game's release.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.16 Merges A Fix For The Macintosh II]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.16-Mac-II-Fix</id>
+        <link href="https://www.phoronix.com/news/Linux-6.16-Mac-II-Fix"/>
+        <updated>2025-05-28T10:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Hobbyists continue to tinker around with the Motorola 68000 "m68k" support within the Linux kernel and even landing a fix now in 2025 for the vintage Macintosh II...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arch Linux Installer Adds Option To Configure Btrfs Snapshots Post-Install]]></title>
+        <id>https://www.phoronix.com/news/Archinstall-3.0.7-Released</id>
+        <link href="https://www.phoronix.com/news/Archinstall-3.0.7-Released"/>
+        <updated>2025-05-28T09:57:28.000Z</updated>
+        <summary type="html"><![CDATA[Archinstall 3.0.7 is out today as the newest feature update to this text-based Arch Linux installer that makes it quick and easy to deploy a new Arch Linux installation...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch 2 requires internet to work, but is it really that big of a deal?]]></title>
+        <id>https://www.destructoid.com/?p=1071069</id>
+        <link href="https://www.destructoid.com/switch-2-requires-internet-to-work-but-is-it-really-that-big-of-a-deal/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=switch-2-requires-internet-to-work-but-is-it-really-that-big-of-a-deal"/>
+        <updated>2025-05-28T09:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Somehow, someway, people are getting retail versions of the Nintendo Switch 2 a week ahead of launch, but upon turning on the system, they have found out that they are unable to play any games on it due to the system needing a day one patch to work, including using physical games.
+
+
+This has led to an uproar among fans on social media about Nintendo locking the console's basic features behind a day one update, though, equally, it means Nintendo has stopped games like Mario Kart World from leaking at all until day one by using this method.
+
+
+Most of the arguments stem from the console being locked entirely until you update it and if you don't have an internet connection, your buying a brick at launch, though, I feel the argument is being taken further then it should be, especially with the …]]></summary>
+        <author>
+            <name>Adam Newell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two of the best skating games are back on Steam after being mysteriously pulled from sale months ago]]></title>
+        <id>https://www.rockpapershotgun.com/two-of-the-best-skating-games-are-back-on-steam-after-being-mysteriously-pulled-from-sale-months-ago</id>
+        <link href="https://www.rockpapershotgun.com/two-of-the-best-skating-games-are-back-on-steam-after-being-mysteriously-pulled-from-sale-months-ago"/>
+        <updated>2025-05-28T09:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Two very good skating games are back up for sale on Steam after disappearing for four months. Bright 'n' cheery skateboarding game OlliOlli World and dystopian rollerskate shooter Rollerdrome both vanished in a cloud of toxic corporate smoke in February this year, some time after the closure of the games' developers Roll7. But it looks like the poisonous fumes have finally cleared, and the games are once again available.
+Read more]]></summary>
+        <author>
+            <name>Brendan Caldwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7540-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7540-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7540-1"/>
+        <updated>2025-05-28T08:55:48.000Z</updated>
+        <summary type="html"><![CDATA[Chenyuan Yang discovered that the CEC driver driver in the Linux kernel
+contained a use-after-free vulnerability. A local attacker could use this
+to cause a denial of service (system crash) or possibly execute arbitrary
+code. (CVE-2024-23848)
+
+Attila Szász discovered that the HFS+ file system implementation in the
+Linux Kernel contained a heap overflow vulnerability. An attacker could use
+a specially crafted file system image that, when mounted, could cause a
+denial of service (system crash) or possibly execute arbitrary code.
+(CVE-2025-0927)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - S390 architectur…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop to Sell “Destined Rivals” Products for Up to 33% Above MSRP]]></title>
+        <id>156025</id>
+        <link href="https://www.pokebeach.com/forums/threads/gamestop-to-sell-%E2%80%9Cdestined-rivals%E2%80%9D-products-for-up-to-33-above-msrp.156025/"/>
+        <updated>2025-05-28T08:46:06.000Z</updated>
+        <summary type="html"><![CDATA[Taking some tips from Team Rocket itself, GameStop is continuing to sell new Pokemon TCG products above TPCi's suggested retail price.
+For Destined Rivals, we've learned GameStop's prices will be the following:
+
+Booster Pack: $4.49 MSRP / $5.99 GS
+Booster Bundle: $26.94 MSRP / $39.99 GS
+Booster...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[There's something oddly familiar about this escape room poster]]></title>
+        <id>https://www.rockpapershotgun.com/theres-something-oddly-familiar-about-this-escape-room-poster</id>
+        <link href="https://www.rockpapershotgun.com/theres-something-oddly-familiar-about-this-escape-room-poster"/>
+        <updated>2025-05-28T08:46:03.000Z</updated>
+        <summary type="html"><![CDATA[Reader, I'm getting some serious de ja vu from the the poster for Liberation Escape Rooms 'Castle Of Conundrums' experience, but I'm having trouble placing it. I don't think I've been to this escape room before, never having visited the town of Southaven, Mississippi. Perhaps I should go? The reviews are positively glowing. "Very exciting and unique escape rooms," writes Anna R. Five stars! "Today's game in the Castle just blew us away," enthuses Tracey S. Five stars again! An unmissable experience by all accounts. And yet, I'd feel woefully unequiped to take on the Castle Of Conundrums if I cannot solve the much more pressing conundrum at hand.
+Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7539-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7539-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7539-1"/>
+        <updated>2025-05-28T08:35:07.000Z</updated>
+        <summary type="html"><![CDATA[Chenyuan Yang discovered that the CEC driver driver in the Linux kernel
+contained a use-after-free vulnerability. A local attacker could use this
+to cause a denial of service (system crash) or possibly execute arbitrary
+code. (CVE-2024-23848)
+
+Attila Szász discovered that the HFS+ file system implementation in the
+Linux Kernel contained a heap overflow vulnerability. An attacker could use
+a specially crafted file system image that, when mounted, could cause a
+denial of service (system crash) or possibly execute arbitrary code.
+(CVE-2025-0927)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - S390 architectur…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7510-7: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7510-7</id>
+        <link href="https://ubuntu.com/security/notices/USN-7510-7"/>
+        <updated>2025-05-28T08:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Network block device driver;
+  - Bus devices;
+  - Character device driver;
+  - TPM device driver;
+  - Clock framework and drivers;
+  - GPIO subsystem;
+  - GPU drivers;
+  - HID subsystem;
+  - I2C subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - NVIDIA Tegra memory controller driver;
+  - Network drivers;
+  - PCI subsystem;
+  - PPS (Pulse Per Second) driver;
+  - PTP clock framework;
+  - RapidIO drivers;
+  - Real Time Clock drivers;
+  - SLIMbus drivers;
+  - QCOM SoC drivers;
+  - Trusted Execution Environmen…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modern military medieval sandbox Kingmakers gets a release date this October]]></title>
         <id>https://www.rockpapershotgun.com/modern-military-medieval-sandbox-kingmakers-gets-a-release-date-this-october</id>
@@ -52,21 +227,6 @@ This update corrects flaws in the following subsystems:
   - …]]></summary>
         <author>
             <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop to Sell “Destined Rivals” Products for Up to 33% Above MSRP]]></title>
-        <id>156025</id>
-        <link href="https://www.pokebeach.com/forums/threads/gamestop-to-sell-%E2%80%9Cdestined-rivals%E2%80%9D-products-for-up-to-33-above-msrp.156025/"/>
-        <updated>2025-05-28T08:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Taking some tips from Team Rocket itself, GameStop is continuing to sell new Pokemon TCG products above TPCi's suggested retail price.
-For Destined Rivals, we've learned GameStop's prices will be the following:
-
-Booster Pack: $4.49 MSRP / $5.99 GS
-Booster Bundle: $26.94 MSRP / $39.99 GS
-Booster...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1387,19 +1547,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mario Kart World For Switch 2 Tops Famitsu's "Most Wanted" Games List]]></title>
-        <id>https://www.nintendolife.com/#article-182561</id>
-        <link href="https://www.nintendolife.com/news/2025/05/mario-kart-world-for-switch-2-tops-famitsus-most-wanted-games-list"/>
-        <updated>2025-05-27T00:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The hype is real.
-It's hard to believe but the Switch 2 is out next week and naturally, excitement for Nintendo's new kart racer Mario Kart World is on the rise.
-The famous Japanese video game outlet Famitsu has shared its latest "most wanted" games list based on reader votes and this new entry in the Mario Kart series is now in the top spot - surpassing Dragon Quest 1 & 2 HD-2D Remake.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mox: poštovní server v jednom souboru, který sám vyřeší všechny složitosti]]></title>
         <id>www.root.cz-text-17820</id>
         <link href="https://www.root.cz/clanky/mox-postovni-server-v-jednom-souboru-ktery-sam-vyresi-vsechny-slozitosti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1607,43 +1754,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7517-3: Linux kernel (BlueField) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7517-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7517-3"/>
-        <updated>2025-05-26T13:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - Block layer subsystem;
-  - Drivers core;
-  - Network block device driver;
-  - Character device driver;
-  - GPU drivers;
-  - HID subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - PPS (Pulse Per Second) driver;
-  - PTP clock framework;
-  - RapidIO drivers;
-  - Real Time Clock drivers;
-  - SCSI subsystem;
-  - SLIMbus drivers;
-  - QCOM SoC drivers;
-  - Trusted Execution Environment drivers;
-  - USB DSL drivers;
-  - USB Device Class drivers;
-  - USB core drivers;
-  - USB Gadget drivers;
-  - USB Host Controller drivers;
-  - Renesas USBHS…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Armbian 25.5 Adds Support For Newer Single Board Computers]]></title>
         <id>https://www.phoronix.com/news/Armbian-25.5-Released</id>
         <link href="https://www.phoronix.com/news/Armbian-25.5-Released"/>
@@ -1651,78 +1761,6 @@ This update corrects flaws in the following subsystems:
         <summary type="html"><![CDATA[Armbian 25.5 is out today as the newest version of this Debian-based Linux distribution catering primarily to ARM and RISC-V single board computers...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7516-6: Linux kernel (IBM) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7516-6</id>
-        <link href="https://ubuntu.com/security/notices/USN-7516-6"/>
-        <updated>2025-05-26T12:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - Block layer subsystem;
-  - Drivers core;
-  - Network block device driver;
-  - Character device driver;
-  - GPU drivers;
-  - HID subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - PPS (Pulse Per Second) driver;
-  - PTP clock framework;
-  - RapidIO drivers;
-  - Real Time Clock drivers;
-  - SCSI subsystem;
-  - SLIMbus drivers;
-  - QCOM SoC drivers;
-  - Trusted Execution Environment drivers;
-  - USB DSL drivers;
-  - USB Device Class drivers;
-  - USB core drivers;
-  - USB Gadget drivers;
-  - USB Host Controller drivers;
-  - Renesas USBHS…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7524-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7524-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7524-1"/>
-        <updated>2025-05-26T12:39:02.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - MIPS architecture;
-  - PowerPC architecture;
-  - RISC-V architecture;
-  - S390 architecture;
-  - SuperH RISC architecture;
-  - User-Mode Linux (UML);
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Compute Acceleration Framework;
-  - ACPI drivers;
-  - Drivers core;
-  - RAM backed block device driver;
-  - Ublk userspace block driver;
-  - Virtio block driver;
-  - Compressed RAM block device driver;
-  - Bluetooth drivers;
-  - TPM device driver;
-  - Clock framework and drivers;
-  - Data acquisition framework and drivers;
-  - CPU frequency scaling framework;
-  - …]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2158,16 +2196,6 @@ Boss's Orders PAL 172 x1...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust Coreutils 0.1 Released With Big Performance Gains - Can Match Or Exceed GNU Speed]]></title>
-        <id>https://www.phoronix.com/news/Rust-Coreutils-0.1-Released</id>
-        <link href="https://www.phoronix.com/news/Rust-Coreutils-0.1-Released"/>
-        <updated>2025-05-24T23:24:02.000Z</updated>
-        <summary type="html"><![CDATA[With Ubuntu 25.10 planning to ship the Rust-based Coreutils "uutils" by default, it's a big year ahead for this alternative to GNU Coreutils. In furthering along the project's goals, today marks the Rust Coreutils v0.1 release...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Týden na ITBiz: Tellur zvyšuje výkon 2D polovodičů]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-tellur-zvysuje-vykon-2d-polovodicu</id>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-tellur-zvysuje-vykon-2d-polovodicu"/>
@@ -2250,16 +2278,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME Web Making It Easier To Toggle WebKit Features]]></title>
-        <id>https://www.phoronix.com/news/GNOME-Web-Toggle-Features</id>
-        <link href="https://www.phoronix.com/news/GNOME-Web-Toggle-Features"/>
-        <updated>2025-05-24T13:18:38.000Z</updated>
-        <summary type="html"><![CDATA[The GNOME Web "Epiphany" web browser is making it easier to toggle WebKit web engine features at run-time...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3687,25 +3705,6 @@ West Dryridge Desert…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The best remakes in video game history]]></title>
-        <id>https://www.destructoid.com/?p=1069070</id>
-        <link href="https://www.destructoid.com/the-best-remakes-in-video-game-history/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=the-best-remakes-in-video-game-history"/>
-        <updated>2025-05-21T18:17:46.000Z</updated>
-        <summary type="html"><![CDATA[In the history of video games, there is no shortage of all-time great games that have built memories along with the industry and gaming community itself.
-
-
-Sometimes, though, games begin to show their age and require a bit of a refresh or a remaster. Other times, the games are so popular that they are worthy of a full-fledged remake, built by a team that may have grown up on the original. This creates something new and fun, yet worthy of the classics they were inspired by.
-
-
-Video game remakes, love them or hate them, are here to stay. They're a proven success when handled right, and with a growing backlog of existing classics that are getting long in the tooth and could do with being brought to modern times for a new generation, they will continue for the foreseeable future.
-
-
-There's alr…]]></summary>
-        <author>
-            <name>Scott Duwe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nvidia GeForce RTX 5060 review: passable GPU, shame about the drivers]]></title>
         <id>https://www.rockpapershotgun.com/nvidia-geforce-rtx-5060-review</id>
         <link href="https://www.rockpapershotgun.com/nvidia-geforce-rtx-5060-review"/>
@@ -4782,34 +4781,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Clair Obscur: Expedition 33 was originally set in a steampunk England with aliens and zombies]]></title>
-        <id>https://www.rockpapershotgun.com/clair-obscur-expedition-33-was-originally-set-in-a-steampunk-england-with-aliens-and-zombies</id>
-        <link href="https://www.rockpapershotgun.com/clair-obscur-expedition-33-was-originally-set-in-a-steampunk-england-with-aliens-and-zombies"/>
-        <updated>2025-05-14T11:01:47.000Z</updated>
-        <summary type="html"><![CDATA[All creative work goes through several iterations before arriving in its final form. This very post, for example, began as a little notice of the release of The Midnight Walk, before I realised Edwin had already done that. Now it's instead about Clair Obscur: Expedition 33, an RPG which Nic definitely described in his review as "operatically, hauntingly, and slightly unhingedly French".
-
-Turns out it wasn't always so, as early in development Clair Obscur was set in "a steampunk Victorian England", and there's some early footage of it in action.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anoxia Station review]]></title>
-        <id>https://www.rockpapershotgun.com/anoxia-station-review</id>
-        <link href="https://www.rockpapershotgun.com/anoxia-station-review"/>
-        <updated>2025-05-14T09:10:39.000Z</updated>
-        <summary type="html"><![CDATA[So there's a passage in biographical novel The Moon & Sixpence where art connoisseur Dirk Stroeve spends months helping painter Charles Strickland recover from a life-threatening illness. Once well, Strickland returns the favour by promptly nicking Dirk's wife Blanche. Strickland eventually leaves her, Blanche gargles acid and dies, and a hangdog Dirk returns to the apartment to find Strickland's nude painting of Blanche, mocking his heartbreak. Manic and inconsolable, Dirk grabs a paint scraper and flings himself at the painting ready to destroy it, but can't. He's overcome by an appreciation for the work; in awe of the object that mocks him.
-I get it, really I do. I'm standing before horrible strategy game Anoxia Station, with my paint scraper, ready to gouge a hole in it for making me feel like shit. Stressed. Anxious. Irritated. Exhausted. When Anoxia Station wants to tell you that temperature has dropped to dangerous levels, it shoves a steamy, cracked-ice overlay on screen that's so opaque it makes interacting with the game a chore. I should be furious.
- 
-Read more]]></summary>
-        <author>
-            <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI-Powered News Piracy Site Blocked By ISPs After Court Sides With Publishers]]></title>
         <id>https://torrentfreak.com/?p=267281</id>
         <link href="https://torrentfreak.com/ai-powered-news-piracy-site-blocked-by-isps-after-court-sides-with-publishers-250514/"/>
@@ -5095,16 +5066,6 @@ Issue #412916225
 Require KGP 2.0.0 for Android-KMP plugin]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audio recenze: Kde končí láska - 40 %]]></title>
-        <id>tag:blogger.com,1999:blog-2270872860161924291.post-3494654862370211883</id>
-        <link href="https://www.fffilm.cz/2025/04/audio-recenze-kde-konci-laska-40.html"/>
-        <updated>2025-04-28T21:39:00.000Z</updated>
-        <summary type="html"><![CDATA[Hlavní hrdina je nešťastný, náhodně se potácí životem a řeší partnerské problémy s alfa samicí. V rukou například Paula Verhoevena by ze stejného námětu mohlo vzniknout něco stylového, ale v rukou Milana Cieslara to bohužel postrádá jakoukoliv stopu atmosféry nebo nadhledu. Že je mnoho českých filmů ještě mnohem horších (včetně některých od Cieslara), to není bůhvíjaké doporučení. (Ilča 30 %)]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
 </feed>
