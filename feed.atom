@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-28T22:13:38.288Z</id>
+    <id>urn:2025-05-29T01:10:04.470Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-05-28T22:13:38.288Z</updated>
+    <updated>2025-05-29T01:10:04.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bouffalant ex from White Flare!]]></title>
+        <id>156027</id>
+        <link href="https://www.pokebeach.com/forums/threads/bouffalant-ex-from-white-flare.156027/"/>
+        <updated>2025-05-29T01:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Bouffalant ex has just been revealed from Black Bolt and White Flare! The set will release in Japan on June 6th and will then release in English on July 18th.
+Bouffalant ex - Colorless - HP220
+Basic Pokémon
+Ability: Bouffer
+This Pokemon takes 30 less damage from attacks (after applying Weakness...]]></summary>
+        <author>
+            <name>steffenka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa's Rusticl Lands Support For Shared Virtual Memory & Intel Subgroups]]></title>
+        <id>https://www.phoronix.com/news/Rusticl-SVM-Merged-Mesa-25.2</id>
+        <link href="https://www.phoronix.com/news/Rusticl-SVM-Merged-Mesa-25.2"/>
+        <updated>2025-05-29T00:23:19.000Z</updated>
+        <summary type="html"><![CDATA[Rusticl as Mesa's Rust-based OpenCL driver implementation for Gallium3D drivers is ending the month of May on a high note... Merged this week was support for the Intel Subgroups OpenCL extension (cl_intel_subgroups) and before getting to that on my TODO list, an even bigger item was merged: Shared Virtual Memory (SVM) support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jaderné noviny – přehled za duben 2025]]></title>
         <id>http://www.abclinuxu.cznull/</id>
@@ -33,20 +57,6 @@
         <summary type="html"><![CDATA[Dnes si představíme knihovnu nazvanou PeachPy, která umožňuje realizovat kooperaci mezi skripty v Pythonu a strojovým kódem zapsaným formou strojových instrukcí. PeachPy je v praxi relativně často používána pro „místní“ optimalizace.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bouffalant ex from White Flare!]]></title>
-        <id>156027</id>
-        <link href="https://www.pokebeach.com/forums/threads/bouffalant-ex-from-white-flare.156027/"/>
-        <updated>2025-05-28T21:51:23.000Z</updated>
-        <summary type="html"><![CDATA[Bouffalant ex has just been revealed from Black Bolt and White Flare! The set will release in Japan on June 6th and will then release in English on July 18th.
-Bouffalant ex - Colorless - HP220
-Basic Pokémon
-Ability: Bouffer
-This Pokemon takes 30 less damage from attacks (after applying Weakness...]]></summary>
-        <author>
-            <name>steffenka</name>
         </author>
     </entry>
     <entry>
@@ -1328,6 +1338,43 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7538-1: FFmpeg vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7538-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7538-1"/>
+        <updated>2025-05-28T01:00:46.000Z</updated>
+        <summary type="html"><![CDATA[Simcha Kosman discovered that FFmpeg did not correctly handle certain
+return values. An attacker could possibly use this issue to leak
+sensitive information. This issue only affected Ubuntu 16.04 LTS,
+Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, Ubuntu 24.04 LTS
+and Ubuntu 24.10. (CVE-2025-0518)
+
+It was discovered that FFmpeg did not correctly handle certain memory
+operations. A remote attacker could possibly use this issue to cause a
+denial of service or execute arbitrary code. This issue only affected
+Ubuntu 24.10. (CVE-2025-1816)
+
+It was discovered that FFmpeg contained a reachable assertion, which
+could lead to a failure when processing certain AAC files. If a user or
+automated system were tricked into opening a specially crafted AAC file,
+an attacker could possibly use this issue to cause a denial of service.
+This issue only affected Ubuntu 16.04 LTS, Ubuntu 18.04 LTS,
+Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, Ubuntu 24.04 LTS and Ubuntu 24.10.
+(CVE-2025-22919)
+
+It was discovered that FFmpeg did not correctly handle certain memory
+operations. An attacker could possibly use this issue to cause a denial
+of service. This issue only affected Ubuntu 22.04 LTS, Ubuntu 24.04 LTS,
+Ubuntu 24.10 and Ubuntu 25.04. (CVE-2025-22921)
+
+It was discovered that FFmpeg did not correctly handle certain memory
+operations. An attacker could possibly use this issue to cause a denial
+of service or execute arbitrary code. This issue only affected
+Ubuntu 24.04 LTS, Ubuntu 24.10 and Ubuntu 25.04. (CVE-2025-25473)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EXT4 For Linux 6.16 Brings A Change Yielding "Really Stupendous Performance"]]></title>
         <id>https://www.phoronix.com/news/Linux-6.16-EXT4-Performance</id>
         <link href="https://www.phoronix.com/news/Linux-6.16-EXT4-Performance"/>
@@ -1747,18 +1794,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Keith Nelson Jr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7537-1: net-tools vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7537-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7537-1"/>
-        <updated>2025-05-27T17:12:39.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that net-tools incorrectly handled certain inputs.
-An attacker could possible use this issue to cause a crash or execute
-arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2448,16 +2483,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.phoronix.com/news/Rust-Projects-Mid-2025"/>
         <updated>2025-05-26T11:15:16.000Z</updated>
         <summary type="html"><![CDATA[The Rust project this morning published a status update on some of their top project goals, including for enhancing the async Rust experience to make it closer to the sync programming experience as well as stabilizing the tooling needed for Rust programming use within the Linux kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New AMD SPI Driver Going Upstream In Linux 6.16]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.16-SPI</id>
-        <link href="https://www.phoronix.com/news/Linux-6.16-SPI"/>
-        <updated>2025-05-26T10:52:42.000Z</updated>
-        <summary type="html"><![CDATA[Among the early pull requests sent out today with the Linux 6.16 merge window now open are all of the Serial Peripheral Interface (SPI) subsystem updates...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
