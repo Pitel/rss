@@ -1,20 +1,271 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-04T08:20:26.541Z</id>
+    <id>urn:2025-06-04T10:16:16.392Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-04T08:20:26.541Z</updated>
+    <updated>2025-06-04T10:16:16.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Sched_Ext Boasts CPU Selection Improvements In Linux 6.16]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.16-Sched-Ext</id>
+        <link href="https://www.phoronix.com/news/Linux-6.16-Sched-Ext"/>
+        <updated>2025-06-04T10:10:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the niftiest kernel innovations to be upstreamed into Linux over the past year was sched_ext for extensible scheduler behavior in allowing kernel schedulers to be implemented via BPG programs. Sched_ext can allow for interesting scheduler improvements with a variety of use-cases and showed much potential even before being upstreamed. The work on sched_ext isn't yet over though and yet more improvements landed for Linux 6.16...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Japanese “Black Bolt” and “White Flare” Secret Rares Revealed!]]></title>
         <id>156055</id>
         <link href="https://www.pokebeach.com/forums/threads/japanese-%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare%E2%80%9D-secret-rares-revealed.156055/"/>
-        <updated>2025-06-04T06:57:16.000Z</updated>
+        <updated>2025-06-04T10:08:23.000Z</updated>
         <summary type="html"><![CDATA[The secret rares from Japan's Black Bolt and White Flare are now being posted to social media by Japanese fans! The set releases in Japan on Friday.
 Each Pokemon in the set will get either an Illustration Rare or Special Illustration Rare.
 Keep checking back here as more cards are revealed and...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7554-3: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7554-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7554-3"/>
+        <updated>2025-06-04T10:04:17.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Block layer subsystem;
+  - Clock framework and drivers;
+  - GPU drivers;
+  - Parport drivers;
+  - Ext4 file system;
+  - JFFS2 file system;
+  - JFS file system;
+  - File systems infrastructure;
+  - Sun RPC protocol;
+  - USB sound devices;
+(CVE-2024-42301, CVE-2024-26966, CVE-2023-52458, CVE-2024-47701,
+CVE-2024-53155, CVE-2021-47211, CVE-2024-57850, CVE-2024-56551,
+CVE-2021-47353, CVE-2024-56596, CVE-2024-53168)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7554-2: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7554-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7554-2"/>
+        <updated>2025-06-04T09:54:42.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Block layer subsystem;
+  - Clock framework and drivers;
+  - GPU drivers;
+  - Parport drivers;
+  - Ext4 file system;
+  - JFFS2 file system;
+  - JFS file system;
+  - File systems infrastructure;
+  - Sun RPC protocol;
+  - USB sound devices;
+(CVE-2024-42301, CVE-2024-53168, CVE-2024-57850, CVE-2024-47701,
+CVE-2021-47211, CVE-2023-52458, CVE-2024-56551, CVE-2024-26966,
+CVE-2024-53155, CVE-2024-56596, CVE-2021-47353)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hardware Monitoring For More ASUS Motherboards & Additional Zen 5 CPUs In Linux 6.16]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.16-HWMON</id>
+        <link href="https://www.phoronix.com/news/Linux-6.16-HWMON"/>
+        <updated>2025-06-04T09:52:06.000Z</updated>
+        <summary type="html"><![CDATA[The numerous hardware monitoring "HWMON" subsystem updates were merged to Linux 6.16 on Tuesday for further enhancing the desktop hardware reporting capabilities and more with this next kernel release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop right there, Oblivion Remastered modders have made the Imperial Watch a proper joinable faction with new quests and a corruption system for criminal scum]]></title>
+        <id>https://www.rockpapershotgun.com/stop-right-there-oblivion-remastered-modder-imperial-watch-proper-joinable-faction-new-quests-and-a-corruption-system</id>
+        <link href="https://www.rockpapershotgun.com/stop-right-there-oblivion-remastered-modder-imperial-watch-proper-joinable-faction-new-quests-and-a-corruption-system"/>
+        <updated>2025-06-04T09:50:27.000Z</updated>
+        <summary type="html"><![CDATA[Oblivion is really a game about the Imperial Watch. Forget all the Mehrunes Dagon stuff and that Hero of Kvatch - the real stars of the show are the stupid guards who pop out of the ether to tell you it’s time to pay the fine for your long list of misdeeds or head off to jail.
+One Oblivion Remastered modder clearly feels the same way, as they’ve just fleshed out the Imperial Watch and Forestry divisions into joinable factions, via the addition of some new radiant quests and systems. These kinds of mods have become a bit of a hobby for the modder in question, ColdTyrant, and I spoke to them about it pretty recently.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7554-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7554-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7554-1"/>
+        <updated>2025-06-04T09:40:04.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Block layer subsystem;
+  - Clock framework and drivers;
+  - GPU drivers;
+  - Parport drivers;
+  - Ext4 file system;
+  - JFFS2 file system;
+  - JFS file system;
+  - File systems infrastructure;
+  - Sun RPC protocol;
+  - USB sound devices;
+(CVE-2024-42301, CVE-2024-56596, CVE-2024-56551, CVE-2023-52458,
+CVE-2024-57850, CVE-2024-47701, CVE-2024-53168, CVE-2021-47211,
+CVE-2024-53155, CVE-2024-26966, CVE-2021-47353)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hollywood Animation Veterans Bring 'MechAnimals' To "Nintendo Switch(es)"]]></title>
+        <id>https://www.nintendolife.com/#article-183268</id>
+        <link href="https://www.nintendolife.com/news/2025/06/hollywood-animation-veterans-bring-mechanimals-to-nintendo-switches"/>
+        <updated>2025-06-04T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A little movie magic?
+BouncyBrain Studio — which is made up of a whole bunch of Hollywood animation veterans, don't you know — has taken to the internets to announce that their upcoming roguelite/beat 'em up, MechAnimals, will see a release on "Nintendo Switch(es)", (that's right, plural) sometime in the near future.
+The team over at BouncyBrain brings together the talents of folk who've got credits on the likes of the Minions movies, alongside Kung Fu Panda and something called The Mario Movie, which we've never heard of, but we're sure it's good too.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7553-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7553-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7553-2"/>
+        <updated>2025-06-04T09:20:35.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Clock framework and drivers;
+  - GPU drivers;
+  - Parport drivers;
+  - Ext4 file system;
+  - JFFS2 file system;
+  - JFS file system;
+  - File systems infrastructure;
+  - Sun RPC protocol;
+  - USB sound devices;
+(CVE-2024-53155, CVE-2024-47701, CVE-2021-47211, CVE-2024-56596,
+CVE-2024-42301, CVE-2024-57850, CVE-2024-56551, CVE-2024-26966,
+CVE-2024-53168)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7553-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7553-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7553-1"/>
+        <updated>2025-06-04T09:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Clock framework and drivers;
+  - GPU drivers;
+  - Parport drivers;
+  - Ext4 file system;
+  - JFFS2 file system;
+  - JFS file system;
+  - File systems infrastructure;
+  - Sun RPC protocol;
+  - USB sound devices;
+(CVE-2024-42301, CVE-2024-53168, CVE-2024-47701, CVE-2021-47211,
+CVE-2024-53155, CVE-2024-56596, CVE-2024-26966, CVE-2024-56551,
+CVE-2024-57850)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invisible Inc spiritual successor Cyber Knights: Flashpoint has released from early access]]></title>
+        <id>https://www.rockpapershotgun.com/invisible-inc-spiritual-successor-cyber-knights-flashpoint-has-released-from-early-access</id>
+        <link href="https://www.rockpapershotgun.com/invisible-inc-spiritual-successor-cyber-knights-flashpoint-has-released-from-early-access"/>
+        <updated>2025-06-04T08:51:05.000Z</updated>
+        <summary type="html"><![CDATA[I currently do not have time to play Cyber Knights: Flashpoint, the game Katherine (RPS in peace) called  a "spiritual successor" to (unbelievably good stealth tactics game) Invisible Inc. So, I'm writing about its release from early access as a sort of vicarious joy substitute. Because, boy, does it tick several big honking megaboxes for me. The idea is that you'll be pulling off cyberpunky heists with a squad of mercs, planning and executing while keeping the future fuzz off your backs. There's also lots of dense RPG multiclassing stuff I'll talk about in a second. Here's a launch trailer.
+Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rok aukcí domén v registru CZ]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/rok-aukci-domen-v-registru-cz</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/rok-aukci-domen-v-registru-cz"/>
+        <updated>2025-06-04T08:45:51.000Z</updated>
+        <summary type="html"><![CDATA[V polovině května uplynul jeden rok od spuštění aukcí CZ domén, které provozuje sdružení CZ.NIC. Hlavním cílem bylo zpřístupnit uvolňované domény z registru (po expiraci nebo smazání) většímu okruhu zájemců. Před spuštěním aukcí se totiž k takovým doménám dostávalo jen několik málo subjektů, které uvolňované domény „odchytávaly“ s velkou úspěšností díky automatizovaným systémům k tomu připraveným. Běžný zájemce neměl reálnou šanci atraktivnější doménu získat napřímo. Toto se díky aukcím zcela zásadně změnilo. Domény, o které byl největší zájem i s cenami: virtualnisidlo.cz (152 077 Kč), wgz.cz (121 000 Kč), zuno.cz (119 888 Kč), ergo.cz (113 000 Kč), mypage.cz (101 000 Kč) a legal.cz (100 000 Kč).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Civilization VII Looks Like A Massive Step Up On Switch 2]]></title>
+        <id>https://www.nintendolife.com/#article-183270</id>
+        <link href="https://www.nintendolife.com/news/2025/06/civilization-vii-looks-like-a-massive-step-up-on-switch-2"/>
+        <updated>2025-06-04T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Mouse controls are just the start of it.
+2K and Firaxis have released a new trailer for Sid Meier's Civilization VII on the Nintendo Switch 2, showcasing a huge upgrade from the Switch version.
+Launching day one with the console, the upgraded release introduces mouse controls to the game, bringing it much closer to an authentic PC-like experience. In addition, visuals and performance have been enhanced, bigger maps will be available, and more players are supported in multiplayer. Oh, and there's GameChat support too, of course.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glory Holes Of Oblivion lets your weapons and spells fire through gates]]></title>
+        <id>https://www.rockpapershotgun.com/glory-holes-of-oblivion-lets-your-weapons-and-spells-fire-through-gates</id>
+        <link href="https://www.rockpapershotgun.com/glory-holes-of-oblivion-lets-your-weapons-and-spells-fire-through-gates"/>
+        <updated>2025-06-04T08:38:29.000Z</updated>
+        <summary type="html"><![CDATA[Glory Holes Of Oblivion is an Elder Scrolls IV: Oblivion Remastered mod that lets you shoot arrows and cast spells through holes in gates, and also allows your enemies to do the same. Cheers Ex Research for the spot. NexusMods lists Glory Holes Of Oblivion as containing 'adult content'. This is surely because they're not scholars of glassblowing or drawers. More on this in a second. First, here's a good skeleton demonstrating the use of the mod.
+Read more]]></summary>
+        <author>
+            <name>Nic Reuben</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Strange Antiquities is the first game in a while that treats magical objects like magical objects]]></title>
+        <id>https://www.rockpapershotgun.com/strange-antiquities-is-the-first-game-in-a-while-that-treats-magical-objects-like-magical-objects</id>
+        <link href="https://www.rockpapershotgun.com/strange-antiquities-is-the-first-game-in-a-while-that-treats-magical-objects-like-magical-objects"/>
+        <updated>2025-06-04T08:28:27.000Z</updated>
+        <summary type="html"><![CDATA[I need help identifying an Ossic Ring. Whatever an Ossic Ring is, it's related to a serpent goddess and is great at keeping away vermin. Legend holds that you can hear it hissing. I'm not sure if the Ossic Ring is an actual ring, and if so, whether it's a ring for your finger or a ring necklace or a ring design found on something unhelpfully nonringular.
+With time running short (I am playing the demo for Bad Viking's Strange Antiquities on the train), I grab weird knick knacks from my shelves at random and thrust them imperiously at the customer. Perhaps this berringed corpse's hand? No? How about this iron band enclosing a blue crystal tear? I get it wrong three times in a row and my character's brain saturates with Dread. To dispel the Dread, I must play a farkle-style dice game, matching faces to sigils before my soul collapses. Ah, this is just like recommending guest beers at the gastropub I worked in before getting my first job in the shitpost business. Do Strange Ales next, Bad Viking.
+ Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7550-4: Linux kernel (Azure CVM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7550-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7550-4"/>
+        <updated>2025-06-04T08:26:38.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - GPU drivers;
+  - Sun RPC protocol;
+(CVE-2024-53168, CVE-2024-56551, CVE-2024-56608)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[As if sweary Darth Vader wasn't enough, Fortnite developer Epic will soon be letting players create their own "AI-powered NPCs"]]></title>
+        <id>https://www.rockpapershotgun.com/as-if-sweary-darth-vader-wasnt-enough-fortnite-developer-epic-will-soon-be-letting-players-create-their-own-ai-powered-npcs</id>
+        <link href="https://www.rockpapershotgun.com/as-if-sweary-darth-vader-wasnt-enough-fortnite-developer-epic-will-soon-be-letting-players-create-their-own-ai-powered-npcs"/>
+        <updated>2025-06-04T08:26:02.000Z</updated>
+        <summary type="html"><![CDATA[Oh boy. Remember the AI-voiced Darth Vader NPC Epic recently added to Fortnite? The one that very quickly had to patched because it wouldn't stop saying bad words, and has since become the subject of action from the SAG-AFTRA union? Well, it'll be getting some AI NPC siblings later this year, with Epic planning to give creators the tools to create their own.
+ Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
         </author>
     </entry>
     <entry>
@@ -750,7 +1001,7 @@ This update corrects flaws in the following subsystems:
         <title type="html"><![CDATA[Murena /e/OS 3.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/murena-e-os-3.0</id>
         <link href="http://www.abclinuxu.cz/zpravicky/murena-e-os-3.0"/>
-        <updated>2025-06-03T15:30:18.000Z</updated>
+        <updated>2025-06-03T15:30:15.000Z</updated>
         <summary type="html"><![CDATA[Firma Murena představila (PeerTube, YouTube) novou verzi 3.0 mobilního operačního systému /e/OS (Wikipedie) založeného na Androidu a LineageOS bez aplikací a služeb od Googlu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -1322,24 +1573,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7508-2: Open VM Tools vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7508-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7508-2"/>
-        <updated>2025-06-03T09:23:36.000Z</updated>
-        <summary type="html"><![CDATA[USN-7508-1 fixed a vulnerability in Open VM Tools. This update provides
-the corresponding update for Ubuntu 16.04 LTS and Ubuntu 18.04 LTS
-
-Original advisory details:
-
- It was discovered that Open VM Tools incorrectly handled certain
- file operations. An attacker in a guest could use this issue to
- perform insecure file operations and possibly elevate privileges
- in the guest.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Helldivers 2's battle for Super Earth makes Chinese news following the successful and slightly review bomby defense of Equality-On-Sea]]></title>
         <id>https://www.rockpapershotgun.com/helldivers-2s-battle-for-super-earth-makes-chinese-news-following-the-successful-and-slightly-review-bomby-defense-of-equality-on-sea</id>
         <link href="https://www.rockpapershotgun.com/helldivers-2s-battle-for-super-earth-makes-chinese-news-following-the-successful-and-slightly-review-bomby-defense-of-equality-on-sea"/>
@@ -1542,19 +1775,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Switch System Update 20.1.1 Is Now Live, Here Are The Full Patch Notes]]></title>
-        <id>https://www.nintendolife.com/#article-183187</id>
-        <link href="https://www.nintendolife.com/news/2025/06/nintendo-switch-system-update-20-1-1-is-now-live-here-are-the-full-patch-notes"/>
-        <updated>2025-06-03T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Just days out from the Switch 2's launch.
-The Switch 2's launch is just around the corner but it hasn't forgotten about the original system (at least yet). After a few updates in May, we've now got the very first firmware patch for June, bumping the system up to Version 20.1.1.
-This appears to be a relatively small update and as explained in the official notes, it resolves an issue with software not starting after the previous update which went live last week. Here's the full rundown, courtesy of Nintendo's support page:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zygarde's Image-Based Cards - Happy Birthday card!]]></title>
         <id>113480</id>
         <link href="https://www.pokebeach.com/forums/threads/zygardes-image-based-cards-happy-birthday-card.113480/"/>
@@ -1653,19 +1873,6 @@ Secret Rare:
 Promos:]]></summary>
         <author>
             <name>Zygarde</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video: Bravely Default: Flying Fairy HD Remaster Shows Off Switch 2 Mouse Minigames]]></title>
-        <id>https://www.nintendolife.com/#article-183186</id>
-        <link href="https://www.nintendolife.com/news/2025/06/video-bravely-default-flying-fairy-hd-remaster-shows-off-switch-2-mouse-minigames"/>
-        <updated>2025-06-02T23:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Two unique minigames.
-If you're looking for some quality RPG action on the Switch 2 at launch, one game you might want to check out is Bravely Default: Flying Fairy HD Remaster. This improves on the original 3DS experience with various enhancements including mouse-controller minigames.
-In case you missed the initial coverage of this game during Nintendo's Treehouse broadcast, Square Enix has now shown off the mouse controls once again. This includes the ability to navigate the game's menu and from there you'll jump into the minigame fun. These games are a great way to see the capabilities of the new mouse controls in action and how they could potentially be used in other titles going forward.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2232,19 +2439,6 @@ In The Sims 3: Supernatural, all Fairies can freely use fairy houses to throw pa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7549-1: Twig vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7549-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7549-1"/>
-        <updated>2025-06-02T14:53:12.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Twig did not correctly handle securing
-user input. An attacker could possibly use this issue to cause
-Twig to expose sensitive information if it opened a specially
-crafted file. (CVE-2024-45411)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Každoroční anketa Stack Overflow, klesající platy a AI]]></title>
         <id>www.root.cz-actuality-48258</id>
         <link href="https://www.root.cz/zpravicky/kazdorocni-anketa-stack-overflow-klesajici-platy-a-ai/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2252,20 +2446,6 @@ crafted file. (CVE-2024-45411)]]></summary>
         <summary type="html"><![CDATA[Stack Overflow oznámil ve čtvrtek již patnáctou každoroční anketu mezi vývojáři. Zajímavé bude, zda výplata i nadále klesá. Loni byl pokles v desítce nejlépe postavených států 7 %. Dále bude zajímavé, zdali jsou vývojáři spokojenější. Loni 80 % vývojářů bylo nešťastných nebo jim to bylo jedno.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7548-1: MariaDB vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7548-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7548-1"/>
-        <updated>2025-06-02T14:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in MariaDB and this update
-includes a new upstream MariaDB version to fix these issues.
-
-In addition to security fixes, the updated packages contain bug fixes,
-new features, and possibly incompatible changes.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2528,20 +2708,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Společnost Valve aktualizovala přehled o hardwarovém a softwarovém vybavení uživatelů služby Steam. Podíl uživatelů Linuxu aktuálně činí 2,69 %. Nejčastěji používané linuxové distribuce jsou Arch Linux, Linux Mint a Ubuntu. Při výběru jenom Linuxu vede SteamOS Holo s 30,95 %. Procesor AMD používá 68,77 % hráčů na Linuxu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7547-1: Tornado vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7547-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7547-1"/>
-        <updated>2025-06-02T09:04:10.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Tornado inefficiently handled requests when
-parsing certain form data. An attacker could possibly use this issue to
-increase resource utilization leading to a denial of service. This issue
-was only addressed in Ubuntu 24.04 LTS and Ubuntu 22.04 LTS.
-(CVE-2025-47287)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2964,16 +3130,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Týden v GNOME a Týden v KDE Plasma (30. a 31. května 2025)]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/tyden-v-gnome-a-tyden-v-kde-plasma-30.-a-31.-kvetna-2025</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/tyden-v-gnome-a-tyden-v-kde-plasma-30.-a-31.-kvetna-2025"/>
-        <updated>2025-05-31T19:46:10.000Z</updated>
-        <summary type="html"><![CDATA[Na čem aktuálně pracují vývojáři GNOME a KDE Plasma? Pravidelný přehled novinek v Týden v GNOME a Týden v KDE Plasma.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bisharp Illustration Rare from “Black Bolt” and “White Flare!”]]></title>
         <id>156045</id>
         <link href="https://www.pokebeach.com/forums/threads/bisharp-illustration-rare-from-%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare-%E2%80%9D.156045/"/>
@@ -3101,16 +3257,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.16 Enabling Support For 11 More SoCs, Sophgo SG2044 & More Snapdragon X Laptops]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.16-SoCs</id>
-        <link href="https://www.phoronix.com/news/Linux-6.16-SoCs"/>
-        <updated>2025-05-31T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[All of the big SoC and DeviceTree board updates have been submitted for the Linux 6.16 kernel including support for a number of new Arm SoCs as well as a RISC-V server SoC. Plus many new board additions, including continued work on bettering the Qualcomm Snapdragon X Elite/Plus laptop support under Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IPTV Pirate Fights 25-30 Years Prison, “Facially Absurd” U.S. Govt Calculations]]></title>
         <id>https://torrentfreak.com/?p=268079</id>
         <link href="https://torrentfreak.com/iptv-pirate-fights-25-30-years-prison-facially-absurd-u-s-govt-calculations-250530/"/>
@@ -3119,16 +3265,6 @@ Read more...]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD ROCm 7.0 To Align HIP C++ "Even More Closely With CUDA"]]></title>
-        <id>https://www.phoronix.com/news/AMD-ROCm-7.0-HIP-Plans</id>
-        <link href="https://www.phoronix.com/news/AMD-ROCm-7.0-HIP-Plans"/>
-        <updated>2025-05-31T10:17:13.000Z</updated>
-        <summary type="html"><![CDATA[In a blog post dated for 28 May that was only made public on Friday night followed by a new ROCm build tag, AMD engineers have begun sharing more details publicly about changes coming for ROCm 7.0. In particular, the HIP 7.0 interface is going to be "aligning HIP C++ even more closely with CUDA."..]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3747,80 +3883,6 @@ I'm not sure which sins. Possibly my being a bit parsimonious with the bread rat
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7516-9: Linux kernel (AWS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7516-9</id>
-        <link href="https://ubuntu.com/security/notices/USN-7516-9"/>
-        <updated>2025-05-29T15:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - Block layer subsystem;
-  - Drivers core;
-  - Network block device driver;
-  - Character device driver;
-  - GPU drivers;
-  - HID subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - PPS (Pulse Per Second) driver;
-  - PTP clock framework;
-  - RapidIO drivers;
-  - Real Time Clock drivers;
-  - SCSI subsystem;
-  - SLIMbus drivers;
-  - QCOM SoC drivers;
-  - Trusted Execution Environment drivers;
-  - USB DSL drivers;
-  - USB Device Class drivers;
-  - USB core drivers;
-  - USB Gadget drivers;
-  - USB Host Controller drivers;
-  - Renesas USBHS…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7510-8: Linux kernel (AWS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7510-8</id>
-        <link href="https://ubuntu.com/security/notices/USN-7510-8"/>
-        <updated>2025-05-29T15:16:52.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Network block device driver;
-  - Bus devices;
-  - Character device driver;
-  - TPM device driver;
-  - Clock framework and drivers;
-  - GPIO subsystem;
-  - GPU drivers;
-  - HID subsystem;
-  - I2C subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - NVIDIA Tegra memory controller driver;
-  - Network drivers;
-  - PCI subsystem;
-  - PPS (Pulse Per Second) driver;
-  - PTP clock framework;
-  - RapidIO drivers;
-  - Real Time Clock drivers;
-  - SLIMbus drivers;
-  - QCOM SoC drivers;
-  - Trusted Execution Environmen…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4822,29 +4884,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Military Incremental Complex is freeware classic Dope Wars for arms dealing]]></title>
-        <id>https://www.rockpapershotgun.com/military-incremental-complex-is-freeware-classic-dope-wars-for-arms-dealing</id>
-        <link href="https://www.rockpapershotgun.com/military-incremental-complex-is-freeware-classic-dope-wars-for-arms-dealing"/>
-        <updated>2025-05-21T09:16:56.000Z</updated>
-        <summary type="html"><![CDATA[Oh, Dope Wars '98, let me count the ways you moulded me into the man I am today, buying extra large trench coats in which to store my 100 units of acid. Military Incremental Complex riffs off that game's unmistakably '98 interface, but instead of playing a cool and aspirational heroin entrepreneur, you play a dastardly bullet merchant. Begin crafting artisan handmade farm-fresh shotgun shells, work your way up to nukes. Typical woke renewable energy propaganda. Can't even sell massive bundles of dynamite with 'TNT' written on them anymore in case it offends the coyotes.
-You'll "produce multiple different weapons, research upgrades, manipulate the stock market, and lobby the government for favours". It's from Space Kraken, makers of Squeebing Up The Tower Of Friendship, a game I have not played but enjoy saying the name of aloud. Squeebing. Squeeeebing. "6 hours in the demo and another hour in the released game, I still have no idea what squeebing is," reads one review. UrbanDictionary defines 'squeebing' as … actually, I'm not repeating what UrbanDictionary defines squeebing as. Here's a trailer with wholesome god-fearing guns in it instead.
-Read more]]></summary>
-        <author>
-            <name>Nic Reuben</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD’s Radeon RX 9060 XT wants to be the cheapest 16GB GPU on the market]]></title>
-        <id>https://www.rockpapershotgun.com/amds-radeon-rx-9060-xt-wants-to-be-the-cheapest-16gb-gpu-on-the-market</id>
-        <link href="https://www.rockpapershotgun.com/amds-radeon-rx-9060-xt-wants-to-be-the-cheapest-16gb-gpu-on-the-market"/>
-        <updated>2025-05-21T09:11:09.000Z</updated>
-        <summary type="html"><![CDATA[AMD have rocked up to this year’s Computex tech conference with a handful of new Ryzen Threadripper CPUs (not interested) and confirmation of a long-rumoured graphics card, the Radeon RX 9060 XT (cautiously interested). It’s a true mid-ranger in the RTX 5060 Ti vein, and like its Nvidia rival, will launch with both 8GB and 16GB versions – the latter of which will cost $349, the lowest MSRP of any current-gen 16GB gaming GPU, upon its release in June.
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audio recenze: Mission: Impossible - Poslední zúčtování [Mission: Impossible - The Final Reckoning] - 70 %]]></title>
         <id>tag:blogger.com,1999:blog-2270872860161924291.post-462113139389264780</id>
         <link href="https://www.fffilm.cz/2025/05/audio-recenze-mission-impossible.html"/>
@@ -4863,45 +4902,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avowed director Carrie Patel has left Obsidian, and joined Oxenfree dev Night School as a game director]]></title>
-        <id>https://www.rockpapershotgun.com/avowed-director-carrie-patel-has-left-obsidian-and-joined-oxenfree-dev-night-school-as-a-game-director</id>
-        <link href="https://www.rockpapershotgun.com/avowed-director-carrie-patel-has-left-obsidian-and-joined-oxenfree-dev-night-school-as-a-game-director"/>
-        <updated>2025-05-20T21:54:55.000Z</updated>
-        <summary type="html"><![CDATA[Whether or not we'll be getting any more Avowed somewhere along the line is still very much up in the air. But if we do, it seems it won't be under the leadership of Carrie Patel. In a quick post Patel shared on LinkedIn, the game developer shared that she's "starting a new position as game director" at the team behind Oxenfree, Night School Studio. Patel mentioned literally zero details outside of what her new role is, so it's not even clear why she left Obsidian. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077's sequel will see you return to Night City, and head to a new city described as "Chicago gone wrong"]]></title>
-        <id>https://www.rockpapershotgun.com/cyberpunk-2077s-sequel-will-see-you-return-to-night-city-and-head-to-a-new-city-described-as-chicago-gone-wrong</id>
-        <link href="https://www.rockpapershotgun.com/cyberpunk-2077s-sequel-will-see-you-return-to-night-city-and-head-to-a-new-city-described-as-chicago-gone-wrong"/>
-        <updated>2025-05-20T20:41:05.000Z</updated>
-        <summary type="html"><![CDATA[CD Projekt Red's sequel to Cyberpunk 2077 is mostly a bit of a mystery, and it likely will be for a while yet given that they're currently full steam ahead on The Witcher 4. We know Anna Megill, who worked on Control and the upcoming Fable game, is attached as lead writer, and that the team wants to deal with some big topics, but there's been nothing like plot details shared so far. At the very least, Cyberpunk creator Mike Pondsmith shared some tidbits about it at Digital Dragons, namely to do with the game's map.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shift Up essentially confirm Stellar Blade 2 is in the works, haven't revealed how revealing it will be]]></title>
-        <id>https://www.rockpapershotgun.com/shift-up-essentially-confirm-stellar-blade-2-is-in-the-works-havent-revealed-how-revealing-it-will-be</id>
-        <link href="https://www.rockpapershotgun.com/shift-up-essentially-confirm-stellar-blade-2-is-in-the-works-havent-revealed-how-revealing-it-will-be"/>
-        <updated>2025-05-20T19:04:14.000Z</updated>
-        <summary type="html"><![CDATA[Alright, so, I know those of us on PC haven't even had the chance to play the first one yet, but it seems like Shift Up have essentially confirmed that Stellar Blade 2 is in the works. As spotted by Insider Gaming, Shift Up recently shared its investor relations presentation for May of this year, most of it being businessy nonsense neither you or I could give two tosses about. The key thing is a slide in its strategy section, showing a very basic plan for its games Nikke and Stellar Blade.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
     <entry>
