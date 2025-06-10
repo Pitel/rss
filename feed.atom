@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-10T08:20:26.655Z</id>
+    <id>urn:2025-06-10T10:16:20.561Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-10T08:20:26.655Z</updated>
+    <updated>2025-06-10T10:16:20.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[SAG-AFTRA union reach "tentative agreement" with game companies that could end the latest voice actor strike]]></title>
+        <id>https://www.rockpapershotgun.com/sag-aftra-union-reach-tentative-agreement-with-game-companies-that-could-end-the-latest-voice-actor-strike</id>
+        <link href="https://www.rockpapershotgun.com/sag-aftra-union-reach-tentative-agreement-with-game-companies-that-could-end-the-latest-voice-actor-strike"/>
+        <updated>2025-06-10T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Video game voice actor union SAG-AFTRA say they've reached a "tentative agreement" with a group of games companies that could bring an end to the latest voice actor strike, providing it gets approved by the union's National Board and members.
+This tentative deal "puts in place the necessary AI guardrails that defend performers’ livelihoods in the A.I. age, alongside other important gains," say SAG-AFTRA. That's been the key issue at the heart of this strike, with the union citing a desire to push for protections against VAs being replaced or imitated by AI, though it has previously faced some criticism for how it's handled striking deals with companies that use AI.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 25.10 bez podpory běhu GNOME na X.Org]]></title>
+        <id>www.root.cz-actuality-48372</id>
+        <link href="https://www.root.cz/zpravicky/ubuntu-25-10-bez-podpory-behu-gnome-na-x-org/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-06-10T09:09:50.000Z</updated>
+        <summary type="html"><![CDATA[Po Fedoře se i Canonical s Ubuntu zařazuje mezi distribuce, které s příštím vydáním plánují odstavit podporu běhu prostředí GNOME na X.Org Serveru. S podzimním Ubuntu tak přijde změna: systém poběží už jen na Waylandu, uvádí Jean-Baptiste Lallement z Canonicalu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Charts: Nintendo Switch 2 Annihilates The Competition In Its Debut Week]]></title>
+        <id>https://www.nintendolife.com/#article-183697</id>
+        <link href="https://www.nintendolife.com/news/2025/06/uk-charts-nintendo-switch-2-annihilates-the-competition-in-its-debut-week"/>
+        <updated>2025-06-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mario Kart World grabs the gold.
+Here we are folks, the first breakdown of the UK charts since the Nintendo Switch 2 launched.
+As expected, the launch line-up has performed exceedingly well, with Mario Kart World comfortably nabbing the top prize. Hogwarts Legacy takes second place, though oddly enough, Switch 2 sales actually lag behind Switch 1 and PS5.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical Confirms Ubuntu 25.10 Will Drop Support For GNOME On X.Org]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org"/>
+        <updated>2025-06-10T08:50:00.000Z</updated>
+        <summary type="html"><![CDATA[In aligning with upstream GNOME 49 expected to ship with X11 support disabled by default, Canonical announced today that the upcoming Ubuntu 25.10 release will also ship without support for running the GNOME desktop on X11...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi RP1 PCI Device Support On Path For Linux 6.17 Upstreaming]]></title>
+        <id>https://www.phoronix.com/news/Raspberry-Pi-RP1-Linux-6.17</id>
+        <link href="https://www.phoronix.com/news/Raspberry-Pi-RP1-Linux-6.17"/>
+        <updated>2025-06-10T08:42:00.000Z</updated>
+        <summary type="html"><![CDATA[Going back to last year there have been patches worked on by SUSE for upstreaming Raspberry Pi's RP1 PCI device support. It looks like for the Linux 6.17 kernel later this year that work will finally be upstreamed...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Linux Patches Aim To Improve S5 Power Consumption]]></title>
         <id>https://www.phoronix.com/news/AMD-Linux-Improve-S5-Power</id>
@@ -1058,15 +1113,19 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[It was discovered that Tomcat did not include the secure attribute for
 session cookies when using the RemoteIpFilter with requests from a reverse
 proxy. An attacker could possibly use this issue to leak sensitive
-information. This issue was fixed for tomcat8  on Ubuntu 18.04 LTS and for
-tomcat9  on Ubuntu 24.04 LTS, Ubuntu 24.10, and Ubuntu 25.04.
-(CVE-2023-28708)  It was discovered that Tomcat incorrectly recycled
+information. This issue was fixed for tomcat8 on Ubuntu 18.04 LTS and for
+tomcat9 on Ubuntu 24.04 LTS, Ubuntu 24.10, and Ubuntu 25.04.
+(CVE-2023-28708)
+
+It was discovered that Tomcat incorrectly recycled
 certain objects, which could lead to information leaking from one request
 to the next. An attacker could potentially use this issue to leak sensitive
 information. This issue was fixed for tomcat8 on Ubuntu 18.04 LTS  and for
 tomcat9 on Ubuntu 24.04 LTS, Ubuntu 24.10, and  Ubuntu 25.04.
-(CVE-2023-42795)  It was discovered that Tomcat incorrectly handled HTTP
-trailer headers. A re…]]></summary>
+(CVE-2023-42795)
+
+It was discovered that Tomcat incorrectly handled HTTP
+trailer headers. A remo…]]></summary>
         <author>
             <name>Ubuntu security notices</name>
         </author>
@@ -1770,36 +1829,6 @@ The post What was your biggest Summer Games Fest reveal? appeared first on Destr
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://stakecommunity.com/topic/141642-05-ways-to-call-coinbase-customer-care-full-guide-usa/]]></title>
-        <id>156085</id>
-        <link href="https://www.pokebeach.com/forums/threads/https-stakecommunity-com-topic-141642-05-ways-to-call-coinbase-customer-care-full-guide-usa.156085/"/>
-        <updated>2025-06-09T08:32:55.000Z</updated>
-        <summary type="html"><![CDATA[https://stakecommunity.com/topic/141642-05-ways-to-call-coinbase-customer-care-full-guide-usa/]]></summary>
-        <author>
-            <name>musafir</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎀¿𝒞ó𝓂🍑 11amar a1 0ɹǝɯn̗u de 𝒱0𝓁𝒶𝓇1𝓈 C0ꜱta Rica te1éf0n0?]]></title>
-        <id>156083</id>
-        <link href="https://www.pokebeach.com/forums/threads/%F0%9F%8E%80%C2%BF%F0%9D%92%9E%C3%B3%F0%9D%93%82%F0%9F%8D%91-11amar-a1-0%C9%B9%C7%9D%C9%AFn%CC%97u-de-%F0%9D%92%B10%F0%9D%93%81%F0%9D%92%B6%F0%9D%93%871%F0%9D%93%88-c0%EA%9C%B1ta-rica-te1%C3%A9f0n0.156083/"/>
-        <updated>2025-06-09T08:24:53.000Z</updated>
-        <summary type="html"><![CDATA[11ama a1 0ɹǝɯn̗u de 𝒱0𝓁𝒶𝓇1𝓈 c0ꜱta rica te1ef0n0 +5️⃣0️⃣6 ₄₀₀₂ 38𝟻𝟿 y recibe ayuda inmediata. E1 0ɹǝɯn̗u de c0ntact0 +5️⃣0️⃣6 ₄₀₀₂ 38𝟻𝟿 eꜱtá diꜱp0nib1e t0d0ꜱ 10ꜱ díaꜱ. Para cambi0ꜱ, reꜱervaꜱ 0 aꜱiꜱtencia, 10ꜱ paꜱajer0ꜱ pueden marcar +5️⃣0️⃣6 ₄₀₀₂ 38𝟻𝟿. Eꜱte 𝒱0𝓁𝒶𝓇1𝓈 c0ꜱta rica te1ef0n0 Eꜱ 1a vía...]]></summary>
-        <author>
-            <name>rohitkumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sixteen Ways to Speak to Someone at Coinbase® Through Contact Options A Step by Step Guide]]></title>
-        <id>156082</id>
-        <link href="https://www.pokebeach.com/forums/threads/sixteen-ways-to-speak-to-someone-at-coinbase%C2%AE-through-contact-options-a-step-by-step-guide.156082/"/>
-        <updated>2025-06-09T08:22:08.000Z</updated>
-        <summary type="html"><![CDATA[Navigating travel plans 📞1→820→400→8467 can sometimes require a little extra assistance. Whether you’re adjusting a flight, clarifying booking details, or seeking a refund, speaking with a live person at Coinbase 📞1→820→400→8467 can often be the most efficient way to resolve your concerns. This...]]></summary>
-        <author>
-            <name>musafir</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grande Slams Labels’ “Egregious” Piracy Claims in Final Supreme Court Plea]]></title>
         <id>https://torrentfreak.com/?p=268268</id>
         <link href="https://torrentfreak.com/grande-slams-labels-egregious-piracy-claims-in-final-supreme-court-plea/"/>
@@ -1851,16 +1880,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[The turbostat utility that lives within the Linux kernel source tree for reporting processor frequency and idle statistics along with other CPU information saw some last minute updates during the Linux 6.16 merge window...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hi how are you guys]]></title>
-        <id>156076</id>
-        <link href="https://www.pokebeach.com/forums/threads/hi-how-are-you-guys.156076/"/>
-        <updated>2025-06-09T06:30:50.000Z</updated>
-        <summary type="html"><![CDATA[i am good thank you]]></summary>
-        <author>
-            <name>rohitkumar</name>
         </author>
     </entry>
     <entry>
@@ -2545,19 +2564,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Puyo Puyo Tetris 2S (Switch 2) - A Disappointing Update For A Modern Puzzle Classic]]></title>
-        <id>https://www.nintendolife.com/#article-183378</id>
-        <link href="https://www.nintendolife.com/reviews/nintendo-switch-2/puyo-puyo-tetris-2s"/>
-        <updated>2025-06-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[T-blocks keep fallin’ on my head.
-We’re making this a trend now, huh? It’s never long before Puyo Puyo Tetris makes its way onto the scene. Such was the case back in 2017 with the launch of the original Switch, when a worldwide release of 2014’s Puyo Puyo Tetris (which released on Wii U and 3DS in Japan) served as one of the very first games available for Nintendo's then-fledgling hybrid.
-It was arguably a ‘right place, right time’ moment for the crossover franchise, appealing to casual Tetris fans, puzzle game die-hards, and the massive influx of players just looking for more things to play on their shiny new system. Crucially, it helped reintroduce Puyo Puyo to the wider global market after a lengthy hiatus from localising the franchise.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux GPIB Drivers Maturing Into Good Shape 50+ Years After The Bus Was Introduced]]></title>
         <id>https://www.phoronix.com/news/Linux-6.16-Staging</id>
         <link href="https://www.phoronix.com/news/Linux-6.16-Staging"/>
@@ -3009,16 +3015,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hierarchical Constant Bandwidth Server "HCBS" Posted In Aiming To Replace RT_GROUP_SCHED]]></title>
-        <id>https://www.phoronix.com/news/Linux-HCBS-Posted</id>
-        <link href="https://www.phoronix.com/news/Linux-HCBS-Posted"/>
-        <updated>2025-06-07T09:50:50.000Z</updated>
-        <summary type="html"><![CDATA[Posted as a request for comments this week were the initial Linux kernel patches for the Hierarchical Constant Bandwidth Server (HCBS)...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloudflare Warns EU About Extensive Piracy Overblocking, Calls for Safeguards]]></title>
         <id>https://torrentfreak.com/?p=268147</id>
         <link href="https://torrentfreak.com/cloudflare-warns-eu-about-extensive-piracy-overblocking-calls-for-safeguards/"/>
@@ -3444,16 +3440,6 @@ Since future...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New AMD-SBI Code Merged For Linux 6.16]]></title>
-        <id>https://www.phoronix.com/news/AMD-SBI-APML-In-Linux-6.16</id>
-        <link href="https://www.phoronix.com/news/AMD-SBI-APML-In-Linux-6.16"/>
-        <updated>2025-06-06T20:40:51.000Z</updated>
-        <summary type="html"><![CDATA[New AMD code merged today to the mainline Linux 6.16 kernel that's in-development is the introduction of the AMD-SBI driver/subsystem for primarily benefiting EPYC server platforms. AMD-SBI is for their Side-Band Interface also known as the Advanced Platform Management Link (APML)...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4322,16 +4308,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jádro Linux 6.16 přinese hardwarový monitoring pro další desky Asus i lepší podporu AMD Zen 5]]></title>
-        <id>www.root.cz-actuality-48294</id>
-        <link href="https://www.root.cz/zpravicky/jadro-linux-6-16-prinese-hardwarovy-monitoring-pro-dalsi-desky-asus-i-lepsi-podporu-amd-zen-5/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-04T11:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Nadále roste podpora základních desek Asus v ovladači pro Asus Embedded Controller (EC) Sensors ( asus-ec-sensors). Příští verze linuxového jádra přidá na seznam podporovaných desek také modely MAXIMUS VI HERO a ROG Z690 Formula. Zatímco u Z690 jde o relativně současný model spadající do 12. generace Core, podporující CPU až po 14. generaci, MAXIMUS VI HERO je jiná káva. Tato deska je z 4. generace Core zvané „Haswell“, s čipsetem Z87. Na trh přišla před 12 lety.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Helldivers 2 follows up the battle for Super Earth with fresh Automaton fighting, because naturally the bots were just waiting in a big invasion queue]]></title>
         <id>https://www.rockpapershotgun.com/helldivers-2-follows-up-the-battle-for-super-earth-automaton-fighting-because-bots-waiting-in-big-invasion-queue</id>
         <link href="https://www.rockpapershotgun.com/helldivers-2-follows-up-the-battle-for-super-earth-automaton-fighting-because-bots-waiting-in-big-invasion-queue"/>
@@ -4629,19 +4605,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tales of Kenzera: ZAU dev's next game is a psychological horror all about the entertainment industry's dark secrets]]></title>
-        <id>https://www.rockpapershotgun.com/tales-of-kenzera-zau-devs-next-game-is-a-psychological-horror-all-about-the-entertainment-industrys-dark-secrets</id>
-        <link href="https://www.rockpapershotgun.com/tales-of-kenzera-zau-devs-next-game-is-a-psychological-horror-all-about-the-entertainment-industrys-dark-secrets"/>
-        <updated>2025-06-03T16:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, Palworld developer Pocketpair announced their intent to get into games publishing using some of that Scrooge McDuck-size swimming pool of money they've acquired over the past year. They already had a game signed up too, from Tales of Kenzera: ZAU developer Surgent Studios, and today said indie dev has offered a small tease of a reveal at their upcoming psychological horror game Dead Take.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anti-Piracy Group BREIN Ramps Up IPTV Actions Under New Leadership]]></title>
         <id>https://torrentfreak.com/?p=268112</id>
         <link href="https://torrentfreak.com/anti-piracy-group-brein-ramps-up-iptv-actions-under-new-leadership/"/>
@@ -4774,12 +4737,55 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“Destined Rivals” Set Guide: Full Card List, Products, Store Promos, and More!]]></title>
+        <id>155983</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdestined-rivals%E2%80%9D-set-guide-full-card-list-products-store-promos-and-more.155983/"/>
+        <updated>2025-06-02T05:55:17.000Z</updated>
+        <summary type="html"><![CDATA[Prepare for trouble! We now have the full English set list for Destined Rivals!
+The set will release on May 30th. Prereleases will take place from May 17th to May 25th.
+The set contains 244 cards: 182 cards in the main set and 62 secret rares. It features Owner's Pokemon for Team Rocket, Misty...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bridge Types]]></title>
         <id>https://xkcd.com/3097/</id>
         <link href="https://xkcd.com/3097/"/>
         <updated>2025-06-02T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Black Bolt” and “White Flare” TCG Accessories Revealed for Japan’s Pokemon Centers!]]></title>
+        <id>156040</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare%E2%80%9D-tcg-accessories-revealed-for-japan%E2%80%99s-pokemon-centers.156040/"/>
+        <updated>2025-06-02T03:31:57.000Z</updated>
+        <summary type="html"><![CDATA[To celebrate Black Bolt and White Flare, Japan's Pokemon Centers will release themed TCG accessories on June 6th.
+They include card boxes, collection files, card sleeves, deck boxes, a triple display frame, deck boxes, and a playmat...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Leavanny Illustration Rare from “Black Bolt” and “White Flare!”]]></title>
+        <id>156046</id>
+        <link href="https://www.pokebeach.com/forums/threads/leavanny-illustration-rare-from-%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare-%E2%80%9D.156046/"/>
+        <updated>2025-06-02T02:49:35.000Z</updated>
+        <summary type="html"><![CDATA[The Illustration Rare version of Leavanny has been revealed from Black Bolt and White Flare; all their main set cards were revealed the other day. The set will release in Japan on June 6th and will then release in English on July 18th.
+
+			
+				
+			
+			
+				
+			
+		
+
+We should see all of the...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -4801,6 +4807,19 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krookodile from “Black Bolt!”]]></title>
+        <id>156017</id>
+        <link href="https://www.pokebeach.com/forums/threads/krookodile-from-%E2%80%9Cblack-bolt-%E2%80%9D.156017/"/>
+        <updated>2025-06-01T17:12:53.000Z</updated>
+        <summary type="html"><![CDATA[The Sandile line have been revealed from SV11B Black Bolt! The set will release in Japan on June 6th and will then release in English on July 18th. Thanks goes to JustInBasil for translations!
+Sandile - Darkness - HP70
+Basic Pokémon
+[D] Tighten Up: 10 damage. Your opponent discards a card from...]]></summary>
+        <author>
+            <name>steffenka</name>
         </author>
     </entry>
     <entry>
