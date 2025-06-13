@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-13T06:21:24.852Z</id>
+    <id>urn:2025-06-13T08:19:43.082Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-13T06:21:24.852Z</updated>
+    <updated>2025-06-13T08:19:43.082Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-7550-7: Linux kernel (NVIDIA Tegra IGX) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7550-7</id>
+        <link href="https://ubuntu.com/security/notices/USN-7550-7"/>
+        <updated>2025-06-13T08:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - GPU drivers;
+  - Sun RPC protocol;
+(CVE-2024-56551, CVE-2024-56608, CVE-2024-53168)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Three Pokemon Center “Special Boxes” Releasing in Japan with Unique Pikachu Promos!]]></title>
         <id>156105</id>
         <link href="https://www.pokebeach.com/forums/threads/three-pokemon-center-%E2%80%9Cspecial-boxes%E2%80%9D-releasing-in-japan-with-unique-pikachu-promos.156105/"/>
-        <updated>2025-06-13T06:11:30.000Z</updated>
+        <updated>2025-06-13T08:04:42.000Z</updated>
         <summary type="html"><![CDATA[To celebrate the reopening of Japan's Pokemon Centers in Tohoku, Hiroshima, and Fukuoka, three "Special Boxes" will release today on the Pokemon Center's website for 2,090 yen each.
 
 			
@@ -26,6 +41,40 @@
 Each box will come with a foil promo of Tohoku's Pikachu, Hiroshima's...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AOSP (Android Open Source Project) bez zdrojových kódů specifických pro telefony Pixel od Googlu]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/aosp-android-open-source-project-bez-zdrojovych-kodu-specifickych-pro-telefony-pixel-od-googlu</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/aosp-android-open-source-project-bez-zdrojovych-kodu-specifickych-pro-telefony-pixel-od-googlu"/>
+        <updated>2025-06-13T07:29:29.000Z</updated>
+        <summary type="html"><![CDATA[V úterý Google vydal Android 16. Zdrojové kódy jsou k dispozici na AOSP (Android Open Source Project). Chybí (zatím?) ale zdrojové kódy specifické pro telefony Pixel od Googlu. Projekty jako CalyxOS a GrapheneOS řeší, jak tyto telefony nadále podporovat. Nejistá je podpora budoucích Pixelů. Souvisí to s hrozícím rozdělením Googlu (Google, Chrome, Android)?]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Piracy Giant Mangajikan’s “Website Closed” After 185m Visits in May Alone]]></title>
+        <id>https://torrentfreak.com/?p=268511</id>
+        <link href="https://torrentfreak.com/piracy-giant-mangajikans-website-closed-after-185m-visits-in-may-alone-250613/"/>
+        <updated>2025-06-13T06:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, Japanese manga publisher Shueisha filed a DMCA subpoena application in the U.S., as it continues to pursue the operators of major pirate sites. At the very top of Shueisha's latest list is Mangajikan, a site that appears to have received 185 million visitors in May alone. In Japan, that made Mangajikan more popular than Instagram, Facebook, and ChatGPT. But right now, on what used to be its front page, is a very clear message: Website Closed.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street Fighter 6's Switch 2 Version Declared Tournament Legal By Capcom]]></title>
+        <id>https://www.nintendolife.com/#article-183858</id>
+        <link href="https://www.nintendolife.com/news/2025/06/street-fighter-6s-switch-2-version-declared-tournament-legal-by-capcom"/>
+        <updated>2025-06-13T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Good form.
+Street Fighter 6 launched for the Switch 2 last week and if you've been wanting to throw your support behind this particular version of the game, but aren't confident it will be supported on the same level as other platforms, we've got some good news.
+As highlighted by EventHubs, the Nintendo version has been declared tournament legal, which means the Switch 2 version is now officially acceptable for online and offline tournaments according to Capcom's Pro Tour website. This update originally came into effect on 9th June, just days after the release of the game on Nintendo's hybrid platform.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -134,7 +183,7 @@ Hell Clock is the best-looking and best-playing game on this list and I cannot w
         <id>https://www.nintendolife.com/#article-183857</id>
         <link href="https://www.nintendolife.com/news/2025/06/zelda-tears-of-the-kingdom-and-breath-of-the-wild-updates-now-live-here-are-the-full-patch-notes"/>
         <updated>2025-06-13T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Download them today.
+        <summary type="html"><![CDATA[Download both updates today.
 Following the release of Switch 2 editions of The Legend of Zelda: Tears of the Kingdom and Breath of the Wild last week (and launch updates), Nintendo has now rolled out a few post-launch updates.
 These will be applied to all versions and include some fixes tied to improving the overall gameplay experience as well as some revisions to specific texts. Here's the full rundown, courtesy of Nintendo's official support page:
 Read the full article on nintendolife.com]]></summary>
@@ -776,7 +825,7 @@ Read more...]]></summary>
         <updated>2025-06-12T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Includes all DLC and bonus content.
 Nippon Ichi Software has announced that it will be launching Disgaea 7 Complete in Autumn 2025 on the Nintendo Switch 2.
-Originally released in 2023 as Disgaea 7: Vows of the Virtueless, a Complete Edition launched exclusively in Japan the following year on Switch, PS5, and PS4. A Western release wasn't confirmed at the time, and now it seems that this is exclusive to the Switch 2.
+Originally released in 2023 as Disgaea 7: Vows of the Virtueless, a Complete Edition launched exclusively in Japan the following year on Switch, PS5, and PS4. A Western release wasn't confirmed at the time, and now it seems that this is exclusive to the Switch 2. 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1232,16 +1281,6 @@ I wasn’t really expecting a storyline to follow, at all, let alone being so in
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PHP má 30 rokov]]></title>
-        <id>www.root.cz-actuality-48411</id>
-        <link href="https://www.root.cz/zpravicky/php-ma-30-rokov/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-12T10:44:19.000Z</updated>
-        <summary type="html"><![CDATA[Pred tridsiatimi rokmi, 8. júna 1995, bola zverejnená prvá verejná verzia programovacieho jazyka PHP. Pôvodne vzniklo ako súbor jednoduchých skriptov na monitorovanie návštevnosti webových stránok, no časom sa vyvinulo na najrozšírenejší serverový jazyk, ktorý dnes poháňa vyše 70 % všetkých webov.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: johny)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Video: Here's How Splatoon 3 On Switch 2 Improves Visuals And Performance]]></title>
         <id>https://www.nintendolife.com/#article-183813</id>
         <link href="https://www.nintendolife.com/news/2025/06/video-heres-how-splatoon-3-on-switch-2-improves-visuals-and-performance"/>
@@ -1338,16 +1377,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interpol zneškodnil útočníky používající více než 20 000 škodlivých IP adres]]></title>
-        <id>www.root.cz-actuality-48408</id>
-        <link href="https://www.root.cz/zpravicky/interpol-v-ramci-rozsahleho-zasahu-zneskodnil-vice-nez-20-000-skodlivych-ip-adres/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-12T09:13:52.000Z</updated>
-        <summary type="html"><![CDATA[Interpol v rámci společná operace s kódovým označením Operation Secure zneškodnila útočníky zneučívající více než 20 000 škodlivých IP adres. Šlo celkem o 69 útočníků zabývajícími se krádežemi informací. Interpol přitom spolupracoval se zástupci 26 zemí a celou řadou partnerů, jako jsou Group-IB, Kaspersky a Trend Micro.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Fantasy Life i Update Lands On Switch 1 & 2, Here Are The Full Patch Notes]]></title>
         <id>https://www.nintendolife.com/#article-183809</id>
         <link href="https://www.nintendolife.com/news/2025/06/new-fantasy-life-i-update-lands-on-switch-1-and-2-here-are-the-full-patch-notes"/>
@@ -1358,16 +1387,6 @@ The ver. 1.3.0 update includes new features like an adjusted lock-on setting, a 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wikipedie po odporu redaktorů pozastavuje tvorbu souhrnů generovaných umělou inteligencí]]></title>
-        <id>www.root.cz-actuality-48405</id>
-        <link href="https://www.root.cz/zpravicky/wikipedie-po-odporu-redaktoru-pozastavuje-tvorbu-souhrnu-generovanych-umelou-inteligenci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-12T08:27:18.000Z</updated>
-        <summary type="html"><![CDATA[Nadace Wikimedia Foundation zastavila experiment, který počítal se zobrazováním souhrnů generovaných umělou inteligencí na vrcholu článků. Došlo k tomu poté, co komunita dobrovolných editorů této platformy reagovala na návrh převážně negativně. Nadace oznámila dvoutýdenní mobilní test 2. června a už o den později jej pozastavila po desítkách kritických komentářů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -1398,36 +1417,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Vyloučení technologií, které by mohly představovat bezpečnostní riziko pro stát, má umožnit zákon o kybernetické bezpečnosti, který včera Senát schválil spolu s novelami navazujících právních předpisů. Norma, kterou nyní dostane k podpisu prezident, počítá rovněž s prověřováním dodavatelů technologií pro stát. Normy mají nabýt účinnosti od třetího měsíce po jejich vyhlášení ve Sbírce zákonů.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple představil nástroj Container pro běh linuxových kontejnerů v macOS]]></title>
-        <id>www.root.cz-actuality-48402</id>
-        <link href="https://www.root.cz/zpravicky/apple-predstavil-nastroj-container-pro-beh-linuxovych-kontejneru-v-macos/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-12T07:42:59.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Apple zveřejnila na GitHubu nový vývojářský nástroj s názvem Container, který nabízí nový přístup ke spouštění linuxových kontejnerů přímo v systému macOS. Na rozdíl od Dockeru nebo Podmanu je tento nástroj navržen tak, aby se v ekosystému Apple cítil jako doma, a napojuje se na subsystémy, které jsou v operačním systému již zabudované.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Specifikace PCI Express 7.0 zveřejněna spolu s optickým propojením PCIe]]></title>
-        <id>www.root.cz-actuality-48399</id>
-        <link href="https://www.root.cz/zpravicky/specifikace-pci-express-7-0-zverejnena-spolu-s-optickym-propojenim-pcie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-12T06:53:37.000Z</updated>
-        <summary type="html"><![CDATA[PCI Express 7.0 byl ohlášen již v roce 2022 s tím, že přijde v roce 2025 s rychlostí 128 GT/s. Od té doby byly zveřejněny návrhy specifikací, dnes PCI-SIG oznamuje oficiální vydání specifikace PCI Express 7.0 spolu s novým řešením PCIe Optical Interconnect Solution pro optické spoje mezi zařízeními například v rámci datacentra.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 10 končí s podporou 32 bitů a x86-64-v2, naopak přidává RISC-V]]></title>
-        <id>www.root.cz-actuality-48396</id>
-        <link href="https://www.root.cz/zpravicky/rocky-linux-10-konci-s-podporou-32-bitu-a-x86-64-v2-naopak-pridava-risc-v/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-12T06:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Po vydání Red Hat Enterprise Linuxu 10 a následujícím uvolnění AlmaLinuxu 10 je tu také Rocky Linux 10. Stejně jako RHEL 10 odstraňuje podporu starší architektury x86–64-v2 a pro běh je nutné mít x86–64-v3. Podporovány jsou architektury x86_64, riscv64, aarch64, ppc64le a s390×.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -1908,16 +1897,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Levná Nvidia GeForce RTX 5050 přijde v červenci]]></title>
-        <id>www.root.cz-actuality-48393</id>
-        <link href="https://www.root.cz/zpravicky/levna-nvidia-geforce-rtx-5050-prijde-v-cervenci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-11T16:58:50.000Z</updated>
-        <summary type="html"><![CDATA[Na GeForce GTX 1050 (Ti) navázala GeForce RTX 3050 a na ní za pár týdnů naváže nová GeForce RTX 5050. Tentokrát půjde o kartu se 130W spotřebou (či 120W – zdroje se různí) a 8 GB GDDR6 paměti, postavenou na nejnižší verzi GPU GB207–300 generace Blackwell.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to use Schedule 1 recipe calculator]]></title>
         <id>https://www.destructoid.com/?p=1048489</id>
         <link href="https://www.destructoid.com/how-to-use-schedule-1-recipe-calculator/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-use-schedule-1-recipe-calculator"/>
@@ -2133,16 +2112,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omezme přístup na sociální sítě až od 15 let, vyzývá Emmanuel Macron]]></title>
-        <id>www.root.cz-actuality-48390</id>
-        <link href="https://www.root.cz/zpravicky/omezme-pristup-na-socialni-site-az-od-15-let-vyzyva-emmanuel-macron/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-11T16:04:11.000Z</updated>
-        <summary type="html"><![CDATA[Po vlně euforie zavádějící moderní IT technologie do vzdělávacích procesů v posledních letech sílí spíše opačný trend. Snaha dát dětem možnost přirozeného rozvoje bez vlivu technologií, u kterých už z mnoha studií víme o negativním dopadu na kognitivní schopnosti či emoční stabilitu, je ve výsledku schována i za nejnovějším prohlášením francouzského prezidenta Emmanuela Macrona.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linus Torvalds Rejects The Idea Of Enabling DAMON By Default In The Linux Kernel]]></title>
         <id>https://www.phoronix.com/news/Linux-DAMON-By-Default-No</id>
         <link href="https://www.phoronix.com/news/Linux-DAMON-By-Default-No"/>
@@ -2178,19 +2147,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Mario Kart World: How To Access The Hidden LAN Mode Option]]></title>
-        <id>https://www.nintendolife.com/#article-183784</id>
-        <link href="https://www.nintendolife.com/guides/mario-kart-world-how-to-access-the-hidden-lan-mode-option"/>
-        <updated>2025-06-11T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[pLAN ahead.
-From the menu or settings screen, it might not appear that you can play Mario Kart World over LAN (Local Area Network).
-However, just like its predecessor, it's absolutely possible to play MKW via LAN mode - it's just hidden in the menu options. Here's how to find it...
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Familiar choppiness makes Dune: Awakening’s PC performance less of a smooth wormride]]></title>
         <id>https://www.rockpapershotgun.com/dune-awakening-pc-performance-best-settings</id>
         <link href="https://www.rockpapershotgun.com/dune-awakening-pc-performance-best-settings"/>
@@ -2214,6 +2170,18 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Onimusha: Way Of The Sword is a moody demon parry fest, but Sekiro can sleep easy for the moment]]></title>
+        <id>https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment</id>
+        <link href="https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment"/>
+        <updated>2025-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Towards the end of my hands-off demo for Onimusha: Way Of The Sword, Capcom introduced me to a bunch of ragamuffin ninjas who moult their injured selves when struck. It looks like they're springing out of their own dying heads, like Athena bursting from the skull of Zeus. That's the kind of freak factor I want from an action-horror series whose last major instalment released in 2006. A bit of gentle madness to blow the dust off. A generous pinch of vicious little weasels who won't fight fair, to lift this Edo-era yokai hunt above the ranks of action games that just want you to combo and parry ad nauseum. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Resident Evil: Requiem has its own version of Lady Dimitrescu, but I doubt you'll be thirsting for this hag]]></title>
         <id>https://www.rockpapershotgun.com/resident-evil-requiem-has-its-own-version-of-lady-dimitrescu-but-i-doubt-youll-be-thirsting-for-this-hag</id>
         <link href="https://www.rockpapershotgun.com/resident-evil-requiem-has-its-own-version-of-lady-dimitrescu-but-i-doubt-youll-be-thirsting-for-this-hag"/>
@@ -2233,18 +2201,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[In Capcom’s sci-fi third-person shooter Pragmata, you are a gruff and gun-toting astronaut called Hugh Williams who is exploring an AI-operated moon base with the help of a juvenile android, Diana. She rides on your back like a sinister blue-eyed goblin, her enormous mop of blonde hair flapping in the wind as Hugh jets around on his suit thrusters. 
 The notes of God Of Warlike deuteragonism here betray Pragmata’s dragged-out development – it was announced in 2020, when Dad & Sprog action games were all the rage, but was delayed "indefinitely" in 2023. Still, the game I played at this year’s Summer Game Fest didn’t seem greatly the worse for its long spell in cryostasis. It’s a slick thinking girl’s shooter and a gratifyingly bright and clicky piece of lunar set dressing, with shattering robot enemies that put me wistfully in mind of Binary Domain.
  Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onimusha: Way Of The Sword is a moody demon parry fest, but Sekiro can sleep easy for the moment]]></title>
-        <id>https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment</id>
-        <link href="https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment"/>
-        <updated>2025-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Towards the end of my hands-off demo for Onimusha: Way Of The Sword, Capcom introduced me to a bunch of ragamuffin ninjas who moult their injured selves when struck. It looks like they're springing out of their own dying heads, like Athena bursting from the skull of Zeus. That's the kind of freak factor I want from an action-horror series whose last major instalment released in 2006. A bit of gentle madness to blow the dust off. A generous pinch of vicious little weasels who won't fight fair, to lift this Edo-era yokai hunt above the ranks of action games that just want you to combo and parry ad nauseum. 
- 
-Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
         </author>
@@ -2278,16 +2234,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[El Capitan nadále nejvýkonnějším superpočítačem světa (TOP500, červen 2025)]]></title>
-        <id>www.root.cz-actuality-48387</id>
-        <link href="https://www.root.cz/zpravicky/el-capitan-nadale-nejvykonnejsim-superpocitacem-sveta-top500-cerven-2025/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-11T14:51:44.000Z</updated>
-        <summary type="html"><![CDATA[V pořadí 65. vydání žebříčku TOP500 je beze změny na čelní pozici. Nadále je nejvýkonnějším superpočítačem americký El Capitan. Stejně jako Frontier na druhé pozici a Aurora na třetí jde o stroje spadající pod laboratoře amerického ministerstva energetiky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -2356,16 +2302,6 @@ Rainbow Six Siege X Free Access Edition explained
 So, we know how the Rainbow Six Siege X Free Access Edition …]]></summary>
         <author>
             <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZoKB míří na podpis k prezidentovi]]></title>
-        <id>www.root.cz-actuality-48384</id>
-        <link href="https://www.root.cz/zpravicky/nzokb-miri-na-podpis-k-prezidentovi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-11T14:04:27.000Z</updated>
-        <summary type="html"><![CDATA[Nejdříve 25. dubna v Poslanecké sněmovně a dnes v Senátu prošel NZoKB, tedy nový zákon o kybernetické bezpečnosti.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Svatopluk Vít)</name>
         </author>
     </entry>
     <entry>
@@ -2526,16 +2462,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zabbix: monitorujte svou infrastrukturu a mějte ji pod kontrolou (školení)]]></title>
-        <id>www.root.cz-actuality-44644</id>
-        <link href="https://www.root.cz/zpravicky/zabbix-monitorujte-svou-infrastrukturu-a-mejte-ji-pod-kontrolou-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-11T07:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Provozujete vlastní infrastrukturu a chcete vědět, v jakém stavu se v každém okamžiku nachází? Zabbix vám umožní monitorovat infrastrukturu z pohledu sítí, tak i z pohledu operačních systémů až po aplikace. Přináší ucelené monitorovací řešení. Naučíme vás konfigurovat monitorovací systém Zabbix od základních kroků až po složité nízkoúrovňové objevování monitorovaných objektů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ubuntu Server Weighing Tmux vs. Screen, Wget vs. Curl]]></title>
         <id>https://www.phoronix.com/news/Ubuntu-Server-2025-Changes</id>
         <link href="https://www.phoronix.com/news/Ubuntu-Server-2025-Changes"/>
@@ -2546,32 +2472,12 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Android 16 přináší sdružování oznámení a rozšiřuje zabezpečení]]></title>
-        <id>www.root.cz-actuality-48381</id>
-        <link href="https://www.root.cz/zpravicky/android-16-prinasi-sdruzovani-oznameni-a-rozsiruje-zabezpeceni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-11T06:24:54.000Z</updated>
-        <summary type="html"><![CDATA[Po měsících spekulací a beta testování dnes společnost Google vydala operační systém Android 16. Nová verze už je k dispozici na telefonech Pixel, na přístrojích ostatních značek se uživatelé dočkají pravděpodobně v dalších měsících.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Good Science]]></title>
         <id>https://xkcd.com/3101/</id>
         <link href="https://xkcd.com/3101/"/>
         <updated>2025-06-11T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superpočítač El Capitan zůstává nejvýkonnějším superpočítačem na světě (TOP500 06/2025)]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/superpocitac-el-capitan-zustava-nejvykonnejsim-superpocitacem-na-svete-top500-06-2025</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/superpocitac-el-capitan-zustava-nejvykonnejsim-superpocitacem-na-svete-top500-06-2025"/>
-        <updated>2025-06-11T03:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Byl aktualizován seznam 500 nejvýkonnějších superpočítačů na světě TOP500. Nejvýkonnějším superpočítačem zůstává El Capitan od HPE (Cray) s výkonem 1,742 exaFLOPS. Druhý Frontier má výkon 1,353 exaFLOPS. Třetí Aurora má výkon 1,012 exaFLOPS. Nejvýkonnější český počítač C24 klesl na 165 místo. Karolina, GPU partition klesla na 195. místo a Karolina, CPU partition na 421. místo. Další přehledy a statistiky na stránkách projektu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2838,16 +2744,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Webové služby projektu GNOME jsou nyní plně sponzorovány Amazon/AWS]]></title>
-        <id>www.root.cz-actuality-48378</id>
-        <link href="https://www.root.cz/zpravicky/webove-sluzby-projektu-gnome-jsou-nyni-plne-sponzorovany-amazon-aws/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-10T17:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Dosud GNOME Foundation využívala pro projekt GNOME infrastrukturu Amazon S3. Jak ale projekt postupně roste o další a další částí (mimo jiné díky iniciativě Circles), potřeby na síťový provoz se stále zvyšují. GNOME tak požádalo Amazon, aby poskytoval veškerou webovou infrastrukturu pro GNOME a Amazon tuto věc odsouhlasil.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USN-7563-1: .NET vulnerability]]></title>
         <id>https://ubuntu.com/security/notices/USN-7563-1</id>
         <link href="https://ubuntu.com/security/notices/USN-7563-1"/>
@@ -2904,16 +2800,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD informuje o pokrocích v podpoře běhu na noteboocích]]></title>
-        <id>www.root.cz-actuality-48375</id>
-        <link href="https://www.root.cz/zpravicky/freebsd-informuje-o-pokrocich-v-podpore-behu-na-noteboocich/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-10T15:19:25.000Z</updated>
-        <summary type="html"><![CDATA[Zpráva za duben 2025 je stručná, ale pozitivní. Projekt FreeBSD vylepšuje podporu běhu na přenosných počítačích, a to i díky financím, které se mu dostaly. Pro použití s Wi-Fi sítěmi dostává systém aktualizované ovladače pro čipy Realtek ( rtw88/ rtw89), které jsou součástí vydání FreeBSD 14.3. Pro Intel Wi-Fi má systém k dispozici aktualizované firmwary spravované přes balíčkovací systém a zvyšuje se výkon TKIP Wi-Fi.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -3052,16 +2938,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 25.10 bez podpory běhu GNOME na X.Org]]></title>
-        <id>www.root.cz-actuality-48372</id>
-        <link href="https://www.root.cz/zpravicky/ubuntu-25-10-bez-podpory-behu-gnome-na-x-org/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-10T09:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Po Fedoře se i Canonical s Ubuntu zařazuje mezi distribuce, které s příštím vydáním plánují odstavit podporu běhu prostředí GNOME na X.Org Serveru. S podzimním Ubuntu tak přijde změna: systém poběží už jen na Waylandu, uvádí Jean-Baptiste Lallement z Canonicalu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Canonical Confirms Ubuntu 25.10 Will Drop Support For GNOME On X.Org]]></title>
         <id>https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org</id>
         <link href="https://www.phoronix.com/news/Ubuntu-25.10-No-GNOME-X.Org"/>
@@ -3092,36 +2968,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Virtuální Bastlírna vol. 51: česká open-source LoRa meteostanice]]></title>
-        <id>www.root.cz-actuality-48366</id>
-        <link href="https://www.root.cz/zpravicky/virtualni-bastlirna-vol-51-ceska-open-source-lora-meteostanice/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-10T07:51:19.000Z</updated>
-        <summary type="html"><![CDATA[Ač semestr ve škole právě končí, bastlíři ze studentského klubu Silicon Hill neodpočívají a opět se jako každý měsíc hlásí s pravidelným bastlířským setkáním Virtuální Bastlírna, kde si můžete s ostatními techniky popovídat jako u piva o novinkách, o elektronice, softwaru, vědě, technice obecně, ale také o bizarních tématech, která se za poslední měsíc na internetu vyskytla.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: bkralik)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Overviews znamenají dramatický pokles návštěvnosti a žádné klikání]]></title>
-        <id>www.root.cz-actuality-48363</id>
-        <link href="https://www.root.cz/zpravicky/ai-overviews-znamenaji-dramaticky-pokles-navstevnosti-a-zadne-klikani/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-10T07:36:37.000Z</updated>
-        <summary type="html"><![CDATA[Google před několika dny spustil celosvětově službu AI Overviews, která do výsledků vyhledávání přidává souhrn vytvořený jazykovým modelem Gemini. Místo prohlížení seznamu výsledků hledání na webových stránkách a klikání na odkazy, zda je na nich odpověď, vám nyní Google nabídne odpověď hned sám. Opět se tak vzdaluje od své role vyhledávače a stává se z něj více odpovídač.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RIPE NCC a ČTÚ se v novém memorandu zavazují k podpoře rozvoje českého internetu]]></title>
-        <id>www.root.cz-actuality-48360</id>
-        <link href="https://www.root.cz/zpravicky/ripe-ncc-a-ctu-se-v-novem-memorandu-zavazuji-k-podpore-rozvoje-ceskeho-internetu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-10T07:11:28.000Z</updated>
-        <summary type="html"><![CDATA[Organizace RIPE NCC a Český telekomunikační úřad (ČTÚ) podepsaly nové memorandum, které potvrzuje jejich závazek spolupracovat na společných aktivitách na podporu rozvoje stabilního a bezpečného internetu v České republice. Memorandum podepsali Hans Petter Holen, výkonný ředitel RIPE NCC, a Marek Ebert, předseda Rady ČTÚ, během konference ICANN 83 v Praze.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IO_uring Shows Promising Potential For Linux Accelerator Drivers]]></title>
         <id>https://www.phoronix.com/news/IO_uring-DRM-Accelerator-2025</id>
         <link href="https://www.phoronix.com/news/IO_uring-DRM-Accelerator-2025"/>
@@ -3129,16 +2975,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Last year there was some ideas raised around potentially making use of the Linux kernel's IO_uring functionality for graphics drivers to help with better performance and synchronization. It turns out Qualcomm engineers have recently been exploring IO_uring use for the DRM accelerator drivers with very promising results on their Cloud AI hardware in seeing around 50% speed-ups in ioctl execution time...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNS4EU spouští testovací provoz DNS resolverů s volitelnou ochranou]]></title>
-        <id>www.root.cz-actuality-48357</id>
-        <link href="https://www.root.cz/zpravicky/dns4eu-spousti-testovaci-provoz-dns-resolveru-s-volitelnou-ochranou/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-10T06:35:58.000Z</updated>
-        <summary type="html"><![CDATA[Služba DNS4EU oznámila spuštění pilotního testovacího provozu svého DNS resolveru. Ten je určen primárně pro obyvatele Evropy, ale je možné jej použít odkudkoliv ze světa. Provozovatelé ale upozorňují, že vzhledem k vestavěné ochraně proti DoS a nastaveným limitům není veřejný resolver vhodný pro zpracování rozsáhlého provozu DNS typického pro poskytovatele internetových služeb nebo velké firmy. Pro poskytovatele připojení, vládní organizace a firmy jsou vyhrazeny samostatné resolvery.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -3276,16 +3112,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[While Intel has supported CPUID Faulting on processors going back to Ivy Bridge and supported this feature in the Linux kernel since early 2017, only now the AMD support is being wired up and making use of the existing Intel code paths...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mozilla varuje před Meta AI kvůli soukromí]]></title>
-        <id>www.root.cz-actuality-48354</id>
-        <link href="https://www.root.cz/zpravicky/mozilla-varuje-pred-meta-ai-kvuli-soukromi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-09T18:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Meta koncem dubna uvedla aplikaci Meta AI. Zde můžete využívat velký jazykový model LLama 4. Obsahuje i funkci „Discover feed“, která mixuje prompty od ostatních uživatelů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3433,25 +3259,6 @@ trailer headers. A remo…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7561-1: AMD Microcode vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7561-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7561-1"/>
-        <updated>2025-06-09T13:38:02.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that AMD Microcode incorrectly handled memory addresses.
-An attacker with local administrator privilege could possibly use this
-issue to cause loss of integrity of a confidential guest running under AMD
-SEV-SNP. (CVE-2023-20584, CVE-2023-31356)
-
-Josh Eads, Kristoffer Janke, Eduardo Nava, Tavis Ormandy and Matteo Rizzo
-discovered that AMD Microcode incorrectly verified signatures. An attacker
-with local administrator privilege could possibly use this issue to cause
-loss of confidentiality and integrity of a confidential guest running under
-AMD SEV-SNP. (CVE-2024-56161)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[At Fate’s End is a witchy swordy slashy from the Spiritfarer developers]]></title>
         <id>https://www.rockpapershotgun.com/at-fates-end-is-a-witchy-swordy-slashy-from-the-spiritfarer-developers</id>
         <link href="https://www.rockpapershotgun.com/at-fates-end-is-a-witchy-swordy-slashy-from-the-spiritfarer-developers"/>
@@ -3474,16 +3281,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Přihlaste přednášku na LinuxDays 2025, konference proběhne 4. a 5. října]]></title>
-        <id>www.root.cz-actuality-48351</id>
-        <link href="https://www.root.cz/zpravicky/prihlaste-prednasku-na-linuxdays-2025-konference-probehne-4-a-5-rijna/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-09T12:24:19.000Z</updated>
-        <summary type="html"><![CDATA[Další ročník konference LinuxDays začal přijímat přednášky. Pokud máte co říct, můžete už teď přihlásit své téma. Organizátory zajímají především témata týkající se Linuxu, open source, sítí, bezpečnosti, vývoje a podobně. Mezi návštěvníky jsou jak začátečníci, tak i velmi zkušení odborníci. Nemusíte se tedy bát přidat své téma.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don't worry, confused skongers, Hollow Knight: Silksong's release definitely isn't tied to that Xbox handheld]]></title>
         <id>https://www.rockpapershotgun.com/dont-worry-confused-skongers-hollow-knight-silksongs-release-definitely-isnt-tied-to-that-xbox-handheld</id>
         <link href="https://www.rockpapershotgun.com/dont-worry-confused-skongers-hollow-knight-silksongs-release-definitely-isnt-tied-to-that-xbox-handheld"/>
@@ -3496,26 +3293,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Claude 4: Nová generácia AI modelov od Anthropic]]></title>
-        <id>www.root.cz-actuality-48345</id>
-        <link href="https://www.root.cz/zpravicky/claude-4-nova-generacia-ai-modelov-od-anthropic/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-09T11:21:18.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic v máji 2025 predstavil modely Claude Opus 4 a Claude Sonnet 4, ktoré nastavujú nový štandard v oblasti generatívnej umelej inteligencie. Claude 4 prináša špičkové schopnosti v programovaní, pokročilé logické uvažovanie a agentné workflow, čím sa radí medzi najvyspelejšie AI modely súčasnosti.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: johny)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft oznámil mobilní konzoli pro hry ASUS ROG Xbox Ally]]></title>
-        <id>www.root.cz-actuality-48348</id>
-        <link href="https://www.root.cz/zpravicky/microsoft-oznamil-mobilni-konzoli-pro-hry-rog-xbox-ally/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-09T11:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Po úspěchu mobilních herních konzolí Nintendo Switch a Steam Deck včera oznámil svoji mobilní herní konzoli také Microsoft. Jde o ASUS ROG Xbox Ally. Cena zatím nebyla oznámena. Zařízení by měla být v prodeji před Vánoci letošního roku.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mold 2.40.1 Delivers More Performance - Including A New Algorithm Generated By ChatGPT]]></title>
         <id>https://www.phoronix.com/news/Mold-2.40.1-Released</id>
         <link href="https://www.phoronix.com/news/Mold-2.40.1-Released"/>
@@ -3523,16 +3300,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[While a point release, Mold 2.40.1 is another notable step forward for this high-speed linker alternative to GNU LD/Gold and LLVM LLD. Mold 2.40.1 brings yet more performance improvements...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Mint pracuje na přihlašování otiskem a forkuje knihovnu libAdwaita]]></title>
-        <id>www.root.cz-actuality-48342</id>
-        <link href="https://www.root.cz/zpravicky/linux-mint-pracuje-na-prihlasovani-otiskem-a-forkuje-knihovnu-libadwaita/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-09T10:36:54.000Z</updated>
-        <summary type="html"><![CDATA[Linux Mint na svém blogu představil novinky za minulý měsíc. Jak jsme již dnes psali v článku, Linux Mint 20.x dosáhl konce životnosti. V Linux Mint 22.2, který očekáváme o prázdninách, se objeví nová aplikace Fingwit pro přihlašování otiskem prstu. Podporováno je přihlašování, screen saver, sudo a pkexec (sudo pro GUI aplikace).]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3567,16 +3334,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft vydal skript, který obnoví prázdný adresář C:\Inetpub]]></title>
-        <id>www.root.cz-actuality-48339</id>
-        <link href="https://www.root.cz/zpravicky/microsoft-vydal-skript-ktery-obnovi-prazdny-adresar-c-inetpub/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-09T08:02:16.000Z</updated>
-        <summary type="html"><![CDATA[Po dubnových aktualizacích si uživatelé Windows všimli nového prázdného adresáře  C:\Inetpub. Někteří ho smazali, avšak adresář je součástí záplaty CVE-2025–21204, která se týká IIS, ale postihuje i uživatele, kteří IIS nemají nainstalováno.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4958,17 +4715,6 @@ Move AGP to configurations.register to avoid eager realization of configurations
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pirate IPTV Consumed By 30% of Swedes, Including 50% of Men Under 35]]></title>
-        <id>https://torrentfreak.com/?p=267935</id>
-        <link href="https://torrentfreak.com/pirate-iptv-consumed-by-30-of-swedes-including-50-of-men-under-35-290529/"/>
-        <updated>2025-05-29T08:14:46.000Z</updated>
-        <summary type="html"><![CDATA[The results of the latest consumer surveys, carried out by Mediavision in the Nordic countries, are a mixed bag of bad news, and slightly less bad news. On one hand, consumption of pirate IPTV services in Sweden has dropped two points, from 16% of all households in 2024 to 14% in 2025. On the other, 30% of over 15-year-olds consume content illegally every month, a figure that rises to over 50% among men under 35.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
