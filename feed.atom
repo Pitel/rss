@@ -1,10 +1,102 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-15T12:26:39.233Z</id>
+    <id>urn:2025-06-15T14:12:08.116Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-15T12:26:39.233Z</updated>
+    <updated>2025-06-15T14:12:08.116Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.17 Looks Like It Could Go Ahead And Make SMP Support Unconditional]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.17-Maybe-SMP-Uncond</id>
+        <link href="https://www.phoronix.com/news/Linux-6.17-Maybe-SMP-Uncond"/>
+        <updated>2025-06-15T13:09:45.000Z</updated>
+        <summary type="html"><![CDATA[Back in May a big patch series was published for reworking the Linux kernel to make the SMP support unconditional. Right now those that happen to be running Linux in a uniprocessor (1 CPU core) configuration can build with "CONFIG_SMP" disabled but the proposed patches would make symmetric multi-processing support always present. Those patches took a step forward this week and could be merged for the Linux 6.17 cycle later in the summer...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Týden v GNOME a Týden v KDE Plasma (13. a 14. června 2025)]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/tyden-v-gnome-a-tyden-v-kde-plasma-13.-a-14.-cervna-2025</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/tyden-v-gnome-a-tyden-v-kde-plasma-13.-a-14.-cervna-2025"/>
+        <updated>2025-06-15T13:04:25.000Z</updated>
+        <summary type="html"><![CDATA[Na čem aktuálně pracují vývojáři GNOME a KDE Plasma? Pravidelný přehled novinek v Týden v GNOME a Týden v KDE Plasma.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Games We Loved And Hated This Week, And Other Kotaku Opinions]]></title>
+        <id>1851784493</id>
+        <link href="https://kotaku.com/switch-2-pragmata-crimson-desert-dragon-age-review-1851784493"/>
+        <updated>2025-06-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Opinions are like Kotaku —  they’re a bunch of assholes! I think that’s how that saying goes. Anyway, this week, we liked Pragmata and hated Crimson Desert, felt skeptical of Xbox’s forthcoming handheld and thankful for the Switch 2, and, perhaps most urgently, had a great many things to say about promotional popcorn…
+Read more...]]></summary>
+        <author>
+            <name>Kotaku Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Three Pokemon Center “Special Boxes” Releasing in Japan with Unique Pikachu Promos!]]></title>
+        <id>156105</id>
+        <link href="https://www.pokebeach.com/forums/threads/three-pokemon-center-%E2%80%9Cspecial-boxes%E2%80%9D-releasing-in-japan-with-unique-pikachu-promos.156105/"/>
+        <updated>2025-06-15T12:45:29.000Z</updated>
+        <summary type="html"><![CDATA[To celebrate the reopening of Japan's Pokemon Centers in Tohoku, Hiroshima, and Fukuoka, three "Special Boxes" will release today on the Pokemon Center's website for 2,090 yen each.
+
+			
+				
+			
+			
+				
+			
+			
+				
+			
+		
+
+Each box will come with a foil promo of Tohoku's Pikachu, Hiroshima's...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smash 6's new pokemon]]></title>
+        <id>155738</id>
+        <link href="https://www.pokebeach.com/forums/threads/smash-6s-new-pokemon.155738/"/>
+        <updated>2025-06-15T12:34:36.000Z</updated>
+        <summary type="html"><![CDATA[Should smash 6 have Sword and Shield, Scarlet and Violet, Legends Arceus, or Legends Z-A starter pokemon
+
+I'm personally rooting for Feraligator, Inteleon, or Scorbunny]]></summary>
+        <author>
+            <name>Myself :}</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VTCG Adventure - Snippits (and others)]]></title>
+        <id>155779</id>
+        <link href="https://www.pokebeach.com/forums/threads/vtcg-adventure-snippits-and-others.155779/"/>
+        <updated>2025-06-15T12:34:03.000Z</updated>
+        <summary type="html"><![CDATA[The initial Idea:
+
+Its been XX years since the Pokemon fad ended. But the Co has a new idea to take advantage of new tech to revitalize their flagging franchise - VR TCG!!!
+
+And what better way to introduce Pokemon to the kids that with the most recent Pokemon series - Gen1!
+
+That's right. We're...]]></summary>
+        <author>
+            <name>Lord Hierarch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokemon world event lottery winning rate]]></title>
+        <id>154039</id>
+        <link href="https://www.pokebeach.com/forums/threads/pokemon-world-event-lottery-winning-rate.154039/"/>
+        <updated>2025-06-15T12:33:06.000Z</updated>
+        <summary type="html"><![CDATA[4 of us entered the lottery for the world events. Everyone entered 5 events. We won only one of them. The winning rate is 1/20. How about you guys?]]></summary>
+        <author>
+            <name>orang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Latest X.Org Server Activity Are A Lot Of Code Reverts]]></title>
         <id>https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts</id>
@@ -1080,29 +1172,6 @@ Helldivers 2…]]></summary>
         <summary type="html"><![CDATA[Byla vydána (𝕏) nová verze 2025.2 linuxové distribuce navržené pro digitální forenzní analýzu a penetrační testování Kali Linux (Wikipedie). Přehled novinek se seznamem nových nástrojů v oficiálním oznámení na blogu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Pokemon Center “Special Boxes” Releasing in Japan with Unique Pikachu Promos!]]></title>
-        <id>156105</id>
-        <link href="https://www.pokebeach.com/forums/threads/three-pokemon-center-%E2%80%9Cspecial-boxes%E2%80%9D-releasing-in-japan-with-unique-pikachu-promos.156105/"/>
-        <updated>2025-06-13T18:30:01.000Z</updated>
-        <summary type="html"><![CDATA[To celebrate the reopening of Japan's Pokemon Centers in Tohoku, Hiroshima, and Fukuoka, three "Special Boxes" will release today on the Pokemon Center's website for 2,090 yen each.
-
-			
-				
-			
-			
-				
-			
-			
-				
-			
-		
-
-Each box will come with a foil promo of Tohoku's Pikachu, Hiroshima's...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -2884,16 +2953,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Studia Disney a Universal žalují firmu Midjourney kvůli autorským právům]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/studia-disney-a-universal-zaluji-firmu-midjourney-kvuli-autorskym-pravum</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/studia-disney-a-universal-zaluji-firmu-midjourney-kvuli-autorskym-pravum"/>
-        <updated>2025-06-11T20:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Americká filmová studia Walt Disney a Universal Pictures podala žalobu na provozovatele populárního generátoru obrázků pomocí umělé inteligence (AI) Midjourney. Zdůvodňují to údajným porušováním autorských práv. V žalobě podané u federálního soudu v Los Angeles označují firmu za „bezednou jámu plagiátorství“, neboť podle nich bez povolení bezostyšně kopíruje a šíří postavy z filmů jako Star Wars, Ledové království nebo Já, padouch, aniž by do nich investovala jediný cent.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Long Of A Ride Is Mario Kart World?]]></title>
         <id>1851784366</id>
         <link href="https://kotaku.com/mario-kart-world-how-long-to-beat-open-world-campaign-1851784366"/>
@@ -3180,16 +3239,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ultra Ethernet Consortium Publishes UEC 1.0 Specification]]></title>
-        <id>https://www.phoronix.com/news/Ultra-Ethernet-1.0-UEC</id>
-        <link href="https://www.phoronix.com/news/Ultra-Ethernet-1.0-UEC"/>
-        <updated>2025-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Ultra Ethernet Consortium today published the UEC Specification 1.0 release. Nearly two years ago the Ultra Ethernet Consortium was started by Intel, AMD, Meta, HPE, and others and hosted by the Linux Foundation for open and high performance networking with an emphasis on AI and HPC...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Still Good as Gold — Gholdengo for NAIC]]></title>
         <id>156095</id>
         <link href="https://www.pokebeach.com/forums/threads/still-good-as-gold-%E2%80%94-gholdengo-for-naic.156095/"/>
@@ -3288,17 +3337,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 Promising Games I Played At Summer Game Fest 2025]]></title>
-        <id>1851784271</id>
-        <link href="https://kotaku.com/summer-game-fest-previews-sonic-resident-evil-play-days-1851784271"/>
-        <updated>2025-06-11T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This year’s Summer Game Fest was a weird one. On a show-wide scale, Geoff Keighley’s Not-E3 was lacking the the big, juggernaut announcements we usually expect from a June video game showcase. That understated showing extended to the actual “Play Days” show floor in Los Angeles, where developers gave press and content…
-Read more...]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
         </author>
     </entry>
     <entry>
@@ -3891,26 +3929,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exclusive Maushold ex, Gholdengo ex, and Rika Secret Rares in Chinese “Bonus Turn” Set!]]></title>
-        <id>156072</id>
-        <link href="https://www.pokebeach.com/forums/threads/exclusive-maushold-ex-gholdengo-ex-and-rika-secret-rares-in-chinese-%E2%80%9Cbonus-turn%E2%80%9D-set.156072/"/>
-        <updated>2025-06-09T15:11:41.000Z</updated>
-        <summary type="html"><![CDATA[China's next Scarlet & Violet set will be named Bonus Turn and will release on July 18th. It will include cards from 2023's Obsidian Flames and Paradox Rift.
-
-			
-				
-			
-			
-				
-			
-		
-
-The set will feature new Special Illustration Rares for Rika and Maushold ex and a new gold version of...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USN-7562-1: Tomcat vulnerabilities]]></title>
         <id>https://ubuntu.com/security/notices/USN-7562-1</id>
         <link href="https://ubuntu.com/security/notices/USN-7562-1"/>
@@ -4262,27 +4280,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Brendan Caldwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan to Print More “Black Bolt” and “White Flare” Products!]]></title>
-        <id>156069</id>
-        <link href="https://www.pokebeach.com/forums/threads/japan-to-print-more-%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare%E2%80%9D-products.156069/"/>
-        <updated>2025-06-08T17:07:07.000Z</updated>
-        <summary type="html"><![CDATA[Creatures has announced they are currently printing more Black Bolt and White Flare products! They will be sold in Japan starting from mid-July to August -- and thereafter.
-The company states that regardless of whether they make public announcements, they are always working to print more of the...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Error card hypno 2016 illusion. Tomokazu Komiya]]></title>
-        <id>156070</id>
-        <link href="https://www.pokebeach.com/forums/threads/error-card-hypno-2016-illusion-tomokazu-komiya.156070/"/>
-        <updated>2025-06-08T16:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Was wonder if anyone has any idea how much this could be worth it might bet nothing but noticed it at random while looking through my cards.]]></summary>
-        <author>
-            <name>Mocking_jay17</name>
         </author>
     </entry>
     <entry>
