@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-15T10:15:18.208Z</id>
+    <id>urn:2025-06-15T12:26:39.233Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-15T10:15:18.208Z</updated>
+    <updated>2025-06-15T12:26:39.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Latest X.Org Server Activity Are A Lot Of Code Reverts]]></title>
+        <id>https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts</id>
+        <link href="https://www.phoronix.com/news/X.Org-Server-Lots-Of-Reverts"/>
+        <updated>2025-06-15T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[The X.Org Server has been seeing a lot of commits this week... to revert bad code...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphics Driver Changes Begin Queuing Ahead Of Linux 6.17]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.17-DRM-Misc-Next-Start</id>
+        <link href="https://www.phoronix.com/news/Linux-6.17-DRM-Misc-Next-Start"/>
+        <updated>2025-06-15T10:38:30.000Z</updated>
+        <summary type="html"><![CDATA[While the Linux 6.16 merge window just passed one week ago, already there are new feature changes beginning to queue for the Linux 6.17 kernel later in the summer...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[16-bit Medium Precision Improvements Merged For AMD Radeon Mesa Code]]></title>
+        <id>https://www.phoronix.com/news/RadeonSI-Mesa-25.2-mediump</id>
+        <link href="https://www.phoronix.com/news/RadeonSI-Mesa-25.2-mediump"/>
+        <updated>2025-06-15T10:34:23.000Z</updated>
+        <summary type="html"><![CDATA[Prominent AMD Mesa developer Marek Olšák this week landed a number of fixes for the RadeonSI Gallium3D driver code in working to enable medium precision "mediump" support for this open-source graphics driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-765</id>
@@ -55,8 +85,8 @@ Only one copy each can be redeemed...]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Týden na ScienceMag.cz: Může se ChatGPT stát živou bytostí? Popovídejte si s prvním živým kamenem z Vysočiny]]></title>
-        <id>http://www.abclinuxu.cznull/</id>
-        <link href="http://www.abclinuxu.cznull/"/>
+        <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-muze-se-chatgpt-stat-zivou-bytosti-popovidejte-si-s-prvnim-zivym-kamenem-z-vysociny</id>
+        <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-muze-se-chatgpt-stat-zivou-bytosti-popovidejte-si-s-prvnim-zivym-kamenem-z-vysociny"/>
         <updated>2025-06-15T08:00:00.000Z</updated>
         <summary type="html"><![CDATA[Kde se berou planety na vzdálených oběžných drahách. Nová studie podporuje existenci Planety 9. Webbův dalekohled pomáhá zpřesnit hodnotu Hubbleovy konstanty. Fanzor2, eukaryotická obdoba bakteriálního CRISPR-Cas, je dalším příslibem pro editování genomu.]]></summary>
         <author>
@@ -3215,16 +3245,6 @@ arbitrary code execution.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taking AMD Ryzen AI Max Performance To The Max With Clear Linux & CachyOS]]></title>
-        <id>https://www.phoronix.com/review/amd-strix-halo-linux-7</id>
-        <link href="https://www.phoronix.com/review/amd-strix-halo-linux-7"/>
-        <updated>2025-06-11T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the HP ZBook Ultra G1a Strix Halo laptop sporting the AMD Ryzen AI Max+ PRO 395 with Radeon 8060S Graphics it offers incredible performance potential as shown in my many benchmarks over the past month on Ubuntu Linux. But if wanting to push the Ryzen AI Max even further, with performance-optimized Linux distributions like CachyOS and Intel's Clear Linux it's possible to tap some additional performance out of this 16-core Zen 5 laptop.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The 5 Strongest Non-Ex Pokémon To Use In Pokémon TCG Pocket]]></title>
         <id>1851784250</id>
         <link href="https://kotaku.com/pokemon-tcg-pocket-non-ex-pokemon-strongest-1851784250"/>
@@ -3244,16 +3264,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>Timothy Monbleau</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DragonFlyBSD Updates Its Graphics Drivers With New GPU Support But Still Years Behind]]></title>
-        <id>https://www.phoronix.com/news/DragonFlyBSD-DRM-Linux-4.20.17</id>
-        <link href="https://www.phoronix.com/news/DragonFlyBSD-DRM-Linux-4.20.17"/>
-        <updated>2025-06-11T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DragonFlyBSD has updated its Direct Rendering Manager (DRM) kernel graphics/display driver code that it ports over from what's available in the upstream Linux kernel. The latest revision to the DragonFlyBSD kernel graphics driver code enables support for some new hardware platforms but remains woefully behind the latest generation dGPUs/iGPUs and what is found in the upstream Linux kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3349,16 +3359,6 @@ This is Mad Metal, though, an indie game whose murderous enemy cars have minds o
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Iris Linux Driver Lands Shared Virtual Memory Support]]></title>
-        <id>https://www.phoronix.com/news/Intel-Iris-Mesa-SVM</id>
-        <link href="https://www.phoronix.com/news/Intel-Iris-Mesa-SVM"/>
-        <updated>2025-06-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In late May the Rust-written "Rusticl" OpenCL driver within Mesa landed support for Shared Virtual Memory (SVM). Following that, the Intel Iris Gallium3D driver has now seen its support merged for SVM...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
