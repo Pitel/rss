@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-16T22:14:06.915Z</id>
+    <id>urn:2025-06-17T01:11:38.378Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-16T22:14:06.915Z</updated>
+    <updated>2025-06-17T01:11:38.378Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Reportedly Banning Switch 2's Using MIG Cartridges]]></title>
+        <id>https://www.nintendolife.com/#article-183983</id>
+        <link href="https://www.nintendolife.com/news/2025/06/nintendo-reportedly-banning-switch-2s-using-mig-cartridges"/>
+        <updated>2025-06-17T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[A recent firmware update made the carts compatible.
+Nintendo cracked down on piracy in all sorts of ways during the Switch generation and it's now reportedly taking action on the Switch 2.
+As highlighted by Kotaku, Nintendo is seemingly banning anyone found using the MIG Switch cartridge on its new hybrid system.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Mesa Drivers Now Properly Report Battlemage BMG-G31 GPUs]]></title>
+        <id>https://www.phoronix.com/news/Intel-BMG-G31-Mesa-25.2</id>
+        <link href="https://www.phoronix.com/news/Intel-BMG-G31-Mesa-25.2"/>
+        <updated>2025-06-17T00:28:17.000Z</updated>
+        <summary type="html"><![CDATA[Posted by Intel engineers a few days ago were a Mesa patch to begin recognizing some Intel Battlemage graphics cards as being the larger "BMG G31" variant. This evening those patches were merged for Mesa 25.2 for what's rumored to be potentially the Arc B770 graphics cards to launch later in the year...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nexus Mods owner sells site, assuring minimal changes—but not everyone is convinced]]></title>
+        <id>https://www.destructoid.com/?p=1079281</id>
+        <link href="https://www.destructoid.com/nexus-mods-owner-sells-site-assuring-minimal-changes-but-not-everyone-is-convinced/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nexus-mods-owner-sells-site-assuring-minimal-changes-but-not-everyone-is-convinced"/>
+        <updated>2025-06-16T22:23:31.000Z</updated>
+        <summary type="html"><![CDATA[Nexus Mods' long-term owner is selling the site and stepping down from his position, he announced in a Monday post. Two new people are to take the helm, known only as Foledinho and Rapsak (Victor and Marinus, respectively), with the owner assuring minimal changes. However, the community doesn't seem all too thrilled.
+
+
+"After almost 24 years of running Nexus Mods, the time has come for me to step back from the day-to-day management of the site," Nexus Mods' founder Dark0ne wrote in the June 16 community update. He said that while the site has been a passion of his for over two decades, the "strain of being responsible for the behemoth I created has taken its toll." Thus, he would be selling the site to two new owners, which Dark0ne believes are "the exact right people for the task."
+
+
+Both…]]></summary>
+        <author>
+            <name>Andrej Barovic</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Rite of the Nine weapons in Destiny 2]]></title>
         <id>https://www.destructoid.com/?p=1079194</id>
@@ -1453,6 +1492,46 @@ For finding collectibles, secrets, or to simply progress through the story, ther
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7569-1: Dojo vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7569-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7569-1"/>
+        <updated>2025-06-16T02:55:56.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Dojo did not correctly handle DataGrids. An
+attacker could possibly use this issue to execute arbitrary code. This
+issue only affected Ubuntu 16.04 LTS and Ubuntu 18.04 LTS. 
+(CVE-2018-15494)
+
+It was discovered that Dojo was vulnerable to prototype pollution. An
+attacker could possibly use this issue to execute arbitrary code.
+(CVE-2021-23450)
+
+Jonathan Leitschuh discovered that Dojo did not correctly sanitize
+certain inputs. An attacker could possibly use this issue to execute a
+cross-site scripting (XSS) attack. This issue only affected
+Ubuntu 16.04 LTS, Ubuntu 18.04 LTS and Ubuntu 20.04 LTS. 
+(CVE-2019-10785, CVE-2020-4051)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7568-1: Requests vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7568-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7568-1"/>
+        <updated>2025-06-16T01:37:42.000Z</updated>
+        <summary type="html"><![CDATA[Dennis Brinkrolf and Tobias Funke discovered that Requests did not
+correctly handle certain HTTP headers. A remote attacker could possibly
+use this issue to leak sensitive information. This issue only affected
+Ubuntu 14.04 LTS. (CVE-2023-32681)
+
+Juho Forsén discovered that Requests did not correctly parse URLs. A
+remote attacker could possibly use this issue to leak sensitive
+information. (CVE-2024-47081)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 06/16/2025]]></title>
         <id>https://torrentfreak.com/?p=186926</id>
         <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
@@ -1598,42 +1677,6 @@ All major Rimworld Odyssey DLC features
 
 
 The Odyssey DLC will allow you to travel across planets on your gravship. You can land on the planets, scavenge for loot…]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All EA FC 25 EVO ELITE League Rewards and Tasks]]></title>
-        <id>https://www.destructoid.com/?p=1078486</id>
-        <link href="https://www.destructoid.com/all-ea-fc-25-evo-elite-league-rewards-and-tasks/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-ea-fc-25-evo-elite-league-rewards-and-tasks"/>
-        <updated>2025-06-15T18:18:15.000Z</updated>
-        <summary type="html"><![CDATA[The EVO ELITE League objective is up and running in EA FC 25, and it's your best source of earning some amazing rewards for your Ultimate Team squad, topped by a brand new Abedi Pele Shapeshifter Hero item.
-
-
-As usual, you'll have to play and complete certain conditions to unlock the rewards available at different milestones. All the milestones require you to win a specific number of games. This guide will provide you with all the necessary information to maximize your rewards.
-
-
-EA FC 25 EVO ELITE League guide
-
-
-The EVO ELITE League has 16 tasks in total. 
-
-
-Task
-How to Complete
-Rewards
-
-
-
-
-Win 1
-Win 1 match in the Live Ultimate Team Friendly: EVO ELITE League.
-83+ x5 Rare Gold Players Pack + 500 SP
-
-
-Win 2
-Win 2 matches in the Live Ultimate Team Friendly: EVO ELITE League.
-83+ x5 Rare Go…]]></summary>
         <author>
             <name>Arka Sarkar</name>
         </author>
@@ -2305,19 +2348,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA["Yes, that is a Kong surfing on a rock".
 The Switch 2 only arrived last week, but Nintendo is already building up the hype for its next game Donkey Kong Bananza.
 In case you missed it, or want something else from the new hardware, this new 3D Donkey Kong will be launching next month on 17th July. Nintendo has issued a reminder about this via social media, which gives fans another quick glimpse at DK destroying everything in sight and "surfing on a rock".
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch 2 Sets "All-Time" Launch Record For Video Game Hardware In The US]]></title>
-        <id>https://www.nintendolife.com/#article-183908</id>
-        <link href="https://www.nintendolife.com/news/2025/06/switch-2-sets-all-time-launch-record-for-video-game-hardware-in-the-us"/>
-        <updated>2025-06-14T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Beating the PS4's record with the help of Mario Kart.
-Following Nintendo's news about the Switch 2 becoming the "fastest-selling Nintendo hardware" ever in the US, we've now got some numbers to go with it, courtesy of Circana’s analyst Mat Piscatella.
-According to Piscatella, this is an "all-time launch week unit sales record for video game hardware in the US", with "over 1.1 million units sold" (week ending June 7, 2025). The previous record was held by Sony's PlayStation 4, and the sales calculated here for the Switch 2 exclude My Nintendo Store purchases.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -3144,16 +3174,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ROCm 7.0 Goes Into Preview With MI350X/MI355X Support, Big Performance Improvements]]></title>
-        <id>https://www.phoronix.com/news/AMD-ROCm-7.0-Preview-MI355X</id>
-        <link href="https://www.phoronix.com/news/AMD-ROCm-7.0-Preview-MI355X"/>
-        <updated>2025-06-12T17:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Alongside announcing the AMD Instinct MI350 series at their AI day, ROCm 7.0 was also introduced and will be available today in preview form...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[MindsEye's Annoying CPR Mini-Game Is Getting Nerfed After Players Keep Failing It]]></title>
         <id>1851784412</id>
         <link href="https://kotaku.com/mindseye-cpr-nerf-hard-patch-hotfix-help-ps5-xbox-gta-1851784412"/>
@@ -3845,18 +3865,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7563-1: .NET vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7563-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7563-1"/>
-        <updated>2025-06-10T17:11:11.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that .NET did not properly validate search path in
-Microsoft.NETCore.App.Runtime. An attacker could possibly use this issue
-to execute arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Elden Ring Nightreign's latest update is here to save you from frame drops, buggy bosses, and more]]></title>
         <id>https://www.rockpapershotgun.com/elden-ring-nightreigns-latest-update-is-here-to-save-you-from-frame-drops-buggy-bosses-and-more</id>
         <link href="https://www.rockpapershotgun.com/elden-ring-nightreigns-latest-update-is-here-to-save-you-from-frame-drops-buggy-bosses-and-more"/>
@@ -3913,19 +3921,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Lloyd Coombes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7564-1: Samba vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7564-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7564-1"/>
-        <updated>2025-06-10T13:30:31.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Samba incorrectly handled certain group membership
-changes when using Kerberos authentication. A remote user could possibly
-use this issue to continue to access resources after being removed by an
-administrator.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
