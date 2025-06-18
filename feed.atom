@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-18T04:23:43.056Z</id>
+    <id>urn:2025-06-18T06:21:42.568Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-18T04:23:43.056Z</updated>
+    <updated>2025-06-18T06:21:42.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Poll: So, Have You Used Zelda Notes Yet?]]></title>
+        <id>https://www.nintendolife.com/#article-184057</id>
+        <link href="https://www.nintendolife.com/news/2025/06/poll-so-have-you-used-zelda-notes-yet"/>
+        <updated>2025-06-18T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo's new mobile service for Hyrule.
+Alongside the release of The Legend of Zelda: Breath of the Wild and Tears of the Kingdom on the Switch 2, Nintendo added a special service to its mobile app called Zelda Notes – giving players multiple features to enhance their time in Hyrule.
+This service includes navigation assistance, voice memories, autobuild sharing, item sharing, and much more. In our review here on Nintendo Life, we couldn't help but feel a lot of these useful features should have been implemented in-game, but it's now got us wondering how everyone else is finding this optional extra a few weeks later.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angelite — Recapping the Sylveon ex Deck I Played in Milwaukee]]></title>
         <id>156044</id>
@@ -26,6 +39,40 @@ This bumps the latest version of the game up to Version 2.0.0 and follows on fro
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7576-1: dwarfutils vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7576-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7576-1"/>
+        <updated>2025-06-18T01:39:21.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that dwarfutils did not correctly certain memory
+operations, which could lead to a buffer overflow. An attacker could
+possibly use this issue to cause a denial of service or execute arbitrary
+code.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7575-1: MuJS vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7575-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7575-1"/>
+        <updated>2025-06-18T01:26:06.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that MuJS did not correctly handle try/finally
+statements, which could lead to a buffer overflow. An attacker could
+possibly use this issue to cause a denial of service or execute 
+arbitrary code. (CVE-2021-45005)
+
+Han Zheng discovered that MuJS did not correctly handle recursion, which
+could lead to stack exhaustion. An attacker could possibly use this
+issue to cause a denial of service. (CVE-2022-30974)
+
+Han Zheng discovered that MuJS did not correctly handle certain memory
+operations. An attacker could possibly use this issue to cause a denial
+of service. (CVE-2022-30975)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1847,6 +1894,36 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7572-1: KaTeX vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7572-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7572-1"/>
+        <updated>2025-06-17T00:46:27.000Z</updated>
+        <summary type="html"><![CDATA[Juho Forsén discovered that KaTeX did not correctly handle certain
+inputs, which could lead to an infinite loop. If a user or application
+were tricked into opening a specially crafted file, an attacker could
+possibly use this issue to cause a denial of service. This issue only
+affected Ubuntu 22.04 LTS. (CVE-2024-28243)
+
+Tobias S. Fink discovered that KaTeX did not correctly block certain
+URL protocols. If a user or system were tricked into opening a specially
+crafted file, an attacker could possibly use this issue to execute
+arbitrary code. This issue only affected Ubuntu 22.04 LTS.
+(CVE-2024-28246)
+
+It was discovered that KaTeX did not correctly handle certain inputs. If
+a user or system were tricked into opening a specially crafted file, an
+attacker could possibly use this issue to execute arbitrary code. This
+issue only affected Ubuntu 22.04 LTS. (CVE-2024-28245)
+
+Sean Ng discovered that KaTeX did not correctly handle certain inputs. If
+a user or system were tricked into opening a specially crafted file, an
+attacker could possibly use this issue to execute arbitrary code.
+(CVE-2025-23207)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nintendo Reportedly Banning Switch 2's Using MIG Cartridges]]></title>
         <id>https://www.nintendolife.com/#article-183983</id>
         <link href="https://www.nintendolife.com/news/2025/06/nintendo-reportedly-banning-switch-2s-using-mig-cartridges"/>
@@ -2317,19 +2394,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dark Souls Narrator Pik-Sen Lim Has Passed Away]]></title>
-        <id>https://www.nintendolife.com/#article-183949</id>
-        <link href="https://www.nintendolife.com/news/2025/06/dark-souls-narrator-pik-sen-lim-has-passed-away"/>
-        <updated>2025-06-16T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA["Heat and cold, life and death...".
-Pik-Sen Lim, the Penang-born British actress who most of us gamers will know immediately as the legendary narrator of the Dark Souls series, has passed away at the age of 80.
-As reported by the Malay Mail (thanks PC Gamer), the actress, who moved to the UK to pursue a hugely successful stage and screen acting career in 1961, passed away on Monday 9th June. Lim was a big star during the '70s and '80s on both British and Malaysian TV, with her credits including Dr Who, Coronation Street, The Bill, and her most prominent role in the sitcom Mind Your Language, which aired in the UK during the late 1970s.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KiCad a Wayland]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/kicad-a-wayland</id>
         <link href="http://www.abclinuxu.cz/zpravicky/kicad-a-wayland"/>
@@ -2620,23 +2684,6 @@ certain inputs. An attacker could possibly use this issue to execute a
 cross-site scripting (XSS) attack. This issue only affected
 Ubuntu 16.04 LTS, Ubuntu 18.04 LTS and Ubuntu 20.04 LTS. 
 (CVE-2019-10785, CVE-2020-4051)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7568-1: Requests vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7568-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7568-1"/>
-        <updated>2025-06-16T01:37:42.000Z</updated>
-        <summary type="html"><![CDATA[Dennis Brinkrolf and Tobias Funke discovered that Requests did not
-correctly handle certain HTTP headers. A remote attacker could possibly
-use this issue to leak sensitive information. This issue only affected
-Ubuntu 14.04 LTS. (CVE-2023-32681)
-
-Juho Forsén discovered that Requests did not correctly parse URLs. A
-remote attacker could possibly use this issue to leak sensitive
-information. (CVE-2024-47081)]]></summary>
         <author>
             <name>Ubuntu security notices</name>
         </author>
@@ -3532,21 +3579,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7550-7: Linux kernel (NVIDIA Tegra IGX) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7550-7</id>
-        <link href="https://ubuntu.com/security/notices/USN-7550-7"/>
-        <updated>2025-06-13T08:12:07.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - GPU drivers;
-  - Sun RPC protocol;
-(CVE-2024-56551, CVE-2024-56608, CVE-2024-53168)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dánsko přechází na open source]]></title>
         <id>www.root.cz-actuality-48414</id>
         <link href="https://www.root.cz/zpravicky/dansko-prechazi-na-open-source/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3575,22 +3607,6 @@ This update corrects flaws in the following subsystems:
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7567-1: ModSecurity vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7567-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7567-1"/>
-        <updated>2025-06-13T05:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Simon Studer discovered that ModSecurity incorrectly handled certain
-JSON objects. An attacker could possibly use this issue to cause a denial
-of service. (CVE-2025-47947)
-
-It was discovered that ModSecurity incorrectly handled requests when
-parsing certain form data. An attacker could possibly use this issue to
-cause a denial of service. (CVE-2025-48866)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4028,18 +4044,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Onimusha: Way Of The Sword is a moody demon parry fest, but Sekiro can sleep easy for the moment]]></title>
-        <id>https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment</id>
-        <link href="https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment"/>
-        <updated>2025-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Towards the end of my hands-off demo for Onimusha: Way Of The Sword, Capcom introduced me to a bunch of ragamuffin ninjas who moult their injured selves when struck. It looks like they're springing out of their own dying heads, like Athena bursting from the skull of Zeus. That's the kind of freak factor I want from an action-horror series whose last major instalment released in 2006. A bit of gentle madness to blow the dust off. A generous pinch of vicious little weasels who won't fight fair, to lift this Edo-era yokai hunt above the ranks of action games that just want you to combo and parry ad nauseum. 
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Resident Evil: Requiem has its own version of Lady Dimitrescu, but I doubt you'll be thirsting for this hag]]></title>
         <id>https://www.rockpapershotgun.com/resident-evil-requiem-has-its-own-version-of-lady-dimitrescu-but-i-doubt-youll-be-thirsting-for-this-hag</id>
         <link href="https://www.rockpapershotgun.com/resident-evil-requiem-has-its-own-version-of-lady-dimitrescu-but-i-doubt-youll-be-thirsting-for-this-hag"/>
@@ -4059,6 +4063,18 @@ Read more]]></summary>
         <summary type="html"><![CDATA[In Capcom’s sci-fi third-person shooter Pragmata, you are a gruff and gun-toting astronaut called Hugh Williams who is exploring an AI-operated moon base with the help of a juvenile android, Diana. She rides on your back like a sinister blue-eyed goblin, her enormous mop of blonde hair flapping in the wind as Hugh jets around on his suit thrusters. 
 The notes of God Of Warlike deuteragonism here betray Pragmata’s dragged-out development – it was announced in 2020, when Dad & Sprog action games were all the rage, but was delayed "indefinitely" in 2023. Still, the game I played at this year’s Summer Game Fest didn’t seem greatly the worse for its long spell in cryostasis. It’s a slick thinking girl’s shooter and a gratifyingly bright and clicky piece of lunar set dressing, with shattering robot enemies that put me wistfully in mind of Binary Domain.
  Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Onimusha: Way Of The Sword is a moody demon parry fest, but Sekiro can sleep easy for the moment]]></title>
+        <id>https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment</id>
+        <link href="https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment"/>
+        <updated>2025-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Towards the end of my hands-off demo for Onimusha: Way Of The Sword, Capcom introduced me to a bunch of ragamuffin ninjas who moult their injured selves when struck. It looks like they're springing out of their own dying heads, like Athena bursting from the skull of Zeus. That's the kind of freak factor I want from an action-horror series whose last major instalment released in 2006. A bit of gentle madness to blow the dust off. A generous pinch of vicious little weasels who won't fight fair, to lift this Edo-era yokai hunt above the ranks of action games that just want you to combo and parry ad nauseum. 
+ 
+Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
         </author>
