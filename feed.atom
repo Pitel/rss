@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-19T03:14:05.021Z</id>
+    <id>urn:2025-06-19T04:23:11.726Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-19T03:14:05.021Z</updated>
+    <updated>2025-06-19T04:23:11.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Dvě kritické zranitelnosti Linuxu umožňují lokální eskalaci práv]]></title>
+        <id>www.root.cz-actuality-48468</id>
+        <link href="https://www.root.cz/zpravicky/dve-kriticke-zranitelnosti-linuxu-umoznuji-lokalni-eskalaci-prav/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-06-19T04:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Qualys v úterý zveřejnil detaily dvou kritických zranitelností Linuxu. Jde o CVE-2025–6018 v konfiguraci PAM (Pluggable Authentication Modules) na openSUSE Leap 15 a SUSE Linux Enterprise 15. Tato chyba umožňuje existujícímu uživateli připojenému například přes SSH získat vyšší práva „allow_active“ v kontextu polkitu. Tato práva má mít jen fyzicky přítomný uživatel.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google spustil AI Overviews – revoluční nástroj pro SEO]]></title>
+        <id>www.root.cz-actuality-48465</id>
+        <link href="https://www.root.cz/zpravicky/google-spustil-ai-overviews-revolucni-nastroj-pro-seo/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-06-19T03:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Google tento měsíc oficiálně představil nový nástroj Google AI Overviews, který výrazně mění způsob, jak vyhledávač hodnotí a zobrazuje obsah webů. Tento pokročilý systém využívá umělou inteligenci k hluboké analýze textu a nabízí přesnější a uživatelsky přívětivější shrnutí webových stránek přímo ve výsledcích vyhledávání.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Kryštof Bernatík)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pikmin 3 Deluxe's New Update Fixes Minor Issue When Playing On Switch 2]]></title>
         <id>https://www.nintendolife.com/#article-184127</id>
@@ -12,7 +32,7 @@
         <updated>2025-06-19T03:05:00.000Z</updated>
         <summary type="html"><![CDATA[No more screen flickering.
 Nintendo released a bunch of free Switch updates alongside the launch of the Switch 2 earlier this month but one issue that wasn't entirely resolved was tied to Pikmin 3 Deluxe.
-At the time, Nintendo was only able to "partially" alleviate an issue which occured when playing the game on the Switch 2, and the "entire screen" would flicker on and off. It mentioned in the previous patch notes how a fix was on the way, and today it's delivered on this promise with the Version 1.1.3 game update:
+At the time, Nintendo was only able to "partially" alleviate an issue which occured when playing the game on the Switch 2, and the "entire screen" would flicker in several scenes. It mentioned in the previous patch notes how a fix was on the way, and today it's seemingly delivered on this promise with the Version 1.1.3 game update:
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2099,6 +2119,35 @@ I’ll start it off.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7574-1: Go vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7574-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7574-1"/>
+        <updated>2025-06-18T03:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Kyle Seely discovered that the Go net/http module did not properly handle
+sensitive headers during repeated redirects. An attacker could possibly
+use this issue to obtain sensitive information. (CVE-2024-45336)
+
+Juho Forsén discovered that the Go crypto/x509 module incorrectly handled
+IPv6 addresses during URI parsing. An attacker could possibly use this
+issue to bypass certificate URI constraints. (CVE-2024-45341)
+
+It was discovered that the Go crypto module did not properly handle
+variable time instructions under certain circumstances on 64-bit Power
+(ppc64el) systems. An attacker could possibly use this issue to expose
+sensitive information. (CVE-2025-22866)
+
+It was discovered that the Go http/httpproxy module did not properly
+handle IPv6 zone IDs during hostname matching. An attacker could possibly
+use this issue to cause a denial of service. (CVE-2025-22870)
+
+Takeshi Kaneko discovered that the Go net/http module did not properly
+strip sensitive proxy headers during redirect requests. An attacker could
+possibly use this issue to obtain sensitive information. (CVE-2025-4673)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[USN-7576-1: dwarfutils vulnerabilities]]></title>
         <id>https://ubuntu.com/security/notices/USN-7576-1</id>
         <link href="https://ubuntu.com/security/notices/USN-7576-1"/>
@@ -2559,19 +2608,6 @@ Read more...]]></summary>
         <summary type="html"><![CDATA[NVIDIA today released a new version of their R575 series stable Linux driver to provide a few additional fixes for customers...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7573-1: X.Org X Server vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7573-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7573-1"/>
-        <updated>2025-06-17T14:31:12.000Z</updated>
-        <summary type="html"><![CDATA[Nils Emmerich discovered that the X.Org X Server incorrectly handled
-certain memory operations. An attacker could use these issues to cause the
-X Server to crash, leading to a denial of service, obtain sensitive
-information, or possibly execute arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4291,26 +4327,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Specifikace PCI Express 7.0 zveřejněna spolu s optickým propojením PCIe]]></title>
-        <id>www.root.cz-actuality-48399</id>
-        <link href="https://www.root.cz/zpravicky/specifikace-pci-express-7-0-zverejnena-spolu-s-optickym-propojenim-pcie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-12T06:53:37.000Z</updated>
-        <summary type="html"><![CDATA[PCI Express 7.0 byl ohlášen již v roce 2022 s tím, že přijde v roce 2025 s rychlostí 128 GB/s. Od té doby byly zveřejněny návrhy specifikací, dnes PCI-SIG oznamuje oficiální vydání specifikace PCI Express 7.0 spolu s novým řešením PCIe Optical Interconnect Solution pro optické spoje mezi zařízeními například v rámci datacentra.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocky Linux 10 končí s podporou 32 bitů a x86-64-v2, naopak přidává RISC-V]]></title>
-        <id>www.root.cz-actuality-48396</id>
-        <link href="https://www.root.cz/zpravicky/rocky-linux-10-konci-s-podporou-32-bitu-a-x86-64-v2-naopak-pridava-risc-v/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-12T06:03:17.000Z</updated>
-        <summary type="html"><![CDATA[Po vydání Red Hat Enterprise Linuxu 10 a následujícím uvolnění AlmaLinuxu 10 je tu také Rocky Linux 10. Stejně jako RHEL 10 odstraňuje podporu starší architektury x86–64-v2 a pro běh je nutné mít x86–64-v3. Podporovány jsou architektury x86_64, riscv64, aarch64, ppc64le a s390×.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Aukce domén nemají vydělávat, cílem je spravedlivý přístup, říká Timo Võhmar z Estonska]]></title>
         <id>www.root.cz-text-18087</id>
         <link href="https://www.root.cz/clanky/aukce-domen-nemaji-vydelavat-cilem-je-spravedlivy-pristup-rika-timo-v-hmar-z-estonska/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -4367,6 +4383,18 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Onimusha: Way Of The Sword is a moody demon parry fest, but Sekiro can sleep easy for the moment]]></title>
+        <id>https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment</id>
+        <link href="https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment"/>
+        <updated>2025-06-11T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Towards the end of my hands-off demo for Onimusha: Way Of The Sword, Capcom introduced me to a bunch of ragamuffin ninjas who moult their injured selves when struck. It looks like they're springing out of their own dying heads, like Athena bursting from the skull of Zeus. That's the kind of freak factor I want from an action-horror series whose last major instalment released in 2006. A bit of gentle madness to blow the dust off. A generous pinch of vicious little weasels who won't fight fair, to lift this Edo-era yokai hunt above the ranks of action games that just want you to combo and parry ad nauseum. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Resident Evil: Requiem has its own version of Lady Dimitrescu, but I doubt you'll be thirsting for this hag]]></title>
         <id>https://www.rockpapershotgun.com/resident-evil-requiem-has-its-own-version-of-lady-dimitrescu-but-i-doubt-youll-be-thirsting-for-this-hag</id>
         <link href="https://www.rockpapershotgun.com/resident-evil-requiem-has-its-own-version-of-lady-dimitrescu-but-i-doubt-youll-be-thirsting-for-this-hag"/>
@@ -4386,18 +4414,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[In Capcom’s sci-fi third-person shooter Pragmata, you are a gruff and gun-toting astronaut called Hugh Williams who is exploring an AI-operated moon base with the help of a juvenile android, Diana. She rides on your back like a sinister blue-eyed goblin, her enormous mop of blonde hair flapping in the wind as Hugh jets around on his suit thrusters. 
 The notes of God Of Warlike deuteragonism here betray Pragmata’s dragged-out development – it was announced in 2020, when Dad & Sprog action games were all the rage, but was delayed "indefinitely" in 2023. Still, the game I played at this year’s Summer Game Fest didn’t seem greatly the worse for its long spell in cryostasis. It’s a slick thinking girl’s shooter and a gratifyingly bright and clicky piece of lunar set dressing, with shattering robot enemies that put me wistfully in mind of Binary Domain.
  Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onimusha: Way Of The Sword is a moody demon parry fest, but Sekiro can sleep easy for the moment]]></title>
-        <id>https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment</id>
-        <link href="https://www.rockpapershotgun.com/onimusha-way-of-the-sword-is-a-moody-demon-parry-fest-but-sekiro-can-sleep-easy-for-the-moment"/>
-        <updated>2025-06-11T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Towards the end of my hands-off demo for Onimusha: Way Of The Sword, Capcom introduced me to a bunch of ragamuffin ninjas who moult their injured selves when struck. It looks like they're springing out of their own dying heads, like Athena bursting from the skull of Zeus. That's the kind of freak factor I want from an action-horror series whose last major instalment released in 2006. A bit of gentle madness to blow the dust off. A generous pinch of vicious little weasels who won't fight fair, to lift this Edo-era yokai hunt above the ranks of action games that just want you to combo and parry ad nauseum. 
- 
-Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
         </author>
