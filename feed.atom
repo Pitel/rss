@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-23T04:29:50.247Z</id>
+    <id>urn:2025-06-23T06:22:50.921Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-23T04:29:50.247Z</updated>
+    <updated>2025-06-23T06:22:50.921Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[Can Yanmega ex Really Work? — Unlocking Its Full Potential]]></title>
         <id>156126</id>
         <link href="https://www.pokebeach.com/forums/threads/can-yanmega-ex-really-work-%E2%80%94-unlocking-its-full-potential.156126/"/>
-        <updated>2025-06-23T04:14:45.000Z</updated>
+        <updated>2025-06-23T05:38:57.000Z</updated>
         <summary type="html"><![CDATA[Hello PokeBeach readers! Gabriel Semedo here with another Pokemon TCG article — and today, I want to talk about Yanmega ex, one of the intriguing new Pokemon from Destined Rivals. While many players see promise in Yanmega ex, few have figured out how to unlock that potential in a real...]]></summary>
         <author>
             <name>PMJ</name>
@@ -34,6 +34,27 @@ As we posted months ago, they will release on August 1st and feature Mega Lucari
         <summary type="html"><![CDATA[Vývojáři postmarketOS vydali verzi 25.06 tohoto před osmi lety představeného operačního systému pro chytré telefony vycházejícího z optimalizovaného a nakonfigurovaného Alpine Linuxu s vlastními balíčky. Přehled novinek v příspěvku na blogu. Na výběr jsou 4 uživatelská rozhraní: GNOME Shell on Mobile, KDE Plasma Mobile, Phosh a Sxmo.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7586-1: Botan vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7586-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7586-1"/>
+        <updated>2025-06-23T02:10:22.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Botan could have compiler dependent operations
+induced under certain circumstances. An attacker could possibly use this
+issue to cause undefined behavior. (CVE-2024-50382, CVE-2024-50383)
+
+Bing Shi discovered that Botan did not limit the size of certain inputs
+when checking primality and name constraints. An attacker could possibly
+use this issue to cause a denial of service. (CVE-2024-34702,
+CVE-2024-34703)
+
+It was discovered that Botan did not correctly handle conflicting name
+constraints. An attacker could possibly use this issue to bypass
+authentication. (CVE-2024-39312)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3410,26 +3431,6 @@ Read more...]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7579-1: Godot Engine vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7579-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7579-1"/>
-        <updated>2025-06-18T15:50:49.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that the Godot Engine did not properly handle
-certain malformed WebM media files. If the Godot Engine opened a
-specially crafted WebM file, a remote attacker could cause a denial
-of service, or possibly execute arbitrary code. (CVE-2019-2126)
-
-It was discovered that the Godot Engine did not properly handle
-certain malformed TGA image files. If the Godot Engine opened a
-specially crafted TGA image file, a remote attacker could cause
-a denial of service, or possibly execute arbitrary code. This
-issue only affected Ubuntu 20.04 LTS and Ubuntu 22.04 LTS.
-(CVE-2021-26825, CVE-2021-26826)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
