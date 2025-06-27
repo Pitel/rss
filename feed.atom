@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-27T06:22:11.413Z</id>
+    <id>urn:2025-06-27T08:19:55.828Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-06-27T06:22:11.413Z</updated>
+    <updated>2025-06-27T08:19:55.828Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nebezpečná zranitelnost v AMI MegaRAC umožňuje vzdálené přihlášení bez hesla]]></title>
+        <id>www.root.cz-actuality-48549</id>
+        <link href="https://www.root.cz/zpravicky/nebezpecna-zranitelnost-v-ami-megarac-umoznuje-vzdalene-prihlaseni-bez-hesla/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-06-27T08:04:45.000Z</updated>
+        <summary type="html"><![CDATA[AMI MegaRAC BMC (baseboard management controller) je systém pro vzdálenou správu serverů podobně jako iLO, iDRAC nebo IPMI. V březnu výzkumníci z Eclypsium zveřejnili závažnou chybu CVE-2024–54085 v AMI MegaRAC, která umožňuje přihlášení do administrátorského webového rozhraní bez znalosti hesla.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“MEGA Dream ex” and “Abyss Eye” Trademarked for the Pokemon TCG!]]></title>
         <id>156155</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dream-ex%E2%80%9D-and-%E2%80%9Cabyss-eye%E2%80%9D-trademarked-for-the-pokemon-tcg.156155/"/>
-        <updated>2025-06-27T04:49:03.000Z</updated>
+        <updated>2025-06-27T07:36:09.000Z</updated>
         <summary type="html"><![CDATA[Two new trademarks for MEGA Dream ex (MEGAドリームex) and Abyss Eye (アビスアイ) have been filed by Pokemon. They're under the same terms as trademarks used for set names in the past.
 
 			
@@ -23,6 +33,16 @@
 MEGA Dream ex sounds like Japan's annual High Class Pack set that releases every November...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArgoCD: nasazujeme aplikace do Kubernetes (školení)]]></title>
+        <id>www.root.cz-actuality-43388</id>
+        <link href="https://www.root.cz/zpravicky/argocd-nasazujeme-aplikace-do-kubernetes-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-06-27T07:31:41.000Z</updated>
+        <summary type="html"><![CDATA[ArgoCD je GitOps nástroj kterým nasazujeme aplikace do Kubernetes. Pracuje na základě deklarativních konfiguračních souborů, které si stahuje z Gitu. To znamená, že vše, co commitneme do repozitáře, se na nasadí do Kubernetes. O všech změnách: co, kdy, kdo udělal budeme mít přehledné záznamy v Gitu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -1540,8 +1560,9 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.rockpapershotgun.com/life-is-strange-developers-dont-nod-hit-with-more-layoffs</id>
         <link href="https://www.rockpapershotgun.com/life-is-strange-developers-dont-nod-hit-with-more-layoffs"/>
         <updated>2025-06-26T11:13:33.000Z</updated>
-        <summary type="html"><![CDATA[French studio Don't Nod have laid off workers across multiple departments. The full number is unconfirmed, but multiple affected staff have posted about their departures on LinkedIn, including Lost Records: Bloom & Rage principal cinematic artist Mary Pouliot, technical artist Laurent Dufrense, and QA lead Sandra Cormier.
-It's been a rocky year or so for Don't Nod's staff. Last September, the studio paused two unannounced games and said they're altering others, also unannounced, to be more appealing to a "wider audience", following warnings about an 11% decline in operating revenue for the first half of 2024. Chairman and CEO Oskar Guilbert attributed this to (the excellent) Jusant and Banishers: Ghosts Of New Eden performing "well below expectations" commercially.
+        <summary type="html"><![CDATA[Update: French Union STJV have since released a statement on the layoffs, offering a more concrete idea of the details and the number of workers affected. 
+"We have been informed of the lay-offs of 9 colleagues and the "temporary suspension" of 7 others in order to "reduce costs across the group". We support the colleagues affected. The STJV strongly condemns Oskar Guilbert’s catastrophic management of the company. In France, the union fight succeeded in drastically limiting the number of lay-offs and in obtaining acceptable departure conditions. We encourage and support our comrades and colleagues who are organising the industry across the Atlantic! Direct action gets the goods."
+Original article continues below. 
 Read more]]></summary>
         <author>
             <name>Nic Reuben</name>
@@ -4569,16 +4590,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vyšlo WSL 2.6.0, poprvé jako open source]]></title>
-        <id>www.root.cz-actuality-48483</id>
-        <link href="https://www.root.cz/zpravicky/vyslo-wsl-2-6-0-poprve-jako-open-source/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-20T13:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Před měsícem bylo oznámeno, že Microsoft WSL (Windows subsystem for Linux) bude open source pod licencí MIT. Dnes vyšla první open source verze 2.6.0.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[4X strategy giant Victoria 3 is free to play for a limited time as Paradox release the latest DLC]]></title>
         <id>https://www.rockpapershotgun.com/4x-strategy-giant-victoria-3-is-free-for-a-limited-time-as-paradox-release-the-latest-dlc</id>
         <link href="https://www.rockpapershotgun.com/4x-strategy-giant-victoria-3-is-free-for-a-limited-time-as-paradox-release-the-latest-dlc"/>
@@ -4600,16 +4611,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V EU mají odedneška mít prodávané mobilní telefony a tablety energetické štítky]]></title>
-        <id>www.root.cz-actuality-48480</id>
-        <link href="https://www.root.cz/zpravicky/v-eu-maji-odedneska-mit-prodavane-mobilni-telefony-a-tablety-energeticke-stitky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-06-20T12:05:10.000Z</updated>
-        <summary type="html"><![CDATA[Podle nařízení Evropské komise mají mít ode dneška všechny prodávané mobilní telefony a tablety povinné označení energetickým štítkem, který známe například u televizorů, praček a ledniček. Kromě energetické náročnosti A-G (A nejlepší, G nejhorší) je zde uvedena doba chodu na jedno nabití, odolnost proti pádu (A-E), počet cyklů, které baterie vydrží, index opravitelnosti (A-E) a stupeň krytí IP.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -5576,64 +5577,6 @@ Android Gradle Plugin
               
 Issue #416349489
 Move AGP to configurations.register to avoid eager realization of configurations]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Meerkat Feature Drop | 2024.3.2 Patch 1 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2025/05/android-studio-meerkat-feature-drop_28.html</id>
-        <link href="https://androidstudio.googleblog.com/2025/05/android-studio-meerkat-feature-drop_28.html"/>
-        <updated>2025-05-28T18:36:00.001Z</updated>
-        <summary type="html"><![CDATA[Android Studio Meerkat Feature Drop | 2024.3.2 Patch 1 is now available in the Stable channel.
-If you already have an Android Studio build on the Stable channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Meerkat Feature Drop, see the Android Studio release notes.
-
-For details of bugs fixed in each previous release of Android Studio Meerkat Feature Drop, see
-closed issues.
-General fixes and features
-Below is a list of general fixes in Android Studio Meerkat Feature Drop | 2024.3.2 Patch 1 and Android Gradle Plugin 8.10.1. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #390602110
-Explicitly enabling device tests in a non-default build type using AGP does not work
-
-          
-        
-
-      
-    
-Shrinker (R8)
-      
-        
-
-          
-            
-
-              
-Issue #406300397
-NullPointerException when compiling instant app after updating Kotlin to 2.1.20
-
-            
-
-              
-Issue #406525499
-[AGP]: ERROR: R8: java.lang.OutOfMemoryError: Required array length 2147483638 + 196 is too large]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
