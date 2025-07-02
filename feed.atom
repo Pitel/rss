@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-01T22:13:55.817Z</id>
+    <id>urn:2025-07-02T01:12:12.298Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-07-01T22:13:55.817Z</updated>
+    <updated>2025-07-02T01:12:12.298Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[My Nintendo Store Adds A New Mario Kart World Reward (North America)]]></title>
+        <id>https://www.nintendolife.com/#article-184675</id>
+        <link href="https://www.nintendolife.com/news/2025/07/my-nintendo-store-adds-a-new-mario-kart-world-reward-north-america"/>
+        <updated>2025-07-01T23:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Take a trip around the world.
+
+Mario Kart World has been out for almost a month and Nintendo is now offering a new reward for it in North America.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7609-2: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7609-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7609-2"/>
+        <updated>2025-07-01T23:08:37.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - InfiniBand drivers;
+  - Netfilter;
+  - Network traffic control;
+(CVE-2025-38001, CVE-2025-37798, CVE-2025-37932, CVE-2025-37997,
+CVE-2025-38000, CVE-2025-22088, CVE-2025-37890)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7609-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7609-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7609-1"/>
+        <updated>2025-07-01T22:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - InfiniBand drivers;
+  - Netfilter;
+  - Network traffic control;
+(CVE-2025-38001, CVE-2025-37798, CVE-2025-37932, CVE-2025-37997,
+CVE-2025-38000, CVE-2025-22088, CVE-2025-37890)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7608-3: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7608-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7608-3"/>
+        <updated>2025-07-01T22:28:18.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - GPU drivers;
+  - SMB network file system;
+  - Memory management;
+  - Netfilter;
+  - Network traffic control;
+(CVE-2025-37890, CVE-2024-46787, CVE-2025-37798, CVE-2025-38000,
+CVE-2025-37932, CVE-2025-38001, CVE-2025-37997, CVE-2024-50047,
+CVE-2024-53051)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7608-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7608-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7608-2"/>
+        <updated>2025-07-01T22:22:06.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - GPU drivers;
+  - SMB network file system;
+  - Memory management;
+  - Netfilter;
+  - Network traffic control;
+(CVE-2025-37890, CVE-2024-46787, CVE-2025-37798, CVE-2025-38000,
+CVE-2025-37932, CVE-2025-38001, CVE-2025-37997, CVE-2024-50047,
+CVE-2024-53051)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7607-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7607-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7607-2"/>
+        <updated>2025-07-01T22:04:44.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that a use-after-free vulnerability existed in the
+Bluetooth stack in the Linux kernel. A local attacker could use this to
+cause a denial of service (system crash) or possibly execute arbitrary
+code. (CVE-2022-3640)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - SCSI subsystem;
+  - Network file system (NFS) client;
+  - NILFS2 file system;
+  - File systems infrastructure;
+  - Memory management;
+  - Bluetooth subsystem;
+  - Network traffic control;
+  - USB sound devices;
+(CVE-2024-50116, CVE-2021-47576, CVE-2024-53197, CVE-2024-46787,
+CVE-2025-37798, CVE-2024-49958, CVE-2021-47260, CVE-2025-37932,
+CVE-2022-49909)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Softwarová sklizeň (2. 7. 2025): procvičte si anglickou slovní zásobu]]></title>
         <id>www.root.cz-text-18165</id>
@@ -1929,19 +2044,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Uh Oh, Nintendo's Seemingly Raising A Whole Bunch Of Prices In Canada]]></title>
-        <id>https://www.nintendolife.com/#article-184613</id>
-        <link href="https://www.nintendolife.com/news/2025/06/uh-oh-nintendos-seemingly-raising-a-whole-bunch-of-prices-in-canada"/>
-        <updated>2025-06-30T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Move comes due to "market conditions".
-Nintendo has announced it will change the price for a whole bunch of its products in Canada, citing "market conditions" for the move.
-This comes via Newswire, with more information on specific prices coming directly from Nintendo of Canada on 1st August 2025. The official announcement specifically mentions "price changes", but let's face it, we all know they're probably going up, not down.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I just found up to $1000 off gaming laptops and prebuilds in HP's new 4th July sale]]></title>
         <id>https://www.rockpapershotgun.com/i-just-found-up-to-1000-off-gaming-laptops-and-prebuilds-in-hps-new-4th-july-sale</id>
         <link href="https://www.rockpapershotgun.com/i-just-found-up-to-1000-off-gaming-laptops-and-prebuilds-in-hps-new-4th-july-sale"/>
@@ -2137,38 +2239,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7605-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7605-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7605-1"/>
-        <updated>2025-06-30T17:22:43.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that the CIFS network file system implementation in the
-Linux kernel did not properly verify the target namespace when handling
-upcalls. An attacker could use this to expose sensitive information.
-(CVE-2025-2312)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM32 architecture;
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Compute Acceleration Framework;
-  - ACPI drivers;
-  - Ublk userspace block driver;
-  - Compressed RAM block device driver;
-  - Bus devices;
-  - AMD CDX bus driver;
-  - Clock framework and drivers;
-  - DMA engine subsystem;
-  - DPLL subsystem;
-  - Qualcomm firmware drivers;
-  - GPIO subsy…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Monster Hunter Wilds Has An Easy Way To Farm Whatever Beast You Come Across]]></title>
         <id>1851785212</id>
         <link href="https://kotaku.com/monster-hunter-wilds-investigations-farm-monster-1851785212"/>
@@ -2199,24 +2269,6 @@ Read more...]]></summary>
 Read more...]]></summary>
         <author>
             <name>George Yang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7604-2: Sudo vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7604-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7604-2"/>
-        <updated>2025-06-30T17:01:15.000Z</updated>
-        <summary type="html"><![CDATA[USN-7604-1 fixed CVE-2025-32462 in sudo. This update provides the
-corresponding fixes for Ubuntu 20.04 LTS, Ubuntu 18.04 LTS,
-Ubuntu 16.04 LTS, and Ubuntu 14.04 LTS.
-
-Original advisory details:
-
-Rich Mirch discovered that Sudo incorrectly handled the host option. In
-environments where per-host rules are configured in the sudoers file, a
-local attacker could use this issue to bypass the host restrictions.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2319,25 +2371,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7604-1: Sudo vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7604-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7604-1"/>
-        <updated>2025-06-30T14:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Rich Mirch discovered that Sudo incorrectly handled the host option. In
-environments where per-host rules are configured in the sudoers file, a
-local attacker could use this issue to bypass the host restrictions.
-(CVE-2025-32462)
-
-Rich Mirch discovered that Sudo incorrectly handled the chroot option. In
-environments where the sudoers file is configured to allow the chroot
-option, a local attacker could use this issue to run arbitrary commands as
-root. This issue only applied to Ubuntu 24.04 LTS, Ubuntu 24.10, and
-Ubuntu 25.04. (CVE-2025-32463)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2590,39 +2623,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7582-2: Samba regression]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7582-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7582-2"/>
-        <updated>2025-06-30T08:10:40.000Z</updated>
-        <summary type="html"><![CDATA[USN-7582-1 fixed vulnerabilities in Samba. The update introduced a
-regression. This update fixes the problem.
-
-We apologize for the inconvenience.
-
-Original advisory details:
-
- Evgeny Legerov discovered that Samba incorrectly handled buffers in
- certain GSSAPI routines of Heimdal. A remote attacker could possibly use
- this issue to cause Samba to crash, resulting in a denial of service.
- (CVE-2022-3437)
- 
- Greg Hudson discovered that Samba incorrectly handled PAC parsing. On
- 32-bit systems, a remote attacker could use this issue to escalate
- privileges, or possibly execute arbitrary code. (CVE-2022-42898)
- 
- Joseph Sutton discovered that Samba could be forced to issue rc4-hmac
- encrypted Kerberos tickets. A remote attacker could possibly use this
- issue to escalate privileges. This issue only affected Ubuntu 20.04 LTS
- and Ubuntu 22.04 LTS. (CVE-2022-45141)
- 
- Florent Saudel discovered that Samba incorrectly handled certain Spotlight
- requests. A remote attacker could possibly use this issue to cause Samba
- to consume resources, leading to a denial of service. (CVE-2023-34966)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux a správa počítačové sítě (školení)]]></title>
         <id>www.root.cz-actuality-44513</id>
         <link href="https://www.root.cz/zpravicky/linux-a-sprava-pocitacove-site-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2655,32 +2655,6 @@ The artwork reveals all four of our English booster packs. It also reveals that 
 Continue...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7603-1: Composer vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7603-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7603-1"/>
-        <updated>2025-06-30T04:29:26.000Z</updated>
-        <summary type="html"><![CDATA[Thomas Chauchefoin discovered that Composer did not correctly handle
-certain arguments. An attacker could possibly use this issue to execute
-arbitrary code. This issue only affected Ubuntu 16.04 LTS,
-Ubuntu 18.04 LTS, Ubuntu 20.04 LTS and Ubuntu 22.04 LTS.
-(CVE-2022-24828, CVE-2023-43655)
-
-Ed Cradock discovered that Composer did not correctly handle the exclusion
-of certain files. An attacker could possibly use this issue to execute
-arbitrary code. This issue only affected Ubuntu 22.04 LTS. (CVE-2024-24821)
-
-Martin Haunschmid discovered that Composer did not correctly handle git
-branch names. An attacker could possibly use this issue to execute
-arbitrary code. (CVE-2024-35241)
-
-Maciej Piechota discovered that Composer did not correctly handle VCS
-branch names. An attacker could possibly use this issue to execute
-arbitrary code. (CVE-2024-35242)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
