@@ -1,29 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-06T10:14:45.431Z</id>
+    <id>urn:2025-07-06T12:27:04.187Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-07-06T10:14:45.431Z</updated>
+    <updated>2025-07-06T12:27:04.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Illustration Rare Riolu from Mega Brave]]></title>
+        <id>156181</id>
+        <link href="https://www.pokebeach.com/forums/threads/illustration-rare-riolu-from-mega-brave.156181/"/>
+        <updated>2025-07-06T12:14:01.000Z</updated>
+        <summary type="html"><![CDATA[The illustration rare print of Riolu has been revealed from Mega Brave, which releases in Japan on August 1st. Mega Brave and Mega Symphonia will combine to form the majority of the international set Mega Evolution, which releases September 26th.
+The regular art print of this card was previously...]]></summary>
+        <author>
+            <name>JustInBasil</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sega Teases New Sonic Racing Animation, Speeding Ahead This September]]></title>
+        <id>https://www.nintendolife.com/#article-184880</id>
+        <link href="https://www.nintendolife.com/news/2025/07/sega-teases-new-sonic-racing-animation-speeding-ahead-this-september"/>
+        <updated>2025-07-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Launching the same month as CrossWorlds.
+Sega is promoting its upcoming release Sonic Racing: CrossWorlds in all sorts of ways, and apart from the game's opening theme reveal earlier this week, it's also recently teased a new animation.
+This new animation celebrating Sonic's latest racing game is scheduled to arrive this September (the same month as the game), and this initial preview was originally featured at Anime Expo. It shows Sonic and Shadow speeding along, but we don't get much else.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Registrar Snubs DMCA Subpoena, Claims Passive Conduit Immunity]]></title>
+        <id>https://torrentfreak.com/?p=269324</id>
+        <link href="https://torrentfreak.com/registrar-snubs-dmca-subpoena-potential-pandoras-box-shut-for-now-250706/"/>
+        <updated>2025-07-06T11:03:54.000Z</updated>
+        <summary type="html"><![CDATA[In a case being heard at a California court, domain registrar Dynadot has partially declined to cooperate with the disclosure requirements of a DMCA subpoena, claiming immunity as a conduit service provider. In response, a copyright holder has asked the Court to issue an order clarifying service providers' safe harbor protection. The case is certainly unusual but also forms part of a more complex set of events, that may ultimately culminate in a potential moment of clarity.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 43 Looks To Zstd-Compressed Initrd By Default For Space Savings & Faster Boots]]></title>
+        <id>https://www.phoronix.com/news/Fedora-43-Initrd-Zstd-Compress</id>
+        <link href="https://www.phoronix.com/news/Fedora-43-Initrd-Zstd-Compress"/>
+        <updated>2025-07-06T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[A change proposal has been raised to compress the initrd by default using Zstd compression rather than XZ. This change would help provide some disk savings as well as speeding up the boot process on modern systems with Fedora Linux...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.16 Performance Regression Tracked Down In New Futex Code]]></title>
         <id>https://www.phoronix.com/news/Linux-6.16-FUTEX_PRIVATE_HASH</id>
         <link href="https://www.phoronix.com/news/Linux-6.16-FUTEX_PRIVATE_HASH"/>
-        <updated>2025-07-06T10:05:20.000Z</updated>
+        <updated>2025-07-06T10:35:07.000Z</updated>
         <summary type="html"><![CDATA[Sent out this morning as part of this week's "locking/urgent" pull request is a performance regression fix ahead of today's Linux 6.16-rc5 release. This latest performance regression in the Linux kernel is around the new Futex code merged this cycle with a big performance hit being observed in scheduler benchmarks...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Illustration Rare Riolu from Mega Brave]]></title>
-        <id>156181</id>
-        <link href="https://www.pokebeach.com/forums/threads/illustration-rare-riolu-from-mega-brave.156181/"/>
-        <updated>2025-07-06T10:04:29.000Z</updated>
-        <summary type="html"><![CDATA[The illustration rare print of Riolu has been revealed from Mega Brave, which releases in Japan on August 1st. Mega Brave and Mega Symphonia will combine to form the majority of the international set Mega Evolution, which releases September 26th.
-The regular art print of this card was previously...]]></summary>
+        <title type="html"><![CDATA[Many GLAMOR OpenGL ES Improvements Backported To X.Org Server / XWayland 21.1]]></title>
+        <id>https://www.phoronix.com/news/X.Org-Server-21.1-GLAMOR-Back</id>
+        <link href="https://www.phoronix.com/news/X.Org-Server-21.1-GLAMOR-Back"/>
+        <updated>2025-07-06T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Nearly one year after the merge request was first opened, back-ported now to the X.Org Server 21.1 stable branch are a number of GLAMOR 2D acceleration fixes around OpenGL ES 2.x as well as supporting OpenGL ES 3.x shaders for this generic 2D acceleration over OpenGL for the xorg-server and XWayland...]]></summary>
         <author>
-            <name>JustInBasil</name>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Bartlett Lake-S EDAC Driver Support Coming For Linux 6.17]]></title>
+        <id>https://www.phoronix.com/news/Intel-Bartlett-Lake-Linux-EDAC</id>
+        <link href="https://www.phoronix.com/news/Intel-Bartlett-Lake-Linux-EDAC"/>
+        <updated>2025-07-06T10:16:09.000Z</updated>
+        <summary type="html"><![CDATA[Intel software engineers continue ironing out their Linux support for Bartlett Lake...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2085,19 +2139,6 @@ The post How to play with friends in Mecha Break appeared first on Destructoid.]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: 15 Exciting New Games Coming To Nintendo Switch 1 & 2 In July 2025]]></title>
-        <id>https://www.nintendolife.com/#article-184784</id>
-        <link href="https://www.nintendolife.com/news/2025/07/video-15-exciting-new-games-coming-to-nintendo-switch-1-and-2-in-july-2025"/>
-        <updated>2025-07-03T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Tony Hawk! Donkey Kong Bananza! Patapon 1+2!
-After last month, we bet you thought July was cooling off a little, right? Well... a little, but not much.
-The Switch 2 has been here for a month now, and we're swimming in games old and new on the new platform. And look, we all know what's top banana for many of you this month, and a new Switch 2 Edition is also on the agenda, but there's 13 (ish... there's a couple of bundles here!) other fabulous looking games coming out on both hybrids.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[12 Years After Launch, GTA V Is Finally Arriving In Two More Countries]]></title>
         <id>1851785628</id>
         <link href="https://kotaku.com/gta-v-officially-launching-in-saudi-arabia-12-years-aft-1851785628"/>
@@ -3040,16 +3081,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Posts Linux Patches For New AI Engine Driver "amd-ai-engine"]]></title>
-        <id>https://www.phoronix.com/news/AMD-AI-Engine-Driver-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-AI-Engine-Driver-Linux"/>
-        <updated>2025-07-02T16:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Not to be confused with the AMDXDNA accelerator driver for the Ryzen AI NPUs, AMD software engineers today posted patches for review on the "amd-ai-engine" accelerator driver. This new AMD AI Engine driver is for supporting the IP found on their Versal adaptive SoCs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I've found some huge discounts on Steam Deck micro SD cards, Secretlab chairs, and a RTX 4070 Ti PC]]></title>
         <id>https://www.rockpapershotgun.com/best-deals-today-july-2-2025</id>
         <link href="https://www.rockpapershotgun.com/best-deals-today-july-2-2025"/>
@@ -3173,16 +3204,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wayback Hopes To Be Ready Next Year With Alpine Linux Planning To Use It By Default]]></title>
-        <id>https://www.phoronix.com/news/Wayback-2026-Plans</id>
-        <link href="https://www.phoronix.com/news/Wayback-2026-Plans"/>
-        <updated>2025-07-02T13:56:08.000Z</updated>
-        <summary type="html"><![CDATA[A few days ago Wayback was announced as an X11 compatibility layer for X11 desktops environments leveraging a rootful XWayland server. While currently experimental, the hope is that it will be production-ready next year and Alpine Linux is looking at using it by default for its X11 environment...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Capturing Beasts In Monster Hunter Wilds Is Better When You Mix Up Your Strategy]]></title>
         <id>1851785416</id>
         <link href="https://kotaku.com/monster-hunter-wilds-mhw-capture-tranq-trap-bomb-blades-1851785416"/>
@@ -3237,16 +3258,6 @@ You can also stick plants on roofs, to give your prisoners something nice to sta
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Late Than Never: Linux 6.17 To Enable Intel DG1 Graphics By Default]]></title>
-        <id>https://www.phoronix.com/news/Intel-DG1-Enabled-Linux-6.17</id>
-        <link href="https://www.phoronix.com/news/Intel-DG1-Enabled-Linux-6.17"/>
-        <updated>2025-07-02T12:49:37.000Z</updated>
-        <summary type="html"><![CDATA[Prior to the DG2/Alchemist discrete GPUs from Intel there was the DG1 graphics processor that served primarily as the initial developer vehicle for facilitating Intel's modern discrete GPU push. DG1 ended up being in the Intel Xe MAX GPU for a small number of laptops and then there's also been a select number of DG1 graphics cards surfacing on eBay in the years since. Only now in 2025 is the upstream Linux kernel driver set to enable Intel DG1 graphics out-of-the-box for modern Linux distributions...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -5004,17 +5015,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://torrentfreak.com/pirate-iptv-shock-block-operations-boost-france-isp-blocking-146-250623/"/>
         <updated>2025-06-23T12:36:17.000Z</updated>
         <summary type="html"><![CDATA[Telecoms and audiovisual regulator Arcom has revealed that the number of pirate 'services' blocked in France has more than doubled each year since 2022. "Shock Block" operations targeting 250+ IPTV services at once are partly responsible for a 146% rise in domains blocked in 2024. Arcom still hasn't forgotten BitTorrent, far from it; rightsholders filed 2.3 million complaints last year, of which 1,610 cases were referred to the prosecutor.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sky Views Personal Data as a Potential Weapon in IPTV Piracy War]]></title>
-        <id>https://torrentfreak.com/?p=268888</id>
-        <link href="https://torrentfreak.com/sky-views-personal-data-as-new-weapon-in-iptv-piracy-war-250622/"/>
-        <updated>2025-06-22T10:23:03.000Z</updated>
-        <summary type="html"><![CDATA[Ireland's Data Protection Commission (DPC) says it has been "engaging with Sky for some time" over the use of personal data to crackdown on streaming piracy, including IPTV services accessed via set-top boxes. Ongoing engagement and a meeting between the DPC and Sky in two weeks time, will focus on the lawful sharing or processing of personal data outside the company under the GDPR.
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
