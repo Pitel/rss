@@ -1,10 +1,286 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-18T08:20:57.859Z</id>
+    <id>urn:2025-07-18T10:17:21.118Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-07-18T08:20:57.859Z</updated>
+    <updated>2025-07-18T10:17:21.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pokemon Center “Mega Evolution” Preorders Now Up!]]></title>
+        <id>156211</id>
+        <link href="https://www.pokebeach.com/forums/threads/pokemon-center-%E2%80%9Cmega-evolution%E2%80%9D-preorders-now-up.156211/"/>
+        <updated>2025-07-18T10:13:03.000Z</updated>
+        <summary type="html"><![CDATA[Preorders for Mega Evolution products are now available on the Pokemon Center! The set will release on September 26th.
+Customers may only preorder one of each item, as was the case for the last few sets.
+You will have to wait in a virtual queue to enter the website, a system that was implemented...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7651-2: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7651-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7651-2"/>
+        <updated>2025-07-18T10:06:54.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - PowerPC architecture;
+  - S390 architecture;
+  - Block layer subsystem;
+  - Serial ATA and Parallel ATA drivers;
+  - Drivers core;
+  - Network block device driver;
+  - Character device driver;
+  - TPM device driver;
+  - Clock framework and drivers;
+  - FireWire subsystem;
+  - GPU drivers;
+  - HID subsystem;
+  - I3C subsystem;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - Media drivers;
+  - NVIDIA Tegra memory controller driver;
+  - Fastrpc Driver;
+  - Network drivers;
+  - Operating Performance Points (OPP) driver;
+  - PCI subsystem;
+  - x86 platform drivers;
+  - PPS (Pulse Per Second) driver;
+  - PTP clock…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forgejo 12.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/forgejo-12.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/forgejo-12.0"/>
+        <updated>2025-07-18T10:04:17.000Z</updated>
+        <summary type="html"><![CDATA[V programovacím jazyce Go naprogramovaná webová aplikace pro spolupráci na zdrojových kódech pomocí gitu Forgejo byla vydána ve verzi 12.0 (Mastodon). Forgejo je fork Gitei.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7655-1: Linux kernel (Intel IoTG) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7655-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7655-1"/>
+        <updated>2025-07-18T09:55:36.000Z</updated>
+        <summary type="html"><![CDATA[Michael Randrianantenaina discovered that the Bluetooth driver in the Linux
+Kernel contained an improper access control vulnerability. A nearby
+attacker could use this to connect a rougue device and possibly execute
+arbitrary code. (CVE-2024-8805)
+
+It was discovered that the CIFS network file system implementation in the
+Linux kernel did not properly verify the target namespace when handling
+upcalls. An attacker could use this to expose sensitive information.
+(CVE-2025-2312)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - PA-RISC architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI driver…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7654-3: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7654-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7654-3"/>
+        <updated>2025-07-18T09:43:29.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - PA-RISC architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - Serial ATA and Parallel ATA drivers;
+  - Bluetooth drivers;
+  - Bus devices;
+  - CPU frequency scaling framework;
+  - Buffer Sharing and Synchronization framework;
+  - DMA engine subsystem;
+  - ARM SCMI message protocol;
+  - GPU drivers;
+  - HID subsystem;
+  - HSI subsystem;
+  - I2C subsystem;
+  - I3C subsystem;
+  - IIO subsystem;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - IRQ chip drivers;
+  - MCB driver;
+  - Multiple devices driver;
+  - Media drivers;
+  - Multifunction device dri…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7654-2: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7654-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7654-2"/>
+        <updated>2025-07-18T09:32:30.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - PA-RISC architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - Serial ATA and Parallel ATA drivers;
+  - Bluetooth drivers;
+  - Bus devices;
+  - CPU frequency scaling framework;
+  - Buffer Sharing and Synchronization framework;
+  - DMA engine subsystem;
+  - ARM SCMI message protocol;
+  - GPU drivers;
+  - HID subsystem;
+  - HSI subsystem;
+  - I2C subsystem;
+  - I3C subsystem;
+  - IIO subsystem;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - IRQ chip drivers;
+  - MCB driver;
+  - Multiple devices driver;
+  - Media drivers;
+  - Multifunction device dri…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rune Factory: Guardians Of Azuma Update Now Live, Here Are The Patch Notes]]></title>
+        <id>https://www.nintendolife.com/#article-185387</id>
+        <link href="https://www.nintendolife.com/news/2025/07/rune-factory-guardians-of-azuma-update-now-live-here-are-the-patch-notes"/>
+        <updated>2025-07-18T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Moulding behaviour.
+Marvelous has recently released a new update for Rune Factory: Guardians of Azuma on both the Switch and Switch 2, bringing the game up to version 1.0.5.
+It's not a massive one, but there are definitely a few tweaks here that should improve your experience with the game considerably. Heck, we love Woolby, but reducing how often the dude pipes up is a big win in our books.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Center Pop-up Store 2025 World Championships reservations go live July 21]]></title>
+        <id>https://www.destructoid.com/?p=1092653</id>
+        <link href="https://www.destructoid.com/pokemon-center-pop-up-store-2025-world-championships-reservations-go-live-july-21/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=pokemon-center-pop-up-store-2025-world-championships-reservations-go-live-july-21"/>
+        <updated>2025-07-18T09:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The Pokémon Company has shadow-dropped news ahead of the Pokémon World Championships 2025, confirming when fans attending the event in Anaheim will be able to reserve their slot on the on-site Pokémon Center to get that exclusive merch.
+
+
+The Pop-Up Pokémon Center will only be available for those in Anaheim, and reservations will only be open to registered spectators, competitors, or those who are approved for a pass at the event. This decision has likely been made to stop the public, and scalpers who didn't get a ticket the ability to go in and hoard all the items themselves. Whether or not that'll reduce the selling out and scalping of merchandise remains to be seen.
+
+
+For those going to the Anaheim Convention Center in Anaheim, California. Reservations are open from 2 pm CT, Monday, Jul…]]></summary>
+        <author>
+            <name>Adam Newell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pair Behind 400 Block-Evading Pirate Porn Sites Face Prosecution]]></title>
+        <id>https://torrentfreak.com/?p=269829</id>
+        <link href="https://torrentfreak.com/pair-behind-400-block-evading-pirate-porn-sites-face-prosecution-250718/"/>
+        <updated>2025-07-18T09:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Law enforcement authorities in Vietnam will prosecute the operators of around 400 pirate sites offering pornographic content. Such material is illegal in Vietnam and the authorities say the men made large profits from visitors viewing lucrative advertising. Also of note are claims that the men circumvented blocking measures at ISPs either owned by, or closely connected to, the government.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 most expensive cards in Pokémon TCG Black Bolt and White Flare]]></title>
+        <id>https://www.destructoid.com/?p=1092599</id>
+        <link href="https://www.destructoid.com/top-10-most-expensive-cards-in-pokemon-tcg-black-bolt-and-white-flare/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=top-10-most-expensive-cards-in-pokemon-tcg-black-bolt-and-white-flare"/>
+        <updated>2025-07-18T09:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Pokémon Trading Card Game’s JSV Black Bolt, White Flare expansions have arrived and focus on the Unova region, with hundreds of cards to collect, including rare illustration art for nearly every Pokémon in the Pokédex.
+
+
+Surprisingly, most of the cards in this set are pretty affordable currently. There are a lot of them to collect, which is likely bringing the overall price down. However, that doesn't mean that some of the main chase cards have escaped inflated prices. Still, there are some to look out for in both, so here is a list of the top 10 cards from both packs (5 from each). 
+
+
+To get the prices in this article, we looked over multiple price websites, including TCGPlayer, eBay, Price Charting, and more, to get a comprehensive price guide based on pre-release sales data. The prices …]]></summary>
+        <author>
+            <name>Adam Newell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7654-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7654-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7654-1"/>
+        <updated>2025-07-18T09:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - PA-RISC architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - Serial ATA and Parallel ATA drivers;
+  - Bluetooth drivers;
+  - Bus devices;
+  - CPU frequency scaling framework;
+  - Buffer Sharing and Synchronization framework;
+  - DMA engine subsystem;
+  - ARM SCMI message protocol;
+  - GPU drivers;
+  - HID subsystem;
+  - HSI subsystem;
+  - I2C subsystem;
+  - I3C subsystem;
+  - IIO subsystem;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - IRQ chip drivers;
+  - MCB driver;
+  - Multiple devices driver;
+  - Media drivers;
+  - Multifunction device dri…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How many sublayers in Donkey Kong Bananza]]></title>
+        <id>https://www.destructoid.com/?p=1092568</id>
+        <link href="https://www.destructoid.com/how-many-sublayers-in-donkey-kong-bananza/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-many-sublayers-in-donkey-kong-bananza"/>
+        <updated>2025-07-18T08:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Donkey Kong Bananza's sublayers are basically the various worlds you can visit as you progress through the main story. There are a bunch of them to find, and an additional level once you beat the post-game.
+
+
+First of all, spoiler warning. We will be going through every sublayer the game has, giving a bit of detail on what it is like and how you get there, so if you don't want to be spoiled on the various sublayers, turn back now.
+
+
+If you want a number, though, then I'll let you know that answer right now. It's 17, with 16 of those being tied to the main story, and one you unlock after beating the game. But with that out of the way, let's dive into each one of them you will encounter.
+
+
+Table of contents
+All sublayers in Donkey Kong Bananza
+
+SL10 Ingot Isle Cave-In (Terrain Strength 1/5)
+…]]></summary>
+        <author>
+            <name>Adam Newell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Dark Queen Of Mortholme is a reverse Elden Ring where you play the final boss]]></title>
         <id>https://www.rockpapershotgun.com/the-dark-queen-of-mortholme-is-a-reverse-elden-ring-where-you-play-the-final-boss</id>
@@ -197,7 +473,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>www.root.cz-text-18219</id>
         <link href="https://www.root.cz/clanky/jak-se-zije-s-11-let-starym-pc-z-aliexpresu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2025-07-17T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Zatímco prodejny repasovaných počítačů v ČR se plní relativně drahými starými stroji vyřazenými z kanceláří, Číňané ve velkém vyrábějí nové desky a DDR4 ECC moduly pro staré mnohojádrové Xeony a úak top na Alíkovi prodávají doslova za pár šupů. Není to podvod? Je to použitelné?]]></summary>
+        <summary type="html"><![CDATA[Zatímco prodejny repasovaných počítačů v ČR se plní relativně drahými starými stroji vyřazenými z kanceláří, Číňané ve velkém vyrábějí nové desky a pak to na Alíkovi prodávají za pár šupů. Není to podvod? Je to použitelné?]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -965,78 +1241,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7648-1: PHP vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7648-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7648-1"/>
-        <updated>2025-07-17T15:25:33.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that PHP incorrectly handled certain hostnames containing
-null characters. A remote attacker could possibly use this issue to bypass
-certain hostname validation checks. (CVE-2025-1220)
-
-It was discovered that PHP incorrectly handled the pgsql and pdo_pgsql
-escaping functions. A remote attacker could possibly use this issue to
-cause PHP to crash, resulting in a denial of service. (CVE-2025-1735)
-
-It was discovered that PHP incorrectly handled parsing certain XML data in
-SOAP extensions. A remote attacker could possibly use this issue to cause
-PHP to crash, resulting in a denial of service. (CVE-2025-6491)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7649-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7649-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7649-1"/>
-        <updated>2025-07-17T15:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PA-RISC architecture;
-  - PowerPC architecture;
-  - S390 architecture;
-  - x86 architecture;
-  - Compute Acceleration Framework;
-  - Ublk userspace block driver;
-  - Bluetooth drivers;
-  - ARM SCMI message protocol;
-  - GPU drivers;
-  - IOMMU subsystem;
-  - IRQ chip drivers;
-  - Multiple devices driver;
-  - Network drivers;
-  - PCI subsystem;
-  - PTP clock framework;
-  - SPI subsystem;
-  - BTRFS file system;
-  - SMB network file system;
-  - eXpress Data Path;
-  - Universal MIDI packet (UMP) support module;
-  - Tracing infrastructure;
-  - Memory management;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Network traffic control;
-  - AMD SoC Alsa drivers;
-  - SoC Audio generic drivers;
-(CVE-2025-37898, CVE-2025-37990, CVE-2025-37974, CVE-2025-37991,
-CVE-2025-37894, CVE-2025-37906, CVE-2025-37896, CVE-2025-37909,
-CVE-2025-37923, CVE-2025-37899, CVE-2025-37901, CVE-2025-37914,
-CVE-2025-38216, CVE-2025-37931, CVE-2025-37928, CVE-2025-37916,
-CVE-2025-37908, CVE-2025-37915, CVE-2025-37917, CVE-2025-37921,
-CVE-2025-37903, CVE-2025-37922, CVE-2025-37895, CVE-2025-37936,
-CVE-2025-37933, CVE-2025-37891, CVE-2025-37926, CVE-2025-37912,
-CVE-2025-37920, CVE-2025-37924, CVE-2025-37927, CVE-2025-37946,
-CVE-2025-37907, CVE-2025-37930, CVE-2025-37911, CVE-2025-37905,
-CVE-2025-37900, CVE-2025-37929, CVE-2025-37910, CVE-2025-37913,
-CVE-2025-37935, CVE-2025-37919, CVE-2025-37918, CVE-2025-37897,
-CVE-2025-37904, CVE-2025-37934)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nintendo Download: 17th July (North America)]]></title>
         <id>https://www.nintendolife.com/#article-185321</id>
         <link href="https://www.nintendolife.com/news/2025/07/nintendo-download-17th-july-north-america"/>
@@ -1106,46 +1310,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7647-1: LedgerSMB vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7647-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7647-1"/>
-        <updated>2025-07-17T14:39:24.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that LedgerSMB did not check the origin of HTML
-fragments. An attacker could possibly use this issue to send a
-maliciously crafted URL to the server and obtain sensitive
-information, or execute arbitrary code. This issue only affected
-Ubuntu 22.04 LTS, Ubuntu 24.04 LTS, and Ubuntu 25.04.
-(CVE-2021-3693)
-
-It was discovered that LedgerSMB did not properly encode HTML
-error messages. An attacker could possibly use this issue to send
-a maliciously crafted URL to the server and obtain sensitive
-information, or execute arbitrary code. This issue only affected
-Ubuntu 18.04 LTS. (CVE-2021-3694)
-
-It was discovered that LedgerSMB did not guard against discrete
-link redirections. An attacker could possibly use this issue to
-obtain sensitive information. This issue only affected Ubuntu
-16.04 LTS and Ubuntu 18.04 LTS. (CVE-2021-3731)
-
-It was discovered that LedgerSMB did not properly set the 'Secure'
-attribute during HTTPS sessions. If a user were tricked into using
-an unencrypted connection, an attacker could possibly use this
-issue to obtain sensitive information. This issue only affected
-Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, Ubuntu 24.04 LTS, and Ubuntu
-25.04. (CVE-2021-3882)
-
-It was discovered that LedgerSMB could create admin accounts via
-a URL. If an admin were tricked into clicking a maliciously
-crafted URL, an attacker could possibly use this issue to
-achieve privilege escalation. This issue only affected Ubuntu 20.04
-LTS, Ubuntu 22.04 LTS, Ubuntu 24.04 LTS, and Ubuntu 25.04.
-(CVE-2024-23831)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Gaming Handheld Transforms From A Nintendo Switch Into A DS But It Won't Come Cheap]]></title>
         <id>1851786481</id>
         <link href="https://kotaku.com/onexsugar-android-switch-ds-handheld-snapdragon-gen-3-1851786481"/>
@@ -1180,35 +1344,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7646-1: Rails vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7646-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7646-1"/>
-        <updated>2025-07-17T14:22:57.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Rails did not correctly handle headers. An
-attacker could potentially use this issue to view arbitrary files
-on a target server. (CVE-2019-5418)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7609-5: Linux kernel (Azure) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7609-5</id>
-        <link href="https://ubuntu.com/security/notices/USN-7609-5"/>
-        <updated>2025-07-17T14:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - InfiniBand drivers;
-  - Netfilter;
-  - Network traffic control;
-(CVE-2025-38001, CVE-2025-37798, CVE-2025-37932, CVE-2025-37997,
-CVE-2025-38000, CVE-2025-22088, CVE-2025-37890)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hyprland 0.50.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/hyprland-0.50.0</id>
         <link href="http://www.abclinuxu.cz/zpravicky/hyprland-0.50.0"/>
@@ -1227,18 +1362,6 @@ CVE-2025-38000, CVE-2025-22088, CVE-2025-37890)]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokemon Center “Mega Evolution” Preorders Now Up!]]></title>
-        <id>156211</id>
-        <link href="https://www.pokebeach.com/forums/threads/pokemon-center-%E2%80%9Cmega-evolution%E2%80%9D-preorders-now-up.156211/"/>
-        <updated>2025-07-17T14:04:55.000Z</updated>
-        <summary type="html"><![CDATA[Preorders for Mega Evolution products are now available on the Pokemon Center! The set will release on September 26th.
-Customers may only preorder one of each item, as was the case for the last few sets.
-You will have to wait in a virtual queue to enter the website, a system that was implemented...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1455,8 +1578,8 @@ Read more...]]></summary>
         <link href="https://www.nintendolife.com/news/2025/07/mini-review-tomtoc-fancycase-g05-for-switch-2-a-slim-case-that-nails-the-fundamentals"/>
         <updated>2025-07-17T12:00:00.000Z</updated>
         <summary type="html"><![CDATA[Set autocorrect to 'tomato'.
-<video url="https://youtu.be/tNIcd1XcBZ0" start="04:31s" image="4"></video>
 Sometimes simplicity is key, and when such simplicity is available for a decent price ($36.99 on Amazon at the moment), that’s an even sweeter peach to sink your teeth into. Don’t bite the tomtoc FancyCase G05, mind you, although in all likelihood you wouldn’t do any damage to the console inside.
+Yes, it might look simple from the outside (and it is), but this little case is well worth a look if you want to keep your Switch 2 console safe. The first thing you’ll notice is that this is a slim case. There’s very little wasted space at all, and when a gap is present, it’s for a good reason. There are even raised areas in the top in which your Joy-Con sticks can safely nestle themselves.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2039,82 +2162,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to complete the EA FC 25 FUTTIES: Sharpshooter Objective]]></title>
-        <id>https://www.destructoid.com/?p=1092074</id>
-        <link href="https://www.destructoid.com/how-to-complete-the-ea-fc-25-futties-sharpshooter-objective/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-complete-the-ea-fc-25-futties-sharpshooter-objective"/>
-        <updated>2025-07-16T19:54:02.000Z</updated>
-        <summary type="html"><![CDATA[The FUTTIES: Sharpshooter Objective is an interesting set of tasks to complete in EA FC 25 if you're looking to unlock an amazing evolution.
-
-
-This objective set has five different tasks, and you can obtain up to three fantastic evolutions and great fodder packs. While it all sounds simple, the actual twist lies in the descriptions. The tasks can only be completed with very specific cards currently in Ultimate Team.
-
-
-EA FC 25 FUTTIES: Sharpshooter Objective explained
-
-
-The FUTTIES: Sharpshooter Objective has five tasks to complete. Let's quickly go through the conditions and offered rewards. 
-
-
-Task
-How to Complete
-Rewards
-
-
-
-
-Score 10
-Score 10 goals with a 99 SHO face stat Player Item in any Ultimate Team game mode
-Quick Step+ Evolution
-
-
-Assist 10
-Assist 10 goals with a 99 SHO face stat…]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to locate and acquire the Outer Steppes Strangelet Capsule in Destiny 2 Edge of Fate]]></title>
-        <id>https://www.destructoid.com/?p=1092082</id>
-        <link href="https://www.destructoid.com/outer-steppes-strangelet-capsule-in-destiny-2-edge-of-fate/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=outer-steppes-strangelet-capsule-in-destiny-2-edge-of-fate"/>
-        <updated>2025-07-16T19:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Sometimes, Destiny 2's objective markers don't function properly or are confusing in how they're presented. This is the case in one of The Edge of Fate's campaign missions.
-
-
-In The Outer Steppes Strangelet quest, part of the expansion's story, one of the markers in the quest's steps is confusing players, myself included. But once you figure out where you need to go, the rest of the quest is relatively smooth sailing as you use Matterspark, the Relocator, and eventually the new Mattermorph ability to your advantage.
-
-
-Here's how to find where to go in that pesky Outer Steppes Strangelet Capsule quest.
-
-
-Destiny 2 Edge of Fate - The Outer Steppes Strangelet Capsule
-
-
-Screenshot by Destructoid
-
-
-If you're ever lost in Destiny 2, pull out your Ghost (Tab on PC, Touchpad/Start button on contro…]]></summary>
-        <author>
-            <name>Scott Duwe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seriously, what is the appeal of gacha games?]]></title>
-        <id>https://www.destructoid.com/?p=1092056</id>
-        <link href="https://www.destructoid.com/seriously-what-is-the-appeal-of-gacha-games/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=seriously-what-is-the-appeal-of-gacha-games"/>
-        <updated>2025-07-16T19:45:04.000Z</updated>
-        <summary type="html"><![CDATA[I've been around for a few years and seen all sorts of games and genres pop up. Over the past decade or so, however, one particular "genre" caught my eye, one whose appeal I never really understood. And that is, drum roll, gacha. 
-
-
-From Limbus Company to Fate: Grand Order to the currently massively popular Umamusume, there have been more than a few gacha games on the market these past few years. Even games that you wouldn't consider gachas from a trailer or some images turn out to be precisely that: Genshin Impact, Zenless Zone Zero, and so on. The core aspect of such a game is that there are currencies to be spent in-game, most of them purchased for real money and used in "pulls," i.e., virtual slot machines that may or may not give you something worthwhile.
-
-
-And your whole success, if …]]></summary>
-        <author>
-            <name>Andrej Barovic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mesa 25.1.6 Released With Intel Xe3 Panther Lake Graphics Enabled By Default]]></title>
         <id>https://www.phoronix.com/news/Mesa-25.1.6-Released</id>
         <link href="https://www.phoronix.com/news/Mesa-25.1.6-Released"/>
@@ -2270,19 +2317,6 @@ Read more]]></summary>
 Read more...]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonic Racing: Crossworlds On Switch 2 Will Feature The Full Base Game On Cartridge]]></title>
-        <id>https://www.nintendolife.com/#article-185313</id>
-        <link href="https://www.nintendolife.com/news/2025/07/sonic-racing-crossworlds-on-switch-2-will-feature-the-full-base-game-on-cartridge"/>
-        <updated>2025-07-16T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[That's right, no Game-Key Card!
-Sega has just earned itself a big win by confirming that Sonic Racing: CrossWorlds on the Switch 2 will not be a Game-Key Card when it launches physically in early 2026.
-In a press release, the company confirmed that Crossworlds will launch digitally on Switch 2 in Holiday 2025 and physically in Early 2026, with two versions available for digital purchases. The standard is priced at £64.99 and the Digital Deluxe is priced at £74.99. It's not known at this time how much the physical version will cost.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -3059,16 +3093,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[One month ago there was the report on Phoronix of the Broadcom "BNGE" open-source driver being published for forthcoming BCM5770X networking chipsets. That new Broadcom BNGE driver is now set to be introduced in the upcoming Linux 6.17 kernel for supporting the new Broadcom wired networking hardware at up to 800 Gigabit speeds...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 4.5 LTS]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/blender-4.5-lts</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/blender-4.5-lts"/>
-        <updated>2025-07-15T15:29:58.000Z</updated>
-        <summary type="html"><![CDATA[3D software Blender byl vydán ve verzi 4.5 s prodlouženou podporou. Podrobnosti v poznámkách k vydání. Videopředstavení na YouTube.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4826,17 +4850,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Ve Sluneční soustavě nejspíš našli třetí objekt mezihvězdného původu. Nově navržené konfigurace permanentních magnetů překonávají klasické Halbachovo uspořádání. Poprvé pozorovali mionové ionty s velkým elektrickým nábojem. Digitální vědomí pod lupou. První snímky vzdálených galaxií z nové observatoře Very C. Rubin.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[’28 Days Later’ is a Hit on Pirate Sites… 23 Years Later]]></title>
-        <id>https://torrentfreak.com/?p=269272</id>
-        <link href="https://torrentfreak.com/28-days-later-is-a-hit-on-pirate-sites-23-years-later/"/>
-        <updated>2025-07-03T08:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Post-apocalyptic horror film '28 Years Later' is doing well at the box office, with $100 million in revenue in its first two weeks. The latest installment in the horror franchise also renewed interest in the previous films, with '28 Weeks Later' showing up in various streaming charts. The original '28 Days Later' is less widely available due to licensing issues, so many have turned to pirate sites instead.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
