@@ -1,10 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-22T06:23:06.269Z</id>
+    <id>urn:2025-07-22T08:21:53.838Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-07-22T06:23:06.269Z</updated>
+    <updated>2025-07-22T08:21:53.838Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-7654-4: Linux kernel (KVM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7654-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7654-4"/>
+        <updated>2025-07-22T07:44:23.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - PA-RISC architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - Serial ATA and Parallel ATA drivers;
+  - Bluetooth drivers;
+  - Bus devices;
+  - CPU frequency scaling framework;
+  - Buffer Sharing and Synchronization framework;
+  - DMA engine subsystem;
+  - ARM SCMI message protocol;
+  - GPU drivers;
+  - HID subsystem;
+  - HSI subsystem;
+  - I2C subsystem;
+  - I3C subsystem;
+  - IIO subsystem;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - IRQ chip drivers;
+  - MCB driver;
+  - Multiple devices driver;
+  - Media drivers;
+  - Multifunction device dri…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7651-3: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7651-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7651-3"/>
+        <updated>2025-07-22T07:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - PowerPC architecture;
+  - S390 architecture;
+  - Block layer subsystem;
+  - Serial ATA and Parallel ATA drivers;
+  - Drivers core;
+  - Network block device driver;
+  - Character device driver;
+  - TPM device driver;
+  - Clock framework and drivers;
+  - FireWire subsystem;
+  - GPU drivers;
+  - HID subsystem;
+  - I3C subsystem;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - Media drivers;
+  - NVIDIA Tegra memory controller driver;
+  - Fastrpc Driver;
+  - Network drivers;
+  - Operating Performance Points (OPP) driver;
+  - PCI subsystem;
+  - x86 platform drivers;
+  - PPS (Pulse Per Second) driver;
+  - PTP clock…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7649-2: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7649-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7649-2"/>
+        <updated>2025-07-22T07:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PA-RISC architecture;
+  - PowerPC architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - Compute Acceleration Framework;
+  - Ublk userspace block driver;
+  - Bluetooth drivers;
+  - ARM SCMI message protocol;
+  - GPU drivers;
+  - IOMMU subsystem;
+  - IRQ chip drivers;
+  - Multiple devices driver;
+  - Network drivers;
+  - PCI subsystem;
+  - PTP clock framework;
+  - SPI subsystem;
+  - BTRFS file system;
+  - SMB network file system;
+  - eXpress Data Path;
+  - Universal MIDI packet (UMP) support module;
+  - Tracing infrastructure;
+  - Memory management;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Network traffic control;
+  - AMD SoC Alsa drivers;
+  - SoC Audio generic drivers;
+(CVE-2025-37974, CVE-2025-37931, CVE-2025-37990, CVE-2025-37921,
+CVE-2025-37917, CVE-2025-37908, CVE-2025-37906, CVE-2025-37896,
+CVE-2025-37919, CVE-2025-37909, CVE-2025-37934, CVE-2025-37897,
+CVE-2025-37912, CVE-2025-37923, CVE-2025-37904, CVE-2025-37894,
+CVE-2025-38216, CVE-2025-37930, CVE-2025-37935, CVE-2025-37910,
+CVE-2025-37933, CVE-2025-37916, CVE-2025-37907, CVE-2025-37913,
+CVE-2025-37905, CVE-2025-37918, CVE-2025-37915, CVE-2025-37927,
+CVE-2025-37991, CVE-2025-37929, CVE-2025-37924, CVE-2025-37920,
+CVE-2025-37901, CVE-2025-37900, CVE-2025-37922, CVE-2025-37898,
+CVE-2025-37946, CVE-2025-37914, CVE-2025-37936, CVE-2025-37926,
+CVE-2025-37899, CVE-2025-37895, CVE-2025-37903, CVE-2025-37911,
+CVE-2025-37891, CVE-2025-37928)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to find the Teal Dragon and Black Pegasus in Disney Dreamlight Valley]]></title>
         <id>https://www.destructoid.com/?p=1080869</id>
@@ -22,6 +147,25 @@ Where to find the Teal Dragon and Black Pegasus in Disney Dreamlight Valley
 At the time of writing, Gameloft hasn't implemented the Teal Baby Dragon and Black Pegasus into Disney Dreamlight Valley: The Storybook Vale. Despite the expansion's story concluding during its July 9 …]]></summary>
         <author>
             <name>Madison Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7661-1: GoBGP vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7661-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7661-1"/>
+        <updated>2025-07-22T04:58:40.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that GoBGP did not properly manage memory under
+certain circumstances, which could lead to a buffer overflow. An
+attacker could possibly use this issue to cause a denial of service. This
+issue was only addressed in Ubuntu 22.04 LTS and Ubuntu 20.04 LTS.
+(CVE-2023-46565)
+
+It was discovered that GoBGP did not properly verify the length of
+certain inputs. An attacker could possibly use this issue to cause a
+panic resulting in a denial of service.
+(CVE-2025-43970, CVE-2025-43971, CVE-2025-43972, CVE-2025-43973)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1509,26 +1653,6 @@ The post Speedrunners are beating Donkey King Bananza in under two hours appeare
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-6885-5: Apache HTTP Server vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-6885-5</id>
-        <link href="https://ubuntu.com/security/notices/USN-6885-5"/>
-        <updated>2025-07-21T10:18:45.000Z</updated>
-        <summary type="html"><![CDATA[USN-6885-1 fixed vulnerabilities in Apache. This update provides
-the corresponding updates for Ubuntu 14.04 LTS.
-
-Original advisory details:
-
- Orange Tsai discovered that the Apache HTTP Server mod_rewrite module
- incorrectly handled certain substitutions. A remote attacker could
- possibly use this issue to execute scripts in directories not directly
- reachable by any URL, or cause a denial of service. Some environments
- may require using the new UnsafeAllow3F flag to handle unsafe
- substitutions. (CVE-2024-38474, CVE-2024-38475)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3023,42 +3147,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7651-2: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7651-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7651-2"/>
-        <updated>2025-07-18T10:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - PowerPC architecture;
-  - S390 architecture;
-  - Block layer subsystem;
-  - Serial ATA and Parallel ATA drivers;
-  - Drivers core;
-  - Network block device driver;
-  - Character device driver;
-  - TPM device driver;
-  - Clock framework and drivers;
-  - FireWire subsystem;
-  - GPU drivers;
-  - HID subsystem;
-  - I3C subsystem;
-  - InfiniBand drivers;
-  - IOMMU subsystem;
-  - Media drivers;
-  - NVIDIA Tegra memory controller driver;
-  - Fastrpc Driver;
-  - Network drivers;
-  - Operating Performance Points (OPP) driver;
-  - PCI subsystem;
-  - x86 platform drivers;
-  - PPS (Pulse Per Second) driver;
-  - PTP clock…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Forgejo 12.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/forgejo-12.0</id>
         <link href="http://www.abclinuxu.cz/zpravicky/forgejo-12.0"/>
@@ -3066,71 +3154,6 @@ This update corrects flaws in the following subsystems:
         <summary type="html"><![CDATA[V programovacím jazyce Go naprogramovaná webová aplikace pro spolupráci na zdrojových kódech pomocí gitu Forgejo byla vydána ve verzi 12.0 (Mastodon). Forgejo je fork Gitei.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7655-1: Linux kernel (Intel IoTG) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7655-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7655-1"/>
-        <updated>2025-07-18T09:55:36.000Z</updated>
-        <summary type="html"><![CDATA[Michael Randrianantenaina discovered that the Bluetooth driver in the Linux
-Kernel contained an improper access control vulnerability. A nearby
-attacker could use this to connect a rougue device and possibly execute
-arbitrary code. (CVE-2024-8805)
-
-It was discovered that the CIFS network file system implementation in the
-Linux kernel did not properly verify the target namespace when handling
-upcalls. An attacker could use this to expose sensitive information.
-(CVE-2025-2312)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - PA-RISC architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI driver…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7654-3: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7654-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7654-3"/>
-        <updated>2025-07-18T09:43:29.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - PA-RISC architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Serial ATA and Parallel ATA drivers;
-  - Bluetooth drivers;
-  - Bus devices;
-  - CPU frequency scaling framework;
-  - Buffer Sharing and Synchronization framework;
-  - DMA engine subsystem;
-  - ARM SCMI message protocol;
-  - GPU drivers;
-  - HID subsystem;
-  - HSI subsystem;
-  - I2C subsystem;
-  - I3C subsystem;
-  - IIO subsystem;
-  - InfiniBand drivers;
-  - IOMMU subsystem;
-  - IRQ chip drivers;
-  - MCB driver;
-  - Multiple devices driver;
-  - Media drivers;
-  - Multifunction device dri…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
