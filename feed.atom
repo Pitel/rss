@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-27T12:29:18.908Z</id>
+    <id>urn:2025-07-27T14:13:34.443Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-07-27T12:29:18.908Z</updated>
+    <updated>2025-07-27T14:13:34.443Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.17 Introducing Support For The NVIDIA Tegra T264/Thor, New RISC-V SoCs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.17-SoCs</id>
+        <link href="https://www.phoronix.com/news/Linux-6.17-SoCs"/>
+        <updated>2025-07-27T13:55:55.000Z</updated>
+        <summary type="html"><![CDATA[In advance of the Linux 6.17 merge window expected to open soon following the Linux 6.16 release, all of the SoC updates have been submitted to Linus Torvalds for this next kernel version...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JustInBasil, Longtime Contributor to the Pokemon TCG Community, Has Passed Away]]></title>
         <id>156253</id>
         <link href="https://www.pokebeach.com/forums/threads/justinbasil-longtime-contributor-to-the-pokemon-tcg-community-has-passed-away.156253/"/>
-        <updated>2025-07-27T12:24:40.000Z</updated>
+        <updated>2025-07-27T13:54:51.000Z</updated>
         <summary type="html"><![CDATA[It is with a heavy heart that I share that my dear friend JustInBasil (Jason Kingsford) unexpectedly passed away last night. He was 36.
 Jason was a pillar of the Pokemon TCG community -- a selfless and passionate person who devoted himself to helping people connect, learn, and grow through the...]]></summary>
         <author>
@@ -17,16 +27,37 @@ Jason was a pillar of the Pokemon TCG community -- a selfless and passionate per
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ACE & MPA Continued to Scoop Up Pirate Domains in Bulk During Q2 2025]]></title>
+        <id>https://torrentfreak.com/?p=270139</id>
+        <link href="https://torrentfreak.com/ace-mpa-continued-to-scoop-up-pirate-domains-in-bulk-during-q2-2025-250727/"/>
+        <updated>2025-07-27T13:26:08.000Z</updated>
+        <summary type="html"><![CDATA[In Q2 2025, anti-piracy coalition Alliance for Creativity and Entertainment continued to 'seize' domains in bulk, adding to the world's largest collection of former pirate domains maintained by the MPA. While the archive contains countless unique and memorable domains, many with interesting and informative backstories, new additions illustrate typical responses to site blocking measures and very little else.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Delibird Illustration Rare Revealed from “Mega Symphonia”]]></title>
         <id>156254</id>
         <link href="https://www.pokebeach.com/forums/threads/delibird-illustration-rare-revealed-from-%E2%80%9Cmega-symphonia%E2%80%9D.156254/"/>
-        <updated>2025-07-27T11:00:53.000Z</updated>
+        <updated>2025-07-27T13:19:31.000Z</updated>
         <summary type="html"><![CDATA[An Illustration Rare version of Delibird has been revealed from Japan's Mega Symphonia, which releases August 1st. All of the cards from the main set were revealed earlier this week. The rest of the secret rares will be revealed by next week.
 Delibird - Colorless - HP90
 Basic Pokemon
 [C] Fast...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Ubuntu Concept Snapdragon X Laptop ISOs Published - Your Mileage May Vary]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-25.04-Concept-X1-2</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-25.04-Concept-X1-2"/>
+        <updated>2025-07-27T12:37:25.000Z</updated>
+        <summary type="html"><![CDATA[A few days back I wrote about Canonical releasing new Ubuntu 25.04 "Concept" ISOs for the Snapdragon X laptops with the new install images being re-based to the Linux 6.16 kernel and expanding the device support. But as I found out from my own testing, depending upon the laptop the support was still less than ideal. Since then there have been two more ISO releases and addressing one of my show-stopping problems albeit encountering another...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2902,16 +2933,6 @@ So basically, one day I was bored and felt like making a team, purely by the use
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Linux Kernel Seeing Rare Code Activity Around SPARC64]]></title>
-        <id>https://www.phoronix.com/news/Linux-SPARC64-vDSO-Library</id>
-        <link href="https://www.phoronix.com/news/Linux-SPARC64-vDSO-Library"/>
-        <updated>2025-07-24T10:25:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the CPU architectures continuing to be supported by the mainline Linux kernel but rarely ever seeing any code activity is the SPARC64 architecture port for the once-interesting processors from Sun Microsystems...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[President Trump: It’s Not Doable for AI Companies to Pay for All Copyrighted Input]]></title>
         <id>https://torrentfreak.com/?p=270148</id>
         <link href="https://torrentfreak.com/president-trump-its-not-doable-for-ai-companies-to-pay-for-all-copyrighted-input/"/>
@@ -3054,16 +3075,6 @@ This update corrects flaws in the following subsystems:
  Read more]]></summary>
         <author>
             <name>Christian Wait</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve Linux Engineer Working On A Big Improvement For Old AMD Radeon GPUs]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-DC-Analog-GCN-1.0-1.1</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-DC-Analog-GCN-1.0-1.1"/>
-        <updated>2025-07-24T00:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Timur Kristóf as a contractor on Valve's open-source Linux graphics driver team is known for his work on the RADV Vulkan driver and ACO shader compiler but recently he's been working on some improvements to the AMDGPU kernel driver. A big feat he's been tackling is enabling support for analog display connectors within the AMDGPU driver for the "DC" code. Besides a few supported older GPUs having DVI-I connections, this analog support is significant in that it's a milestone for unblocking the aging GCN 1.0 and GCN 1.1 GPUs from using the modern AMDGPU driver by default...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4989,17 +5000,6 @@ Tomu říkám široký záběr.
 (Tento post nemá žádný skrytý hlubší smysl.)]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Says SCOTUS Decision in Cox vs. Sony Will Impact Publishers’ Lawsuit]]></title>
-        <id>https://torrentfreak.com/?p=269655</id>
-        <link href="https://torrentfreak.com/google-says-scotus-decision-in-cox-vs-sony-will-impact-publishers-lawsuit-250712/"/>
-        <updated>2025-07-12T10:57:29.000Z</updated>
-        <summary type="html"><![CDATA[A lawsuit, filed by several publishers in 2024, accused Google of not doing enough to prevent piracy while simultaneously profiting from it. A recent success for Google led to the dismissal of the publishers' vicarious liability claim, leaving a claim for contributory infringement to be decided. In a letter to the court on Thursday, counsel for Google requested a stay, pending the Supreme Court's decision in Cox vs. Sony, and a “potentially dispositive” impact on the case.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
