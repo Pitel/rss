@@ -1,10 +1,117 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-28T08:23:56.001Z</id>
+    <id>urn:2025-07-28T10:17:45.589Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-07-28T08:23:56.001Z</updated>
+    <updated>2025-07-28T10:17:45.589Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 25.10 TPM-Backed Full Disk Encryption Will Be Considered Experimental]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-25.10-TPM-FDE</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-25.10-TPM-FDE"/>
+        <updated>2025-07-28T10:07:01.000Z</updated>
+        <summary type="html"><![CDATA[For the past two years Ubuntu developers have been talking about adding TPM-based full disk encryption to the installer for those wanting to leverage their system's Trusted Platform Module 2.0 capabilities to enhance security. It looks like for Ubuntu 25.10 this October that support will finally be in good shape...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam's redesigned store menu is out in beta, so you can take the freshly embiggened search bar for a spin]]></title>
+        <id>https://www.rockpapershotgun.com/steams-redesigned-store-menu-is-out-in-beta-so-you-can-take-the-freshly-embiggened-search-bar-for-a-spin</id>
+        <link href="https://www.rockpapershotgun.com/steams-redesigned-store-menu-is-out-in-beta-so-you-can-take-the-freshly-embiggened-search-bar-for-a-spin"/>
+        <updated>2025-07-28T10:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Valve have released a revamped Steam store menu in beta, so folks can give a number of changes a whirl and offer feedback ahead of the full rollout.
+As the pipe-themed company wrote in a news post about the menu emerging from the labs for this testing, the main goal of its changes is to offer "easier access to the places Steam users most frequently visit". Insert joke about the sorts of weird stuff one can have lurking in their Steam library here.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Panther Lake Perf Integration Ready For Linux 6.17]]></title>
+        <id>https://www.phoronix.com/news/LInux-6.17-Intel-Perf-PTL</id>
+        <link href="https://www.phoronix.com/news/LInux-6.17-Intel-Perf-PTL"/>
+        <updated>2025-07-28T09:55:39.000Z</updated>
+        <summary type="html"><![CDATA[The Linux support for Intel's next-generation Panther Lake SoCs appears to be largely set with Linux 6.16 ahead of the Core Ultra Series 3 laptops debuting in the coming months. There are though a few stragglers of Panther Lake support such as the performance events code in Linux 6.17 only now landing the perf integration...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This week in PC games: Hobbits, gigahorses, internet fixers, ninjas, hellships, junkbots and window cleaners]]></title>
+        <id>https://www.rockpapershotgun.com/this-week-in-pc-games-hobbits-gigahorses-internet-fixers-ninjas-hellships-junkbots-and-window-cleaners</id>
+        <link href="https://www.rockpapershotgun.com/this-week-in-pc-games-hobbits-gigahorses-internet-fixers-ninjas-hellships-junkbots-and-window-cleaners"/>
+        <updated>2025-07-28T09:54:56.000Z</updated>
+        <summary type="html"><![CDATA[This week's big news is that Graham is leaving RPS. Graham, the rock upon which all of our bullshit is built. Graham, the last link to Treehouses gone by. We shall not see his like again. Expect supernatural calamities in keeping with such a terrible loss: rains of frogs, Atari reinventing Pong as a 100 hour gacha RPG, mass hysteria. Still, the wheel of releasing cranks on. Here's what's new in PC games this week.
+ Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Charts: No Prizes For Guessing Who Overtook Donkey Kong Bananza This Week]]></title>
+        <id>https://www.nintendolife.com/#article-185722</id>
+        <link href="https://www.nintendolife.com/news/2025/07/uk-charts-no-prizes-for-guessing-who-overtook-donkey-kong-bananza-this-week"/>
+        <updated>2025-07-28T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Who left that banana peel there?
+We are back with our latest look at the UK physical software charts, and while Donkey Kong Bananza continues to be a hit, its sales haven't managed to keep it in pole position.
+The top spot on the podium has, of course, returned to Mario Kart World, which shows no signs of slowing down after almost two months on store shelves. That has pushed DK into second and Hogwarts Legacy into third. Meanwhile, Super Mario Party Jamboree has rolled back into the upper reaches of the charts, landing in fourth this week thanks to a boost from the Jamboree TV Switch 2 expansion.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU Linux-libre 6.16 Fights Firmware In Nouveau, NOVA, Ath12k & Other Drivers]]></title>
+        <id>https://www.phoronix.com/news/GNU-Linux-Libre-6.16</id>
+        <link href="https://www.phoronix.com/news/GNU-Linux-Libre-6.16"/>
+        <updated>2025-07-28T09:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Following the Linux 6.16 kernel release from Sunday evening, GNU Linux-libre 6.16-gnu is now available for that kernel downstream that strips out driver/kernel code dependent upon non-free-software microcode/firmware, the ability to load proprietary kernel modules, and carving out other bits of the Linux kernel not meeting their stringent free software standards...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JustInBasil, Longtime Contributor to the Pokemon TCG Community, Has Passed Away]]></title>
+        <id>156253</id>
+        <link href="https://www.pokebeach.com/forums/threads/justinbasil-longtime-contributor-to-the-pokemon-tcg-community-has-passed-away.156253/"/>
+        <updated>2025-07-28T09:31:01.000Z</updated>
+        <summary type="html"><![CDATA[It is with a heavy heart that I share that my dear friend JustInBasil (Jason Kingsford) unexpectedly passed away last night. He was 36.
+Jason was a pillar of the Pokemon TCG community -- a selfless and passionate person who devoted himself to helping people connect, learn, and grow through the...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Mega Brave” and “Mega Symphonia” All 126 Main Set Cards Revealed!]]></title>
+        <id>156247</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-brave%E2%80%9D-and-%E2%80%9Cmega-symphonia%E2%80%9D-all-126-main-set-cards-revealed.156247/"/>
+        <updated>2025-07-28T08:53:17.000Z</updated>
+        <summary type="html"><![CDATA[All 126 main set cards from the dual sets Mega Brave (メガブレイブ) and Mega Symphonia (メガシンフォニア) have just been revealed! The sets will release in Japan on August 1st.
+
+			
+				
+			
+			
+				
+			
+		
+
+This is the first set of Japan's new MEGA block, thereby ending the Scarlet & Violet era. The TCG will...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jádro 6.16 s rychlejším EXT4 a s podporou Intel APX]]></title>
+        <id>www.root.cz-actuality-48855</id>
+        <link href="https://www.root.cz/zpravicky/jadro-6-16-s-rychlejsim-ext4-a-s-podporou-intel-apx/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-07-28T08:23:27.000Z</updated>
+        <summary type="html"><![CDATA[Včera Linus Torvalds vydal jádro 6.16. Mezi novinky patří podpora instrukcí Intel APX (Advanced Performance Extensions). Ta zvyšuje počet GP registrů z 16 na 32, což má pozitivní vliv na výkon i na spotřebu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All EA FC 25 94+ Encore Icon Player Pick SBC rewards]]></title>
         <id>https://www.destructoid.com/?p=1093302</id>
@@ -31,17 +138,6 @@ FUTTIES
 Compl…]]></summary>
         <author>
             <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JustInBasil, Longtime Contributor to the Pokemon TCG Community, Has Passed Away]]></title>
-        <id>156253</id>
-        <link href="https://www.pokebeach.com/forums/threads/justinbasil-longtime-contributor-to-the-pokemon-tcg-community-has-passed-away.156253/"/>
-        <updated>2025-07-28T07:58:42.000Z</updated>
-        <summary type="html"><![CDATA[It is with a heavy heart that I share that my dear friend JustInBasil (Jason Kingsford) unexpectedly passed away last night. He was 36.
-Jason was a pillar of the Pokemon TCG community -- a selfless and passionate person who devoted himself to helping people connect, learn, and grow through the...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -155,26 +251,6 @@ Continue reading...]]></summary>
 		
 
 MEGA Dream ex sounds like Japan's annual High Class Pack set that releases every November...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Mega Brave” and “Mega Symphonia” All 126 Main Set Cards Revealed!]]></title>
-        <id>156247</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-brave%E2%80%9D-and-%E2%80%9Cmega-symphonia%E2%80%9D-all-126-main-set-cards-revealed.156247/"/>
-        <updated>2025-07-27T23:02:57.000Z</updated>
-        <summary type="html"><![CDATA[All 126 main set cards from the dual sets Mega Brave (メガブレイブ) and Mega Symphonia (メガシンフォニア) have just been revealed! The sets will release in Japan on August 1st.
-
-			
-				
-			
-			
-				
-			
-		
-
-This is the first set of Japan's new MEGA block, thereby ending the Scarlet & Violet era. The TCG will...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -2402,19 +2478,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Xbox Will Reportedly Announce "More Game Ports" For Other Platforms Soon]]></title>
-        <id>https://www.nintendolife.com/#article-185657</id>
-        <link href="https://www.nintendolife.com/news/2025/07/xbox-will-reportedly-announce-more-game-ports-for-other-platforms-soon"/>
-        <updated>2025-07-25T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA["Including Nintendo Switch 2".
-Xbox has already voiced its support for the Switch 2, and according to a new report by The Game Business this week, we could be finding out more very soon.
-With rumours about a Nintendo Direct already doing the rounds online, veteran video game journalist Christopher Dring has now added to this buzz, claiming "Xbox is expected to announce more game ports" for other platforms, including the Switch 2, in the "coming weeks" (thanks, Pure Xbox).
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Alienware Aurora 16X with an NVIDIA RTX 5070 is down to its lowest price since launch]]></title>
         <id>https://www.rockpapershotgun.com/alienware-aurora-16x-nvidia-rtx-5070-deal</id>
         <link href="https://www.rockpapershotgun.com/alienware-aurora-16x-nvidia-rtx-5070-deal"/>
@@ -2494,16 +2557,6 @@ The set will introduce Pokemon with free attack costs, such as Cleffa and Pichu.
         <summary type="html"><![CDATA[Už jen pár dní zbývá do vydání Linuxu 6.16 a tak se opět zaměřme na jádro příští, verzi 6.17, jejíž novinky doprovodí i mnohá vylepšení v projektu Mesa.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New AMD Linux Driver Ushers In Seamless Firmware Servicing "SFS"]]></title>
-        <id>https://www.phoronix.com/news/AMD-Seamless-Firmware-Servicing</id>
-        <link href="https://www.phoronix.com/news/AMD-Seamless-Firmware-Servicing"/>
-        <updated>2025-07-24T21:58:57.000Z</updated>
-        <summary type="html"><![CDATA[A new Linux driver patch series posted by AMD today introduces a new kernel driver "SFS" for Seamless Firmware Servicing. I hadn't heard AMD talk about Seamless Firmware Servicing at any previous events but it appears to be supported for current-generation AMD EPYC 5th Gen "Turin" processors...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2695,16 +2748,6 @@ Read more...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.16 Brings Some Minor Performance Boosts For Strix Halo's Radeon Graphics]]></title>
-        <id>https://www.phoronix.com/news/Strix-Halo-Linux-6.16</id>
-        <link href="https://www.phoronix.com/news/Strix-Halo-Linux-6.16"/>
-        <updated>2025-07-24T15:29:00.000Z</updated>
-        <summary type="html"><![CDATA[With the Linux 6.16 kernel that will be debuting as stable as soon as this coming Sunday there are some minor performance benefits for the Radeon integrated graphics with the incredible Strix Halo SoC. Here are some comparison benchmarks of Linux 6.15 vs. Linux 6.16 Git for the AMD Radeon graphics of the Ryzen AI Max+ 395 with the HP ZBook Ultra G1a laptop...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Battlefield 6's Reveal Trailer Looks A Lot Like Battlefield 3 And That's Fine With Me]]></title>
         <id>1851786894</id>
         <link href="https://kotaku.com/battlefield-6-bf6-reveal-trailer-teaser-sp-ea-gameplay-1851786894"/>
@@ -2870,16 +2913,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[I have spent most of July testing for Worlds and trying to come up with broken decks. Unfortunately, every cool and interesting deck I come up with is gatekept by Gardevoir ex. Nothing new under the sun, as they say. Gardevoir is as powerful and versatile as ever, bestowed with far too many...]]></summary>
         <author>
             <name>PMJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu Concept For Snapdragon X1 Laptops Moves To Linux 6.16, Enables More Devices]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-Concept-Linux-6.16-X1E</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-Concept-Linux-6.16-X1E"/>
-        <updated>2025-07-24T12:52:36.000Z</updated>
-        <summary type="html"><![CDATA[The Ubuntu Concept ISO images that contain experimental patches -- or "hacks" to make things work -- to enable Ubuntu Linux on the Qualcomm Snapdragon X1 Elite powered laptops is out with a fresh spin. The new Ubuntu Concept ISOs move to using the Linux 6.16 kernel while also enabling some additional Snapdragon X laptop models...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4081,16 +4114,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[První Debian s oficiální podporou RISC-V bude 13 Trixie]]></title>
-        <id>www.root.cz-actuality-48783</id>
-        <link href="https://www.root.cz/zpravicky/prvni-debian-s-oficialni-podporou-risc-v-bude-13-trixie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-07-21T14:19:52.000Z</updated>
-        <summary type="html"><![CDATA[Debian 13 Trixie vyjde 9. srpna. Zároveň to bude první Debian s oficiální podporou architektury RISC-V. Na konferenci DebConf25 hovořili vývojáři Aurelien Jarno a Bo Yu o stavu RISC-V v Debianu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[As Le Mans Ultimate emerges from early access, it’s still got work ahead to catch the top hardcore sims]]></title>
         <id>https://www.rockpapershotgun.com/as-le-mans-ultimate-emerges-from-early-access-its-still-got-work-ahead-to-catch-the-top-hardcore-sims</id>
         <link href="https://www.rockpapershotgun.com/as-le-mans-ultimate-emerges-from-early-access-its-still-got-work-ahead-to-catch-the-top-hardcore-sims"/>
@@ -4235,24 +4258,24 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Soulframe’s getting a bear quest, and its devs want you to keep bearing with them as you wait for it to emerge from alpha]]></title>
-        <id>https://www.rockpapershotgun.com/soulframes-getting-a-bear-quest-and-its-devs-want-you-to-keep-bearing-with-them-as-you-wait-for-it-to-emerge-from-alpha</id>
-        <link href="https://www.rockpapershotgun.com/soulframes-getting-a-bear-quest-and-its-devs-want-you-to-keep-bearing-with-them-as-you-wait-for-it-to-emerge-from-alpha"/>
-        <updated>2025-07-19T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fantasy MMORPG Soulframe remains nestled away in its closed alpha form as this year’s TennoCon arrives. Despite plans to open that beta’s doors to a bunch more folks over the course of this weekend, developers Digital Extremes are keen to keep Warframe's cottagecore sibling closed off for at least a bit longer.
-The good news is that they have a bunch of new stuff they’re planning to unleash into fantasy land soon, as they continue to build a strong fairytale-infused foundation for the tale of the natural world clashing with technologically-advanced invaders.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Soulframe director chats “Wiz versus Waz” and a demo he hopes will help prove it's not just a soulslike]]></title>
         <id>https://www.rockpapershotgun.com/soulframe-director-chats-wiz-versus-waz-and-a-demo-he-hopes-will-help-prove-its-not-just-a-soulslike</id>
         <link href="https://www.rockpapershotgun.com/soulframe-director-chats-wiz-versus-waz-and-a-demo-he-hopes-will-help-prove-its-not-just-a-soulslike"/>
         <updated>2025-07-19T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Soulframe is getting a Wazzard. No, not a wizard, a Wazzard.
 What’s a Wazzard, you ask? Same, friend. You best believe that when I got a chance to talk to Geoff Crookes and Sarah Asselin, creative director and senior community manager on Digital Extremes’ still-in-alpha fantasy MMORPG, I asked them. Is there a difference between the Wazzard of Wastes the player fights in the demo of the game shown off at this year’s TennoCon, and your regular neighbourhood wizard?
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soulframe’s getting a bear quest, and its devs want you to keep bearing with them as you wait for it to emerge from alpha]]></title>
+        <id>https://www.rockpapershotgun.com/soulframes-getting-a-bear-quest-and-its-devs-want-you-to-keep-bearing-with-them-as-you-wait-for-it-to-emerge-from-alpha</id>
+        <link href="https://www.rockpapershotgun.com/soulframes-getting-a-bear-quest-and-its-devs-want-you-to-keep-bearing-with-them-as-you-wait-for-it-to-emerge-from-alpha"/>
+        <updated>2025-07-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fantasy MMORPG Soulframe remains nestled away in its closed alpha form as this year’s TennoCon arrives. Despite plans to open that beta’s doors to a bunch more folks over the course of this weekend, developers Digital Extremes are keen to keep Warframe's cottagecore sibling closed off for at least a bit longer.
+The good news is that they have a bunch of new stuff they’re planning to unleash into fantasy land soon, as they continue to build a strong fairytale-infused foundation for the tale of the natural world clashing with technologically-advanced invaders.
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
@@ -4883,28 +4906,6 @@ Wear Compose Version 1.5.0-beta06]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There's a bunch of discounted AMD and Nvidia graphics cards now up to 50% off at Amazon today]]></title>
-        <id>https://www.rockpapershotgun.com/best-deals-today-july-15-2025</id>
-        <link href="https://www.rockpapershotgun.com/best-deals-today-july-15-2025"/>
-        <updated>2025-07-15T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I spent a good chunk of my weekend combing through GPU deals like these. I don't really need a new graphics card, but seeing prices drop by almost half gets my curiosity going. It’s not even just the big names like the RTX 5090 or the Radeon RX 7900 XT, even refurbished cards look tempting when they’re going for hundreds less. I know some folks hesitate with renewed products, but I’ve had solid luck so far. Last year, I grabbed a renewed RTX 4070 super and it’s been running steady since. I guess it’s that mix of curiosity and trying not to miss out that keeps me scrolling through these lists. Here's the best deals I can find for your latest rig upgrade:
- Read more]]></summary>
-        <author>
-            <name>Christian Wait</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon still has a saving on Samsung 990 Pro SSDs even after Prime Day is over]]></title>
-        <id>https://www.rockpapershotgun.com/amazon-still-has-a-saving-on-the-best-gaming-ssds-even-after-prime-day-is-over</id>
-        <link href="https://www.rockpapershotgun.com/amazon-still-has-a-saving-on-the-best-gaming-ssds-even-after-prime-day-is-over"/>
-        <updated>2025-07-15T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Just when you thought Prime Day was over, we’ve mentioned it again and  triggered all those flashbacks.
- Read more]]></summary>
-        <author>
-            <name>Lloyd Coombes</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloudflare Starts Blocking Pirate Sites For UK Users – That’s a Pretty Big Deal]]></title>
         <id>https://torrentfreak.com/?p=269736</id>
         <link href="https://torrentfreak.com/cloudflare-starts-blocking-pirate-sites-for-uk-users-thats-a-pretty-big-deal-250715/"/>
@@ -5318,16 +5319,6 @@ Finally, please contact us if you are aware of other games using SLUDGE, variant
 >]]></summary>
         <author>
             <name>nospam@scummvm.org (Alikhan)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ITBiz: Firmy kvůli nejistotě vyvolané americkými cly snižují plánované investice do IT]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-firmy-kvuli-nejistote-vyvolane-americkymi-cly-snizuji-planovane-investice-do-it</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-firmy-kvuli-nejistote-vyvolane-americkymi-cly-snizuji-planovane-investice-do-it"/>
-        <updated>2025-06-28T22:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Firmy kvůli nejistotě vyvolané americkými cly snižují plánované investice do IT. Jak zajistit důvěru a bezpečnost při zavádění agentní AI. Budoucnost SOC center závisí na umělé inteligenci, avšak bez lidského ověřování se neobejdou. HPE a NVidia představuje nová podniková řešení pro AI. IT infrastruktura jako klíčový faktor úspěchu. Nové varianty WormGPT pohání AI modely Grok a Mixtral. Rostoucí nebezpečí phishingu přes QR kódy: Třetina českých firem již čelila útoku. Pure Storage představuje novou generaci úložných produktů pro zajištění výkonu v libovolném měřítku.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
 </feed>
