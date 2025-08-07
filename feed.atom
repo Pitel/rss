@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-06T22:16:30.543Z</id>
+    <id>urn:2025-08-07T01:18:30.128Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-08-06T22:16:30.543Z</updated>
+    <updated>2025-08-07T01:18:30.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Legends: Z-A Playable Demo Appearing At Two Upcoming Events]]></title>
+        <id>https://www.nintendolife.com/#article-186160</id>
+        <link href="https://www.nintendolife.com/news/2025/08/pokemon-legends-z-a-playable-demo-appearing-at-two-upcoming-events"/>
+        <updated>2025-08-07T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Don't miss it.
+Pokémon Legends: Z-A is easily one of the most anticipated Switch (and Switch 2) releases of this year, and although trainers will have to wait until October to get their hands on it, it seems there will be a few ways to sample the new entry before then.
+In case you missed it, there's apparently going to be a "playable" public demo. It will be available next week at the Pokémon World Championships 2025 – taking place in Anaheim, California between 15th - 17th August, 2025.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyTorch 2.8 Released With Better Intel CPU Performance For LLM Inference]]></title>
+        <id>https://www.phoronix.com/news/PyTorch-2.8-Released</id>
+        <link href="https://www.phoronix.com/news/PyTorch-2.8-Released"/>
+        <updated>2025-08-07T00:50:00.000Z</updated>
+        <summary type="html"><![CDATA[PyTorch 2.8 released today as the newest feature update to this widely-used machine learning library that has become a crucial piece for deep learning and other AI usage. There are a few interesting changes worth highlighting with the new PyTorch 2.8 release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.17 KVM Additions Include Intel LKGS From FRED, Smarter AMD SEV Cache Flushing]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.17-KVM</id>
+        <link href="https://www.phoronix.com/news/Linux-6.17-KVM"/>
+        <updated>2025-08-07T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The KVM feature changes were merged a few days ago with all of their enhancements for the in-development Linux 6.17 kernel. Some nice improvements made it this cycle for enhancing the open-source Linux virtualization stack...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pokémon Company Releases New Mobile App 'Pokémon Events']]></title>
+        <id>https://www.nintendolife.com/#article-186159</id>
+        <link href="https://www.nintendolife.com/news/2025/08/the-pokemon-company-releases-new-mobile-app-pokemon-events"/>
+        <updated>2025-08-07T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Be in the know.
+Nintendo has already launched a news app this year, and now The Pokémon Company International is following this up with its very own events application for mobile devices.
+This new app – officially known as Pokémon Events – is now available on Android and IOS devices and as the name suggests, is "your portal to Pokémon Events".
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Subsystem For Linux "WSL" Updated For A Yet-To-Be-Public Security Vulnerability]]></title>
+        <id>https://www.phoronix.com/news/Microsoft-WSL-2.5.10</id>
+        <link href="https://www.phoronix.com/news/Microsoft-WSL-2.5.10"/>
+        <updated>2025-08-06T22:58:14.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft today released an updated version of Windows Subsystem for Linux "WSL" that allows running Linux binaries atop Windows 11. There is only one change noted and it's for a yet-to-be-public security vulnerability...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Propojení Pythonu s nativními knihovnami s využitím balíčku ctypes: ukazatele ve strukturách, bitová pole]]></title>
         <id>www.root.cz-text-18300</id>
@@ -929,6 +985,25 @@ Read more]]></summary>
 The post Ex-BioWare Producer Talks About Why <i>Anthem</i> Failed appeared first on Kotaku.]]></summary>
         <author>
             <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7687-1: poppler vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7687-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7687-1"/>
+        <updated>2025-08-06T14:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Jieyong Ma discovered that poppler incorrectly handled certain malformed
+PDF files. A remote attacker could possibly use this issue to cause poppler
+to crash, resulting in a denial of service. This issue only affected Ubuntu
+16.04 LTS and Ubuntu 18.04 LTS. (CVE-2022-27337)
+
+Kevin Backhouse discovered that poppler incorrectly handled documents with
+a large number of annotations. If a user or automated system were tricked
+into opening a specially crafted document, a remote attacker could use
+this issue to cause poppler to consume resources, leading to a denial of
+service, or possibly execute arbitrary code. (CVE-2025-52886)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2144,19 +2219,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Where To Pre-Order LEGO Game Boy]]></title>
-        <id>https://www.nintendolife.com/#article-186058</id>
-        <link href="https://www.nintendolife.com/guides/where-to-pre-order-lego-game-boy"/>
-        <updated>2025-08-05T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Build it like it’s 1989.
-Relive the golden days of handheld gaming with LEGO’s new near life-sized tribute to the original Nintendo Game Boy. This adult-focused 421-piece set captures all the iconic design details, from the D-pad and A/B buttons to the Game Pak slot. It also includes swappable brick-built cartridges and lenticular screens featuring The Legend of Zelda: Link’s Awakening and Super Mario Land. Whether you’re a LEGO fan, a Nintendo diehard or just looking for the perfect nostalgic display piece, this is one to grab.
-The LEGO Game Boy set launches on 1st October 2025.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This Power Bank is an ideal Steam Deck companion, and it's just $28 at Amazon today]]></title>
         <id>https://www.rockpapershotgun.com/this-power-bank-is-an-ideal-steam-deck-companion-and-its-under-28-at-amazon-with-a-discount-code</id>
         <link href="https://www.rockpapershotgun.com/this-power-bank-is-an-ideal-steam-deck-companion-and-its-under-28-at-amazon-with-a-discount-code"/>
@@ -2282,19 +2344,6 @@ CVE-2024-49950, CVE-2024-50073)]]></summary>
 On August 11th, a collection of themed t-shirts and sweatshirts will release through their website and physical stores. Their stores are located in 25 countries, including the United States, United Kingdom...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deltarune Updates Chapter 3 And 4 In New Switch 2 Patch (Version 1.04)]]></title>
-        <id>https://www.nintendolife.com/#article-185550</id>
-        <link href="https://www.nintendolife.com/news/2025/08/deltarune-updates-chapter-3-and-4-in-new-switch-2-patch-version-1-04"/>
-        <updated>2025-08-05T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Download it now.
-:
-Following an update earlier this month, Toby Fox's latest game Deltarune has now been updated to Version 1.03.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2696,16 +2745,6 @@ Keep checking back here for more cards and follow me on Twitter for occasional..
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.17 Making Kdump Crash Kernel More Reliable, Less Wasted Memory]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.17-Kdump</id>
-        <link href="https://www.phoronix.com/news/Linux-6.17-Kdump"/>
-        <updated>2025-08-04T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the many MM changes merged this weekend for Linux 6.17, Andrew Morton on Sunday also sent out his "non-MM" pull request for this new kernel. Notable there is improving the Kdump code to allow for crash kernel reservation made from the contiguous memory allocator to help yield less wasted RAM and greater reliability...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Canadian Court Rejects Reverse Class Action Lawsuit Against BitTorrent Pirates]]></title>
         <id>https://torrentfreak.com/?p=270344</id>
         <link href="https://torrentfreak.com/canadian-court-rejects-reverse-class-action-lawsuit-against-bittorrent-pirates/"/>
@@ -2725,26 +2764,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME Shell 49 Beta Brings Restart/Shutdown Support To The Lock Screen]]></title>
-        <id>https://www.phoronix.com/news/GNOME-Shell-49-Beta</id>
-        <link href="https://www.phoronix.com/news/GNOME-Shell-49-Beta"/>
-        <updated>2025-08-04T10:15:28.000Z</updated>
-        <summary type="html"><![CDATA[Along with the release of the Mutter 49 beta, GNOME Shell 49 beta was released on Sunday in preparation for the imminent GNOME 49 beta release. Notable here is long sought after support for having the ability to restart or shutdown the computer from GNOME's lock screen...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NetBSD 11.0 Preparing For Release With Improved Linux Emulation, Better RISC-V Support]]></title>
-        <id>https://www.phoronix.com/news/NetBSD-11.0-Released</id>
-        <link href="https://www.phoronix.com/news/NetBSD-11.0-Released"/>
-        <updated>2025-08-04T09:54:03.000Z</updated>
-        <summary type="html"><![CDATA[NetBSD 11.0 release preparations have begun. The NetBSD developers are hoping to officially release NetBSD 11.0 in October and for that to happen the release candidate would be out in September and daily beta builds can already be tested...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3640,25 +3659,6 @@ This update corrects flaws in the following subsystems:
   - USB sound devices;
 (CVE-2024-49950, CVE-2024-49883, CVE-2024-53239, CVE-2024-50073,
 CVE-2023-52975)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7684-2: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7684-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7684-2"/>
-        <updated>2025-07-31T09:11:27.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - SCSI subsystem;
-  - TTY drivers;
-  - Ext4 file system;
-  - Bluetooth subsystem;
-  - USB sound devices;
-(CVE-2024-53239, CVE-2024-50073, CVE-2023-52975, CVE-2024-49883,
-CVE-2024-49950)]]></summary>
         <author>
             <name>Ubuntu security notices</name>
         </author>
