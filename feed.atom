@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-09T12:28:23.002Z</id>
+    <id>urn:2025-08-09T14:13:26.849Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-08-09T12:28:23.002Z</updated>
+    <updated>2025-08-09T14:13:26.849Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[WLED – Wi-Fi ovládání RGB LED]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/wled-wi-fi-ovladani-rgb-led</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/wled-wi-fi-ovladani-rgb-led"/>
+        <updated>2025-08-09T13:57:04.000Z</updated>
+        <summary type="html"><![CDATA[WLED je open-source firmware pro ESP8266/ESP32, který umožňuje Wi-Fi ovládání adresovatelných LED pásků se stovkami efektů, synchronizací, audioreaktivním módem a Home-Assistant integrací. Je založen na Arduino frameworku.]]></summary>
+        <author>
+            <name>Indiánský lotr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.4.325 Released With Untyped Pointers Extension]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.4.325-Released</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.4.325-Released"/>
+        <updated>2025-08-09T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vulkan 1.4.325 was released on Friday with one new extension in tow: VK_KHR_shader_untyped_pointers for untyped pointers...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragapult / Zoroark — One of My Top Picks for Worlds]]></title>
         <id>156301</id>
@@ -1346,7 +1366,7 @@ The post Tencent’s <i>Horizon Zero Dawn</i> Knockoff Quietly Scrubs Steam Page
         <title type="html"><![CDATA[Home Assistant 2025.8]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/home-assistant-2025.8</id>
         <link href="http://www.abclinuxu.cz/zpravicky/home-assistant-2025.8"/>
-        <updated>2025-08-08T13:36:16.000Z</updated>
+        <updated>2025-08-08T13:36:15.000Z</updated>
         <summary type="html"><![CDATA[Open source platforma Home Assistant (Demo, GitHub, Wikipedie) pro monitorování a řízení inteligentní domácnosti byla vydána v nové verzi 2025.8.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -2828,16 +2848,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Proxmox Backup Server 4.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/proxmox-backup-server-4.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/proxmox-backup-server-4.0"/>
-        <updated>2025-08-07T02:56:28.000Z</updated>
-        <summary type="html"><![CDATA[Zálohovací server Proxmox Backup Server byl vydán v nové stabilní verzi 4.0. Založen je na Debianu 13 Trixie.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PyTorch 2.8 Released With Better Intel CPU Performance For LLM Inference]]></title>
         <id>https://www.phoronix.com/news/PyTorch-2.8-Released</id>
         <link href="https://www.phoronix.com/news/PyTorch-2.8-Released"/>
@@ -2853,16 +2863,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.phoronix.com/news/Linux-6.17-KVM"/>
         <updated>2025-08-07T00:30:00.000Z</updated>
         <summary type="html"><![CDATA[The KVM feature changes were merged a few days ago with all of their enhancements for the in-development Linux 6.17 kernel. Some nice improvements made it this cycle for enhancing the open-source Linux virtualization stack...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Subsystem For Linux "WSL" Updated For A Yet-To-Be-Public Security Vulnerability]]></title>
-        <id>https://www.phoronix.com/news/Microsoft-WSL-2.5.10</id>
-        <link href="https://www.phoronix.com/news/Microsoft-WSL-2.5.10"/>
-        <updated>2025-08-06T22:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft today released an updated version of Windows Subsystem for Linux "WSL" that allows running Linux binaries atop Windows 11. There is only one change noted and it's for a yet-to-be-public security vulnerability...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
