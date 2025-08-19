@@ -1,25 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-18T22:13:06.747Z</id>
+    <id>urn:2025-08-19T01:09:47.106Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-08-18T22:13:06.747Z</updated>
+    <updated>2025-08-19T01:09:47.107Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Knihovna FAISS a embedding: základ jazykových modelů (3. část – role indexů)]]></title>
-        <id>www.root.cz-text-18348</id>
-        <link href="https://www.root.cz/clanky/knihovna-faiss-a-embedding-zaklad-jazykovych-modelu-3-cast-role-indexu-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-08-18T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Důležitou součástí knihovny FAISS je široká nabídka indexů. Kromě interně naivních „lineárních“ indexů existují indexy založené na rozdělení prostoru Voroného dekompozicí či index HNSW: Hierarchical Navigable Small World.]]></summary>
+        <title type="html"><![CDATA[Mega Pokemon ex To Debut in “Pocket!”]]></title>
+        <id>156334</id>
+        <link href="https://www.pokebeach.com/forums/threads/mega-pokemon-ex-to-debut-in-%E2%80%9Cpocket-%E2%80%9D.156334/"/>
+        <updated>2025-08-19T00:52:14.000Z</updated>
+        <summary type="html"><![CDATA[Mega Pokemon ex will debut in Pokemon TCG Pocket this fall!
+They will work like the real TCG where they give up 3 points.
+
+			
+				
+			
+			
+				
+			
+			
+				
+
+Continue reading...]]></summary>
         <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Linux Patches Allow Manipulating Out-Of-Memory Behavior Using BPF]]></title>
+        <id>https://www.phoronix.com/news/Linux-OOM-BPF-Proposal</id>
+        <link href="https://www.phoronix.com/news/Linux-OOM-BPF-Proposal"/>
+        <updated>2025-08-19T00:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Google engineer Roman Gushchin has proposed the ability for the Linux kernel to customize the out-of-memory "OOM" behavior using BPF programs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 2.51.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/git-2.51.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/git-2.51.0"/>
+        <updated>2025-08-18T23:58:48.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 2.51.0 distribuovaného systému správy verzí Git. Přispělo 91 vývojářů, z toho 21 nových. Přehled novinek v příspěvku na blogu GitHubu a v poznámkách k vydání.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mega Charizard ex and Mega Attack Rares Revealed at Worlds!]]></title>
         <id>156333</id>
         <link href="https://www.pokebeach.com/forums/threads/mega-charizard-ex-and-mega-attack-rares-revealed-at-worlds.156333/"/>
-        <updated>2025-08-18T21:53:48.000Z</updated>
+        <updated>2025-08-18T23:47:13.000Z</updated>
         <summary type="html"><![CDATA[Mega Charizard ex, Mega Dragonite ex, and Oricorio ex were just revealed during the closing ceremony of Worlds! They will appear in future English sets, though Pokemon has purposefully hidden the sets.
 
 			
@@ -36,6 +68,36 @@
 Also revealed is a new type of secret rare card...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phrack 72]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/phrack-72</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/phrack-72"/>
+        <updated>2025-08-18T23:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Po roce bylo vydáno nové číslo magazínu Phrack: Phrack 72.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD "GFX1250" To Double The Number Of User SGPRs]]></title>
+        <id>https://www.phoronix.com/news/AMD-GFX1250-32-User-SGPRs</id>
+        <link href="https://www.phoronix.com/news/AMD-GFX1250-32-User-SGPRs"/>
+        <updated>2025-08-18T23:34:10.000Z</updated>
+        <summary type="html"><![CDATA[We still don't have much confirmed information on AMD's GFX1250 that has come to light in recent months due to being developed for their AMDGPU shader compiler back-end within LLVM. AMD GFX1250 surfaced in LLVM activity and the past few months has been seeing more additions made. A notable change committed today for LLVM is that the number of user Scalar General-Purpose Registers (SGPRs) has doubled...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Knihovna FAISS a embedding: základ jazykových modelů (3. část – role indexů)]]></title>
+        <id>www.root.cz-text-18348</id>
+        <link href="https://www.root.cz/clanky/knihovna-faiss-a-embedding-zaklad-jazykovych-modelu-3-cast-role-indexu-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-08-18T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Důležitou součástí knihovny FAISS je široká nabídka indexů. Kromě interně naivních „lineárních“ indexů existují indexy založené na rozdělení prostoru Voroného dekompozicí či index HNSW: Hierarchical Navigable Small World.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
         </author>
     </entry>
     <entry>
@@ -302,28 +364,6 @@ Anyone even remotely active on the Internet has probably heard of Skibidi Toilet
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mega Pokemon ex To Debut in “Pocket!”]]></title>
-        <id>156334</id>
-        <link href="https://www.pokebeach.com/forums/threads/mega-pokemon-ex-to-debut-in-%E2%80%9Cpocket-%E2%80%9D.156334/"/>
-        <updated>2025-08-18T18:48:52.000Z</updated>
-        <summary type="html"><![CDATA[Mega Pokemon ex will debut in Pokemon TCG Pocket this fall!
-They will work like the real TCG where they give up 3 points.
-
-			
-				
-			
-			
-				
-			
-			
-				
-
-Continue reading...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Shinobi: Art Of Vengeance To Get Classic SEGA Villains Stage DLC Next Year]]></title>
         <id>https://www.nintendolife.com/#article-186693</id>
         <link href="https://www.nintendolife.com/news/2025/08/shinobi-art-of-vengeance-to-get-classic-sega-villains-stage-dlc-next-year"/>
@@ -367,7 +407,7 @@ The convention will host a Pokemon Center, activities, panels, autograph session
         <title type="html"><![CDATA[LinuxDays 2025 a OpenAlt 2025 – blíží se konec přihlašování přednášek]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/linuxdays-2025-a-openalt-2025-blizi-se-konec-prihlasovani-prednasek</id>
         <link href="http://www.abclinuxu.cz/zpravicky/linuxdays-2025-a-openalt-2025-blizi-se-konec-prihlasovani-prednasek"/>
-        <updated>2025-08-18T18:08:08.000Z</updated>
+        <updated>2025-08-18T18:08:06.000Z</updated>
         <summary type="html"><![CDATA[Konference LinuxDays 2025 proběhne o víkendu 4. a 5. října v Praze. Konference OpenAlt 2025 o víkendu 1. a 2. listopadu v Brně. Blíží se konec přihlašování přednášek. Přihlaste svou přednášku (LinuxDays do 31. srpna a OpenAlt do 3. října) nebo doporučte konference známým.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -694,12 +734,12 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[God Of War Director May Have Just Teased The Reveal Of His Next Game In The Weirdest Way [Update: It’s Fake!]]]></title>
+        <title type="html"><![CDATA[God Of War Director May Have Just Teased The Reveal Of His Next Game In The Weirdest Way [Update: Sony Confirms The Account Is Fake]]]></title>
         <id>https://kotaku.com/?p=2000618215</id>
         <link href="https://kotaku.com/god-of-war-sony-santa-monica-cory-barlog-2000618215"/>
         <updated>2025-08-18T15:33:10.000Z</updated>
         <summary type="html"><![CDATA[Sony's Santa Monica studio has been quiet since Ragnarök launched in 2022
-The post <i>God Of War</i> Director May Have Just Teased The Reveal Of His Next Game In The Weirdest Way [Update: It’s Fake!] appeared first on Kotaku.]]></summary>
+The post <i>God Of War</i> Director May Have Just Teased The Reveal Of His Next Game In The Weirdest Way [Update: Sony Confirms The Account Is Fake] appeared first on Kotaku.]]></summary>
         <author>
             <name>Ethan Gach</name>
         </author>
@@ -1634,6 +1674,37 @@ After launching their promotions yesterday, the U.S. and Canadian Pokemon Center
         <summary type="html"><![CDATA[I think I've just gotten really lucky but I've gotten some really good pulls from boxes. But what do you guys think... do boxes (not booster boxes, the box that comes with promos and stuff), blisters and tins have better rates? Well lemme give you a recap of some of the stuff I've gotten...]]></summary>
         <author>
             <name>vali66</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7698-1: OpenLDAP vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7698-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7698-1"/>
+        <updated>2025-08-17T23:37:06.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that OpenLDAP incorrectly handled Certificate Exact
+Assertion processing. A remote attacker could possibly use this issue to
+cause OpenLDAP to crash, resulting in a denial of service. (CVE-2020-36221)
+
+It was discovered that OpenLDAP incorrectly handled saslAuthzTo processing.
+A remote attacker could use this issue to cause OpenLDAP to crash,
+resulting in a denial of service, or possibly execute arbitrary code.
+(CVE-2020-36222, CVE-2020-36224, CVE-2020-36225, CVE-2020-36226)
+
+It was discovered that OpenLDAP incorrectly handled Return Filter control
+handling. A remote attacker could use this issue to cause OpenLDAP to
+crash, resulting in a denial of service, or possibly execute arbitrary
+code. (CVE-2020-36223)
+
+It was discovered that OpenLDAP incorrectly handled certain cancel
+operations. A remote attacker could possibly use this issue to cause
+OpenLDAP to crash, resulting in a denial of service. (CVE-2020-36227)
+
+It was discovered that OpenLDAP incorrectly handled Certificate List
+Extract Assertion processing. A remote attacker could possibly use this
+issue to cause OpenLDAP to crash, resulting in a denial of service.
+(CVE-2020-36228)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2712,16 +2783,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 25.10 Enters Its Feature Freeze Period]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-25.10-Feature-Freeze</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-25.10-Feature-Freeze"/>
-        <updated>2025-08-15T10:06:27.000Z</updated>
-        <summary type="html"><![CDATA[As of today the Ubuntu 25.10 "Questing Quokka" is now under a feature freeze ahead of the stable release due out in October...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LaLiga Warns “You Get Pirated Football, They Get You”]]></title>
         <id>https://torrentfreak.com/?p=270812</id>
         <link href="https://torrentfreak.com/laliga-warns-you-get-pirated-football-they-get-you/"/>
@@ -2786,16 +2847,6 @@ The problem for me is, the card pool has shifted so much since Sun and Moon that
         <summary type="html"><![CDATA[Společnost Purism stojící za linuxovými telefony a počítači Librem má nově v nabídce postkvantový šifrátor Librem PQC Encryptor.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrueNAS 25.10 Begins Testing With Faster Performance, 400GbE Networking]]></title>
-        <id>https://www.phoronix.com/news/TrueNAS-25.10-Testing</id>
-        <link href="https://www.phoronix.com/news/TrueNAS-25.10-Testing"/>
-        <updated>2025-08-14T23:13:41.000Z</updated>
-        <summary type="html"><![CDATA[The folks at iXsystems announced this afternoon that nightly builds of TrueNAS 25.10 are now available for testing of this Linux-based network attached storage (NAS) operating system. With TrueNAS 25.10 there are more performance improvements, improved installation process, initial support for 400GbE networking, and other enhancements to this ZFS-focused platform...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2915,16 +2966,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VirtualBox 7.2]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/virtualbox-7.2</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/virtualbox-7.2"/>
-        <updated>2025-08-14T16:05:52.000Z</updated>
-        <summary type="html"><![CDATA[VirtualBox, tj. multiplatformní virtualizační software, byl vydán v nové verzi 7.2. Přehled novinek v Changelogu. Vypíchnou lze vylepšené GUI.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amid Chaos, McDonald’s Japan Sells Out of Pokemon TCG Promo Cards in Less than a Day]]></title>
         <id>156302</id>
         <link href="https://www.pokebeach.com/forums/threads/amid-chaos-mcdonald%E2%80%99s-japan-sells-out-of-pokemon-tcg-promo-cards-in-less-than-a-day.156302/"/>
@@ -2997,16 +3038,6 @@ Let's face it, this has happened to all of us. You're working on a 2D adventure 
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konečný vzhled hodinek Pebble Time 2]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/konecny-vzhled-hodinek-pebble-time-2</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/konecny-vzhled-hodinek-pebble-time-2"/>
-        <updated>2025-08-14T12:13:03.000Z</updated>
-        <summary type="html"><![CDATA[Eric Migicovsky, zakladatel společnosti Pebble, v lednu oznámil, že má v plánu spustit výrobu nových hodinek Pebble s již open source PebbleOS. V březnu spustil předprodej hodinek Pebble Time 2 (tenkrát ještě pod názvem Core Time 2) za 225 dolarů s dodáním v prosinci. Včera představil jejich konečný vzhled (YouTube).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3640,20 +3671,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7682-5: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7682-5</id>
-        <link href="https://ubuntu.com/security/notices/USN-7682-5"/>
-        <updated>2025-08-12T08:04:52.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network traffic control;
-(CVE-2025-38083, CVE-2025-37797)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
