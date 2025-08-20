@@ -1,10 +1,181 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-19T22:13:33.234Z</id>
+    <id>urn:2025-08-20T01:07:49.124Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-08-19T22:13:33.234Z</updated>
+    <updated>2025-08-20T01:07:49.124Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ahead Of Ubuntu 26.04 LTS, Ubuntu 25.04 Has AMD SEV-SNP Host Support]]></title>
+        <id>https://www.phoronix.com/news/AMD-SEV-SNP-Host-Ubuntu-25.04</id>
+        <link href="https://www.phoronix.com/news/AMD-SEV-SNP-Host-Ubuntu-25.04"/>
+        <updated>2025-08-20T00:57:28.000Z</updated>
+        <summary type="html"><![CDATA[While Ubuntu 25.04 has been shipping since April and following software support already upstreamed into the Linux kernel and related virtualization components, Ubuntu maker Canonical today put out a blog post to announce their AMD SEV-SNP host support found in Ubuntu 25.04. This complements the guest-side support present since Ubuntu 22.04 LTS and is an important milestone on the host-side ahead of next year's Ubuntu 26.04 LTS release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7704-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7704-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7704-1"/>
+        <updated>2025-08-20T00:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Arm Firmware Framework for ARMv8-A(FFA);
+  - Multiple devices driver;
+  - Media drivers;
+  - Network drivers;
+  - NVDIMM (Non-Volatile Memory Device) drivers;
+  - NVME drivers;
+  - x86 platform drivers;
+  - TCM subsystem;
+  - Virtio drivers;
+  - File systems infrastructure;
+  - SMB network file system;
+  - LZO compression library;
+  - Digital Audio (PCM) driver;
+  - Tracing infrastructure;
+  - Padata parallel execution mechanism;
+  - CAN network layer;
+  - Networking core;
+  - TIPC protocol;
+  - ALSA framework;
+(CVE-2025-38079, CVE-2025-38048, CVE-2025-38075, CVE-2025-38077,
+CVE-2025-38035, CVE-2025-38037, CVE-2025-38034, CVE-2025-38058,
+CVE-2025-38004, CVE-2025-38031, CVE-2025-38078, CVE-2025-38044,
+CVE-2025-38066, CVE-2025-38052, CVE-2025-38043, CVE-2025-38065,
+CVE-2025-38003, CVE-2025-38061, CVE-2025-38051, CVE-2025-38072,
+CVE-2025-38068)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsara Room walkthrough]]></title>
+        <id>https://www.destructoid.com/?p=1104242</id>
+        <link href="https://www.destructoid.com/samsara-room-walkthrough/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=samsara-room-walkthrough"/>
+        <updated>2025-08-19T23:59:06.000Z</updated>
+        <summary type="html"><![CDATA[If you're familiar with Rusty Lake's past games, such as the Rusty Lake series or Cube Escape, you'll likely already have an idea of what some of Samsara Room's puzzle patterns may entail. That said, it's still a challenging game, especially if this is your first title within its genre.
+
+
+Here's a complete walkthrough of Samsara Room, including every item you need to find to progress throughout its main story and secret level.
+
+
+Table of contents
+Samsara Room walkthrough
+
+A fish
+A corrupted soul
+A gecko
+A worm
+A shrimp
+A window
+A bird
+A new life
+
+
+Samsara Room walkthrough
+
+
+Here's a complete step-by-step guide to completing Samsara Room, starting from your spot in front of the mirror:
+
+
+A fish
+
+
+
+Tap on the mirror and look to the right of your character to find an "S" symbol. Remember it f…]]></summary>
+        <author>
+            <name>Madison Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7704-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7704-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7704-2"/>
+        <updated>2025-08-19T23:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Arm Firmware Framework for ARMv8-A(FFA);
+  - Multiple devices driver;
+  - Media drivers;
+  - Network drivers;
+  - NVDIMM (Non-Volatile Memory Device) drivers;
+  - NVME drivers;
+  - x86 platform drivers;
+  - TCM subsystem;
+  - Virtio drivers;
+  - File systems infrastructure;
+  - SMB network file system;
+  - LZO compression library;
+  - Digital Audio (PCM) driver;
+  - Tracing infrastructure;
+  - Padata parallel execution mechanism;
+  - CAN network layer;
+  - Networking core;
+  - TIPC protocol;
+  - ALSA framework;
+(CVE-2025-38052, CVE-2025-38078, CVE-2025-38079, CVE-2025-38061,
+CVE-2025-38044, CVE-2025-38065, CVE-2025-38043, CVE-2025-38034,
+CVE-2025-38037, CVE-2025-38048, CVE-2025-38066, CVE-2025-38003,
+CVE-2025-38058, CVE-2025-38075, CVE-2025-38077, CVE-2025-38051,
+CVE-2025-38031, CVE-2025-38035, CVE-2025-38072, CVE-2025-38004,
+CVE-2025-38068)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mega Charizard ex and Mega Attack Rares Revealed at Worlds!]]></title>
+        <id>156333</id>
+        <link href="https://www.pokebeach.com/forums/threads/mega-charizard-ex-and-mega-attack-rares-revealed-at-worlds.156333/"/>
+        <updated>2025-08-19T23:37:17.000Z</updated>
+        <summary type="html"><![CDATA[Mega Charizard ex, Mega Dragonite ex, and Oricorio ex were just revealed during the closing ceremony of Worlds! They will appear in future English sets, though Pokemon has purposefully hidden the sets.
+
+			
+				
+			
+			
+				
+			
+			
+				
+			
+		
+
+Also revealed is a new type of secret rare card...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kick Streamer Known For Controversial ‘Humiliation’ Content Reportedly Dies During Live Broadcast]]></title>
+        <id>https://kotaku.com/?p=2000618580</id>
+        <link href="https://kotaku.com/jeanpormanove-kick-streamer-dead-humiliation-abuse-naruto-2000618580"/>
+        <updated>2025-08-19T22:19:30.000Z</updated>
+        <summary type="html"><![CDATA[Raphaël 'Jeanpormanove' Graven's death is now under investigation
+The post Kick Streamer Known For Controversial ‘Humiliation’ Content Reportedly Dies During Live Broadcast appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dante's epic poem La Divina Commedia is getting turned into a videogame again]]></title>
+        <id>https://www.rockpapershotgun.com/dantes-epic-poem-la-divina-commedia-is-getting-turned-into-a-videogame-again</id>
+        <link href="https://www.rockpapershotgun.com/dantes-epic-poem-la-divina-commedia-is-getting-turned-into-a-videogame-again"/>
+        <updated>2025-08-19T22:14:27.000Z</updated>
+        <summary type="html"><![CDATA[Enotria: The Last Song developers Jyamma Games are making a new action-RPG inspired by and named after Dante Alighieri’s 14th century epic poem La Divina Commedia, aka the Divine Comedy.
+Like the poem, it sees you descending through the circles of Hell, each the geological manifestation of a particular Sin. Unlike the poem, it features a set of combat classes, a choice of protagonist genders, a narrative alignment system, procedurally generated extraction dungeons, and customisable weapons and armour. As the poet himself might say: in the middle of the journey of our life I came to myself within a dark wood where I had to grind for crafting materials. 
+ Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Home Assistant Connect ZWA-2: oficiální hardware pro Z-Wave]]></title>
         <id>www.root.cz-text-18342</id>
@@ -54,6 +225,42 @@ The post The Coolest Thing From Gamescom ONL Was This Wild Train Game appeared f
         <summary type="html"><![CDATA[Tinygrad 0.11 is out as the newest version of this deep learning framework maintained by Tiny Corp...]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7703-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7703-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7703-1"/>
+        <updated>2025-08-19T21:22:57.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - GPIO subsystem;
+  - GPU drivers;
+  - HID subsystem;
+  - Input Device (Mouse) drivers;
+  - Multiple devices driver;
+  - Media drivers;
+  - Network drivers;
+  - PCI subsystem;
+  - S/390 drivers;
+  - SPI subsystem;
+  - Trusted Execution Environment drivers;
+  - UFS subsystem;
+  - USB Device Class drivers;
+  - USB core drivers;
+  - USB Gadget drivers;
+  - Framebuffer layer;
+  - Network file system (NFS) client;
+  - Network file system (NFS) server daemon;
+  - File systems infrastructure;
+  - SMB network file system;…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -820,29 +1027,6 @@ The post Napoleonic France blends with Prototype in Ghostrunner dev’s new game
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mega Charizard ex and Mega Attack Rares Revealed at Worlds!]]></title>
-        <id>156333</id>
-        <link href="https://www.pokebeach.com/forums/threads/mega-charizard-ex-and-mega-attack-rares-revealed-at-worlds.156333/"/>
-        <updated>2025-08-19T17:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Mega Charizard ex, Mega Dragonite ex, and Oricorio ex were just revealed during the closing ceremony of Worlds! They will appear in future English sets, though Pokemon has purposefully hidden the sets.
-
-			
-				
-			
-			
-				
-			
-			
-				
-			
-		
-
-Also revealed is a new type of secret rare card...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Valor Mortis will see Ghostrunner's creators give Napoleonic era Europe the soulslike treatment in 2026]]></title>
         <id>https://www.rockpapershotgun.com/valor-mortis-will-see-ghostrunners-creators-give-napoleonic-era-europe-the-soulslike-treatment-in-2026</id>
         <link href="https://www.rockpapershotgun.com/valor-mortis-will-see-ghostrunners-creators-give-napoleonic-era-europe-the-soulslike-treatment-in-2026"/>
@@ -1261,17 +1445,6 @@ It became a warning for all players. User Active-Target-5210 shared a screenshot
 But player Reallylazyname—yeah, that’s a really lazy name—revealed that three years ago, his Luxray had the same issue. A red stain showed up in its front right leg, instead of the us…]]></summary>
         <author>
             <name>Bhernardo Viana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone Recreated KPop Demon Hunters In Animal Crossing And It’s Amazing]]></title>
-        <id>https://kotaku.com/?p=2000618416</id>
-        <link href="https://kotaku.com/kpop-demon-hunters-songs-animal-crossing-youtube-stream-2000618416"/>
-        <updated>2025-08-19T14:17:52.000Z</updated>
-        <summary type="html"><![CDATA[‘Your voices cannot defeat me.’ - Tom Nook as he fires a massive energy blast at the villager
-The post Someone Recreated <em>KPop Demon Hunters</em> In <em>Animal Crossing</em> And It’s Amazing appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
         </author>
     </entry>
     <entry>
@@ -2117,37 +2290,6 @@ PlayStyle+: Max…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palia Botanical Bliss update patch notes – new event, plants, and more]]></title>
-        <id>https://www.destructoid.com/?p=1105713</id>
-        <link href="https://www.destructoid.com/palia-botanical-bliss-update-patch-notes-new-event-plants-and-more/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=palia-botanical-bliss-update-patch-notes-new-event-plants-and-more"/>
-        <updated>2025-08-18T17:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Palia's next big update, Botanical Bliss, is now live on all available platforms, and there's plenty in-store for the players to enjoy and explore.
-
-
-The latest update gives us new ways to explore the magical world and deck out our housing plots. Additionally, 1st and 2nd Anniversary Plushies are also available to all as part of a limited-time login campaign.
-
-
-Table of contents
-All major Palia Botanical Bliss features
-
-Flower Bloom Event
-
-
-All major Palia Botanical Bliss features
-
-
-The new update has plenty of events to engage in. Completing the events will allow us to win special rewards.
-
-
-Flower Bloom Event
-
-
-This event will be available to all players at 12pm game time in Palia. You will have to take part in a co-op-focused flower-filled challenge to complete the tasks and unlock the …]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Git 2.51 Released With More Changes Preparing For Git 3.0]]></title>
         <id>https://www.phoronix.com/news/Git-2.51-Released</id>
         <link href="https://www.phoronix.com/news/Git-2.51-Released"/>
@@ -2970,16 +3112,6 @@ No...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.17 Features: Great Intel Graphics Improvements, AMD HFI, Attack Vector Controls + Lenovo Gaming Drivers]]></title>
-        <id>https://www.phoronix.com/review/linux-617-features</id>
-        <link href="https://www.phoronix.com/review/linux-617-features"/>
-        <updated>2025-08-15T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[With the Linux 6.17-rc1 release this past Sunday, the Linux 6.17 merge window is over. Here is a look back at the most exciting changes that made it for Linux 6.17.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vlažné reakcie na nový model GPT-5]]></title>
         <id>www.root.cz-actuality-49041</id>
         <link href="https://www.root.cz/zpravicky/vlazne-reakcie-na-novy-model-gpt-5/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3417,29 +3549,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7696-1: libssh vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7696-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7696-1"/>
-        <updated>2025-08-14T06:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Ronald Crane discovered that libssh incorrectly handled certain base64
-conversions. An attacker could use this issue to cause libssh to crash,
-resulting in a denial of service, or possibly execute arbitrary code.
-(CVE-2025-4877)
-
-Ronald Crane discovered that libssh incorrectly handled the
-privatekey_from_file() function. An attacker could use this issue to cause
-libssh to crash, resulting in a denial of service, or possibly execute
-arbitrary code. (CVE-2025-4878)
-
-Ronald Crane discovered that libssh incorrectly handled certain memory
-operations in the sftp server. An attacker could possibly use this issue
-to cause libssh to crash, resulting in a denial of service.
-(CVE-2025-5318)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Possible Electric Type Deck idea for H and I regulations (in progress, suggestions welcome)]]></title>
         <id>156328</id>
         <link href="https://www.pokebeach.com/forums/threads/possible-electric-type-deck-idea-for-h-and-i-regulations-in-progress-suggestions-welcome.156328/"/>
@@ -3461,23 +3570,6 @@ Trainers(25)
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7695-1: Sidekiq vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7695-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7695-1"/>
-        <updated>2025-08-14T05:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Anas Roubi discovered that Sidekiq did not correctly sanitize certain
-inputs. An attacker could possibly use this issue to execute a cross-site
-scripting (XSS) attack. This issue only affected Ubuntu 18.04 LTS, and
-Ubuntu 20.04 LTS. (CVE-2021-30151)
-
-It was discovered that Sidekiq did not correctly bound certain inputs. An
-attacker could possibly use this issue to cause a denial of service.
-(CVE-2022-23837)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My power bank is Steam Deck overkill, but it's reduced at Amazon]]></title>
         <id>https://www.rockpapershotgun.com/my-power-bank-is-steam-deck-overkill-but-its-reduced-at-amazon</id>
         <link href="https://www.rockpapershotgun.com/my-power-bank-is-steam-deck-overkill-but-its-reduced-at-amazon"/>
@@ -3486,18 +3578,6 @@ attacker could possibly use this issue to cause a denial of service.
  Read more]]></summary>
         <author>
             <name>Lloyd Coombes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7693-1: qs vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7693-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7693-1"/>
-        <updated>2025-08-14T01:40:12.000Z</updated>
-        <summary type="html"><![CDATA[Nathanael Braun and Johan Brissaud discovered that qs was vulnerable
-to prototype pollution. A remote attacker could possibly use this issue
-to cause a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4682,17 +4762,6 @@ It's not that surprising a move, given the publishers opted to make it a hard re
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This comically large Samsung Odyssey Neo gaming monitor just got an equally gigantic discount at Amazon]]></title>
-        <id>https://www.rockpapershotgun.com/this-comically-large-samsung-odyssey-neo-gaming-monitor-just-got-an-equally-gigantic-discount-at-amazon</id>
-        <link href="https://www.rockpapershotgun.com/this-comically-large-samsung-odyssey-neo-gaming-monitor-just-got-an-equally-gigantic-discount-at-amazon"/>
-        <updated>2025-08-05T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Got three (or maybe four) monitors and want to condense things into one, suitably massive canvas for your work or the best ultrawide games? We might just have the deal for you.
- Read more]]></summary>
-        <author>
-            <name>Lloyd Coombes</name>
         </author>
     </entry>
     <entry>
