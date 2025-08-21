@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-21T06:31:29.052Z</id>
+    <id>urn:2025-08-21T08:19:31.229Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-08-21T06:31:29.052Z</updated>
+    <updated>2025-08-21T08:19:31.229Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-7701-3: Linux kernel (IoT) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7701-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7701-3"/>
+        <updated>2025-08-21T07:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Device tree and open firmware driver;
+  - SCSI subsystem;
+  - TTY drivers;
+  - SMB network file system;
+  - Bluetooth subsystem;
+  - Network traffic control;
+(CVE-2023-52975, CVE-2024-38541, CVE-2025-37797, CVE-2024-49950,
+CVE-2024-50073, CVE-2023-52757, CVE-2025-38083)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trails In The Sky 1st Chapter Switch 2 Edition 'Upgrade Pack' Confirmed]]></title>
         <id>https://www.nintendolife.com/#article-186869</id>
@@ -38,7 +58,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2025-08-21T02:30:00.000Z</updated>
         <summary type="html"><![CDATA[We're getting closer...
 
-After a restart, delays and an incredibly long wait, it appears Retro Studios' anticipated release Metroid Prime 4: Beyond has finally been rated by the Entertainment Software Rating Board.
+After a restart, delays and an incredibly long wait, it appears Retro Studios' anticipated release Metroid Prime 4: Beyond may have finally been rated by the Entertainment Software Rating Board.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2036,44 +2056,6 @@ CVE-2025-38068)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7704-2: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7704-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7704-2"/>
-        <updated>2025-08-19T23:38:57.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Cryptographic API;
-  - Arm Firmware Framework for ARMv8-A(FFA);
-  - Multiple devices driver;
-  - Media drivers;
-  - Network drivers;
-  - NVDIMM (Non-Volatile Memory Device) drivers;
-  - NVME drivers;
-  - x86 platform drivers;
-  - TCM subsystem;
-  - Virtio drivers;
-  - File systems infrastructure;
-  - SMB network file system;
-  - LZO compression library;
-  - Digital Audio (PCM) driver;
-  - Tracing infrastructure;
-  - Padata parallel execution mechanism;
-  - CAN network layer;
-  - Networking core;
-  - TIPC protocol;
-  - ALSA framework;
-(CVE-2025-38052, CVE-2025-38078, CVE-2025-38079, CVE-2025-38061,
-CVE-2025-38044, CVE-2025-38065, CVE-2025-38043, CVE-2025-38034,
-CVE-2025-38037, CVE-2025-38048, CVE-2025-38066, CVE-2025-38003,
-CVE-2025-38058, CVE-2025-38075, CVE-2025-38077, CVE-2025-38051,
-CVE-2025-38031, CVE-2025-38035, CVE-2025-38072, CVE-2025-38004,
-CVE-2025-38068)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kick Streamer Known For Controversial ‘Humiliation’ Content Reportedly Dies During Live Broadcast]]></title>
         <id>https://kotaku.com/?p=2000618580</id>
         <link href="https://kotaku.com/jeanpormanove-kick-streamer-dead-humiliation-abuse-naruto-2000618580"/>
@@ -2425,7 +2407,7 @@ Read more]]></summary>
         <id>www.root.cz-actuality-49065</id>
         <link href="https://www.root.cz/zpravicky/kdenlive-25-08-0-prinasi-svt-av1-chysta-lepsi-hardwarovou-akceleraci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2025-08-19T11:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Letošní srpnové vydání nelineární video střižny Kdenlive opravuje celkem 15 chyb. K tomu přidává várku novinek, kde nechybí přepracované roznraní zvukového mixu, které lépe vypadá, a to včetně HiDPI displejů. Vylepšení například o podporu SVG a obrázků dostal titulkovač, vylepšen je také převod textu na řeč, přepracována jsou vodítka a značky atd.]]></summary>
+        <summary type="html"><![CDATA[Letošní srpnové vydání nelineární video střižny Kdenlive opravuje celkem 15 chyb. K tomu přidává várku novinek, kde nechybí přepracované rozhraní zvukového mixu, které lépe vypadá, a to včetně HiDPI displejů. Vylepšení například o podporu SVG a obrázků dostal titulkovač, vylepšen je také převod textu na řeč, přepracována jsou vodítka a značky atd.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
