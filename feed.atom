@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-21T04:17:54.828Z</id>
+    <id>urn:2025-08-21T06:31:29.052Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-08-21T04:17:54.828Z</updated>
+    <updated>2025-08-21T06:31:29.052Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Tony Hawk's Pro Skater 3 + 4 Patch 2.0 Released, Here's What's Included]]></title>
+        <title type="html"><![CDATA[Trails In The Sky 1st Chapter Switch 2 Edition 'Upgrade Pack' Confirmed]]></title>
+        <id>https://www.nintendolife.com/#article-186869</id>
+        <link href="https://www.nintendolife.com/news/2025/08/trails-in-the-sky-1st-chapter-switch-2-edition-upgrade-pack-confirmed"/>
+        <updated>2025-08-21T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Prologue demo also announced.
+Falcom and GungHo have today confirmed the upcoming title Trails in the Sky 1st Chapter will be getting a Switch 2 Edition.
+This particular version will be a digital release and includes higher resolution and frame rate "for sharper" and "smoother graphics", along with reduced load times. This is part of a paid upgrade path for existing Switch owners and is priced at $1.00 USD (or your regional equivalent).
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tony Hawk's Pro Skater 3 + 4 'Patch 2.0' Rolls Out On Switch And Switch 2, Here's What's Included]]></title>
         <id>https://www.nintendolife.com/#article-186868</id>
-        <link href="https://www.nintendolife.com/news/2025/08/tony-hawks-pro-skater-3-plus-4-patch-2-0-released-heres-whats-included"/>
+        <link href="https://www.nintendolife.com/news/2025/08/tony-hawks-pro-skater-3-plus-4-patch-2-0-rolls-out-on-switch-and-switch-2-heres-whats-included"/>
         <updated>2025-08-21T03:30:00.000Z</updated>
         <summary type="html"><![CDATA[Switch 2 fixes and much more.
 Following the release of Tony Hawk's Pro Skater 3 + 4 on the Switch and Switch 2 last month, Activision and Iron Galaxy have now rolled out a major 2.0 patch.
-This update adds Create-A-Park to Private Matches and addresses a "variety of issues". There are also some fixes specific to Switch and Switch 2 versions of the game. Here's what you can expect from this latest update:
+This update adds Create-A-Park to Private Matches and addresses a "variety of issues". There are also some fixes specific to the Switch and Switch 2 versions of the game, which should make the overall experience more enjoyable.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -51,7 +64,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2025-08-21T00:30:00.000Z</updated>
         <summary type="html"><![CDATA[Get ready for the Switch 2 Edition.
 Ahead of the release of Kirby and the Forgotten Land for the Switch 2 next week, Nintendo has rolled out a new game update.
-This bumps up both the Switch and Switch 2 versions of the title up to Version 1.1.0. According to the official patch notes, this is the first update for the title since its arrival on the Switch in 2022. This particular update adds support for the Switch 2 Edition and also includes some fixes to improve the gameplay.
+This bumps up both the Switch and Switch 2 versions of the title up to Version 1.1.0. According to the official patch notes, this is the first update for the title since its arrival on the Switch in 2022. Like certain other game updates recently, this one adds support for the Switch 2 and also includes some fixes to improve the overall gameplay experience.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -599,6 +612,20 @@ The post Trump Take Game appeared first on Kotaku.]]></summary>
         <id>156333</id>
         <link href="https://www.pokebeach.com/forums/threads/mega-charizard-ex-and-mega-attack-rares-revealed-at-worlds.156333/"/>
         <updated>2025-08-20T17:51:42.000Z</updated>
+        <summary type="html"><![CDATA[Mega Charizard ex, Mega Dragonite ex, and Oricorio ex were just revealed during the closing ceremony of Worlds! They will appear in future English sets, though Pokemon has purposefully hidden the sets.
+
+			
+				
+			
+			
+				
+			
+			
+				
+			
+		
+
+Also revealed is a new type of secret rare card...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -1835,6 +1862,24 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7706-1: Ceph vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7706-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7706-1"/>
+        <updated>2025-08-20T05:36:40.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Ceph incorrectly handled read-only permissions. An
+authenticated attacker could use this issue to obtain dm-crypt encryption
+keys. This issue only affected Ubuntu 14.04 LTS. (CVE-2018-14662)
+
+Sergey Bobrov discovered that Ceph’s RadosGW (Ceph Object Gateway) allowed
+the injection of HTTP headers in responses to CORS requests. An attacker
+could possibly use this issue to compromise system integrity. This issue
+only
+affected Ubuntu 16.04 LTS. (CVE-2021-3524)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Natsume's Next Harvest Moon Game Arrives On Switch This October]]></title>
         <id>https://www.nintendolife.com/#article-183745</id>
         <link href="https://www.nintendolife.com/news/2025/08/natsumes-next-harvest-moon-game-arrives-on-switch-this-october"/>
@@ -2103,42 +2148,6 @@ The post The Coolest Thing From Gamescom ONL Was This Wild Train Game appeared f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7703-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7703-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7703-1"/>
-        <updated>2025-08-19T21:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - GPIO subsystem;
-  - GPU drivers;
-  - HID subsystem;
-  - Input Device (Mouse) drivers;
-  - Multiple devices driver;
-  - Media drivers;
-  - Network drivers;
-  - PCI subsystem;
-  - S/390 drivers;
-  - SPI subsystem;
-  - Trusted Execution Environment drivers;
-  - UFS subsystem;
-  - USB Device Class drivers;
-  - USB core drivers;
-  - USB Gadget drivers;
-  - Framebuffer layer;
-  - Network file system (NFS) client;
-  - Network file system (NFS) server daemon;
-  - File systems infrastructure;
-  - SMB network file system;…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Game Science reveal Black Myth: Zhong Kui, a new action-RPG that aims to catch Wukong players "off guard"]]></title>
         <id>https://www.rockpapershotgun.com/game-science-reveal-black-myth-zhong-kui-a-new-action-rpg-that-aims-to-catch-wukong-players-off-guard</id>
         <link href="https://www.rockpapershotgun.com/game-science-reveal-black-myth-zhong-kui-a-new-action-rpg-that-aims-to-catch-wukong-players-off-guard"/>
@@ -2154,6 +2163,15 @@ This update corrects flaws in the following subsystems:
         <id>156337</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-lucario-ex-figure-collection%E2%80%9D-releasing-in-november.156337/"/>
         <updated>2025-08-19T21:07:38.000Z</updated>
+        <summary type="html"><![CDATA[A new "Mega Lucario ex Figure Collection" will release in November!
+
+			
+				
+			
+		
+
+It will feature a Mega Lucario ex promo (and jumbo) with brand new artwork that hasn't been seen in Japan yet. It may originate from November's MEGA Dream ex set.
+The collection will also come with a Mega...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -2229,19 +2247,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daemon X Machina: Titanic Scion Gets A Free Demo On Switch 2]]></title>
-        <id>https://www.nintendolife.com/#article-186751</id>
-        <link href="https://www.nintendolife.com/news/2025/08/daemon-x-machina-titanic-scion-gets-a-free-demo-on-switch-2"/>
-        <updated>2025-08-19T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Playable today!
-During Gamescom's Opening Night Live showcase, it's been confirmed that Daemon x Machina: Titanic Scion now has a free demo available for users on all relevant platforms, including the Switch 2.
-It should be available for download by the time you're reading this, but if not, then just keep an eye out over the coming hours for an update to the Switch 2 eShop; it'll be there before you know it.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Black Myth: Wukong Sequel Already In Development And Here’s Our First Look]]></title>
         <id>https://kotaku.com/?p=2000618534</id>
         <link href="https://kotaku.com/black-myth-2-gamescom-teaser-trailer-zhong-kui-game-science-china-2000618534"/>
@@ -2292,6 +2297,8 @@ Read more]]></summary>
         <id>156335</id>
         <link href="https://www.pokebeach.com/forums/threads/pokemonxp-convention-announced-for-san-francisco-all-the-details.156335/"/>
         <updated>2025-08-19T19:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Starting next year, San Francisco will not only be holding Worlds, but a new Pokemon convention called PokemonXP! It will be held from August 28th to 30th at the Moscone Center -- alongside Worlds.
+The convention will host a Pokemon Center, activities, panels, autograph sessions, card shops, and...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -2517,6 +2524,8 @@ Read more]]></summary>
         <id>156327</id>
         <link href="https://www.pokebeach.com/forums/threads/full-catalogue-of-worlds-2025-pokemon-center-merchandise-survival-guide.156327/"/>
         <updated>2025-08-19T08:39:28.000Z</updated>
+        <summary type="html"><![CDATA[As I've done since 2004, I'm here live at Worlds and have catalogued all the Pokemon Center products you can purchase!
+The Pokemon Center is located inside Hall D at the Anaheim Convention Center. Reservations are mandatory to enter. Unfortunately they filled up in July, so if you did not make...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -2596,6 +2605,10 @@ Read more]]></summary>
         <id>156332</id>
         <link href="https://www.pokebeach.com/forums/threads/i-kicked-myself-out-of-worlds.156332/"/>
         <updated>2025-08-18T20:45:50.000Z</updated>
+        <summary type="html"><![CDATA[Staff got crappy, I got 9x crappier back. Apologizes to the hot chicks in this photo, you made my day with this one.
+
+Love,
+Stevie42069/Stevie5250]]></summary>
         <author>
             <name>Stevie5250</name>
         </author>
@@ -2775,6 +2788,11 @@ At a glance, Deck & Conn is Objects In Space, but turn-based and minus Objects I
         <id>156336</id>
         <link href="https://www.pokebeach.com/forums/threads/mechanical-ways-to-make-the-game-better-and-more-diverse.156336/"/>
         <updated>2025-08-18T13:45:48.000Z</updated>
+        <summary type="html"><![CDATA[Hello, 
+
+The TCG, in my humble opinion needs more mechanics to make the game better. The 1HKO or 2HKO set up meta for the last 10 years is taking a toll on my enthusiasm for the game. I know I’m not alone in this. 
+
+So I wanted to start a thread to explore different fun, or potential ways the...]]></summary>
         <author>
             <name>rileysill32</name>
         </author>
@@ -2784,6 +2802,14 @@ At a glance, Deck & Conn is Objects In Space, but turn-based and minus Objects I
         <id>156279</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cprize-pack-series-seven%E2%80%9D-full-set-list-released-holo-budew-dusknoir-eeveelutions-and-more.156279/"/>
         <updated>2025-08-18T13:43:59.000Z</updated>
+        <summary type="html"><![CDATA[TPCi has released the full set list for Prize Pack Series Seven!
+
+			
+				
+			
+		
+
+Some highlights in the set include an exclusive cosmos holo Budew, cosmos and non-holo versions of Dusknoir, and stamped versions of the Eeveelutions...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -2858,6 +2884,8 @@ Read more]]></summary>
         <id>156329</id>
         <link href="https://www.pokebeach.com/forums/threads/worlds-metagame-analysis-%E2%80%94-my-top-10-decks-for-the-biggest-event-of-the-year.156329/"/>
         <updated>2025-08-18T11:39:19.000Z</updated>
+        <summary type="html"><![CDATA[Hello all PokeBeach readers! Gabriel here again with another Pokemon TCG article, and this time I want to talk about the best decks in the upcoming 2025 Pokemon TCG World Championships happening in Anaheim, USA.
+At this point, I've already studied the format extensively to the point where I have...]]></summary>
         <author>
             <name>PMJ</name>
         </author>
@@ -2982,6 +3010,14 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>156303</id>
         <link href="https://www.pokebeach.com/forums/threads/worlds-2025-pikachu-promo-coming-to-gamestop-sells-out-at-pokemon-center-in-less-than-24-hours.156303/"/>
         <updated>2025-08-18T00:11:52.000Z</updated>
+        <summary type="html"><![CDATA[GameStop stores will be distributing the Worlds 2025 Pikachu promo! While no dates have been announced yet, we've received reports some locations are already handing them out.
+
+			
+				
+			
+		
+
+After launching their promotions yesterday, the U.S. and Canadian Pokemon Centers ran out of the card...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -3105,6 +3141,30 @@ Read more]]></summary>
         <id>156294</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C2025-trainer%E2%80%99s-tookit%E2%80%9D-revealed-for-october.156294/"/>
         <updated>2025-08-16T20:24:23.000Z</updated>
+        <summary type="html"><![CDATA[The 2025 Trainer's Tookit has just been revealed! It will release on October 24th for $34.99.
+It will feature a direct reprint of Fezandipiti ex. Previous Toolkits have always featured alternate art promos.
+
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+		
+
+2025's...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -3377,6 +3437,11 @@ Read more]]></summary>
         <id>156306</id>
         <link href="https://www.pokebeach.com/forums/threads/deck-suggestions.156306/"/>
         <updated>2025-08-15T03:49:34.000Z</updated>
+        <summary type="html"><![CDATA[Thinking of building a new deck for organised play, but it’s been a while since I last played seriously other than attending prereleases. 
+
+Looking at cards from JTG, DR, BB, WL etc.
+
+The problem for me is, the card pool has shifted so much since Sun and Moon that I need to re-learn the newer...]]></summary>
         <author>
             <name>GymTrainer:Matt</name>
         </author>
@@ -3502,6 +3567,22 @@ Read more]]></summary>
         <id>156302</id>
         <link href="https://www.pokebeach.com/forums/threads/amid-chaos-mcdonald%E2%80%99s-japan-sells-out-of-pokemon-tcg-promo-cards-in-less-than-a-day.156302/"/>
         <updated>2025-08-14T15:46:10.000Z</updated>
+        <summary type="html"><![CDATA[The McDonald's Pokemon TCG promotion was supposed to last three days in Japan -- but barely lasted 24 hours.
+
+			
+				
+			
+			
+				
+			
+			
+				
+			
+		
+
+McDonald's Japan has announced the promotion has ended early due to overwhelming demand:
+Happy Meal® Pokémon Card Distribution Ends
+We would...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -3568,6 +3649,9 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>156286</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dream-ex%E2%80%9D-to-release-in-november-featuring-mega-dragonite-ex.156286/"/>
         <updated>2025-08-14T09:54:18.000Z</updated>
+        <summary type="html"><![CDATA[We can reveal MEGA Dream ex (MEGAドリームex) will release in Japan on Friday, November 28th! The set name was discovered through public trademark filings in June.
+The set will be headlined by Mega Dragonite ex!
+As the name implies, the set will also feature a large number of Mega Evolution Pokemon...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -3621,6 +3705,18 @@ Read more]]></summary>
         <id>156328</id>
         <link href="https://www.pokebeach.com/forums/threads/possible-electric-type-deck-idea-for-h-and-i-regulations-in-progress-suggestions-welcome.156328/"/>
         <updated>2025-08-14T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Pokemon (16)
+2 Yamper (Temporal Forces)
+2 Boltund (Temporal Forces)
+2 Electabuzz (Stellar Crown)
+2 Electivire ex (Destined Rivals)
+2 Zekrom ex (Black Bolt)
+2 Iono's Wattrel (Journey Together)
+1 Iono's Kilowattrel (Journey Together)
+1 Eelektrik (Black Bolt)
+2 Tynamo (Black Bolt)
+Trainers(25)
+3...]]></summary>
         <author>
             <name>Auragod2008</name>
         </author>
@@ -3774,6 +3870,10 @@ Read more]]></summary>
         <id>156273</id>
         <link href="https://www.pokebeach.com/forums/threads/celebration-fanfare-promo-revealed-for-2025-season.156273/"/>
         <updated>2025-08-13T04:18:29.000Z</updated>
+        <summary type="html"><![CDATA[This season’s “Celebration Fanfare” promo card has been revealed!
+In Japan, players who earned at least 30 Championship Points over the course of the 2024-2025 season will receive this card in the mail. Players have until August 31st to earn enough points.
+Celebration Fanfare – Trainer
+Stadium...]]></summary>
         <author>
             <name>steffenka</name>
         </author>
@@ -3888,6 +3988,13 @@ Xr Scenecore Version 1.0.0-alpha06]]></summary>
         <id>156255</id>
         <link href="https://www.pokebeach.com/forums/threads/are-there-any-non-meta-decks-that-you-believe-could-be-relevant-during-worlds.156255/"/>
         <updated>2025-08-12T16:32:29.000Z</updated>
+        <summary type="html"><![CDATA[Hello everyone,
+
+
+I'm a long-time fan of the game and have been playing Pokémon TCG Live extensively lately.
+
+
+I understand that the meta in TCG Live can differ significantly from what we see at major tournaments—especially during the biggest event of the year. Still, based on my experience...]]></summary>
         <author>
             <name>nanwen</name>
         </author>
@@ -3955,6 +4062,9 @@ Read more]]></summary>
         <id>156266</id>
         <link href="https://www.pokebeach.com/forums/threads/i-opened-about-50-packs-of-black-bolt-and-i-am-disappointed.156266/"/>
         <updated>2025-08-12T10:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Not so much about whether i got any good or not but i was kinda hoping that the hit rates will be as good as Crown Zenith with the amount of IRs. Pull rates seems to be normal but i did notice that pokeball reverse holos are relatively easy to pull.
+
+Debating whether i want to master this set...]]></summary>
         <author>
             <name>Apoplectic</name>
         </author>
@@ -3987,6 +4097,9 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>156297</id>
         <link href="https://www.pokebeach.com/forums/threads/mega-gengar-ex-and-mega-diancie-ex-decks-officially-revealed-for-september.156297/"/>
         <updated>2025-08-12T03:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Creatures has officially revealed the "Starter Set Mega Gengar ex" and the "Starter Set Mega Diancie ex!"
+As posted months ago, the two 60-card decks will release in Japan on September 5th. They will cost 1,800 yen each.
+Each deck will also feature an Illustration Rare of Haunter or Meloetta...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -3996,6 +4109,8 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>156264</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-brave%E2%80%9D-and-%E2%80%9Cmega-symphonia%E2%80%9D-secret-rares-revealed-introduce-mega-ultra-rare-cards.156264/"/>
         <updated>2025-08-12T03:09:16.000Z</updated>
+        <summary type="html"><![CDATA[The secret rares from Mega Brave and Mega Symphonia are now being posted to social media by Japanese fans! The dual sets releases in Japan on Friday. We will get these cards in our Mega Evolution set in September.
+Keep checking back here for more cards and follow me on Twitter for occasional...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -4005,6 +4120,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>156268</id>
         <link href="https://www.pokebeach.com/forums/threads/jellicent-ex-is-unfair-%E2%80%93-gardevoir%E2%80%99s-latest-and-greatest-new-option.156268/"/>
         <updated>2025-08-12T03:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Gardevoir ex is one of the strongest archetypes the game has ever seen. Recently, it has become more notorious than ever for winning just about every major tournament since rotation, including the massive North American International Championships. Black Bolt and White Flare are underwhelming...]]></summary>
         <author>
             <name>PMJ</name>
         </author>
@@ -4014,6 +4130,8 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>156253</id>
         <link href="https://www.pokebeach.com/forums/threads/justinbasil-longtime-contributor-to-the-pokemon-tcg-community-has-passed-away.156253/"/>
         <updated>2025-08-12T02:41:18.000Z</updated>
+        <summary type="html"><![CDATA[It is with a heavy heart that I share that my dear friend JustInBasil (Jason Kingsford) unexpectedly passed away last night. He was 36.
+Jason was a pillar of the Pokemon TCG community -- a selfless and passionate person who devoted himself to helping people connect, learn, and grow through the...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -4045,6 +4163,12 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>156224</id>
         <link href="https://www.pokebeach.com/forums/threads/worlds-pokemon-center-reservations-now-open-most-popular-items-locked-behind-lottery.156224/"/>
         <updated>2025-08-11T20:30:41.000Z</updated>
+        <summary type="html"><![CDATA[The Worlds Pokemon Center reservations are now open!
+As of posting this story, the slots you can schedule are as follows. Each slot is divided into 15-minute intervals.
+
+Wednesday, August 13th -- 2:45 PM to 4:45 PM
+Thursday, August 14th -- 10:45 AM to 5:15 PM
+Friday, August 15th -- 9:15 AM to...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -4135,6 +4259,7 @@ Read more]]></summary>
         <id>156307</id>
         <link href="https://www.pokebeach.com/forums/threads/why-don%E2%80%99t-people-play-physical-games-with-the-cards.156307/"/>
         <updated>2025-08-11T09:05:59.000Z</updated>
+        <summary type="html"><![CDATA[This is a thread where you can post about your own experience with asking people if they play the card game, but they refuse to use their cards. I’ll go first: I was at lunch and me and my friends were playing with our cards until one kid decided to rip my friends cards. The kid then through...]]></summary>
         <author>
             <name>larissa</name>
         </author>
@@ -4144,6 +4269,7 @@ Read more]]></summary>
         <id>155327</id>
         <link href="https://www.pokebeach.com/forums/threads/favourite-pokemon.155327/"/>
         <updated>2025-08-11T08:55:39.000Z</updated>
+        <summary type="html"><![CDATA[What is your favourite Pokemon? For me, it is Charlizard.]]></summary>
         <author>
             <name>chongjasmine</name>
         </author>
@@ -4821,16 +4947,6 @@ reports, which help us to make Android Studio better. If …]]></summary>
         <summary type="html"><![CDATA[Media3 Version 1.8.0-rc02]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audio recenze: Fantastická 4: První kroky [The Fantastic Four: First Steps] - 50 %]]></title>
-        <id>tag:blogger.com,1999:blog-2270872860161924291.post-3128745154444531428</id>
-        <link href="https://www.fffilm.cz/2025/07/audio-recenze-fantasticka-4-prvni-kroky.html"/>
-        <updated>2025-07-22T17:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Prvních přibližně 20 minut jsem byl skoro nadšený. Mělo to švih, krásnou retrofuturistickou výpravu, bylo to (záměrně!) mírně debilní jako sci-fi z 50. let, ale... Pak většina z toho zmizela (včetně té výpravy!) a zbytek filmu je zase totéž jako většina ostatních Marvel filmů: dvě-tři větší akce, trocha triviální filosofie o smyslu rodiny a přátelství, a na konci slib, že "v příštím pokračování to ale opravdu bude stát za to!" (Ilča 30 %)]]></summary>
-        <author>
-            <name>noreply@blogger.com (Unknown)</name>
         </author>
     </entry>
 </feed>
