@@ -1,10 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-13T10:12:22.405Z</id>
+    <id>urn:2025-09-13T12:23:47.948Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-09-13T10:12:22.405Z</updated>
+    <updated>2025-09-13T12:23:47.948Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Opinion: I'm Celebrating Super Mario Bros.' 40th Anniversary By Finally Finishing It]]></title>
+        <id>https://www.nintendolife.com/#article-187366</id>
+        <link href="https://www.nintendolife.com/features/opinion-im-celebrating-super-mario-bros-40th-anniversary-by-finally-finishing-it"/>
+        <updated>2025-09-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Clear Bowser history.
+Please, angry mob, wait! It's true, I had never finished Super Mario Bros. before this week, but that's not to say that I hadn't played it before. If you'll put your pitchforks and burning torches down for a moment, I promise, I can explain.
+It was 2004 when I first came into contact with Super Mario Bros. I remember that because I had just received a Game Boy Advance for my birthday, and in a vague attempt to put me onto a "proper" game and dissuade me from my copy of The SpongeBob SquarePants Movie tie-in platformer, my dad bought me the SMB GBA re-release.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Releasing Physical 'Talking Flower' From Mario Wonder Next Spring]]></title>
+        <id>https://www.nintendolife.com/#article-187850</id>
+        <link href="https://www.nintendolife.com/news/2025/09/nintendo-releasing-physical-talking-flower-from-mario-wonder-next-spring"/>
+        <updated>2025-09-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA["We actually made them".
+
+Nintendo is really mixing it up nowadays with merchandise, and the next surprise product on the way is a talking flower. It's not just any talking flower though, it's the same one based on the character from the 2023 Switch release Super Mario Bros. Wonder.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux's New "Sheaves" Per-CPU Caching Layer Showing Massive Wins For AMD Performance]]></title>
+        <id>https://www.phoronix.com/news/Linux-Sheaves-AMD-Performance</id>
+        <link href="https://www.phoronix.com/news/Linux-Sheaves-AMD-Performance"/>
+        <updated>2025-09-13T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week I wrote about Sheaves as an opt-in, per-CPU array-based caching layer likely coming for Linux 6.18. The sheaves patches have been queued into the "slab/for-next" Git branch ahead of the Linux 6.18 kernel merge window. Patches posted now by Google are showing the Linux Sheaves code having a massive beneficial impact for large AMD systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor Will Block AI Generated Code, Raises x86_64 VM Limit To 8,192 vCPUs]]></title>
+        <id>https://www.phoronix.com/news/Cloud-Hypervisor-48</id>
+        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-48"/>
+        <updated>2025-09-13T10:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Hypervisor 48.0 is now available for this Intel-started, open-source and Rust-based VMM focused on modern cloud workloads. Cloud Hypervisor continues to tailor to Windows and Linux guests while emphasizing security and cloud-native workloads...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[62 Patches Posted For Stripping Classic Initrd Support From The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/Patches-Remove-Classic-Initrd</id>
+        <link href="https://www.phoronix.com/news/Patches-Remove-Classic-Initrd"/>
+        <updated>2025-09-13T10:12:48.000Z</updated>
+        <summary type="html"><![CDATA[Last month I wrote about initrd support potentially being on its way out of the Linux kernel. For years Linux developers have wanted to phase out the classic initial RAM disk support from the Linux kernel and it looks like that day may finally be near with patches having been posted for removing the support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guide: 79 Switch 1 & 2 Games You Should Check Out In The eShop 'Blockbuster Sale' (Europe)]]></title>
         <id>https://www.nintendolife.com/#article-187462</id>
@@ -25,6 +81,16 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.phoronix.com/news/libadwaita-1.8-Released"/>
         <updated>2025-09-13T09:55:24.000Z</updated>
         <summary type="html"><![CDATA[Ahead of the GNOME 49 stable release expected on Wednesday, libadwaita 1.8 released this week to incorporate all the enhancements made over the past six months to this GTK4 library that provides GNOME-specific widgets and features...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine Staging 10.15 Adds Patch For A Five Year Old Bug, 300 Patches In Total Atop Wine]]></title>
+        <id>https://www.phoronix.com/news/Wine-Staging-10.15</id>
+        <link href="https://www.phoronix.com/news/Wine-Staging-10.15"/>
+        <updated>2025-09-13T09:42:32.000Z</updated>
+        <summary type="html"><![CDATA[Following yesterday's release of the bi-weekly Wine 10.15 development release, Wine-Staging 10.15 is out with 300 patches atop the upstream Wine codebase...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -1283,32 +1349,6 @@ https://www.elitefourum.com/t/mega-kalos-starters-mega-raichu-x-y-revealed/58437
         <summary type="html"><![CDATA[Physical version will be a Game Key Card.
 It was announced during today's Nintendo Direct that Dragon Quest VII is getting a remaster early next year.
 Dragon Quest VII Reimagined is coming to the Nintendo Switch, Nintendo Switch 2, PS5, Xbox Series X|S, and PC on 5th February, 2026.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stylish '80s Action-Roguelike 'Storm Lancers' Battles Onto The Switch eShop Today]]></title>
-        <id>https://www.nintendolife.com/#article-187807</id>
-        <link href="https://www.nintendolife.com/news/2025/09/stylish-80s-action-roguelike-storm-lancers-battles-onto-the-switch-eshop-today"/>
-        <updated>2025-09-12T14:24:00.000Z</updated>
-        <summary type="html"><![CDATA[From former Bungie CEO's new studio.
-We love the '80s. We love anime. We love them there computer games.
-And so, it stands to reason, there's a fair chance we could end up loving Storm Lancers, a rather retro-cool-looking 2D action roguelike that's available for Switch today. Exciting!
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire Emblem: Fortune's Weave Charges Onto Switch 2 In 2026]]></title>
-        <id>https://www.nintendolife.com/#article-187802</id>
-        <link href="https://www.nintendolife.com/news/2025/09/fire-emblem-fortunes-weave-charges-onto-switch-2-in-2026"/>
-        <updated>2025-09-12T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[Fortune of battle.
-Closing out today's Nintendo Direct was a surprise announcement — we're getting a brand new Fire Emblem game on Switch 2 in 2026.
-Fire Emblem: Fortune's Weave looks absolutely incredible and appears to take place in an arid region with a huge colosseum seemingly a central feature.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2716,16 +2756,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux Looking To Finally Kill Off HIGHPTE Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-ARM-HIGHPTE-RFC</id>
-        <link href="https://www.phoronix.com/news/Linux-ARM-HIGHPTE-RFC"/>
-        <updated>2025-09-10T10:55:06.000Z</updated>
-        <summary type="html"><![CDATA[Linux kernel developers are evaluating the idea of removing HIGHPTE support from the Linux kernel due to its maintenance burden and just one ARM system currently using it...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple vydal iPhone 17 a další produkty, novinek je ale málo, akcie šly dolů]]></title>
         <id>www.root.cz-actuality-49308</id>
         <link href="https://www.root.cz/zpravicky/apple-vydal-iphone-17-a-dalsi-produkty-novinek-je-ale-malo-akcie-sly-dolu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2733,16 +2763,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Jako každý rok touto dobou, i letos Apple vydal novou generací svých mobilních produktů. Konkrétně na trh míří iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max a nová třída iPhone Air, dále sluchátka AirPods Pro 3 a hodinky Watch Series 11, Watch SE 3 a Watch Ultra 3. Srdcem nových iPhonů jsou čipy řady Apple A19, vyráběné 3nm proces u TSMC.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Newest DRM Display Driver Being Worked On For Linux: "Yhgch"]]></title>
-        <id>https://www.phoronix.com/news/Linux-DRM-Yhgch-Driver</id>
-        <link href="https://www.phoronix.com/news/Linux-DRM-Yhgch-Driver"/>
-        <updated>2025-09-10T10:32:05.000Z</updated>
-        <summary type="html"><![CDATA[The newest Direct Rendering Manager (DRM) display driver that has been in the works for the Linux kernel is "Yhgch" from Inspur...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2757,26 +2777,6 @@ In a memo about the move shared by The Verge, Microsoft executive vice president
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Loses One Of Its NPU Driver Maintainers: "Time To Let Someone Else Deal With The NPU Bugs"]]></title>
-        <id>https://www.phoronix.com/news/Intel-NPU-Maintainer-Leaves</id>
-        <link href="https://www.phoronix.com/news/Intel-NPU-Maintainer-Leaves"/>
-        <updated>2025-09-10T09:54:33.000Z</updated>
-        <summary type="html"><![CDATA[Following the numerous Intel Linux developer departures last month from the company following layoffs at Intel and others deciding to voluntarily leave, there is another one to report today. One of the Intel IVPU accelerator driver maintainers for the Intel NPUs found in Core Ultra SoCs is departing the company...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM 21.1.1 Ships A Variety Of Compiler Fixes]]></title>
-        <id>https://www.phoronix.com/news/LLVM-21.1.1-Released</id>
-        <link href="https://www.phoronix.com/news/LLVM-21.1.1-Released"/>
-        <updated>2025-09-10T09:42:17.000Z</updated>
-        <summary type="html"><![CDATA[For those preferring for the first point release to major new compiler releases before upgrading, LLVM 21.1.1 is out today along with the likes of Clang 21.1.1 for this widely-used open-source compiler stack...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
