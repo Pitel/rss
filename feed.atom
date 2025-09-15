@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-15T03:03:06.414Z</id>
+    <id>urn:2025-09-15T04:17:14.137Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-09-15T03:03:06.414Z</updated>
+    <updated>2025-09-15T04:17:14.137Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD 15.0 Alpha 2 Released With Builds Now Being Properly Reproducible]]></title>
+        <id>https://www.phoronix.com/news/FreeBSD-15.0-Alpha-2</id>
+        <link href="https://www.phoronix.com/news/FreeBSD-15.0-Alpha-2"/>
+        <updated>2025-09-15T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The second alpha release of the upcoming FreeBSD 15 is now available for testing ahead of its planned official release in December...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flygon from “Inferno X” Revealed!]]></title>
         <id>156396</id>
@@ -2860,16 +2870,6 @@ Basic Pokemon
         <summary type="html"><![CDATA[Druhým článkem chci pokračovat v tématu o Amize 1200, a také jím uzavřít základní blok o tomto legendárním počítači.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Michal Tauchman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa Drops VDPAU Video Acceleration In Favor Of VA-API]]></title>
-        <id>https://www.phoronix.com/news/Mesa-Drops-VDPAU</id>
-        <link href="https://www.phoronix.com/news/Mesa-Drops-VDPAU"/>
-        <updated>2025-09-10T21:55:04.000Z</updated>
-        <summary type="html"><![CDATA[Mesa's Gallium3D video acceleration code has long supported both the VA-API and VDPAU interfaces for video acceleration. VA-API has enjoyed more widespread support among Linux applications and typically more robust while the Video Decode and Presentation API for Unix (VDPAU) was the interface originally started by NVIDIA for their official Linux driver. As of today, Mesa has now removed support for VDPAU acceleration...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
