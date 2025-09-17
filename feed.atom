@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-16T22:12:16.938Z</id>
+    <id>urn:2025-09-17T01:02:40.660Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-09-16T22:12:16.938Z</updated>
+    <updated>2025-09-17T01:02:40.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-7754-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7754-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7754-2"/>
+        <updated>2025-09-17T00:32:16.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network traffic control;
+(CVE-2025-38350, CVE-2025-37752, CVE-2024-57996)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lollipop Chainsaw RePOP Is Getting A Sweet 'Switch 2 Edition' Upgrade This November]]></title>
+        <id>https://www.nintendolife.com/#article-187975</id>
+        <link href="https://www.nintendolife.com/news/2025/09/lollipop-chainsaw-repop-is-getting-a-sweet-switch-2-edition-upgrade-this-november"/>
+        <updated>2025-09-17T00:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Zombie hunter Juliet is back.
+More Switch titles are slowly beginning to receive Switch 2 game upgrades, and Dragami Games has now announced its own plans for Juliet's zombie hack-and-slash Lollipop Chainsaw RePOP.
+The title will be getting a Nintendo Switch 2 Edition featuring "high frame rate", "high resolution", and it will be made available as an upgrade for existing Switch owners. It's scheduled to arrive at some point in November 2025. It hasn't been revealed just yet if this will be a free or paid upgrade for existing owners.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7754-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7754-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7754-1"/>
+        <updated>2025-09-17T00:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network traffic control;
+(CVE-2025-38350, CVE-2025-37752, CVE-2024-57996)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bronzong from “Inferno X” Revealed!]]></title>
+        <id>156400</id>
+        <link href="https://www.pokebeach.com/forums/threads/bronzong-from-%E2%80%9Cinferno-x%E2%80%9D-revealed.156400/"/>
+        <updated>2025-09-16T22:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Bronzor and Bronzong have been revealed from Japan's upcoming Inferno X set, which releases on September 26th. They will become part of our Phantasmal Flames set later this November. Thanks to bangiras and Toine. L for the translations!
+Bronzor - Metal - HP80
+Basic Pokémon
+[C] Iron Defense: Flip...]]></summary>
+        <author>
+            <name>koala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MindsEye's lead actor talks being the face of a game that flops hard]]></title>
         <id>https://www.rockpapershotgun.com/mindseyes-lead-actor-talks-being-the-face-of-a-game-that-flops-hard</id>
@@ -114,6 +168,19 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Byl vydán Mozilla Firefox 143.0. Přehled novinek v poznámkách k vydání a poznámkách k vydání pro vývojáře. Nově se Firefox při ukončování anonymního režimu zeptá, zda chcete smazat stažené soubory. Dialog pro povolení přístupu ke kameře zobrazuje náhled. Obzvláště užitečné při přepínání mezi více kamerami. Řešeny jsou rovněž bezpečnostní chyby. Nový Firefox 143 bude brzy k dispozici také na Flathubu a Snapcraftu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7753-1: xmltodict vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7753-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7753-1"/>
+        <updated>2025-09-16T19:10:28.000Z</updated>
+        <summary type="html"><![CDATA[Camilo Vera discovered that xmltodict parsed maliciously crafted XML input,
+contrary to expectations. An attacker could possibly use this issue to
+cause a denial of service, obtain sensitive information, or execute
+arbitrary code.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -537,19 +604,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bronzong from “Inferno X” Revealed!]]></title>
-        <id>156400</id>
-        <link href="https://www.pokebeach.com/forums/threads/bronzong-from-%E2%80%9Cinferno-x%E2%80%9D-revealed.156400/"/>
-        <updated>2025-09-16T15:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Bronzor and Bronzong have been revealed from Japan's upcoming Inferno X set, which releases on September 26th. They will become part of our Phantasmal Flames set later this November. Thanks to bangiras and Toine. L for the translations!
-Bronzor - Metal - HP80
-Basic Pokémon
-[C] Iron Defense: Flip...]]></summary>
-        <author>
-            <name>koala</name>
         </author>
     </entry>
     <entry>
@@ -2524,19 +2578,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hyrule Warriors: Age Of Imprisonment 'Treasure Box' Set Revealed For Japan]]></title>
-        <id>https://www.nintendolife.com/#article-187851</id>
-        <link href="https://www.nintendolife.com/news/2025/09/hyrule-warriors-age-of-imprisonment-treasure-box-set-revealed-for-japan"/>
-        <updated>2025-09-14T12:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Featuring all sorts of goodies.
-The upcoming release Hyrule Warriors: Age of Imprisonment got a little bit more time in the spotlight during the latest Direct.
-Apart from the title's Switch 2 box art, it's also been revealed Japan will be getting a special "Treasure Box" release featuring all sorts of goodies. This retails for 17,780 Yen and comes with not only the game, but also a scarf, cloth poster, acrylic standee, keychain, and two clear sheets. Here's a look, courtesy of Nintendeal on social media:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Soundtrack Poděbrady: Bratři, Pyšná princezna, Život k sežrání]]></title>
         <id>tag:blogger.com,1999:blog-2270872860161924291.post-1384098218157177794</id>
         <link href="https://www.fffilm.cz/2025/09/soundtrack-podebrady-bratri-pysna.html"/>
@@ -3185,22 +3226,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7745-1: CUPS vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7745-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7745-1"/>
-        <updated>2025-09-11T14:26:10.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that CUPS incorrectly handled authentication types other
-than Basic. An attacker could possibly use this issue to bypass
-authentication. (CVE-2025-58060)
-
-It was discovered that CUPS incorrectly handled deserialization and
-validation of printer attributes. An attacker could possibly use this
-issue to cause a denial of service. (CVE-2025-58364)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Borderlands 4 is out now but our review code just arrived so I'm writing about this silly bicycle game instead]]></title>
         <id>https://www.rockpapershotgun.com/borderlands-4-is-out-now-but-our-review-code-just-arrived-so-im-writing-about-this-silly-bicycle-game-instead</id>
         <link href="https://www.rockpapershotgun.com/borderlands-4-is-out-now-but-our-review-code-just-arrived-so-im-writing-about-this-silly-bicycle-game-instead"/>
@@ -3226,29 +3251,6 @@ Ability: Multi Adapter
 Your Pokemon with "Rotom" in their name may have up to...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7744-1: QEMU vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7744-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7744-1"/>
-        <updated>2025-09-11T12:41:28.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that QEMU incorrectly handled certain virtio devices. A
-privileged guest attacker could use this issue to cause QEMU to crash,
-leading to a denial of service, or possibly execute arbitrary code. This
-issue only affected Ubuntu 22.04 LTS and Ubuntu 24.04 LTS. (CVE-2024-3446)
-
-It was discovered that QEMU incorrectly handled SDHCI device emulation. A
-guest attacker could possibly use this issue to cause QEMU to crash,
-leading to a denial of service. This issue only affected Ubuntu 22.04 LTS
-and Ubuntu 24.04 LTS. (CVE-2024-3447)
-
-It was discovered that QEMU incorrectly handled calculating the checksum
-of a short-sized fragmented packet. A guest attacker could possibly use
-this issue to cause QEMU to crash, leading to a denial of service. This
-issue only affected Ubuntu 24.04 …]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3548,18 +3550,6 @@ With NBA 2K26, there was one such addition in my mind. As someone who’s been k
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7743-1: libxml2 vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7743-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7743-1"/>
-        <updated>2025-09-10T13:39:57.000Z</updated>
-        <summary type="html"><![CDATA[Nikita Sveshnikov discovered that libxml2 incorrectly handled recursion
-when processing XPath expressions. An attacker could possibly use this
-issue to cause a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
