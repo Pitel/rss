@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-25T02:57:34.680Z</id>
+    <id>urn:2025-09-25T04:16:41.060Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-09-25T02:57:34.680Z</updated>
+    <updated>2025-09-25T04:16:41.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[U.S. Homeland Security Appropriates Pokemon Cards to Promote ICE Raids]]></title>
+        <id>156421</id>
+        <link href="https://www.pokebeach.com/forums/threads/u-s-homeland-security-appropriates-pokemon-cards-to-promote-ice-raids.156421/"/>
+        <updated>2025-09-25T03:12:01.000Z</updated>
+        <summary type="html"><![CDATA[The Twitter account for the U.S. Department of Homeland Security has turned to Pokemon to promote ICE raids.
+Yesterday, the agency tweeted a video of raid footage intercut with Pokemon's opening theme, captioned "Gotta catch 'em all." The video has drawn online criticism for using a kids'...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Professor Layton And The New World Of Steam Has Been Delayed Until 2026]]></title>
+        <id>https://www.nintendolife.com/#article-188379</id>
+        <link href="https://www.nintendolife.com/news/2025/09/professor-layton-and-the-new-world-of-steam-has-been-delayed-until-2026"/>
+        <updated>2025-09-25T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's a new trailer to make up for it.
+We've got some breaking news from Level-5, with the company today confirming Professor Layton and The New World of Steam will no longer arrive on the Switch and Switch 2 this year.
+This update comes alongside the latest trailer at the Tokyo Game Show. It's now scheduled to arrive at some point in 2026. Here's the official statement via the Layton website, which notes how the team wants to deliver the title in the "best possible form":
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TPCi Responds to Homeland Security’s Pokemon Video, Says Permission Was Not Granted]]></title>
         <id>156425</id>
@@ -12,17 +36,6 @@
         <updated>2025-09-25T02:53:34.000Z</updated>
         <summary type="html"><![CDATA[In a rare move, TPCi has issued a statement after the U.S. Homeland Security appropriated Pokemon content to promote ICE raids:
 "We are aware of a recent video posted by the Department of Homeland Security that includes imagery and language associated with our brand. Our company was not involved...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Homeland Security Appropriates Pokemon Cards to Promote ICE Raids]]></title>
-        <id>156421</id>
-        <link href="https://www.pokebeach.com/forums/threads/u-s-homeland-security-appropriates-pokemon-cards-to-promote-ice-raids.156421/"/>
-        <updated>2025-09-25T02:53:26.000Z</updated>
-        <summary type="html"><![CDATA[The Twitter account for the U.S. Department of Homeland Security has turned to Pokemon to promote ICE raids.
-Yesterday, the agency tweeted a video of raid footage intercut with Pokemon's opening theme, captioned "Gotta catch 'em all." The video has drawn online criticism for using a kids'...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -111,7 +124,7 @@ A new "Mega Gallade ex MEGA Special Card Set" will also release in Japan on Janu
         <updated>2025-09-25T01:05:00.000Z</updated>
         <summary type="html"><![CDATA[Origins is also on the way.
 Koei Tecmo today announced a remaster of Dynasty Warriors 3 and it will be coming to the Switch and Switch 2 next year on 19th March 2026.
-Dynasty Warriors 3: Complete Edition Remastered contains Dynasty Warriors 3 and Dynasty Warriors 3: Xtreme Legends. It's running on UE5 and the action system of the third title has also been evolved to create an even more exhilarating experience.
+Dynasty Warriors 3: Complete Edition Remastered contains Dynasty Warriors 3 and Dynasty Warriors 3: Xtreme Legends. It's running on Unreal Engine 5 and the action system of the third title has also been evolved to create an even more exhilarating experience.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -808,6 +821,19 @@ The post The Publisher Behind The Award-Winning <i>Stray</i> Just Revealed Three
 The post <em>Wicked: For Good</em>’s Final Trailer Kinda Gives The Whole Thing Away appeared first on Kotaku.]]></summary>
         <author>
             <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7772-1: Eventlet vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7772-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7772-1"/>
+        <updated>2025-09-24T16:42:50.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Eventlet incorrectly handled certain requests.
+An attacker could possibly use this issue to bypass front-end security
+controls, launch targeted attacks against active site users, and poison web
+caches.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2021,27 +2047,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7755-3: Linux kernel (AWS FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7755-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7755-3"/>
-        <updated>2025-09-24T07:26:54.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Media drivers;
-  - SPI subsystem;
-  - USB core drivers;
-  - NILFS2 file system;
-  - IPv6 networking;
-  - Network traffic control;
-(CVE-2025-38350, CVE-2024-47685, CVE-2024-57996, CVE-2024-53130,
-CVE-2025-37752, CVE-2023-52477, CVE-2024-53131, CVE-2024-50202,
-CVE-2024-27074, CVE-2024-50051)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ansible: efektivní nasazení a provoz, školení s dotací Úřadu práce]]></title>
         <id>www.root.cz-actuality-48831</id>
         <link href="https://www.root.cz/zpravicky/ansible-efektivni-nasazeni-a-provoz-skoleni-s-dotaci-uradu-prace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2173,19 +2178,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[SquashFS developer Phillip Lougher posted a patch today just over one hundred lines of code yielding an outright massive performance gain for some operations with this compressed read-only file-system...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Borderlands 4 Has Been Delayed For Switch 2, Digital Pre-Orders Cancelled]]></title>
-        <id>https://www.nintendolife.com/#article-188283</id>
-        <link href="https://www.nintendolife.com/news/2025/09/borderlands-4-has-been-delayed-for-switch-2-digital-pre-orders-cancelled"/>
-        <updated>2025-09-24T00:15:00.000Z</updated>
-        <summary type="html"><![CDATA["We do not take this decision lightly".
-If you've been looking forward to diving into Borderlands 4 next month on the Switch 2, we're sorry to say, but it's been delayed.
-2K Games and Gearbox Software confirmed this on social media today, mentioning how the team does not take this decision lightly. The aim is to deliver the "best possible experience", so this version needs more development time.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
