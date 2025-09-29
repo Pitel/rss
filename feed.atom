@@ -1,10 +1,162 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-29T20:14:35.870Z</id>
+    <id>urn:2025-09-29T22:12:24.260Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-09-29T20:14:35.870Z</updated>
+    <updated>2025-09-29T22:12:24.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Has Been Supplying NDA'ed Docs To Red Hat For Helping NVK Driver]]></title>
+        <id>https://www.phoronix.com/news/NVK-Vulkan-Red-Hat-NDA-Docs</id>
+        <link href="https://www.phoronix.com/news/NVK-Vulkan-Red-Hat-NDA-Docs"/>
+        <updated>2025-09-29T22:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Following AMD announcing the end of the AMDVLK Vulkan driver development in favor of focusing on the Mesa RADV driver for Linux systems, Red Hat engineer David Airlie who was one of the co-lead developers of the RADV driver shared some interesting insight on NVK as the open-source NVIDIA Vulkan driver being developed within Mesa...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logitech MX Ergo: když myš stojí a kurzor běhá]]></title>
+        <id>www.root.cz-text-18264</id>
+        <link href="https://www.root.cz/clanky/logitech-mx-ergo-kdyz-mys-stoji-a-kurzor-beha/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-09-29T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Po více než roce každodenního používání vám přináším recenzi, která kombinuje technické detaily s praktickými postřehy. Ergonomický trackball MX Ergo je jako prvek ze sci-fi, který funguje i na Linuxu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Svatopluk Vít)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programovací jazyk C3: podmínky, rozvětvení a programové smyčky]]></title>
+        <id>www.root.cz-text-18498</id>
+        <link href="https://www.root.cz/clanky/programovaci-jazyk-c3-podminky-rozvetveni-a-programove-smycky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-09-29T22:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Seznámíme se s konstrukcemi pro řízení běhu programu. Jedná se o podmínky a různé formy rozvětvení (včetně rozšířené sémantiky switch-case) a dále o různé typy smyček. Jazyk C3 v tomto ohledu značně vylepšuje možnosti céčka.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testy Vulkan rendereru pro Blender 5.0: AMD a Nvidia funkční, Intel nefunkční]]></title>
+        <id>www.root.cz-actuality-49527</id>
+        <link href="https://www.root.cz/zpravicky/testy-vulkan-rendereru-pro-blender-5-0-amd-a-nvidia-funkcni-intel-nefunkcni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-09-29T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Vývoj animačního nástroje Blender směřuje k vydání verze 5.0 někdy v polovině listopadu. Nyní ji čeká přechod z alfa do beta stádia, tedy do éry, kdy lze pětku považovat za již použitelnou pro testování či zkoumání, co reálně přinese nového. Jednou z takových novinek bude možný přechod na API Vulkan, jehož implementace v této verzi bude dotažena (ač výchozí nadále bude běh s OpenGL). Na Linuxu si pak na seznam doplňme též běh na Waylandu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Narwhal 4 Feature Drop | 2025.1.4 RC 2 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2025/09/android-studio-narwhal-4-feature-drop_29.html</id>
+        <link href="https://androidstudio.googleblog.com/2025/09/android-studio-narwhal-4-feature-drop_29.html"/>
+        <updated>2025-09-29T21:42:00.001Z</updated>
+        <summary type="html"><![CDATA[Android Studio Narwhal 4 Feature Drop | 2025.1.4 RC 2 is now available in the Beta channel.
+If you already have an Android Studio build on the Beta channel,
+you can get the update by clicking Help > Check for Updates (or Android Studio > Check
+for Updates on macOS). Otherwise, you can download it here.
+For information on new features and changes in Android Studio Narwhal 4 Feature Drop, see the Android Studio Preview release notes.
+
+For details of bugs fixed in each previous release of Android Studio Narwhal 4 Feature Drop, see
+closed issues.
+General fixes and features
+Below is a list of general fixes in Android Studio Narwhal 4 Feature Drop | 2025.1.4 RC 2 and Android Gradle Plugin . These are a result of your bug
+reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
+you.
+
+  
+    
+Fixed Issues
+    
+Deployment
+      
+        
+
+          
+            
+
+              
+Issue #442347342
+Android Studio app deploy to device always re-deploys large, unchanged component APK]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Storm Emeralda” TCG Set Featuring Mega Zygarde ex Likely Releasing in January!]]></title>
+        <id>156439</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-tcg-set-featuring-mega-zygarde-ex-likely-releasing-in-january.156439/"/>
+        <updated>2025-09-29T21:40:10.000Z</updated>
+        <summary type="html"><![CDATA[As I reported last week, Japan's third Mega Evolution set will release on January 23rd. It will be the first major set of 2026.
+We've now learned the set will feature Zygarde! This is according to the official sell sheet, which Creatures has sent to stores. However, the actual set name hasn't...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam’s Massive Fall Sale Is Live And Here Are The Best Deals]]></title>
+        <id>https://kotaku.com/?p=2000629959</id>
+        <link href="https://kotaku.com/steam-fall-autumn-sale-2025-best-biggest-cheapest-deals-games-pc-steamdeck-2000629959"/>
+        <updated>2025-09-29T21:08:39.000Z</updated>
+        <summary type="html"><![CDATA[From newer games like Assassin's Creed Origins to older hits like The Witcher 3, there's something for everyone in this big sale
+The post Steam’s Massive Fall Sale Is Live And Here Are The Best Deals appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA Goes Private, Then What?]]></title>
+        <id>https://kotaku.com/?p=2000629947</id>
+        <link href="https://kotaku.com/ea-saudi-arabia-battlefield-6-mass-effect-bioware-private-equity-2000629947"/>
+        <updated>2025-09-29T21:03:16.000Z</updated>
+        <summary type="html"><![CDATA[Industry analysts weigh in on how Saudi Arabia's leveraged buyout will impact one of gaming's biggest publishers
+The post EA Goes Private, Then What? appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call of Duty says its anti-cheat for Black Ops 7 has ‘one of the strongest detection systems we have ever built,’ and this week’s beta will help put it to the test]]></title>
+        <id>https://www.destructoid.com/?p=1123438</id>
+        <link href="https://www.destructoid.com/cod-bo7-beta-ricochet-anti-cheat-update/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=cod-bo7-beta-ricochet-anti-cheat-update"/>
+        <updated>2025-09-29T21:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of this weekend's beta test for Call of Duty: Black Ops 7, Activision is reiterating its focus on anti-cheat to maintain the integrity of the game on PC.
+
+
+Along with requiring Secure Boot and TPM 2.0 to even launch the game on PC, Activision says its RICOCHET Anti-Cheat system has evolved over the past year in Black Ops 6 to try and stay ahead of cheat-makers worldwide.
+
+
+Image via Activision
+
+
+"Over the last year, Team RICOCHET has trained advanced machine learning systems on millions of hours of gameplay," Activision said in a new blog post. "These upgrades are smarter, faster, and more reliable than ever; built not just to catch cheaters, but to set the new standard for fair play and evolve with the game itself."
+
+
+With these changes, the company says RICOCHET now has "one of the…]]></summary>
+        <author>
+            <name>Scott Duwe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tips for playing Mill in person]]></title>
+        <id>156440</id>
+        <link href="https://www.pokebeach.com/forums/threads/tips-for-playing-mill-in-person.156440/"/>
+        <updated>2025-09-29T20:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Hey everyone!
+I've been a TCG player for some time, but only ever on PTCGO/PTCGL. I've finally worked up the courage to try coming to a local tournament with a decently priced mill deck I've built, but I'm a little bit worried about keeping track of the cards in my opponent's deck. I know you...]]></summary>
+        <author>
+            <name>VantablackViolet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.18 Updating The Baseline For Marking Intel CPU Microcode As Outdated]]></title>
+        <id>https://www.phoronix.com/news/Intel-Old-Microcode-Linux-6.18</id>
+        <link href="https://www.phoronix.com/news/Intel-Old-Microcode-Linux-6.18"/>
+        <updated>2025-09-29T20:16:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduced this year with the Linux 6.16 kernel was the new functionality for reporting to users when running on outdated Intel CPU microcode since it can pose security vulnerability issues and/or functionality problems. The Linux kernel support for propagating this "old_microcode" reporting via sysfs relies on a static list of microcode versions corresponding to different Intel CPU generations. For the Linux 6.18 kernel this list is being updated to reflect modern baselines for Intel recommendations on CPU microcode...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New player here looking for beginner deck advice]]></title>
         <id>156434</id>
@@ -15,17 +167,6 @@ I’m brand new to the Pokémon TCG and just joined the forum. I’ve collected 
 Right now I’m...]]></summary>
         <author>
             <name>evelynwang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Storm Emeralda” TCG Set Featuring Mega Zygarde ex Likely Releasing in January!]]></title>
-        <id>156439</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-tcg-set-featuring-mega-zygarde-ex-likely-releasing-in-january.156439/"/>
-        <updated>2025-09-29T20:08:17.000Z</updated>
-        <summary type="html"><![CDATA[As I reported last week, Japan's third Mega Evolution set will release on January 23rd. It will be the first major set of 2026.
-We've now learned the set will feature Zygarde! This is according to the official sell sheet, which Creatures has sent to stores. However, the actual set name hasn't...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -334,6 +475,21 @@ The post Cool-Looking <i>Terminator</i> Game Suffers Another Delay Due To Trump�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7785-1: Open VM Tools vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7785-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7785-1"/>
+        <updated>2025-09-29T17:29:53.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Open VM Tools incorrectly handled permissions with
+version checking. An attacker could possibly use this issue to escalate
+privileges inside a virtual machine.
+
+This update disables the SDMP get-versions.sh script, so version
+information may no longer be made available.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon Fire Max 11 Tablet Hits Lowest Price Yet Ahead of Prime Big Deal Days, Hundreds Cheaper Than an iPad]]></title>
         <id>https://kotaku.com/?p=2000627185</id>
         <link href="https://kotaku.com/amazon-fire-max-11-tablet-hits-lowest-price-yet-ahead-of-prime-big-deal-days-hundreds-cheaper-than-an-ipad-2000627185"/>
@@ -622,7 +778,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.destructoid.com/?p=1123004</id>
         <link href="https://www.destructoid.com/nethros-race-tier-list-reroll-guide/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nethros-race-tier-list-reroll-guide"/>
         <updated>2025-09-29T15:44:25.000Z</updated>
-        <summary type="html"><![CDATA[Having the best Race available in Nethros can provide you with a significant advantage both in PvE and PvP. Now, as Races greatly differ from one another, and changing them is difficult, we prepared the following Nethros Race tier list to help you look only for the best ones when creating a new character.
+        <summary type="html"><![CDATA[Having the best Race available in Nethros can provide you with a significant advantage both in PvE and PvP. Now, as Races greatly differ from one another, and changing them is difficult, we prepared the following Nethros Race tier list and reroll guide to help you look only for the best ones when creating a new character.
 
 
 Nethros Race Tier List
@@ -660,7 +816,7 @@ Ashkin
 Human
 
 
-In the above tier list, we ranked all Races in Nethros based on how good they are both for PvE and PvP overall. For the most part, bonuses given by Races are not that significant, but they can be impactful. For example, Draconic grants you a unique fire/flame damage buff that is amazing for specific builds. Still, Taurin and…]]></summary>
+In the above tier list, we ranked all Races in Nethros based on how good they are both for PvE and PvP overall. For the most part, bonuses given by Races are not that significant, but they can be impactful. For example, Draconic grants you a unique fire/flame damage buff that is amazing for specific builds. …]]></summary>
         <author>
             <name>Matija Stojkovic</name>
         </author>
@@ -1173,17 +1329,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Building off yesterday's release of Linux 6.17, the GNU Linux-libre 6.17-gnu kernel is now available for this downstream kernel variant that strips away support for loading non-free microcode and other elements not aligned with the Free Software Foundation principles. This ultimately ends up limiting the hardware support available with most of today's modern hardware requiring microcode/firmware but alas here is the latest release with a fresh round of de-blobbing...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others]]></title>
-        <id>https://kotaku.com/?p=2000629829</id>
-        <link href="https://kotaku.com/ea-sale-saudi-arabia-madden-pif-jared-kushner-2000629829"/>
-        <updated>2025-09-29T12:14:46.000Z</updated>
-        <summary type="html"><![CDATA[The Madden publisher is going private
-The post EA Announces Unprecedented $55 Billion Sale To Saudi Arabia, Jared Kushner’s Private Equity Group, And Others appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Ethan Gach</name>
         </author>
     </entry>
     <entry>
@@ -2147,80 +2292,6 @@ S-tier Tomes are the best options in the current met…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to get the big key and unlock drawers in CloverPit]]></title>
-        <id>https://www.destructoid.com/?p=1122882</id>
-        <link href="https://www.destructoid.com/how-to-get-the-big-key-and-unlock-drawers-in-cloverpit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-the-big-key-and-unlock-drawers-in-cloverpit"/>
-        <updated>2025-09-28T16:23:43.000Z</updated>
-        <summary type="html"><![CDATA[The main room in CloverPit doesn't have many items, and you'll notice the big key located by the machine you use to repay your debt.
-
-
-This key is locked, and the game says so when you try to obtain it. This guide will help you explain what you must do to get the key in CloverPit and how you can use it.
-
-
-Table of contents
-How to obtain the key in CloverPit
-What to do with the key in CloverPit
-
-
-How to obtain the key in CloverPit
-
-
-The key is awarded to you for defeating the game. Of course, there's no victory in CloverPit in the traditional sense, and the aim is to go as deep as possible. However, the first win condition is to complete four debt repayments.
-
-
-This is precisely what you have to do to unlock the key.
-
-
-
-Clear the first deadline of 75 debt. This is quick and easy.
-
-
-Clear the two next deadlines: 200 and 666, respectively. Clearing the second and third deadlines will be simple if you pick the correct charms.
-
-
-This will now set you up for the bigger deadlines with the 666 active.
-
-
-To unlock the key, you'll have to repay 12,500 units of debt. That will have a few smaller debt repayments along the way.
-
-
-
-While the task is tricky, you should be able to unlock the key once you repay a debt amounting to 12,500.
-
-
-Screenshot by Destructoid
-
-
-Once you've completed it, you'll be rewarded with the big key. You can only get one key from a run, even if you continue.
-
-
-What to do with the key in CloverPit
-
-
-Four drawers are available near the slots, which remain locked at first. You can use the key to unlock a drawer. These drawers are used to keep Lucky Charms and other items. You need one key to unlock a drawer. Unlocking all of them will require you to win at least a certain number of times, so be prepared to grind.
-
-
-
-
-Like our content? Set Destructoid as a Preferred Source on Google in just one step to ensure you see us more frequently in your Google searches!
-
-The post How to get the big key and unlock drawers in CloverPit appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Huge Box of 1,600 LEGO Bricks Is Selling at a Record Low Price, Black Friday Has Come Early]]></title>
-        <id>https://kotaku.com/?p=2000629661</id>
-        <link href="https://kotaku.com/this-huge-box-of-1600-lego-bricks-is-selling-at-a-record-low-price-black-friday-has-come-early-2000629661"/>
-        <updated>2025-09-28T15:08:30.000Z</updated>
-        <summary type="html"><![CDATA[You’re getting two big LEGO brick boxes for nearly the price of one.
-The post This Huge Box of 1,600 LEGO Bricks Is Selling at a Record Low Price, Black Friday Has Come Early appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Kotaku Deals</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's on your bookshelf: Saltsea Chronicles, Mutazione and Thronglets' Hannah Nicklin]]></title>
         <id>https://www.rockpapershotgun.com/whats-on-your-bookshelf-saltsea-chronicles-mutazione-and-thronglets-hannah-nicklin</id>
         <link href="https://www.rockpapershotgun.com/whats-on-your-bookshelf-saltsea-chronicles-mutazione-and-thronglets-hannah-nicklin"/>
@@ -2797,26 +2868,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu 25.10's Only Supported RISC-V Platform: QEMU Virtualization]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-25.10-RISC-V-QEMU</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-25.10-RISC-V-QEMU"/>
-        <updated>2025-09-26T18:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Back in June it was announced by Canonical that for the Ubuntu 25.10 release they would be raising the RISC-V baseline to the RVA23 profile even with barely any available RISC-V platforms supporting that newer RISC-V profile. That change is still going ahead and leaves Ubuntu 25.10 on RISC-V currently only supporting the QEMU virtualized target...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Features Expected For Linux 6.18: File-System Improvements, Sheaves, New Drivers & More Perf]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.18-Features-Expected</id>
-        <link href="https://www.phoronix.com/news/Linux-6.18-Features-Expected"/>
-        <updated>2025-09-26T17:22:15.000Z</updated>
-        <summary type="html"><![CDATA[With Linux 6.17 expected for release this weekend, the Linux 6.18 merge window will in turn kick-off for its usual two week dance. Here is a look at some of the features on our radar that are expected to be merged for Linux 6.18, which is also likely to be the 2025 LTS kernel version...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Android Studio Otter | 2025.2.1 Canary 3 now available]]></title>
         <id>https://androidstudio.googleblog.com/2025/09/android-studio-otter-202521-canary-3.html</id>
         <link href="https://androidstudio.googleblog.com/2025/09/android-studio-otter-202521-canary-3.html"/>
@@ -3099,44 +3150,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Stablecoin je kryptoměna, jejíž hodnota se snaží být stabilní vzhledem k nějaké referenci. Přes 99 % stablecoinů je navázáno na americký dolar. Mezi nejznámější patří USDT.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7769-3: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7769-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7769-3"/>
-        <updated>2025-09-26T07:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI drivers;
-  - Android drivers;
-  - Bluetooth drivers;
-  - Bus devices;
-  - Clock framework and drivers;
-  - CPU frequency scaling framework;
-  - Hardware crypto device drivers;
-  - DMA engine subsystem;
-  - EDAC drivers;
-  - Arm Firmware Framework for ARMv8-A(FFA);
-  - FPGA Framework;
-  - GPIO subsystem;
-  - GPU drivers;
-  - HID subsystem;
-  - Hardware monitoring drivers;
-  - HW tracing;
-  - InfiniBand drivers;
-  - IOMMU subsystem;
-  - Multiple devices driver;
-  - Media drivers;
-  - VM…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3761,16 +3774,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ovladač GPU pro procesory Intel 11. až 14. generace je na Windows v Legacy režimu]]></title>
-        <id>www.root.cz-actuality-49452</id>
-        <link href="https://www.root.cz/zpravicky/ovladac-gpu-pro-procesory-intel-11-az-14-generace-je-na-windows-v-legacy-rezimu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-09-24T13:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Intel pokračuje v „katování kostů“. Jak postupně z firmy mizejí vývojáři, včetně těch zodpovědných za podporu GPU, zužuje se i podpora. Nově Intel přesunul do Legacy režimu Windows ovladače pro GPU v procesorech od 11. generace Tiger Lake po 14. generaci^[ Raptor Lake Refresh, tedy pro mnohé procesory, které jsou stále v prodeji.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Italy Expands Piracy Shield to Live TV, Begins With ‘The X Factor’]]></title>
         <id>https://torrentfreak.com/?p=272414</id>
         <link href="https://torrentfreak.com/italy-expands-piracy-shield-to-live-tv-begins-with-the-x-factor-250924/"/>
@@ -4140,36 +4143,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“2026 Latin America International Championships” Registration Dates and Swag Revealed!]]></title>
-        <id>156381</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C2026-latin-america-international-championships%E2%80%9D-registration-dates-and-swag-revealed.156381/"/>
-        <updated>2025-09-23T07:59:23.000Z</updated>
-        <summary type="html"><![CDATA[TPCi has now launched the hub page for the 2026 Latin America International Championships. This will be the first of three International Championships this season. As already known, the tournament will take place from November 21st through 23rd at the Expo Center Norte in São Paulo, Brazil...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android po letech nabídne podporu pro DHCPv6, bude ale vyžadovat úpravu sítě]]></title>
-        <id>www.root.cz-text-18453</id>
-        <link href="https://www.root.cz/clanky/android-po-letech-nabidne-podporu-pro-dhcpv6-bude-ale-vyzadovat-upravu-site/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-09-22T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Android dlouhá léta bojkotoval podporu DHCPv6, aby zabránil přidělování jednotlivých adres koncovému zařízení. Připravuje se řešení, ale od správců sítí bude vyžadovat úpravy nastavení i adresních plánů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Ondřej Caletka)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programovací jazyk C3: složené datové typy a kontejnery]]></title>
-        <id>www.root.cz-text-18483</id>
-        <link href="https://www.root.cz/clanky/programovaci-jazyk-c3-slozene-datove-typy-a-kontejnery/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-09-22T22:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Zaměříme se na popis složených datových typů a kontejnerů. Mezi základní typy kontejnerů patří vektory, staticky alokovaná pole, dynamicky alokovaná pole a můžeme sem zařadit i řezy.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
         </author>
     </entry>
     <entry>
