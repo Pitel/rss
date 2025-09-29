@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-29T03:00:21.755Z</id>
+    <id>urn:2025-09-29T04:17:10.034Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-09-29T03:00:21.755Z</updated>
+    <updated>2025-09-29T04:17:10.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.18 Preps KVM x86 CET Virtualization For AMD & Intel CPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.18-KVM-CET-Virt</id>
+        <link href="https://www.phoronix.com/news/Linux-6.18-KVM-CET-Virt"/>
+        <updated>2025-09-29T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Control-Flow Enforcement Technology "CET" is coming to the virtualized world with support for running within KVM guest VMs on Linux 6.18+. This CET virtualization support works for both AMD and Intel processors...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are we realistically going to do about scalpers?]]></title>
         <id>156432</id>
@@ -2799,16 +2809,6 @@ Nullspace grabs me for a couple of reasons. One is its "retrofuturistic universe
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.18 Linear RAID "md-linear" To Support Atomic Writes]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.18-RAID-Linear-Atomic</id>
-        <link href="https://www.phoronix.com/news/Linux-6.18-RAID-Linear-Atomic"/>
-        <updated>2025-09-25T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Building off the work in months prior around Device Mapper atomic write support and related infrastructure, the md-linear target for linear software RAID support will enable atomic write support with the upcoming Linux 6.18 merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
