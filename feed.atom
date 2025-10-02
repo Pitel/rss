@@ -1,10 +1,262 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-02T08:18:27.275Z</id>
+    <id>urn:2025-10-02T10:13:37.140Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-10-02T08:18:27.275Z</updated>
+    <updated>2025-10-02T10:13:37.140Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi OS 2025-10-01]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/raspberry-pi-os-2025-10-01</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/raspberry-pi-os-2025-10-01"/>
+        <updated>2025-10-02T10:12:50.000Z</updated>
+        <summary type="html"><![CDATA[Raspberry Pi OS, oficiální operační systém pro Raspberry Pi, byl vydán v nové verzi 2025-10-01. Přehled novinek v příspěvku na blogu Raspberry Pi a poznámkách k vydání. Jedná o první verzi postavenou na Debianu 13 Trixie.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Former Dragon Age exec thinks EA's new owners might sell BioWare and use other studios for Saudi Arabian PR]]></title>
+        <id>https://www.rockpapershotgun.com/former-dragon-age-exec-thinks-eas-new-owners-might-sell-bioware-and-use-other-studios-for-saudi-arabian-pr</id>
+        <link href="https://www.rockpapershotgun.com/former-dragon-age-exec-thinks-eas-new-owners-might-sell-bioware-and-use-other-studios-for-saudi-arabian-pr"/>
+        <updated>2025-10-02T10:04:20.000Z</updated>
+        <summary type="html"><![CDATA[I have been sort of enjoying former Dragon Age executive producer Mark Darrah's reinvention as a Youtuber who trades insider BioWare anecdotes for merch. He's got an actual T-shirt line, including a T-shirt for babies upon which Mark threatens to "pump NFTs" unless you buy his gear. Respectable Crazy Uncle energy. Maybe don't invite him to your kid's baptism. But maybe do watch his new video about what might happen to EA's many development studios in the wake of the company's $55 billion acquisition by Donald Trump's son-in-law, Saudi Arabia's Public Investment Fund and the gilded suits of Silver Lake.
+
+
+The tl;dr/tl;dw is that Darrah thinks EA's various sport game teams, like Madden and EA Sports FC, are probably fine under the new privately-owned EA. Those games bring home a lot of bacon, after all, and EA's new dads in Riyadh are keen on sports in general. He's less confident about the studios clustered under EA Entertainment, and especially those such as Darrah's old joint BioWare who might have more pronounced cultural objections to the new ownership, based on the kinds of stories they tell.
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Lighting Is The Crucial Factor" - How Square Enix Made Final Fantasy VII Remake Look Great On Switch 2]]></title>
+        <id>https://www.nintendolife.com/#article-188837</id>
+        <link href="https://www.nintendolife.com/news/2025/10/lighting-is-the-crucial-factor-how-square-enix-made-final-fantasy-vii-remake-look-great-on-switch-2"/>
+        <updated>2025-10-02T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA["Nintendo Switch 2 is a truly amazing piece of hardware".
+It's no secret at this point that Final Fantasy VII Remake Intergrade looks pretty incredible on the Switch 2. We know through the likes of Cyberpunk 2077 and Star Wars Outlaws that the console can handle some pretty graphically intensive ports, but this one really seems to go above and beyond.
+According to director Naoki Hamaguchi via Automaton, making sure the lighting from the original remake was retained on Switch 2 was crucial to making the game look great. Instead, processing load from other areas were reduced to get the game running at a stable 30fps.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7797-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7797-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7797-1"/>
+        <updated>2025-10-02T09:48:54.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Virtio block driver;
+  - Media drivers;
+  - Network drivers;
+  - Framebuffer layer;
+  - BTRFS file system;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - Packet sockets;
+  - VMware vSockets driver;
+(CVE-2025-38618, CVE-2024-35849, CVE-2025-37785, CVE-2024-49924,
+CVE-2025-38617, CVE-2024-27078, CVE-2021-47149, CVE-2021-47319,
+CVE-2025-21796, CVE-2021-47589)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7796-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7796-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7796-1"/>
+        <updated>2025-10-02T09:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Framebuffer layer;
+  - BTRFS file system;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - Packet sockets;
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2025-21796, CVE-2025-38477, CVE-2025-38617, CVE-2025-37785,
+CVE-2024-49924, CVE-2025-38618, CVE-2024-35849)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 3.6 nabízí podporu ověřování podpisů LMS a funkci pro správu konfigurace]]></title>
+        <id>www.root.cz-actuality-49578</id>
+        <link href="https://www.root.cz/zpravicky/openssl-3-6-nabizi-podporu-overovani-podpisu-lms-a-funkci-pro-spravu-konfigurace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-10-02T09:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Po půl roce od předchozího vydání byla uvolněna nová verze OpenSSL s označením 3.6. Mezi hlavní novinky patří podpora ověřování podpisů LMS podle doporučení NIST SP 800–208 a podpora symetrických klíčových objektů EVP_SKEY pro metody odvození klíčů a výměny klíčů prostřednictvím funkcí EVP_KDF_CTX_set_SKEY(), EVP_KDF_derive_SKEY() a  EVP_PKEY_derive_SKEY().]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fallout: London modders still have no plans to port it to next-gen Fallout 4, unless a console version becomes possible]]></title>
+        <id>https://www.rockpapershotgun.com/fallout-london-modders-still-have-no-plans-to-port-it-to-next-gen-fallout-4-unless-a-console-version-becomes-possible</id>
+        <link href="https://www.rockpapershotgun.com/fallout-london-modders-still-have-no-plans-to-port-it-to-next-gen-fallout-4-unless-a-console-version-becomes-possible"/>
+        <updated>2025-10-02T09:21:37.000Z</updated>
+        <summary type="html"><![CDATA[Fresh off of releasing the massive mod's first DLC earlier this week, the team behind Fallout: London have confirmed that they've still got no plans to port it to the next-gen update version of Fallout 4. There is, however, one factor that could lead them to reconsider doing so.
+Since Team FOLON's take on a post-apocalytic English capital released last summer, playing it has required downgrading your copy of Fallout 4 to an older iteration released prior to April 2024's next-genning of Bethesda's RPG. With the next-gen update arriving out of the blue just ahead of Fallout: London's planned initial release, the modders opted to put it out on this older version for stability reasons, following a delay that allowed them to explore their options.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7795-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7795-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7795-1"/>
+        <updated>2025-10-02T09:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - Packet sockets;
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2025-37785, CVE-2025-38617, CVE-2025-21796, CVE-2025-38618,
+CVE-2025-38477)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7793-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7793-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7793-1"/>
+        <updated>2025-10-02T09:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Packet sockets;
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2025-38477, CVE-2025-38617, CVE-2025-38618)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to find and use Microwave in Megabonk]]></title>
+        <id>https://www.destructoid.com/?p=1124904</id>
+        <link href="https://www.destructoid.com/how-to-find-and-use-microwave-in-megabonk/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-find-and-use-microwave-in-megabonk"/>
+        <updated>2025-10-02T08:58:23.000Z</updated>
+        <summary type="html"><![CDATA[The Microwave is one of the most helpful tools in Megabonk, and spending money on it can help you survive the more formidable enemies.
+
+
+Every map has a Microwave situated somewhere, and this location is random. The game doesn't exactly help with the location, and this guide will remove your confusion if you cannot find the Microwave. We will then go through how to use the tool properly.
+
+
+Table of contents
+Microwave location in Megabonk
+How to use Microwave in Megabonk
+
+
+Microwave location in Megabonk
+
+
+Microwaves can typically be located at any one of the three following spots:
+
+
+
+Near the place where you spawn on the map
+
+
+The boss portal
+
+
+Random location
+
+
+
+Usually, a random location on the map appears to be the likeliest case on most occasions. So, how do we find the Microwave? Look …]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7792-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7792-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7792-1"/>
+        <updated>2025-10-02T08:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Ext4 file system;
+  - Packet sockets;
+  - Network traffic control;
+  - TLS protocol;
+  - VMware vSockets driver;
+  - XFRM subsystem;
+(CVE-2025-38618, CVE-2025-38500, CVE-2025-37785, CVE-2025-38477,
+CVE-2025-38617, CVE-2025-37756)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best builds in Megabonk]]></title>
+        <id>https://www.destructoid.com/?p=1121867</id>
+        <link href="https://www.destructoid.com/best-builds-in-megabonk/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=best-builds-in-megabonk"/>
+        <updated>2025-10-02T08:52:13.000Z</updated>
+        <summary type="html"><![CDATA[The Vampire Survivors and Risk of Rain hybrid Megabonk has a ton of characters and items you can use and find to survive the never-ending onslaught. But much like those two games, things have a tendency to get OP really fast.
+
+
+Coming by most super-powerful items in the game is quite easy, much easier than in, say, Risk of Rain 2, where RNG can really break a run before it's even started. In Megabonk, on the other hand, I've crafted five quick and easy-to-get builds that should get you through most of the game, if it doesn't crash from all the effects covering your entire screen.
+
+
+Table of contents
+The best Megabonk builds
+
+SWORD (Sir Oofie)
+Bullet Hell (CL4NK)
+One Lucky Fox (Fox)
+Ultimate AFK bonking (Megachad/Sir Oofie)
+Can't touch this (Calcium)
+Character Builds
+
+
+The best Megabonk bui…]]></summary>
+        <author>
+            <name>Andrej Barovic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7791-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7791-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7791-1"/>
+        <updated>2025-10-02T08:52:08.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Packet sockets;
+  - Network traffic control;
+  - VMware vSockets driver;
+  - XFRM subsystem;
+(CVE-2025-38618, CVE-2025-38500, CVE-2025-38477, CVE-2025-38617)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo daruje 1,1 milionu dolarů organizacím zabývajícím se ochranou soukromí]]></title>
+        <id>www.root.cz-actuality-49575</id>
+        <link href="https://www.root.cz/zpravicky/duckduckgo-daruje-1-1-milionu-dolaru-organizacim-zabyvajicim-se-ochranou-soukromi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-10-02T08:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Společnost DuckDuckGo oznámila, že věnuje 1,1 milionu dolarů na podporu činností organizací, které se zabývají ochranou soukromí, digitálními kompetencemi a online bezpečností. Tím se celková částka darů přispívaných od roku 2011 zvýší na více než 8 milionů dolarů.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Útok WireTap umí získat klíč Intel SGX ECDSA prostřednictvím sběrnice DDR4]]></title>
         <id>www.root.cz-actuality-49572</id>
@@ -167,7 +419,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[MuseScore Studio 4.6]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/musescore-studio-4.6</id>
         <link href="http://www.abclinuxu.cz/zpravicky/musescore-studio-4.6"/>
-        <updated>2025-10-02T03:22:21.000Z</updated>
+        <updated>2025-10-02T03:22:19.000Z</updated>
         <summary type="html"><![CDATA[Byla vydána nová verze 4.6 svobodného notačního programu MuseScore Studio (Wikipedie). Představení novinek v oznámení v diskusním fóru a také na YouTube.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -1237,21 +1489,6 @@ The post Here Are 55 Games Coming Out In October 2025 And That’s Not Even All 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7793-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7793-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7793-1"/>
-        <updated>2025-10-01T16:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network traffic control;
-  - VMware vSockets driver;
-(CVE-2025-38477, CVE-2025-38618)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Will Megabonk come to consoles?]]></title>
         <id>https://www.destructoid.com/?p=1124602</id>
         <link href="https://www.destructoid.com/will-megabonk-come-to-consoles/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=will-megabonk-come-to-consoles"/>
@@ -1282,25 +1519,6 @@ Megabonk is first and foremost a PC title. A roguelike at heart, it sticks to it
 The post The Internet Reacts To The Big Xbox Game Pass Price Hike appeared first on Kotaku.]]></summary>
         <author>
             <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7792-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7792-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7792-1"/>
-        <updated>2025-10-01T16:18:52.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Ext4 file system;
-  - Network traffic control;
-  - TLS protocol;
-  - VMware vSockets driver;
-  - XFRM subsystem;
-(CVE-2025-38618, CVE-2025-38500, CVE-2025-37785, CVE-2025-38477,
-CVE-2025-37756)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1422,22 +1640,6 @@ Like our content? Set Destructoid as a Preferred Source on Google in just one 
 The post Who is the voice actor for Daredevil in Marvel Rivals? appeared first on Destructoid.]]></summary>
         <author>
             <name>Scott Duwe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7791-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7791-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7791-1"/>
-        <updated>2025-10-01T15:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network traffic control;
-  - VMware vSockets driver;
-  - XFRM subsystem;
-(CVE-2025-38618, CVE-2025-38500, CVE-2025-38477)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1900,55 +2102,6 @@ The post Xbox Game Pass Gets Massive Price Hike Amid Big Changes appeared first 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Weapon combos and Tome combos in Megabonk]]></title>
-        <id>https://www.destructoid.com/?p=1124487</id>
-        <link href="https://www.destructoid.com/best-weapon-combos-and-tome-combos-in-megabonk/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=best-weapon-combos-and-tome-combos-in-megabonk"/>
-        <updated>2025-10-01T14:12:58.000Z</updated>
-        <summary type="html"><![CDATA[Megabonk is a game about winning with whatever Weapons and Tomes the game offers you. While you can manipulate these choices with Banish, Refresh, and Skip, you'll rarely be able to pull off the perfect combo of upgrades that will give you an overpowered build. 
-
-
-If you fail to replicate the best builds in Megabonk in your run, it's useful to know which Weapons and Tomes make good combos regardless of other items. Since each Weapon has its own set of stats, you should try to match those that have the same stats so a single Item or Tome affects all your weapons at once instead of just one or two.
-
-
-Here are the best Weapon and Tome combos in Megabonk.
-
-
-Best Weapon Combos 
-
-
-All weapon combos listed below work even when incomplete. For example, if you're trying to go for the Dice + Bow + R…]]></summary>
-        <author>
-            <name>Bhernardo Viana</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Growing Mystery quest walkthrough in Disney Dreamlight Valley]]></title>
-        <id>https://www.destructoid.com/?p=1124561</id>
-        <link href="https://www.destructoid.com/a-growing-mystery-quest-walkthrough-in-disney-dreamlight-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=a-growing-mystery-quest-walkthrough-in-disney-dreamlight-valley"/>
-        <updated>2025-10-01T14:09:24.000Z</updated>
-        <summary type="html"><![CDATA[Beast's castle is an absolute mess, and Cogsworth won't stand for it, so you need to help him fix it up in Disney Dreamlight Valley. To do so, you must navigate through the A Growing Mystery quest. 
-
-
-This mission has some fairly tricky parts, as most Realm quests do, so finishing it can be tough. If any of Cogsworth's asks here have you stumped, here's a complete walkthrough for the A Growing Mystery quest in Disney Dreamlight Valley.
-
-
-Table of contents
-How to complete A Growing Mystery in Disney Dreamlight Valley
-Talk to Cogsworth
-Search the west wing to find the rose seeds
-Pick up the rose seeds
-Plant the rose seeds in their designated plots
-Craft Rose Fertilizer
-Gather the Rainbow Roses
-Place the Rainbow Roses in the empty vases in the hall
-
-
-How to complete A Growing Mystery in Disne…]]></summary>
-        <author>
-            <name>Kacee Fay</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[19-Year-Old Pleads Guilty To Sending Death Threats To Epic Games]]></title>
         <id>https://kotaku.com/?p=2000630601</id>
         <link href="https://kotaku.com/19-year-old-pleads-guilty-to-sending-death-threats-to-epic-games-2000630601"/>
@@ -2268,42 +2421,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7775-3: Linux kernel (Azure) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7775-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7775-3"/>
-        <updated>2025-10-01T08:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - ACPI drivers;
-  - Serial ATA and Parallel ATA drivers;
-  - Drivers core;
-  - ATA over ethernet (AOE) driver;
-  - Network block device driver;
-  - Bus devices;
-  - Clock framework and drivers;
-  - Hardware crypto device drivers;
-  - DMA engine subsystem;
-  - EDAC drivers;
-  - GPU drivers;
-  - HID subsystem;
-  - InfiniBand drivers;
-  - Input Device (Miscellaneous) drivers;
-  - Multiple devices driver;
-  - Media drivers;
-  - VMware VMCI Driver;
-  - MMC subsystem;
-  - MTD block device drivers;
-  - Network drivers;
-  - Pin controllers subsyste…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zabbix: monitorujte svou infrastrukturu a mějte ji pod kontrolou (školení)]]></title>
         <id>www.root.cz-actuality-44644</id>
         <link href="https://www.root.cz/zpravicky/zabbix-monitorujte-svou-infrastrukturu-a-mejte-ji-pod-kontrolou-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2380,60 +2497,6 @@ Now, in a recent developer livestream, the team has shared the first gameplay fo
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7788-1: libmspack vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7788-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7788-1"/>
-        <updated>2025-10-01T00:06:41.000Z</updated>
-        <summary type="html"><![CDATA[Jakub Wilk discovered that libmspack did not correctly handle certain
-integer operations and bounds checking. A remote attacker could possibly
-use this issue to cause a denial of service. (CVE-2015-4467, CVE-2015-4468,
-CVE-2015-4469, CVE-2015-4472)
-
-It was discovered that libmspack incorrectly handled certain malformed CAB
-files. A remote attacker could use this issue to cause libmspack to crash,
-resulting in a denial of service. (CVE-2017-11423)
-
-It was discovered that libmspack incorrectly handled certain malformed CHM
-files. A remote attacker could use this issue to cause libmspack to crash,
-resulting in a denial of service, or possibly execute arbitrary code.
-(CVE-2017-6419)
-
-Hanno Böck discovered that libmspack incorrectly handled certain CHM files.
-An attacker could possibly use this issue to cause a denial of service.
-(CVE-2018-14679, CVE-2018-14680)
-
-Jakub Wilk discovered that libmspack incorrectly handled certain KWAJ
-files. An attacker could possibly use this issue to execute arbitrary code.
-(CVE-2018-14681)
-
-Dmitry Glavatskikh discovered that libmspack incorrectly handled certain
-CHM files. An attacker could possibly use this issue to execute arbitrary
-code. (CVE-2018-14682)
-
-It was discovered libmspack incorrectly handled certain malformed CAB
-files. A remote attacker could use this issue to cause libmspack to crash,
-resulting in a denial of service. (CVE-2018-18585)
-
-It was discovered that libmspack incorrectly handled certain CHM files. A
-remote attacker could possibly use this issue to access sensitive
-information. (CVE-2019-1010305)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7787-1: Libxslt vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7787-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7787-1"/>
-        <updated>2025-09-30T23:47:26.000Z</updated>
-        <summary type="html"><![CDATA[Ivan Fratric discovered that Libxslt did not correctly handle certain
-memory operations. An attacker could possibly use this issue to execute
-arbitrary code or cause a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2756,20 +2819,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Super Mario Galaxy + Super Mario Galaxy 2 (Switch) - Still Out Of This World]]></title>
-        <id>https://www.nintendolife.com/#article-188104</id>
-        <link href="https://www.nintendolife.com/reviews/nintendo-switch/super-mario-galaxy-plus-super-mario-galaxy-2"/>
-        <updated>2025-09-30T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Luma-nescent.
-Reviewer's note: Although this is a Switch 1 release, we were only permitted to play the game on Switch 2 during the review period. On launch day, we'll update the text below with specific Switch 1 performance impressions.
-
-I have to admit, prior to this review, it’s been a while since I played either Super Mario Galaxy or Galaxy 2. I dabbled a bit in the first entry in Super Mario 3D All-Stars, but I spent the majority of my time there playing Mario Sunshine (still my ‘favourite’ of the 3D entries – blame nostalgia, I guess) before getting sidetracked by other games.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux's New "Transitional" Feature A Long Overdue Improvement For Kernel Configurations]]></title>
         <id>https://www.phoronix.com/news/Linux-6.18-Transitional</id>
         <link href="https://www.phoronix.com/news/Linux-6.18-Transitional"/>
@@ -2830,16 +2879,6 @@ I just picked up a Nintendo Switch and was wondering—what’s the best modern 
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kritické zranitelnosti v produktech Cisco ASA, FTD a IOS]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/kriticke-zranitelnosti-v-produktech-cisco-asa-ftd-a-ios</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/kriticke-zranitelnosti-v-produktech-cisco-asa-ftd-a-ios"/>
-        <updated>2025-09-30T10:49:20.000Z</updated>
-        <summary type="html"><![CDATA[Národní úřad pro kybernetickou a informační bezpečnost (NÚKIB) upozorňuje na sérii kritických zranitelností v Cisco Adaptive Security Appliance (ASA) a Firepower Threat Defense (FTD) a Cisco IOS, CVE-2025-20333, CVE-2025-20363 a CVE-2025-20362. Zneužití těchto zranitelností může umožnit vzdálenému neautentizovanému útočníkovi spustit libovolný kód (RCE). Společnost Cisco uvedla, že si je vědoma aktivního zneužívání těchto zranitelností.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -3770,26 +3809,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Číňan má ve Steamu koupeno více než 40 tisíc her]]></title>
-        <id>www.root.cz-actuality-49497</id>
-        <link href="https://www.root.cz/zpravicky/cinan-ma-ve-steamu-koupeno-vice-nez-40-tisic-her/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-09-26T12:04:45.000Z</updated>
-        <summary type="html"><![CDATA[Uživatel ze Šanghaje s přezdívkou SonixLegend má ve Steamu zakoupeno 40 065 her, což je rekord. Více než 30 tisíc má pak asi 19 uživatelů. SonixLegend musel za hry zaplatit něco mezi 250 – 640 tisíci dolary (5 – 13 miliónů korun), podle toho, jestli hry kupoval ve slevě, nebo za plnou cenu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jádro 6.18 přinese opravu pro instrukce XOP starého procesoru AMD Bulldozer]]></title>
-        <id>www.root.cz-actuality-49494</id>
-        <link href="https://www.root.cz/zpravicky/jadro-6-18-prinese-opravu-pro-instrukce-xop-stareho-procesoru-amd-bulldozer/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-09-26T11:40:29.000Z</updated>
-        <summary type="html"><![CDATA[Jádro 6.16 má novou volbu X86_NATIVE_CPU, ta však způsobovala spoustu chyb objtool při překladu jádra jednomu uživateli se starým procesorem AMD Bulldozer.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stupid sexy Hollow Knight: Silksong mods for Hornet horndogs have begun to hit the Nexus, I'm sorry to say]]></title>
         <id>https://www.rockpapershotgun.com/stupid-sexy-hollow-knight-silksong-mods-for-hornet-horndogs-have-begun-to-hit-the-nexus-im-sorry-to-say</id>
         <link href="https://www.rockpapershotgun.com/stupid-sexy-hollow-knight-silksong-mods-for-hornet-horndogs-have-begun-to-hit-the-nexus-im-sorry-to-say"/>
@@ -4696,18 +4715,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This week in PC games: Tokyo Game Show, Silent Hill, babel city-building and an RPG about a fugitive king]]></title>
-        <id>https://www.rockpapershotgun.com/this-week-in-pc-games-tokyo-game-show-silent-hill-babel-city-building-and-an-rpg-about-a-fugitive-king</id>
-        <link href="https://www.rockpapershotgun.com/this-week-in-pc-games-tokyo-game-show-silent-hill-babel-city-building-and-an-rpg-about-a-fugitive-king"/>
-        <updated>2025-09-22T09:52:27.000Z</updated>
-        <summary type="html"><![CDATA[Hello reader who is also a player! Once again I have failed in my fervent efforts to meddle with the Earth's rotation so as to suspend time exactly at 11.30am, Saturday morning. I fear that another week is upon us. Fortunately, it contains some new PC games, spanning full releases and early access launches. Some of those new PC games may even be worth a modest portion of your lifespan and personal capital. Here's a list of the ones I find most appealing or notable.
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ultimativní podcast o překládání filmů do češtiny: Petr a Jakub Sitárovi]]></title>
         <id>tag:blogger.com,1999:blog-2270872860161924291.post-7041740090851072367</id>
         <link href="https://www.fffilm.cz/2025/09/ultimativni-podcast-o-prekladani-filmu.html"/>
@@ -4732,19 +4739,6 @@ Tento konkrétní díl podcastu je výjimečně k dispozici také zde na YouTube
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Hill f review]]></title>
-        <id>https://www.rockpapershotgun.com/silent-hill-f-review</id>
-        <link href="https://www.rockpapershotgun.com/silent-hill-f-review"/>
-        <updated>2025-09-22T07:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Is there anything left that Silent Hill can offer us? Last year, I felt the answer to that question was a resounding no. The series' comeback game The Short Message, a short teaser of a horror experience, landed far, far away from my tastes, and last year's Silent Hill 2 was a remake of a game that needed one perhaps less than any other. This year is different though, because it has a true, full-sized, and most importantly new entry to bring this question back to the forefront. And Silent Hill f is a game that has, annoyingly, put me in my place.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
     <entry>
