@@ -1,10 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-14T22:13:45.381Z</id>
+    <id>urn:2025-10-15T01:06:01.450Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-10-14T22:13:45.381Z</updated>
+    <updated>2025-10-15T01:06:01.450Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Phantasmal Flames” Card Images Revealed, Full Set List Now Known!]]></title>
+        <id>156465</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cphantasmal-flames%E2%80%9D-card-images-revealed-full-set-list-now-known.156465/"/>
+        <updated>2025-10-15T01:01:33.000Z</updated>
+        <summary type="html"><![CDATA[TPCi U.S. and TPCi Europe have sent out Phantasmal Flames card images to general gaming outlets, including IGN in the U.S.; Journal du Geek, Millennium, Gameblog, and La Voix du Nord in France; and...
+
+Continue reading...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve Developer Gets Initial DLSS Support Working On Open-Source NVIDIA "NVK" Driver]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-DLSS-NVK-Experimental</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-DLSS-NVK-Experimental"/>
+        <updated>2025-10-15T00:17:13.000Z</updated>
+        <summary type="html"><![CDATA[Autumn Ashton of Valve's Linux graphics driver team and responsible for many great Mesa and DXVK/VKD3D-Proton improvements over the years has managed an exciting new feat: getting NVIDIA DLSS upscaling working atop Mesa's NVK open-source NVIDIA Vulkan driver. The code isn't ready to be merged yet but is an exciting early milestone...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kang the Conquerer — The New Snorlax Stall]]></title>
+        <id>156459</id>
+        <link href="https://www.pokebeach.com/forums/threads/kang-the-conquerer-%E2%80%94-the-new-snorlax-stall.156459/"/>
+        <updated>2025-10-15T00:03:37.000Z</updated>
+        <summary type="html"><![CDATA[Today I have a very interesting deck for you all. I think this deck is cool, but it plays quite similar to Snorlax Stall, so some of you may not be very happy with me. When I first read Mega Kangaskhan ex, I was intrigued, and I thought that every part about this card was good except for the...]]></summary>
+        <author>
+            <name>PMJ</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokebeach Magazine Cover]]></title>
+        <id>156466</id>
+        <link href="https://www.pokebeach.com/forums/threads/pokebeach-magazine-cover.156466/"/>
+        <updated>2025-10-14T23:38:55.000Z</updated>
+        <summary type="html"><![CDATA[I just recently started a photoshop course, and the final project is to make a magazine cover. Would it be alright if I made a magazine cover as if Pokebeach printed magazines? I didn’t really know where else to ask this so I hope this is the right place…]]></summary>
+        <author>
+            <name>Jibber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSF Announces The LibrePhone Project]]></title>
+        <id>https://www.phoronix.com/news/FSF-LibrePhone-Project</id>
+        <link href="https://www.phoronix.com/news/FSF-LibrePhone-Project"/>
+        <updated>2025-10-14T22:55:29.000Z</updated>
+        <summary type="html"><![CDATA[The Free Software Foundation today announced the LibrePhone project with a goal of creating a fully free software OS for mobile devices and to reverse-engineer obstacles where necessary...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kde se berou IP adresy, postkvantová kryptografie a přestupná sekunda, LinuxDays 2025]]></title>
         <id>www.root.cz-text-18576</id>
@@ -23,18 +75,6 @@
         <summary type="html"><![CDATA[Pravidelná středeční sonda do světa softwaru. Podíváme se na nástroj pro testování odesílání SMS zpráv přes SMPP, vyzkoušíme nativního HTTP klienta a nakonec zpřístupníme lokální webový server pomocí reverzní proxy.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jiří Sluka)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Phantasmal Flames” Card Images Revealed, Full Set List Now Known!]]></title>
-        <id>156465</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cphantasmal-flames%E2%80%9D-card-images-revealed-full-set-list-now-known.156465/"/>
-        <updated>2025-10-14T21:23:01.000Z</updated>
-        <summary type="html"><![CDATA[TPCi U.S. and TPCi Europe have sent out Phantasmal Flames card images to general gaming outlets, including IGN in the U.S.; Journal du Geek, Millennium, Gameblog, and La Voix du Nord in France; and...
-
-Continue reading...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -172,16 +212,6 @@ The post Keeper release countdown: Exact time and date appeared first on Destruc
         <summary type="html"><![CDATA[There's been work to get the Nix functional package manager available on Fedora Linux for those wanting to leverage its available packages or features like supporting side-by-side packages of different versions, atomic upgrades/rollbacks, non-root user for installing software, and other features. One of the hurdles though is that the Nix package manager relies by default on the /nix directory, which goes against Fedora's default directory requirements. Now though the Fedora Engineering and Steering Committee (FESCo) has granted permission for using the /nix directory hierarchy...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kang the Conquerer — The New Snorlax Stall]]></title>
-        <id>156459</id>
-        <link href="https://www.pokebeach.com/forums/threads/kang-the-conquerer-%E2%80%94-the-new-snorlax-stall.156459/"/>
-        <updated>2025-10-14T18:43:12.000Z</updated>
-        <summary type="html"><![CDATA[Today I have a very interesting deck for you all. I think this deck is cool, but it plays quite similar to Snorlax Stall, so some of you may not be very happy with me. When I first read Mega Kangaskhan ex, I was intrigued, and I thought that every part about this card was good except for the...]]></summary>
-        <author>
-            <name>PMJ</name>
         </author>
     </entry>
     <entry>
@@ -2810,26 +2840,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 6.18 Lands Retpoline Optimization To Help With Intel E Cores]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.18-Retpoline-Opt</id>
-        <link href="https://www.phoronix.com/news/Linux-6.18-Retpoline-Opt"/>
-        <updated>2025-10-11T19:46:20.000Z</updated>
-        <summary type="html"><![CDATA[The Linux 6.18 merge window is winding down this weekend ahead of Linux 6.18-rc1 expected on Sunday. Merged today were some remaining x86 core updates, which includes a Retpoline optimization patch intended to help out Intel E core CPUs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solus Linux Preparing To Remove Python 2, Big systemd Upgrade & Finish /usr Merge]]></title>
-        <id>https://www.phoronix.com/news/Solus-Linux-EOY-2025-Epoch</id>
-        <link href="https://www.phoronix.com/news/Solus-Linux-EOY-2025-Epoch"/>
-        <updated>2025-10-11T19:35:11.000Z</updated>
-        <summary type="html"><![CDATA[The Solus Linus project is preparing for an "epoch bump" so they can make breaking / high-impact changes to in effect bump the binary version of their package repository...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audio recenze: Ošklivá sestra [Den stygge stesøsteren] - 60 %]]></title>
         <id>tag:blogger.com,1999:blog-2270872860161924291.post-8902273162215823581</id>
         <link href="https://www.fffilm.cz/2025/10/audio-recenze-oskliva-sestra-den-stygge.html"/>
@@ -4686,17 +4696,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Ordered 2 booster bundles of 151 but even inside of wrapping (which seems different/thicker than wrapping on a recent Mega Evo booster bundle), it's wrinkled as seen on unopened 2nd bundle. Only opened one pack but it had 1 card facing the wrong direction and was a Prismatic Evolution Vaporeon...]]></summary>
         <author>
             <name>apg666</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Stock of “Pokemon Center Pikachu Special Boxes” Announced Following Outrageous Prices on Secondary Market]]></title>
-        <id>156429</id>
-        <link href="https://www.pokebeach.com/forums/threads/new-stock-of-%E2%80%9Cpokemon-center-pikachu-special-boxes%E2%80%9D-announced-following-outrageous-prices-on-secondary-market.156429/"/>
-        <updated>2025-10-01T23:27:00.000Z</updated>
-        <summary type="html"><![CDATA[In June, Creatures announced they would be printing more of the Pokemon Center Pikachu Special Boxes in the future due to high demand. At the time, they stated they wanted "everyone" to be able to purchase them.
-The boxes currently run for $300 to $500 on eBay despite originally costing $14...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
