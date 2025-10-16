@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-16T04:16:32.185Z</id>
+    <id>urn:2025-10-16T06:21:21.469Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-10-16T04:16:32.185Z</updated>
+    <updated>2025-10-16T06:21:21.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Pokémon Legends: Z-A First Mystery Gift Distribution Event Now Live]]></title>
-        <id>https://www.nintendolife.com/#article-192605</id>
-        <link href="https://www.nintendolife.com/news/2025/10/pokemon-legends-z-a-first-mystery-gift-distribution-event-now-live"/>
-        <updated>2025-10-16T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[You'll need to unlock this feature.
-
-Pokémon Legends: Z-A is now available on the Switch and Switch 2, and the first Mystery Gift distribution event has officially gone live.
-Read the full article on nintendolife.com]]></summary>
+        <title type="html"><![CDATA[Linux Mint Debian Edition 7 s názvem Gigi staví na Debianu 13 Trixie]]></title>
+        <id>www.root.cz-actuality-49737</id>
+        <link href="https://www.root.cz/zpravicky/linux-mint-debian-edition-7-s-nazvem-gigi-stavi-na-debianu-13-trixie/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-10-16T06:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři uvolnili novou verzi distribuce LMDE 7 s názvem Gigi. LMDE znamená Linux Mint Debian Edition a cílem je zajistit, aby Linux Mint mohl i nadále poskytovat stejné uživatelské prostředí, kdyby někdy nebylo možné Mint stavět na Ubuntu. Zároveň LMDE umožňuje testovat software Mintu také na jiné distribuci než na Ubuntu, aby byla zajištěna kompatibilita napříč distribucemi.]]></summary>
         <author>
-            <name>Nintendo Life | Latest Updates</name>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Full Breakdown of All New Mega Evolutions in “Legends: Z-A,” What to Expect for Upcoming TCG Sets]]></title>
         <id>156467</id>
         <link href="https://www.pokebeach.com/forums/threads/full-breakdown-of-all-new-mega-evolutions-in-%E2%80%9Clegends-z-a-%E2%80%9D-what-to-expect-for-upcoming-tcg-sets.156467/"/>
-        <updated>2025-10-16T03:27:15.000Z</updated>
+        <updated>2025-10-16T05:42:29.000Z</updated>
         <summary type="html"><![CDATA[Pokemon Legends: Z-A is now available in multiple countries! It will launch in the United States at 9 PM PDT / 12 AM EDT.
 The game adds 26 new Mega Evolutions to the Pokedex, bringing the current total up to 76.
 
@@ -41,15 +38,59 @@ Mega Clefable (Fairy/Flying): It flies...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7824-2: Redict vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7824-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7824-2"/>
+        <updated>2025-10-16T05:33:16.000Z</updated>
+        <summary type="html"><![CDATA[USN-7824-1 fixed several vulnerabilities in Redis. This update provides
+the corresponding update for Redict - a fork of Redis.
+
+Original advisory details:
+
+Benny Isaacs, Nir Brakha, and Sagi Tzadik discovered that Redis incorrectly
+handled memory when running Lua scripts. An authenticated attacker could use
+this vulnerability to trigger a use-after-free condition, and potentially 
+achieve remote code execution on the Redis server.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“Phantasmal Flames” Card Images Revealed, Full Set List Now Known!]]></title>
         <id>156465</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cphantasmal-flames%E2%80%9D-card-images-revealed-full-set-list-now-known.156465/"/>
-        <updated>2025-10-16T02:30:09.000Z</updated>
+        <updated>2025-10-16T04:43:09.000Z</updated>
         <summary type="html"><![CDATA[TPCi U.S. and TPCi Europe have sent out Phantasmal Flames card images to general gaming outlets, including IGN in the U.S.; Journal du Geek, Millennium, Gameblog, and La Voix du Nord in France; and...
 
 Continue reading...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reminder: Pokémon Legends: Z-A Switch 2 Hardware Bundle Now Available]]></title>
+        <id>https://www.nintendolife.com/#article-192606</id>
+        <link href="https://www.nintendolife.com/news/2025/10/reminder-pokemon-legends-z-a-switch-2-hardware-bundle-now-available"/>
+        <updated>2025-10-16T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Will you be getting it?
+Apart from the anticipated arrival of Pokémon Legends: Z-A this week, Nintendo has also released a new Switch 2 bundle.
+Here's your reminder that it's now available in stores for $499.99 / £429.99 (or your regional equivalent). It comes packed with Nintendo's new hardware and everything else required, as well as a full game download for the new entry in the series.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Legends: Z-A First Mystery Gift Distribution Event Now Live]]></title>
+        <id>https://www.nintendolife.com/#article-192605</id>
+        <link href="https://www.nintendolife.com/news/2025/10/pokemon-legends-z-a-first-mystery-gift-distribution-event-now-live"/>
+        <updated>2025-10-16T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[You'll need to unlock this feature.
+
+Pokémon Legends: Z-A is now available on the Switch and Switch 2, and the first Mystery Gift distribution event has officially gone live.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -106,6 +147,19 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[The ollama 0.12.6-rc0 software released this evening and with it comes experimental Vulkan API support...]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plants Vs. Zombies: Replanted Supports Local Co-Op And PvP Via GameShare]]></title>
+        <id>https://www.nintendolife.com/#article-192432</id>
+        <link href="https://www.nintendolife.com/news/2025/10/plants-vs-zombies-replanted-supports-local-co-op-and-pvp-via-gameshare"/>
+        <updated>2025-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Gameplay and overview videos surface.
+PopCap's highly addictive tower defence series Plants vs. Zombies is making a return on the Switch and Switch 2 later this month.
+Before you return to the garden in Plants vs. Zombies: Replanted, there's a new gameplay trailer you might want to check out. It showcases the Switch 2 GameShare feature, which allows two players to enjoy Local Co-Op or PvP together.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2663,32 +2717,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Is Opening Its Fourth Store In Japan This Year]]></title>
-        <id>https://www.nintendolife.com/#article-182522</id>
-        <link href="https://www.nintendolife.com/news/2025/10/nintendo-is-opening-its-fourth-store-in-japan-this-year"/>
-        <updated>2025-10-14T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Say hello to 'Nintendo Fukuoka'.
-Nintendo has announced that it is opening its fourth store in Japan by the end of 2025 in Fukuoka.
-Further details are scarce at the moment, but Nintendo says the store will be located in JR Hakata City (Amu Plaza), a large shopping mall consisting of clothing stores, furnishing retailers, restaurants, and more.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Croc's Switch Remaster Returns This Week With A Free 'Platinum Edition' Update]]></title>
-        <id>https://www.nintendolife.com/#article-192502</id>
-        <link href="https://www.nintendolife.com/news/2025/10/crocs-switch-remaster-returns-this-week-with-a-free-platinum-edition-update"/>
-        <updated>2025-10-14T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Including achievements and a new name...
-Argonaut Games has announced its Croc remaster is getting a major update. It's officially titled Croc Legend of the Gobbos: Platinum Edition.
-This free update will be applied to the console versions of the game (including Switch) on 16th October 2025 and promises to deliver the "best possible Croc gaming experience".
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD & Intel Mark x86 Ecosystem Advisory Group's Anniversary: FRED, ACE, AVX10, ChkTag]]></title>
         <id>https://www.phoronix.com/news/AMD-Intel-One-Year-x86-Eco</id>
         <link href="https://www.phoronix.com/news/AMD-Intel-One-Year-x86-Eco"/>
@@ -2782,27 +2810,6 @@ This update corrects flaws in the following subsystems:
   - VMware vSockets driver;
 (CVE-2025-37785, CVE-2025-38618, CVE-2025-38617, CVE-2024-57996,
 CVE-2025-37752, CVE-2025-38477, CVE-2025-21796, CVE-2025-38350)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7796-4: Linux kernel (Azure FIPS) kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7796-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-7796-4"/>
-        <updated>2025-10-13T16:24:55.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Framebuffer layer;
-  - BTRFS file system;
-  - Ext4 file system;
-  - Network file system (NFS) server daemon;
-  - Packet sockets;
-  - Network traffic control;
-  - VMware vSockets driver;
-(CVE-2025-38477, CVE-2025-38617, CVE-2025-21796, CVE-2025-38618,
-CVE-2024-49924, CVE-2024-35849, CVE-2025-37785)]]></summary>
         <author>
             <name>Ubuntu security notices</name>
         </author>
@@ -3666,16 +3673,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ansel, fork editoru darktable, bohužel končí]]></title>
-        <id>www.root.cz-actuality-49671</id>
-        <link href="https://www.root.cz/zpravicky/ansel-fork-editoru-darktable-bohuzel-konci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-10-08T14:44:45.000Z</updated>
-        <summary type="html"><![CDATA[Zajímavá one-man show, která dávala naději, že do projektu darktable bude s forkem vpuštěn svěží vítr inovací a oprav, bohužel končí. Aurélien Pierre oznamuje, že dále už není schopen pokračovat. Ansel mu nepřinesl nic jiného než zármutek, smutek, vyhoření a problémy. Nemá rád ani počítače, ani foťáky, ani technologie jako takové, ale tvoří 90 % jeho života a 99 % sociálních interakcí. Došel do bodu, kdy jen pohled na editor kódu mu spouští post traumatickou stresovou poruchu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
