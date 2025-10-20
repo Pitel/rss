@@ -1,15 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-20T06:22:05.313Z</id>
+    <id>urn:2025-10-20T08:26:45.291Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-10-20T06:22:05.313Z</updated>
+    <updated>2025-10-20T08:26:45.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Jádro 6.18 opravuje informace o důvodu restartu pro AMD Zen]]></title>
+        <id>www.root.cz-actuality-49773</id>
+        <link href="https://www.root.cz/zpravicky/jadro-6-18-opravuje-informace-o-duvodu-restartu-pro-amd-zen/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-10-20T08:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Procesory AMD Zen již od Zen 1 mají užitečný speciální registr S5_RESET_STATUS, který umožňuje zjistit důvod posledního restartu. Do jádra 6.16 byl přidán kód, který zobrazí důvod předchozího restartu v dmesg. Důvodem může být například přehřátí, stisknutí tlačítka napájení déle než 4 sekundy, stisknutí tlačítka reset, HW watchdog a další.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPTV Pirates May Soon Be Named and Shamed, Italian Minister Says]]></title>
+        <id>https://torrentfreak.com/?p=273310</id>
+        <link href="https://torrentfreak.com/iptv-pirates-may-be-named-and-shamed-italian-minister-says-251020/"/>
+        <updated>2025-10-20T07:46:18.000Z</updated>
+        <summary type="html"><![CDATA[Having established itself as a moving and unpredictable target, it's widely accepted that piracy cannot be defeated using a single tool. Italy's toolbox is one of the most comprehensive available, having just added the ability to effectively fine IPTV pirates twice for the same offense. According to Italy's Minister for Sport and Youth, pirates may soon face the prospect of being named and shamed.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One of a kind misprint?]]></title>
+        <id>156472</id>
+        <link href="https://www.pokebeach.com/forums/threads/one-of-a-kind-misprint.156472/"/>
+        <updated>2025-10-20T07:31:42.000Z</updated>
+        <summary type="html"><![CDATA[So I came across this card and I've had it for years and years and years. I pulled it out of the pack myself obviously it's a misprint it should have leaf pattern if it's a snivy that is holographic. Yeah this one has wavy lines. You can also clearly see the mistakes in those lines. My house...]]></summary>
+        <author>
+            <name>wickedleprechaun</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exclusive Iron Hands ex and Pal Pad Releasing in Chinese “Arcane Truth” Set, Our Greninja SIR Also Releasing!]]></title>
         <id>156471</id>
         <link href="https://www.pokebeach.com/forums/threads/exclusive-iron-hands-ex-and-pal-pad-releasing-in-chinese-%E2%80%9Carcane-truth%E2%80%9D-set-our-greninja-sir-also-releasing.156471/"/>
-        <updated>2025-10-20T05:57:01.000Z</updated>
+        <updated>2025-10-20T07:16:53.000Z</updated>
         <summary type="html"><![CDATA[China's next Scarlet & Violet set will be named Arcane Truth and will release on November 7th. It will include cards from 2023's Obsidian Flames and Paradox Rift.
 
 			
@@ -26,13 +57,25 @@ The set will feature a new Special Illustration Rare for Iron Hands ex and a ne
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One of a kind misprint?]]></title>
-        <id>156472</id>
-        <link href="https://www.pokebeach.com/forums/threads/one-of-a-kind-misprint.156472/"/>
-        <updated>2025-10-20T05:52:56.000Z</updated>
-        <summary type="html"><![CDATA[So I came across this card and I've had it for years and years and years. I pulled it out of the pack myself obviously it's a misprint it should have leaf pattern if it's a snivy that is holographic. Yeah this one has wavy lines. You can also clearly see the mistakes in those lines. My house...]]></summary>
+        <title type="html"><![CDATA[USN-7826-2: Samba vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7826-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7826-2"/>
+        <updated>2025-10-20T06:05:11.000Z</updated>
+        <summary type="html"><![CDATA[USN-7826-1 fixed vulnerabilities in Samba. This update provides the
+corresponding update for Ubuntu 14.04 LTS, Ubuntu 16.04 LTS, Ubuntu
+18.04 LTS and Ubuntu 20.04 LTS.
+
+Original advisory details:
+
+ Andrew Walker discovered that Samba incorrectly initialized memory in the
+ vfs_streams_xattr module. An authenticated attacker could possibly use this
+ issue to obtain sensitive information. (CVE-2025-9640)
+
+ Igor Morgenstern discovered that Samba incorrectly handled names passed to
+ the WINS hook program. An attacker could possibly use this issue to execute
+ arbitrary code. (CVE-2025-10230)]]></summary>
         <author>
-            <name>wickedleprechaun</name>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -40,7 +83,7 @@ The set will feature a new Special Illustration Rare for Iron Hands ex and a ne
         <id>www.root.cz-actuality-49767</id>
         <link href="https://www.root.cz/zpravicky/open-source-ai-day-v-sidle-spolecnosti-red-hat-v-brne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2025-10-20T05:48:00.000Z</updated>
-        <summary type="html"><![CDATA[V úterý 11. listopadu 2025 se v budově Red Hatu v Brně (Purkyňova 111, budova B) koná Open Source AI Day. Součástí této akce budou přednášky a ukázky AI technologií vytvářených v Red Hatu - AI asistenti, automatické analýzy logovacích informací s využitím velkých jazykových modelů, vývoj, trénink a testování modelů v hybridním cloudu a další zajímavá témata.]]></summary>
+        <summary type="html"><![CDATA[V úterý 11. listopadu 2025 mezi 14. a 18. hodinou se v budově Red Hatu v Brně (Purkyňova 111, budova B) koná Open Source AI Day. Součástí této akce budou přednášky a ukázky AI technologií vytvářených v Red Hatu – AI asistenti, automatické analýzy logovacích informací s využitím velkých jazykových modelů, vývoj, trénink a testování modelů v hybridním cloudu a další zajímavá témata.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
         </author>
@@ -3259,23 +3302,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7810-3: Linux kernel (Azure FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7810-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7810-3"/>
-        <updated>2025-10-14T16:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network drivers;
-  - Packet sockets;
-  - Network traffic control;
-  - VMware vSockets driver;
-(CVE-2025-38477, CVE-2025-38617, CVE-2025-38618, CVE-2025-38683)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Helldivers 2 director confirms Arrowhead are biting the addition delay bullet while working on performance fixes]]></title>
         <id>https://www.rockpapershotgun.com/helldivers-2-director-confirms-arrowhead-are-biting-the-addition-delay-bullet-while-working-on-performance-fixes</id>
         <link href="https://www.rockpapershotgun.com/helldivers-2-director-confirms-arrowhead-are-biting-the-addition-delay-bullet-while-working-on-performance-fixes"/>
@@ -3534,16 +3560,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtuální Bastlírna vol. 55: Co vás zaujalo na LinuxDays?]]></title>
-        <id>www.root.cz-actuality-49701</id>
-        <link href="https://www.root.cz/zpravicky/virtualni-bastlirna-vol-55-co-vas-zaujalo-na-linuxdays/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-10-13T11:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Již toto úterý proběhne každoměsíční akce Virtuální Bastlírna, kterou pořádá projekt MacGyver. Jde o virtuální posezení u piva a volné klábosení o různých zajímavostech ze světa elektroniky, softwaru i techniky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: bkralik)</name>
         </author>
     </entry>
     <entry>
@@ -4592,17 +4608,6 @@ Over 10 years later, we finally know who to blame. Surprise surprise, it was the
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LaLiga’s 360° Piracy Blitz, New Blocking Tactics & Fines, Meet Rising Disapproval]]></title>
-        <id>https://torrentfreak.com/?p=272805</id>
-        <link href="https://torrentfreak.com/laligas-360-piracy-blitz-on-off-blocking-and-fan-fines-face-growing-opposition-251006/"/>
-        <updated>2025-10-06T06:48:49.000Z</updated>
-        <summary type="html"><![CDATA[While aspects of signaling and delivery have at times left more questions than answers, LaLiga's commitment to utilize every available tool to fight piracy couldn't be any more clear. Reports suggest a new blocking tactic and a new wave of 'fines' for end users. The piracy pressure cooker is in full effect, but clear signs of growing pushback could change the course of the game.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
