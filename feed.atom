@@ -1,10 +1,225 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-21T22:12:41.914Z</id>
+    <id>urn:2025-10-22T01:08:48.161Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-10-21T22:12:41.914Z</updated>
+    <updated>2025-10-22T01:08:48.161Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AlmaLinux 10.1 Beta Released For Popular RHEL 10 Community Distribution]]></title>
+        <id>https://www.phoronix.com/news/AlmaLinux-10.1-Beta</id>
+        <link href="https://www.phoronix.com/news/AlmaLinux-10.1-Beta"/>
+        <updated>2025-10-22T00:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier today the AlmaLinux project announced their plans for supporting the Btrfs file-system contrary to the stance by Red Hat with upstream Red Hat Enterprise Linux. They have capped off the day now by releasing the AlmaLinux 10.1 beta complete with this new Btrfs support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark mode on Pokebeach]]></title>
+        <id>155851</id>
+        <link href="https://www.pokebeach.com/forums/threads/dark-mode-on-pokebeach.155851/"/>
+        <updated>2025-10-22T00:30:47.000Z</updated>
+        <summary type="html"><![CDATA[Seems like an obvious toggleable option to add.]]></summary>
+        <author>
+            <name>somesam</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.19 To Enable Networking For The EIC7700 SoC Powering The SiFive Premier P550]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.19-Eswin-EIC7700-Net</id>
+        <link href="https://www.phoronix.com/news/Linux-6.19-Eswin-EIC7700-Net"/>
+        <updated>2025-10-22T00:28:41.000Z</updated>
+        <summary type="html"><![CDATA[Upstreamed for the current Linux 6.18 cycle was finally having mainline support for the ESWIN EIC770 SoC with its four SiFive P550 cores plus having the DeviceTree support for the SiFive HiFive Premier P550 RISC-V development board using that SoC. Sadly not making it though for Linux 6.18 was the Ethernet controller support for the EIC7700 SoC but that is now destined to arrive in Linux 6.19...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7833-2: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7833-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7833-2"/>
+        <updated>2025-10-22T00:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
+and Flavien Solt discovered that some AMD processors may allow an attacker
+to infer data from previous stores, potentially resulting in the leakage of
+privileged information. A local attacker could possibly use this to expose
+sensitive information. (CVE-2024-36350, CVE-2024-36357)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - ACPI drivers;
+  - Serial ATA and Parallel ATA drivers;
+  - Drivers core;
+  - ATA over ethernet (AOE) driver;
+  - Ublk userspace block dri…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7834-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7834-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7834-1"/>
+        <updated>2025-10-22T00:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
+and Flavien Solt discovered that some AMD processors may allow an attacker
+to infer data from previous stores, potentially resulting in the leakage of
+privileged information. A local attacker could possibly use this to expose
+sensitive information. (CVE-2024-36350, CVE-2024-36357)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - ACPI drivers;
+  - Serial ATA and Parallel ATA drivers;
+  - Drivers core;
+  - ATA over ethernet (AOE) driver;
+  - Ublk userspace block dri…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7833-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7833-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7833-1"/>
+        <updated>2025-10-21T23:56:35.000Z</updated>
+        <summary type="html"><![CDATA[Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
+and Flavien Solt discovered that some AMD processors may allow an attacker
+to infer data from previous stores, potentially resulting in the leakage of
+privileged information. A local attacker could possibly use this to expose
+sensitive information. (CVE-2024-36350, CVE-2024-36357)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - ACPI drivers;
+  - Serial ATA and Parallel ATA drivers;
+  - Drivers core;
+  - ATA over ethernet (AOE) driver;
+  - Ublk userspace block dri…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lenovo Laptop (40GB RAM, 1TB SSD, i7) Down 74% on Amazon, and It’s Not Refurbished]]></title>
+        <id>https://kotaku.com/?p=2000637810</id>
+        <link href="https://kotaku.com/lenovo-laptop-40gb-ram-1tb-ssd-i7-down-74-on-amazon-and-its-not-refurbished-2000637810"/>
+        <updated>2025-10-21T23:23:17.000Z</updated>
+        <summary type="html"><![CDATA[Lenovo won't advertise this 74% discount openly, but Amazon just did.
+The post Lenovo Laptop (40GB RAM, 1TB SSD, i7) Down 74% on Amazon, and It’s Not Refurbished appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Kotaku Deals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gunburn god rolls and how to get them in Destiny 2]]></title>
+        <id>https://www.destructoid.com/?p=1131959</id>
+        <link href="https://www.destructoid.com/gunburn-god-rolls-and-how-to-get-them-in-destiny-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gunburn-god-rolls-and-how-to-get-them-in-destiny-2"/>
+        <updated>2025-10-21T23:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Festival of the Lost has a new SMG, Gunburn, which is bound to strike fear into the heart of the Headless Ones. The new Kinetic Lightweight weapon brings the newly released Kinetic perks, as well as one of the most wanted traits in primaries that don't deal elemental damage.
+
+
+Gunburn already faces steep competition against the Multimach CCX, which is a beloved, easily available, god-rolled legacy SMG with Attrition Orbs/Kinetic Tremors available at Banshee-44's stand. Still, Gunburn gets up to 10 percent more damage since it counts as new gear, which may be enough to consider switching, and its perk pool also comes with new additions.
+
+
+Here are our Gunburn god rolls for PvE in Destiny 2's Festival of the Lost, based on perk info from light.gg.
+
+
+Gunburn PvE god roll in Destiny 2
+
+
+The ba…]]></summary>
+        <author>
+            <name>Pedro Peres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to fix the Haunted Altars softlock in Destiny 2’s Festival of the Lost]]></title>
+        <id>https://www.destructoid.com/?p=1131947</id>
+        <link href="https://www.destructoid.com/how-to-fix-the-haunted-altars-softlock-in-destiny-2s-festival-of-the-lost/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-fix-the-haunted-altars-softlock-in-destiny-2s-festival-of-the-lost"/>
+        <updated>2025-10-21T23:03:01.000Z</updated>
+        <summary type="html"><![CDATA[Though the usual bugs aren't around in this year's Festival of the Lost, Destiny 2 players have found new ones—including a particularly egregious softlock in the new activity, Haunted Altars, which can block your progress. While there's no confirmed cause, there are a few ways to fix it.
+
+
+The softlock in Haunted Altars can cause players to glitch out at the end of an activity and invalidate everything until that point, sometimes triggering after taking down half of the Headless One's health bar. It's especially annoying if you get it multiple times in a row, and with how widespread this issue seems to be, it's certainly not a stretch. Here's what may cause it and what you can do to fix it.
+
+
+What causes the Haunted Altars softlock in Destiny 2
+
+
+The softlock is the scariest part of the ev…]]></summary>
+        <author>
+            <name>Pedro Peres</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Suicune and Kyogre Knock Out Collections, Raikou 2-Pack Blister!]]></title>
+        <id>156475</id>
+        <link href="https://www.pokebeach.com/forums/threads/new-suicune-and-kyogre-knock-out-collections-raikou-2-pack-blister.156475/"/>
+        <updated>2025-10-21T22:28:04.000Z</updated>
+        <summary type="html"><![CDATA[Releasing alongside Phantasmal Flames on November 14th will be two new Knock Out Collections featuring either Suicune from the set or Kyogre from Mega Evolution. Both will be printed on cosmos holofoil paper.
+As usual each collection will also come with two booster packs, a sticker sheet, and a...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon]]></title>
+        <id>https://kotaku.com/?p=2000637801</id>
+        <link href="https://kotaku.com/ankers-25000mah-laptop-power-bank-with-triple-100w-usb-c-is-now-selling-for-pennies-on-amazon-2000637801"/>
+        <updated>2025-10-21T22:21:17.000Z</updated>
+        <summary type="html"><![CDATA[The Anker 25,000mAh power bank features triple 100W USB-C ports, built-in retractable cables, and charges four devices simultaneously.
+The post Anker’s 25000mAh Laptop Power Bank with Triple 100W USB-C Is Now Selling for Pennies on Amazon appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Kotaku Deals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7819-2: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7819-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7819-2"/>
+        <updated>2025-10-21T22:13:25.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network drivers;
+  - Device tree and open firmware driver;
+  - SCSI subsystem;
+  - TTY drivers;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Bluetooth subsystem;
+  - Packet sockets;
+  - Network traffic control;
+  - VMware vSockets driver;
+(CVE-2025-38350, CVE-2024-57996, CVE-2025-37752, CVE-2025-38617,
+CVE-2025-38477, CVE-2025-38083, CVE-2024-38541, CVE-2023-52757,
+CVE-2023-52975, CVE-2025-38618, CVE-2024-49950, CVE-2024-50073,
+CVE-2025-37785, CVE-2025-21796, CVE-2025-38683, CVE-2025-37797)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chybí lidé a aktuální dokumentace, shodli se překladatelé na LinuxDays]]></title>
         <id>www.root.cz-text-18585</id>
@@ -94,6 +309,30 @@ The post HP 17-Inch High-End Laptop Drops $2230, Now It’s Cheaper Than a Budge
 The post This Free Halloween MMO Is Wonderful, But Only Around For A Limited Time appeared first on Kotaku.]]></summary>
         <author>
             <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7797-3: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7797-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7797-3"/>
+        <updated>2025-10-21T21:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Virtio block driver;
+  - Media drivers;
+  - Network drivers;
+  - Framebuffer layer;
+  - BTRFS file system;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - Packet sockets;
+  - VMware vSockets driver;
+(CVE-2025-38618, CVE-2024-35849, CVE-2025-37785, CVE-2024-49924,
+CVE-2025-38617, CVE-2024-27078, CVE-2021-47149, CVE-2021-47319,
+CVE-2025-21796, CVE-2021-47589)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -698,28 +937,6 @@ The post Don’t Download PS Plus’s Latest Batch Of Games Until You’ve Read 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Square Enix Should Just Keep The Final Fantasy VII Remakes Going]]></title>
-        <id>https://kotaku.com/?p=2000637623</id>
-        <link href="https://kotaku.com/final-fantasy-7-rebirth-dlc-sequel-battlefield-6-royale-halo-ps5-2000637623"/>
-        <updated>2025-10-21T14:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Also: when is Battlefield 6's battle royale mode coming, and how many more Xbox ports to PS5 will we get in 2026?
-The post Square Enix Should Just Keep <i>The Final Fantasy VII</i> Remakes Going appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Quietly Clears Out Galaxy S25 Edge 512GB Before the Black Friday Rush While Apple Sticks to Full Price]]></title>
-        <id>https://kotaku.com/?p=2000636697</id>
-        <link href="https://kotaku.com/samsung-quietly-clears-out-galaxy-s25-edge-512gb-before-the-black-friday-rush-while-apple-sticks-to-full-price-2000636697"/>
-        <updated>2025-10-21T14:45:08.000Z</updated>
-        <summary type="html"><![CDATA[Save 40% on the Samsung Galaxy S25 Edge for a limited time on Amazon.
-The post Samsung Quietly Clears Out Galaxy S25 Edge 512GB Before the Black Friday Rush While Apple Sticks to Full Price appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Joe Tilleli</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TARmageddon Strikes: High Profile Security Vulnerability In Popular Rust Library]]></title>
         <id>https://www.phoronix.com/news/Rust-TARmageddon</id>
         <link href="https://www.phoronix.com/news/Rust-TARmageddon"/>
@@ -1130,17 +1347,6 @@ or leak sensitive information. (CVE-2025-9951)]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Suicune and Kyogre Knock Out Collections, Raikou 2-Pack Blister!]]></title>
-        <id>156475</id>
-        <link href="https://www.pokebeach.com/forums/threads/new-suicune-and-kyogre-knock-out-collections-raikou-2-pack-blister.156475/"/>
-        <updated>2025-10-21T10:55:15.000Z</updated>
-        <summary type="html"><![CDATA[Releasing alongside Phantasmal Flames on November 14th will be two new Knock Out Collections featuring either Suicune from the set or Kyogre from Mega Evolution. Both will be printed on cosmos holofoil paper.
-As usual each collection will also come with two booster packs, a sticker sheet, and a...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -2079,38 +2285,6 @@ The default character, no special ga…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All balls and evolutions in Ball x Pit]]></title>
-        <id>https://www.destructoid.com/?p=1126502</id>
-        <link href="https://www.destructoid.com/all-special-balls-in-ball-x-pit/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-special-balls-in-ball-x-pit"/>
-        <updated>2025-10-20T17:23:58.000Z</updated>
-        <summary type="html"><![CDATA[Do you have the balls required to enter the pit?
-
-
-In Ball x Pit, the brick-breaking and ball-bouncing bonanza from Kenny Sun and Devolver Digital, it's all about using your balls to defeat enemies. But you can also combine your balls to create special ones to deal more damage to the field, and it's a blast.
-
-
-Here's a list of all the balls you can find and combine in Ball x Pit, along with all of the characters that start with each different basic ball.
-
-
-Table of contents
-All Balls in Ball x Pit
-
-All Ball x Pit Special Balls
-All Ball x Pit Evolution Balls
-
-
-All Balls in Ball x Pit
-
-
-Screenshot by Destructoid
-
-
-These are the basic Special Balls that can be found in the game by picking up gems and leveling up in each run of Ball x Pit, and some of them are starter items held by specific ch…]]></summary>
-        <author>
-            <name>Scott Duwe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Legendary Final Fantasy composer Nobuo Uematsu retains said status by explaining why AI music doesn't work]]></title>
         <id>https://www.rockpapershotgun.com/legendary-final-fantasy-composer-nobuo-uematsu-retains-said-status-by-explaining-why-ai-music-doesnt-work</id>
         <link href="https://www.rockpapershotgun.com/legendary-final-fantasy-composer-nobuo-uematsu-retains-said-status-by-explaining-why-ai-music-doesnt-work"/>
@@ -2120,22 +2294,6 @@ These are the basic Special Balls that can be found in the game by picking up ge
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game Freak is finally admitting ‘Gotta Catch ‘Em All’ is dead with Pokémon Legends: Z-A]]></title>
-        <id>https://www.destructoid.com/?p=1131417</id>
-        <link href="https://www.destructoid.com/game-freak-is-finally-admitting-gotta-catch-em-all-is-dead-with-pokemon-legends-z-a/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=game-freak-is-finally-admitting-gotta-catch-em-all-is-dead-with-pokemon-legends-z-a"/>
-        <updated>2025-10-20T16:57:29.000Z</updated>
-        <summary type="html"><![CDATA[In the Jurassic era of Pokémon games, in the early 2000s, I remember taking my Game Boy Color to meet up with school friends to trade using a link cable. I had a copy of Pokémon Silver and traded with kids who had the Gold exclusives I didn't have, like Gligar and Ursaring. I also evolved my Kadabra into Alakazam with quick touch trades.
-
-
-While I loved to capture more Pokémon back then, especially because I lived in the 'Gotta Catch 'Em All' era of the anime, I never had the ambition of completing the Pokédex, even in the endgame. It was virtually impossible. I couldn't find starters in the wild, and some Legendary Pokémon were version or event exclusives I never had in my country.
-
-
-Some Pokémon felt rare because the real-world effort you had to put in to obtain them was borderline impos…]]></summary>
-        <author>
-            <name>Bhernardo Viana</name>
         </author>
     </entry>
     <entry>
@@ -2283,23 +2441,6 @@ The remake is supposedly real and currently operating under the codename 'Chambe
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7828-1: Python LDAP vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7828-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7828-1"/>
-        <updated>2025-10-20T12:41:40.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Python LDAP incorrectly handled special characters
-in the special character filtering function. A remote attacker could
-possibly use this issue to perform LDAP injection attacks.
-(CVE-2025-61911)
-
-Arad Inbar discovered that Python LDAP incorrectly escaped NUL character
-bytes. An attacker could possibly use this issue to cause a denial of
-service. (CVE-2025-61912)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2526,28 +2667,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7826-2: Samba vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7826-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7826-2"/>
-        <updated>2025-10-20T06:05:11.000Z</updated>
-        <summary type="html"><![CDATA[USN-7826-1 fixed vulnerabilities in Samba. This update provides the
-corresponding update for Ubuntu 14.04 LTS, Ubuntu 16.04 LTS, Ubuntu
-18.04 LTS and Ubuntu 20.04 LTS.
-
-Original advisory details:
-
- Andrew Walker discovered that Samba incorrectly initialized memory in the
- vfs_streams_xattr module. An authenticated attacker could possibly use this
- issue to obtain sensitive information. (CVE-2025-9640)
-
- Igor Morgenstern discovered that Samba incorrectly handled names passed to
- the WINS hook program. An attacker could possibly use this issue to execute
- arbitrary code. (CVE-2025-10230)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open Source AI Day v sídle společnosti Red Hat v Brně]]></title>
         <id>www.root.cz-actuality-49767</id>
         <link href="https://www.root.cz/zpravicky/open-source-ai-day-v-sidle-spolecnosti-red-hat-v-brne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2574,18 +2693,6 @@ Original advisory details:
         <summary type="html"><![CDATA[Linux 6.18-rc2 is now available with another week's worth of fixes for Linux 6.18, which is anticipated to be this year's Long Term Support (LTS) kernel version...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7827-1: GStreamer Base Plugins vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7827-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7827-1"/>
-        <updated>2025-10-20T00:04:43.000Z</updated>
-        <summary type="html"><![CDATA[Shaun Mirani discovered that GStreamer Base Plugins did not correctly
-handle certain memory operations. An attacker could possibly use this issue
-to cause a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2922,26 +3029,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.phoronix.com/news/RDSEED-Disable-All-Zen-5"/>
         <updated>2025-10-18T10:48:33.000Z</updated>
         <summary type="html"><![CDATA[A few days back we reported on a Meta engineer uncovering an architectural issue with RDSEED usage on AMD EPYC 9005 "Turin" CPUs. It ended up being found to affect more CPU models than originally anticipated and a new patch posted to the Linux kernel mailing list would disable RDSEED usage across all AMD Zen 5 processors...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine-Staging 10.17 Lands Fix For 11 Year Old Bug Report Affecting Various Games]]></title>
-        <id>https://www.phoronix.com/news/Wine-Staging-10.17</id>
-        <link href="https://www.phoronix.com/news/Wine-Staging-10.17"/>
-        <updated>2025-10-18T10:29:32.000Z</updated>
-        <summary type="html"><![CDATA[Building off yesterday's release of Wine 10.17 is now wine-Staging 10.17 that is carrying 295 extra patches atop the upstream Wine codebase for testing at the leading edge of this open-source software for enjoying Windows games and applications on Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LACT 0.8.2 Released For Multi-Vendor Linux GPU Control GUI]]></title>
-        <id>https://www.phoronix.com/news/LACT-0.8.2-Released</id>
-        <link href="https://www.phoronix.com/news/LACT-0.8.2-Released"/>
-        <updated>2025-10-18T10:16:17.000Z</updated>
-        <summary type="html"><![CDATA[LACT 0.8.2 is out this weekend as the newest feature release to this Linux GPU control application. This Rust-based software provides a GUI for controlling AMD, NVIDIA, and Intel GPUs under Linux with various monitoring metrics, information reporting, power configuration, thermals configuration, and overclocking with supported hardware...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -3384,27 +3471,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7822-1: .NET vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7822-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7822-1"/>
-        <updated>2025-10-16T15:11:14.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that .NET did not properly handle the creation of temporary
-build time directories. An attacker could possibly use this issue to cause a
-denial of service. (CVE-2025-55247)
-
-It was discovered that .NET did not properly establish TLS sessions for
-SMTP server connections. An attacker could use this issue to cause .NET
-to use unencrypted connections. This issue only affects .NET versions 8.0
-and 9.0. (CVE-2025-55248)
-
-It was discovered that .NET inconsistently interpreted certain http
-requests. An attacker could possibly use this to bypass a security feature
-over a network. (CVE-2025-55315)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OnePlus představil operační systém OxygenOS 16 pro telefony a tablety]]></title>
         <id>www.root.cz-actuality-49749</id>
         <link href="https://www.root.cz/zpravicky/oneplus-predstavil-operacni-system-oxygenos-16-pro-telefony-a-tablety/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3448,25 +3514,6 @@ If you need to catch up on the tale of this copyright clash, it began in July, w
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7818-2: Apache Subversion vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7818-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7818-2"/>
-        <updated>2025-10-16T12:37:40.000Z</updated>
-        <summary type="html"><![CDATA[USN-7818-1 fixed vulnerabilities in Apache Subversion. This update provides
-the corresponding update for Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, Ubuntu
-22.04 LTS, and Ubuntu 24.04 LTS.
-
-Original advisory details:
-
- It was discovered that Apache Subversion incorrectly parsed control
- characters in filenames. An attacker could possibly use this issue to
- commit a corrupted revision to a repository, leading to a denial of
- service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3900,16 +3947,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark mode on Pokebeach]]></title>
-        <id>155851</id>
-        <link href="https://www.pokebeach.com/forums/threads/dark-mode-on-pokebeach.155851/"/>
-        <updated>2025-10-14T03:05:59.000Z</updated>
-        <summary type="html"><![CDATA[Seems like an obvious toggleable option to add.]]></summary>
-        <author>
-            <name>somesam</name>
         </author>
     </entry>
     <entry>
