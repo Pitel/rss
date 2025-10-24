@@ -1,25 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-24T20:15:52.709Z</id>
+    <id>urn:2025-10-24T22:13:42.568Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-10-24T20:15:52.709Z</updated>
+    <updated>2025-10-24T22:13:42.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[OpenGL Sees New Extensions Added To The Registry]]></title>
-        <id>https://www.phoronix.com/news/OpenGL-October-2025-Extensions</id>
-        <link href="https://www.phoronix.com/news/OpenGL-October-2025-Extensions"/>
-        <updated>2025-10-24T20:11:13.000Z</updated>
-        <summary type="html"><![CDATA[It's been rare in recent years seeing any new OpenGL extensions given the wild success these days of the Vulkan API with its vast hardware adoption and increasing software support around that modern graphics and compute API. Yet this October has been unusual with now seeing multiple new OpenGL extensions merged to the OpenGL registry...]]></summary>
+        <title type="html"><![CDATA[Halo’s Worst Level Is Getting Changed In The New PS5 Remake]]></title>
+        <id>https://kotaku.com/?p=2000638963</id>
+        <link href="https://kotaku.com/halos-worst-level-is-getting-changed-in-the-new-ps5-remake-2000638963"/>
+        <updated>2025-10-24T21:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Halo: Campaign Evolved is making some changes to The Library so it won't be as annoying
+The post <i>Halo’</i>s Worst Level Is Getting Changed In The New PS5 Remake appeared first on Kotaku.]]></summary>
         <author>
-            <name>Michael Larabel</name>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Mega Rising” Set Revealed for “Pocket” Featuring Mega Evolutions, App Celebrates 150 Million Downloads!]]></title>
+        <id>156479</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-rising%E2%80%9D-set-revealed-for-%E2%80%9Cpocket%E2%80%9D-featuring-mega-evolutions-app-celebrates-150-million-downloads.156479/"/>
+        <updated>2025-10-24T21:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Mega Rising will launch in Pokemon TCG Pocket on October 30th, featuring the game's first Mega Evolutions!
+
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+				
+			
+		
+
+As revealed...]]></summary>
+        <author>
+            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
         <title type="html"><![CDATA[Paldean Wooper and More English Cards Revealed from “Phantasmal Flames!”]]></title>
         <id>156481</id>
         <link href="https://www.pokebeach.com/forums/threads/paldean-wooper-and-more-english-cards-revealed-from-%E2%80%9Cphantasmal-flames-%E2%80%9D.156481/"/>
-        <updated>2025-10-24T20:06:51.000Z</updated>
+        <updated>2025-10-24T21:39:18.000Z</updated>
         <summary type="html"><![CDATA[More English cards have been revealed from Phantasmal Flames, which release worldwide on November 14th!
 
 			
@@ -50,6 +83,77 @@ The following cards were previously revealed, some in other languages...
 Continue reading...]]></summary>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Confirms Halo Will Be On PlayStation ‘Going Forward’]]></title>
+        <id>https://kotaku.com/?p=2000638951</id>
+        <link href="https://kotaku.com/halo-remake-campaign-evolved-playstation-cross-play-2000638951"/>
+        <updated>2025-10-24T21:09:51.000Z</updated>
+        <summary type="html"><![CDATA[Master Chief is a multiplatform boy now
+The post Microsoft Confirms <i>Halo</i> Will Be On PlayStation ‘Going Forward’ appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kotaku’s Weekend Guide: 4 Great Games We Can’t Wait To Get Back To]]></title>
+        <id>https://kotaku.com/?p=2000638933</id>
+        <link href="https://kotaku.com/kotaku-games-to-play-silent-hill-jurassic-world-dispatch-2000638933"/>
+        <updated>2025-10-24T21:02:22.000Z</updated>
+        <summary type="html"><![CDATA[This week we’ve got card games, bloody mannequins with knives, dinosaurs and more
+The post <i>Kotaku’</i>s Weekend Guide: 4 Great Games We Can’t Wait To Get Back To appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Claire Jackson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7833-3: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7833-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7833-3"/>
+        <updated>2025-10-24T20:29:03.000Z</updated>
+        <summary type="html"><![CDATA[Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
+and Flavien Solt discovered that some AMD processors may allow an attacker
+to infer data from previous stores, potentially resulting in the leakage of
+privileged information. A local attacker could possibly use this to expose
+sensitive information. (CVE-2024-36350, CVE-2024-36357)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - ACPI drivers;
+  - Serial ATA and Parallel ATA drivers;
+  - Drivers core;
+  - ATA over ethernet (AOE) driver;
+  - Ublk userspace block dri…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25 Years Later, Halo Is Finally Coming To PlayStation]]></title>
+        <id>https://kotaku.com/?p=2000638911</id>
+        <link href="https://kotaku.com/halo-1-remake-combat-evolved-trailer-hwc-teaser-xbox-ps5-2000638911"/>
+        <updated>2025-10-24T20:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Halo: Campaign Evolved arrives on PlayStation 5, Xbox Series X/S, and PC in 2026
+The post 25 Years Later, <i>Halo</i> Is Finally Coming To PlayStation appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenGL Sees New Extensions Added To The Registry]]></title>
+        <id>https://www.phoronix.com/news/OpenGL-October-2025-Extensions</id>
+        <link href="https://www.phoronix.com/news/OpenGL-October-2025-Extensions"/>
+        <updated>2025-10-24T20:11:13.000Z</updated>
+        <summary type="html"><![CDATA[It's been rare in recent years seeing any new OpenGL extensions given the wild success these days of the Vulkan API with its vast hardware adoption and increasing software support around that modern graphics and compute API. Yet this October has been unusual with now seeing multiple new OpenGL extensions merged to the OpenGL registry...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -1117,17 +1221,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet]]></title>
-        <id>https://kotaku.com/?p=2000638557</id>
-        <link href="https://kotaku.com/seagate-4tb-portable-hard-drive-hits-0-02-per-gb-the-cheapest-way-to-expand-xbox-or-playstation-storage-yet-2000638557"/>
-        <updated>2025-10-24T11:15:50.000Z</updated>
-        <summary type="html"><![CDATA[Save 25% on the Seagate external HDD with 4TB of storage capacity over at Amazon for a limited time.
-The post Seagate 4TB Portable Hard Drive Hits $0.02 per GB, the Cheapest Way to Expand Xbox or PlayStation Storage Yet appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Joe Tilleli</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Have Fallout 4 and New Vegas again, say Bethesda, and also a release date for Fallout 76's Burning Springs]]></title>
         <id>https://www.rockpapershotgun.com/have-fallout-4-and-new-vegas-again-say-bethesda-and-also-a-release-date-for-fallout-76s-burning-springs</id>
         <link href="https://www.rockpapershotgun.com/have-fallout-4-and-new-vegas-again-say-bethesda-and-also-a-release-date-for-fallout-76s-burning-springs"/>
@@ -1462,17 +1555,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Of The Biggest Competitive Pokémon Players Is Taking A Break Because Of Fan Harassment]]></title>
-        <id>https://kotaku.com/?p=2000638677</id>
-        <link href="https://kotaku.com/pokemon-wolfeyvgc-wolfe-glick-youtube-leaving-competitive-2000638677"/>
-        <updated>2025-10-24T01:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Wolfe 'Wolfey' Glick says fans have 'groped' him and otherwise overstepped at competitive events
-The post One Of The Biggest Competitive <em>Pokémon</em> Players Is Taking A Break Because Of Fan Harassment appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open 3D Engine (O3DE) 25.10]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/open-3d-engine-o3de-25.10</id>
         <link href="http://www.abclinuxu.cz/zpravicky/open-3d-engine-o3de-25.10"/>
@@ -1513,38 +1595,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Fedora 43 complete with its rocket-themed default desktop background on Fedora Workstation 43 is cleared for lifting off next week...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Mega Rising” Set Revealed for “Pocket” Featuring Mega Evolutions, App Celebrates 150 Million Downloads!]]></title>
-        <id>156479</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-rising%E2%80%9D-set-revealed-for-%E2%80%9Cpocket%E2%80%9D-featuring-mega-evolutions-app-celebrates-150-million-downloads.156479/"/>
-        <updated>2025-10-24T00:02:01.000Z</updated>
-        <summary type="html"><![CDATA[Mega Rising will launch in Pokemon TCG Pocket on October 30th, featuring the game's first Mega Evolutions!
-
-			
-				
-			
-			
-				
-			
-			
-				
-			
-			
-				
-			
-			
-				
-			
-			
-				
-			
-		
-
-As revealed...]]></summary>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1595,17 +1645,6 @@ It comes with five new promo cards: the two remaining Black Belt's Training and 
         <summary type="html"><![CDATA[Linuxová distribuce Fedora se řadí mezi projekty, které budou akceptovat příspěvky vytvořené s pomocí AI systémů. Čerstvě vzniklá politika k tomu stanovuje konkrétní podmínky. Je čas být opatrně optimistický, nebo balit bug-out-bag?]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Todd Howard Can’t Wait To Tell You All About Fallout 5, But Not Today]]></title>
-        <id>https://kotaku.com/?p=2000638661</id>
-        <link href="https://kotaku.com/todd-howard-bethesda-fallout-day-fallout-5-tease-event-remaster-2000638661"/>
-        <updated>2025-10-23T21:33:19.000Z</updated>
-        <summary type="html"><![CDATA[But hey, at least John Carpenter wished us all a happy Fallout Day!
-The post Todd Howard Can’t Wait To Tell You All About <i>Fallout 5</i>, But Not Today appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
         </author>
     </entry>
     <entry>
@@ -1836,17 +1875,6 @@ Luckily, the clearly Bojack Horseman-inspired game about trying to get some musi
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Video Game Controllers Need Back Paddles, Damn It]]></title>
-        <id>https://kotaku.com/?p=2000638652</id>
-        <link href="https://kotaku.com/god-of-war-20th-anniversary-dualsense-edge-controller-2000638652"/>
-        <updated>2025-10-23T19:45:26.000Z</updated>
-        <summary type="html"><![CDATA[The DualSense Edge has ruined me on other controllers, even this cool Kratos one
-The post All Video Game Controllers Need Back Paddles, Damn It appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
         </author>
     </entry>
     <entry>
@@ -3124,34 +3152,6 @@ Read more]]></summary>
         <id>https://ubuntu.com/security/notices/USN-7833-2</id>
         <link href="https://ubuntu.com/security/notices/USN-7833-2"/>
         <updated>2025-10-22T00:27:11.000Z</updated>
-        <summary type="html"><![CDATA[Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
-and Flavien Solt discovered that some AMD processors may allow an attacker
-to infer data from previous stores, potentially resulting in the leakage of
-privileged information. A local attacker could possibly use this to expose
-sensitive information. (CVE-2024-36350, CVE-2024-36357)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - RISC-V architecture;
-  - S390 architecture;
-  - x86 architecture;
-  - ACPI drivers;
-  - Serial ATA and Parallel ATA drivers;
-  - Drivers core;
-  - ATA over ethernet (AOE) driver;
-  - Ublk userspace block dri…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7834-1: Linux kernel (Azure) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7834-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7834-1"/>
-        <updated>2025-10-22T00:02:00.000Z</updated>
         <summary type="html"><![CDATA[Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
 and Flavien Solt discovered that some AMD processors may allow an attacker
 to infer data from previous stores, potentially resulting in the leakage of
