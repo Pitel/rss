@@ -1,24 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-07T03:07:07.664Z</id>
+    <id>urn:2025-11-07T04:17:17.357Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-11-07T03:07:07.664Z</updated>
+    <updated>2025-11-07T04:17:17.357Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[“Mega Dimension” DLC Releasing in December with Pokemon Exceeding Level 100, Mega Chimecho and Mega Baxcalibur Revealed!]]></title>
-        <id>156501</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dimension%E2%80%9D-dlc-releasing-in-december-with-pokemon-exceeding-level-100-mega-chimecho-and-mega-baxcalibur-revealed.156501/"/>
-        <updated>2025-11-07T02:47:26.000Z</updated>
+        <title type="html"><![CDATA[“Team Rocket’s Moltres ex Ultra-Premium Collection” Releasing at GameStop for Black Friday!]]></title>
+        <id>156502</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cteam-rocket%E2%80%99s-moltres-ex-ultra-premium-collection%E2%80%9D-releasing-at-gamestop-for-black-friday.156502/"/>
+        <updated>2025-11-07T04:07:19.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Team Rocket’s Moltres ex Ultra-Premium Collection” Releasing at GameStop for Black Friday!]]></title>
-        <id>156502</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cteam-rocket%E2%80%99s-moltres-ex-ultra-premium-collection%E2%80%9D-releasing-at-gamestop-for-black-friday.156502/"/>
-        <updated>2025-11-07T02:31:18.000Z</updated>
+        <title type="html"><![CDATA[Nintendo Announces 'My Mario' Yoshi App For Switch And Mobile Devices]]></title>
+        <id>https://www.nintendolife.com/#article-193555</id>
+        <link href="https://www.nintendolife.com/news/2025/11/nintendo-announces-my-mario-yoshi-app-for-switch-and-mobile-devices"/>
+        <updated>2025-11-07T03:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Following the release of 'Hello, Mario!' in August.
+
+Nintendo announced a new 'My Mario' campaign for parents and children in August, which included a whole range of themed products as well as a Mario-themed smartphone and Switch app.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Mega Dimension” DLC Releasing in December with Pokemon Exceeding Level 100, Mega Chimecho and Mega Baxcalibur Revealed!]]></title>
+        <id>156501</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dimension%E2%80%9D-dlc-releasing-in-december-with-pokemon-exceeding-level-100-mega-chimecho-and-mega-baxcalibur-revealed.156501/"/>
+        <updated>2025-11-07T03:14:42.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -1358,6 +1371,20 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7860-2: Linux kernel (Real-time) vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7860-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7860-2"/>
+        <updated>2025-11-06T13:32:32.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hyrule Warriors: Age Of Imprisonment's Ace Soundtrack Comes Courtesy Of NieR Composers]]></title>
         <id>https://www.nintendolife.com/#article-193521</id>
         <link href="https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonments-ace-soundtrack-comes-courtesy-of-nier-composers"/>
@@ -1593,6 +1620,43 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7835-5: Linux kernel (Oracle) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7835-5</id>
+        <link href="https://ubuntu.com/security/notices/USN-7835-5"/>
+        <updated>2025-11-06T11:12:21.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - ACPI drivers;
+  - Ublk userspace block driver;
+  - Clock framework and drivers;
+  - GPU drivers;
+  - IIO subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - MemoryStick subsystem;
+  - Network drivers;
+  - NTB driver;
+  - PCI subsystem;
+  - Remote Processor subsystem;
+  - Thermal drivers;
+  - Virtio Host (VHOST) subsystem;
+  - 9P distributed file system;
+  - File systems infrastructure;
+  - JFS file system;
+  - Network file system (NFS) server daemon;
+  - NTFS3 file system;
+  - SMB network file system;
+  - Memory management;
+  - RDMA…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Linux 6.18 Lands Electronic Privacy Screen Hotkey Handling For Some Dell Laptops]]></title>
         <id>https://www.phoronix.com/news/Linux-6.18-Electronic-Privacy</id>
         <link href="https://www.phoronix.com/news/Linux-6.18-Electronic-Privacy"/>
@@ -1623,6 +1687,39 @@ The conversation soon turned to Nintendo when the pair began to speak about earl
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7863-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7863-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7863-1"/>
+        <updated>2025-11-06T10:05:48.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - DMA engine subsystem;
+  - GPU drivers;
+  - HSI subsystem;
+  - Ethernet team driver;
+  - TTY drivers;
+  - Ext4 file system;
+  - Timer subsystem;
+  - DCCP (Datagram Congestion Control Protocol);
+  - IPv6 networking;
+  - NET/ROM layer;
+  - SCTP protocol;
+  - USB sound devices;
+(CVE-2021-47294, CVE-2021-47330, CVE-2023-52574, CVE-2023-52650,
+CVE-2024-50006, CVE-2024-50299, CVE-2024-53124, CVE-2024-53150,
+CVE-2024-56767, CVE-2025-37838, CVE-2025-38352)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1677,6 +1774,56 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Google představil nový ambiciózní projekt Suncatcher – vypuštění konstelace solárních družic vybavených vlastními procesory TPU (Tensor Processing Units), které budou tvořit orbitální datová centra pro umělou inteligenci. Mohl by se tím vyřešit hlavní problém současného růstu: nedostatek energie tady dole na planetě.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7862-1: Linux kernel vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7862-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7862-1"/>
+        <updated>2025-11-06T09:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7861-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7861-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7861-1"/>
+        <updated>2025-11-06T09:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS.
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - HSI subsystem;
+  - Bluetooth subsystem;
+  - Timer subsystem;
+(CVE-2025-37838, CVE-2025-38118, CVE-2025-38352)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7860-1: Linux kernel vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7860-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7860-1"/>
+        <updated>2025-11-06T09:02:26.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1894,19 +2041,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pokémon Legends Z-A Version 1.0.2 Is Now Live, Here Are The Full Patch Notes]]></title>
-        <id>https://www.nintendolife.com/#article-193493</id>
-        <link href="https://www.nintendolife.com/news/2025/11/pokemon-legends-z-a-version-1-0-2-is-now-live-here-are-the-full-patch-notes"/>
-        <updated>2025-11-06T01:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Update your copy today, trainers.
-
-Following the launch of Pokémon Legends Z-A on the Switch and Switch 2 in October, Game Freak has now rolled out Version 1.0.2.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Z GNOME Mutter zcela odstraněn backend X11]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/z-gnome-mutter-zcela-odstranen-backend-x11</id>
         <link href="http://www.abclinuxu.cz/zpravicky/z-gnome-mutter-zcela-odstranen-backend-x11"/>
@@ -2053,6 +2187,18 @@ Read more]]></summary>
         <updated>2025-11-05T16:18:08.000Z</updated>
         <author>
             <name>Jibber</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7859-1: Django vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7859-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7859-1"/>
+        <updated>2025-11-05T16:11:04.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Django incorrectly handled certain characters in
+queries. An attacker could possibly use this issue to execute arbitrary SQL
+commands.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2254,6 +2400,17 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7858-1: poppler vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7858-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7858-1"/>
+        <updated>2025-11-05T08:56:52.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that poppler incorrectly handled certain PDF files.
+An attacker could possibly use this issue to cause a crash.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pirate IPTV Empire Goes Dark in Brazil, Marketing the Common Denominator]]></title>
         <id>https://torrentfreak.com/?p=273821</id>
         <link href="https://torrentfreak.com/pirate-iptv-empire-goes-dark-in-brazil-marketing-the-common-denominator-251105/"/>
@@ -2373,6 +2530,18 @@ Xr Glimmer Version 1.0.0-alpha01]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7857-1: OpenStack Keystone vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7857-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7857-1"/>
+        <updated>2025-11-04T19:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Kay discovered that OpenStack Keystone incorrectly handled the ec2tokens
+and s3tokens APIs. A remote attacker could possibly use this issue to
+obtain unauthorized access and escalate privileges.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Benchmarking The AMD EPYC 9V64H: Azure HBv5's Custom AMD CPU With HBM3]]></title>
         <id>https://www.phoronix.com/review/azure-hbv5-amd-epyc-9v64h</id>
         <link href="https://www.phoronix.com/review/azure-hbv5-amd-epyc-9v64h"/>
@@ -2411,6 +2580,27 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Going all the way back to early 2024, Intel Linux engineers have been working on supporting an Adaptive Sharpening Filter new to Lunar Lake. While Lunar Lake later launched in September 2024, the Linux patches for this feature remained under review and discussion. Besides the Intel driver implementation itself for Lunar Lake and newer, it also ushers in a new DRM sharpness property to help standardize such functionality for user-space that could be used by other kernel graphics drivers. Finally with the upcoming Linux 6.19 kernel, this Intel Content Adaptive Sharpness Filter "CASF" feature is being introduced to the mainline kernel...]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7851-1: runC vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7851-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7851-1"/>
+        <updated>2025-11-04T15:36:31.000Z</updated>
+        <summary type="html"><![CDATA[Lei Wang and Li Fubang discovered that runC incorrectly handled masked
+paths. An attacker could possibly replace a container's /dev/null
+with a symlink to some other procfs file and possibly escape a container.
+(CVE-2025-31133)
+
+Lei Wang and Li Fubang discovered that runC incorrectly handled the
+/dev/console bind-mounts. An attacker could potentially exploit this issue
+to build-mount a symlink and escape a container. (CVE-2025-52565)
+
+Li Fubang and Tõnis Tiigi discovered that the fix for CVE-2019-16884 was
+incomplete. An attacker could possibly use this issue to cause a denial of
+service or escape the container. (CVE-2025-52881)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
