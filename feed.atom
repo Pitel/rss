@@ -1,10 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-10T10:18:13.830Z</id>
+    <id>urn:2025-11-10T12:30:17.437Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-11-10T10:18:13.830Z</updated>
+    <updated>2025-11-10T12:30:17.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux v prohlížeči ve Wasm]]></title>
+        <id>www.root.cz-actuality-50046</id>
+        <link href="https://www.root.cz/zpravicky/linux-v-prohlizeci-ve-wasm/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-11-10T12:15:21.000Z</updated>
+        <summary type="html"><![CDATA[Vývojář Joel Severin portoval linuxové jádro do WebAssembly (Wasm). Dokáže tedy běžet v prohlížeči. Pokud chcete debugovat, je doporučen prohlížeč založený na Chrome, protože Firefox má problémy s debugováním velkých Wasm projektů.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7865-1: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7865-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7865-1"/>
+        <updated>2025-11-10T12:06:59.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Virtio block driver;
+  - DMA engine subsystem;
+  - GPU drivers;
+  - HSI subsystem;
+  - Media drivers;
+  - Network drivers;
+  - Ethernet team driver;
+  - TTY drivers;
+  - Framebuffer layer;
+  - BTRFS file system;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - Timer subsystem;
+  - DCCP (Datagram Congestion Control Protocol);
+  - IPv6 networking;
+  - NET/ROM layer;
+  - Packet sockets;
+  - SCTP protocol;
+  - VMware vSockets driver;
+  - USB sound devices;
+(CVE-2021-47149, CVE-2021-47294, CVE-2021-47319, CVE-2021-47330,
+CVE-2021-47589, CVE-2023-52574, CVE-2023-52650, CVE-2024-27078,
+CVE-2024-35849, CVE-2024-49924, CVE-2024-50006, CVE-2024-50299,
+CVE-2024-53124, CVE-2024-53150, CVE-2024-56767, CVE-2025-21796,
+CVE-2025-37785, CVE-2025-37838, CVE-2025-38352, CVE-2025-38617,
+CVE-2025-38618)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[227 hours later, Football Manager 26 is both broken and, begrudgingly, brilliant]]></title>
+        <id>https://www.rockpapershotgun.com/227-hours-later-football-manager-26-is-both-broken-and-begrudgingly-brilliant</id>
+        <link href="https://www.rockpapershotgun.com/227-hours-later-football-manager-26-is-both-broken-and-begrudgingly-brilliant"/>
+        <updated>2025-11-10T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ask me what I’m thinking about, at a random moment any hour of the day. There’s a good chance that however you time it, the answer will be either Roma youth academy players, Goncalo Ramos’ egregious salary demands, or that time Maurizio Sarri bodied me in a press conference following our Derby della Capitale. By rights this should not be the case.
+Read more]]></summary>
+        <author>
+            <name>Phil Iwaniuk</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hollow Knight: Silksong Update Announced, Here Are The Patch Notes]]></title>
+        <id>https://www.nintendolife.com/#article-193643</id>
+        <link href="https://www.nintendolife.com/news/2025/11/hollow-knight-silksong-update-announced-here-are-the-patch-notes"/>
+        <updated>2025-11-10T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Including the implementation of a fan mod.
+Team Cherry has announced a new update for Hollow Knight: Silksong, and while it's already available for Steam users, it's been submitted for approval on console and will be available very soon.
+Primarily, the update addresses the Chinese translation issues present in the game by implementing a fan mod from Team Cart Fix. Team Cherry praises the team's work, stating that the individuals involved "are well-versed in the (quite dense) narrative and lore of both Hollow Knight games, and understand the subtle links and connections that should be retained in the text"
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot Engine – 2025 Showreel]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/godot-engine-2025-showreel</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/godot-engine-2025-showreel"/>
+        <updated>2025-11-10T11:25:10.000Z</updated>
+        <summary type="html"><![CDATA[Na YouTube lze zhlédnout Godot Engine – 2025 Showreel s ukázkami toho nejlepšího letos vytvořeného v multiplatformním open source herním enginu Godot.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POLYVAL Work Bringing More Performance Gains To Linux Crypto Subsystem]]></title>
+        <id>https://www.phoronix.com/news/Linux-POLYVAL-More-Crypto-Perf</id>
+        <link href="https://www.phoronix.com/news/Linux-POLYVAL-More-Crypto-Perf"/>
+        <updated>2025-11-10T11:07:55.000Z</updated>
+        <summary type="html"><![CDATA[Whenever seeing Linux kernel mailing list patches from Google engineer Eric Biggers it tends to be about performance optimizations to the Linux kernel's cryptography subsystem. That was once again the case on Sunday with the newest patch series providing some nice gains...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tencent Proposes Semantics-Aware vCPU Scheduling For Over-Subscribed KVM Linux VMs]]></title>
+        <id>https://www.phoronix.com/news/Tencent-vCPU-Over-Scheduling</id>
+        <link href="https://www.phoronix.com/news/Tencent-vCPU-Over-Scheduling"/>
+        <updated>2025-11-10T10:50:43.000Z</updated>
+        <summary type="html"><![CDATA[Tecent engineers have been working on addressing long-standing inefficiencies within the Linux kernel scheduler code around over-subscribed virtualized environments...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring Nightreign DLC's planned to drop by March next year, FromSoftware's big corporate bosses reveal]]></title>
+        <id>https://www.rockpapershotgun.com/elden-ring-nightreign-dlcs-planned-to-drop-by-march-next-year-fromsoftwares-big-corporate-bosses-reveal</id>
+        <link href="https://www.rockpapershotgun.com/elden-ring-nightreign-dlcs-planned-to-drop-by-march-next-year-fromsoftwares-big-corporate-bosses-reveal"/>
+        <updated>2025-11-10T10:39:16.000Z</updated>
+        <summary type="html"><![CDATA[Elden Ring Nightreign developers FromSoftware are planning to release some DLC for the action RPG by March 2026. That's according the latest financial report of FromSoft parent company Kadokawa, which has attached a window to the add-on Nightreign's promo material had already hinted would be in the pipeline.
+Call out to the people who're deep in the night of Nightreign's last addition so they hear. Tell them to scrabble around for a light switch so they can read the info. Remind them not to accidentally fondle a big boss as they paw along the walls. Actually, I'm sure they'll remember that anyway, since it's s-oh no.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fish 4.2 Shell Brings Interactive Improvements, Updated Rust Minimum Version]]></title>
+        <id>https://www.phoronix.com/news/Fish-4.2-Released</id>
+        <link href="https://www.phoronix.com/news/Fish-4.2-Released"/>
+        <updated>2025-11-10T10:18:55.000Z</updated>
+        <summary type="html"><![CDATA[Fish 4.2 is now available as the latest version of this popular shell on Linux, macOS, and other systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LoongArch LA32 Target Proposed For The GCC Compiler]]></title>
         <id>https://www.phoronix.com/news/LoongArch-32-bit-GCC-Patches</id>
@@ -28,6 +158,20 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7862-2: Linux kernel vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7862-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7862-2"/>
+        <updated>2025-11-10T09:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["I Just Hope To Stay Healthy" - Shigeru Miyamoto On Taking Further Steps Away From Development]]></title>
         <id>https://www.nintendolife.com/#article-193627</id>
         <link href="https://www.nintendolife.com/news/2025/11/i-just-hope-to-stay-healthy-shigeru-miyamoto-on-taking-further-steps-away-from-development"/>
@@ -38,6 +182,20 @@ In a new interview with Casa Brutus (thanks, VGC), Miyamoto hints toward taking 
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7860-5: Linux kernel (HWE) vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7860-5</id>
+        <link href="https://ubuntu.com/security/notices/USN-7860-5"/>
+        <updated>2025-11-10T09:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -84,10 +242,10 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.destructoid.com/?p=1139240</id>
         <link href="https://www.destructoid.com/how-to-complete-a-new-type-of-plant-in-arc-raiders/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-complete-a-new-type-of-plant-in-arc-raiders"/>
         <updated>2025-11-10T08:58:37.000Z</updated>
-        <summary type="html"><![CDATA[A New Type of Plant can be a hard or an easy task in ARC Raiders, depending on how well you can spot things in the open.
+        <summary type="html"><![CDATA[A New Type of Plant can be a tough task in ARC Raiders, though it does depend on how well you can spot things in the open.
 
 
-You begin the quest after obtaining it from Lance, who wants you to find a possibly toxic plant. This guide will help you complete the quest without any problems at all.
+You obtain the quest from Lance, who wants you to find a possibly toxic plant. This guide will help you complete the quest without issue.
 
 
 Table of contents
@@ -109,19 +267,19 @@ Deliver the Possibly Toxic Plant to Lance
 
 
 
-The first task is to locate Baron Husk. You can find the debris of this massive ARC in the Old Battleground location of Dam Battlegrounds. You'll find Old Battleground POI on the western part of the map, and I have marked its exact location. Once you're there, you should be able to spot the Baron Husk quite easily due to its enormous size.
+The first task is to locate Baron Husk. You can find the debris of this massive ARC in the Old Battleground location of Dam Battlegrounds. You'll find the Old Battleground POI on the western part of the map, and I have marked its exact location. Once you're there, you should be able to spot the Baron Husk quite easily due to its enormous size.
 
 
 Baron Husk location. Screenshot and Remix by Destructoid
 
 
-The toxic plant spawns randomly on the map, but you should find it near Baron Husk. They have the same size as the Great Mullein, but have an orange-colored top part. You'll need to collect just one to complete the quest.
+The toxic plant spawns randomly on the map, but you should find it near Baron Husk. They are the same size as the Great Mullein, but have orange fruits or flowers blooming from the top. You'll need to collect just one to complete the quest.
 
 
 Toxic plant around Baron Husk. Screenshot by Destructoid
 
 
-You'll also have to bring the plant back safely to Speranza in your inventory. To raise the chances of your success, you can move it to your safe pocket. There's a nearby lift from this location, so extraction shouldn't be a problem. Speak with Lance when you're back in Speranza and hand him the plant to complete the quest.
+You'll also have to bring the plant back safely to Speranza in your inventory, so it might be best to move it to your safe pocket. There's a nearby lift from this location, so extraction shouldn't be a problem. Speak with Lance when you're back in Speranza and hand him the plant to complete the quest.
 
 
 ARC Raiders A New Type of Plant quest rewards
@@ -2467,19 +2625,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Digital Foundry Delivers Its Tech Verdict On Hyrule Warriors: Age Of Imprisonment]]></title>
-        <id>https://www.nintendolife.com/#article-193582</id>
-        <link href="https://www.nintendolife.com/news/2025/11/digital-foundry-delivers-its-tech-verdict-on-hyrule-warriors-age-of-imprisonment"/>
-        <updated>2025-11-07T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[How is it holding up?
-Hyrule Warriors: Age of Imprisonment is out now for the Nintendo Switch 2, and our pals over at Digital Foundry have presented their tech verdict on the new title from developer AAA Games Studio.
-In a nutshell, it's pretty decent! With its 40GB+ file size, the game utilises dynamic resolution scaling, with docked mode putting out anything between 720p and 900p, while handheld mode delivers between 468p to 648p. DF states that these resolution targets are generally pretty good considering the effects-heavy gameplay.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USN-7853-3: Linux kernel (Azure) vulnerabilities]]></title>
         <id>https://ubuntu.com/security/notices/USN-7853-3</id>
         <link href="https://ubuntu.com/security/notices/USN-7853-3"/>
@@ -2600,16 +2745,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mesa Lands Fixes For HDR With Vulkan Drivers]]></title>
-        <id>https://www.phoronix.com/news/Mesa-Vulkan-HDR-Fixes</id>
-        <link href="https://www.phoronix.com/news/Mesa-Vulkan-HDR-Fixes"/>
-        <updated>2025-11-07T10:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Merged overnight to Mesa 26.0-devel and likely to be back-ported for the upcoming Mesa 25.3 release are a few fixes around high dynamic range (HDR) support within the common Vulkan windowing system integration (WSI) / display code...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Paměti DDR4 a DDR5 stojí téměř dvojnásobek]]></title>
         <id>www.root.cz-actuality-50010</id>
         <link href="https://www.root.cz/zpravicky/pameti-ddr4-a-ddr5-stoji-temer-dvojnasobek/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2676,16 +2811,6 @@ This update corrects flaws in the following subsystems:
 CVE-2025-38618)]]></summary>
         <author>
             <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kit je nový maskot Firefoxu]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/kit-je-novy-maskot-firefoxu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/kit-je-novy-maskot-firefoxu"/>
-        <updated>2025-11-07T09:14:04.000Z</updated>
-        <summary type="html"><![CDATA[Kit je nový maskot webového prohlížeče Firefox.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2783,16 +2908,6 @@ This update corrects flaws in the following subsystems:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu Server 25.10 Performance On AMD EPYC With "amd64v3" Optimized Packages]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-Server-25.10-amd64v3</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-Server-25.10-amd64v3"/>
-        <updated>2025-11-07T01:39:11.000Z</updated>
-        <summary type="html"><![CDATA[Last week Canonical announced Ubuntu "architecture variants" with initially supporting "amd64v3" optimized packages built using the x86_64-v3 micro-architecture feature level. For this initial debut in the Ubuntu 25.10 archive an initial subset of packages are built using that higher feature level that can assume AVX/AVX2 and other more recent CPU ISA additions. More details on that and some initial desktop benchmarks can be found within the Ubuntu 25.10 amd64v3 Benchmarks article. Complementing that are some Ubuntu Server 25.10 benchmarks carried out on an AMD EPYC "Turin" server of the base amd64 packages versus amd64v3...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Týden na ScienceMag.cz: Výzkum trpasličích galaxií preferuje temnou hmotu před modifikovanou gravitací]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-vyzkum-trpaslicich-galaxii-preferuje-temnou-hmotu-pred-modifikovanou-gravitaci</id>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-vyzkum-trpaslicich-galaxii-preferuje-temnou-hmotu-pred-modifikovanou-gravitaci"/>
@@ -2841,16 +2956,6 @@ Below is a list of general fixes in Android Studio Otter 2 Feature Drop | 2025.2
 reports, which help us to make Android Studio better. If y…]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archinstall 3.0.13 Adds WiFi Connection Menu To Arch Linux Installer]]></title>
-        <id>https://www.phoronix.com/news/Archinstall-3.0.13-Released</id>
-        <link href="https://www.phoronix.com/news/Archinstall-3.0.13-Released"/>
-        <updated>2025-11-06T19:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Just days after the Archinstall 3.0.12 release for this text-based Arch Linux installer, Archinstall 3.0.13 is now available to deliver a new feature. That new feature is a text-based interface for being able to connect to a WiFi network within Archinstall...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2980,76 +3085,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7835-5: Linux kernel (Oracle) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7835-5</id>
-        <link href="https://ubuntu.com/security/notices/USN-7835-5"/>
-        <updated>2025-11-06T11:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - ACPI drivers;
-  - Ublk userspace block driver;
-  - Clock framework and drivers;
-  - GPU drivers;
-  - IIO subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - MemoryStick subsystem;
-  - Network drivers;
-  - NTB driver;
-  - PCI subsystem;
-  - Remote Processor subsystem;
-  - Thermal drivers;
-  - Virtio Host (VHOST) subsystem;
-  - 9P distributed file system;
-  - File systems infrastructure;
-  - JFS file system;
-  - Network file system (NFS) server daemon;
-  - NTFS3 file system;
-  - SMB network file system;
-  - Memory management;
-  - RDMA…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7863-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7863-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7863-1"/>
-        <updated>2025-11-06T10:05:48.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - DMA engine subsystem;
-  - GPU drivers;
-  - HSI subsystem;
-  - Ethernet team driver;
-  - TTY drivers;
-  - Ext4 file system;
-  - Timer subsystem;
-  - DCCP (Datagram Congestion Control Protocol);
-  - IPv6 networking;
-  - NET/ROM layer;
-  - SCTP protocol;
-  - USB sound devices;
-(CVE-2021-47294, CVE-2021-47330, CVE-2023-52574, CVE-2023-52650,
-CVE-2024-50006, CVE-2024-50299, CVE-2024-53124, CVE-2024-53150,
-CVE-2024-56767, CVE-2025-37838, CVE-2025-38352)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Football Manager 26 subs in a big beta patch with over 300 fixes and improvements, following polarising launch]]></title>
         <id>https://www.rockpapershotgun.com/football-manager-26-subs-in-a-big-beta-patch-with-over-300-fixes-and-improvements-following-polarising-launch</id>
         <link href="https://www.rockpapershotgun.com/football-manager-26-subs-in-a-big-beta-patch-with-over-300-fixes-and-improvements-following-polarising-launch"/>
@@ -3068,20 +3103,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Google představil nový ambiciózní projekt Suncatcher – vypuštění konstelace solárních družic vybavených vlastními procesory TPU (Tensor Processing Units), které budou tvořit orbitální datová centra pro umělou inteligenci. Mohl by se tím vyřešit hlavní problém současného růstu: nedostatek energie tady dole na planetě.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7862-1: Linux kernel vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7862-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7862-1"/>
-        <updated>2025-11-06T09:16:50.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3218,16 +3239,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/chysta-se-nova-sluzba-systemd-appd-pro-lepsi-beh-aplikaci-z-flatpaku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2025-11-05T14:56:11.000Z</updated>
         <summary type="html"><![CDATA[V době vydání specifikace Flatpak 1.17 přináší vývojář Sebastian Wick informace z vývoje Flatpaků, včetně do budoucna hledící připravované komponenty systemd-appd, která by měla systému Flatpaků v budoucnu sloužit na systémové úrovni.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LXQt 2.3.0 dále vylepšuje podporu Waylandu]]></title>
-        <id>www.root.cz-actuality-49977</id>
-        <link href="https://www.root.cz/zpravicky/lxqt-2-3-0-dale-vylepsuje-podporu-waylandu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-11-05T14:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Nová verze 2.3.0 desktopového prostředí Lightweight Qt Desktop Environment, tedy LXQt, je na světě. Tvůrci dále vylepšili podporu Waylandu, konkrétně vypichují vylepšení v LXQt Panelu, jehož Desktop Switcher je nyní podporován s Labwc, Niri, a dalšími kompozitory (s podporou protokolu ext-workspaces-v1). Přibyl také specifický backend pro Wayfire a došlo i na flexibilnější systém uživatelských příkazů, ať už na Waylandu, nebo X11.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -4512,29 +4523,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/ron-gilberts-new-death-by-scrolling-rpg-about-never-ending-grind-and-the-absurdity-of-social-media-is-out-now"/>
         <updated>2025-10-28T13:11:26.000Z</updated>
         <summary type="html"><![CDATA[For too long have you remembered Ron Gilbert as the peddler of point-and-click adventure game comedies like The Secret of Monkey Island, despite his long history of forays into other genres. From now on, you are only allowed to remember him as the purveyor of Dragon Quest-flavoured perpetual motion machines that satirise bureaucracy and precarity. I'm referring to Death By Scrolling, Gilbert's latest project with Terrible Toybox NZ and publishers MicroProse. MicroProse? This seems awfully intuitive for that brand. Barely a dial or a light-up acronym to be seen.
- 
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA's big AI push is reportedly leading to staff concerns about "flawed code" and setting up your own layoff]]></title>
-        <id>https://www.rockpapershotgun.com/eas-big-ai-push-is-reportedly-leading-to-staff-concerns-about-flawed-code-and-setting-up-your-own-layoff</id>
-        <link href="https://www.rockpapershotgun.com/eas-big-ai-push-is-reportedly-leading-to-staff-concerns-about-flawed-code-and-setting-up-your-own-layoff"/>
-        <updated>2025-10-28T13:09:55.000Z</updated>
-        <summary type="html"><![CDATA[Workers at soon to be under new ownership Electronic Arts are reportedly struggling with a push from management towards trying to use AI for "just about everything". That's according to a new report, which claims staff are concerned about the likes of code mistakes they'll then have to clean up and the tech being trained to replace them.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US immigration enforcers use Halo art to promote mass detention, while the White House and Gamestop swap Master Trump memes]]></title>
-        <id>https://www.rockpapershotgun.com/us-immigration-enforcers-use-halo-art-to-promote-mass-detention-while-the-white-house-and-gamestop-swap-master-trump-memes</id>
-        <link href="https://www.rockpapershotgun.com/us-immigration-enforcers-use-halo-art-to-promote-mass-detention-while-the-white-house-and-gamestop-swap-master-trump-memes"/>
-        <updated>2025-10-28T12:04:26.000Z</updated>
-        <summary type="html"><![CDATA[The USA's Immigration Customs Enforcement service, aka ICE, have started using imagery of Microsoft's sci-fi shooter Halo for recruitment posts on social media, even as Gamestop and the US administration indulge in some bantz characterising Donald Trump as Master Chief, and even as Microsoft attempt to flog a new Halo game.
  
 Read more]]></summary>
         <author>
