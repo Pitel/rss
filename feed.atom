@@ -1,10 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-23T10:14:18.382Z</id>
+    <id>urn:2025-11-23T12:25:51.647Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-11-23T10:14:18.382Z</updated>
+    <updated>2025-11-23T12:25:51.647Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-786</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-786"/>
+        <updated>2025-11-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for turning finally accepting it’s become Big Coat Weather by stripping off the nine-month-old dry cleaning plastic sheath from said Big Coat, slipping into the sleeves, and exhaling a relieved sigh upon discovering it still fits. Not this year, Popeyes Spicy Chicken Sandwich. Not this year.
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Patches Improve Intel Nested VM Memory Performance Up To ~2353x In Synthetic Test]]></title>
+        <id>https://www.phoronix.com/news/Intel-Nested-VM-Faster-Memory</id>
+        <link href="https://www.phoronix.com/news/Intel-Nested-VM-Faster-Memory"/>
+        <updated>2025-11-23T11:48:00.000Z</updated>
+        <summary type="html"><![CDATA[AWS engineers have been working on Linux kernel improvements to KVM's VMX code for enhancing the unamanged guest memory when dealing with nested virtual machines. The improved code addresses some correctness issues as well as delivering wild performance improvements within a synthetic benchmark...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“MEGA Dream ex” Full Main Set Revealed!]]></title>
+        <id>156533</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dream-ex%E2%80%9D-full-main-set-revealed.156533/"/>
+        <updated>2025-11-23T11:47:29.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glibc Math Code Sees 4x Improvement On AMD Zen By Changing FMA Implementation]]></title>
+        <id>https://www.phoronix.com/news/Glibc-4x-FMA-Improvement-Zen</id>
+        <link href="https://www.phoronix.com/news/Glibc-4x-FMA-Improvement-Zen"/>
+        <updated>2025-11-23T11:31:03.000Z</updated>
+        <summary type="html"><![CDATA[Merged this week to the GNU C Library "glibc" code is dropping the ldbl-96 FMA implementation from this library as in doing so they found a 4x improvement to throughput and latency on AMD Zen 3 hardware...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Official Magazine 159]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/raspberry-pi-official-magazine-159</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/raspberry-pi-official-magazine-159"/>
+        <updated>2025-11-23T11:24:11.000Z</updated>
+        <summary type="html"><![CDATA[Nové číslo časopisu Raspberry Pi zdarma ke čtení: Raspberry Pi Official Magazine 159 (pdf).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Looks To Bring JPEG-XL Support Back To Chrome / Chromium]]></title>
+        <id>https://www.phoronix.com/news/JPEG-XL-Possible-Chrome-Back</id>
+        <link href="https://www.phoronix.com/news/JPEG-XL-Possible-Chrome-Back"/>
+        <updated>2025-11-23T11:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2022 was the surprising decision by Google that they were going to deprecate JPEG-XL image support in Chrome. By the end of 2022 they went ahead and removed JPEG-XL support from Chrome/Chromium to the frustration of many web developers and end-users interested in this image format. Now though as we get ready to roll into 2026, Google engineers are looking at bringing back JPEG-XL support to the Chrome web browser...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl - SNES Classic Mini Console]]></title>
+        <id>https://www.nintendolife.com/#article-194229</id>
+        <link href="https://www.nintendolife.com/features/poll-box-art-brawl-snes-classic-mini-console"/>
+        <updated>2025-11-23T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Which Mini is Mightiest?
+Hello folks, and welcome back to another edition of Box Art Brawl!
+Last time, we looked at Inazuma Eleven for the DS, which resulted in a heated battle in which Europe emerged triumphant against Japan with 71% of the vote. Well done!
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare Says Piracy Liability Ruling Has Global Implications; Publishers Disagree]]></title>
         <id>https://torrentfreak.com/?p=274551</id>
@@ -14,15 +87,6 @@
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“MEGA Dream ex” Full Main Set Revealed!]]></title>
-        <id>156533</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dream-ex%E2%80%9D-full-main-set-revealed.156533/"/>
-        <updated>2025-11-23T07:45:58.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -2411,19 +2475,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Game Of The Year Nominee Donkey Kong Bananza Wins Critics' Choice Award]]></title>
-        <id>https://www.nintendolife.com/#article-194187</id>
-        <link href="https://www.nintendolife.com/news/2025/11/game-of-the-year-nominee-donkey-kong-bananza-wins-critics-choice-award"/>
-        <updated>2025-11-21T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA["You did it, DK!".
-
-Donkey Kong Bananza is considered one of the standout video games of 2025, and the Switch 2 exclusive has now been officially recognised at the 43rd annual Golden Joystick Awards as the recipient of the Critics' Choice Award.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel Compute Runtime 25.44.36015.5 Brings More Performance Optimizations & Features]]></title>
         <id>https://www.phoronix.com/news/Intel-CR-25.44.36015.5</id>
         <link href="https://www.phoronix.com/news/Intel-CR-25.44.36015.5"/>
@@ -2716,16 +2767,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rusticl Has Turned Out Remarkably Well For Open-Source OpenCL For Mesa Drivers]]></title>
-        <id>https://www.phoronix.com/news/Rusticl-XDC2025</id>
-        <link href="https://www.phoronix.com/news/Rusticl-XDC2025"/>
-        <updated>2025-11-20T11:27:13.000Z</updated>
-        <summary type="html"><![CDATA[Rusticl as a modern OpenCL implementation for Mesa Gallium3D drivers has turned out remarkably well. Rusticl performance has evolved quite well for this Rust-based OpenCL driver and it continues tacking on new features / OpenCL extensions as well as working gracefully with more Mesa drivers. Rusticl lead developer Karol Herbst presented on some of the recent accomplishments for this driver back at XDC2025...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Magika je utilita od Googlu pro detekci typů souborů založená na strojovém učení]]></title>
         <id>www.root.cz-actuality-50187</id>
         <link href="https://www.root.cz/zpravicky/magika-je-utilita-od-googlu-pro-detekci-typu-souboru-zalozena-na-strojovem-uceni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2733,16 +2774,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Detekce typu souboru podle jeho obsahu je dlouhodobým a komplikovaným problémem. Obvyklé nástroje, jako je klasická utilita file, se při určování formátů spoléhají na ručně vytvořené heuristiky. Ty ale vyžadují neustálou údržbu pravidel a jsou křehké vzhledem k průběžně se vyvíjejícím formátům.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Preps Linux KVM For Diamond Rapids' AVX10.2 & Expanded AMX]]></title>
-        <id>https://www.phoronix.com/news/Intel-Diamond-Rapids-KVM</id>
-        <link href="https://www.phoronix.com/news/Intel-Diamond-Rapids-KVM"/>
-        <updated>2025-11-20T10:58:40.000Z</updated>
-        <summary type="html"><![CDATA[The latest feature enablement work happening by Intel for the Linux kernel with next-generation Diamond Rapids server processors are the adjustments to the Kernel-based Virtual Machine (KVM) for readying the new CPU ISA capabilities for a virtualized world...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2849,32 +2880,12 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Home Assistant Connect ZBT-2]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/home-assistant-connect-zbt-2</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/home-assistant-connect-zbt-2"/>
-        <updated>2025-11-20T04:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Home Assistant včera představil svůj nejnovější oficiální hardware: Home Assistant Connect ZBT-2 pro připojení zařízení na sítích Zigbee nebo Thread.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kingambit from “MEGA Dream ex” Revealed!]]></title>
         <id>156525</id>
         <link href="https://www.pokebeach.com/forums/threads/kingambit-from-%E2%80%9Cmega-dream-ex%E2%80%9D-revealed.156525/"/>
         <updated>2025-11-20T03:35:26.000Z</updated>
         <author>
             <name>koala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MEMINSPECT Proposed For The Linux Kernel To Help In Memory Analysis / Debugging]]></title>
-        <id>https://www.phoronix.com/news/Linux-MEMINSPECT-Patches</id>
-        <link href="https://www.phoronix.com/news/Linux-MEMINSPECT-Patches"/>
-        <updated>2025-11-20T01:51:32.000Z</updated>
-        <summary type="html"><![CDATA[A patch series sent out today on the Linux kernel mailing list proposes "MEMINSPECT" as a new mechanism for helping with memory analysis...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4708,18 +4719,6 @@ Read more]]></summary>
         <updated>2025-11-12T18:00:19.000Z</updated>
         <summary type="html"><![CDATA[Anyone who appreciated the weirdness of the original Steam Controller – and it still has its fans, despite ceasing production in 2019 – might look at this new version and think "Oi, that’s just a Steam Deck with the screen cut out." An accusation to which Valve, one suspects, might respond by slowly leaning forwards, eyes so wide they resemble the old version’s trackpads, staring the increasingly frightened sceptic in the face and whispering: "Yes."
 Except the new Steam Controller has more to it than merely transplanting the Deck inputs to a homebound gamepad. Having squeezed, caressed, and on a couple of occasions nearly dropped it on the floor of Valve HQ last month, I can tell it’s already boding well not just as a controller for mouse-minded PC games, but as a general purpose pad for everything else.
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hands-on with the new Steam Machine, Valve’s square shot at SteamOS PC redemption]]></title>
-        <id>https://www.rockpapershotgun.com/hands-on-with-the-new-steam-machine-valves-square-shot-at-steamos-pc-redemption</id>
-        <link href="https://www.rockpapershotgun.com/hands-on-with-the-new-steam-machine-valves-square-shot-at-steamos-pc-redemption"/>
-        <updated>2025-11-12T18:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Remember Steam Machines? Valve do, and they’re making a new one. The circa-2026 Steam Machine (it’s out early next year, date and prices TBC) seeks to cleanse the bad juju of that previous attempt at bringing SteamOS mini-PCs to the masses, bringing together a decade's worth of hardware and software improvements – including some lessons learned from the far more successful Steam Deck.
-Speaking of, when I visited Valve last month to try the Steam Machine for myself – along with the matching new Steam Controller and Steam Frame VR headset – I repeatedly heard it pitched as an upgrade for Deck owners who plant their handheld in a docking station and use it as a living room PC. Also like the Deck, there's only one, entirely Valve-made design, ditching the partner-manufacturer model that produced a sometimes confusing multitude of different Machines back in 2015. Well, at the very least, that’ll make previewing it a lot easier.
 Read more]]></summary>
         <author>
             <name>James Archer</name>
