@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-23T03:23:03.292Z</id>
+    <id>urn:2025-11-23T04:29:12.950Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-11-23T03:23:03.292Z</updated>
+    <updated>2025-11-23T04:29:12.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA["Ascended Heroes" Prospective setlist, but with numbering.]]></title>
+        <id>156535</id>
+        <link href="https://www.pokebeach.com/forums/threads/ascended-heroes-prospective-setlist-but-with-numbering.156535/"/>
+        <updated>2025-11-23T03:37:14.000Z</updated>
+        <author>
+            <name>Who?</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“MEGA Dream ex” Special Set Officially Revealed Starring Mega Dragonite ex!]]></title>
         <id>156503</id>
@@ -802,15 +811,6 @@ With this in mind, the latest one is now live and it offers up a Whimsicott base
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Ascended Heroes" Prospective setlist, but with numbering.]]></title>
-        <id>156535</id>
-        <link href="https://www.pokebeach.com/forums/threads/ascended-heroes-prospective-setlist-but-with-numbering.156535/"/>
-        <updated>2025-11-22T06:29:53.000Z</updated>
-        <author>
-            <name>Who?</name>
         </author>
     </entry>
     <entry>
@@ -1824,37 +1824,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7880-1: Linux kernel (OEM) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7880-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7880-1"/>
-        <updated>2025-11-21T15:57:32.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
-allow a local attacker with hypervisor access to overwrite SEV-SNP guest
-memory resulting in loss of data integrity. (CVE-2024-36331)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - S390 architecture;
-  - x86 architecture;
-  - Network block device driver;
-  - Character device driver;
-  - Clock framework and drivers;
-  - Data acquisition framework and drivers;
-  - Hardware crypto device drivers;
-  - Device frequency scaling framework;
-  - DMA engine subsystem;
-  - GPU drivers;
-  - HID subsystem;
-  - Hardware monitoring drivers;
-  - I2C…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[All Weapons & Accessories in Anime Weapons – Drop Locations]]></title>
         <id>https://www.destructoid.com/?p=1144946</id>
         <link href="https://www.destructoid.com/all-weapons-and-accessories-in-anime-weapons/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-weapons-and-accessories-in-anime-weapons"/>
@@ -1890,37 +1859,6 @@ Weapons in Anime Weapons drop from specific enemies and bosses which I'll show y
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7879-2: Linux kernel (Real-time) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7879-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7879-2"/>
-        <updated>2025-11-21T15:45:02.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
-allow a local attacker with hypervisor access to overwrite SEV-SNP guest
-memory resulting in loss of data integrity. (CVE-2024-36331)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - S390 architecture;
-  - x86 architecture;
-  - Network block device driver;
-  - Character device driver;
-  - Clock framework and drivers;
-  - Data acquisition framework and drivers;
-  - Hardware crypto device drivers;
-  - Device frequency scaling framework;
-  - DMA engine subsystem;
-  - EDAC drivers;
-  - GPU drivers;
-  - HID subsystem;
-  - Hardware monitorin…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PUBG: Black Budget is an extraction shooter spin-off with an island trapped in a time loop of supernatural munching]]></title>
         <id>https://www.rockpapershotgun.com/pubg-black-budget-is-an-extraction-shooter-spin-off-with-an-island-trapped-in-time-loop-of-supernatural-munching</id>
         <link href="https://www.rockpapershotgun.com/pubg-black-budget-is-an-extraction-shooter-spin-off-with-an-island-trapped-in-time-loop-of-supernatural-munching"/>
@@ -1939,37 +1877,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Germany's Sovereign Tech Fund / Sovereign Tech Agency has been a godsend the past few years for the open-source community. This funding from the German government has led to significant funding for dozens of prominent open-source infrastructure projects to provide more resources for enhancing security, enabling new features, and more. As the Sovereign Tech Fund prepares for the next phase of growth, they are hiring a new head to lead the efforts...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7879-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7879-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7879-1"/>
-        <updated>2025-11-21T15:26:39.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
-allow a local attacker with hypervisor access to overwrite SEV-SNP guest
-memory resulting in loss of data integrity. (CVE-2024-36331)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - S390 architecture;
-  - x86 architecture;
-  - Network block device driver;
-  - Character device driver;
-  - Clock framework and drivers;
-  - Data acquisition framework and drivers;
-  - Hardware crypto device drivers;
-  - Device frequency scaling framework;
-  - DMA engine subsystem;
-  - EDAC drivers;
-  - GPU drivers;
-  - HID subsystem;
-  - Hardware monitorin…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2532,20 +2439,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7876-1: ImageMagick vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7876-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7876-1"/>
-        <updated>2025-11-20T17:46:10.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that ImageMagick did not properly handle memory when
-encoding BMP images. An attacker could possibly use this issue to cause
-ImageMagick to crash, resulting in a denial of service, or possibly
-execute arbitrary code. This issue exists due to an incomplete fix for
-CVE-2025-57803.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Updated Steam Runtime Switches To Debian 13 Libraries, SDL2 Using Compatibility Layer]]></title>
         <id>https://www.phoronix.com/news/Steam-Runtime-November-2025</id>
         <link href="https://www.phoronix.com/news/Steam-Runtime-November-2025"/>
@@ -2575,31 +2468,6 @@ CVE-2025-57803.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7878-1: cups-filters vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7878-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7878-1"/>
-        <updated>2025-11-20T16:04:31.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that cups-filters incorrectly handled certain malformed
-TIFF image files. A remote attacker could use this issue to cause
-cups-filters to crash, resulting in a denial of service, or possibly
-execute arbitrary code. This issue only affected Ubuntu 16.04 LTS,
-Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, and Ubuntu 22.04 LTS. (CVE-2025-57812)
-
-It was discovered that cups-filters incorrectly handled certain malformed
-PDF document files. A remote attacker could use this issue to cause
-cups-filters to crash, resulting in a denial of service, or possibly
-execute arbitrary code. This issue only affected Ubuntu 16.04 LTS,
-Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, and Ubuntu 22.04 LTS. (CVE-2025-64503)
-
-It was discovered that cups-filters incorrectly handled certain malformed
-CUPS Raster files. A remote attacker could use this issue to cause
-cups-filters to crash, resulting in a denial of service, or possibly
-execute arbitrary code. (CVE-2025-64524)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arc Raiders' latest update nerfs an overperforming pistol, rebalances boom damage and also has ducks]]></title>
         <id>https://www.rockpapershotgun.com/arc-raiders-latest-update-nerfs-an-overperforming-pistol-rebalances-boom-damage-and-also-has-ducks</id>
         <link href="https://www.rockpapershotgun.com/arc-raiders-latest-update-nerfs-an-overperforming-pistol-rebalances-boom-damage-and-also-has-ducks"/>
@@ -2608,24 +2476,6 @@ execute arbitrary code. (CVE-2025-64524)]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7877-1: libcupsfilters vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7877-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7877-1"/>
-        <updated>2025-11-20T15:50:38.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that libcupsfilters incorrectly handled certain malformed
-TIFF image files. A remote attacker could use this issue to cause
-libcupsfilters to crash, resulting in a denial of service, or possibly
-execute arbitrary code. (CVE-2025-57812)
-
-It was discovered that libcupsfilters incorrectly handled certain malformed
-PDF document files. A remote attacker could use this issue to cause
-libcupsfilters to crash, resulting in a denial of service, or possibly
-execute arbitrary code. (CVE-2025-64503)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2938,74 +2788,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7861-4: Linux kernel (AWS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7861-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-7861-4"/>
-        <updated>2025-11-19T21:06:49.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - HSI subsystem;
-  - Bluetooth subsystem;
-  - Timer subsystem;
-(CVE-2025-37838, CVE-2025-38118, CVE-2025-38352)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7875-1: Linux kernel (Oracle) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7875-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7875-1"/>
-        <updated>2025-11-19T21:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - DMA engine subsystem;
-  - GPU drivers;
-  - HSI subsystem;
-  - Media drivers;
-  - Ethernet team driver;
-  - SPI subsystem;
-  - USB core drivers;
-  - Framebuffer layer;
-  - BTRFS file system;
-  - Ext4 file system;
-  - Network file system (NFS) server daemon;
-  - NILFS2 file system;
-  - Timer subsystem;
-  - DCCP (Datagram Congestion Control Protocol);
-  - IPv6 networking;
-  - NET/ROM layer;
-  - Packet sockets;
-  - Network traffic control;
-  - SCTP protocol;
-  - VMware vSockets driver;
-  - USB sound devices;
-(CVE-2023-52477, CVE-2023-52574, CVE-2023-52650, CVE-2024-27074,
-CVE-2024-35849, CVE-2024-41006, CVE-2024-47685, CVE-2024-49924,
-CVE-2024-50006, CVE-2024-50051, CVE-2024-50202, CVE-2024-50299,
-CVE-2024-53124, CVE-2024-53130, CVE-2024-53131, CVE-2024-53150,
-CVE-2024-56767, CVE-2024-57996, CVE-2025-21796, CVE-2025-37752,
-CVE-2025-37785, CVE-2025-37838, CVE-2025-38350, CVE-2025-38352,
-CVE-2025-38477, CVE-2025-38617, CVE-2025-38618)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mafia: The Old Country is getting a free update filled with challenges, a new difficulty, and an okay-looking cinematic mode]]></title>
         <id>https://www.rockpapershotgun.com/mafia-the-old-country-is-getting-a-free-update-filled-with-challenges-a-new-difficulty-and-an-okay-looking-cinematic-mode</id>
         <link href="https://www.rockpapershotgun.com/mafia-the-old-country-is-getting-a-free-update-filled-with-challenges-a-new-difficulty-and-an-okay-looking-cinematic-mode"/>
@@ -3059,32 +2841,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7874-2: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7874-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7874-2"/>
-        <updated>2025-11-19T17:27:37.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - HSI subsystem;
-  - I3C subsystem;
-  - SMB network file system;
-  - Padata parallel execution mechanism;
-  - Timer subsystem;
-  - Networking core;
-(CVE-2023-52854, CVE-2024-35867, CVE-2024-50061, CVE-2024-56664,
-CVE-2025-21727, CVE-2025-37838, CVE-2025-38352)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Moonlighter 2: The Endless Vault is out now in early access with newly roguelike dungeons and more puzzling inventories]]></title>
         <id>https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-is-out-now-in-early-access-with-newly-roguelike-dungeons-and-inventory-puzzles</id>
         <link href="https://www.rockpapershotgun.com/moonlighter-2-the-endless-vault-is-out-now-in-early-access-with-newly-roguelike-dungeons-and-inventory-puzzles"/>
@@ -3094,32 +2850,6 @@ CVE-2025-21727, CVE-2025-37838, CVE-2025-38352)]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7874-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7874-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7874-1"/>
-        <updated>2025-11-19T17:17:52.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - HSI subsystem;
-  - I3C subsystem;
-  - SMB network file system;
-  - Padata parallel execution mechanism;
-  - Timer subsystem;
-  - Networking core;
-(CVE-2023-52854, CVE-2024-35867, CVE-2024-50061, CVE-2024-56664,
-CVE-2025-21727, CVE-2025-37838, CVE-2025-38352)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
