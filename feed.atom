@@ -1,17 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-26T03:10:56.137Z</id>
+    <id>urn:2025-11-26T04:20:53.038Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-11-26T03:10:56.137Z</updated>
+    <updated>2025-11-26T04:20:53.038Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[“MEGA Dream ex” Secret Rares Revealed!]]></title>
         <id>156540</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dream-ex%E2%80%9D-secret-rares-revealed.156540/"/>
-        <updated>2025-11-26T03:09:30.000Z</updated>
+        <updated>2025-11-26T04:20:18.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Celebration Collection” Set Name Trademarked for the Pokemon TCG!]]></title>
+        <id>156538</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelebration-collection%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156538/"/>
+        <updated>2025-11-26T03:51:11.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch Online's Game Boy App Has Been Updated To Version 3.0.0, Adds Boot Screen Easter Egg]]></title>
+        <id>https://www.nintendolife.com/#article-194377</id>
+        <link href="https://www.nintendolife.com/news/2025/11/switch-onlines-game-boy-app-has-been-updated-to-version-3-0-0-adds-boot-screen-easter-egg"/>
+        <updated>2025-11-26T03:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Follow these steps to see it.
+
+Alongside the return of multiple retro games today, Nintendo has rolled out a new update for the Game Boy app on the Switch and Switch 2, bumping it up to Version 3.0.0.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -85,15 +107,6 @@ This latest update includes NES and Game Boy titles, with a total of four more g
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Celebration Collection” Set Name Trademarked for the Pokemon TCG!]]></title>
-        <id>156538</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelebration-collection%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156538/"/>
-        <updated>2025-11-26T00:46:14.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1823,6 +1836,27 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7888-1: MuPDF vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7888-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7888-1"/>
+        <updated>2025-11-25T04:59:16.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that MuPDF could be made to divide by zero. An attacker
+could possibly use this issue to cause a denial of service.
+(CVE-2023-51103, CVE-2023-51104, CVE-2023-51105, CVE-2023-51106)
+
+It was discovered that MuPDF incorrectly handled memory under certain
+circumstances, which could lead to a NULL pointer dereference. An
+attacker could potentially use this issue to cause a denial of service.
+(CVE-2024-46657)
+
+It was discovered that MuPDF could enter an infinite recursion when
+parsing certain PDF files. An attacker could possibly use this issue to
+cause a denial of service. (CVE-2025-46206)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AlmaLinux OS 10.1]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/almalinux-os-10.1</id>
         <link href="http://www.abclinuxu.cz/zpravicky/almalinux-os-10.1"/>
@@ -2249,19 +2283,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Poll: What Review Score Would You Give Kirby Air Riders?]]></title>
-        <id>https://www.nintendolife.com/#article-194291</id>
-        <link href="https://www.nintendolife.com/news/2025/11/poll-what-review-score-would-you-give-kirby-air-riders"/>
-        <updated>2025-11-24T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Riding high?
-Kirby and his warp star are back in business thanks to Kirby Air Riders, and we imagine a lot of you have been racing through the sky (and the "city") to unlock absolutely everything this past weekend.
-The surprise sequel to the under-appreciated GameCube racer Kirby Air Ride has performed much better than its 2003 predecessor, boosted by fantastic visuals and performance, a plethora of characters and stages, and so many custom vehicles.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Raspberry Pi Imager 2.0 s podporou Connect]]></title>
         <id>www.root.cz-actuality-50229</id>
         <link href="https://www.root.cz/zpravicky/raspberry-pi-imager-2-0-s-podporou-connect/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2612,30 +2633,6 @@ unauthenticated remote attacker could possibly use this issue to modify
 files or leak sensitive information. (CVE-2025-53057)
 
 Darius Bohni discovered that the JAXP component of OpenJDK 17 was
-vulnerable to a XML External Entity (XEE) attack. An unauthenticated
-remote attacker could possibly use this issue to modify files or leak
-sensitive information. (CVE-2025-53066)
-
-In addition to security fixes, the updated packages contain bug fixes, new
-features, and possibly incompatible changes.
-
-Please see the following for more information:
-https://openjdk.org/groups/vulnerability/advisories/2025-10-21]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7882-1: OpenJDK 11 vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7882-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7882-1"/>
-        <updated>2025-11-24T00:52:17.000Z</updated>
-        <summary type="html"><![CDATA[Jinfeng Guo discovered that the Security component of OpenJDK 11 did not
-correctly handle certain representations of encoded strings. An
-unauthenticated remote attacker could possibly use this issue to modify
-files or leak sensitive information. (CVE-2025-53057)
-
-Darius Bohni discovered that the JAXP component of OpenJDK 11 was
 vulnerable to a XML External Entity (XEE) attack. An unauthenticated
 remote attacker could possibly use this issue to modify files or leak
 sensitive information. (CVE-2025-53066)
