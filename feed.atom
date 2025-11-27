@@ -1,10 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-27T04:18:59.581Z</id>
+    <id>urn:2025-11-27T06:24:17.174Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-11-27T04:18:59.581Z</updated>
+    <updated>2025-11-27T06:24:17.174Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Celebration Collection” Set Name Trademarked for the Pokemon TCG!]]></title>
+        <id>156538</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelebration-collection%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156538/"/>
+        <updated>2025-11-27T06:22:16.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to use the map in Of Ash and Steel]]></title>
+        <id>https://www.destructoid.com/?p=1147309</id>
+        <link href="https://www.destructoid.com/how-to-use-the-map-in-of-ash-and-steel/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-use-the-map-in-of-ash-and-steel"/>
+        <updated>2025-11-27T05:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Of Ash and Steel puts a lot of emphasis on finding different items and exploring the lands, but it can be a difficult task to do the same without a map.
+
+
+Being inspired by old-school RPGs, Of Ash and Steel does things pretty differently. Your early hours will be spent without any map, and you will have to complete quests by reaching different locations, having no markers to depend on.
+
+
+This guide will explain the exact system of how the map works, and when you can obtain it in Of Ash and Steel.
+
+
+Table of contents
+Does Of Ash and Steel have a map
+How to get the map in Of Ash and Steel
+
+
+Does Of Ash and Steel have a map
+
+
+While you don't get a map at the start of your adventures, Of Ash and Steel does have one for different regions. Once you unlock the feature, the map will make your life easier. It's almost necessary as the areas tend to get more complex as you clear the initial chapters and begin the latter acts.
+
+
+How to get the map in Of Ash and Steel
+
+
+The exact method of obtaining a map in Of Ash and Steel remains unknown at this point. According to the community, the map should be obtainable once you have cleared Chapter 1 quests (Act 1).
+
+
+Image via Fire & Frost
+
+
+This is going to take a noticeable amount of time, as there are plenty of quests to complete before you reach that point. You'll first have to complete the quests on the shore, followed by some more tasks, before you get to access Chapter 1.
+
+
+While I am on the first act as of writing, I haven't figured out how to get the map yet. Once I do so, I will update the guide about the exact way of completing the task. According to the community, we can also add our own notes on the map for it to store more information.
+
+
+Until you get the map, the only option is to use buildings and navigation markers while exploring the land. That will prevent you from getting lost and make it easier for you to work towards an objective.
+
+The post How to use the map in Of Ash and Steel appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mega Man Star Force: Legacy Collection Has Been Rated For Switch]]></title>
+        <id>https://www.nintendolife.com/#article-194469</id>
+        <link href="https://www.nintendolife.com/news/2025/11/mega-man-star-force-legacy-collection-has-been-rated-for-switch"/>
+        <updated>2025-11-27T04:55:00.000Z</updated>
+        <summary type="html"><![CDATA[More Mega action in 2026.
+Capcom lifted the lid on Mega Man Star Force: Legacy Collection in September, mentioning at the time how it would be arriving on the Switch at some point in 2026.
+In an update, this new collection featuring multiple titles has now been rated E10+ by the ESRB, with the rating mentioning "Fantasy Violence" and "Users Interact". Here's the official ESRB summary in full:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“MEGA Dream ex” Secret Rares Revealed!]]></title>
         <id>156540</id>
@@ -32,15 +101,6 @@
         <summary type="html"><![CDATA[Stejně jako GNOME i KDE Plasma končí s X11. KDE Plasma 6.8 poběží už pouze nad Waylandem. Aplikace pro X11 budou využívat XWayland.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Celebration Collection” Set Name Trademarked for the Pokemon TCG!]]></title>
-        <id>156538</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelebration-collection%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156538/"/>
-        <updated>2025-11-27T03:27:15.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -355,28 +415,6 @@ Install the battery cell in the Generator
 Enable the…]]></summary>
         <author>
             <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7886-2: Python vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7886-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7886-2"/>
-        <updated>2025-11-26T20:22:31.000Z</updated>
-        <summary type="html"><![CDATA[USN-7886-1 fixed vulnerabilities in Python. This update provides the
-corresponding updates for python3.13 in Ubuntu 25.04 and Ubuntu 25.10.
-
-Original advisory details:
-
- It was discovered that Python inefficiently handled expanding system
- environment variables. An attacker could possibly use this issue to cause
- Python to consume excessive resources, leading to a denial of service.
- (CVE-2025-6075)
-
- Caleb Brown discovered that Python incorrectly handled the ZIP64 End of
- Central Directory (EOCD) Locator record offset value. An attacker could
- possibly use this issue to obfuscate malicious content. (CVE-2025-8291)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1276,52 +1314,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7894-1: EDK II vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7894-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7894-1"/>
-        <updated>2025-11-26T15:05:43.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that EDK II was susceptible to a predictable TCP Initial
-Sequence Number. An attacker could possibly use this issue to gain
-unauthorized access. This issue only affected Ubuntu 22.04 LTS, and Ubuntu
-24.04 LTS. (CVE-2023-45236, CVE-2023-45237)
-
-It was discovered that EDK II incorrectly handled S3 sleep. An attacker
-could possibly use this issue to cause a denial of service. This issue only
-affected Ubuntu 22.04 LTS, and Ubuntu 24.04 LTS. (CVE-2024-1298)
-
-It was discovered that the EDK II PE/COFF loader incorrectly handled
-certain memory operations. An attacker could possibly use this issue to
-cause a denial of service, obtain sensitive information, or execute
-arbitrary code. This issue only affected Ubuntu 22.04 LTS, and Ubuntu
-24.04 LTS. (CVE-2024-38796)
-
-It was discovered that the EDK II PE image hashing function incorrectly
-handled certain memory operations. An attacker could possibly use this
-issue to cause a denial of service, or execute arbitrary code.
-(CVE-2024-38797)
-
-It was discovered that the EDK II BIOS incorrectly handled certain memory
-operations. An attacker could possibly use this issue to cause a denial of
-service. (CVE-2024-38805, CVE-2025-2295)
-
-It was discovered that EDK II incorrectly handled the enabling of MCE. An
-attacker could possibly use this issue to cause a denial of service, or
-execute arbitrary code. (CVE-2025-3770)
-
-It was discovered that the OpenSSL library embedded in EDK II contained
-multiple vulnerabilties. An attacker could possibly use these issues to
-cause a denial of service, obtain sensitive information, or execute
-arbitrary code. (CVE-2021-3712, CVE-2022-0778, CVE-2022-4304,
-CVE-2022-4450, CVE-2023-0215, CVE-2023-0286, CVE-2023-0464, CVE-2023-0465,
-CVE-2023-0466, CVE-2023-2650, CVE-2023-3446, CVE-2023-3817, CVE-2023-5678,
-CVE-2023-6237, CVE-2024-0727, CVE-2024-13176, CVE-2024-2511,
-CVE-2024-41996, CVE-2024-4741, CVE-2024-5535, CVE-2024-6119, CVE-2024-9143,
-CVE-2025-9232)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Guide: Switch 2 Black Friday Deals Are A Bit 'Meh', But Here Are The Best We've Seen]]></title>
         <id>https://www.nintendolife.com/#article-194400</id>
         <link href="https://www.nintendolife.com/guides/switch-2-black-friday-deals-are-a-bit-meh-but-here-are-the-best-weve-seen"/>
@@ -1445,38 +1437,6 @@ Zpráva rovněž vyzývá k co nejrychlejšímu řešení etických a právních
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7893-1: Valkey vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7893-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7893-1"/>
-        <updated>2025-11-26T13:51:48.000Z</updated>
-        <summary type="html"><![CDATA[Benny Isaacs, Nir Brakha, and Sagi Tzadik discovered that Valkey incorrectly
-handled memory when running Lua scripts. An authenticated attacker could
-use this vulnerability to trigger a use-after-free condition, and
-potentially achieve remote code execution on the Valkey server.
-(CVE-2025-49844)
-
-It was discovered that Valkey incorrectly handled memory when running Lua
-scripts. An authenticated attacker could use this vulnerability to trigger
-a integer overflow condition, and potentially achieve remote code execution
-on the Valkey server. (CVE-2025-46817)
-
-It was discovered that Valkey incorrectly handled Lua objects. An
-authenticated attacker could possibly use this issue to escalate their
-privileges. (CVE-2025-46818)
-
-It was discovered that Valkey incorrectly handled memory when running Lua
-scripts. An authenticated attacker could use this vulnerability to read
-out-of-bounds memory, causing a denial of service or possibly obtaining
-sensitive information. (CVE-2025-46819)
-
-It was discovered that Valkey incorrectly handled memory in some
-calculations. An attacker could possibly use this issue to cause a denial
-of service. (CVE-2025-49112)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Urgent ACPI Revert For Linux 6.18 To Deal With Some Hardware Crashing]]></title>
         <id>https://www.phoronix.com/news/Urgent-ACPI-Revert-Linux-6.18</id>
         <link href="https://www.phoronix.com/news/Urgent-ACPI-Revert-Linux-6.18"/>
@@ -1500,18 +1460,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7892-1: H2O vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7892-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7892-1"/>
-        <updated>2025-11-26T13:24:12.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that H2O exhibited poor server resource management in its
-HTTP/2 protocol. An attacker could possibly use this issue to cause H2O to
-crash, resulting in a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Doom v KiCadu nebo na osciloskopu? Žádný problém]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/doom-v-kicadu-nebo-na-osciloskopu-zadny-problem</id>
         <link href="http://www.abclinuxu.cz/zpravicky/doom-v-kicadu-nebo-na-osciloskopu-zadny-problem"/>
@@ -1519,29 +1467,6 @@ crash, resulting in a denial of service.]]></summary>
         <summary type="html"><![CDATA[Doom v KiCadu nebo na osciloskopu? Žádný problém: KiDoom: Running DOOM on PCB Traces a ScopeDoom: DOOM on an Oscilloscope via Sound Card.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7891-1: rust-openssl vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7891-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7891-1"/>
-        <updated>2025-11-26T12:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Matt Mastracci discovered that rust-openssl was incorrectly handling server
-lifetimes in certain functions. An attacker could possibly use this issue
-to cause a denial of service or run arbitrary memory content to the client.
-(CVE-2025-24898)
-
-It was discovered that rust-openssl was incorrectly handling empty strings
-when setting the host in certain functions. An attacker could possibly use
-this issue to cause a denial of service. This issue only affected
-Ubuntu 20.04 LTS and Ubuntu 22.04 LTS. (CVE-2023-53159)
-
-It was discovered that rust-openssl was incorrectly handling property
-arguments in certain functions. An attacker could possibly use this
-issue to cause a denial of service. This issue only affected
-Ubuntu 24.04 LTS. (CVE-2025-3416)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1717,23 +1642,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7889-3: Linux kernel (Real-time) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7889-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7889-3"/>
-        <updated>2025-11-26T09:41:47.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Media drivers;
-  - Network drivers;
-  - Netfilter;
-  - TLS protocol;
-(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How to complete The Hardships of Seafaring in Of Ash and Steel (Starting Shores quests)]]></title>
         <id>https://www.destructoid.com/?p=1146892</id>
         <link href="https://www.destructoid.com/how-to-complte-the-hardships-of-seafaring-in-of-ash-and-steel-starting-shores-quests/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-complte-the-hardships-of-seafaring-in-of-ash-and-steel-starting-shores-quests"/>
@@ -1759,54 +1667,6 @@ Of Ash and Steel The Hardships of Seafaring Walkthrough
 The quests in the starting Shores region can be broken down into several tasks. These are all separate tasks, but you'll have to complete them all to gain access…]]></summary>
         <author>
             <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7889-2: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7889-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7889-2"/>
-        <updated>2025-11-26T08:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Media drivers;
-  - Network drivers;
-  - Netfilter;
-  - TLS protocol;
-(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7879-3: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7879-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7879-3"/>
-        <updated>2025-11-26T08:34:26.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
-allow a local attacker with hypervisor access to overwrite SEV-SNP guest
-memory resulting in loss of data integrity. (CVE-2024-36331)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - S390 architecture;
-  - x86 architecture;
-  - Network block device driver;
-  - Character device driver;
-  - Clock framework and drivers;
-  - Data acquisition framework and drivers;
-  - Hardware crypto device drivers;
-  - Device frequency scaling framework;
-  - DMA engine subsystem;
-  - EDAC drivers;
-  - GPU drivers;
-  - HID subsystem;
-  - Hardware monitorin…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2293,27 +2153,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Destiny 2’s Star Wars-flavored Renegades DLC still doesn’t make sense to me, but I can’t deny how badass it looks]]></title>
-        <id>https://www.destructoid.com/?p=1146775</id>
-        <link href="https://www.destructoid.com/destiny-2-renegades-cant-deny-badass/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=destiny-2-renegades-cant-deny-badass"/>
-        <updated>2025-11-25T18:41:35.000Z</updated>
-        <summary type="html"><![CDATA[Destiny 2: Renegades launches next week, and I'm still relatively unsure how to feel about the "Star Wars-inspired" expansion.
-
-
-Renegades still feels to me like Bungie just said "hey, Star Wars is cool, let's do this partnership" just because it could, regardless of how it may fit into the Destiny 2 story. Having blaster weapons and light sabers in Destiny is possible, sure, but it still feels kind of off. But now, I'm not so sure I care anymore.
-
-
-
-
-After today's live stream and ViDoc, I feel more excited about the game than I have in a very long time. I'm still not fully sold on it, but the John Williams-esque soundtrack, good vs. evil sword battles, and being an outlaw in wild space entice me after all.
-
-
-Renegades has its "Jedi" in Aunor, and its "Sith" in Dredgen Bael (who sounds lik…]]></summary>
-        <author>
-            <name>Scott Duwe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PSA: Can't Find Your Old Switch To Transfer Games Via Virtual Card? There's An Easier Way]]></title>
         <id>https://www.nintendolife.com/#article-194358</id>
         <link href="https://www.nintendolife.com/news/2025/11/psa-cant-find-your-old-switch-to-transfer-games-via-virtual-card-theres-an-easier-way"/>
@@ -2412,23 +2251,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7889-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7889-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7889-1"/>
-        <updated>2025-11-25T16:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Media drivers;
-  - Network drivers;
-  - Netfilter;
-  - TLS protocol;
-(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Quantic Dream's Spellcasters Chronicles plays better than I thought, but is still an oddly passive MOBA]]></title>
         <id>https://www.rockpapershotgun.com/quantic-dreams-spellcasters-chronicles-plays-better-than-i-thought-but-is-still-an-oddly-passive-moba</id>
         <link href="https://www.rockpapershotgun.com/quantic-dreams-spellcasters-chronicles-plays-better-than-i-thought-but-is-still-an-oddly-passive-moba"/>
@@ -2484,19 +2306,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hyrule Warriors: Age Of Imprisonment Adds New Weapons & Challenges In Free Update This Week]]></title>
-        <id>https://www.nintendolife.com/#article-194353</id>
-        <link href="https://www.nintendolife.com/news/2025/11/hyrule-warriors-age-of-imprisonment-adds-new-weapons-and-challenges-in-free-update-this-week"/>
-        <updated>2025-11-25T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Happy Thanksgiving from Zelda and co.!
-Just three weeks after its release, Nintendo is already bringing more goodies to Hyrule Warriors: Age of Imprisonment later this week in the form of a free update.
-Available on 27th November 2025, the update will add new weapons, a brand new Sync Strike for Zelda and fan-favourite Korok Calamo, and other goodies. Being typically coy there, Nintendo! The game already has a ton to unlock, including maxing out characters and finding all of those pesky Koroks, even if it's a little brisker than Age of Calamity.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google řekl, co je potřeba pro navrácení podpory JPEG XL do Chrome]]></title>
         <id>www.root.cz-actuality-50244</id>
         <link href="https://www.root.cz/zpravicky/google-rekl-co-je-potreba-pro-navraceni-podpory-jpeg-xl-do-chrome/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2546,43 +2355,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A Huawei engineer sent out a proposed driver for the Linux kernel to enable "cache lockdwon" behavior for HiSilicon ARM64 processors for greater control over the processor's L3 cache usage...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7887-2: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7887-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7887-2"/>
-        <updated>2025-11-25T12:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - ACPI drivers;
-  - Ublk userspace block driver;
-  - Clock framework and drivers;
-  - EDAC drivers;
-  - GPU drivers;
-  - IIO subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - MemoryStick subsystem;
-  - Network drivers;
-  - NTB driver;
-  - PCI subsystem;
-  - Remote Processor subsystem;
-  - Thermal drivers;
-  - Virtio Host (VHOST) subsystem;
-  - 9P distributed file system;
-  - File systems infrastructure;
-  - JFS file system;
-  - Network file system (NFS) server daemon;
-  - NTFS3 file system;
-  - SMB network file system;
-  - Memory ma…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
