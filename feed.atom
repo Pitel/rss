@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-27T08:22:28.324Z</id>
+    <id>urn:2025-11-27T10:17:24.072Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-11-27T08:22:28.324Z</updated>
+    <updated>2025-11-27T10:17:24.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[World of Warcraft's Midnight expansion releases in March, bringing Voidstorm plague on all the new houses]]></title>
+        <id>https://www.rockpapershotgun.com/world-of-warcrafts-midnight-expansion-releases-in-march-bringing-voidstorm-plague-on-all-the-new-houses</id>
+        <link href="https://www.rockpapershotgun.com/world-of-warcrafts-midnight-expansion-releases-in-march-bringing-voidstorm-plague-on-all-the-new-houses"/>
+        <updated>2025-11-27T10:08:00.000Z</updated>
+        <summary type="html"><![CDATA[World of Warcraft's Midnight expansion finally has a full release date. It'll arrive on March 2nd, 2026, setting in stone the new player housing that's debuting in early access this December and bringing forth the bunch of other changes planned alongside its main invasion storyline.
+That list of changes includes the introduction of a new premium currency call Hearthsteel, which you'll need top use to buy a "small fraction" of the house-related bits and bobs being added in with Midnight. Why? Reasons, Blizzard have said.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MPA Shut Down OnionPlay’s Discord & Tries to Unmask Pirate Site Operator]]></title>
+        <id>https://torrentfreak.com/?p=274644</id>
+        <link href="https://torrentfreak.com/mpa-shut-down-onionplays-discord-tries-to-unmask-pirate-site-operator/"/>
+        <updated>2025-11-27T09:59:37.000Z</updated>
+        <summary type="html"><![CDATA[The Motion Picture Association has its eyes set on the streaming portal OnionPlay. After successfully petitioning Discord to shut down the site's community server, the Hollywood group has secured a DMCA subpoena requiring Discord to unmask the suspected operator. The targeted admin, known as "TexasHomie," does not appear to be overly concerned by this looming threat.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Celebration Collection” Set Name Trademarked for the Pokemon TCG!]]></title>
+        <id>156538</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelebration-collection%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156538/"/>
+        <updated>2025-11-27T09:16:14.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All FC 26 Season 3 pass rewards]]></title>
+        <id>https://www.destructoid.com/?p=1147360</id>
+        <link href="https://www.destructoid.com/all-fc-26-season-3-pass-rewards/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=all-fc-26-season-3-pass-rewards"/>
+        <updated>2025-11-27T08:24:08.000Z</updated>
+        <summary type="html"><![CDATA[Season 3 is now live in FC 26 Ultimate Team, and we can grind for a fresh track of rewards.
+
+
+All the rewards, once again, are exclusive to the seasonal track. A free version is available for all, but there's a paid upgrade. To get the premium version, you'll need to spend 500,000 coins of 1,000 FC Points. This guide will provide you with a complete list of all the items available for Season 3. 
+
+
+Complete list of FC 26 Season 3 Pass rewards
+
+
+The table below has all the available rewards that you can find on the seasonal track in FC 26. 
+
+
+Free
+Premium
+
+
+
+
+Bundle Rewards
+10 78+ Rare Gold Players Pack
+
+
+Manager Mode Icons
+Bundled Rewards
+
+
+Coin Boost
+Dalglish Base Icon Loan
+
+
+Bundle Rewards
+Bundle Rewards + Career Mode Icons
+
+
+Bundle Rewards
+Amaiur Sarriegi Thunderstruck
+
+
+1 of 2 78+ Spain…]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI unikla data uživatelů API prostřednictvím analytické platformy Mixpanel]]></title>
         <id>www.root.cz-actuality-50280</id>
@@ -90,15 +170,6 @@ In case you missed the initial reveal, this new drop will come loaded with a new
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Celebration Collection” Set Name Trademarked for the Pokemon TCG!]]></title>
-        <id>156538</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelebration-collection%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156538/"/>
-        <updated>2025-11-27T06:42:19.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1700,6 +1771,19 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7890-1: FFmpeg vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7890-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7890-1"/>
+        <updated>2025-11-26T11:40:32.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that FFmpeg did not properly handle the parsing of
+certain malformed HLS playlists. If a user were tricked into opening a
+specially crafted HLS playlist, an attacker could possibly use this issue
+to cause FFmpeg to crash, resulting in a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NVIDIA Is Interested In Helping Bring Vulkan Video To Chrome]]></title>
         <id>https://www.phoronix.com/news/NVIDIA-Vulkan-Video-Chrome-Help</id>
         <link href="https://www.phoronix.com/news/NVIDIA-Vulkan-Video-Chrome-Help"/>
@@ -2044,8 +2128,8 @@ Let's look at how you can find all 13 glyph locations in Assassin's Creed S…]]
         <link href="https://www.nintendolife.com/news/2025/11/switch-onlines-game-boy-app-has-been-updated-to-version-3-0-0-adds-boot-screen-easter-egg"/>
         <updated>2025-11-26T03:30:00.000Z</updated>
         <summary type="html"><![CDATA[Follow these steps to see it.
-
 Alongside the return of multiple retro games today, Nintendo has rolled out a new update for the Game Boy app on the Switch and Switch 2, bumping it up to Version 3.0.0.
+Apart from the release of Kid Icarus: Of Myths and Monsters and Bionic Commando, this major update also comes with some cool new easter eggs. If you missed the boot screen of the Game Boy era featuring the 'Nintendo' logo (or 'Game Boy' one) and iconic sound, the good news is it's back!
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2365,29 +2449,6 @@ The post FC 26 Pro Live Challenge 3 SBC tasks and rewards appeared first on Dest
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When is the next double XP weekend in Black Ops 7?]]></title>
-        <id>https://www.destructoid.com/?p=1142132</id>
-        <link href="https://www.destructoid.com/next-2xp-event-in-black-ops-7/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=next-2xp-event-in-black-ops-7"/>
-        <updated>2025-11-25T19:03:13.000Z</updated>
-        <summary type="html"><![CDATA[Double XP weekends in Call of Duty are considered holidays for some gamers, and honestly, I get it.
-
-
-The XP grind to unlock weapons, hit Master Prestige, and secure special camos and attachments is best done when the XP rate is higher. In Black Ops 7, there are a ton of things to unlock along the way to Max Prestige, and double XP weekends are perfect for that since you don't need to use any of your XP tokens.
-
-
-Double XP events happen every few weeks in CoD, and BO7 is the same. It's important to know when these weekends are coming up so you can schedule time with friends to party up and pile up XP in any of the game's multiple modes.
-
-
-Here's when to clock out early or schedule an off day so you can get in that double XP time in CoD.
-
-
-Table of contents
-Next Black Ops 7 double XP weeken…]]></summary>
-        <author>
-            <name>Scott Duwe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Review: Glory Hunters (Game Boy) - A Glorious 8-Bit Throwback With Some Rough Edges]]></title>
         <id>https://www.nintendolife.com/#article-167139</id>
         <link href="https://www.nintendolife.com/reviews/gameboy/glory-hunters"/>
@@ -2607,43 +2668,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A Huawei engineer sent out a proposed driver for the Linux kernel to enable "cache lockdwon" behavior for HiSilicon ARM64 processors for greater control over the processor's L3 cache usage...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7887-2: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7887-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7887-2"/>
-        <updated>2025-11-25T12:54:50.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - ACPI drivers;
-  - Ublk userspace block driver;
-  - Clock framework and drivers;
-  - EDAC drivers;
-  - GPU drivers;
-  - IIO subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - MemoryStick subsystem;
-  - Network drivers;
-  - NTB driver;
-  - PCI subsystem;
-  - Remote Processor subsystem;
-  - Thermal drivers;
-  - Virtio Host (VHOST) subsystem;
-  - 9P distributed file system;
-  - File systems infrastructure;
-  - JFS file system;
-  - Network file system (NFS) server daemon;
-  - NTFS3 file system;
-  - SMB network file system;
-  - Memory ma…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4594,17 +4618,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paralives delayed into 2026 as designer explains that life sims are "really 3 games in one"]]></title>
-        <id>https://www.rockpapershotgun.com/paralives-delayed-into-2026-as-designer-explains-that-life-sims-are-really-3-games-in-one</id>
-        <link href="https://www.rockpapershotgun.com/paralives-delayed-into-2026-as-designer-explains-that-life-sims-are-really-3-games-in-one"/>
-        <updated>2025-11-14T17:34:58.000Z</updated>
-        <summary type="html"><![CDATA[Woe unto people who like making smaller, prettier versions of themselves kiss: the Paralives developers are delaying their homey life sim following playtests, to fix some bugs and fill out the game's town with activities. Paralives had been due in early access this December, but will now launch on May 25th 2026.
- Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DISH Wins $42M Default Judgment Against “DMCA-Ignored” Host Virtual Systems]]></title>
         <id>https://torrentfreak.com/?p=274234</id>
         <link href="https://torrentfreak.com/dish-wins-42m-default-judgment-against-dmca-ignored-host-virtual-systems-251114/"/>
@@ -4776,17 +4789,6 @@ Issue #443261197
 Make sure safeargs gradle plugin is compatible with AGP 9.0.0 and ship this fixed version]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Fire Stick Crackdown Malware Armageddon Month]]></title>
-        <id>https://torrentfreak.com/?p=274140</id>
-        <link href="https://torrentfreak.com/happy-fire-stick-crackdown-malware-armageddon-month-251113/"/>
-        <updated>2025-11-13T15:21:52.000Z</updated>
-        <summary type="html"><![CDATA[It appears that Fire Stick Crackdown Malware Armageddon Month is upon us once again. While there is legitimate news, including Amazon's updated anti-piracy policy, a steady stream of clickbait makes it difficult to properly value every announcement. Unfortunately, desensitization is real, and when people decide to block out the noise, it may take years before they start listening again. By then, it may be too late.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Andy Maxwell</name>
         </author>
     </entry>
     <entry>
