@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-27T03:07:40.013Z</id>
+    <id>urn:2025-11-27T04:18:59.581Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-11-27T03:07:40.013Z</updated>
+    <updated>2025-11-27T04:18:59.581Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“MEGA Dream ex” Secret Rares Revealed!]]></title>
+        <id>156540</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dream-ex%E2%80%9D-secret-rares-revealed.156540/"/>
+        <updated>2025-11-27T04:11:39.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vývoj Zigu přesunut z GitHubu na Codeberg]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/vyvoj-zigu-presunut-z-githubu-na-codeberg</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/vyvoj-zigu-presunut-z-githubu-na-codeberg"/>
+        <updated>2025-11-27T03:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Vývoj programovacího jazyka Zig byl přesunut z GitHubu na Codeberg. Sponzoring na Every.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.8 už pouze nad Waylandem]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/kde-plasma-6.8-uz-pouze-nad-waylandem</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/kde-plasma-6.8-uz-pouze-nad-waylandem"/>
+        <updated>2025-11-27T03:45:07.000Z</updated>
+        <summary type="html"><![CDATA[Stejně jako GNOME i KDE Plasma končí s X11. KDE Plasma 6.8 poběží už pouze nad Waylandem. Aplikace pro X11 budou využívat XWayland.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Celebration Collection” Set Name Trademarked for the Pokemon TCG!]]></title>
+        <id>156538</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelebration-collection%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156538/"/>
+        <updated>2025-11-27T03:27:15.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyrule Warriors: Age Of Imprisonment Update 1.0.2 Patch Notes - New Quests, Weapons And Battles Added]]></title>
         <id>https://www.nintendolife.com/#article-194467</id>
@@ -16,15 +54,6 @@ Nintendo has shared the official patch notes on its website, and it highlights a
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“MEGA Dream ex” Secret Rares Revealed!]]></title>
-        <id>156540</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-dream-ex%E2%80%9D-secret-rares-revealed.156540/"/>
-        <updated>2025-11-27T02:22:03.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -252,15 +281,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Celebration Collection” Set Name Trademarked for the Pokemon TCG!]]></title>
-        <id>156538</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccelebration-collection%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156538/"/>
-        <updated>2025-11-26T20:54:38.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[One of Black Ops 7’s most successful changes is coming to Warzone next week, too]]></title>
         <id>https://www.destructoid.com/?p=1147299</id>
         <link href="https://www.destructoid.com/one-of-bo7s-successful-changes-coming-to-warzone/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=one-of-bo7s-successful-changes-coming-to-warzone"/>
@@ -335,6 +355,28 @@ Install the battery cell in the Generator
 Enable the…]]></summary>
         <author>
             <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7886-2: Python vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7886-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7886-2"/>
+        <updated>2025-11-26T20:22:31.000Z</updated>
+        <summary type="html"><![CDATA[USN-7886-1 fixed vulnerabilities in Python. This update provides the
+corresponding updates for python3.13 in Ubuntu 25.04 and Ubuntu 25.10.
+
+Original advisory details:
+
+ It was discovered that Python inefficiently handled expanding system
+ environment variables. An attacker could possibly use this issue to cause
+ Python to consume excessive resources, leading to a denial of service.
+ (CVE-2025-6075)
+
+ Caleb Brown discovered that Python incorrectly handled the ZIP64 End of
+ Central Directory (EOCD) Locator record offset value. An attacker could
+ possibly use this issue to obfuscate malicious content. (CVE-2025-8291)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1234,6 +1276,52 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7894-1: EDK II vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7894-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7894-1"/>
+        <updated>2025-11-26T15:05:43.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that EDK II was susceptible to a predictable TCP Initial
+Sequence Number. An attacker could possibly use this issue to gain
+unauthorized access. This issue only affected Ubuntu 22.04 LTS, and Ubuntu
+24.04 LTS. (CVE-2023-45236, CVE-2023-45237)
+
+It was discovered that EDK II incorrectly handled S3 sleep. An attacker
+could possibly use this issue to cause a denial of service. This issue only
+affected Ubuntu 22.04 LTS, and Ubuntu 24.04 LTS. (CVE-2024-1298)
+
+It was discovered that the EDK II PE/COFF loader incorrectly handled
+certain memory operations. An attacker could possibly use this issue to
+cause a denial of service, obtain sensitive information, or execute
+arbitrary code. This issue only affected Ubuntu 22.04 LTS, and Ubuntu
+24.04 LTS. (CVE-2024-38796)
+
+It was discovered that the EDK II PE image hashing function incorrectly
+handled certain memory operations. An attacker could possibly use this
+issue to cause a denial of service, or execute arbitrary code.
+(CVE-2024-38797)
+
+It was discovered that the EDK II BIOS incorrectly handled certain memory
+operations. An attacker could possibly use this issue to cause a denial of
+service. (CVE-2024-38805, CVE-2025-2295)
+
+It was discovered that EDK II incorrectly handled the enabling of MCE. An
+attacker could possibly use this issue to cause a denial of service, or
+execute arbitrary code. (CVE-2025-3770)
+
+It was discovered that the OpenSSL library embedded in EDK II contained
+multiple vulnerabilties. An attacker could possibly use these issues to
+cause a denial of service, obtain sensitive information, or execute
+arbitrary code. (CVE-2021-3712, CVE-2022-0778, CVE-2022-4304,
+CVE-2022-4450, CVE-2023-0215, CVE-2023-0286, CVE-2023-0464, CVE-2023-0465,
+CVE-2023-0466, CVE-2023-2650, CVE-2023-3446, CVE-2023-3817, CVE-2023-5678,
+CVE-2023-6237, CVE-2024-0727, CVE-2024-13176, CVE-2024-2511,
+CVE-2024-41996, CVE-2024-4741, CVE-2024-5535, CVE-2024-6119, CVE-2024-9143,
+CVE-2025-9232)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Guide: Switch 2 Black Friday Deals Are A Bit 'Meh', But Here Are The Best We've Seen]]></title>
         <id>https://www.nintendolife.com/#article-194400</id>
         <link href="https://www.nintendolife.com/guides/switch-2-black-friday-deals-are-a-bit-meh-but-here-are-the-best-weve-seen"/>
@@ -1357,6 +1445,38 @@ Zpráva rovněž vyzývá k co nejrychlejšímu řešení etických a právních
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7893-1: Valkey vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7893-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7893-1"/>
+        <updated>2025-11-26T13:51:48.000Z</updated>
+        <summary type="html"><![CDATA[Benny Isaacs, Nir Brakha, and Sagi Tzadik discovered that Valkey incorrectly
+handled memory when running Lua scripts. An authenticated attacker could
+use this vulnerability to trigger a use-after-free condition, and
+potentially achieve remote code execution on the Valkey server.
+(CVE-2025-49844)
+
+It was discovered that Valkey incorrectly handled memory when running Lua
+scripts. An authenticated attacker could use this vulnerability to trigger
+a integer overflow condition, and potentially achieve remote code execution
+on the Valkey server. (CVE-2025-46817)
+
+It was discovered that Valkey incorrectly handled Lua objects. An
+authenticated attacker could possibly use this issue to escalate their
+privileges. (CVE-2025-46818)
+
+It was discovered that Valkey incorrectly handled memory when running Lua
+scripts. An authenticated attacker could use this vulnerability to read
+out-of-bounds memory, causing a denial of service or possibly obtaining
+sensitive information. (CVE-2025-46819)
+
+It was discovered that Valkey incorrectly handled memory in some
+calculations. An attacker could possibly use this issue to cause a denial
+of service. (CVE-2025-49112)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Urgent ACPI Revert For Linux 6.18 To Deal With Some Hardware Crashing]]></title>
         <id>https://www.phoronix.com/news/Urgent-ACPI-Revert-Linux-6.18</id>
         <link href="https://www.phoronix.com/news/Urgent-ACPI-Revert-Linux-6.18"/>
@@ -1380,6 +1500,18 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7892-1: H2O vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7892-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7892-1"/>
+        <updated>2025-11-26T13:24:12.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that H2O exhibited poor server resource management in its
+HTTP/2 protocol. An attacker could possibly use this issue to cause H2O to
+crash, resulting in a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Doom v KiCadu nebo na osciloskopu? Žádný problém]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/doom-v-kicadu-nebo-na-osciloskopu-zadny-problem</id>
         <link href="http://www.abclinuxu.cz/zpravicky/doom-v-kicadu-nebo-na-osciloskopu-zadny-problem"/>
@@ -1387,6 +1519,29 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Doom v KiCadu nebo na osciloskopu? Žádný problém: KiDoom: Running DOOM on PCB Traces a ScopeDoom: DOOM on an Oscilloscope via Sound Card.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7891-1: rust-openssl vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7891-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7891-1"/>
+        <updated>2025-11-26T12:56:31.000Z</updated>
+        <summary type="html"><![CDATA[Matt Mastracci discovered that rust-openssl was incorrectly handling server
+lifetimes in certain functions. An attacker could possibly use this issue
+to cause a denial of service or run arbitrary memory content to the client.
+(CVE-2025-24898)
+
+It was discovered that rust-openssl was incorrectly handling empty strings
+when setting the host in certain functions. An attacker could possibly use
+this issue to cause a denial of service. This issue only affected
+Ubuntu 20.04 LTS and Ubuntu 22.04 LTS. (CVE-2023-53159)
+
+It was discovered that rust-openssl was incorrectly handling property
+arguments in certain functions. An attacker could possibly use this
+issue to cause a denial of service. This issue only affected
+Ubuntu 24.04 LTS. (CVE-2025-3416)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1562,6 +1717,23 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7889-3: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7889-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7889-3"/>
+        <updated>2025-11-26T09:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Media drivers;
+  - Network drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to complete The Hardships of Seafaring in Of Ash and Steel (Starting Shores quests)]]></title>
         <id>https://www.destructoid.com/?p=1146892</id>
         <link href="https://www.destructoid.com/how-to-complte-the-hardships-of-seafaring-in-of-ash-and-steel-starting-shores-quests/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-complte-the-hardships-of-seafaring-in-of-ash-and-steel-starting-shores-quests"/>
@@ -1587,6 +1759,54 @@ Of Ash and Steel The Hardships of Seafaring Walkthrough
 The quests in the starting Shores region can be broken down into several tasks. These are all separate tasks, but you'll have to complete them all to gain access…]]></summary>
         <author>
             <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7889-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7889-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7889-2"/>
+        <updated>2025-11-26T08:54:05.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Media drivers;
+  - Network drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7879-3: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7879-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7879-3"/>
+        <updated>2025-11-26T08:34:26.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
+allow a local attacker with hypervisor access to overwrite SEV-SNP guest
+memory resulting in loss of data integrity. (CVE-2024-36331)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - Network block device driver;
+  - Character device driver;
+  - Clock framework and drivers;
+  - Data acquisition framework and drivers;
+  - Hardware crypto device drivers;
+  - Device frequency scaling framework;
+  - DMA engine subsystem;
+  - EDAC drivers;
+  - GPU drivers;
+  - HID subsystem;
+  - Hardware monitorin…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2192,6 +2412,23 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7889-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7889-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7889-1"/>
+        <updated>2025-11-25T16:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Media drivers;
+  - Network drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quantic Dream's Spellcasters Chronicles plays better than I thought, but is still an oddly passive MOBA]]></title>
         <id>https://www.rockpapershotgun.com/quantic-dreams-spellcasters-chronicles-plays-better-than-i-thought-but-is-still-an-oddly-passive-moba</id>
         <link href="https://www.rockpapershotgun.com/quantic-dreams-spellcasters-chronicles-plays-better-than-i-thought-but-is-still-an-oddly-passive-moba"/>
@@ -2309,6 +2546,43 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A Huawei engineer sent out a proposed driver for the Linux kernel to enable "cache lockdwon" behavior for HiSilicon ARM64 processors for greater control over the processor's L3 cache usage...]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7887-2: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7887-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7887-2"/>
+        <updated>2025-11-25T12:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - ACPI drivers;
+  - Ublk userspace block driver;
+  - Clock framework and drivers;
+  - EDAC drivers;
+  - GPU drivers;
+  - IIO subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - MemoryStick subsystem;
+  - Network drivers;
+  - NTB driver;
+  - PCI subsystem;
+  - Remote Processor subsystem;
+  - Thermal drivers;
+  - Virtio Host (VHOST) subsystem;
+  - 9P distributed file system;
+  - File systems infrastructure;
+  - JFS file system;
+  - Network file system (NFS) server daemon;
+  - NTFS3 file system;
+  - SMB network file system;
+  - Memory ma…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2533,16 +2807,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waydroid 1.6.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/waydroid-1.6.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/waydroid-1.6.0"/>
-        <updated>2025-11-24T21:46:32.000Z</updated>
-        <summary type="html"><![CDATA[Waydroid (Wikipedie, GitHub) byl vydán v nové verzi 1.6.0. Waydroid umožňuje spouštět aplikace pro Android na běžných linuxových distribucích. Běhové prostředí vychází z LineageOS.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Climb a dark fantasy tower and find the sweepstakes code in the Pocketpair published looter-shooter Vision Quench]]></title>
         <id>https://www.rockpapershotgun.com/climb-a-dark-fantasy-tower-and-find-the-sweepstakes-code-in-the-pocketpair-published-looter-shooter-vision-quench</id>
         <link href="https://www.rockpapershotgun.com/climb-a-dark-fantasy-tower-and-find-the-sweepstakes-code-in-the-pocketpair-published-looter-shooter-vision-quench"/>
@@ -2660,16 +2924,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The most exciting hardware to arrive this month in the Phoronix lab is Dell having sent over two of their new Dell Pro Max with GB10 systems. The Dell Pro Max with GB10 is their build-out around NVIDIA's GB10 superchip with ten Cortex-X925 CPU cores and ten Cortex-A725 cores plus the GB10 Blackwell GPU. With 128GB of LPDDR5X memory and 2TB or 4TB SSD by default all within the small chassis, this is an interesting workstation for AI developers.]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi Imager 2.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/raspberry-pi-imager-2.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/raspberry-pi-imager-2.0"/>
-        <updated>2025-11-24T15:31:56.000Z</updated>
-        <summary type="html"><![CDATA[Příspěvek na blogu Raspberry Pi představuje novou kompletně přepracovanou verzi 2.0 aplikace Raspberry Pi Imager (YouTube) pro stažení, nakonfigurování a zapsání obrazu operačního systému pro Raspberry Pi na SD kartu. Z novinek lze vypíchnout volitelnou konfiguraci Raspberry Pi Connect.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4677,76 +4931,6 @@ closed issues.
 General fixes and features
 Below is a list of general fixes in Android Studio Otter 2 Feature Drop | 2025.2.2 Canary 3 and Android Gradle Plugin 9.0.0-alpha13. These are a result of your bug
 reports, which help us to make Android Studio better. If y…]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Otter 2 Feature Drop | 2025.2.2 Canary 2 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2025/10/android-studio-otter-2-feature-drop_01612825931.html</id>
-        <link href="https://androidstudio.googleblog.com/2025/10/android-studio-otter-2-feature-drop_01612825931.html"/>
-        <updated>2025-10-28T16:07:46.581Z</updated>
-        <summary type="html"><![CDATA[Android Studio Otter 2 Feature Drop | 2025.2.2 Canary 2 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Otter 2 Feature Drop, see the Android Studio Preview release notes.
-
-For details of bugs fixed in each previous release of Android Studio Otter 2 Feature Drop, see
-closed issues.
-General fixes and features
-Below is a list of general fixes in Android Studio Otter 2 Feature Drop | 2025.2.2 Canary 2 and Android Gradle Plugin 9.0.0-alpha12. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #447375921
-Pure Java project have dependency on kotlin stdlib.
-
-            
-
-              
-Issue #368600704
-Remove deprecated KotlinMultiplatformAndroidCompilationBuilder properties in AGP 9.0
-
-            
-
-              
-Issue #445209309
-`com.android.tools.build:gradle:9.0.0-alpha05` should have an api dependency on KGP and gradle-api
-
-            
-
-              
-Issue #452645779
-Rename com.android.experimental.built-in-kotlin Gradle plugin
-
-          
-        
-
-      
-    
-ASwB
-      
-        
-
-          
-            
-
-              
-Issue #409978995
-Unable to use native debugger with ASwB]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
         </author>
