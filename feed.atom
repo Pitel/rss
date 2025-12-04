@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-04T08:22:41.097Z</id>
+    <id>urn:2025-12-04T10:18:21.394Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-12-04T08:22:41.097Z</updated>
+    <updated>2025-12-04T10:18:21.394Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Hi-Fi Rush is ditching Denuvo in January, and it'll become unplayable if you don't grab the latest patch]]></title>
+        <id>https://www.rockpapershotgun.com/hi-fi-rush-is-ditching-denuvo-in-january-and-itll-become-unplayable-if-you-dont-grab-the-latest-patch</id>
+        <link href="https://www.rockpapershotgun.com/hi-fi-rush-is-ditching-denuvo-in-january-and-itll-become-unplayable-if-you-dont-grab-the-latest-patch"/>
+        <updated>2025-12-04T09:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Hi-Fi Rush is ditching its Denuvo anti-tamper software as part of developers' Tango Gameworks transition to working under new owners Krafton. A fresh patch has been released swapping logos to reflect that switch in management, and you'll need to install it before mid-January if you want the game to stay playable.
+Krafton, of course, bought up Tango after the studio's former parent company Microsoft announced plans to shut it down back in May, alongside Redfall developers Arkane Austin and Mighty Doom creators Alpha Dog Games.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micron oznámil ukončení spotřebitelské značky Crucial, bude se soustředit na velké zákazníky]]></title>
+        <id>www.root.cz-actuality-50349</id>
+        <link href="https://www.root.cz/zpravicky/micron-oznamil-ukonceni-spotrebitelske-znacky-crucial-bude-se-soustredit-na-velke-zakazniky/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2025-12-04T09:39:42.000Z</updated>
+        <summary type="html"><![CDATA[Americký výrobce pamětí a disků SSD Micron Technology včera oznámil ukončení své spotřebitelské značky Crucial v únoru příštího roku. Důvodem je současný velký zájem o paměti i disky ze strany velkých zákazníků způsobený popularitou AI.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mega Hawlucha ex from “Ascended Heroes” Revealed!]]></title>
+        <id>156551</id>
+        <link href="https://www.pokebeach.com/forums/threads/mega-hawlucha-ex-from-%E2%80%9Cascended-heroes%E2%80%9D-revealed.156551/"/>
+        <updated>2025-12-04T09:28:34.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7909-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7909-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7909-1"/>
+        <updated>2025-12-04T09:26:45.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - ACPI drivers;
+  - ATM drivers;
+  - DRBD Distributed Replicated Block Device drivers;
+  - Bus devices;
+  - Clock framework and drivers;
+  - Data acquisition framework and drivers;
+  - Hardware crypto device drivers;
+  - Device frequency scaling framework;
+  - Buffer Sharing and Synchronization framework;
+  - DMA engine subsystem;
+  - ARM SCMI message protocol;
+  - GPU drivers;
+  - HID subsystem;
+  - Hardware monitoring …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Mew Mythical Pokemon Foil Playmat” Announced by Ultra PRO!]]></title>
         <id>156552</id>
@@ -23,15 +88,6 @@
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mega Hawlucha ex from “Ascended Heroes” Revealed!]]></title>
-        <id>156551</id>
-        <link href="https://www.pokebeach.com/forums/threads/mega-hawlucha-ex-from-%E2%80%9Cascended-heroes%E2%80%9D-revealed.156551/"/>
-        <updated>2025-12-04T07:26:55.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1544,6 +1600,28 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7861-5: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7861-5</id>
+        <link href="https://ubuntu.com/security/notices/USN-7861-5"/>
+        <updated>2025-12-03T14:52:04.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - HSI subsystem;
+  - Bluetooth subsystem;
+  - Timer subsystem;
+(CVE-2025-37838, CVE-2025-38118, CVE-2025-38352)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Monument Valley 3's Gorgeous Free Expansion Adds Even More Perspective-Bending Puzzling]]></title>
         <id>https://www.nintendolife.com/#article-194734</id>
         <link href="https://www.nintendolife.com/news/2025/12/monument-valley-3s-gorgeous-free-expansion-adds-even-more-perspective-bending-puzzling"/>
@@ -1574,6 +1652,60 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Máme-li na světě novou verzi linuxového jádra 6.18, je vždy jen otázkou krátkého času než se objeví i jeho varianta zbavená všeho binárního či „jinak pošpiněného“ kódu. GNU Linux-libre 6.18 je na světě a přináší většinu novinek z Linuxu 6.18.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7907-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7907-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7907-2"/>
+        <updated>2025-12-03T14:18:57.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - Hardware monitoring drivers;
+  - InfiniBand drivers;
+  - Mailbox framework;
+  - Network drivers;
+  - AFS file system;
+  - Ceph distributed file system;
+  - Network file system (NFS) server daemon;
+  - NILFS2 file system;
+  - File systems infrastructure;
+  - KVM subsystem;
+  - L3 Master device support module;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+  - Open vSwitch;
+(CVE-2021-47385, CVE-2022-49026, CVE-2022-49390, CVE-2024-49935,
+CVE-2024-49963, CVE-2024-50067, CVE-2024-50095, CVE-2024-50179,
+CVE-2024-53090, CVE-2024-53112, CVE-2024-53217, CVE-2024-58083,
+CVE-2025-21715, CVE-2025-21722, CVE-2025-21761, CVE-2025-21791,
+CVE-2025-21811, CVE-2025-21855, CVE-2025-37958, CVE-2025-38666,
+CVE-2025-39964, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7908-1: PostgreSQL vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7908-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7908-1"/>
+        <updated>2025-12-03T14:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Jelte Fennema-Nio discovered that the PostgreSQL CREATE STATISTICS command
+did not correctly check for schema CREATE privileges. An authenticated
+attacker could possibly use this issue to create a denial of service
+against other CREATE STATISTICS users. (CVE-2025-12817)
+
+Aleksey Solovev discovered that the PostgreSQL libpq client library
+incorrectly handled certain memory operations. A remote attacker could
+possibly use this issue to cause libpq to crash, resulting in a denial of
+service. (CVE-2025-12818)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1731,6 +1863,42 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7907-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7907-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7907-1"/>
+        <updated>2025-12-03T12:14:35.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - Hardware monitoring drivers;
+  - InfiniBand drivers;
+  - Mailbox framework;
+  - Network drivers;
+  - AFS file system;
+  - Ceph distributed file system;
+  - Network file system (NFS) server daemon;
+  - NILFS2 file system;
+  - File systems infrastructure;
+  - KVM subsystem;
+  - L3 Master device support module;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+  - Open vSwitch;
+(CVE-2021-47385, CVE-2022-49026, CVE-2022-49390, CVE-2024-49935,
+CVE-2024-49963, CVE-2024-50067, CVE-2024-50095, CVE-2024-50179,
+CVE-2024-53090, CVE-2024-53112, CVE-2024-53217, CVE-2024-58083,
+CVE-2025-21715, CVE-2025-21722, CVE-2025-21761, CVE-2025-21791,
+CVE-2025-21811, CVE-2025-21855, CVE-2025-37958, CVE-2025-38666,
+CVE-2025-39964, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Speed saves lives in Haste, 2025's best game about outrunning an apocalypse]]></title>
         <id>https://www.rockpapershotgun.com/speed-saves-lives-in-haste-2025s-best-game-about-outrunning-an-apocalypse</id>
         <link href="https://www.rockpapershotgun.com/speed-saves-lives-in-haste-2025s-best-game-about-outrunning-an-apocalypse"/>
@@ -1788,6 +1956,26 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Sound Open Firmware is one of the projects started originally by Intel but has grown into a multi-vendor initiative for open-source audio digital signal processing (DSP) firmware and development tooling for a variety of platforms under the Linux Foundation umbrella...]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7906-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7906-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7906-1"/>
+        <updated>2025-12-03T11:34:56.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic API;
+  - Android drivers;
+  - TTY drivers;
+  - F2FS file system;
+  - 9P file system network protocol;
+(CVE-2025-40025, CVE-2025-40026, CVE-2025-40027, CVE-2025-40028,
+CVE-2025-40108, CVE-2025-40109)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1870,6 +2058,18 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7905-1: KDE Connect vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7905-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7905-1"/>
+        <updated>2025-12-03T09:46:45.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that KDE Connect incorrectly handled device IDs. An
+attacker could possibly use this issue to bypass authentication and connect
+an unpaired device.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DDoS Guard: LaLiga’s Piracy Blocks Test Whether Anyone Will Protect the Internet]]></title>
         <id>https://torrentfreak.com/?p=274840</id>
         <link href="https://torrentfreak.com/ddos-guard-laligas-piracy-blocks-test-whether-anyone-will-protect-the-internet-251203/"/>
@@ -1878,6 +2078,18 @@ Read the full article on nintendolife.com]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Andy Maxwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7904-1: Ghostscript vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7904-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7904-1"/>
+        <updated>2025-12-03T08:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Piotr Kajda discovered that Ghostscript incorrectly handled writing certain
+files. An attacker could possibly use this issue to cause Ghostscript to
+crash, resulting in a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2272,6 +2484,24 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7903-1: Django vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7903-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7903-1"/>
+        <updated>2025-12-02T15:14:35.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Django incorrectly handled certain characters in the
+FilteredRelation object. An attacker could possibly use this issue to
+execute arbitrary SQL commands. This issue only affected Ubuntu 20.04 LTS,
+Ubuntu 22.04 LTS, Ubuntu 24.04 LTS, Ubuntu 25.04, and Ubuntu 25.10.
+(CVE-2025-13372)
+
+Seokchan Yoon discovered that Django inefficiently handled deserialization
+of XML objects. An attacker could possibly use this issue to cause Django
+to use excessive resources, causing a denial of service. (CVE-2025-64460)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Linux 6.19 To Allow File-Systems To Increase The Writeback Chunk Size]]></title>
         <id>https://www.phoronix.com/news/Linux-Adjust-Writeback-Chunk</id>
         <link href="https://www.phoronix.com/news/Linux-Adjust-Writeback-Chunk"/>
@@ -2332,6 +2562,23 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Evidently Canonical has been pretty pleased with the uptake of Ubuntu on Microsoft's Windows Subsystem for Linux (WSL2) within enterprise/corporate environments as they are now offering Ubuntu Pro for WSL...]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7855-2: Unbound regression]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7855-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7855-2"/>
+        <updated>2025-12-02T13:15:02.000Z</updated>
+        <summary type="html"><![CDATA[USN-7855-1 fixed vulnerabilities in Unbound. It was discovered that the fix
+for CVE-2025-11411 was incomplete. This update fixes the problem.
+
+Original advisory details:
+
+ Yuxiao Wu, Yunyi Zhang, Baojun Liu, and Haixin Duan discovered that
+ Unbound incorrectly handled certain promiscuous NS RRSets. A remote
+ attacker could possibly use this issue to perform a domain hijack attack.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3545,16 +3792,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAI unikla data uživatelů API prostřednictvím analytické platformy Mixpanel]]></title>
-        <id>www.root.cz-actuality-50280</id>
-        <link href="https://www.root.cz/zpravicky/openai-unikla-data-uzivatelu-api-prostrednictvim-analyticke-platformy-mixpanel/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2025-11-27T07:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Společnost OpenAI oznámila bezpečnostní incident týkající se externího poskytovatele analytických služeb Mixpanel, který vedl k úniku omezeného množství uživatelských dat spojených s API. Společnost OpenAI uvedla, že incident neměl vliv na její vlastní systémy ani neohrozil přihlašovací údaje uživatelů, platební informace nebo jiná data.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mega Absol Box Is the New Deck We Needed]]></title>
         <id>156536</id>
         <link href="https://www.pokebeach.com/forums/threads/mega-absol-box-is-the-new-deck-we-needed.156536/"/>
@@ -4038,17 +4275,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockstar fired unionising GTA 6 devs following Discord chat about new company Slack policy, claims report]]></title>
-        <id>https://www.rockpapershotgun.com/rockstar-fired-unionising-gta-6-devs-following-discord-chat-about-new-company-slack-policy-claims-report</id>
-        <link href="https://www.rockpapershotgun.com/rockstar-fired-unionising-gta-6-devs-following-discord-chat-about-new-company-slack-policy-claims-report"/>
-        <updated>2025-11-24T16:15:08.000Z</updated>
-        <summary type="html"><![CDATA[A new report claims the firing of 34 developers by Rockstar Games for alleged "gross misconduct" followed a Discord discussion which cited emails about changes to the company's internal Slack policies. Rockstar have been accused of union busting by the Independent Workers' Union of Great Britain over the firings, with the union having filed legal claims against the company.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
         </author>
     </entry>
     <entry>
