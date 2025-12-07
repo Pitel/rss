@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-07T01:18:27.479Z</id>
+    <id>urn:2025-12-07T03:22:47.597Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-12-07T01:18:27.479Z</updated>
+    <updated>2025-12-07T03:22:47.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.19 Adds New Console Font To Better Handle Modern Laptops With HiDPI Displays]]></title>
+        <id>https://www.phoronix.com/news/Terminus-10x18-Console-Linux</id>
+        <link href="https://www.phoronix.com/news/Terminus-10x18-Console-Linux"/>
+        <updated>2025-12-07T01:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Sent in for the Linux 6.19 merge window when it comes to the frame-buffer device "FBDEV" subsystem are just a set of "fixes" for FBDEV drivers and code clean-ups. But it does also include a new console font option for better supporting modern laptops with high density displays...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Týden na ITBiz: S rizikem Harvest now, Decrypt later je třeba začít počítat]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-s-rizikem-harvest-now-decrypt-later-je-treba-zacit-pocitat</id>
@@ -2694,16 +2704,6 @@ CVE-2025-39964, CVE-2025-40018)]]></summary>
         <link href="https://www.phoronix.com/news/Zlib-rs-0.5.3"/>
         <updated>2025-12-04T11:20:00.000Z</updated>
         <summary type="html"><![CDATA[The Trifecta Tech Foundation today released zlib-rs 0.5.3 as the newest version of this Zlib implementation written in the Rust programming language for better memory safety. Zlib-rs is advertised as "a safer Zlib" for use by both C and Rust projects while delivering competitive performance to the C-based zlib-ng...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.19 Will Allow Enforcing IPE Security Checks On Indirectly Executed Scripts]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.19-IPE-AT_EXECVE_CHECK</id>
-        <link href="https://www.phoronix.com/news/Linux-6.19-IPE-AT_EXECVE_CHECK"/>
-        <updated>2025-12-04T11:07:14.000Z</updated>
-        <summary type="html"><![CDATA[Linux's Integrity Policy Enforcement "IPE" module is gaining a useful addition with the in-development Linux 6.19 kernel...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
