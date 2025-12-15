@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-15T01:16:19.738Z</id>
+    <id>urn:2025-12-15T03:25:56.765Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-12-15T01:16:19.738Z</updated>
+    <updated>2025-12-15T03:25:56.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Start Deck 100 Battle Collection” All 742 Main Set Cards Fully Revealed!]]></title>
+        <id>156568</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cstart-deck-100-battle-collection%E2%80%9D-all-742-main-set-cards-fully-revealed.156568/"/>
+        <updated>2025-12-15T01:32:26.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Opt-In Proactive & Crash Time Data Collection On Valve's Steam Deck]]></title>
+        <id>https://www.phoronix.com/news/Steam-Deck-Crash-Data-Collect</id>
+        <link href="https://www.phoronix.com/news/Steam-Deck-Crash-Data-Collect"/>
+        <updated>2025-12-15T01:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Valve's Steam Deck with SteamOS features built-in crash data collection as well as for logging other system events worth having knowledge about like the split-lock detection and other events. This is all opt-in by users for data collection by Steam, but for those curious about a bit more insight into this Steam Deck data collection, a presentation at this past week's Linux Plumbers Conference dove into the matter...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Postřehy z bezpečnosti: kritická chyba React2Shell mění pravidla hry]]></title>
         <id>www.root.cz-text-18837</id>
@@ -121,15 +140,6 @@ All Divine Gifts upgrades in Diablo 4 Season 11
 How to upgrade Divine Gifts in Diablo 4 Season …]]></summary>
         <author>
             <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Start Deck 100 Battle Collection” All 742 Main Set Cards Fully Revealed!]]></title>
-        <id>156568</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cstart-deck-100-battle-collection%E2%80%9D-all-742-main-set-cards-fully-revealed.156568/"/>
-        <updated>2025-12-14T20:51:21.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1940,6 +1950,42 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7907-5: Linux kernel kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7907-5</id>
+        <link href="https://ubuntu.com/security/notices/USN-7907-5"/>
+        <updated>2025-12-12T13:44:24.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - Hardware monitoring drivers;
+  - InfiniBand drivers;
+  - Mailbox framework;
+  - Network drivers;
+  - AFS file system;
+  - Ceph distributed file system;
+  - Network file system (NFS) server daemon;
+  - NILFS2 file system;
+  - File systems infrastructure;
+  - KVM subsystem;
+  - L3 Master device support module;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+  - Open vSwitch;
+(CVE-2021-47385, CVE-2022-49026, CVE-2022-49390, CVE-2024-49935,
+CVE-2024-49963, CVE-2024-50067, CVE-2024-50095, CVE-2024-50179,
+CVE-2024-53090, CVE-2024-53112, CVE-2024-53217, CVE-2024-58083,
+CVE-2025-21715, CVE-2025-21722, CVE-2025-21761, CVE-2025-21791,
+CVE-2025-21811, CVE-2025-21855, CVE-2025-37958, CVE-2025-38666,
+CVE-2025-39964, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3D mapa 97 % všech budov na světě]]></title>
         <id>www.root.cz-actuality-50430</id>
         <link href="https://www.root.cz/zpravicky/3d-mapa-97-vsech-budov-na-svete/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2467,6 +2513,43 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7889-6: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7889-6</id>
+        <link href="https://ubuntu.com/security/notices/USN-7889-6"/>
+        <updated>2025-12-11T20:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Media drivers;
+  - Network drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7906-3: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7906-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7906-3"/>
+        <updated>2025-12-11T19:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic API;
+  - Android drivers;
+  - TTY drivers;
+  - F2FS file system;
+  - 9P file system network protocol;
+(CVE-2025-40025, CVE-2025-40026, CVE-2025-40027, CVE-2025-40028,
+CVE-2025-40108, CVE-2025-40109)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Elite Four — Pokemon’s Four Deck Format]]></title>
         <id>156563</id>
         <link href="https://www.pokebeach.com/forums/threads/the-elite-four-%E2%80%94-pokemon%E2%80%99s-four-deck-format.156563/"/>
@@ -2476,13 +2559,47 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[System76 Launches Pop!_OS 24.04 LTS With COSMIC Desktop]]></title>
-        <id>https://www.phoronix.com/news/System76-Ships-Pop-OS-24.04</id>
-        <link href="https://www.phoronix.com/news/System76-Ships-Pop-OS-24.04"/>
-        <updated>2025-12-11T18:20:27.000Z</updated>
-        <summary type="html"><![CDATA[Back in October System76 announced a planned release date for Pop!_OS 24.04 LTS and the COSMIC Desktop... And they've made it! The new Pop!_OS 24.04 is now available for download as the long-awaited update atop an Ubuntu 24.04 LTS base while using their Rust-based COSMIC desktop environment...]]></summary>
+        <title type="html"><![CDATA[USN-7928-3: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7928-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7928-3"/>
+        <updated>2025-12-11T18:22:02.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Network drivers;
+  - AFS file system;
+  - F2FS file system;
+  - Tracing infrastructure;
+  - Netfilter;
+(CVE-2022-49390, CVE-2024-47691, CVE-2024-50067, CVE-2024-53090,
+CVE-2024-53218, CVE-2025-21855, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
         <author>
-            <name>Michael Larabel</name>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7928-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7928-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7928-2"/>
+        <updated>2025-12-11T18:11:12.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Network drivers;
+  - AFS file system;
+  - F2FS file system;
+  - Tracing infrastructure;
+  - Netfilter;
+(CVE-2022-49390, CVE-2024-47691, CVE-2024-50067, CVE-2024-53090,
+CVE-2024-53218, CVE-2025-21855, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2502,6 +2619,28 @@ Read more]]></summary>
         <updated>2025-12-11T17:52:34.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7928-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7928-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7928-1"/>
+        <updated>2025-12-11T17:50:36.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Network drivers;
+  - AFS file system;
+  - F2FS file system;
+  - Tracing infrastructure;
+  - Netfilter;
+(CVE-2022-49390, CVE-2024-47691, CVE-2024-50067, CVE-2024-53090,
+CVE-2024-53218, CVE-2025-21855, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2550,6 +2689,34 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7922-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7922-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7922-2"/>
+        <updated>2025-12-11T16:35:08.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - Pin controllers subsystem;
+  - AFS file system;
+  - F2FS file system;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+(CVE-2022-49026, CVE-2022-49390, CVE-2024-47691, CVE-2024-49935,
+CVE-2024-50067, CVE-2024-50095, CVE-2024-50196, CVE-2024-53090,
+CVE-2024-53218, CVE-2025-21855, CVE-2025-37958, CVE-2025-38666,
+CVE-2025-39964, CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[More Cards from “Start Deck 100 Battle Collection” Revealed, Including Erika’s Pokemon!]]></title>
         <id>156559</id>
         <link href="https://www.pokebeach.com/forums/threads/more-cards-from-%E2%80%9Cstart-deck-100-battle-collection%E2%80%9D-revealed-including-erika%E2%80%99s-pokemon.156559/"/>
@@ -2568,6 +2735,27 @@ Prompting me to give TubezGames' small lorry game a go was the fact it's just em
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7927-1: urllib3 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7927-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7927-1"/>
+        <updated>2025-12-11T15:15:13.000Z</updated>
+        <summary type="html"><![CDATA[Illia Volochii discovered that urllib3 did not limit the steps in a
+decompression chain. An attacker could possibly use this issue to cause
+urllib3 to use excessive resources, causing a denial of service.
+(CVE-2025-66418)
+
+Rui Xi discovered that urllib3 incorrectly handled highly compressed data.
+An attacker could possibly use this issue to cause urllib3 to use excessive
+resources, causing a denial of service. This issue only affected Ubuntu
+24.04 LTS, Ubuntu 25.04, and Ubuntu 25.10. (CVE-2025-66471)
+
+For the brotli encoding, the fix for CVE-2025-66471 requires an additional
+security update in the brotli package.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2623,6 +2811,26 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7926-1: OpenStack Keystone vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7926-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7926-1"/>
+        <updated>2025-12-11T14:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Kay discovered that OpenStack Keystone incorrectly handled the ec2tokens
+and s3tokens APIs. A remote attacker could possibly use this issue to
+obtain unauthorized access and escalate privileges. (CVE-2025-65073)
+
+It was discovered that OpenStack Keystone only validated the first 72
+bytes of an application secret. An attacker could possibly use this issue
+to bypass password complexity. (CVE-2021-3563)
+
+It was discovered that OpenStack Keystone had a time lag before a token
+should be revoked by the security policy. A remote administrator could use
+this issue to maintain access for longer than expected. (CVE-2022-2447)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Total War: Warhammer 40,000 reveal likely after telltale word "40K" spotted in Creative Assembly video]]></title>
         <id>https://www.rockpapershotgun.com/total-war-warhammer-40000-reveal-likely-after-telltale-words-40k-spotted-in-creative-assembly-video</id>
         <link href="https://www.rockpapershotgun.com/total-war-warhammer-40000-reveal-likely-after-telltale-words-40k-spotted-in-creative-assembly-video"/>
@@ -2635,6 +2843,18 @@ Geoff grabs his groin and waddles away desperately, but not fast enough. His bac
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7925-1: c-ares vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7925-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7925-1"/>
+        <updated>2025-12-11T13:07:40.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that c-ares incorrectly handled terminating certain
+queries after a maximum number of attempts. An attacker could possibly use
+this issue to cause c-ares to crash, resulting in a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
