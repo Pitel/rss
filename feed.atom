@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-16T03:20:19.042Z</id>
+    <id>urn:2025-12-16T04:31:14.226Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-12-16T03:20:19.042Z</updated>
+    <updated>2025-12-16T04:31:14.226Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Nintendo Music Update Adds Super Mario's OG Game Boy Outing]]></title>
+        <title type="html"><![CDATA[Nintendo Music Update Adds Super Mario's OG Game Boy Outing, Here's Every Song Included]]></title>
         <id>https://www.nintendolife.com/#article-195361</id>
-        <link href="https://www.nintendolife.com/news/2025/12/nintendo-music-update-adds-super-marios-og-game-boy-outing"/>
+        <link href="https://www.nintendolife.com/news/2025/12/nintendo-music-update-adds-super-marios-og-game-boy-outing-heres-every-song-included"/>
         <updated>2025-12-16T02:45:00.000Z</updated>
         <summary type="html"><![CDATA[Listen to 33 tracks.
 Nintendo's been bolstering its Nintendo Music app library with new (and old) songs throughout 2025, and the latest album to join the service this week is based on Super Mario Land.
-Although this is a soundtrack from the Game Boy era, it's got 33 tracks (some of those are brief sound bytes, but there's still plenty to listen to). Combined, the album has a total runtime of 24 minutes.
+Although this is a soundtrack dating back to the Game Boy era, it's actually packed with 33 tracks (some of those are brief sound bytes, but there's still plenty to listen to). Combined, the album has a total runtime of 24 minutes. It's filled with bangers like Birabuto Kingdom BGM and Muda Kingdom BGM.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -24,8 +24,8 @@ Read the full article on nintendolife.com]]></summary>
         <link href="https://www.nintendolife.com/news/2025/12/mario-kart-world-has-been-updated-to-version-1-4-1-here-are-the-full-patch-notes"/>
         <updated>2025-12-16T01:45:00.000Z</updated>
         <summary type="html"><![CDATA[Download this update on Switch 2 today.
-Nintendo has released its second patch for Mario Kart World this month. This one is much smaller following the big 1.4.0 update at the start of December.
-Here's what you can expect from Version 1.4.1, according to the official Nintendo support page. If there is anything else going on behind the scenes with this latest update, we'll let you know.
+Nintendo has released its second patch for Mario Kart World this month (and perhaps the final update for the game in 2025). This one is much smaller than the 1.4.0 update that dropped at the start of December.
+Here's what you can expect from Version 1.4.1, according to the official Nintendo support page. It addresses an issue tied to controller disconnects and reconnects. If there is anything else going on behind the scenes with this latest update, we'll be sure to let you know.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -100,6 +100,61 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7937-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7937-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7937-1"/>
+        <updated>2025-12-16T00:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - DMA engine subsystem;
+  - GPU drivers;
+  - HSI subsystem;
+  - Hardware monitoring drivers;
+  - InfiniBand drivers;
+  - Mailbox framework;
+  - Network drivers;
+  - Ethernet team driver;
+  - AFS file system;
+  - Ceph distributed file system;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - NILFS2 file system;
+  - File systems infrastructure;
+  - KVM subsystem;
+  - L3 Master device support module;
+  - Timer subsystem;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - DCCP (Datagram Congestion Control Protocol);
+  - IPv6 networking;
+  - Netfilter;
+  - NET/ROM layer;
+  - Open vSwitch;
+  - SCTP protocol;
+  - USB sound devices;
+(CVE-2021-47385, CVE-2022-49026, CVE-2022-49390, CVE-2023-52574,
+CVE-2023-52650, CVE-2024-41006, CVE-2024-49935, CVE-2024-49963,
+CVE-2024-50006, CVE-2024-50067, CVE-2024-50095, CVE-2024-50179,
+CVE-2024-50299, CVE-2024-53090, CVE-2024-53112, CVE-2024-53124,
+CVE-2024-53150, CVE-2024-53217, CVE-2024-56767, CVE-2024-58083,
+CVE-2025-21715, CVE-2025-21722, CVE-2025-21761, CVE-2025-21791,
+CVE-2025-21811, CVE-2025-21855, CVE-2025-37838, CVE-2025-37958,
+CVE-2025-38352, CVE-2025-38666, CVE-2025-39964, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Metagross V Max and Ambipom Deck]]></title>
         <id>156569</id>
         <link href="https://www.pokebeach.com/forums/threads/metagross-v-max-and-ambipom-deck.156569/"/>
@@ -150,6 +205,56 @@ The post Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7935-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7935-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7935-1"/>
+        <updated>2025-12-15T23:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - HSI subsystem;
+  - Media drivers;
+  - Network drivers;
+  - Bluetooth subsystem;
+  - Timer subsystem;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-21729, CVE-2025-37838, CVE-2025-37958, CVE-2025-38118,
+CVE-2025-38227, CVE-2025-38352, CVE-2025-38616, CVE-2025-38666,
+CVE-2025-38678, CVE-2025-39964, CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7936-1: Linux kernel (OEM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7936-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7936-1"/>
+        <updated>2025-12-15T23:32:39.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Compute Acceleration Framework;
+  - Media drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-39946, CVE-2025-39964, CVE-2025-39993, CVE-2025-40018,
+CVE-2025-40172, CVE-2025-40177)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon Hits Mini PCs Hard, Apple’s Newest Mac Mini at Record Low Price Makes Mid-Range Options Obsolete]]></title>
         <id>https://kotaku.com/?p=2000653505</id>
         <link href="https://kotaku.com/amazon-hits-mini-pcs-hard-apples-newest-mac-mini-at-record-low-price-makes-mid-range-options-obsolete-2000653505"/>
@@ -158,6 +263,21 @@ The post Dell i7 1TB Laptop Rated 5/5 Stars Drops 73% Off on Amazon, Crashes to 
 The post Amazon Hits Mini PCs Hard, Apple’s Newest Mac Mini at Record Low Price Makes Mid-Range Options Obsolete appeared first on Kotaku.]]></summary>
         <author>
             <name>Kotaku Deals</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7920-2: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7920-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7920-2"/>
+        <updated>2025-12-15T23:05:11.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Tracing infrastructure;
+  - Netfilter;
+(CVE-2025-40018, CVE-2025-40232)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -375,6 +495,30 @@ Mesa Prime and Hydroid…]]></summary>
         <summary type="html"><![CDATA[Longtime Red Hat engineer Hans de Goede who worked on many Intel/AMD laptop enhancements over the years left Red Hat and ended up joining Qualcomm. Now it turns out one of his projects at Qualcomm is enhancing the Fedora Linux support for running nicely out-of-the-box on Snapdragon-powered Windows on ARM laptops...]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7934-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7934-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7934-1"/>
+        <updated>2025-12-15T20:51:05.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
+allow a local attacker with hypervisor access to overwrite SEV-SNP guest
+memory resulting in loss of data integrity. (CVE-2024-36331)
+
+Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -767,6 +911,69 @@ The post TP-Link Wi-Fi 7 Adapter Drops to an All-Time Low, Making the Upgrade Fr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7909-5: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7909-5</id>
+        <link href="https://ubuntu.com/security/notices/USN-7909-5"/>
+        <updated>2025-12-15T17:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - ACPI drivers;
+  - ATM drivers;
+  - DRBD Distributed Replicated Block Device drivers;
+  - Bus devices;
+  - Clock framework and drivers;
+  - Data acquisition framework and drivers;
+  - Hardware crypto device drivers;
+  - Device frequency scaling framework;
+  - Buffer Sharing and Synchronization framework;
+  - DMA engine subsystem;
+  - ARM SCMI message protocol;
+  - GPU drivers;
+  - HID subsystem;
+  - Hardware monitoring …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7933-1: Linux kernel (KVM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7933-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7933-1"/>
+        <updated>2025-12-15T17:01:57.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - ACPI drivers;
+  - ATM drivers;
+  - DRBD Distributed Replic…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ah yes, here's Megabonk's Halloween update, just in time for Christmas]]></title>
         <id>https://www.rockpapershotgun.com/ah-yes-heres-megabonks-halloween-update-just-in-time-for-christmas</id>
         <link href="https://www.rockpapershotgun.com/ah-yes-heres-megabonks-halloween-update-just-in-time-for-christmas"/>
@@ -871,6 +1078,25 @@ The post Microsoft Practically Gives Away Windows 11 Pro at 94% Off, Plus a Kota
 The post <i>Star Wars: Fate Of The Old Republic</i>‘s Director Promises It Will Arrive Before 2030 appeared first on Kotaku.]]></summary>
         <author>
             <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7931-3: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7931-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7931-3"/>
+        <updated>2025-12-15T16:15:07.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+(CVE-2025-37958, CVE-2025-38666, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1006,6 +1232,18 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7932-1: libsoup vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7932-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7932-1"/>
+        <updated>2025-12-15T15:05:29.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered libsoup incorrectly handled memory when handling specific
+HTTP/2 read and cancel sequences. An attacker could possibly use this issue
+to cause a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tomb Raider devs say the first of 2 newly-announced games is a ‘reimagining’ of the 1996 PlayStation classic—not a remake]]></title>
         <id>https://www.destructoid.com/?p=1154369</id>
         <link href="https://www.destructoid.com/tomb-raider-legacy-atlantis-catalyst-devs-interview/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tomb-raider-legacy-atlantis-catalyst-devs-interview"/>
@@ -1031,6 +1269,25 @@ Image via Crystal Dynamics
 Tomb Raider: Legacy …]]></summary>
         <author>
             <name>Scott Duwe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7931-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7931-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7931-2"/>
+        <updated>2025-12-15T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+(CVE-2025-37958, CVE-2025-38666, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1573,6 +1830,15 @@ Well, the time is almost upon us once more, as No Gravity Games has announced th
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jumping Frog Radius]]></title>
+        <id>https://xkcd.com/3181/</id>
+        <link href="https://xkcd.com/3181/"/>
+        <updated>2025-12-15T05:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -4073,15 +4339,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[MXeny: cesta k výkonnějším a stabilnějším bateriím. Už během pouhé sekundy po velkém třesku mohly vzniknout černé díry, bosonové a kanibalské hvězdy. Jaké jsou obecné zákony nekonvenční supravodivosti?]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chessboard Alignment]]></title>
-        <id>https://xkcd.com/3177/</id>
-        <link href="https://xkcd.com/3177/"/>
-        <updated>2025-12-05T05:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
