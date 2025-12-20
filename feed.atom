@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-20T14:13:54.824Z</id>
+    <id>urn:2025-12-20T16:17:52.660Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-12-20T14:13:54.824Z</updated>
+    <updated>2025-12-20T16:17:52.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Secret Rares from “Start Deck 100 Battle Collection” Revealed!]]></title>
+        <id>156584</id>
+        <link href="https://www.pokebeach.com/forums/threads/secret-rares-from-%E2%80%9Cstart-deck-100-battle-collection%E2%80%9D-revealed.156584/"/>
+        <updated>2025-12-20T16:11:56.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Munikis Zero” Set Featuring Mega Zygarde ex Officially Revealed for January!]]></title>
         <id>156590</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmunikis-zero%E2%80%9D-set-featuring-mega-zygarde-ex-officially-revealed-for-january.156590/"/>
-        <updated>2025-12-20T14:09:05.000Z</updated>
+        <updated>2025-12-20T16:05:10.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reminder: It's Time To Rate Your Switch 1 & 2 Games Of The Year]]></title>
+        <id>https://www.nintendolife.com/#article-194618</id>
+        <link href="https://www.nintendolife.com/news/2025/12/reminder-its-time-to-rate-your-switch-1-and-2-games-of-the-year"/>
+        <updated>2025-12-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A wild GOTY appears!
+Just a reminder that we'll be publishing our 2025 GOTYs soon — both yours and ours! If you haven't rated the Switch 1 & 2 games you've played yet (or if you've played something new in the last couple of weeks), feel free to read on and have your say.
+And if you've rated them already? Nicely done, lovely person! As you were.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Mint 22.3 Beta Released With Cinnamon 6.6 Desktop]]></title>
+        <id>https://www.phoronix.com/news/Linux-Mint-22.3-Beta</id>
+        <link href="https://www.phoronix.com/news/Linux-Mint-22.3-Beta"/>
+        <updated>2025-12-20T15:37:49.000Z</updated>
+        <summary type="html"><![CDATA[The beta release of Linux Mint 22.3 "Zena" is now available for testing ahead of the holidays for this latest incremental update to this desktop OS built atop an Ubuntu 24.04 LTS base...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Website/App to find every card?]]></title>
+        <id>156591</id>
+        <link href="https://www.pokebeach.com/forums/threads/website-app-to-find-every-card.156591/"/>
+        <updated>2025-12-20T15:12:30.000Z</updated>
+        <author>
+            <name>Meowtg22</name>
         </author>
     </entry>
     <entry>
@@ -108,15 +149,6 @@ I used to play every Telltale game with a character arc in mind, largely to see 
 Read more]]></summary>
         <author>
             <name>Callum Williams</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Website/App to find every card?]]></title>
-        <id>156591</id>
-        <link href="https://www.pokebeach.com/forums/threads/website-app-to-find-every-card.156591/"/>
-        <updated>2025-12-20T11:32:17.000Z</updated>
-        <author>
-            <name>Meowtg22</name>
         </author>
     </entry>
     <entry>
@@ -538,15 +570,6 @@ Th…]]></summary>
         <id>156586</id>
         <link href="https://www.pokebeach.com/forums/threads/pokemon%E2%80%99s-millennium-print-group-signs-largest-u-s-manufacturing-lease-of-2025-will-occupy-1-27-million-square-foot-campus-to-print-cards.156586/"/>
         <updated>2025-12-19T20:48:35.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secret Rares from “Start Deck 100 Battle Collection” Revealed!]]></title>
-        <id>156584</id>
-        <link href="https://www.pokebeach.com/forums/threads/secret-rares-from-%E2%80%9Cstart-deck-100-battle-collection%E2%80%9D-revealed.156584/"/>
-        <updated>2025-12-19T20:33:31.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -1480,6 +1503,56 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7922-3: Linux kernel (Oracle) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7922-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7922-3"/>
+        <updated>2025-12-19T14:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - Pin controllers subsystem;
+  - AFS file system;
+  - F2FS file system;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+(CVE-2022-49026, CVE-2022-49390, CVE-2024-47691, CVE-2024-49935,
+CVE-2024-50067, CVE-2024-50095, CVE-2024-50196, CVE-2024-53090,
+CVE-2024-53218, CVE-2025-21855, CVE-2025-37958, CVE-2025-38666,
+CVE-2025-39964, CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7928-4: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7928-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7928-4"/>
+        <updated>2025-12-19T14:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Network drivers;
+  - AFS file system;
+  - F2FS file system;
+  - Tracing infrastructure;
+  - Netfilter;
+(CVE-2022-49390, CVE-2024-47691, CVE-2024-50067, CVE-2024-53090,
+CVE-2024-53218, CVE-2025-21855, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JBL Breaks Its Pricing Rules on the Clip 5 Speaker, Basically Giving It Away as a Christmas Deal]]></title>
         <id>https://kotaku.com/?p=2000654316</id>
         <link href="https://kotaku.com/jbl-breaks-its-pricing-rules-on-the-clip-5-speaker-basically-giving-it-away-as-a-christmas-deal-2000654316"/>
@@ -1488,6 +1561,42 @@ Read the full article on nintendolife.com]]></summary>
 The post JBL Breaks Its Pricing Rules on the Clip 5 Speaker, Basically Giving It Away as a Christmas Deal appeared first on Kotaku.]]></summary>
         <author>
             <name>Joe Tilleli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7931-4: Linux kernel (Xilinx) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7931-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7931-4"/>
+        <updated>2025-12-19T14:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+(CVE-2025-37958, CVE-2025-38666, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7921-2: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7921-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7921-2"/>
+        <updated>2025-12-19T14:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-39946, CVE-2025-39964, CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2331,19 +2440,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PowerWash Simulator 2's First DLC Pack Will Take Us On An Adventure Next Year]]></title>
-        <id>https://www.nintendolife.com/#article-195535</id>
-        <link href="https://www.nintendolife.com/news/2025/12/powerwash-simulator-2s-first-dlc-pack-will-take-us-on-an-adventure-next-year"/>
-        <updated>2025-12-18T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Come on, grab your friends.
-PowerWash Simulator racked up some pretty impressive crossover DLC in its time, and its sequel looks like it'll start doing the same next year.
-FuturLab has today lifted the lid on PowerWash Simulator 2's first DLC pack, featuring none other than a handful of locales from the beloved Cartoon Network series, Adventure Time. We don't have all that much information on what areas from the Land of Ooo will need a scrubbing, though the developer has confirmed that there will be five of them, each of which can be tackled with up to three pals.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[All 22 New Mega Evolutions in “Mega Dimension” Revealed, What to Expect for 2026’s TCG Sets!]]></title>
         <id>156565</id>
         <link href="https://www.pokebeach.com/forums/threads/all-22-new-mega-evolutions-in-%E2%80%9Cmega-dimension%E2%80%9D-revealed-what-to-expect-for-2026%E2%80%99s-tcg-sets.156565/"/>
@@ -2626,16 +2722,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Video Processing Library Adding AI Assisted Video Encoder Features]]></title>
-        <id>https://www.phoronix.com/news/Intel-libvpi-AI-Assisted-Encode</id>
-        <link href="https://www.phoronix.com/news/Intel-libvpi-AI-Assisted-Encode"/>
-        <updated>2025-12-18T01:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Video Processing Library "libvpl" is out with a new version ahead of the holidays. The only major change with libvpl 2.16 is adding experimental APIs for AI-assisted video encode functionality...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tvorba grafického rozhraní v Pythonu s využitím knihovny Kivy]]></title>
         <id>www.root.cz-text-18858</id>
         <link href="https://www.root.cz/clanky/tvorba-grafickeho-uzivatelskeho-rozhrani-v-pythonu-s-vyuzitim-knihovny-kivy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2643,6 +2729,36 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Pro Python vzniklo velké množství knihoven a frameworků pro tvorbu aplikací s grafickým rozhraním. Tyto knihovny podporují jak klasické GUI (příkladem je Tkinter nebo PySide), tak i moderní GUI určené mj. i pro mobilní zařízení.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7940-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7940-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7940-1"/>
+        <updated>2025-12-17T20:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Cryptographic API;
+  - ACPI drivers;
+  - Ublk userspace block driver;
+  - Clock framework and drivers;
+  - EDAC drivers;
+  - GPU drivers;
+  - HSI subsystem;
+  - IIO subsystem;
+  - …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2897,6 +3013,90 @@ Xr Glimmer Version 1.0.0-alpha03]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7939-2: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7939-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7939-2"/>
+        <updated>2025-12-16T22:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - HSI subsystem;
+  - I3C subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - Pin controllers subsystem;
+  - AFS file system;
+  - F2FS file system;
+  - SMB network file system;
+  - Padata parallel execution mechanism;
+  - Timer subsystem;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Networking core;
+  - Netfilter;
+(CVE-2022-49026, CVE-2022-49390, CVE-2023-52854, CVE-2024-35867,
+CVE-2024-47691, CVE-2024-49935, CVE-2024-50061, CVE-2024-50067,
+CVE-2024-50095, CVE-2024-50196, CVE-2024-53090, CVE-2024-53218,
+CVE-2024-56664, CVE-2025-21727, CVE-2025-21855, CVE-2025-37838,
+CVE-2025-37958, CVE-2025-38352, CVE-2025-38666, CVE-2025-39964,
+CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7939-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7939-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7939-1"/>
+        <updated>2025-12-16T20:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - HSI subsystem;
+  - I3C subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - Pin controllers subsystem;
+  - AFS file system;
+  - F2FS file system;
+  - SMB network file system;
+  - Padata parallel execution mechanism;
+  - Timer subsystem;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Networking core;
+  - Netfilter;
+(CVE-2022-49026, CVE-2022-49390, CVE-2023-52854, CVE-2024-35867,
+CVE-2024-47691, CVE-2024-49935, CVE-2024-50061, CVE-2024-50067,
+CVE-2024-50095, CVE-2024-50196, CVE-2024-53090, CVE-2024-53218,
+CVE-2024-56664, CVE-2025-21727, CVE-2025-21855, CVE-2025-37838,
+CVE-2025-37958, CVE-2025-38352, CVE-2025-38666, CVE-2025-39964,
+CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Larian boss responds to criticism of generative AI use: "it's something we are constantly discussing internally"]]></title>
         <id>https://www.rockpapershotgun.com/larian-boss-responds-to-criticism-of-generative-ai-use-its-something-we-are-constantly-discussing-internally</id>
         <link href="https://www.rockpapershotgun.com/larian-boss-responds-to-criticism-of-generative-ai-use-its-something-we-are-constantly-discussing-internally"/>
@@ -2948,6 +3148,36 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7938-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7938-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7938-1"/>
+        <updated>2025-12-16T14:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - ATM drivers;
+  - …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nová verze MidnightBSD 4.0 se stále drží základu FreeBSD 13]]></title>
         <id>www.root.cz-actuality-50475</id>
         <link href="https://www.root.cz/zpravicky/nova-verze-midnightbsd-4-0-se-stale-drzi-zakladu-freebsd-13/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2979,6 +3209,23 @@ Read more]]></summary>
         <updated>2025-12-16T13:43:56.000Z</updated>
         <author>
             <name>Royalcreeper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7889-7: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7889-7</id>
+        <link href="https://ubuntu.com/security/notices/USN-7889-7"/>
+        <updated>2025-12-16T13:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Media drivers;
+  - Network drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3099,6 +3346,61 @@ Oh dear, there's another player inside that bunker and she won't let you in. Sti
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7937-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7937-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7937-1"/>
+        <updated>2025-12-16T00:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - DMA engine subsystem;
+  - GPU drivers;
+  - HSI subsystem;
+  - Hardware monitoring drivers;
+  - InfiniBand drivers;
+  - Mailbox framework;
+  - Network drivers;
+  - Ethernet team driver;
+  - AFS file system;
+  - Ceph distributed file system;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - NILFS2 file system;
+  - File systems infrastructure;
+  - KVM subsystem;
+  - L3 Master device support module;
+  - Timer subsystem;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - DCCP (Datagram Congestion Control Protocol);
+  - IPv6 networking;
+  - Netfilter;
+  - NET/ROM layer;
+  - Open vSwitch;
+  - SCTP protocol;
+  - USB sound devices;
+(CVE-2021-47385, CVE-2022-49026, CVE-2022-49390, CVE-2023-52574,
+CVE-2023-52650, CVE-2024-41006, CVE-2024-49935, CVE-2024-49963,
+CVE-2024-50006, CVE-2024-50067, CVE-2024-50095, CVE-2024-50179,
+CVE-2024-50299, CVE-2024-53090, CVE-2024-53112, CVE-2024-53124,
+CVE-2024-53150, CVE-2024-53217, CVE-2024-56767, CVE-2024-58083,
+CVE-2025-21715, CVE-2025-21722, CVE-2025-21761, CVE-2025-21791,
+CVE-2025-21811, CVE-2025-21855, CVE-2025-37838, CVE-2025-37958,
+CVE-2025-38352, CVE-2025-38666, CVE-2025-39964, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
