@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-25T04:33:39.524Z</id>
+    <id>urn:2025-12-25T06:25:33.254Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-12-25T04:33:39.524Z</updated>
+    <updated>2025-12-25T06:25:33.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to fix error ART00004 in ARC Raiders]]></title>
+        <id>https://www.destructoid.com/?p=1137023</id>
+        <link href="https://www.destructoid.com/how-to-fix-error-art00004-in-arc-raiders/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-fix-error-art00004-in-arc-raiders"/>
+        <updated>2025-12-25T05:40:22.000Z</updated>
+        <summary type="html"><![CDATA[When the world was taken over by AI in ARC Raiders, they left behind their pesky error codes to troll us, too.
+
+
+Error codes are a constant in always-online games like ARC Raiders or just about anything else in 2025 or beyond, but that doesn't make them any less annoying. The ART00004 Network Timeout error code has been popping up a lot for players, as an example.
+
+
+Here's everything we know about the error code and how to fix it.
+
+
+What is ART00004 in ARC Raiders? Network Timeout error
+
+
+Screenshot by Destructoid
+
+
+The ART00004 error is a Network Timeout error code in ARC Raiders, meaning that the game had an issue connecting to the servers or network. Specifically, the error notes that "retrieving data from backend services time out" and asks you to "please try again later."
+
+
+For the mo…]]></summary>
+        <author>
+            <name>Scott Duwe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ears and Fears — The Powerful Combo of Mega Lopunny ex and Dusknoir]]></title>
         <id>156593</id>
@@ -2202,38 +2230,6 @@ One of the architects of modern FPS games as we know it, Zampella's work history
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to complete The Fury (Part 1) in Avatar Frontiers of Pandora From the Ashes DLC]]></title>
-        <id>https://www.destructoid.com/?p=1158851</id>
-        <link href="https://www.destructoid.com/how-to-complete-the-fury-part-1-in-avatar-frontiers-of-pandora-from-the-ashes-dlc/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-complete-the-fury-part-1-in-avatar-frontiers-of-pandora-from-the-ashes-dlc"/>
-        <updated>2025-12-22T22:19:42.000Z</updated>
-        <summary type="html"><![CDATA[The Fury (Part 1) is the first of a new questline that's been added to Avatar Frontiers of Pandora as part of From the Ashes DLC.
-
-
-Divided into three parts, the quest takes you all across the new region in search of enemies and items. Part 1 begins with Yeylan informing So'lek that RDA is capturing animals from all over the map. Your first task is to perform a thorough investigation into the situation.
-
-
-Table of contents
-Avatar Frontiers of Pandora The Fury (Part 1) quest walkthrough
-
-Locate and Investigate the distress signal site
-Return the Stormglider egg
-Gp to the Resource Containment Outpost
-Access the control center at Resource Containment Outpost
-
-
-Avatar Frontiers of Pandora The Fury (Part 1) quest walkthrough
-
-
-The Fury (Part 1) quest can be broken down into four subparts.
-
-
-
-Lo…]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Taps More Performance Out Of AMD Zen CPUs With BPF-CCX Scheduling]]></title>
         <id>https://www.phoronix.com/news/Google-AMD-BPF-CCX</id>
         <link href="https://www.phoronix.com/news/Google-AMD-BPF-CCX"/>
@@ -3011,92 +3007,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7922-3: Linux kernel (Oracle) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7922-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-7922-3"/>
-        <updated>2025-12-19T14:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Cryptographic API;
-  - ACPI drivers;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - Pin controllers subsystem;
-  - AFS file system;
-  - F2FS file system;
-  - Tracing infrastructure;
-  - Memory management;
-  - Appletalk network protocol;
-  - Netfilter;
-(CVE-2022-49026, CVE-2022-49390, CVE-2024-47691, CVE-2024-49935,
-CVE-2024-50067, CVE-2024-50095, CVE-2024-50196, CVE-2024-53090,
-CVE-2024-53218, CVE-2025-21855, CVE-2025-37958, CVE-2025-38666,
-CVE-2025-39964, CVE-2025-39993, CVE-2025-40018)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7928-4: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7928-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-7928-4"/>
-        <updated>2025-12-19T14:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Cryptographic API;
-  - Media drivers;
-  - Network drivers;
-  - AFS file system;
-  - F2FS file system;
-  - Tracing infrastructure;
-  - Netfilter;
-(CVE-2022-49390, CVE-2024-47691, CVE-2024-50067, CVE-2024-53090,
-CVE-2024-53218, CVE-2025-21855, CVE-2025-39964, CVE-2025-39993,
-CVE-2025-40018)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7931-4: Linux kernel (Xilinx) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7931-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-7931-4"/>
-        <updated>2025-12-19T14:35:24.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Cryptographic API;
-  - Media drivers;
-  - Memory management;
-  - Appletalk network protocol;
-  - Netfilter;
-(CVE-2025-37958, CVE-2025-38666, CVE-2025-39964, CVE-2025-39993,
-CVE-2025-40018)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7921-2: Linux kernel (Real-time) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7921-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7921-2"/>
-        <updated>2025-12-19T14:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Cryptographic API;
-  - Media drivers;
-  - Netfilter;
-  - TLS protocol;
-(CVE-2025-39946, CVE-2025-39964, CVE-2025-39993, CVE-2025-40018)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Prize Pack Series Eight” to Release in January, Full Set List Revealed!]]></title>
         <id>156585</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cprize-pack-series-eight%E2%80%9D-to-release-in-january-full-set-list-revealed.156585/"/>
@@ -3500,36 +3410,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7940-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7940-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7940-1"/>
-        <updated>2025-12-17T20:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Cryptographic API;
-  - ACPI drivers;
-  - Ublk userspace block driver;
-  - Clock framework and drivers;
-  - EDAC drivers;
-  - GPU drivers;
-  - HSI subsystem;
-  - IIO subsystem;
-  - …]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In furious sci-fi RTS Warfactory you have to manufacture every piece of your killer robot army]]></title>
         <id>https://www.rockpapershotgun.com/in-4x-strategy-rts-warfactory-you-have-to-manufacture-every-piece-of-your-killer-robot-army</id>
         <link href="https://www.rockpapershotgun.com/in-4x-strategy-rts-warfactory-you-have-to-manufacture-every-piece-of-your-killer-robot-army"/>
@@ -3781,90 +3661,6 @@ Xr Glimmer Version 1.0.0-alpha03]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7939-2: Linux kernel (Azure FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7939-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7939-2"/>
-        <updated>2025-12-16T22:25:38.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Cryptographic API;
-  - ACPI drivers;
-  - HSI subsystem;
-  - I3C subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - Pin controllers subsystem;
-  - AFS file system;
-  - F2FS file system;
-  - SMB network file system;
-  - Padata parallel execution mechanism;
-  - Timer subsystem;
-  - Tracing infrastructure;
-  - Memory management;
-  - Appletalk network protocol;
-  - Networking core;
-  - Netfilter;
-(CVE-2022-49026, CVE-2022-49390, CVE-2023-52854, CVE-2024-35867,
-CVE-2024-47691, CVE-2024-49935, CVE-2024-50061, CVE-2024-50067,
-CVE-2024-50095, CVE-2024-50196, CVE-2024-53090, CVE-2024-53218,
-CVE-2024-56664, CVE-2025-21727, CVE-2025-21855, CVE-2025-37838,
-CVE-2025-37958, CVE-2025-38352, CVE-2025-38666, CVE-2025-39964,
-CVE-2025-39993, CVE-2025-40018)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7939-1: Linux kernel (Azure) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7939-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7939-1"/>
-        <updated>2025-12-16T20:58:22.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Cryptographic API;
-  - ACPI drivers;
-  - HSI subsystem;
-  - I3C subsystem;
-  - InfiniBand drivers;
-  - Media drivers;
-  - Network drivers;
-  - Pin controllers subsystem;
-  - AFS file system;
-  - F2FS file system;
-  - SMB network file system;
-  - Padata parallel execution mechanism;
-  - Timer subsystem;
-  - Tracing infrastructure;
-  - Memory management;
-  - Appletalk network protocol;
-  - Networking core;
-  - Netfilter;
-(CVE-2022-49026, CVE-2022-49390, CVE-2023-52854, CVE-2024-35867,
-CVE-2024-47691, CVE-2024-49935, CVE-2024-50061, CVE-2024-50067,
-CVE-2024-50095, CVE-2024-50196, CVE-2024-53090, CVE-2024-53218,
-CVE-2024-56664, CVE-2025-21727, CVE-2025-21855, CVE-2025-37838,
-CVE-2025-37958, CVE-2025-38352, CVE-2025-38666, CVE-2025-39964,
-CVE-2025-39993, CVE-2025-40018)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Larian boss responds to criticism of generative AI use: "it's something we are constantly discussing internally"]]></title>
         <id>https://www.rockpapershotgun.com/larian-boss-responds-to-criticism-of-generative-ai-use-its-something-we-are-constantly-discussing-internally</id>
         <link href="https://www.rockpapershotgun.com/larian-boss-responds-to-criticism-of-generative-ai-use-its-something-we-are-constantly-discussing-internally"/>
@@ -3916,36 +3712,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7938-1: Linux kernel (Azure) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7938-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7938-1"/>
-        <updated>2025-12-16T14:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM32 architecture;
-  - ARM64 architecture;
-  - MIPS architecture;
-  - PowerPC architecture;
-  - RISC-V architecture;
-  - S390 architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI drivers;
-  - ATM drivers;
-  - …]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nová verze MidnightBSD 4.0 se stále drží základu FreeBSD 13]]></title>
         <id>www.root.cz-actuality-50475</id>
         <link href="https://www.root.cz/zpravicky/nova-verze-midnightbsd-4-0-se-stale-drzi-zakladu-freebsd-13/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3977,23 +3743,6 @@ Read more]]></summary>
         <updated>2025-12-16T13:43:56.000Z</updated>
         <author>
             <name>Royalcreeper</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7889-7: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7889-7</id>
-        <link href="https://ubuntu.com/security/notices/USN-7889-7"/>
-        <updated>2025-12-16T13:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Media drivers;
-  - Network drivers;
-  - Netfilter;
-  - TLS protocol;
-(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4084,61 +3833,6 @@ Oh dear, there's another player inside that bunker and she won't let you in. Sti
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7937-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7937-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7937-1"/>
-        <updated>2025-12-16T00:21:35.000Z</updated>
-        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
-that the Linux kernel contained insufficient branch predictor isolation
-between a guest and a userspace hypervisor for certain processors. This
-flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
-to expose sensitive information from the host OS. (CVE-2025-40300)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Cryptographic API;
-  - ACPI drivers;
-  - DMA engine subsystem;
-  - GPU drivers;
-  - HSI subsystem;
-  - Hardware monitoring drivers;
-  - InfiniBand drivers;
-  - Mailbox framework;
-  - Network drivers;
-  - Ethernet team driver;
-  - AFS file system;
-  - Ceph distributed file system;
-  - Ext4 file system;
-  - Network file system (NFS) server daemon;
-  - NILFS2 file system;
-  - File systems infrastructure;
-  - KVM subsystem;
-  - L3 Master device support module;
-  - Timer subsystem;
-  - Tracing infrastructure;
-  - Memory management;
-  - Appletalk network protocol;
-  - DCCP (Datagram Congestion Control Protocol);
-  - IPv6 networking;
-  - Netfilter;
-  - NET/ROM layer;
-  - Open vSwitch;
-  - SCTP protocol;
-  - USB sound devices;
-(CVE-2021-47385, CVE-2022-49026, CVE-2022-49390, CVE-2023-52574,
-CVE-2023-52650, CVE-2024-41006, CVE-2024-49935, CVE-2024-49963,
-CVE-2024-50006, CVE-2024-50067, CVE-2024-50095, CVE-2024-50179,
-CVE-2024-50299, CVE-2024-53090, CVE-2024-53112, CVE-2024-53124,
-CVE-2024-53150, CVE-2024-53217, CVE-2024-56767, CVE-2024-58083,
-CVE-2025-21715, CVE-2025-21722, CVE-2025-21761, CVE-2025-21791,
-CVE-2025-21811, CVE-2025-21855, CVE-2025-37838, CVE-2025-37958,
-CVE-2025-38352, CVE-2025-38666, CVE-2025-39964, CVE-2025-40018)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
