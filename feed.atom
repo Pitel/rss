@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-28T14:14:37.991Z</id>
+    <id>urn:2025-12-28T16:18:56.288Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-12-28T14:14:37.991Z</updated>
+    <updated>2025-12-28T16:18:56.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Xe vs. i915 Driver Performance On Linux 6.19 For Arc Alchemist GPUs]]></title>
+        <id>https://www.phoronix.com/review/intel-xe-i915-linux-619</id>
+        <link href="https://www.phoronix.com/review/intel-xe-i915-linux-619"/>
+        <updated>2025-12-28T16:10:45.000Z</updated>
+        <summary type="html"><![CDATA[Similar to AMD GCN 1.0/1.1 GPUs where there was product overlap between the Radeon and AMDGPU kernel drivers (and now using AMDGPU by default for those aging Radeon GPUs with Linux 6.19), the Intel Arc A-Series "Alchenist" graphics cards are in a similar boat. By default the Alchemist and Meteor Lake graphics use the i915 kernel driver by default but they can optionally use the Xe kernel driver instead as what is Intel's modern open-source kernel graphics driver. As part of our various year end 2025 benchmarks, today is a look at the current i915 vs. Xe driver performance for the Intel Arc Graphics A580.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Editorial: Gamers, Support The People And Sites You Love, Before It's Too Late]]></title>
+        <id>https://www.nintendolife.com/#article-181844</id>
+        <link href="https://www.nintendolife.com/features/editorial-gamers-support-the-people-and-sites-you-love-before-its-too-late"/>
+        <updated>2025-12-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Forever.
+Over the holiday season, we're republishing some of the best articles from Nintendo Life writers and contributors from 2025. This article was originally published in May.
+We should note that the Giant Bomb story had a happy ending, with the staff buying GB from Fandom and going independent. Yes! Nevertheless, in another turbulent year for the games industry and the media covering it, it's more important than ever to support the work you love...
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The eighth RPS Christmas Cracker 2025]]></title>
+        <id>https://www.rockpapershotgun.com/the-eighth-rps-christmas-cracker-2025</id>
+        <link href="https://www.rockpapershotgun.com/the-eighth-rps-christmas-cracker-2025"/>
+        <updated>2025-12-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We eight scribes from RPS are,
+Bearing jokes, we wrote in the past,
+Christmas crackers, god we’re knackered,
+After twelve months of graft.
+O, reader of wonder, loved the most,
+Why not subscribe to Supporters posts?
+January leading, still proceeding,
+See you once we’ve munched our roasts.
+
+But first, time to enjoy your lovely joke!
+Read more]]></summary>
+        <author>
+            <name>RPS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora Continued At The Forefront Of Upstream Linux Innovations In 2025]]></title>
+        <id>https://www.phoronix.com/news/Fedora-Linux-2025-Highlights</id>
+        <link href="https://www.phoronix.com/news/Fedora-Linux-2025-Highlights"/>
+        <updated>2025-12-28T15:38:27.000Z</updated>
+        <summary type="html"><![CDATA[Fedora Linux this year continued in punctually shipping the very latest upstream Linux innovations from the freshest Wayland components to Linux kernel features and continuing to leverage other improvements in the open-source world...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Intel Xe3_LPD Firmware Binaries For Linux Ahead Of Panther Lake Laptops Launching]]></title>
+        <id>https://www.phoronix.com/news/Intel-Xe3-LPD-New-Firmware-CES</id>
+        <link href="https://www.phoronix.com/news/Intel-Xe3-LPD-New-Firmware-CES"/>
+        <updated>2025-12-28T15:09:12.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of Intel Core Ultra "Panther Lake" laptops expected to be showcased in just over one week at CES in Las Vegas, new Xe3_LPD firmware binaries were upstreamed today to linux-firmware.git in getting ready that production-ready support for Intel Panther Lake on Linux...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mega Skarmory ex from “Nihil Zero” Revealed!]]></title>
+        <id>156594</id>
+        <link href="https://www.pokebeach.com/forums/threads/mega-skarmory-ex-from-%E2%80%9Cnihil-zero%E2%80%9D-revealed.156594/"/>
+        <updated>2025-12-28T14:43:11.000Z</updated>
+        <author>
+            <name>koala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Opinion: I Finally Finished Ring Fit Adventure, And It Might Be Peak Nintendo?]]></title>
         <id>https://www.nintendolife.com/#article-195677</id>
@@ -71,15 +143,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Fish 4.3 is out today as the newest update to this user-friendly command line shell. Fish 4.0 released at the beginning of this year in porting the codebase from C++ to Rust and now before closing out 2025 they have out Fish 4.3...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mega Skarmory ex from “Nihil Zero” Revealed!]]></title>
-        <id>156594</id>
-        <link href="https://www.pokebeach.com/forums/threads/mega-skarmory-ex-from-%E2%80%9Cnihil-zero%E2%80%9D-revealed.156594/"/>
-        <updated>2025-12-28T11:05:12.000Z</updated>
-        <author>
-            <name>koala</name>
         </author>
     </entry>
     <entry>
@@ -2484,20 +2547,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Stray Children (Switch) - A Surreal, Captivating, Undertale-Inspired RPG]]></title>
-        <id>https://www.nintendolife.com/#article-194508</id>
-        <link href="https://www.nintendolife.com/reviews/switch-eshop/stray-children"/>
-        <updated>2025-12-25T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Don’t talk to strangers.
-Stray Children launched on the Japanese eShop on 26th December 2024. We weren't able to review it back in October when it arrived in the West, but we've now managed to catch up with Onion Games' latest...
-
-Your dad’s missing and some weird “uncle” is at the door, claiming to know you. Stray Children just chucks you straight into things with barely a title screen – but perhaps that sort of stylistic confidence is unsurprising coming from people behind Moon: Remix RPG Adventure. Yoshihiro Kimura and Onion Games have delivered a compact, auteur-driven project, heading off on adventures into emotional storytelling rather than into sophisticated mechanics. And it uncovers some impressive treasures on its quest.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The fifth RPS Christmas Cracker 2025]]></title>
         <id>https://www.rockpapershotgun.com/the-fifth-rps-christmas-cracker-2025</id>
         <link href="https://www.rockpapershotgun.com/the-fifth-rps-christmas-cracker-2025"/>
@@ -2671,26 +2720,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Snapdragon X Elite Laptop Performance On Linux Ends 2025 Disappointing]]></title>
-        <id>https://www.phoronix.com/review/snapdragon-x-elite-linux-eoy2025</id>
-        <link href="https://www.phoronix.com/review/snapdragon-x-elite-linux-eoy2025"/>
-        <updated>2025-12-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As part of my various end-of-year benchmarking comparison articles for looking at the performance evolution of Linux is a fresh look at the Qualcomm Snapdragon X Elite laptop experience when using Ubuntu 25.10 with the latest X1E Concept packages, which includes taking the X1 Elite optimized kernel to the latest Linux 6.18 stable series. Unfortunately, there are significant performance regressions observed compared to a few months ago that just make AMD Ryzen AI and Intel Core Ultra laptops a better choice for Linux laptop users.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wayback 0.3 Released For Advancing This X11 Compatibility Layer]]></title>
-        <id>https://www.phoronix.com/news/Wayback-0.3</id>
-        <link href="https://www.phoronix.com/news/Wayback-0.3"/>
-        <updated>2025-12-24T13:50:26.000Z</updated>
-        <summary type="html"><![CDATA[One of the interesting open-source projects to come about this year was Wayback as an X11 compatibility layer using Wayland. Wayback could be used by default on Alpine Linux next year among other distributions. For ending out 2025 development, Wayback 0.3 is now available...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hades 2 is our favourite game of 2025 or: why we didn't give Supergiant's roguelike a bestest best review]]></title>
         <id>https://www.rockpapershotgun.com/hades-2-is-our-favourite-game-of-2025-or-why-we-didnt-give-supergiants-roguelike-a-bestest-best-review</id>
         <link href="https://www.rockpapershotgun.com/hades-2-is-our-favourite-game-of-2025-or-why-we-didnt-give-supergiants-roguelike-a-bestest-best-review"/>
@@ -2702,16 +2731,6 @@ Now, perhaps someone would like to explain why we didn't give Supergiant's rogue
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Recap Of The Top AMD Linux News Of 2025: Strix Halo, AI, Kernel Improvements]]></title>
-        <id>https://www.phoronix.com/news/AMD-Linux-News-2025</id>
-        <link href="https://www.phoronix.com/news/AMD-Linux-News-2025"/>
-        <updated>2025-12-24T11:38:28.000Z</updated>
-        <summary type="html"><![CDATA[As part of our various "year end" articles, here is a look back at the most popular AMD Linux/open-source news and hardware reviews of 2025...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3544,6 +3563,92 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7922-3: Linux kernel (Oracle) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7922-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-7922-3"/>
+        <updated>2025-12-19T14:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - Pin controllers subsystem;
+  - AFS file system;
+  - F2FS file system;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+(CVE-2022-49026, CVE-2022-49390, CVE-2024-47691, CVE-2024-49935,
+CVE-2024-50067, CVE-2024-50095, CVE-2024-50196, CVE-2024-53090,
+CVE-2024-53218, CVE-2025-21855, CVE-2025-37958, CVE-2025-38666,
+CVE-2025-39964, CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7928-4: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7928-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7928-4"/>
+        <updated>2025-12-19T14:41:36.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Network drivers;
+  - AFS file system;
+  - F2FS file system;
+  - Tracing infrastructure;
+  - Netfilter;
+(CVE-2022-49390, CVE-2024-47691, CVE-2024-50067, CVE-2024-53090,
+CVE-2024-53218, CVE-2025-21855, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7931-4: Linux kernel (Xilinx) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7931-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-7931-4"/>
+        <updated>2025-12-19T14:35:24.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Memory management;
+  - Appletalk network protocol;
+  - Netfilter;
+(CVE-2025-37958, CVE-2025-38666, CVE-2025-39964, CVE-2025-39993,
+CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7921-2: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7921-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7921-2"/>
+        <updated>2025-12-19T14:31:20.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - Media drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-39946, CVE-2025-39964, CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“Prize Pack Series Eight” to Release in January, Full Set List Revealed!]]></title>
         <id>156585</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cprize-pack-series-eight%E2%80%9D-to-release-in-january-full-set-list-revealed.156585/"/>
@@ -3947,6 +4052,36 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7940-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7940-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7940-1"/>
+        <updated>2025-12-17T20:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Cryptographic API;
+  - ACPI drivers;
+  - Ublk userspace block driver;
+  - Clock framework and drivers;
+  - EDAC drivers;
+  - GPU drivers;
+  - HSI subsystem;
+  - IIO subsystem;
+  - …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[In furious sci-fi RTS Warfactory you have to manufacture every piece of your killer robot army]]></title>
         <id>https://www.rockpapershotgun.com/in-4x-strategy-rts-warfactory-you-have-to-manufacture-every-piece-of-your-killer-robot-army</id>
         <link href="https://www.rockpapershotgun.com/in-4x-strategy-rts-warfactory-you-have-to-manufacture-every-piece-of-your-killer-robot-army"/>
@@ -4179,6 +4314,90 @@ Xr Glimmer Version 1.0.0-alpha03]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7939-2: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7939-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-7939-2"/>
+        <updated>2025-12-16T22:25:38.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - HSI subsystem;
+  - I3C subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - Pin controllers subsystem;
+  - AFS file system;
+  - F2FS file system;
+  - SMB network file system;
+  - Padata parallel execution mechanism;
+  - Timer subsystem;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Networking core;
+  - Netfilter;
+(CVE-2022-49026, CVE-2022-49390, CVE-2023-52854, CVE-2024-35867,
+CVE-2024-47691, CVE-2024-49935, CVE-2024-50061, CVE-2024-50067,
+CVE-2024-50095, CVE-2024-50196, CVE-2024-53090, CVE-2024-53218,
+CVE-2024-56664, CVE-2025-21727, CVE-2025-21855, CVE-2025-37838,
+CVE-2025-37958, CVE-2025-38352, CVE-2025-38666, CVE-2025-39964,
+CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7939-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7939-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7939-1"/>
+        <updated>2025-12-16T20:58:22.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - HSI subsystem;
+  - I3C subsystem;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - Pin controllers subsystem;
+  - AFS file system;
+  - F2FS file system;
+  - SMB network file system;
+  - Padata parallel execution mechanism;
+  - Timer subsystem;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - Networking core;
+  - Netfilter;
+(CVE-2022-49026, CVE-2022-49390, CVE-2023-52854, CVE-2024-35867,
+CVE-2024-47691, CVE-2024-49935, CVE-2024-50061, CVE-2024-50067,
+CVE-2024-50095, CVE-2024-50196, CVE-2024-53090, CVE-2024-53218,
+CVE-2024-56664, CVE-2025-21727, CVE-2025-21855, CVE-2025-37838,
+CVE-2025-37958, CVE-2025-38352, CVE-2025-38666, CVE-2025-39964,
+CVE-2025-39993, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Larian boss responds to criticism of generative AI use: "it's something we are constantly discussing internally"]]></title>
         <id>https://www.rockpapershotgun.com/larian-boss-responds-to-criticism-of-generative-ai-use-its-something-we-are-constantly-discussing-internally</id>
         <link href="https://www.rockpapershotgun.com/larian-boss-responds-to-criticism-of-generative-ai-use-its-something-we-are-constantly-discussing-internally"/>
@@ -4230,6 +4449,36 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-7938-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7938-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7938-1"/>
+        <updated>2025-12-16T14:52:44.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - ATM drivers;
+  - …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Larian talk Divinity, their next RPG after Baldur's Gate 3: "it's almost as though it's the first in the series"]]></title>
         <id>https://www.rockpapershotgun.com/larian-talk-divinity-their-next-rpg-after-baldurs-gate-3-its-almost-as-though-its-the-first-in-the-series</id>
         <link href="https://www.rockpapershotgun.com/larian-talk-divinity-their-next-rpg-after-baldurs-gate-3-its-almost-as-though-its-the-first-in-the-series"/>
@@ -4251,6 +4500,23 @@ Read more]]></summary>
         <updated>2025-12-16T13:43:56.000Z</updated>
         <author>
             <name>Royalcreeper</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7889-7: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7889-7</id>
+        <link href="https://ubuntu.com/security/notices/USN-7889-7"/>
+        <updated>2025-12-16T13:37:01.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Media drivers;
+  - Network drivers;
+  - Netfilter;
+  - TLS protocol;
+(CVE-2025-21729, CVE-2025-38227, CVE-2025-38616, CVE-2025-38678)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4331,6 +4597,61 @@ Oh dear, there's another player inside that bunker and she won't let you in. Sti
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7937-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7937-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7937-1"/>
+        <updated>2025-12-16T00:21:35.000Z</updated>
+        <summary type="html"><![CDATA[Jean-Claude Graf, Sandro Rüegge, Ali Hajiabadi, and Kaveh Razavi discovered
+that the Linux kernel contained insufficient branch predictor isolation
+between a guest and a userspace hypervisor for certain processors. This
+flaw is known as VMSCAPE. An attacker in a guest VM could possibly use this
+to expose sensitive information from the host OS. (CVE-2025-40300)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Cryptographic API;
+  - ACPI drivers;
+  - DMA engine subsystem;
+  - GPU drivers;
+  - HSI subsystem;
+  - Hardware monitoring drivers;
+  - InfiniBand drivers;
+  - Mailbox framework;
+  - Network drivers;
+  - Ethernet team driver;
+  - AFS file system;
+  - Ceph distributed file system;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - NILFS2 file system;
+  - File systems infrastructure;
+  - KVM subsystem;
+  - L3 Master device support module;
+  - Timer subsystem;
+  - Tracing infrastructure;
+  - Memory management;
+  - Appletalk network protocol;
+  - DCCP (Datagram Congestion Control Protocol);
+  - IPv6 networking;
+  - Netfilter;
+  - NET/ROM layer;
+  - Open vSwitch;
+  - SCTP protocol;
+  - USB sound devices;
+(CVE-2021-47385, CVE-2022-49026, CVE-2022-49390, CVE-2023-52574,
+CVE-2023-52650, CVE-2024-41006, CVE-2024-49935, CVE-2024-49963,
+CVE-2024-50006, CVE-2024-50067, CVE-2024-50095, CVE-2024-50179,
+CVE-2024-50299, CVE-2024-53090, CVE-2024-53112, CVE-2024-53124,
+CVE-2024-53150, CVE-2024-53217, CVE-2024-56767, CVE-2024-58083,
+CVE-2025-21715, CVE-2025-21722, CVE-2025-21761, CVE-2025-21791,
+CVE-2025-21811, CVE-2025-21855, CVE-2025-37838, CVE-2025-37958,
+CVE-2025-38352, CVE-2025-38666, CVE-2025-39964, CVE-2025-40018)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4804,17 +5125,6 @@ Read more]]></summary>
 The update includes new enemies and bosses, a new dungeon, enemies, new language support and costumes. The extra environment appears to be toy-themed and accessible later on in the game. If you’re concerned about spoilers (I myself still haven't finished this), I would skip the below trailer. I would also skip the below trailer if the prospect of death by lollipop strikes you as a bridge too far even for Clair Obscur, a game of many disarming eccentricities. 
  
 Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Total War: Warhammer 40,000 is real and features Orks, Space Marines, the Aeldari and for some reason, David Harbour]]></title>
-        <id>https://www.rockpapershotgun.com/total-war-warhammer-40000-is-real-and-features-orks-space-marines-the-aeldari-and-for-some-reason-david-harbour</id>
-        <link href="https://www.rockpapershotgun.com/total-war-warhammer-40000-is-real-and-features-orks-space-marines-the-aeldari-and-for-some-reason-david-harbour"/>
-        <updated>2025-12-12T03:58:34.000Z</updated>
-        <summary type="html"><![CDATA[That furious cyborg face in Geoff Keighley’s bottom was telling the truth! Creative Assembly are making Total War: Warhammer 40,000, a new era for Twar that looks to take the Total War strategy map/battle map format and apply it to whole solar systems. They got David Harbour to announce the game at the Geoffies just now. There was a moment of pure, ecstatic terror when I thought they were making Total War: Stranger Things. Harbour wouldn’t have left the stage alive. But no, don’t worry, he’s here because he’s voicing some unit or other. Catch a cinematic intro and just a tiny bit of footage in the announcement trailer, below.
- Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
         </author>
