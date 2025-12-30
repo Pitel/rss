@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-30T10:17:35.438Z</id>
+    <id>urn:2025-12-30T12:33:22.363Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2025-12-30T10:17:35.438Z</updated>
+    <updated>2025-12-30T12:33:22.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.19 Kernel Benchmarks With X86_NATIVE_CPU Optimization]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.19-X86_NATIVE_CPU</id>
+        <link href="https://www.phoronix.com/news/Linux-6.19-X86_NATIVE_CPU"/>
+        <updated>2025-12-30T12:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Added to the Linux kernel earlier this year was the new X86_NATIVE_CPU Kconfig option to enable compiler optimizations for the local/native CPU in use when building the Linux kernel. In effect about ensuring that the "-march=native" compiler flag is set for the kernel build for optimizing the Linux kernel build for your processor being used. Back with Linux 6.16 I ran some benchmarks of the Linux kernel build with X86_NATIVE_CPU to gauge the impact. Now with the current Linux 6.19 kernel and some different hardware, here are some additional on/off benchmarks for evaluating the impact of the Linux kernel build with X86_NATIVE_CPU...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Goes All-In on AirTag Clearance, No Need for Budget Trackers as This 4-Pack Deal Hits All-Time Low]]></title>
+        <id>https://kotaku.com/?p=2000656018</id>
+        <link href="https://kotaku.com/apple-goes-all-in-on-airtag-clearance-no-need-for-budget-trackers-as-this-4-pack-deal-hits-all-time-low-2000656018"/>
+        <updated>2025-12-30T12:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Save 35% on a four-pack of Apple AirTags for a limited time at Amazon.
+The post Apple Goes All-In on AirTag Clearance, No Need for Budget Trackers as This 4-Pack Deal Hits All-Time Low appeared first on Kotaku.]]></summary>
+        <author>
+            <name>Joe Tilleli</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InputPlumber 0.70 Released With Expanded Hardware Support]]></title>
+        <id>https://www.phoronix.com/news/InputPlumber-0.70</id>
+        <link href="https://www.phoronix.com/news/InputPlumber-0.70"/>
+        <updated>2025-12-30T11:55:59.000Z</updated>
+        <summary type="html"><![CDATA[InputPlumber 0.70 is out today as the newest feature update to this open-source input router and re-mapper daemon for Linux systems. With more gaming handhelds coming to market and other controllers as well as the upward trajectory of Linux gaming, InputPlumber is becoming more applicable for this daemon to combine various input devices into different virtual device formats...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XWayland Gets Patched For Incorrect Pointer Coordinates]]></title>
+        <id>https://www.phoronix.com/news/XWayland-Pointer-Enter-Correct</id>
+        <link href="https://www.phoronix.com/news/XWayland-Pointer-Enter-Correct"/>
+        <updated>2025-12-30T11:40:18.000Z</updated>
+        <summary type="html"><![CDATA[An important fix has made it into the X.Org Server XWayland codebase ahead of the new year. XWayland has been fixed to avoid sending incorrect pointer coordinates to X11 clients on pointer enter events...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Open-Source OpenGL & Vulkan Drivers Enjoyed A Rather Remarkable 2025]]></title>
+        <id>https://www.phoronix.com/news/Mesa-2025-Highlights</id>
+        <link href="https://www.phoronix.com/news/Mesa-2025-Highlights"/>
+        <updated>2025-12-30T11:15:18.000Z</updated>
+        <summary type="html"><![CDATA[The open-source OpenGL and Vulkan drivers making up Mesa had another very successful year. Even with all the years being invested into Mesa largely by Intel, AMD, Valve, Red Hat, and others, the upward trajectory continues for Mesa on expanding the hardware support, punctually adding new Vulkan extensions, and racking up other wins...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back Page: Every Game Should Have A Cow]]></title>
+        <id>https://www.nintendolife.com/#article-183995</id>
+        <link href="https://www.nintendolife.com/features/back-page-every-game-should-have-a-cow"/>
+        <updated>2025-12-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[No bull.
+Over the holiday season, we're republishing some of the best articles from Nintendo Life writers and contributors from 2025. This article was originally published in June. Enjoy!
+
+In the magazine business, the Back Page is where you'd find all the weird goofs that we couldn't fit in anywhere else. Some may call it "filler"; we prefer "a whole page to make terrible jokes that are tangentially related to the content of the mag".
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The RPS Selection Box: Jeremy's bonus games of the year 2025]]></title>
         <id>https://www.rockpapershotgun.com/the-rps-selection-box-jeremys-bonus-games-of-the-year-2025</id>
@@ -1093,17 +1158,6 @@ You can order these items as a dead drop.
 …]]></summary>
         <author>
             <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold]]></title>
-        <id>https://kotaku.com/?p=2000655752</id>
-        <link href="https://kotaku.com/forget-airpods-max-beats-solo-4-bluetooth-headphones-crash-to-a-record-low-after-10k-units-sold-2000655752"/>
-        <updated>2025-12-29T13:05:57.000Z</updated>
-        <summary type="html"><![CDATA[These may very well become your new favorite pair of headphones.
-The post Forget AirPods Max, Beats Solo 4 Bluetooth Headphones Crash to a Record Low After 10K+ Units Sold appeared first on Kotaku.]]></summary>
-        <author>
-            <name>Brittany Vincent</name>
         </author>
     </entry>
     <entry>
@@ -2675,20 +2729,6 @@ The post Rainbow Six Siege ravaged by massive server breach that gave its player
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Talking Point: Does Switch 2 Have Nintendo's Best Launch Line-Up Ever?]]></title>
-        <id>https://www.nintendolife.com/#article-180765</id>
-        <link href="https://www.nintendolife.com/features/talking-point-does-switch-2-have-nintendos-best-launch-line-up-ever"/>
-        <updated>2025-12-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's see how it matches up.
-Over the holiday season, we're republishing some of the best articles from Nintendo Life writers and contributors from 2025. This article was originally published in April. Enjoy!
-
-I don't know about you, but I'm already giving my shelf space a worried look as I consider the number of Switch 2 launch titles I want to pick up.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The seventh RPS Christmas Cracker 2025]]></title>
         <id>https://www.rockpapershotgun.com/the-seventh-rps-christmas-cracker-2025</id>
         <link href="https://www.rockpapershotgun.com/the-seventh-rps-christmas-cracker-2025"/>
@@ -2904,26 +2944,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu's Rust Infatuation, New Optimizations & Other Ubuntu Linux 2025 Highlights]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-2025-Highlights</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-2025-Highlights"/>
-        <updated>2025-12-26T11:47:47.000Z</updated>
-        <summary type="html"><![CDATA[It was a very interesting year for Ubuntu Linux. Ahead of the important Ubuntu 26.04 LTS release due out this coming April, Ubuntu Linux this year was expeditiously migrating to new Rust-based system tools like sudo-rs and Rust Coreutils, new performance optimizations continued to be explored for bettering the out-of-the-box Ubuntu performance, better ARM64 support with its desktop ISO, and enhancing the Snapdragon X Elite laptop support were among the Ubuntu highlights in 2025...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Runtime Standby ABI Proposed For Linux Akin To Microsoft Windows' "Modern Standby"]]></title>
-        <id>https://www.phoronix.com/news/Linux-Runtime-ABI-Standby</id>
-        <link href="https://www.phoronix.com/news/Linux-Runtime-ABI-Standby"/>
-        <updated>2025-12-26T11:23:18.000Z</updated>
-        <summary type="html"><![CDATA[An exciting post-Christmas patch series out on the Linux kernel mailing list this morning is proposing a new runtime standby ABI that is similar in nature to the "Modern Standby" functionality found with Microsoft Windows...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anna's Archive zálohoval Spotify, torrent má 300 TB]]></title>
         <id>www.root.cz-actuality-50544</id>
         <link href="https://www.root.cz/zpravicky/anna-s-archive-zalohoval-spotify-torrent-ma-300-tb/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2931,26 +2951,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Známá stínová knihovna Anna's Archive před Vánoci „zazálohovala“ hudbu ze služby Spotify. Metadata i vlastní skladby jsou seřazeny podle popularity ve službě Spotify a jsou dostupné jako téměř 300 TB torrent.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nova Driver Progress & Other NVIDIA Linux News From 2025]]></title>
-        <id>https://www.phoronix.com/news/NVIDIA-Linux-2025-Highlights</id>
-        <link href="https://www.phoronix.com/news/NVIDIA-Linux-2025-Highlights"/>
-        <updated>2025-12-26T11:09:15.000Z</updated>
-        <summary type="html"><![CDATA[This year there was a lot of going on in the NVIDIA Linux world from their official driver stack seeing better Wayland support to a lot on the open-source scene from NVIDIA engineers contributing a lot directly to the Rust-based Nova open-source driver that continues taking shape, the Mesa NVK Vulkan driver becoming more performant and capable, and a lot of other happenings. Here is a look back at the most popular NVIDIA content of 2025 on Phoronix...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Linux Patches Improve exFAT Read Performance Via Multi-Cluster Mapping]]></title>
-        <id>https://www.phoronix.com/news/Linux-exFAT-Reads-MC-Map</id>
-        <link href="https://www.phoronix.com/news/Linux-exFAT-Reads-MC-Map"/>
-        <updated>2025-12-26T10:52:56.000Z</updated>
-        <summary type="html"><![CDATA[For those using Microsoft's exFAT file-system under Linux for the likes of flash drives and SD cards, a new patch series posted today aims to enhance the read performance. The new patches are shown to improve performance by about 10% while also having lower overhead...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -5473,16 +5473,6 @@ Xr Glimmer Version 1.0.0-alpha02
 Xr Projected Version 1.0.0-alpha03
 Xr Runtime Version 1.0.0-alpha09
 Xr Scenecore Version 1.0.0-alpha10]]></summary>
-        <author>
-            <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[December 1, 2025]]></title>
-        <id>https://developer.android.com/jetpack/androidx/versions/all-channel#december_1_2025</id>
-        <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#december_1_2025"/>
-        <updated>2025-12-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Media3 Version 1.9.0-rc01]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
         </author>
