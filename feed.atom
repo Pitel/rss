@@ -1,10 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-01T16:19:58.670Z</id>
+    <id>urn:2026-01-01T18:23:00.907Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-01-01T16:19:58.670Z</updated>
+    <updated>2026-01-01T18:23:00.907Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feature: The Art I 'Stole' From Nintendo]]></title>
+        <id>https://www.nintendolife.com/#article-192548</id>
+        <link href="https://www.nintendolife.com/features/the-art-i-stole-from-nintendo"/>
+        <updated>2026-01-01T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[And where it is now.
+Over the holiday season, we're republishing some of the best articles from Nintendo Life writers and contributors from 2025. This article was originally published in November. Enjoy!
+
+It began with a Zelda T-shirt.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve's Linux Efforts, Kernel Improvements & KDE Plasma Wayland Advancements Topped 2025]]></title>
+        <id>https://www.phoronix.com/news/Top-Linux-News-2025</id>
+        <link href="https://www.phoronix.com/news/Top-Linux-News-2025"/>
+        <updated>2026-01-01T17:50:18.000Z</updated>
+        <summary type="html"><![CDATA[After looking yesterday at the most viewed Linux hardware reviews and benchmarks of 2025, today's look is at the most popular open-source/Linux news of the past year. There were 3,286 original news articles on Phoronix during 2025 written by your's truly, here's a look back at what excited readers the most over these past twelve months...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feature: "We're Going To Need More Toilet Paper" - This Is Mario Kart-Attack!]]></title>
         <id>https://www.nintendolife.com/#article-188808</id>
@@ -286,7 +310,7 @@ How to do the Main job in My Winter Car
 How to begin the Main job in My Winter Car
 
 
-The first step is to visit the old factory, aka Futufon Office, on the western part of the town. This map will help you locate where you need to be. Reach the location where "F" is marked in Black, and you'll reach the factory.
+The first step is to visit the old factory, aka Futufon Office, in the western part of the town. This map will help you locate where you need to be. Reach the location where "F" is marked in Black, and you'll reach the factory.
 
 
 Head inside and speak with the woman who sits at reception. She will tell you…]]></summary>
@@ -315,6 +339,16 @@ Head inside and speak with the woman who sits at reception. She will tell you…
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenTTD 15.0]]></title>
+        <id>https://www.openttd.org/news/2026/01/01/openttd-15-0.html</id>
+        <link href="https://www.openttd.org/news/2026/01/01/openttd-15-0.html"/>
+        <updated>2026-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New Year, New You, New OpenTTD! OpenTTD 15 is now out and ready for you to play! New features include: Companies in multiplayer no longer have passwords, invite specific players using buttons in the Online Players list instead Island maps can be surrounded by infinite water instead of void Rivers can end in wetlands if unable to reach sea Bridges can be placed over stations and road stops Roads can now have waypoints Houses can be placed manually Industries and towns have graphs of their cargo history Improvements to menus, including a new main menu and a combined game options and settings window Many more features, changes, and fixes For a full breakdown of new features, check out this video by Master Hellish. We’ll be gathering any bugs for a future 15.1 release, so if you find any, please report them here. Download Changelog Bug tracker]]></summary>
+        <author>
+            <name>OpenTTD</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vyšel Bash++ 1.0.0alpha s vestavěným IDE, webovým frameworkem a AI]]></title>
         <id>www.root.cz-text-18882</id>
         <link href="https://www.root.cz/clanky/vysel-bash-1-0-0alpha-s-vestavenym-ide-webovym-frameworkem-a-ai/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -332,7 +366,7 @@ Head inside and speak with the woman who sits at reception. She will tell you…
         <summary type="html"><![CDATA[The credit card is an essential item in My Winter Car, and you'll need to use it regularly for various tasks.
 
 
-All financial transactions in My Winter Car primarily happen via the digital medium. While there's cash, you'll need to withdraw it at the ATM with the credit card. This guide will tell you all you need to know when it comes to using the card. There's also an element of setting your PIN for using the card at an ATM.
+All financial transactions in My Winter Car primarily happen via the digital medium. While there's cash, you'll need to withdraw it at the ATM with the credit card, but you will need to set your PIN to do so.
 
 
 Table of contents
@@ -344,7 +378,61 @@ How to use the credit card in My Winter Car
 What's your credit card PIN in My Winter Car
 
 
-When you start playing the game, your credit card won't have a PIN. The first four-digit code you use will be your PIN for the remainder of the save. To do so, g…]]></summary>
+When you start playing the game, your credit card won't have a PIN. The first four-digit code you use will be your PIN for the remainder of the save. To do so, go to any ATM and use the credit card (you can try the one at the Gas Station).
+
+
+Image via Amistech Games
+
+
+You can't change it directly from within the game, so be sure to remember it. There's an external workaround, though, in case you must make a change.
+
+
+How to change the credit card PIN in My Winter Car
+
+
+This part is slightly tricky, so follow the instructions as mentioned here.
+
+
+
+Open the LocalLow folder in AppData (can be found in the root directory of your PC).
+
+
+Open the subfolder Amistech, and then go to the My Winter Car folder.
+
+
+Inside, you'll find a SaveFile.txt. Open the file and load it into the MSCEditor.
+
+
+Look for the entry creditcardpin, and you'll find your PIN. You can change the PIN from here and save to modify your older security code.
+
+
+
+How to use the credit card in My Winter Car
+
+
+Once you find an ATM, complete the following steps.
+
+
+Image via Amistech Games
+
+
+
+Use the credit card and enter your PIN.
+
+
+If you want to withdraw, choose Otto.
+
+
+If you want to view transactions, choose Tapahtumat.
+
+
+Select the correct amount.
+
+
+
+Once done, pick your credit card and the cash (this will automatically reflect on top of your screen, along with other player attributes).
+
+The post How does the credit card work in My Winter Car and how to change the pin appeared first on Destructoid.]]></summary>
         <author>
             <name>Arka Sarkar</name>
         </author>
@@ -368,7 +456,7 @@ How to cut the Firewood in My Winter Car
 How to use the Lumber Conveyor in My Winter Car
 
 
-The first task is to connect the Cutter to the Kekmet. It's impossible to move the Lumber Conveyor from its stationary position without attaching it to your tractor. Hence, drive the tractor carefully and place it very close to the Conveyor. Keep the distance as minimal as possible, or else the alignment will be loose, and logs will fall.
+The first task is to connect the Cutter to the Kekmet. It's impossible to move the Lumber Conveyor from its stationary position without attaching it to your tractor. Hence, drive the tractor carefully and place it very close to the Conveyor. Keep the distance to a minimum; otherwise, the alignment will be loose and logs will fall.
 
 
 Image via Amistech Games
@@ -377,7 +465,7 @@ Image via Amistech Games
 You'll find the rear hitch lever on the right side of the Kekmet. Use it to lower the attachment arms from the rear of the tractor. Get down, and click the connection point on the cutter (once the attachment arms have been lowered). If aligned properly, the cutter will connect with the Kekmet.
 
 
-Next, use the PTO lever located to the left of the steering wheel of the Kekmet. Activate it to start the sdrive shaft and the Conveyor. If you want the cutter to work fast, go for a higher RPM. However, that will be less conducive to a longer cutting session.
+Next, use the PTO lever located to the left of the steering wheel. Activate it to start the sdrive shaft and the Conveyor. If you want the cutter to work fast, go for a higher RPM, but this will shorten your session.
 
 
 How to cut the Firewood in My Winter Car
@@ -386,7 +474,7 @@ How to cut the Firewood in My Winter Car
 Image via Amistech Games
 
 
-Once you have completed all the steps mentioned earlier in the guide, take a log from the wood pile. Then, place it in the cutter slot. The log will automatically split the logs into pieces based on how high the RPM is. The Conveyor will automatically place the Firewood in the trailer (don't forget to attach it).
+Once you have completed all the steps mentioned earlier in the guide, take a log from the wood pile. Then, place it in the cutter slot. It will automatically split the logs into pieces based on RPM. The Conveyor will automatically place the Firewood in the trailer (don't forget to attach it).
 
 The post How to use the Firewood Cutter in My Winter Car appeared first on Destructoid.]]></summary>
         <author>
@@ -2041,19 +2129,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fantasy Life i: The Girl Who Steals Time Reaches Another Major Sales Milestone, New Update Announced]]></title>
-        <id>https://www.nintendolife.com/#article-195761</id>
-        <link href="https://www.nintendolife.com/news/2025/12/fantasy-life-i-the-girl-who-steals-time-reaches-another-major-sales-milestone-new-update-announced"/>
-        <updated>2025-12-30T01:30:00.000Z</updated>
-        <summary type="html"><![CDATA["We appreciate your continued support".
-Since arriving on the Switch and Switch 2, Fantasy Life: The Girl Who Steals Time has been acknowledging major sales milestones.
-In a brief update on social media, Level-5 has confirmed it's now surpassed 1.5 million copies in worldwide cumulative sales. As part of this, the developer is celebrating with a new illustration and a limited-time sale on the eShop.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pohled pod kapotu formátu WebAssembly: SIMD (vektorové) operace, druhá část]]></title>
         <id>www.root.cz-text-18891</id>
         <link href="https://www.root.cz/clanky/pohled-pod-kapotu-formatu-webassembly-simd-vektorove-operace-druha-cast/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2681,16 +2756,6 @@ There is no definitive best class in Arcane Odyssey since each one can be good f
         <link href="https://www.phoronix.com/news/Linux-7.0-IO-uring-Polling"/>
         <updated>2025-12-29T11:13:44.000Z</updated>
         <summary type="html"><![CDATA[The next Linux kernel cycle, which will be known as Linux 6.20 or more than likely Linux 7.0, is expected to land some IO_uring improvements for better IOPOLL polling...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SuperTux 0.7 Reaches Beta For Reviving An Open-Source Classic]]></title>
-        <id>https://www.phoronix.com/news/SuperTux-0.7-Beta</id>
-        <link href="https://www.phoronix.com/news/SuperTux-0.7-Beta"/>
-        <updated>2025-12-29T10:56:58.000Z</updated>
-        <summary type="html"><![CDATA[Longtime Linux users likely have fond memories of SuperTux as the open-source jump-n-run game that used to be included on some early Linux live CD/DVDs for this Super Mario Bros inspired game. There hasn't been a new release of SuperTux in over four years but out today is the beta of SuperTux 0.7 as a major overhaul to the free software, family-friendly game title...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
