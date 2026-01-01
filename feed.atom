@@ -1,10 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-01T20:17:44.298Z</id>
+    <id>urn:2026-01-01T22:15:04.355Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-01-01T20:17:44.298Z</updated>
+    <updated>2026-01-01T22:15:04.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[How to use the My Winter Car Editor and modify game data]]></title>
+        <id>https://www.destructoid.com/?p=1161669</id>
+        <link href="https://www.destructoid.com/how-to-use-the-my-winter-car-editor-and-modify-game-data/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-use-the-my-winter-car-editor-and-modify-game-data"/>
+        <updated>2026-01-01T20:52:57.000Z</updated>
+        <summary type="html"><![CDATA[Modifying game data in My Winter Car isn't the easiest of tasks as of writing, but there's a backdoor way of tweaking the in-game stats.
+
+
+This is possible all thanks to the My Summer Car Editor, or MSCEditor in short. It doesn't work flawlessly in My Winter Car (since it was not specifically developed for it), but you can still use the tool to some extent, and this guide will explain the complete process.
+
+
+Table of contents
+How to install the MSCEditor for My Winter Car
+Will there be a new app for My Winter Car
+
+
+How to install the MSCEditor for My Winter Car
+
+
+The basic steps for installing and using the MSCEditor for My Winter Car are the same as My Summer Car. However, it isn't fully functional (something you should keep in mind).
+
+
+
+Install the app from NexusMods.
+
+
+Extract the app file, and run it.
+
+
+Select Open from the top-left, and select the default save file for My Winter Car. You can find the file from the My Winter Car saves folder (Users-Username-AppData-LocalLow-Amistech-MyWinterCar).
+
+
+The file you're looking for will be at the top of the folder. It will be titled 'savefile'.
+
+
+
+Screenshot by Destructoid
+
+
+To alter the values, you must open the save file via the MSCEditor app. If you open it from outside, you won't be able to tweak any of the save file values properly. 
+
+
+Will there be a new app for My Winter Car
+
+
+My Winter Car is built on the same engine as My Summer Car. Hence, there's a strong chance that we will get an exclusive editor app. However, such an app isn't available at the time of writing. If that changes, it will be easier for us to edit the save files and the values present on them.
+
+
+A timeline is hard to predict since it entirely depends on the community and how quickly someone can develop the mod.
+
+The post How to use the My Winter Car Editor and modify game data appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Graphics On Haiku OS Make Progress With NVIDIA Open Kernel Modules + NVK/Zink]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-Haiku-0.0.1"/>
+        <updated>2026-01-01T20:20:28.000Z</updated>
+        <summary type="html"><![CDATA[As a wonderful New Year surprise, there's good momentum on NVIDIA graphics support for the BeOS-inspired Haiku open-source operating system...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Millennium Print Group Officially Confirms Massive New Printing Campus, Expanding Capacity for Pokemon TCG Fans]]></title>
         <id>156597</id>
@@ -2793,25 +2858,6 @@ You can order these items as a dead drop.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Arcane Odyssey Tier List – Best Class & Stat Build [RELEASE]]]></title>
-        <id>https://www.destructoid.com/?p=1161130</id>
-        <link href="https://www.destructoid.com/arcane-odyssey-tier-list/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=arcane-odyssey-tier-list"/>
-        <updated>2025-12-29T12:03:20.000Z</updated>
-        <summary type="html"><![CDATA[All Arcane Odyssey classes and stat builds can be good and pretty much all are usable thanks to the fixes in the full release update (Knight enjoyers rejoice). The aim of this tier list is not to tell you what you shouldn't play but to outline nuances, strengths and weaknesses. Here's my Arcane Odyssey class and stat build tier list.
-
-
-Arcane Odyssey Class & Stat Build Tier List
-
-
-TierList by Destructoid / Icon Art by Lara Deka (AO Fandom Wiki Admin)
-
-
-There is no definitive best class in Arcane Odyssey since each one can be good for certain game modes and scenarios. With the Release update even previously weaker classes like Knight and Juggernaut were drastically improved. That said, some are better than others in specific areas like 1v1s, Clan PVP fights and killing bosses. Check out my …]]></summary>
-        <author>
-            <name>Gordan Perisic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Little Pony: Friendship is Magic]]></title>
         <id>95230</id>
         <link href="https://www.pokebeach.com/forums/threads/my-little-pony-friendship-is-magic.95230/"/>
@@ -2836,16 +2882,6 @@ There is no definitive best class in Arcane Odyssey since each one can be good f
         <link href="https://www.phoronix.com/news/Legion-Go-Controller-HID-v2"/>
         <updated>2025-12-29T11:34:58.000Z</updated>
         <summary type="html"><![CDATA[Open-source developer Derek J. Clark continues leading the efforts on improving the Lenovo Legion Go series hardware support under Linux. Posted today was the second iteration of the HID driver work for the Legion Go and Legion Go S for configuration support with the built-in controller HID interfaces...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 7.0 Expected To Bring IO_uring IOPOLL Polling Improvements]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.0-IO-uring-Polling</id>
-        <link href="https://www.phoronix.com/news/Linux-7.0-IO-uring-Polling"/>
-        <updated>2025-12-29T11:13:44.000Z</updated>
-        <summary type="html"><![CDATA[The next Linux kernel cycle, which will be known as Linux 6.20 or more than likely Linux 7.0, is expected to land some IO_uring improvements for better IOPOLL polling...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
