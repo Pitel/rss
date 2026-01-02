@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-02T04:36:05.951Z</id>
+    <id>urn:2026-01-02T06:26:14.360Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-01-02T04:36:05.951Z</updated>
+    <updated>2026-01-02T06:26:14.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa 25.3.3 Ships Latest Bug Fixes, Intel Vulkan GTK4 Toolkit Workarounds]]></title>
+        <id>https://www.phoronix.com/news/Mesa-25.3.3-Released</id>
+        <link href="https://www.phoronix.com/news/Mesa-25.3.3-Released"/>
+        <updated>2026-01-02T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mesa 25.3.3 shipped on Thursday as the newest stable point release for Q4's Mesa 25.3 feature series. Now being into the new quarter, we have Mesa 26.0 to look forward to as stable likely by late February, but for now Mesa 25.3.3 is the latest and greatest stable version...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Arcade Archives Celebrates 500 Retro Releases With Special Commemorative Game]]></title>
         <id>https://www.nintendolife.com/#article-195731</id>
@@ -2827,16 +2837,6 @@ If you know the basis of Titanfall, you'll probably think I'm trying to deceive 
         <link href="https://www.phoronix.com/review/epyc-cachyos-server-preview"/>
         <updated>2025-12-29T15:10:00.000Z</updated>
         <summary type="html"><![CDATA[One of the more interesting announcements over the holiday period thus far is that moving into 2026, CachyOS is looking to develop a server edition for their Arch Linux based operating system. CachyOS has garnered quite a following among Linux enthusiasts and gamers for its competitive out-of-the-box performance, employing some of the optimizations by Intel's now defunct Clear Linux distribution, and pulling in all of the goodness from upstream Arch Linux. It will be very interesting to see how CachyOS Server Edition takes shape and whether it will develop a foothold in any prominent enterprise environments. While CachyOS Server Edition isn't yet released and still in its early stages, over the holidays I decided to see how CachyOS in its current form currently looks for AMD EPYC servers.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTFSPLUS Linux Driver Renamed To Just "NTFS" With Latest Code Restructuring]]></title>
-        <id>https://www.phoronix.com/news/Linux-NTFS-v3-Patches</id>
-        <link href="https://www.phoronix.com/news/Linux-NTFS-v3-Patches"/>
-        <updated>2025-12-29T14:33:05.000Z</updated>
-        <summary type="html"><![CDATA[One of the unexpected Linux kernel surprises of 2025 was NTFSPLUS being announced as a new driver for Microsoft's NTFS file-system with better performance and more features compared to the classic read-only NTFS driver or the "NTFS3" kernel driver that Paragon Software submitted upstream. That NTFSPLUS driver has continued expanding its feature set and robustness and sent out today was the third iteration of the patches. Now this driver is simply being called "NTFS" with no longer going by the NTFSPLUS name...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
