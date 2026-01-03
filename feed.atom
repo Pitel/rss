@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-03T16:18:32.670Z</id>
+    <id>urn:2026-01-03T18:21:17.684Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-01-03T16:18:32.670Z</updated>
+    <updated>2026-01-03T18:21:17.684Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Webový prohlížeč Brow6el]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/webovy-prohlizec-brow6el</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/webovy-prohlizec-brow6el"/>
+        <updated>2026-01-03T18:11:47.000Z</updated>
+        <summary type="html"><![CDATA[Byl představen webový prohlížeč Brow6el, běžící v terminálu. Pro prohlížení webu je využit Chromium Embedded Framework, vyrendrovaná webová stránka je následně zobrazena v terminálu převodem na sixely pomocí knihovny libsixel. Brow6el se ovládá modálním klávesnicovým rozhraním, inspirovaném populárním textovým editorem Vim. Demonstrační video s ukázkou používání.]]></summary>
+        <author>
+            <name>NUKE GAZA! &amp;#x1F386;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Box64 v0.4 Improves Support For DRM Protected Games, Steam Is Now More Stable]]></title>
+        <id>https://www.phoronix.com/news/Box64-0.4-Released</id>
+        <link href="https://www.phoronix.com/news/Box64-0.4-Released"/>
+        <updated>2026-01-03T17:27:00.000Z</updated>
+        <summary type="html"><![CDATA[While Fex-Emu has been getting a lot of attention lately for being Valve-sponsored and powering the upcoming Steam Frame, Box64 continues making progress as another great open-source project for running x86_64 Linux binaries on AArch64 Linux as well as an eye on other architectures like RISC-V...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Audio Quirk Handling On The Way For Dell Panther Lake Laptops]]></title>
         <id>https://www.phoronix.com/news/Audio-Quirk-Dell-Panther-Lake</id>
@@ -33,7 +53,7 @@ The easiest way to enable console commands in the current build of My Winter Car
 
 
 
-You'll first have to install and enable BepInEx. This is a mod manager that allows you to use mods for different games, including My Winter Car (clicking on the highlighted link will automatically begin the download). 
+You'll first have to install and enable the BepInEx mod manager (clicking on the highlighted link will automatically begin the download).
 
 
 Download the required files for BepInEx from here, and then extract the files to your main game folder.
@@ -48,7 +68,7 @@ Download the Developer Toolset mod.
 Open the downloaded folder, and you'll find a BepInEx folder inside.
 
 
-Copy all the contents from the folder to the BepInEx folder that's present in your main My Winter Car Folder.
+Copy all contents from the folder to the BepInEx folder in your main My Winter Car Folder.
 
 
 Run the game, and the developer tools will be enabled automatically.
@@ -58,7 +78,7 @@ Run the game, and the developer tools will be enabled automatically.
 Once done, you can use the fully-featured in-game console for executing commands. Commands that work successfully will appear in green. You can use default and custom commands based on your requirements.
 
 
-Additionally, the Developer Toolset also allows you to enjoy features like Runtime Inspector, Player Dev Controller, PlayMaker Globals Editor, and more. You can also set convenient hotkeys based on your needs.
+Additionally, the Developer Toolset lets you take advantage of features such as Runtime Inspector, Player Dev Controller, PlayMaker Globals Editor, and more. You can also set convenient hotkeys based on your needs.
 
 The post How to use console commands in My Winter Car appeared first on Destructoid.]]></summary>
         <author>
@@ -317,7 +337,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[Pebble Round 2]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/pebble-round-2</id>
         <link href="http://www.abclinuxu.cz/zpravicky/pebble-round-2"/>
-        <updated>2026-01-02T22:02:47.000Z</updated>
+        <updated>2026-01-02T22:02:45.000Z</updated>
         <summary type="html"><![CDATA[Společnost Pebble představila (YouTube) chytré hodinky Pebble Round 2. S kulatým e-paper displejem, s open  source PebbleOS a vydrží baterie přibližně dva týdny. Předobjednat je lze za 199 dolarů s plánovaným dodáním v květnu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -533,7 +553,7 @@ The post How I Fell Back In Love With <i>Minecraft</i> After 10 Years Away appea
         <title type="html"><![CDATA[OpenTTD 15.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/openttd-15.0</id>
         <link href="http://www.abclinuxu.cz/zpravicky/openttd-15.0"/>
-        <updated>2026-01-02T18:09:05.000Z</updated>
+        <updated>2026-01-02T18:09:03.000Z</updated>
         <summary type="html"><![CDATA[OpenTTD (Wikipedie), tj. open source klon počítačové hry Transport Tycoon Deluxe, byl vydán v nové stabilní verzi 15.0. Přehled novinek v seznamu změn a také na YouTube. OpenTTD lze instalovat také ze Steamu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -2286,26 +2306,6 @@ Drink beer or other alcohol…]]></summary>
         <summary type="html"><![CDATA[While the Godot Engine receives a lot of attention as a prominent open-source game engine, it's far from the only one in this space. Another open-source game engine capping out 2025 with a new release is the Crown Engine...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenCV 4.13 Brings More AVX-512 Usage, CUDA 13 Support, Many Other New Features]]></title>
-        <id>https://www.phoronix.com/news/OpenCV-4.13-Released</id>
-        <link href="https://www.phoronix.com/news/OpenCV-4.13-Released"/>
-        <updated>2025-12-31T11:35:41.000Z</updated>
-        <summary type="html"><![CDATA[OpenCV 4.13 is out this New Year's Eve in providing the latest open-source computer vision (CV) capabilities. OpenCV 4.13 brings a wide variety of enhancements to this widely-used computer vision library...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[curl bez strcpy()]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/curl-bez-strcpy</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/curl-bez-strcpy"/>
-        <updated>2025-12-31T11:13:14.000Z</updated>
-        <summary type="html"><![CDATA[Daniel Stenberg na svém blogu informuje, že po strncpy() byla ze zdrojových kódů curlu odstraněna také všechna volání funkce strcpy(). Funkci strcpy() nahradili vlastní funkcí curlx_strcopy().]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
