@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-12T04:44:43.472Z</id>
+    <id>urn:2026-01-12T06:28:47.633Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-01-12T04:44:43.472Z</updated>
+    <updated>2026-01-12T06:28:47.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[2026 Standard Format Rotation Announced for April, More Support for Expanded Coming to Pokemon TCG Live]]></title>
+        <id>156616</id>
+        <link href="https://www.pokebeach.com/forums/threads/2026-standard-format-rotation-announced-for-april-more-support-for-expanded-coming-to-pokemon-tcg-live.156616/"/>
+        <updated>2026-01-12T06:17:50.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salazzle ex from “Nihil Zero” Revealed!]]></title>
+        <id>156620</id>
+        <link href="https://www.pokebeach.com/forums/threads/salazzle-ex-from-%E2%80%9Cnihil-zero%E2%80%9D-revealed.156620/"/>
+        <updated>2026-01-12T06:07:45.000Z</updated>
+        <author>
+            <name>koala</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["CRI" Speculative Set List with numbering]]></title>
         <id>156621</id>
         <link href="https://www.pokebeach.com/forums/threads/cri-speculative-set-list-with-numbering.156621/"/>
-        <updated>2026-01-12T03:25:28.000Z</updated>
+        <updated>2026-01-12T05:24:11.000Z</updated>
         <author>
             <name>Who?</name>
         </author>
@@ -21,6 +39,23 @@
         <updated>2026-01-12T03:21:18.000Z</updated>
         <author>
             <name>JeevesEatsFish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7952-1: libheif vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7952-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7952-1"/>
+        <updated>2026-01-12T01:03:59.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that libheif did not correctly handle certain memory
+operations. An attacker could possibly use this issue to cause a denial
+of service. This issue only affected Ubuntu 20.04 LTS, Ubuntu 22.04 LTS
+and Ubuntu 24.04 LTS. (CVE-2024-25269)
+
+Aldo Ristori discovered that libheif did not correctly handle certain
+memory operations. An attacker could possibly use this issue to cause a
+denial of service or execute arbitrary code. (CVE-2025-68431)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -73,15 +108,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Projekt Fedora plánuje změnit správce přihlášení distribuce pro edici KDE z SDDM na novější Plasma Login Manager. Ubuntu 25.04 s kódovým označením Plucky Puffin dosáhne konce životnosti (EOL) 15. ledna 2026.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salazzle ex from “Nihil Zero” Revealed!]]></title>
-        <id>156620</id>
-        <link href="https://www.pokebeach.com/forums/threads/salazzle-ex-from-%E2%80%9Cnihil-zero%E2%80%9D-revealed.156620/"/>
-        <updated>2026-01-11T22:59:57.000Z</updated>
-        <author>
-            <name>koala</name>
         </author>
     </entry>
     <entry>
@@ -162,15 +188,6 @@ The post ARC Raiders FPP camera POV explained appeared first on Destructoid.]]><
         <id>156610</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cfirst-partner-illustration-collections%E2%80%9D-to-release-throughout-2026-for-pokemon%E2%80%99s-30th-anniversary.156610/"/>
         <updated>2026-01-11T21:00:21.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 Standard Format Rotation Announced for April, More Support for Expanded Coming to Pokemon TCG Live]]></title>
-        <id>156616</id>
-        <link href="https://www.pokebeach.com/forums/threads/2026-standard-format-rotation-announced-for-april-more-support-for-expanded-coming-to-pokemon-tcg-live.156616/"/>
-        <updated>2026-01-11T20:57:00.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -3255,19 +3272,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Vývojářka Natalie Vock z linuxového týmu Valve prezentovala nový kód pro ovladač RADV z balíku Mesa. S ním výhledově čeká Radeony a aplikace běžící přes API Vulkan značné zrychlení, používají-li Unreal Engine a ray-tracing.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7945-1: Libxslt vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7945-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7945-1"/>
-        <updated>2026-01-07T13:06:15.000Z</updated>
-        <summary type="html"><![CDATA[Ivan Fratric discovered that Libxslt was vulnerable to type confusion when
-performing XML transformations. An attacker could possibly use this issue
-to cause Libxslt to crash or corrupt memory, causing a denial of service or
-undefined behavior.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
