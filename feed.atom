@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-24T10:16:15.499Z</id>
+    <id>urn:2026-01-24T12:30:27.158Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-01-24T10:16:15.499Z</updated>
+    <updated>2026-01-24T12:30:27.158Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Releases MLIR-AIE 1.2 Compiler Toolchain For Targeting Ryzen AI NPUs]]></title>
+        <id>https://www.phoronix.com/news/AMD-MLIR-AIE-1.2</id>
+        <link href="https://www.phoronix.com/news/AMD-MLIR-AIE-1.2"/>
+        <updated>2026-01-24T12:22:33.000Z</updated>
+        <summary type="html"><![CDATA[In addition to AMD releasing the Ryzen AI Software 1.7 release on Friday, they also published a new version of their MLIR-AIE compiler toolchain for targeting AMD Ryzen AI NPU devices with this LLVM-based MLIR-focused stack...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDGPU Driver Reverts Code For A Number Of Regressions On Linux 6.19]]></title>
+        <id>https://www.phoronix.com/news/AMDGPU-Linux-6.19-Regressions</id>
+        <link href="https://www.phoronix.com/news/AMDGPU-Linux-6.19-Regressions"/>
+        <updated>2026-01-24T11:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Merged on Friday as part of this week's DRM kernel graphics driver fixes for the week is addressing a regression affecting many different users with the Linux 6.19 development kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME's AI Assistant Newelle Adds Llama.cpp Support, Command Execution Tool]]></title>
+        <id>https://www.phoronix.com/news/GNOME-AI-Newelle-1.2</id>
+        <link href="https://www.phoronix.com/news/GNOME-AI-Newelle-1.2"/>
+        <updated>2026-01-24T11:19:44.000Z</updated>
+        <summary type="html"><![CDATA[Newlle as a virtual AI assistant for the GNOME desktop with API integration for Google Gemini, OpenAI, Groq, and also local LLMs is out with a new release. Newelle has been steadily expanding its AI integration and capabilities and with the new Newelle 1.2 are yet more capabilities for those wanting AI on the GNOME desktop...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft zpřístupnil FBI uživatelské šifrovací klíče]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/microsoft-zpristupnil-fbi-uzivatelske-sifrovaci-klice</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/microsoft-zpristupnil-fbi-uzivatelske-sifrovaci-klice"/>
+        <updated>2026-01-24T10:55:35.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft poskytl FBI uživatelské šifrovací klíče svého nástroje BitLocker, nutné pro odemčení dat uložených na discích třech počítačů zabavených v rámci federálního vyšetřování. Tento krok je prvním známým případem, kdy Microsoft poskytl klíče BitLockeru orgánům činným v trestním řízení. BitLocker je nástroj pro šifrování celého disku, který je ve Windows defaultně zapnutý. Tato technologie by správně měla bránit komukoli kromě majitele zařízení v přístupu k datům, ve výchozím nastavení se však šifrovací klíče nahrávají přímo do cloudů Microsoftu.]]></summary>
+        <author>
+            <name>NUKE GAZA! &amp;#x1F386;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS Armoury Driver For Linux 6.19 Picks Up Support For More ASUS Laptops]]></title>
+        <id>https://www.phoronix.com/news/ASUS-Armoury-More-Hardware</id>
+        <link href="https://www.phoronix.com/news/ASUS-Armoury-More-Hardware"/>
+        <updated>2026-01-24T10:52:27.000Z</updated>
+        <summary type="html"><![CDATA[A new driver in the Linux 6.19 kernel is the ASUS Armoury driver for supporting additional functionality with the ROG Ally gaming handhelds and other ASUS ROG gaming hardware like their laptops. The ASUS Armoury driver builds off the existing ASUS WMI driver but provides some design improvements to make it better than handling it within the existing driver. There is support for adjusting the APU-allocated memory, Intel core count control for P and E cores, FHD and UHD mode switching for display panels, and other features typically only exposed via the system BIOS...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (24th January)]]></title>
         <id>https://www.nintendolife.com/#article-196585</id>
@@ -67,7 +117,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.nintendolife.com/#article-196547</id>
         <link href="https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update"/>
         <updated>2026-01-24T04:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Update: Here's a look at this latest update.
+        <summary type="html"><![CDATA[Update: Here's a side-by-side comparison.
 :
 
 Read the full article on nintendolife.com]]></summary>
@@ -2412,16 +2462,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Technologie Skip pro multiplatformní mobilní vývoj je nově open source]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/technologie-skip-pro-multiplatformni-mobilni-vyvoj-je-nove-open-source</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/technologie-skip-pro-multiplatformni-mobilni-vyvoj-je-nove-open-source"/>
-        <updated>2026-01-22T09:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Technologie Skip pro multiplatformní mobilní vývoj, která umožňuje vývojářům vytvářet iOS a Android aplikace z jediné Swift a SwiftUI kódové základny, se s vydáním verze 1.7 stala open source.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IPTV Piracy Crackdown in Sweden ‘Exposes’ 4,886 Subscribers]]></title>
         <id>https://torrentfreak.com/?p=276170</id>
         <link href="https://torrentfreak.com/iptv-piracy-crackdown-in-sweden-exposes-4886-subscribers/"/>
@@ -2597,16 +2637,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PyTorch 2.10 Released With More Improvements For AMD ROCm & Intel GPUs]]></title>
-        <id>https://www.phoronix.com/news/PyTorch-2.10-Released</id>
-        <link href="https://www.phoronix.com/news/PyTorch-2.10-Released"/>
-        <updated>2026-01-21T17:49:00.000Z</updated>
-        <summary type="html"><![CDATA[PyTorch 2.10 is out today as the latest feature update to this widely-used deep learning library. The new PyTorch release continues improving support for Intel GPUs as well as for the AMD ROCm compute stack along with still driving more enhancements for NVIDIA CUDA...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USN-7972-1: OpenCC vulnerability]]></title>
         <id>https://ubuntu.com/security/notices/USN-7972-1</id>
         <link href="https://ubuntu.com/security/notices/USN-7972-1"/>
@@ -2677,16 +2707,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[XDG-Desktop-Portal 1.21 Released With Reduced Motion Setting, Support For Linyaps Apps]]></title>
-        <id>https://www.phoronix.com/news/XDG-Desktop-Portal-1.21</id>
-        <link href="https://www.phoronix.com/news/XDG-Desktop-Portal-1.21"/>
-        <updated>2026-01-21T16:14:55.000Z</updated>
-        <summary type="html"><![CDATA[XDG-Desktop-Portal 1.21 is now available for testing with the latest features for this portal frontend service to Flatpak...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Galerie: správci síti se sešli ve Zlíně na setkání CSNOG 2026]]></title>
         <id>www.root.cz-text-18972</id>
         <link href="https://www.root.cz/clanky/galerie-spravci-siti-se-sesli-ve-zline-na-setkani-csnog-2026/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2735,16 +2755,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 7.0 Apple Silicon Device Tree Updates Have All The Bits For USB Type-C Ports]]></title>
-        <id>https://www.phoronix.com/news/Apple-Silicon-DT-Linux-7.0</id>
-        <link href="https://www.phoronix.com/news/Apple-Silicon-DT-Linux-7.0"/>
-        <updated>2026-01-21T14:18:28.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of the Linux 6.20~7.0 cycle kicking off next month, the Apple Silicon Device Tree updates have been sent out for queuing ahead of that next merge window. Notable this round are the Device Tree additions for rounding out the USB 2.0/3.x support with the USB-C ports...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NVMe SSD zrychlí až o 15 %, stačil jeden patch]]></title>
         <id>www.root.cz-actuality-50793</id>
         <link href="https://www.root.cz/zpravicky/nvme-ssd-zrychli-az-o-15-procent-stacil-jeden-patch/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2784,16 +2794,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adjusting One Line Of Linux Code Yields 5x Wakeup Latency Reduction For Modern Xeon CPUs]]></title>
-        <id>https://www.phoronix.com/news/5x-Wakeup-Latency-Reduce-Xeon</id>
-        <link href="https://www.phoronix.com/news/5x-Wakeup-Latency-Reduce-Xeon"/>
-        <updated>2026-01-21T11:27:00.000Z</updated>
-        <summary type="html"><![CDATA[A new patch posted to the Linux kernel mailing list aims to address the high wake-up latency experienced on modern Intel Xeon server platforms. With Sapphire Rapids and newer, "excessive" wakeup latencies with the Linux menu governor and NOHZ_FULL configuration can negatively impair Xeon CPUs for latency-sensitive workloads but a 16 line patch aims to better improve the situation. That is, changing one line of actual code and the rest being code comments...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4737,16 +4737,6 @@ Issue #450247317
 Problem running Package tests in Android Studio Otter]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenTTD 15.0-RC4]]></title>
-        <id>https://www.openttd.org/news/2025/12/26/openttd-15-0-rc4.html</id>
-        <link href="https://www.openttd.org/news/2025/12/26/openttd-15-0-rc4.html"/>
-        <updated>2025-12-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Third, er, Fourth try’s the charm? You found some bugs that needed fixing before the full release of OpenTTD 15. Let’s do one last (we hope) Release Candidate. We’ve fixed two crashes related to station windows and signs, a hang related to implicit orders, and have stopped cacti from dying off completely with some tree spread settings. As always, if you spot any more bugs, please report them here. We’ve heard from many of our translators that they’ve finished their languages. If your language needs updating, it’s the last chance! Check on your language here. Download Changelog Bug tracker]]></summary>
-        <author>
-            <name>OpenTTD</name>
         </author>
     </entry>
 </feed>
