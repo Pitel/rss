@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-24T04:31:37.187Z</id>
+    <id>urn:2026-01-24T06:24:43.360Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-01-24T04:31:37.187Z</updated>
+    <updated>2026-01-24T06:24:43.360Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[“Ascended Heroes” Set Guide: Full Set List, God Packs, Reverse Holos, Product Lineup, and More!]]></title>
         <id>156641</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cascended-heroes%E2%80%9D-set-guide-full-set-list-god-packs-reverse-holos-product-lineup-and-more.156641/"/>
-        <updated>2026-01-24T04:26:55.000Z</updated>
+        <updated>2026-01-24T05:11:01.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma Saw At Least 9 Crash Fixes This Week]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-9-Crash-Fixes</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-9-Crash-Fixes"/>
+        <updated>2026-01-24T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KDE Plasma 6.6 feature development work continues winding down while Plasma 6.7 has begun seeing more feature work. This week also saw at least nine different crash fixes affecting Plasma/KWin...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: Switch 2 Visual And Performance Improvements Included In New Rocket League Update]]></title>
+        <id>https://www.nintendolife.com/#article-196547</id>
+        <link href="https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update"/>
+        <updated>2026-01-24T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Here's a look at this latest update.
+:
+
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1666,19 +1689,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PSA: Switch 2 Visual And Performance Improvements Included In New Rocket League Update]]></title>
-        <id>https://www.nintendolife.com/#article-196547</id>
-        <link href="https://www.nintendolife.com/news/2026/01/psa-switch-2-visual-and-performance-improvements-included-in-new-rocket-league-update"/>
-        <updated>2026-01-23T01:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Visual quality upgrades, improved resolution and more!
-Since the arrival of the Switch 2 last year, many third-party developers have been updating their existing Switch games for Nintendo's new hybrid system.
-With this in mind, Psyonix's latest update for its vehicular soccer game Rocket League has today added Switch 2 visual and performance improvements. This includes simplified graphics settings, improved resolution and visual quality upgrades.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD Lands Fresh Performance Improvements For RDNA4 In RadeonSI Driver]]></title>
         <id>https://www.phoronix.com/news/GFX12-RadeonSI-Mesa-26.1-More</id>
         <link href="https://www.phoronix.com/news/GFX12-RadeonSI-Mesa-26.1-More"/>
@@ -2770,16 +2780,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/5x-Wakeup-Latency-Reduce-Xeon"/>
         <updated>2026-01-21T11:27:00.000Z</updated>
         <summary type="html"><![CDATA[A new patch posted to the Linux kernel mailing list aims to address the high wake-up latency experienced on modern Intel Xeon server platforms. With Sapphire Rapids and newer, "excessive" wakeup latencies with the Linux menu governor and NOHZ_FULL configuration can negatively impair Xeon CPUs for latency-sensitive workloads but a 16 line patch aims to better improve the situation. That is, changing one line of actual code and the rest being code comments...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Patches Aim To Make x86 Linux EFI Stub & Relocatable Kernel Support Unconditional]]></title>
-        <id>https://www.phoronix.com/news/Linux-x86-Boot-Cleanup</id>
-        <link href="https://www.phoronix.com/news/Linux-x86-Boot-Cleanup"/>
-        <updated>2026-01-21T10:55:35.000Z</updated>
-        <summary type="html"><![CDATA[Prominent Intel Linux engineer H. Peter Anvin has posted a new patch series working to clean-up the Linux x86/x86_64 kernel boot code. Besides cleaning up the code, the kernel configuration would drop options around EFI stub mode and relocatable kernels in making those features now always enabled...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
