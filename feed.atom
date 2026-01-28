@@ -1,17 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-28T04:39:44.273Z</id>
+    <id>urn:2026-01-28T06:28:46.956Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-01-28T04:39:44.273Z</updated>
+    <updated>2026-01-28T06:28:46.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[All 234 “Fantastical Parade” Cards Revealed from “Pocket!”]]></title>
         <id>156644</id>
         <link href="https://www.pokebeach.com/forums/threads/all-234-%E2%80%9Cfantastical-parade%E2%80%9D-cards-revealed-from-%E2%80%9Cpocket-%E2%80%9D.156644/"/>
-        <updated>2026-01-28T04:38:35.000Z</updated>
+        <updated>2026-01-28T06:27:27.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC Patches Posted For Klint Integration With The Linux Kernel: Rust-Based Linting Tool]]></title>
+        <id>https://www.phoronix.com/news/Klint-Linux-Kernel-RFC-Patches</id>
+        <link href="https://www.phoronix.com/news/Klint-Linux-Kernel-RFC-Patches"/>
+        <updated>2026-01-28T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A request for comments (RFC) patch series was sent out today for providing Klint integration with the Linux kernel. Klint is a new linting tool written in the Rust programming language that helps with static code analysis for errors/bugs as well as code styling inconsistencies...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WWE 2K26 Is Reportedly On The Way To Switch 2]]></title>
+        <id>https://www.nintendolife.com/#article-196737</id>
+        <link href="https://www.nintendolife.com/news/2026/01/wwe-2k26-is-reportedly-on-the-way-to-switch-2"/>
+        <updated>2026-01-28T04:45:00.000Z</updated>
+        <summary type="html"><![CDATA[It's expected to drop the same day as other versions.
+WWE 2K25 delivered an excellent Switch 2 port last July, and if you were hoping for the next entry on Nintendo's new hybrid system, it seems you're in luck.
+According to Dealabs' Billbil-kun, who has accurately reported on game announcements ahead of schedule in the past, the next WWE 2K will not only be coming to the Switch 2, but it will also be arriving on the same date as the Xbox Series X|S and PlayStation 5 counterparts.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -143,6 +166,36 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2026-01-28T00:10:34.000Z</updated>
         <author>
             <name>The_Real_Ditto</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7982-1: FFmpeg vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7982-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7982-1"/>
+        <updated>2026-01-27T23:36:27.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that FFmpeg did not correctly handle certain memory
+operations. An attacker could possibly use this issue to cause a denial
+of service or execute arbitrary code. This issue only affected
+Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, Ubuntu 24.04 LTS and Ubuntu 25.10.
+(CVE-2025-59728)
+
+It was discovered that FFmpeg did not correctly handle certain memory
+operations. An attacker could possibly use this issue to cause a denial
+of service or execute arbitrary code. This issue only affected
+Ubuntu 22.04 LTS, Ubuntu 24.04 LTS and Ubuntu 25.10. (CVE-2025-59731,
+CVE-2025-59732)
+
+It was discovered that FFmpeg did not correctly handle certain memory
+operations. An attacker could possibly use this issue to cause a denial
+of service or execute arbitrary code. This issue only affected
+Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, Ubuntu 24.04 LTS
+and Ubuntu 25.10. (CVE-2025-59733)
+
+It was discovered that FFmpeg did not correctly handle certain integer
+arithmetic operations. An attacker could possibly use this issue to
+cause a denial of service or execute arbitrary code. (CVE-2025-63757)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2790,19 +2843,6 @@ Ubuntu 25.10. (CVE-2025-26625)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tomodachi Life: Living The Dream Nintendo Direct Announced For Thursday, 29th January]]></title>
-        <id>https://www.nintendolife.com/#article-196644</id>
-        <link href="https://www.nintendolife.com/news/2026/01/tomodachi-life-living-the-dream-nintendo-direct-announced-for-thursday-29th-january"/>
-        <updated>2026-01-26T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Dream Land.
-If last weekend's Mario Movie Direct wasn't enough for you, Nintendo has today announced that Tomodachi Life: Living the Dream will be getting a Direct presentation of its own later this week.
-As revealed on Nintendo Today!, the presentation will kick off on Thursday 29th January at 2pm GMT, and promises to clue us in on all kinds of hot new details about the long-awaited 3DS sequel throughout its 20-minute runtime.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Initial AMD GFX13 Target Merged To LLVM 23 Git - Presumably RDNA5]]></title>
         <id>https://www.phoronix.com/news/AMD-GFX13-Initial-Commit</id>
         <link href="https://www.phoronix.com/news/AMD-GFX13-Initial-Commit"/>
@@ -3044,16 +3084,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.phoronix.com/news/LACT-0.8.4-Released"/>
         <updated>2026-01-25T18:58:09.000Z</updated>
         <summary type="html"><![CDATA[In the absence of any official GUI control panel from AMD or Intel for their graphics cards on Linux, LACT remains a popular choice particularly for AMD Radeon Linux gamers/enthusiasts to manage various aspects of their GPU from a convenient UI. LACT also supports Intel GPUs and some features on NVIDIA GPUs too. Out today is LACT 0.8.4 for further enhancing this third-party GPU driver user interface...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Sends In A Variety Of Graphics Driver Fixes Ahead Of Linux 7.0 Cycle]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-Linux-7.0-More-Fixes</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-Linux-7.0-More-Fixes"/>
-        <updated>2026-01-25T17:27:23.000Z</updated>
-        <summary type="html"><![CDATA[This week's batch of AMDGPU and AMDKFD changes queued up ahead of the next kernel merge window is focused on delivering a variety of driver fixes...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -3859,18 +3889,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7972-1: OpenCC vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7972-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7972-1"/>
-        <updated>2026-01-21T17:35:53.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that OpenCC incorrectly handled truncated UTF-8 input.
-An attacker could possibly use this issue to cause OpenCC to crash,
-resulting in a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4980,74 +4998,6 @@ Film This is Spinal Tap je rockový hudební dokument (neboli "rockument") o bri
         <summary type="html"><![CDATA[New Year, New You, New OpenTTD! OpenTTD 15 is now out and ready for you to play! New features include: Companies in multiplayer no longer have passwords, invite specific players using buttons in the Online Players list instead Island maps can be surrounded by infinite water instead of void Rivers can end in wetlands if unable to reach sea Bridges can be placed over stations and road stops Roads can now have waypoints Houses can be placed manually Industries and towns have graphs of their cargo history Improvements to menus, including a new main menu and a combined game options and settings window Many more features, changes, and fixes For a full breakdown of new features, check out this video by Master Hellish. We’ll be gathering any bugs for a future 15.1 release, so if you find any, please report them here. Download Changelog Bug tracker]]></summary>
         <author>
             <name>OpenTTD</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android Studio Panda 1 | 2025.3.1 Canary 2 now available]]></title>
-        <id>https://androidstudio.googleblog.com/2025/12/android-studio-panda-1-202531-canary-2.html</id>
-        <link href="https://androidstudio.googleblog.com/2025/12/android-studio-panda-1-202531-canary-2.html"/>
-        <updated>2025-12-29T17:55:42.287Z</updated>
-        <summary type="html"><![CDATA[Android Studio Panda 1 | 2025.3.1 Canary 2 is now available in the Canary channel.
-If you already have an Android Studio build on the Canary channel,
-you can get the update by clicking Help > Check for Updates (or Android Studio > Check
-for Updates on macOS). Otherwise, you can download it here.
-For information on new features and changes in Android Studio Panda 1, see the Android Studio Preview release notes.
-
-For details of bugs fixed in each previous release of Android Studio Panda 1, see
-closed issues.
-General fixes and features
-Below is a list of general fixes in Android Studio Panda 1 | 2025.3.1 Canary 2 and Android Gradle Plugin 9.1.0-alpha02. These are a result of your bug
-reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
-you.
-
-  
-    
-Fixed Issues
-    
-Android Gradle Plugin
-      
-        
-
-          
-            
-
-              
-Issue #458708710
-Add ability to turn ManifestProcessorTask warnings into errors
-
-          
-        
-
-      
-    
-Running Devices
-      
-        
-
-          
-            
-
-              
-Issue #467102955
-Device Mirroring creates infinite VP8 codec loop causing 87% CPU drain on Pixel 9 Pro Fold
-
-          
-        
-
-      
-    
-Running Tests
-      
-        
-
-          
-            
-
-              
-Issue #450247317
-Problem running Package tests in Android Studio Otter]]></summary>
-        <author>
-            <name>Android Studio Release Updates</name>
         </author>
     </entry>
 </feed>
