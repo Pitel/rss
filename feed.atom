@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-03T01:43:30.062Z</id>
+    <id>urn:2026-02-03T04:09:45.346Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-02-03T01:43:30.062Z</updated>
+    <updated>2026-02-03T04:09:45.346Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Chaos Rising” English Set Releasing in May!]]></title>
+        <id>156654</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cchaos-rising%E2%80%9D-english-set-releasing-in-may.156654/"/>
+        <updated>2026-02-03T02:44:25.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[new tool ：random pokemon]]></title>
         <id>156351</id>
@@ -15,12 +24,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Chaos Rising” English Set Releasing in May!]]></title>
-        <id>156654</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cchaos-rising%E2%80%9D-english-set-releasing-in-may.156654/"/>
-        <updated>2026-02-03T01:22:47.000Z</updated>
+        <title type="html"><![CDATA[Surprise! Tomodachi Life's 3DS Soundtrack Has Been Added To Nintendo Music]]></title>
+        <id>https://www.nintendolife.com/#article-196941</id>
+        <link href="https://www.nintendolife.com/news/2026/02/surprise-tomodachi-lifes-3ds-soundtrack-has-been-added-to-nintendo-music"/>
+        <updated>2026-02-03T01:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Prepare for island life on Switch.
+
+Following a special Nintendo Direct broadcast last week for Tomodachi Life: Living the Dream, Nintendo is now celebrating the series on its music app this week with the release of the 3DS soundtrack.
+Read the full article on nintendolife.com]]></summary>
         <author>
-            <name>Water Pokémon Master</name>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -30,6 +43,150 @@
         <updated>2026-02-03T00:14:12.000Z</updated>
         <author>
             <name>dineinunes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8003-1: CRaC JDK 21 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8003-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8003-1"/>
+        <updated>2026-02-02T23:40:30.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that the RMI component of CRaC JDK 21 would establish
+RMI TCP endpoint connections to a remote host without setting an
+endpoint identification algorithm. An unauthenticated remote attacker
+could possibly use this issue to steal sensitive information.
+(CVE-2026-21925)
+
+Mingijung discovered that the AWT and JavaFX componenets of CRaC JDK 21
+could run programs if Desktop.browse() was supplied a filename as a
+URI. An unauthenticated remote attacker could possibly use this issue
+to execute arbitrary code. (CVE-2026-21932)
+
+Zhihui Chen discovered that the Networking component of CRaC JDK 21
+was suceptible to a CRLF injection vulnerability via the HttpServer
+class. An unauthenticated remote attacker could possibly use this
+issue to modify files or leak sensitive information. (CVE-2026-21933)
+
+Ireneusz Pastusiak discovered that the Security component of CRaC JDK
+21 failed to verify provided URIs point to a legitimate source when
+AIA is enabled. An unauthenticated remote attacker could possibly
+use this issue to redirect users to malicious hosts.
+(CVE-2026-21945)
+
+In addition to security fixes, the updated packages contain bug fixes,
+new features, and possibly incompatible changes.
+
+Please see the following for more information:
+https://openjdk.org/groups/vulnerability/advisories/2026-01-20]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8002-1: OpenJDK 21 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8002-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8002-1"/>
+        <updated>2026-02-02T23:31:07.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that the RMI component of OpenJDK 21 would establish
+RMI TCP endpoint connections to a remote host without setting an
+endpoint identification algorithm. An unauthenticated remote attacker
+could possibly use this issue to steal sensitive information.
+(CVE-2026-21925)
+
+Mingijung discovered that the AWT and JavaFX componenets of OpenJDK 21
+could run programs if Desktop.browse() was supplied a filename as a
+URI. An unauthenticated remote attacker could possibly use this issue
+to execute arbitrary code. (CVE-2026-21932)
+
+Zhihui Chen discovered that the Networking component of OpenJDK 21
+was suceptible to a CRLF injection vulnerability via the HttpServer
+class. An unauthenticated remote attacker could possibly use this
+issue to modify files or leak sensitive information. (CVE-2026-21933)
+
+Ireneusz Pastusiak discovered that the Security component of OpenJDK 21
+failed to verify provided URIs point to a legitimate source when
+AIA is enabled. An unauthenticated remote attacker could possibly
+use this issue to redirect users to malicious hosts.
+(CVE-2026-21945)
+
+In addition to security fixes, the updated packages contain bug fixes,
+new features, and possibly incompatible changes.
+
+Please see the following for more information:
+https://openjdk.org/groups/vulnerability/advisories/2026-01-20]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8001-1: OpenJDK 11 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8001-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8001-1"/>
+        <updated>2026-02-02T23:25:15.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that the RMI component of OpenJDK 11 would establish
+RMI TCP endpoint connections to a remote host without setting an
+endpoint identification algorithm. An unauthenticated remote attacker
+could possibly use this issue to steal sensitive information.
+(CVE-2026-21925)
+
+Mingijung discovered that the AWT and JavaFX componenets of OpenJDK 11
+could run programs if Desktop.browse() was supplied a filename as a
+URI. An unauthenticated remote attacker could possibly use this issue
+to execute arbitrary code. (CVE-2026-21932)
+
+Zhihui Chen discovered that the Networking component of OpenJDK 11
+was suceptible to a CRLF injection vulnerability via the HttpServer
+class. An unauthenticated remote attacker could possibly use this
+issue to modify files or leak sensitive information. (CVE-2026-21933)
+
+Ireneusz Pastusiak discovered that the Security component of OpenJDK 11
+failed to verify provided URIs point to a legitimate source when
+AIA is enabled. An unauthenticated remote attacker could possibly
+use this issue to redirect users to malicious hosts.
+(CVE-2026-21945)
+
+In addition to security fixes, the updated packages contain bug fixes,
+new features, and possibly incompatible changes.
+
+Please see the following for more information:
+https://openjdk.org/groups/vulnerability/advisories/2026-01-20]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8000-1: OpenJDK 8 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8000-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8000-1"/>
+        <updated>2026-02-02T23:02:27.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that the RMI component of OpenJDK 8 would establish
+RMI TCP endpoint connections to a remote host without setting an
+endpoint identification algorithm. An unauthenticated remote attacker
+could possibly use this issue to steal sensitive information.
+(CVE-2026-21925)
+
+Mingijung discovered that the AWT and JavaFX componenets of OpenJDK 8
+could run programs if Desktop.browse() was supplied a filename as a
+URI. An unauthenticated remote attacker could possibly use this issue
+to execute arbitrary code. (CVE-2026-21932)
+
+Zhihui Chen discovered that the Networking component of OpenJDK 8
+was suceptible to a CRLF injection vulnerability via the HttpServer
+class. An unauthenticated remote attacker could possibly use this
+issue to modify files or leak sensitive information. (CVE-2026-21933)
+
+Ireneusz Pastusiak discovered that the Security component of OpenJDK 8
+failed to verify provided URIs point to a legitimate source when
+AIA is enabled. An unauthenticated remote attacker could possibly
+use this issue to redirect users to malicious hosts.
+(CVE-2026-21945)
+
+In addition to security fixes, the updated packages contain bug fixes,
+new features, and possibly incompatible changes.
+
+Please see the following for more information:
+https://openjdk.org/groups/vulnerability/advisories/2026-01-20]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1298,6 +1455,20 @@ The easiest way to get a restraining order is to harass someone into filing one 
 Read more]]></summary>
         <author>
             <name>James Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-7991-1: Thunderbird vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-7991-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-7991-1"/>
+        <updated>2026-02-02T12:11:46.000Z</updated>
+        <summary type="html"><![CDATA[Multiple security issues were discovered in Thunderbird. If a user were
+tricked into opening a specially crafted website in a browsing context,
+an attacker could potentially exploit these to cause a denial of service,
+obtain sensitive information, bypass security restrictions, cross-site
+tracing, or execute arbitrary code.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3019,19 +3190,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japanese Charts: Final Fantasy VII Remake Intergrade Emerges Victorious In A Quiet Week]]></title>
-        <id>https://www.nintendolife.com/#article-196872</id>
-        <link href="https://www.nintendolife.com/news/2026/01/japanese-charts-final-fantasy-vii-remake-intergrade-emerges-victorious-in-a-quiet-week"/>
-        <updated>2026-01-30T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hey, a win's a win!
-We were a little caught up in all of yesterday's Tomodachi Life: Living the Dream news to get to the Japanese charts, but worry not, we're on it now!
-Yes, Famitsu has shared the latest look at physical sales in the region, and it's Square Enix's Final Fantasy VII Remake Intergrade that has come out on top with 23,428 units sold in its debut week. That's not a particularly high number, it's true, but considering that Mario Kart World came in second with almost 14 thousand, it's not bad going.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ubuntu 26.04 Resolute Snapshot 3 Released For Testing]]></title>
         <id>https://www.phoronix.com/news/Ubuntu-26.04-Snapshot-3</id>
         <link href="https://www.phoronix.com/news/Ubuntu-26.04-Snapshot-3"/>
@@ -3344,66 +3502,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-7988-2: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7988-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7988-2"/>
-        <updated>2026-01-29T23:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Media drivers;
-  - NVME drivers;
-  - File systems infrastructure;
-  - Timer subsystem;
-  - Memory management;
-  - Packet sockets;
-(CVE-2022-48986, CVE-2024-27078, CVE-2024-49959, CVE-2024-50195,
-CVE-2024-56606, CVE-2024-56756, CVE-2025-39993)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7988-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7988-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7988-1"/>
-        <updated>2026-01-29T23:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Media drivers;
-  - NVME drivers;
-  - File systems infrastructure;
-  - Timer subsystem;
-  - Memory management;
-  - Packet sockets;
-(CVE-2022-48986, CVE-2024-27078, CVE-2024-49959, CVE-2024-50195,
-CVE-2024-56606, CVE-2024-56756, CVE-2025-39993)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7987-2: Linux kernel (FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7987-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-7987-2"/>
-        <updated>2026-01-29T23:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - InfiniBand drivers;
-  - Media drivers;
-  - File systems infrastructure;
-  - Timer subsystem;
-  - Packet sockets;
-  - Network traffic control;
-(CVE-2021-47485, CVE-2024-49959, CVE-2024-50195, CVE-2024-53164,
-CVE-2024-56606, CVE-2025-39993)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fujitsu Esprimo D757 E94+ DTF, neskutečně úsporný 10 let starý repas]]></title>
         <id>www.root.cz-text-19011</id>
         <link href="https://www.root.cz/clanky/fujitsu-esprimo-d757-e94-dtf-neskutecne-usporny-10-let-stary-repas/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3411,43 +3509,6 @@ CVE-2024-56606, CVE-2025-39993)]]></summary>
         <summary type="html"><![CDATA[Na 14nm platformu Intel Skylake z roku 2015 se spíše nadávalo. Z velké části oprávněně. Jenže ona tak nějak umí být viditelně lepší, než předchozí 22nm Haswell Refresh, a to včetně brutálně úsporného chodu, pokud – tak trochu paradoxně – dojde na nestandardní komponenty velkého výrobce.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7987-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7987-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7987-1"/>
-        <updated>2026-01-29T22:53:49.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - InfiniBand drivers;
-  - Media drivers;
-  - File systems infrastructure;
-  - Timer subsystem;
-  - Packet sockets;
-  - Network traffic control;
-(CVE-2021-47485, CVE-2024-49959, CVE-2024-50195, CVE-2024-53164,
-CVE-2024-56606, CVE-2025-39993)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7986-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7986-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7986-1"/>
-        <updated>2026-01-29T22:31:09.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Ceph distributed file system;
-  - JFFS2 file system;
-  - Timer subsystem;
-  - USB sound devices;
-(CVE-2024-26689, CVE-2024-53197, CVE-2024-57850, CVE-2025-38352)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
