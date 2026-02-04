@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-04T06:42:16.534Z</id>
+    <id>urn:2026-02-04T08:33:54.687Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-02-04T06:42:16.534Z</updated>
+    <updated>2026-02-04T08:33:54.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[ArgoCD: nasazujeme aplikace do Kubernetes (školení)]]></title>
+        <id>www.root.cz-actuality-43388</id>
+        <link href="https://www.root.cz/zpravicky/argocd-nasazujeme-aplikace-do-kubernetes-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-02-04T08:22:02.000Z</updated>
+        <summary type="html"><![CDATA[ArgoCD je GitOps nástroj kterým nasazujeme aplikace do Kubernetes. Pracuje na základě deklarativních konfiguračních souborů, které si stahuje z Gitu. To znamená, že vše, co commitneme do repozitáře, se na nasadí do Kubernetes. O všech změnách: co, kdy, kdo udělal budeme mít přehledné záznamy v Gitu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Pokemon Day 2026” Prizes Revealed for Pokemon Leagues, Includes Exclusive Bulbasaur Promo!]]></title>
+        <id>156655</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpokemon-day-2026%E2%80%9D-prizes-revealed-for-pokemon-leagues-includes-exclusive-bulbasaur-promo.156655/"/>
+        <updated>2026-02-04T08:21:35.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X.Org Developers Conference 2026 bude v kanadském Torontu, zaplatí ji ARM]]></title>
         <id>www.root.cz-actuality-50958</id>
@@ -85,15 +104,6 @@ Read the full article on nintendolife.com]]></summary>
         <id>156649</id>
         <link href="https://www.pokebeach.com/forums/threads/mega-slowbro-ex-slowpoke-jett-and-other-gym-promos-revealed-for-february.156649/"/>
         <updated>2026-02-04T04:03:42.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Pokemon Day 2026” Prizes Revealed for Pokemon Leagues, Includes Exclusive Bulbasaur Promo!]]></title>
-        <id>156655</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpokemon-day-2026%E2%80%9D-prizes-revealed-for-pokemon-leagues-includes-exclusive-bulbasaur-promo.156655/"/>
-        <updated>2026-02-04T03:18:58.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -1643,6 +1653,26 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-8007-1: ImageMagick vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8007-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8007-1"/>
+        <updated>2026-02-03T10:05:40.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that ImageMagick incorrectly handled image depth values
+when processing MIFF image files. An attacker could use this issue to cause
+a denial of service or possibly execute arbitrary code. (CVE-2025-43965)
+
+It was discovered that ImageMagick incorrectly processed SVG images and
+MSL files. An attacker could possibly use this issue to cause a denial of
+service. (CVE-2025-68618)
+
+It was discovered that ImageMagick incorrectly handled memory when
+converting MVG files. An attacker could possibly use this issue to cause a
+denial of service. (CVE-2025-69204)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["This shouldn’t have happened": GOG reportedly claim sale banner made with "Al tools" ended up on store by mistake]]></title>
         <id>https://www.rockpapershotgun.com/this-shouldnt-have-happened-gog-reportedly-claim-sale-banner-made-with-al-tools-ended-up-on-store-by-mistake</id>
         <link href="https://www.rockpapershotgun.com/this-shouldnt-have-happened-gog-reportedly-claim-sale-banner-made-with-al-tools-ended-up-on-store-by-mistake"/>
@@ -1757,6 +1787,27 @@ The headliners here are undoubtedly Mario Tennis Fever, Pokémon Pokopia, and Su
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8006-1: MySQL vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8006-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8006-1"/>
+        <updated>2026-02-03T07:52:06.000Z</updated>
+        <summary type="html"><![CDATA[Multiple security issues were discovered in MySQL and this update includes
+a new upstream MySQL version to fix these issues.
+
+MySQL has been updated to 8.0.45 in Ubuntu 20.04 LTS.
+
+In addition to security fixes, the updated packages contain bug fixes, new
+features, and possibly incompatible changes.
+
+Please see the following for more information:
+
+https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-45.html
+https://www.oracle.com/security-alerts/cpujan2026.html]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2087,42 +2138,6 @@ https://openjdk.org/groups/vulnerability/advisories/2026-01-20]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8000-1: OpenJDK 8 vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8000-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8000-1"/>
-        <updated>2026-02-02T23:02:27.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that the RMI component of OpenJDK 8 would establish
-RMI TCP endpoint connections to a remote host without setting an
-endpoint identification algorithm. An unauthenticated remote attacker
-could possibly use this issue to steal sensitive information.
-(CVE-2026-21925)
-
-Mingijung discovered that the AWT and JavaFX componenets of OpenJDK 8
-could run programs if Desktop.browse() was supplied a filename as a
-URI. An unauthenticated remote attacker could possibly use this issue
-to execute arbitrary code. (CVE-2026-21932)
-
-Zhihui Chen discovered that the Networking component of OpenJDK 8
-was suceptible to a CRLF injection vulnerability via the HttpServer
-class. An unauthenticated remote attacker could possibly use this
-issue to modify files or leak sensitive information. (CVE-2026-21933)
-
-Ireneusz Pastusiak discovered that the Security component of OpenJDK 8
-failed to verify provided URIs point to a legitimate source when
-AIA is enabled. An unauthenticated remote attacker could possibly
-use this issue to redirect users to malicious hosts.
-(CVE-2026-21945)
-
-In addition to security fixes, the updated packages contain bug fixes,
-new features, and possibly incompatible changes.
-
-Please see the following for more information:
-https://openjdk.org/groups/vulnerability/advisories/2026-01-20]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zabezpečení BGP, Segment Routing v Birdu a útoky na Turris, CSNOG 2026]]></title>
         <id>www.root.cz-text-19023</id>
         <link href="https://www.root.cz/clanky/zabezpeceni-bgp-segment-routing-v-birdu-a-utoky-na-turris-csnog-2026/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2293,23 +2308,6 @@ The post How to get extra grip in Cairn appeared first on Destructoid.]]></summa
         <summary type="html"><![CDATA[With the concerns raised over comments by Mozilla's new CEO with wanting to evolve Firefox into a "modern AI browser",  the Firefox 148 release due out later this month aims to address some of those concerns by having a new AI controls area within the web browser's settings...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-7999-1: Filelock vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-7999-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-7999-1"/>
-        <updated>2026-02-02T20:26:28.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Filelock incorrectly handled symlinks in temp files.
-A local attacker could possibly use this issue to cause lock operations to
-fail or behave unexpectedly. (CVE-2026-22701)
-
-It was discovered that the file locking implementation in the Filelock
-package contained a race condition. A local attacker could possibly use
-this to cause a denial of service or corrupt arbitrary user files.
-(CVE-2025-68146)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -4003,16 +4001,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.root.cz/zpravicky/whatsapp-zavadi-bezpecnostni-rezim-pro-ochranu-ohrozenych-uzivatelu-pred-spywarem/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2026-01-29T08:18:29.000Z</updated>
         <summary type="html"><![CDATA[Společnost Meta oznámila, že do aplikace WhatsApp přidává nová nastavení účtu, aby ochránila určité zvlášť ohrožené uživatele před pokročilými kybernetickými útoky. Má za cíl chránit jednotlivce, jako jsou novináři nebo veřejně známé osobnosti, před sofistikovaným spywarem. Výměnou za zvýšenou bezpečnost ovšem omezuje některé funkce.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zemřel Didier Spaier, autor distribuce Slint pro zrakově postižené]]></title>
-        <id>www.root.cz-actuality-50889</id>
-        <link href="https://www.root.cz/zpravicky/zemrel-didier-spaier-autor-distribuce-slint-pro-zrakove-postizene/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-01-29T07:25:34.000Z</updated>
-        <summary type="html"><![CDATA[Zemřel Didier Spaier, který se staral o linuxovou distribuci Slint, založenou na Slackware a určenou pro zrakově postižené uživatele. V komunitě byl známý svou neúnavnou prací, přátelskými vztahy a snahou vždy každému vyjít vstříc a pomoci.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
