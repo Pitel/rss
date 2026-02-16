@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-15T22:17:59.849Z</id>
+    <id>urn:2026-02-16T01:44:30.734Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-02-15T22:17:59.849Z</updated>
+    <updated>2026-02-16T01:44:30.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.0 Merges The Code To Replace The Tux Boot Logo At Build Time]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.0-FBDEV-Alternate-Logo</id>
+        <link href="https://www.phoronix.com/news/Linux-7.0-FBDEV-Alternate-Logo"/>
+        <updated>2026-02-16T01:24:12.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds merged the code this weekend that allows easily replacing the Tux penguin boot logo used during the boot process. This new code optionally allows specifying an alternative boot logo at compile/build time...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[exFAT Achieves Better Sequential Read Performance With Linux 7.0]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.0-exFAT</id>
+        <link href="https://www.phoronix.com/news/Linux-7.0-exFAT"/>
+        <updated>2026-02-15T23:15:06.000Z</updated>
+        <summary type="html"><![CDATA[The open-source Linux file-system driver for supporting Microsoft's exFAT now can deliver better sequential read performance with Linux 7.0 thanks to multi-cluster support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: staré botnety, nové kampaně a policejní zásahy]]></title>
+        <id>www.root.cz-text-19074</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-stare-botnety-nove-kampane-a-policejni-zasahy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-02-15T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[V dnešních bezpečnostních postřezích se podíváme na nový botnet se starými triky, největší phishingovou kampaň v Singapuru, falešný web 7-zip a pokračující policejní kroky proti phishingovému nástroji JokerOTP.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: ČD - Telematika)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyšla beta GNOME 50, Linux Mint zvažuje delší vývojový cyklus]]></title>
+        <id>www.root.cz-text-19080</id>
+        <link href="https://www.root.cz/clanky/vysla-beta-gnome-50-linux-mint-zvazuje-delsi-vyvojovy-cyklus/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-02-15T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Projekt GNOME vydal veřejnou betu prostředí GNOME 50. Vývojáři Linux Mintu zvažují změnu tradičního šestiměsíčního vydávacího cyklu. Projekt MOS je nový open-source serverový systém zaměřený na homelaby a self-hosting.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Insomniac says Spider-Man won’t be coming to Xbox—but it once thought the same about PC]]></title>
         <id>https://www.destructoid.com/?p=1179902</id>
@@ -2729,16 +2769,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Posts 2026 Update For Cache Aware Scheduling On Linux]]></title>
-        <id>https://www.phoronix.com/news/Cache-Aware-Scheduling-Linux-v3</id>
-        <link href="https://www.phoronix.com/news/Cache-Aware-Scheduling-Linux-v3"/>
-        <updated>2026-02-12T21:18:33.000Z</updated>
-        <summary type="html"><![CDATA[Not in time for the current Linux 7.0 cycle but posted for another round of review is Intel's latest work around Cache Aware Scheduling for enhancing the performance of modern CPUs with multiple cache domains. This is the first set of updates to Cache Aware Scheduling for the new year and succeed the v2 patches from early December. This work not only benefits modern Intel CPUs but our testing has shown can also provide some very nice gains too for AMD EPYC processors...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Peter Molyneux plays the hits in an in-depth-but-not-too-in-depth gameplay trailer for Masters of Albion]]></title>
         <id>https://www.rockpapershotgun.com/peter-molyneux-plays-the-hits-in-an-in-depth-but-not-too-in-depth-gameplay-trailer-for-masters-of-albion</id>
         <link href="https://www.rockpapershotgun.com/peter-molyneux-plays-the-hits-in-an-in-depth-but-not-too-in-depth-gameplay-trailer-for-masters-of-albion"/>
@@ -2748,16 +2778,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXT4 In Linux 7.0 Improves Write Performance For Concurrent Direct I/O Writes]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.0-EXT4</id>
-        <link href="https://www.phoronix.com/news/Linux-7.0-EXT4"/>
-        <updated>2026-02-12T20:54:22.000Z</updated>
-        <summary type="html"><![CDATA[Sent out and already merged today for the Linux 7.0 kernel are the EXT4 file-system updates...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4044,16 +4064,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: závislost na mracích snižuje vaši odolnost]]></title>
-        <id>www.root.cz-text-19044</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-zavislost-na-mracich-snizuje-vasi-odolnost/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-02-08T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V dnešním díle postřehů se podíváme na špionážně zaměřené útoky malwaru, napadenou infrastrukturu editoru Notepad++, na výpadky cloudů a další zajímavosti z bezpečnosti ve světě výpočetní techniky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: CESNET CERTS)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's on your bookshelf: Nyamakop and Relooted's Marcia Shange]]></title>
         <id>https://www.rockpapershotgun.com/whats-on-your-bookshelf-nyamakop-and-relooteds-marcia-shange</id>
         <link href="https://www.rockpapershotgun.com/whats-on-your-bookshelf-nyamakop-and-relooteds-marcia-shange"/>
@@ -4084,16 +4094,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Vědci kolem projektu Dark energy survey zveřejnili novou analýzu získaných dat. Jak superhmotné černé díry ovlivňují vývoj galaxií. Superkritická voda fascinuje. Edisonovy experimenty s žárovkami z roku 1879 mohly vést ke vzniku grafenu. Matfyz spouští nejvýkonnější český zkapalňovač helia.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk chce milión družic kolem Země, GNOME má podporu JPEG 2000 a VRR]]></title>
-        <id>www.root.cz-text-19047</id>
-        <link href="https://www.root.cz/clanky/elon-musk-chce-1-milion-druzic-kolem-zeme-gnome-ma-podporu-jpeg-2000-a-vrr/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-02-07T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[KDE Plasma 6.6 téměř hotova, GNOME 50 s VRR a vylepšená knihovna Glycin, Wine 11.2 opravující 32 chyb, SpaceX zvažující provoz AI systémů na orbitě Země.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
