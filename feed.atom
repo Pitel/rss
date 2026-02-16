@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-16T08:39:20.246Z</id>
+    <id>urn:2026-02-16T10:42:40.892Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-02-16T08:39:20.246Z</updated>
+    <updated>2026-02-16T10:42:40.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-8042-1: FreeRDP vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8042-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8042-1"/>
+        <updated>2026-02-16T10:04:47.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that FreeRDP incorrectly handled memory under certain
+circumstances, which could lead to a NULL pointer dereference. An
+attacker could possibly use this issue to cause a denial of service.
+(CVE-2026-23948)
+
+It was discovered that FreeRDP did not correctly validate the size of
+certain variables, which could cause a buffer overflow. An attacker could
+possibly use this issue to cause a denial of service or execute arbitrary
+code. This issue only affected FreeRDP3 in Ubuntu 24.04 LTS and Ubuntu
+25.10. (CVE-2026-24491)
+
+It was discovered that FreeRDP did not correctly validate the size of
+certain variables, which could cause a buffer overflow. An attacker could
+possibly use this issue to cause a denial of service or execute arbitrary
+code. (CVE-2026-24675, CVE-2026-24679, CVE-…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jádro 7.0 bude mít jednodušší volbu pro změnu bootovacího loga při kompilaci]]></title>
+        <id>www.root.cz-actuality-51114</id>
+        <link href="https://www.root.cz/zpravicky/jadro-7-0-bude-mit-jednodussi-volbu-pro-zmenu-bootovaciho-loga-pri-kompilaci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-02-16T09:26:39.000Z</updated>
+        <summary type="html"><![CDATA[Jak jsme již psali, do jádra se dostal návrh na jednoduchou změnu loga Tuxe v levém horním rohu. V současnosti je potřeba zasahovat do souborů jádra. Nově bude možné vybrat při konfiguraci grafický soubor PPM nebo PBM, ve kterém bude logo.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Týden na ITBiz: Ohlášení podle nového zákona o kybernetické bezpečnosti provedlo přes 4800 organizací]]></title>
+        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-ohlaseni-podle-noveho-zakona-o-kyberneticke-bezpecnosti-provedlo-pres-4800-organizaci</id>
+        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-ohlaseni-podle-noveho-zakona-o-kyberneticke-bezpecnosti-provedlo-pres-4800-organizaci"/>
+        <updated>2026-02-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Čip využívající spinové vlny funguje poprvé bez externích magnetů. Ohlášení podle nového zákona o kybernetické bezpečnosti provedlo přes 4800 organizací. Gartner předpovídá, že celosvětové výdaje na IT letos vzrostou o 10,8 %. Velké jazykové modely překonávají člověka i v emoční inteligenci. Rostoucí složitost cloudu má dopad na kybernetickou odolnost podniků.]]></summary>
+        <author>
+            <name>Redakce</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to get three stars in ARC Raiders Week 17 Trials (Feb. 16)]]></title>
         <id>https://www.destructoid.com/?p=1179915</id>
@@ -3205,18 +3249,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8036-1: HAProxy vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8036-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8036-1"/>
-        <updated>2026-02-12T14:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Asim Viladi Oglu Manizada discovered that HAProxy incorrectly handled
-certain INITIAL packets. A remote attacker could possibly use this issue
-to cause HAProxy to crash, resulting in a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I recreated every katsu curry recipe in Romeo is a Dead Man and almost none of them made me better with swords]]></title>
         <id>https://www.rockpapershotgun.com/i-recreated-every-katsu-curry-recipe-in-romeo-is-a-dead-man-and-almost-none-of-them-made-me-better-with-swords</id>
         <link href="https://www.rockpapershotgun.com/i-recreated-every-katsu-curry-recipe-in-romeo-is-a-dead-man-and-almost-none-of-them-made-me-better-with-swords"/>
@@ -3916,16 +3948,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Dnes se seznámíme s konceptem jednohlavičkových knihoven (header-only library) používaných v C i C++. Jedná se o knihovny, které jsou celé tvořeny pouze jediným hlavičkovým souborem obsahujícím definice i deklarace.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Webinář: automatizovaná instalace Zabbix Agenta na Windows pomocí Ansible]]></title>
-        <id>www.root.cz-actuality-51042</id>
-        <link href="https://www.root.cz/zpravicky/webinar-automatizovana-instalace-zabbix-agenta-na-windows-pomoci-ansible/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-02-09T21:22:24.000Z</updated>
-        <summary type="html"><![CDATA[Společnost initMAX pořádá bezplatný webinář s názvem Automatizovaná instalace Zabbix Agenta na Windows pomocí Ansible. Účastníci se dozvědí, jak nasadit Zabbix agenta v prostředí Windows pomocí nástroje Ansible a jeho webové nadstavby AWX. Webinář nabídne podrobný postup instalace, upozorní na možná úskalí automatizace a poradí, jak správně připravit prostředí Windows.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Tomáš Heřmánek)</name>
         </author>
     </entry>
     <entry>
@@ -4856,16 +4878,6 @@ Nancy Drew: Gh…]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Událo se v týdnu 5/2026]]></title>
-        <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-5-2026</id>
-        <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-5-2026"/>
-        <updated>2026-01-30T23:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
     <entry>
