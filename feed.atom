@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-16T04:20:16.811Z</id>
+    <id>urn:2026-02-16T06:56:40.831Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-02-16T04:20:16.811Z</updated>
+    <updated>2026-02-16T06:56:40.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Opening Scene” Golden Pokemon Center Merchandise Revealed for 30th Anniversary!]]></title>
+        <id>156676</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Copening-scene%E2%80%9D-golden-pokemon-center-merchandise-revealed-for-30th-anniversary.156676/"/>
+        <updated>2026-02-16T05:48:15.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Společnost Backblaze zveřejnila statistiky spolehlivosti pevných disků za rok 2025]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/spolecnost-backblaze-zverejnila-statistiky-spolehlivosti-pevnych-disku-za-rok-2025</id>
@@ -13,15 +22,6 @@
         <summary type="html"><![CDATA[Společnost Backblaze zveřejnila statistiky spolehlivosti pevných disků používaných ve svých datových centrech za rok 2025. Ke konci roku 2025 vlastnila 349 462 pevných disků. Průměrná AFR (Annualized Failure Rate), tj. pravděpodobnost, že disk během roku selže, byla 1,36 %. V roce 2024 to bylo 1,57 %. V roce 2023 to bylo 1,70 %. V roce 2022 to bylo 1,37 %.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Opening Scene” Golden Pokemon Center Merchandise Revealed for 30th Anniversary!]]></title>
-        <id>156676</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Copening-scene%E2%80%9D-golden-pokemon-center-merchandise-revealed-for-30th-anniversary.156676/"/>
-        <updated>2026-02-16T01:57:32.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -2694,6 +2694,45 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-8032-1: AIOHTTP vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8032-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8032-1"/>
+        <updated>2026-02-13T03:52:42.000Z</updated>
+        <summary type="html"><![CDATA[Charles Chan discovered that AIOHTTP incorrectly handled the decompression
+of compressed requests. A remote attacker could possibly use this issue to
+cause a denial of service. This issue was only addressed in Ubuntu 25.10.
+(CVE-2025-69223)
+
+Thomas Rinsma discovered that AIOHTTP incorrectly handled non-ASCII
+characters in HTTP headers. A remote attacker could possibly use this issue
+to perform a request smuggling attack to bypass certain proxy protections.
+This issue was only addressed in Ubuntu 22.04 LTS, Ubuntu 24.04 LTS and
+Ubuntu 25.10. (CVE-2025-69224)
+
+Thomas Rinsma discovered that AIOHTTP incorrectly handled non-ASCII
+characters in the Range header. A remote attacker could possibly use this
+issue to perform a request smuggling attack. (CVE-2025-69225)
+
+Thomas Rinsma discovered that AIOHTTP incorrectly handled path
+normalization when serving static files. A remote attacker could possibly
+use this issue to obtain sensitive information. (CVE-2025-69226)
+
+Thomas Rinsma discovered that AIOHTTP incorrectly handled certain POST
+request bodies. A remote attacker could possibly use this issue to cause a
+denial of service. (CVE-2025-69227)
+
+Thomas Rinsma discovered that AIOHTTP incorrectly handled large POST
+request payloads. A remote attacker could possibly use this issue to cause
+a denial of service. (CVE-2025-69228)
+
+It was discovered that AIOHTTP incorrectly handled chunked messages. A
+remote attacker could possibly use this issue to cause a denial of service.
+(CVE-2025-69229)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Linux 7.0 MM Changes Bring Some Very Nice Performance Optimizations]]></title>
         <id>https://www.phoronix.com/news/Linux-7.0-MM</id>
         <link href="https://www.phoronix.com/news/Linux-7.0-MM"/>
@@ -3107,38 +3146,6 @@ But can those recipes nourish us, fleshy humans of IRL make, with the same benef
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8035-1: libpng vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8035-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8035-1"/>
-        <updated>2026-02-12T13:37:00.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that the libpng simplified API incorrectly processed
-palette PNG images with partial transparency and gamma correction. If a
-user or automated system were tricked into opening a specially crafted PNG
-file, an attacker could use this issue to cause libpng to crash, resulting
-in a denial of service. (CVE-2025-66293)
-
-Petr Simecek, Stanislav Fort and Pavel Kohout discovered that the libpng
-simplified API incorrectly processed interlaced 16-bit PNGs with 8-bit
-output format and non-minimal row strides. If a user or automated system
-were tricked into opening a specially crafted PNG file, an attacker could
-use this issue to cause libpng to crash, resulting in a denial of service.
-(CVE-2026-22695)
-
-Cosmin Truta discovered that the libpng simplified API incorrectly handled
-invalid row strides. If a user or automated system were tricked into
-opening a specially crafted PNG file, an attacker could use this issue to
-cause libpng to crash, resulting in a denial of service. This issue only
-affected Ubuntu 18.04 LTS and Ubuntu 20.04 LTS. (CVE-2026-22801)
-
-It was discovered that the libpng simplified API incorrectly handled
-quantizing RGB images. If a user or automated system were tricked into
-opening a specially crafted PNG file, an attacker could use this issue to
-cause libpng to crash, resulting in a denial of service. (CVE-2026-25646)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
