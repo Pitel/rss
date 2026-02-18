@@ -1,10 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-18T08:37:52.312Z</id>
+    <id>urn:2026-02-18T10:38:02.249Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-02-18T08:37:52.312Z</updated>
+    <updated>2026-02-18T10:38:02.249Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Star Trek: Voyager - Across the Unknown's survival RPG retelling inspires many emotions, but mostly makes me feel old]]></title>
+        <id>https://www.rockpapershotgun.com/star-trek-voyager-across-the-unknowns-survival-rpg-retelling-inspires-many-emotions-but-mostly-makes-me-feel-old</id>
+        <link href="https://www.rockpapershotgun.com/star-trek-voyager-across-the-unknowns-survival-rpg-retelling-inspires-many-emotions-but-mostly-makes-me-feel-old"/>
+        <updated>2026-02-18T10:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Back when Star Trek: Voyager – Across the Unknown was announced, we knocked it for offering zappy muzak in place of the TV show’s official theme. Gamexcite and Daedalic have added the theme, now, and I sort of wish they hadn’t. “Help!” I screeched to my bedroom walls, as the rousingly sorrowful opening bars wafted from the speakers like nitrous oxide. “A videogame is making me feel something! It is making me feel like 31 years have passed, and I can still remember Neelix getting drunk on water. I still remember the Doctor’s first words. I still remember blowing up the Caretaker Array rather than using it to insta-warp home.” 
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Step into the shoes of NPC man" with this Fallout New Vegas mod that lets you get faction cronies to do your dirty work]]></title>
+        <id>https://www.rockpapershotgun.com/step-into-the-shoes-of-npc-man-with-this-fallout-new-vegas-mod-that-lets-you-get-faction-cronies-to-do-your-dirty-work</id>
+        <link href="https://www.rockpapershotgun.com/step-into-the-shoes-of-npc-man-with-this-fallout-new-vegas-mod-that-lets-you-get-faction-cronies-to-do-your-dirty-work"/>
+        <updated>2026-02-18T10:17:42.000Z</updated>
+        <summary type="html"><![CDATA[Rubbing shoulders with factions is a big part of the Fallout: New Vegas charm, even if it often devolves into you doing a bunch of favours if you don't want to risk ending up on the vilified naughty list for one too many accidental grenade pickpocktings. You do get some nice perks for keeping the likes of the NCR or Legion on side, but a new mod aims to take that to a new level, letting you send faction cronies out on handy odd jobs while you kick your feet up.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8031-2: Linux kernel (GCP FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8031-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8031-2"/>
+        <updated>2026-02-18T10:06:54.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
+allow a local attacker with hypervisor access to overwrite SEV-SNP guest
+memory resulting in loss of data integrity. (CVE-2024-36331)
+
+Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
+and Flavien Solt discovered that some AMD processors may allow an attacker
+to infer data from previous stores, potentially resulting in the leakage of
+privileged information. A local attacker could possibly use this to expose
+sensitive information. (CVE-2024-36350, CVE-2024-36357)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - M…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle chce napravit vztahy s komunitou okolo MySQL, slibuje novou otevřenou éru vývoje]]></title>
+        <id>www.root.cz-actuality-51147</id>
+        <link href="https://www.root.cz/zpravicky/oracle-chce-napravit-vztahy-s-komunitou-okolo-mysql-slibuje-novou-otevrenou-eru-vyvoje/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-02-18T08:53:33.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Oracle je už mnoho let kritizována za nedostatečnou aktivitu ve vývoji MySQL, přičemž v posledních měsících už nejsou do kódu přijímány ani změny od komunity. Otto Kekäläinen nedávno napsal článek Přestaňte už používat MySQL, není to skutečný open source, který jsme vydali na Rootu v češtině.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naučte se používat Linux správně a bezpečně (školení)]]></title>
+        <id>www.root.cz-actuality-40574</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pouzivat-linux-spravne-a-bezpecne-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-02-18T08:51:45.000Z</updated>
+        <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sprigatito & Meowscarada ex and Zorua & Zoroark ex rumor/leak]]></title>
         <id>156679</id>
@@ -915,7 +983,7 @@ Read more]]></summary>
         <updated>2026-02-17T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[The bomb.
 One of the most pleasant surprises of this month’s Partner Direct was the reveal and shadow drop of the Super Bomberman Collection, a compilation of some of the eponymous hero’s earliest games with some extra goodies thrown in. Though it’s ultimately little more than the sum of its parts, Super Bomberman Collection does a great job of presenting these timeless games in their best possible light. If you’re looking for a great game to play with others for some excellent competitive couch multiplayer, read on.
-So, let’s run through what’s included here. The headlining games are Super Bomberman 1-5 for the SNES, the latter three of which never even saw an official release in the US, while the first two NES Bomberman games and some boss rush modes are included on the side as fun extras. Additionally, there’s some cool museum content on display between an art gallery, music player, and original scans of the boxes and instruction manuals. It's a comprehensive and content-rich package; retro collections like these are increasingly more common these days, but you don’t always see developers going the extra mile to include as much as Konami did here.
+So, let’s run through what’s included here. The headlining games are Super Bomberman 1-5 for the SNES, the latter three of which never even saw an official release in the US, while the first two NES Bomberman games and some boss rush modes are included on the side as fun extras. Additionally, there’s some cool museum content on display between an art gallery, music player, and original scans of the boxes and instruction manuals. It's a comprehensive and content-rich package; retro collections like these are increasingly more common these days, but you don’t always see developers going the extra mile to include as much as Red Art Games did here.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1569,41 +1637,6 @@ Va…]]></summary>
         <summary type="html"><![CDATA[Yarden Porat discovered that Pillow incorrectly handled certain malformed
 PSD images. An attacker could use this issue to cause Pillow to crash,
 resulting in a denial of service, or possibly execute arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8029-2: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8029-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8029-2"/>
-        <updated>2026-02-17T12:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - MIPS architecture;
-  - Nios II architecture;
-  - PA-RISC architecture;
-  - RISC-V architecture;
-  - S390 architecture;
-  - Sun Sparc architecture;
-  - x86 architecture;
-  - Xtensa architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Compute Acceleration Framework;
-  - ACPI drivers;
-  - Drivers core;
-  - Network block device driver;
-  - Bluetooth drivers;
-  - Bus devices;
-  - Hardware random number generator core;
-  - Character device driver;
-  - Clock framework and drivers;
-  - Data acquisition framework and drivers;
-  - CPU frequency scaling framework;
-  - Hardware cryp…]]></summary>
         <author>
             <name>Ubuntu security notices</name>
         </author>
@@ -3613,16 +3646,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linuxové jádro zvyšuje o 12 % výkon při zpracování UDP díky vložení časovače]]></title>
-        <id>www.root.cz-actuality-51081</id>
-        <link href="https://www.root.cz/zpravicky/linuxove-jadro-zvysuje-o-12-vykon-pri-zpracovani-udp-diky-vlozeni-casovace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-02-12T10:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Eric Dumazet ze společnosti Google poslal do linuxového jádra úpravu, která výrazné zlepšuje výkon při příjmu síťového provozu transportovaného pomocí protokolu UDP. Základem úpravy je vložení funkce časovače (inline), kterou kompilátory nedokázaly optimalizovat.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pokemon Cards That Deserve to Exist But Don't]]></title>
         <id>156664</id>
         <link href="https://www.pokebeach.com/forums/threads/pokemon-cards-that-deserve-to-exist-but-dont.156664/"/>
@@ -3639,16 +3662,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Solidní, kvalitně natočená kriminálka, ve které se trochu tluče její zasazení do současnosti se scénářem a postavami, které působí jako ze 70 let starého noir filmu. Nejpozději od poloviny stopáže je celkem jasné, jak která z mnoha postav dopadne, a pak se kolem toho hodinu kličkuje a klame tělem, což není tak sofistikované, jak se asi tvůrci domnívali. (Ilča 50 %)]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miliarda uživatelů by měla vyměnit telefon, skoro půlka přístrojů s Androidem nedostává aktualizace]]></title>
-        <id>www.root.cz-actuality-51078</id>
-        <link href="https://www.root.cz/zpravicky/miliarda-uzivatelu-by-mela-vymenit-telefon-skoro-pulka-pristroju-s-androidem-nedostava-aktualizace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-02-12T08:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Google potvrdila, že více než 40 % všech telefonů s operačním systémem Android je ohroženo novými útoky malwaru a spywaru. Tyto telefony totiž nedostávají bezpečnostní aktualizace a nemají proto opravené objevené zranitelnosti. Nepodporovaných telefonů postupně přibývá a stávají se hrozbou pro své uživatele i okolí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -4554,30 +4567,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/embark-smooth-over-arc-raiders-expedition-rough-patches-with-a-cheaper-entry-point-for-its-second-bout"/>
         <updated>2026-02-05T19:56:19.000Z</updated>
         <summary type="html"><![CDATA[Ah, live service games. You put out a new feature, everybody complains about one thing or another, you say something like "we've heard your feedback" and change it the next time around. This, almost word for word, is exactly what's happened with Arc Raiders' and its impending second Expedition, the details of which have been outlined in a handy blog post from developer Embark.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sniper Dan is a delightful-looking, "family-friendly" blend of Sniper Elite and Where's Wally?]]></title>
-        <id>https://www.rockpapershotgun.com/sniper-dan-is-a-delightful-looking-family-friendly-blend-of-sniper-elite-and-wheres-wally</id>
-        <link href="https://www.rockpapershotgun.com/sniper-dan-is-a-delightful-looking-family-friendly-blend-of-sniper-elite-and-wheres-wally"/>
-        <updated>2026-02-05T17:56:48.000Z</updated>
-        <summary type="html"><![CDATA[I've never gelled well with the Sniper Elite series, as much as I do love a bit of goresploitation in my horror, it just has that kind of Mortal Kombat, slightly too realistic violence vibe about it that pushes it out of my comfort zone. But, I would still like to snipe! Sniping is always satisfying, that strange disconnect between your action and the reaction from a great distance away. So, Sniper Dan, a "family-friendly" hidden object game where you use a sniper to solve the problems of various townspeople, sounds like just what I'm after.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizon Hunters Gathering is a co-op action take on the robo dino series that borrows from Fortnite, Hades and Monster Hunter]]></title>
-        <id>https://www.rockpapershotgun.com/horizon-hunters-gathering-is-a-co-op-action-take-on-the-robo-dino-series-that-borrows-from-fortnite-hades-and-monster-hunter</id>
-        <link href="https://www.rockpapershotgun.com/horizon-hunters-gathering-is-a-co-op-action-take-on-the-robo-dino-series-that-borrows-from-fortnite-hades-and-monster-hunter"/>
-        <updated>2026-02-05T17:05:45.000Z</updated>
-        <summary type="html"><![CDATA[It took them long enough, but Sony and Guerilla have finally announced that other online Horizon game (the one that isn't an MMO), and it's called Horizon Hunters Gathering. On the offset it sort of looks like a Monster Hunter clone gameplay wise, especially being a co-op action game, though there are some definite differences between the two.
  
 Read more]]></summary>
         <author>
