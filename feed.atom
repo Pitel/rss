@@ -1,17 +1,157 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-19T08:36:38.167Z</id>
+    <id>urn:2026-02-19T10:36:58.338Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-02-19T08:36:38.167Z</updated>
+    <updated>2026-02-19T10:36:58.338Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Elder Scrolls 6 runs on a new version of the Creation Engine, his Howardliness confirms]]></title>
+        <id>https://www.rockpapershotgun.com/the-elder-scrolls-6-runs-on-a-new-version-of-the-creation-engine-his-howardliness-confirms</id>
+        <link href="https://www.rockpapershotgun.com/the-elder-scrolls-6-runs-on-a-new-version-of-the-creation-engine-his-howardliness-confirms"/>
+        <updated>2026-02-19T10:33:52.000Z</updated>
+        <summary type="html"><![CDATA["I mean, look, I think everybody knows why we announced it that way then." Stay calm, I've got to get my dinner first. "We know some things we're doing." Please stop trying to jump on the bench. "It's going to be a while yet." Some of these are things I often have to say to my cat when the clock ticks to within an hour of feeding time. Some of them are things Todd Howard has said about The Elder Scrolls 6 in his latest bout of interview chatter about the RPG. He's confirmed it's running on a new version of the Creation Engine, but will also be a return to Bethesda's "classic style".
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Perfect Order” Product Lineup Revealed!]]></title>
+        <id>156609</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cperfect-order%E2%80%9D-product-lineup-revealed.156609/"/>
+        <updated>2026-02-19T10:25:47.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beedrill ex from “Ninja Spinner” Revealed!]]></title>
         <id>156682</id>
         <link href="https://www.pokebeach.com/forums/threads/beedrill-ex-from-%E2%80%9Cninja-spinner%E2%80%9D-revealed.156682/"/>
-        <updated>2026-02-19T08:30:37.000Z</updated>
+        <updated>2026-02-19T10:13:27.000Z</updated>
         <author>
             <name>koala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8033-7: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8033-7</id>
+        <link href="https://ubuntu.com/security/notices/USN-8033-7"/>
+        <updated>2026-02-19T10:10:15.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Nios II architecture;
+  - Sun Sparc architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - Drivers core;
+  - Bus devices;
+  - Hardware random number generator core;
+  - Data acquisition framework and drivers;
+  - CPU frequency scaling framework;
+  - DMA engine subsystem;
+  - GPU drivers;
+  - HW tracing;
+  - Input Device (Miscellaneous) drivers;
+  - Multiple devices driver;
+  - Media drivers;
+  - MOST (Media Oriented Systems Transport) drivers;
+  - MTD block device drivers;
+  - Network drivers;
+  - NVME drivers;
+  - PCI subsystem;
+  - Performance mo…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8052-1: Linux kernel (Low Latency) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8052-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8052-1"/>
+        <updated>2026-02-19T09:51:06.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
+allow a local attacker with hypervisor access to overwrite SEV-SNP guest
+memory resulting in loss of data integrity. (CVE-2024-36331)
+
+Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
+and Flavien Solt discovered that some AMD processors may allow an attacker
+to infer data from previous stores, potentially resulting in the leakage of
+privileged information. A local attacker could possibly use this to expose
+sensitive information. (CVE-2024-36350, CVE-2024-36357)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - M…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8031-3: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8031-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-8031-3"/>
+        <updated>2026-02-19T09:26:23.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
+allow a local attacker with hypervisor access to overwrite SEV-SNP guest
+memory resulting in loss of data integrity. (CVE-2024-36331)
+
+Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
+and Flavien Solt discovered that some AMD processors may allow an attacker
+to infer data from previous stores, potentially resulting in the leakage of
+privileged information. A local attacker could possibly use this to expose
+sensitive information. (CVE-2024-36350, CVE-2024-36357)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - M…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8028-6: Linux kernel (HWE) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8028-6</id>
+        <link href="https://ubuntu.com/security/notices/USN-8028-6"/>
+        <updated>2026-02-19T09:01:52.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
+allow a local attacker with hypervisor access to overwrite SEV-SNP guest
+memory resulting in loss of data integrity. (CVE-2024-36331)
+
+Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
+and Flavien Solt discovered that some AMD processors may allow an attacker
+to infer data from previous stores, potentially resulting in the leakage of
+privileged information. A local attacker could possibly use this to expose
+sensitive information. (CVE-2024-36350, CVE-2024-36357)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - M…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let's Encrypt nasadí trvalé validační DNS záznamy do poloviny letošního roku]]></title>
+        <id>www.root.cz-actuality-51168</id>
+        <link href="https://www.root.cz/zpravicky/let-s-encrypt-nasadi-trvale-validacni-dns-zaznamy-do-poloviny-letosniho-roku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-02-19T08:52:20.000Z</updated>
+        <summary type="html"><![CDATA[Na konci loňského roku certifikační autorita Let's Encrypt prozradila, že pracuje na novém zjednodušeném procesu validace pomocí DNS, pro který bude stačit vytvořit trvalý záznam nevyžadující periodickou změnu. Dokud bude záznam existovat, bude autorita pro svázaný uživatelský účet ochotna vystavovat certifikáty obsahující příslušné doménové jméno.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
@@ -31,15 +171,6 @@
         <updated>2026-02-19T08:11:29.000Z</updated>
         <author>
             <name>PMJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Perfect Order” Product Lineup Revealed!]]></title>
-        <id>156609</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cperfect-order%E2%80%9D-product-lineup-revealed.156609/"/>
-        <updated>2026-02-19T07:26:56.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -2413,101 +2544,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8028-5: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8028-5</id>
-        <link href="https://ubuntu.com/security/notices/USN-8028-5"/>
-        <updated>2026-02-17T15:38:25.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that improper initialization of CPU cache memory could
-allow a local attacker with hypervisor access to overwrite SEV-SNP guest
-memory resulting in loss of data integrity. (CVE-2024-36331)
-
-Oleksii Oleksenko, Cedric Fournet, Jana Hofmann, Boris Köpf, Stavros Volos,
-and Flavien Solt discovered that some AMD processors may allow an attacker
-to infer data from previous stores, potentially resulting in the leakage of
-privileged information. A local attacker could possibly use this to expose
-sensitive information. (CVE-2024-36350, CVE-2024-36357)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM32 architecture;
-  - ARM64 architecture;
-  - M…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8048-1: Linux kernel (OEM) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8048-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8048-1"/>
-        <updated>2026-02-17T15:24:04.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - MIPS architecture;
-  - Nios II architecture;
-  - PA-RISC architecture;
-  - RISC-V architecture;
-  - S390 architecture;
-  - Sun Sparc architecture;
-  - x86 architecture;
-  - Xtensa architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Compute Acceleration Framework;
-  - ACPI drivers;
-  - Drivers core;
-  - Network block device driver;
-  - Bluetooth drivers;
-  - Bus devices;
-  - Hardware random number generator core;
-  - Character device driver;
-  - Clock framework and drivers;
-  - Data acquisition framework and drivers;
-  - CPU frequency scaling framework;
-  - Hardware cryp…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8034-2: Linux kernel (NVIDIA Tegra IGX) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8034-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8034-2"/>
-        <updated>2026-02-17T15:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Nios II architecture;
-  - Sun Sparc architecture;
-  - User-Mode Linux (UML);
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Drivers core;
-  - Bus devices;
-  - Hardware random number generator core;
-  - Data acquisition framework and drivers;
-  - CPU frequency scaling framework;
-  - DMA engine subsystem;
-  - GPU drivers;
-  - HW tracing;
-  - Input Device (Miscellaneous) drivers;
-  - Multiple devices driver;
-  - Media drivers;
-  - MOST (Media Oriented Systems Transport) drivers;
-  - MTD block device drivers;
-  - Network drivers;
-  - NVME drivers;
-  - PCI subsystem;
-  - Performance mo…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel Xeon 6 Granite Rapids Memory Scaling Performance From 6 To 12 MRDIMMs]]></title>
         <id>https://www.phoronix.com/review/intel-xeon-mrdimm-scaling</id>
         <link href="https://www.phoronix.com/review/intel-xeon-mrdimm-scaling"/>
@@ -2515,41 +2551,6 @@ This update corrects flaws in the following subsystems:
         <summary type="html"><![CDATA[With memory pricing being as wild as it is these days and with MRDIMMs on Xeon 6 Granite Rapids offering much more memory bandwidth than conventional DDR5 RDIMMs, you may be wondering about the performance impact when not populating all twelve memory channels on the Xeon 6900 series processors. In this article are benchmarks to demonstrate the performance difference of MRDIMM-8800 memory across using six, eight, ten, and twelve MRDIMMs with a Xeon 6980P server.]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8033-5: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8033-5</id>
-        <link href="https://ubuntu.com/security/notices/USN-8033-5"/>
-        <updated>2026-02-17T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Nios II architecture;
-  - Sun Sparc architecture;
-  - User-Mode Linux (UML);
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Drivers core;
-  - Bus devices;
-  - Hardware random number generator core;
-  - Data acquisition framework and drivers;
-  - CPU frequency scaling framework;
-  - DMA engine subsystem;
-  - GPU drivers;
-  - HW tracing;
-  - Input Device (Miscellaneous) drivers;
-  - Multiple devices driver;
-  - Media drivers;
-  - MOST (Media Oriented Systems Transport) drivers;
-  - MTD block device drivers;
-  - Network drivers;
-  - NVME drivers;
-  - PCI subsystem;
-  - Performance mo…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3359,16 +3360,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falešná stránka 7Zip šířila škodlivý kód pro Windows]]></title>
-        <id>www.root.cz-actuality-51099</id>
-        <link href="https://www.root.cz/zpravicky/falesna-stranka-7zip-sirila-skodlivy-kod-pro-windows/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-02-13T09:32:51.000Z</updated>
-        <summary type="html"><![CDATA[Oblíbený kompresní program 7-Zip má oficiální stránku 7-zip.org. Někdo si však zaregistroval doménu 7zip[.]com, jejíž obsah odpovídal oficiální stránce s jediným rozdílem. Instalační soubory pro Windows obsahovaly kromě 7-Zipu i škodlivý kód.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4422,18 +4413,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mewgenics review - a roguelite where sacrificial arse maggots and frightful defecation are the keys to success]]></title>
-        <id>https://www.rockpapershotgun.com/mewgenics-review-a-roguelite-where-sacrificial-arse-maggots-and-frightful-defecation-are-the-keys-to-success</id>
-        <link href="https://www.rockpapershotgun.com/mewgenics-review-a-roguelite-where-sacrificial-arse-maggots-and-frightful-defecation-are-the-keys-to-success"/>
-        <updated>2026-02-06T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I can't get Fish Sticks out of my head. Not the food, but the stray cat with a squished face and stubby legs that I wrangled into my shack in Edmund McMillen and Tyler Glaiel’s new roguelite strategy game, Mewgenics. The shop, the pub, the dentist; no matter where I go, I see his beady peepers deep in my subconscious. It’s the loss.
-I sent Fish Sticks to the pits of hell to face the armies of Satan. Even though he had a nasty case of gastritis. Even though he slurped green goo that made his eyeballs bulge from his face. And he would’ve made it home, too, if it weren’t for a particularly pissed-off frog. The amphibian dragged him kicking and screaming into the path of the vacuuming jaws of a floating demon. The bastard gobbled him up. Him and his ability to pluck maggots from his allies' rectums and swallow their souls. As he vanished into the demon's belly, so too did my chances of passing his rectal soul-sucking powers to a new generation of adventuring cats.
-Read more]]></summary>
-        <author>
-            <name>Callum Williams</name>
         </author>
     </entry>
     <entry>
