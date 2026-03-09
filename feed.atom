@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-09T04:11:28.251Z</id>
+    <id>urn:2026-03-09T06:54:43.598Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-03-09T04:11:28.251Z</updated>
+    <updated>2026-03-09T06:54:43.598Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Softwarové licence a možnosti přelicencování zdrojových kódů v éře AI]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/softwarove-licence-a-moznosti-prelicencovani-zdrojovych-kodu-v-ere-ai</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/softwarove-licence-a-moznosti-prelicencovani-zdrojovych-kodu-v-ere-ai"/>
+        <updated>2026-03-09T04:12:12.000Z</updated>
+        <summary type="html"><![CDATA[Dan Blanchard vydal knihovnu pro Python chardet v nové verzi 7.0.0. S novou verzí byla knihovna přelicencována z LGPL na MIT. Souhlasili s tím všichni přispěvatelé? Dan Blanchard souhlasy vůbec neřešil. Zaúkoloval umělou inteligenci (Claude), aby knihovnu zcela přepsala a výslovně jí nařídil, aby nepoužila žádný LGPL kód. Dan Blanchard tvrdí, že se jedná o clean room design. Protistrana argumentuje, že umělá inteligence byla trénována na původním kódu. Do diskuse k fungování AI se zapojil i Bruce Perens: "ano, je to kopírování, ale není to ten druh kopírování, který bude soud stíhat jako porušení autorských práv". Kdyby se právníci a případný soud usnesli, že toto přelicencování je v pořádku, šlo by takto přelicencovat CDDL (ZFS) a další i různé proprietární licence na GPL nebo LGPL? Řešily by se vůbec licence? Sporu a budoucnosti softwarových licencí se věnuje i článek na The Register.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust Coreutils 0.7 Released With Many Performance Optimizations]]></title>
         <id>https://www.phoronix.com/news/Rust-Coreutils-uutils-0.7</id>
@@ -3009,16 +3019,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Kvantové počítače potenciálně ohrožují nejen komunikaci, ale také bezpečnost certifikátů potvrzujících identitu komunikujících stran. Prosté nasazení nových algoritmů by ale znamenalo výrazně delší klíče a podpisy.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code a VSCodium 1.110]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/visual-studio-code-a-vscodium-1.110</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/visual-studio-code-a-vscodium-1.110"/>
-        <updated>2026-03-04T21:57:37.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána únorová aktualizace aneb nová verze 1.110 editoru zdrojových kódů Visual Studio Code (Wikipedie). Přehled novinek i s náhledy a videi v poznámkách k vydání. Ve verzi 1.110 vyjde také VSCodium, tj. komunitní sestavení Visual Studia Code bez telemetrie a licenčních podmínek Microsoftu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
