@@ -1,16 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T06:57:10.415Z</id>
+    <id>urn:2026-03-24T08:43:39.753Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-03-24T06:57:10.415Z</updated>
+    <updated>2026-03-24T08:43:39.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-8098-4: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8098-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-8098-4"/>
+        <updated>2026-03-24T08:34:19.000Z</updated>
+        <summary type="html"><![CDATA[Qualys discovered that several vulnerabilities existed in the AppArmor
+Linux kernel Security Module (LSM). An unprivileged local attacker could
+use these issues to load, replace, and remove arbitrary AppArmor profiles
+causing denial of service, exposure of sensitive information (kernel
+memory), local privilege escalation, or possibly escape a container.
+(LP: #2143853)
+ 
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - GPIO subsystem;
+  - GPU drivers;
+  - MMC subsystem;
+  - BTRFS file system;
+  - XFRM subsystem;
+  - IPv4 networking;
+  - IPv6 networking;
+  - MAC80211 subsystem;
+  - SMC sockets;
+(CVE-2021-47599, CVE-2022-48875, CVE-2022-49072, CVE-2022-49267,
+CVE-2024-49927, CVE-2024-56640, CVE-2025-21780, CVE-2025-40215)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Webinář: oprávnění v Zabbixu: role, skupiny a best practices]]></title>
+        <id>www.root.cz-actuality-51531</id>
+        <link href="https://www.root.cz/zpravicky/webinar-opravneni-v-zabbixu-role-skupiny-a-best-practices/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-03-24T07:54:02.000Z</updated>
+        <summary type="html"><![CDATA[Společnost initMAX pořádá bezplatný webinář s názvem Oprávnění v Zabbixu: role, skupiny a best practices. Uvidíte novinky v oblasti oprávnění pro Proxy skupiny a změny v uživatelských médiích. Projdeme si také standardní model oprávnění a vysvětlíme, jak funguje řízení přístupu přes externího providera. Zaměříme se na oprávnění pro hosty, šablony a uživatelské skupiny a na praktické využití User Roles. Ukážeme si, jak vytvořit „Super Admina“ s oprávněními pouze pro čtení, jak správně založit uživatele pro API (například pro Grafanu) a přidáme i další tipy z praxe.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Tomáš Heřmánek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Audio recenze: Nevděčné bytosti - 50 %]]></title>
+        <id>tag:blogger.com,1999:blog-2270872860161924291.post-8860579808565359936</id>
+        <link href="https://www.fffilm.cz/2026/03/audio-recenze-nevdecne-bytosti-50.html"/>
+        <updated>2026-03-24T07:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Zajímavý, stylově konzistentní počin s unikátní atmosférou předchozích Omerzuových filmů, ale se dvěma výtkami: 1) Herecké výkony nejsou tak univerzálně kvalitní jako dřív. 2) Podstatná část filmu (cca poslední třetina) je skoro hardcore psychologický thriller, ke kterému "absurdní nedějovost a nelogičnost zápletky" moc nesedí. (Ilča 40 %)]]></summary>
+        <author>
+            <name>noreply@blogger.com (Unknown)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vývoj, či spíše údržba GTK3 zpomaluje, už jen jedno vydání ročně]]></title>
         <id>www.root.cz-actuality-51540</id>
         <link href="https://www.root.cz/zpravicky/vyvoj-ci-spise-udrzba-gtk3-zpomaluje-uz-jen-jedno-vydani-rocne/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2026-03-24T06:14:50.000Z</updated>
-        <summary type="html"><![CDATA[Toolkit GTK3, který pohání mimo jiné GNOME řady 3.xx a který je dodnes srdcem řady aplikací (třeba GIMP), už nebude dostávat více než jednu aktualizaci ročně. Ta se bude o to více soustředit hlavně na opravy významných chyba pádů. Jde o logický krok vývojářů, kteří od vydání první verze GTK4 stále více a více hledí vpřed a méně vzad.]]></summary>
+        <summary type="html"><![CDATA[Toolkit GTK3, který pohání mimo jiné GNOME řady 3.xx a který je dodnes srdcem řady aplikací (třeba GIMP), už nebude dostávat více než jednu aktualizaci ročně. Ta se bude o to více soustředit hlavně na opravy významných chyb a pádů. Jde o logický krok vývojářů, kteří od vydání první verze GTK4 stále více a více hledí vpřed a méně vzad.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
@@ -1090,24 +1141,6 @@ issue only affected Ubuntu 24.04 LTS and Ubuntu 25.10. (CVE-2026-27459)]]></summ
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8114-1: GVfs vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8114-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8114-1"/>
-        <updated>2026-03-23T12:53:19.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that the GVfs FTP backend incorrectly handled IP
-addresses and ports returned by passive mode responses. A malicious remote
-server could possibly use this issue to help scan for open ports.
-(CVE-2026-28295)
-
-It was discovered that the GVfs FTP backend incorrectly handled crafted
-file paths. A remote attacker could use this issue to terminate or inject
-arbitrary FTP commands, or possibly execute arbitrary code.
-(CVE-2026-28296)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3567,16 +3600,6 @@ Je na tom něco divného? Možná to, že nápis "GULAG" není v azbuce, ale v l
 Ovšem docela se vyznám ve filmech s plyšovými žabáky, takže jsem viděl (shodou okolností v letadle do Japonska) hraný film z roku 2014 A zase ti Mupeti (Muppets Most Wanted), ve kterém se v čase 28:37 objeví tento zábě…]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[InstallFest má program, proběhne o víkendu 28. a 29. března]]></title>
-        <id>www.root.cz-actuality-51474</id>
-        <link href="https://www.root.cz/zpravicky/installfest-ma-program-probehne-o-vikendu-28-a-29-brezna/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-03-18T07:59:06.000Z</updated>
-        <summary type="html"><![CDATA[Organizátoři tradiční konference InstallFest zveřejnili podrobný program, ve kterém najdete desítky přednášek a pět prakticky zaměřených workshopů. Těšit se můžete na mobilní telefony se svobodnými operačními systémy, linuxové distribuce, otevřený hardware, vývoj, počítačové sítě a další témata.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
     </entry>
     <entry>
