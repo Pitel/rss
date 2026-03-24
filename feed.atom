@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-24T01:28:42.639Z</id>
+    <id>urn:2026-03-24T04:12:52.481Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-03-24T01:28:42.639Z</updated>
+    <updated>2026-03-24T04:12:52.481Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DietPi 10.2]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/dietpi-10.2</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/dietpi-10.2"/>
+        <updated>2026-03-24T03:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 10.2 z Debianu vycházející linuxové distribuce DietPi pro (nejenom) jednodeskové počítače. Přehled novinek v poznámkách k vydání. Vypíchnout lze nové balíčky Immich, Immich Machine Learning, uv a RustDesk Client.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Gem Pack Vol 5” to Release in China Featuring New “Pokemon Horizons” Cards!]]></title>
         <id>156735</id>
@@ -226,6 +236,30 @@ The post How to summon your companions in Crimson Desert appeared first on Destr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-8119-2: systemd vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8119-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8119-2"/>
+        <updated>2026-03-23T20:47:54.000Z</updated>
+        <summary type="html"><![CDATA[USN-8119-1 fixed vulnerabilities in systemd. This update provides the
+corresponding updates for Ubuntu 14.04 LTS, Ubuntu 16.04 LTS, Ubuntu 18.04
+LTS, and Ubuntu 20.04 LTS.
+
+Original advisory details:
+
+It was discovered that systemd incorrectly handled certain cgroup paths. A
+local attacker could possibly use this issue to cause systemd to crash,
+resulting in a denial of service. This issue only affected Ubuntu 20.04
+LTS. (CVE-2026-29111)
+
+It was discovered that the systemd udev component incorrectly handled
+certain fields received from the kernel. An attacker with a malicious
+device could possibly use this issue to execute arbitrary code as an
+administrator (root).]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Latest Chappell Roan Controversy Is Nonsense, But At Least The Memes Are Funny]]></title>
         <id>https://kotaku.com/?p=2000681176</id>
         <link href="https://kotaku.com/chappell-roan-controversy-security-kid-jorginho-frello-2000681176"/>
@@ -243,6 +277,23 @@ The post How to summon your companions in Crimson Desert appeared first on Destr
         <summary type="html"><![CDATA[Gorgeous vistas aren't enough when the rest of game is such a boring, annoying slog]]></summary>
         <author>
             <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8119-1: systemd vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8119-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8119-1"/>
+        <updated>2026-03-23T20:16:04.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that systemd incorrectly handled certain cgroup paths.
+A local attacker could possibly use this issue to cause systemd to crash,
+resulting in a denial of service. (CVE-2026-29111)
+
+It was discovered that the systemd udev component incorrectly handled
+certain fields received from the kernel. An attacker with a malicious
+device could possibly use this issue to execute arbitrary code as an
+administrator (root).]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1205,23 +1256,6 @@ It's part of an ambition "to model a civilization made up of interconnected syst
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8113-1: LibTIFF vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8113-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8113-1"/>
-        <updated>2026-03-23T10:53:59.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that LibTIFF did not properly handle memory when
-processing certain images. An attacker could possibly use this issue to
-cause LibTIFF to crash, resulting in a denial of service. (CVE-2025-61143)
-
-It was discovered that LibTIFF did not properly handle memory when
-processing malformed TIFF directories. An attacker could possibly use this
-issue to cause LibTIFF to crash, resulting in a denial of service.
-(CVE-2025-61144)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2427,16 +2461,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cambalache 1.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/cambalache-1.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/cambalache-1.0"/>
-        <updated>2026-03-21T03:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Cambalache, tj. RAD (rapid application development) nástroj pro GTK 4 a GTK 3, dospěl po pěti letech vývoje do verze 1.0. Instalovat jej lze i z Flathubu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cambalache 1.0 Released After Five Years For Designing Modern GTK UIs]]></title>
         <id>https://www.phoronix.com/news/Cambalache-1.0-GTK-UIs</id>
         <link href="https://www.phoronix.com/news/Cambalache-1.0-GTK-UIs"/>
@@ -2622,37 +2646,6 @@ The Japanese outlet reports that this move is specifically targeted at the Europ
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8107-1: Linux kernel (AWS FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8107-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8107-1"/>
-        <updated>2026-03-20T15:00:59.000Z</updated>
-        <summary type="html"><![CDATA[Qualys discovered that several vulnerabilities existed in the AppArmor
-Linux kernel Security Module (LSM). An unprivileged local attacker could
-use these issues to load, replace, and remove arbitrary AppArmor profiles
-causing denial of service, exposure of sensitive information (kernel
-memory), local privilege escalation, or possibly escape a container.
-(LP: #2143853)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - GPIO subsystem;
-  - GPU drivers;
-  - MMC subsystem;
-  - BTRFS file system;
-  - XFRM subsystem;
-  - IPv4 networking;
-  - IPv6 networking;
-  - MAC80211 subsystem;
-  - SMC sockets;
-(CVE-2021-47599, CVE-2022-48875, CVE-2022-49072, CVE-2022-49267,
-CVE-2024-49927, CVE-2024-56640, CVE-2025-21780, CVE-2025-40215)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
