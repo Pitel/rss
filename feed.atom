@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-29T10:26:52.787Z</id>
+    <id>urn:2026-03-29T12:41:21.588Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-03-29T10:26:52.787Z</updated>
+    <updated>2026-03-29T12:41:21.588Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Feature: No Love For Simisage? - The 47 Pokémon That Didn't Get A Single Vote In Our Polls]]></title>
+        <id>https://www.nintendolife.com/#article-198839</id>
+        <link href="https://www.nintendolife.com/features/no-love-for-simisage-the-47-pokemon-that-didnt-get-a-single-vote-in-our-polls"/>
+        <updated>2026-03-29T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Won't you play with my Chingling?
+Back in February, we ran a series of polls to determine your very favourite Pokémon after 30 years of the franchise.
+With 1025 known Pokémon at the time (this was before the reveal of the Gen 10 starters, and we've asked for your thoughts on those already), it was no mean feat to catch 'em all, so we divided it into Generational polls before a final showdown between the nine winners.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Many EXT4 Fixes Lined Up For Linux 7.0-rc6]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.0-rc6-EXT4-Fixes</id>
+        <link href="https://www.phoronix.com/news/Linux-7.0-rc6-EXT4-Fixes"/>
+        <updated>2026-03-29T11:30:05.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the Linux 7.0-rc6 kernel due to be released later today, quite a number of EXT4 file-system fixes were sent out this morning...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prohledávadlo JSON souborů Jsongrep]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/prohledavadlo-json-souboru-jsongrep</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/prohledavadlo-json-souboru-jsongrep"/>
+        <updated>2026-03-29T10:55:26.000Z</updated>
+        <summary type="html"><![CDATA[Jsongrep je open-source nástroj, který efektivně prohledává JSON dokumenty (editovat je neumí). Kompiluje regulérní jazyk dotazu do podoby deterministického konečného automatu (DFA), díky čemuž prochází strom JSON dokumentu pouze jednou a je v tom tedy rychlejší než jiné nástroje jako jsou například jq, JMESPath nebo jql. Jsongrep je napsaný v programovacím jazyce Rust, zdrojový kód je dostupný na GitHubu.]]></summary>
+        <author>
+            <name>NUKE GAZA! &amp;#x1F386;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDXDNA Driver Introducing Per-Process Memory Usage Queries In Linux 7.1]]></title>
+        <id>https://www.phoronix.com/news/AMDXDNA-Per-Process-BO-Query</id>
+        <link href="https://www.phoronix.com/news/AMDXDNA-Per-Process-BO-Query"/>
+        <updated>2026-03-29T10:51:04.000Z</updated>
+        <summary type="html"><![CDATA[Sent out this week was another drm-misc-next pull heading to DRM-Next ahead of next month's Linux 7.1 merge window. Notable with this week's Direct Rendering Manager code changes was introducing per-process buffer object "BO" memory usage query support for user-space...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx 1.29.7 Delivers Multipath TCP Support]]></title>
+        <id>https://www.phoronix.com/news/Nginx-1.29.7-Multipath-TCP</id>
+        <link href="https://www.phoronix.com/news/Nginx-1.29.7-Multipath-TCP"/>
+        <updated>2026-03-29T10:37:04.000Z</updated>
+        <summary type="html"><![CDATA[Released this week was Nginx 1.29.7 as the newest mainline version of this HTTP(S) web server. Releasing alongside Nginx 1.28.3 stable, it fixed buffer overflow vulnerabilities and some other vulnerabilities. Making Nginx 1.29.7 more exciting though is that it landed Multipath TCP support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RadeonSI Driver Lands Fixes For EDuke32 For Those Wanting To Enjoy Duke Nukem 3D In 2026]]></title>
+        <id>https://www.phoronix.com/news/RadeonSI-EDuke32-Fixes</id>
+        <link href="https://www.phoronix.com/news/RadeonSI-EDuke32-Fixes"/>
+        <updated>2026-03-29T10:27:05.000Z</updated>
+        <summary type="html"><![CDATA[It's fairly rare for the RadeonSI Gallium3D driver to hit OpenGL rendering game bugs these days as besides more games going opting for Vulkan API use, RadeonSI is rather robust and very mature at this stage. Recently though a Linux gamer that upgraded to a Radeon RX 9070 XT RDNA4 graphics card noticed that the open-source EDuke32 Duke Nukem 3D build and its derivatives were failing to render properly with the RadeonSI driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Poll: Box Art Brawl: Duel - Capcom Vs SNK 2 EO (GameCube)]]></title>
         <id>https://www.nintendolife.com/#article-199175</id>
@@ -179,7 +242,7 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fans Are Calling Barbie Dream Fest ‘Barbie Nightmare Fest,’ And It’s Not Hard To See Why]]></title>
+        <title type="html"><![CDATA[Fans Who Paid Up To $450 For Barbie Dream Fest Are Calling It A ‘Barbie Nightmare Fest’]]></title>
         <id>https://kotaku.com/?p=2000682905</id>
         <link href="https://kotaku.com/barbie-dream-fest-convention-nightmare-2000682905"/>
         <updated>2026-03-29T01:43:46.000Z</updated>
@@ -2070,19 +2133,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[There's No Sign Of Silent Hill F On Switch 2, So This Fatal Frame DLC Will Do]]></title>
-        <id>https://www.nintendolife.com/#article-199182</id>
-        <link href="https://www.nintendolife.com/news/2026/03/theres-no-sign-of-silent-hill-f-on-switch-2-so-this-fatal-frame-dlc-will-do"/>
-        <updated>2026-03-27T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[You're a poet, you don't know it.
-If there's one series we'd love to see make an appearance on the Switch 2, then it's Silent Hill. Both Silent Hill 2 and Silent Hill f have been very well received on other platforms, and with Resident Evil Requiem and Fatal Frame II demonstrating that horror games have a place on Nintendo's new console, then we've got our fingers crossed for some more spooky thrills in the future.
-Alas, there's no sign of any Silent Hill project for the Switch 2 just yet, so for the time being, we'll have to make do with some free DLC released for Fatal Frame II. Available now, the DLC adds in Silent Hill f-inspired 'Navy Sailor School Uniform and Fox Mask' cosmetics.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[One of our favourite Steam Deck cases is 15% off in the Amazon Spring Sale]]></title>
         <id>https://www.rockpapershotgun.com/one-of-our-favourite-steam-deck-cases-is-15-off-in-the-amazon-spring-sale</id>
         <link href="https://www.rockpapershotgun.com/one-of-our-favourite-steam-deck-cases-is-15-off-in-the-amazon-spring-sale"/>
@@ -2645,16 +2695,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Porota v USA shledala Google a Metu odpovědnými v případu závislosti na sítích]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/porota-v-usa-shledala-google-a-metu-odpovednymi-v-pripadu-zavislosti-na-sitich</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/porota-v-usa-shledala-google-a-metu-odpovednymi-v-pripadu-zavislosti-na-sitich"/>
-        <updated>2026-03-26T10:28:49.000Z</updated>
-        <summary type="html"><![CDATA[Porota v Los Angeles shledala firmy Google a Meta odpovědnými v přelomovém soudním sporu, který se týká závislosti na sociálních sítích; firmy musí zaplatit odškodné tři miliony dolarů (63,4 milionu Kč). Společnosti, které s verdiktem nesouhlasí, čelily obvinění, že své sociální sítě a platformy záměrně navrhly tak, aby si na nich děti vypěstovaly závislost. Porota došla k závěru, že technologické společnosti při navrhování a provozování svých platforem jednaly nedbale a že jejich nedbalost byla podstatným faktorem, který způsobil žalující straně škodu. „S verdiktem uctivě nesouhlasíme a vyhodnocujeme naše právní možnosti,“ uvedl mluvčí Mety. Mluvčí Googlu prohlásil, že společnost plánuje odvolání.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NXP Neutron NPU Kernel Driver Blocked For Now By A Closed-Source User-Space Blob]]></title>
         <id>https://www.phoronix.com/news/NXP-Neutron-NPU-User-Blob</id>
         <link href="https://www.phoronix.com/news/NXP-Neutron-NPU-User-Blob"/>
@@ -2996,16 +3036,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KDE Plasma 6.6 Delivers An Impressive Edge For Radeon Graphics Over GNOME 50 On Ubuntu 26.04]]></title>
-        <id>https://www.phoronix.com/review/ubuntu-2604-gnome-kde</id>
-        <link href="https://www.phoronix.com/review/ubuntu-2604-gnome-kde"/>
-        <updated>2026-03-25T15:05:17.000Z</updated>
-        <summary type="html"><![CDATA[In testing thus far on Ubuntu 26.04, the KDE Plasma 6.6 desktop with the Wayland session is working pretty darn well and delivering a performance edge across many games/graphics workloads compared to the default GNOME 50 desktop. At least as far as AMD Radeon graphics are concerned, Plasma 6.6 is in quite impressive shape for the upcoming Ubuntu 26.04 LTS release.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My go-to PC game controller is getting Spring sale price cuts - and so is its cheaper wired version]]></title>
         <id>https://www.rockpapershotgun.com/my-go-to-pc-game-controller-is-getting-spring-sale-price-cuts-and-so-is-its-cheaper-wired-version</id>
         <link href="https://www.rockpapershotgun.com/my-go-to-pc-game-controller-is-getting-spring-sale-price-cuts-and-so-is-its-cheaper-wired-version"/>
@@ -3015,16 +3045,6 @@ The Wolverine V3 Pro itself, however, feels very right indeed. It's a solid and 
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Announces Arc Pro B70 With 32GB GDDR6 Video Memory]]></title>
-        <id>https://www.phoronix.com/news/Intel-Arc-Pro-B70-Announced</id>
-        <link href="https://www.phoronix.com/news/Intel-Arc-Pro-B70-Announced"/>
-        <updated>2026-03-25T14:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Alongside announcing the new Intel Core Ultra Series 3 Panther Lake parts with vPro for commercial PCs and the Xeon 600 workstation processors, Intel finally announced their professional "big Battlemage" BMG-G31 graphics card with the Arc Pro B70 as well as the Arc Pro B65...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3067,16 +3087,6 @@ This update corrects flaws in the following subsystems:
 CVE-2024-56640, CVE-2025-21780, CVE-2025-40215)]]></summary>
         <author>
             <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeCAD 1.1 Brings Many Improvements For Open-Source CAD]]></title>
-        <id>https://www.phoronix.com/news/FreeCAD-1.1-Released</id>
-        <link href="https://www.phoronix.com/news/FreeCAD-1.1-Released"/>
-        <updated>2026-03-25T13:33:00.000Z</updated>
-        <summary type="html"><![CDATA[FreeCAD 1.1 is out today as the newest feature release for this leading open-source CAD application...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3184,16 +3194,6 @@ Wolpaw's current feeling is that generative AI isn't very good at anything "crea
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lemonade 10.0.1 Improves Setup Process For Using AMD Ryzen AI NPUs On Linux]]></title>
-        <id>https://www.phoronix.com/news/Lemonade-10.0.1</id>
-        <link href="https://www.phoronix.com/news/Lemonade-10.0.1"/>
-        <updated>2026-03-25T10:56:04.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this month with the release of the Lemonade SDK 10.0 and FastFlowLM 0.9.35, using AMD Ryzen AI NPUs for running LLMs on Linux finally became feasible. AMD XDNA 2 NPUs can now run on Linux well for LLM workloads! Released on Tuesday was Lemonade 10.0.1 with a few improvements for the setup process of this local LLM open-source solution on Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
