@@ -1,10 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T07:19:25.278Z</id>
+    <id>urn:2026-03-30T09:05:06.694Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-03-30T07:19:25.278Z</updated>
+    <updated>2026-03-30T09:05:06.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Vývojář, který přidal birthDate do systemd, čelí šikaně]]></title>
+        <id>www.root.cz-actuality-51603</id>
+        <link href="https://www.root.cz/zpravicky/vyvojar-ktery-pridal-birthdate-do-systemd-celi-sikane/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-03-30T07:55:20.000Z</updated>
+        <summary type="html"><![CDATA[Do systemd byla nedávno přidaná položka birthDate kvůli zákonům o kontrole věku uživatelů. Strhla se kolem toho vášnivá diskuse, i když jde jen o záznam v databázi a žádné omezování se v systemd neplánuje. Špatně dopadl také vývojář Dylan M. Taylor, který je autorem commitu s birthDate a o kterém většina lidí zatím nic neslyšela.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vyšel FreeCAD v1.1 s vylepšeným UI]]></title>
+        <id>www.root.cz-actuality-51600</id>
+        <link href="https://www.root.cz/zpravicky/vysel-freecad-v1-1-s-vylepsenym-ui/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-03-30T07:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Větší změny proběhly v uživatelském rozhraní. Dále byl vylepšen nástroj pro transformace. Zlepšena byla identifikace vybraných objektů ujasni výběr pro lepší orientaci v modelu. Nemalé změny proběhly v modulech:]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: fr.brnusak)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge Allows BitTorrent Seeding Claims Against Meta, Despite Lawyers ‘Lame Excuses’]]></title>
+        <id>https://torrentfreak.com/?p=277620</id>
+        <link href="https://torrentfreak.com/judge-allows-bittorrent-seeding-claims-against-meta-despite-lawyers-lame-excuses/"/>
+        <updated>2026-03-30T07:30:48.000Z</updated>
+        <summary type="html"><![CDATA[In an effort to gather material for its LLM training, Meta used BitTorrent to download pirated books from Anna’s Archive and other shadow libraries. According to several authors, Meta facilitated the infringement of others by "seeding" these torrents. This week, the court granted the authors permission to add these claims to their complaint, despite openly scolding their counsel for "lame excuses" and "Meta bashing."
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vznikl fork OnlyOffice s názvem Euro-Office]]></title>
+        <id>www.root.cz-actuality-51597</id>
+        <link href="https://www.root.cz/zpravicky/vznikl-fork-onlyoffice-s-nazvem-euro-office/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-03-30T07:27:13.000Z</updated>
+        <summary type="html"><![CDATA[OnlyOffice je open-source online kancelářský balík kompatibilní s MS Office. Podle firem stojících za jeho novým forkem Euro-Office však nepřijímá patche, nespolupracuje s komunitou a celý vývoj postrádá transparentnost. V takovém nastavení považují zakládající firmy i ruský původ kancelářského balíku za problematický.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Michal Hrušecký)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Darwin’s Paradox review – A charming puzzle-platformer but with slippery performance]]></title>
         <id>https://www.destructoid.com/?post_type=eg_reviews&amp;p=1197717</id>
@@ -3737,16 +3778,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hledač zranitelností Trivy šířil malware]]></title>
-        <id>www.root.cz-actuality-51537</id>
-        <link href="https://www.root.cz/zpravicky/hledac-zranitelnosti-trivy-siril-malware/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-03-23T15:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Trivy od Aqua Security je oblíbený open source vyhledávač zranitelností a špatných konfigurací, který pracuje s kontejnery, souborovými systémy i repozitáři Git. O víkendu došlo k napadení a Trivy šířilo malware, který krade klíče, hesla a další informace.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel Core Ultra 7 270K Plus and Intel Core Ultra 5 250K Plus review: another skippable CPU series]]></title>
         <id>https://www.rockpapershotgun.com/intel-core-ultra-7-270k-plus-and-intel-core-ultra-5-250k-plus-review</id>
         <link href="https://www.rockpapershotgun.com/intel-core-ultra-7-270k-plus-and-intel-core-ultra-5-250k-plus-review"/>
@@ -3757,16 +3788,6 @@ Alas, it’s not enough. Not only are Core Ultra 7 270K Plus and Core Ultra 5 25
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GrapheneOS nebude kontrolovat věk uživatelů]]></title>
-        <id>www.root.cz-actuality-51534</id>
-        <link href="https://www.root.cz/zpravicky/grapheneos-nebude-kontrolovat-vek-uzivatelu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-03-23T14:10:45.000Z</updated>
-        <summary type="html"><![CDATA[Alternativní operační systém GrapheneOS založený na Androidu je specializovaný na bezpečnost a soukromí. GrapheneOS oficiálně podporuje telefony Google Pixel. V pátek oznámil, že nebude zavádět kontrolu věku uživatelů, jak vyžadují například zákony Kalifornie, Colorada a Brazílie.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3845,16 +3866,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[systemd přidává datum narození do uživatelského záznamu JSON]]></title>
-        <id>www.root.cz-actuality-51528</id>
-        <link href="https://www.root.cz/zpravicky/systemd-pridava-datum-narozeni-do-uzivatelskeho-zaznamu-json/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-03-23T09:22:40.000Z</updated>
-        <summary type="html"><![CDATA[Kvůli kontrole věku, kterou zavádí například zákony Kalifornie, Colorada a Brazílie, byla do záznamu o uživateli ve formátu JSON v systemd přidána položka birthDate. Zároveň tuto položku nemůže měnit sám uživatel, jen root. K tématu se strhla bouřlivá diskuse.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -4919,17 +4930,6 @@ reports, which help us to make Android Studio better. If you encounter a problem
         <summary type="html"><![CDATA[Media3 Version 1.10.0-rc01]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Major Publishers Sue Anna’s Archive Over ‘Staggering’ Copyright Infringement, Seek Injunction]]></title>
-        <id>https://torrentfreak.com/?p=277296</id>
-        <link href="https://torrentfreak.com/major-publishers-sue-annas-archive-over-staggering-copyright-infringement-seek-injunction/"/>
-        <updated>2026-03-09T10:05:01.000Z</updated>
-        <summary type="html"><![CDATA[A coalition of thirteen major publishers, including Penguin Random House, Elsevier, and HarperCollins, filed a new lawsuit against Anna’s Archive. The publishers allege the shadow library is facilitating "staggering" levels of piracy. While the site's owners are not likely to put up a defense, the publishers' main goal appears to be to obtain an injunction that can apply further pressure on domain registrars and registries.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
