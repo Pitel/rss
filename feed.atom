@@ -1,10 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-30T22:29:28.194Z</id>
+    <id>urn:2026-03-31T01:53:40.786Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-03-30T22:29:28.194Z</updated>
+    <updated>2026-03-31T01:53:40.786Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mario Kart World Has Been Updated To Version 1.6.0, Here Are The Full Patch Notes]]></title>
+        <id>https://www.nintendolife.com/#article-199305</id>
+        <link href="https://www.nintendolife.com/news/2026/03/mario-kart-world-has-been-updated-to-version-1-6-0-here-are-the-full-patch-notes"/>
+        <updated>2026-03-31T01:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Bob-omb Blast added to Battle mode and much more!
+Earlier this month, we covered a story about Nintendo teasing a new update for the Battle mode in Mario Kart World.
+As part of the game's latest update today, bumping the title up to Version 1.6.0, Bob-omb Blast has been added. You'll be able to have 10 Bob-ombs on hand at once, and the distance these items can be thrown all depends on how long you hold down the L Button.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So, Will you Be Watching The Super Mario Galaxy Movie?]]></title>
+        <id>https://www.nintendolife.com/#article-199304</id>
+        <link href="https://www.nintendolife.com/news/2026/03/so-will-you-be-watching-the-super-mario-galaxy-movie"/>
+        <updated>2026-03-31T00:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Go on, tell us.
+It's not every day we celebrate a film release here on Nintendo Life, but this week is a little different with the arrival of the Super Mario Galaxy Movie.
+The new movie begins its rollout in cinemas on 1st April 2026, and according to Deadline, it's expected to bank around $350 million worldwide. The first impressions are also beginning to appear online, and if you were a fan of the first movie, you should enjoy this latest adventure.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beedrill ex from “Ninja Spinner” Revealed!]]></title>
+        <id>156682</id>
+        <link href="https://www.pokebeach.com/forums/threads/beedrill-ex-from-%E2%80%9Cninja-spinner%E2%80%9D-revealed.156682/"/>
+        <updated>2026-03-31T00:48:58.000Z</updated>
+        <author>
+            <name>koala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Announces The "Optimization Zone"]]></title>
+        <id>https://www.phoronix.com/news/Intel-Optimization-Zone</id>
+        <link href="https://www.phoronix.com/news/Intel-Optimization-Zone"/>
+        <updated>2026-03-31T00:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Intel today formally announced the Optimization Zone as a new initiative at the company that began last October and is building up a centralized repository for maximizing performance and software optimizations around Intel hardware...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archinstall 4.0 Released For Improved Arch Linux Installer Using Textual UI]]></title>
+        <id>https://www.phoronix.com/news/Archinstall-4.0-Released</id>
+        <link href="https://www.phoronix.com/news/Archinstall-4.0-Released"/>
+        <updated>2026-03-30T22:33:18.000Z</updated>
+        <summary type="html"><![CDATA[Archinstall 4.0 is out today and just in time for the April 1 monthly refresh to the Arch Linux installer. With Archinstall 4.0, this Arch Linux OS installer is now using the Textual TUI library rather than the Curses library...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PEAK Play It Your Way update patch notes: Biggest changes and more]]></title>
         <id>https://www.destructoid.com/?p=1198343</id>
@@ -189,6 +244,23 @@ It was discovered that Round…]]></summary>
         <summary type="html"><![CDATA[Sony v pátek vydalo omluvu, kvůli dočasnému přerušení dodávek téměř všech svých paměťových karet SD a CFexpress. Důvodem je nedostatek čipů NAND flash, který je způsobený rozmachem AI.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8134-1: pyasn1 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8134-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8134-1"/>
+        <updated>2026-03-30T19:57:29.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that pyasn1 could exhaust system resources when
+attempting to decode a malformed certificate. An attacker could
+possibly use this to cause a denial of service. (CVE-2026-23490)
+
+Kevin Tu discovered that pyasn1 could exhaust system resources via
+uncontrolled recursion when attempting to decode malicously-crafted
+certificates. An attacker could possibly use this to cause a denial of
+service. (CVE-2026-30922)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2376,19 +2448,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mortal Kombat: Legacy Kollection Update Out Now, Here Are The Full Patch Notes]]></title>
-        <id>https://www.nintendolife.com/#article-199219</id>
-        <link href="https://www.nintendolife.com/news/2026/03/mortal-kombat-legacy-kollection-update-out-now-here-are-the-full-patch-notes"/>
-        <updated>2026-03-28T00:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Download it today.
-Mortal Kombat: Legacy Kollection wasn't in the best state when it arrived last October, but Digital Eclipse has been rolling out patches since then to improve the overall experience.
-The latest one has now arrived, bumping the game up to Version 1.0.5 on the Switch and Switch 2. It adds a whole host of features including support for room codes in Online Arcade, a performance improvement for MK: Special Forces, and many adjustments and fixes.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DRBD Driver Working To Land ~15 Years Worth Of Changes Into The Linux Kernel]]></title>
         <id>https://www.phoronix.com/news/DRBD-15-Years-Code-Changes</id>
         <link href="https://www.phoronix.com/news/DRBD-15-Years-Code-Changes"/>
@@ -2415,19 +2474,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angry Birds Arrive At Two Point Museum In New Spring Seasonal Update]]></title>
-        <id>https://www.nintendolife.com/#article-198962</id>
-        <link href="https://www.nintendolife.com/news/2026/03/angry-birds-arrive-at-two-point-museum-in-new-spring-seasonal-update"/>
-        <updated>2026-03-27T23:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Update: Switch 2 release date confirmed.
-:
-We've already heard about Red joining Sonic Racing: CrossWorlds this week, and now Two Point Museum has announced its own collab with Angry Birds.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2595,16 +2641,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Xe Driver Improves Memory Pressure / Out-Of-Memory Behavior For vRAM With Linux 7.1]]></title>
-        <id>https://www.phoronix.com/news/Intel-Xe-Purgeable-BO</id>
-        <link href="https://www.phoronix.com/news/Intel-Xe-Purgeable-BO"/>
-        <updated>2026-03-27T14:10:37.000Z</updated>
-        <summary type="html"><![CDATA[Following the Intel Xe kernel graphics driver pull request landing transparent hugepages for device pages as an SVM win, another round of Intel Xe driver updates were sent out this week ahead of next month's Linux 7.1 merge window. This latest pull request lands a new user-space API for helping the Intel Xe driver better cope with situations of video memory pressure / out-of-memory behavior for vRAM...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Play a reclusive witch living on a flying fish in this enchanting, Zelda-ish photography game]]></title>
         <id>https://www.rockpapershotgun.com/play-a-reclusive-witch-living-on-a-flying-fish-in-this-enchanting-zelda-ish-photography-game</id>
         <link href="https://www.rockpapershotgun.com/play-a-reclusive-witch-living-on-a-flying-fish-in-this-enchanting-zelda-ish-photography-game"/>
@@ -2634,16 +2670,6 @@ The catfish is sad that the skies are so empty nowadays, so you must use a magic
         <summary type="html"><![CDATA[Wikipedie zakazuje používání generativní umělé inteligence ke psaní a přepsání článků, protože to často odporuje více pravidlům. Jsou tu dvě výjimky. LLM může udělat běžné úpravy člověkem generovaného textu, pokud budou úpravy zkontrolovány a LLM tam nic nepřidá.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BPF-Based I/O Scheduler For Linux Demonstrated]]></title>
-        <id>https://www.phoronix.com/news/BPF-IO-Scheduler-Linux</id>
-        <link href="https://www.phoronix.com/news/BPF-IO-Scheduler-Linux"/>
-        <updated>2026-03-27T12:25:17.000Z</updated>
-        <summary type="html"><![CDATA[With sched_ext there is support for BPF-based CPU scheduling policies for the Linux kernel while now a new initiative is working on BPF-based I/O schedulers...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3177,30 +3203,6 @@ This update corrects flaws in the following subsystems:
   - User-Mode Linux (UML);
   - x86 architecture;
   - Xtensa architecture;…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8094-4: Linux kernel (Azure) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8094-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-8094-4"/>
-        <updated>2026-03-25T19:04:26.000Z</updated>
-        <summary type="html"><![CDATA[Qualys discovered that several vulnerabilities existed in the AppArmor
-Linux kernel Security Module (LSM). An unprivileged local attacker could
-use these issues to load, replace, and remove arbitrary AppArmor profiles
-causing denial of service, exposure of sensitive information (kernel
-memory), local privilege escalation, or possibly escape a container.
-(LP: #2143853)
-
-It was discovered that some AMD Zen 5 processors supporting RDSEED
-instruction did not properly handle entropy, potentially resulting in the
-consumption of insufficiently random values. A local attacker could
-possibly use this issue to influence the values returned by the RDSEED
-instruction causing loss of confidentiality and integrity. (CVE-2025-62626)
-
-Several security issues were discovered in the Linux kernel.
-An attacke…]]></summary>
         <author>
             <name>Ubuntu security notices</name>
         </author>
@@ -4460,15 +4462,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>156719</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cchaos-rising%E2%80%9D-set-and-product-lineup-revealed-yet-another-small-english-set.156719/"/>
         <updated>2026-03-17T06:44:55.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Aura Seeker” Set Name Trademarked for the Pokemon TCG!]]></title>
-        <id>156716</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Caura-seeker%E2%80%9D-set-name-trademarked-for-the-pokemon-tcg.156716/"/>
-        <updated>2026-03-16T21:13:52.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
