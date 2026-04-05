@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-05T10:27:42.205Z</id>
+    <id>urn:2026-04-05T12:43:35.232Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-04-05T10:27:42.205Z</updated>
+    <updated>2026-04-05T12:43:35.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Mesa 26.1 Makes It Easier To "Fake" A GPU Reset Using LLVMpipe]]></title>
-        <id>https://www.phoronix.com/news/Mesa-26.1-Fake-GPU-Reset</id>
-        <link href="https://www.phoronix.com/news/Mesa-26.1-Fake-GPU-Reset"/>
-        <updated>2026-04-05T10:23:43.000Z</updated>
-        <summary type="html"><![CDATA[As a small but interesting addition coming for this quarter's Mesa 26.1 release is making it easy to simulate a GPU reset with the LLVMpipe software driver. While seemingly mundane, this can be quite handy for compositor developers and other app/software developers wanting to more easily test how their code behaves when encountering a GPU reset...]]></summary>
+        <title type="html"><![CDATA[Feature: "Stop Tagging Us About Bubsy!" - Fabraz On Being Bullied Into Reviving A Maligned Mascot]]></title>
+        <id>https://www.nintendolife.com/#article-199465</id>
+        <link href="https://www.nintendolife.com/features/stop-tagging-us-about-bubsy-fabraz-on-being-bullied-into-reviving-a-maligned-mascot"/>
+        <updated>2026-04-05T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA["We were blown away by the reception".
+Bubsy, it's safe to say, doesn't have the greatest reputation in the world. So when Bubsy 4D was announced at Gamescom 2025, we were honestly pretty floored. Not only was Atari reviving a series that's arguably had far more misses than hits in its 30+ year history, but it was bringing on critically-acclaimed developer Fabraz to do the job.
+With the likes of Demon Turf and Demon Tides under its belt, Fabraz has won the hearts of gamers worldwide with its unique 'expressive platforming' concept. Applying what it learned from its previous games to Bubsy, Fabraz is hoping to rid the series of its maligned reputation and deliver something that fans can finally be proud of.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.0-rc7 Adding More Documentation For AI Tools To Send Better Security Bug Reports]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs</id>
+        <link href="https://www.phoronix.com/news/Linux-7.0-More-AI-Security-Docs"/>
+        <updated>2026-04-05T11:34:00.000Z</updated>
+        <summary type="html"><![CDATA[For helping with the increase of AI tools scouring the Linux kernel source tree and sending security bug reports, a pull request sent today ahead of the Linux 7.0-rc7 improves the documentation to better guide AI agents -- and anyone reading the documentation -- how to send better quality bug reports...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -19,9 +32,39 @@
         <title type="html"><![CDATA[How do you get these card sleeves?]]></title>
         <id>156753</id>
         <link href="https://www.pokebeach.com/forums/threads/how-do-you-get-these-card-sleeves.156753/"/>
-        <updated>2026-04-05T09:36:43.000Z</updated>
+        <updated>2026-04-05T10:45:52.000Z</updated>
         <author>
             <name>nagimotika</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hid-omg-detect: Linux Driver In Development To Detect Malicious HID Devices]]></title>
+        <id>https://www.phoronix.com/news/hid-omg-detect-Malicious-HID</id>
+        <link href="https://www.phoronix.com/news/hid-omg-detect-Malicious-HID"/>
+        <updated>2026-04-05T10:44:00.000Z</updated>
+        <summary type="html"><![CDATA[Zubeyr Almaho has been leading work on a new HID driver named hid-omg-detect with an intent on passive monitoring to watch out for any malicious HID devices being connected to the system...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Sees Fixes For Its GD-ROM Driver In 2026 For Sega Dreamcast]]></title>
+        <id>https://www.phoronix.com/news/Linux-GD-ROM-Dreamcast-Fix</id>
+        <link href="https://www.phoronix.com/news/Linux-GD-ROM-Dreamcast-Fix"/>
+        <updated>2026-04-05T10:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Seeing new Linux patches for benefiting Sega Dreamcast devices wasn't on my bingo card for 2026. A patch series was sent out today for fixing the Linux kernel's GD-ROM driver for accessing media using the drivers on "real" Sega Dreamcast devices...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 26.1 Makes It Easier To "Fake" A GPU Reset Using LLVMpipe]]></title>
+        <id>https://www.phoronix.com/news/Mesa-26.1-Fake-GPU-Reset</id>
+        <link href="https://www.phoronix.com/news/Mesa-26.1-Fake-GPU-Reset"/>
+        <updated>2026-04-05T10:23:43.000Z</updated>
+        <summary type="html"><![CDATA[As a small but interesting addition coming for this quarter's Mesa 26.1 release is making it easy to simulate a GPU reset with the LLVMpipe software driver. While seemingly mundane, this can be quite handy for compositor developers and other app/software developers wanting to more easily test how their code behaves when encountering a GPU reset...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -128,8 +171,8 @@ The post How to craft and use the Water Wheel in Rust appeared first on Destruct
         <link href="https://www.nintendolife.com/news/2026/04/another-eden-begins-brings-more-rpg-action-to-switch-1-and-2-this-september-heres-8-minutes-of-footage"/>
         <updated>2026-04-05T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[Led by the writer behind Chrono Trigger and Xenogears.
-In February, a brand new turn-based RPG called Another Eden Begins got announced for the Switch 1 & 2.
-Alongside a new trailer, it's now been confirmed this time-travelling adventure will be launching for both of these platforms on 17th September 2026. The new, and rather lengthy video on display, showcases the playable characters on offer, chain skills and much more!
+In February, Wright Flyer Studios announced the turn-based RPG Another Eden Begins would be coming to Switch 1 & 2.
+Alongside a new trailer today, the developer and publisher has now confirmed this time-travelling adventure will be launching for both platforms on 17th September 2026. The new and rather lengthy video on display showcases the playable characters, chain skills and much more!
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -2310,19 +2353,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Landfall Surprises With Two Indie Hits On Switch 2, Including A Viral Horror Darling]]></title>
-        <id>https://www.nintendolife.com/#article-199445</id>
-        <link href="https://www.nintendolife.com/news/2026/04/landfall-surprises-with-two-indie-hits-on-switch-2-including-a-viral-horror-darling"/>
-        <updated>2026-04-02T16:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Haste and Content Warning are out now.
-Landfall Publishing gave us a surprise double-whammy yesterday, 1st April 2026, on the Switch 2 eShop when it dropped two of its games on the digital storefront.
-One of these we knew about, but the date was up in the air - Content Warning, which has received a release on Switch 2 and Switch 1, was announced during the August 2025 Indie World Showcase. And yesterday's eShop release was the first time we'd heard anything about the Switch version since then. It's just $9.99 in the US on both consoles — or £8.99 on Switch 2 in the UK (£7.99 on Switch 1).
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenSSH 10.3]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/openssh-10.3</id>
         <link href="http://www.abclinuxu.cz/zpravicky/openssh-10.3"/>
@@ -2681,36 +2711,6 @@ code. This issue only affected Ubuntu 18.04 LTS and Ubuntu 20.04 LTS.
 (CVE-2020-35492)]]></summary>
         <author>
             <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Libinput Hit By Worrying Security Issues With Its Lua Plug-In System]]></title>
-        <id>https://www.phoronix.com/news/Libinput-Lua-Security-Issues</id>
-        <link href="https://www.phoronix.com/news/Libinput-Lua-Security-Issues"/>
-        <updated>2026-04-02T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Libinput devised a Lua-based plug-in system for modifying devices/events. The Lua plug-in support was introduced last year with libinput 1.30 but unfortunately some security issues have now come to light with the implementation...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam On Linux Use Skyrocketed In March - More Than Double The macOS Gaming Marketshare]]></title>
-        <id>https://www.phoronix.com/news/Steam-On-Linux-Tops-5p</id>
-        <link href="https://www.phoronix.com/news/Steam-On-Linux-Tops-5p"/>
-        <updated>2026-04-02T00:44:05.000Z</updated>
-        <summary type="html"><![CDATA[If Valve's latest Steam Survey monthly figures are accurate, Steam on Linux enjoyed a very wild month of March. Steam on Linux is now above the 5% threshold and more than twice the size of the Steam on macOS marketshare...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD GPU Driver Sees DC Idle Manager & Multi-SDMA Engine Optimization For Linux 7.1]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-Linux-7.1-Multi-SDMA</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-Linux-7.1-Multi-SDMA"/>
-        <updated>2026-04-02T00:31:00.000Z</updated>
-        <summary type="html"><![CDATA[With Linux 7.0-rc6 having released on Sunday, we are hitting the point of the cut-off of new feature material being allowed into the Direct Rendering Manager's DRM-Next tree of queuing new graphics/display/accelerator feature code ahead of the upcoming Linux 7.1 merge window. As presumably the last AMDGPU/AMDKFD feature pull ahead of Linux 7.1, today's pull request from AMD contains some noteworthy final enhancements...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
