@@ -1,17 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-17T07:57:03.046Z</id>
+    <id>urn:2026-04-17T09:15:48.228Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-04-17T07:57:03.046Z</updated>
+    <updated>2026-04-17T09:15:48.228Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Abyss Eye” Set Featuring Mega Darkrai ex Officially Revealed for July!]]></title>
+        <id>156770</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cabyss-eye%E2%80%9D-set-featuring-mega-darkrai-ex-officially-revealed-for-july.156770/"/>
+        <updated>2026-04-17T09:14:54.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sniffnet 1.5]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/sniffnet-1.5</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/sniffnet-1.5"/>
+        <updated>2026-04-17T09:08:31.000Z</updated>
+        <summary type="html"><![CDATA[Sniffnet, tj. multiplatformní (Windows, macOS a Linux) open source grafická aplikace pro sledování internetového provozu, byl vydán ve verzi 1.5. V přehledu novinek je vypíchnuta identifikace aplikací komunikujících po síti.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8183-1: Linux kernel (GCP) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8183-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8183-1"/>
+        <updated>2026-04-17T09:06:33.000Z</updated>
+        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
+Rizzo discovered that some AMD Zen processors did not properly verify the
+signature of CPU microcode. This flaw is known as EntrySign. A privileged
+attacker could possibly use this issue to cause load malicious CPU
+microcode causing loss of integrity and confidentiality.
+(CVE-2024-36347)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - MIPS architecture;
+  - PowerPC architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - Ublk userspace block driver;
+  - Bluetooth drivers;
+  - Character device driver;
+  - T…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mega Delphox ex, Grisham, Seel, and Other Gym Promos Revealed for May!]]></title>
         <id>156769</id>
         <link href="https://www.pokebeach.com/forums/threads/mega-delphox-ex-grisham-seel-and-other-gym-promos-revealed-for-may.156769/"/>
-        <updated>2026-04-17T07:52:58.000Z</updated>
+        <updated>2026-04-17T09:03:24.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Koncept protokolu IPv8 opět zkouší starý přístup rozšíření adresy]]></title>
+        <id>www.root.cz-actuality-51822</id>
+        <link href="https://www.root.cz/zpravicky/koncept-protokolu-ipv8-opet-zkousi-stary-pristup-rozsireni-adresy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-04-17T08:42:21.000Z</updated>
+        <summary type="html"><![CDATA[V archivu IETF se objevil koncept internetového protokolu IPv8. Jeho autorem je Jamie Thain, který poukazuje na to, že ani po 25 letech netvoří IPv6 nijak významný podíl internetového provozu a stále jsme odkázaní na CGNAT. Protokol IPv8 řeší problém vyčerpání adres bez nutnosti provozu v režimu dual-stack. IPv4 je pravou podmnožinou IPv8. Přechod nevyžaduje náhlou změnu a nezpůsobuje žádné přerušení provozu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8177-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8177-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8177-1"/>
+        <updated>2026-04-17T08:33:32.000Z</updated>
+        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
+Rizzo discovered that some AMD Zen processors did not properly verify the
+signature of CPU microcode. This flaw is known as EntrySign. A privileged
+attacker could possibly use this issue to cause load malicious CPU
+microcode causing loss of integrity and confidentiality.
+(CVE-2024-36347)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - MIPS architecture;
+  - PowerPC architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - Ublk userspace block driver;
+  - Bluetooth drivers;
+  - Character device driver;
+  - T…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8177-2: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8177-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8177-2"/>
+        <updated>2026-04-17T08:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
+Rizzo discovered that some AMD Zen processors did not properly verify the
+signature of CPU microcode. This flaw is known as EntrySign. A privileged
+attacker could possibly use this issue to cause load malicious CPU
+microcode causing loss of integrity and confidentiality.
+(CVE-2024-36347)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - MIPS architecture;
+  - PowerPC architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - Ublk userspace block driver;
+  - Bluetooth drivers;
+  - Character device driver;
+  - T…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lets Make Goodra Stall Real]]></title>
+        <id>156767</id>
+        <link href="https://www.pokebeach.com/forums/threads/lets-make-goodra-stall-real.156767/"/>
+        <updated>2026-04-17T07:57:28.000Z</updated>
+        <author>
+            <name>I HATE MUNKIDORI</name>
         </author>
     </entry>
     <entry>
@@ -1641,36 +1769,6 @@ The post All crafting stations in Windrose and how to upgrade them appeared firs
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8177-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8177-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8177-1"/>
-        <updated>2026-04-16T13:51:12.000Z</updated>
-        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
-Rizzo discovered that some AMD Zen processors did not properly verify the
-signature of CPU microcode. This flaw is known as EntrySign. A privileged
-attacker could possibly use this issue to cause load malicious CPU
-microcode causing loss of integrity and confidentiality.
-(CVE-2024-36347)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - MIPS architecture;
-  - PowerPC architecture;
-  - User-Mode Linux (UML);
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI drivers;
-  - Ublk userspace block driver;
-  - Bluetooth drivers;
-  - Character device driver;
-  - T…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nová CAPTCHA na katastru nemovitostí]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/nova-captcha-na-katastru-nemovitosti</id>
         <link href="http://www.abclinuxu.cz/zpravicky/nova-captcha-na-katastru-nemovitosti"/>
@@ -2121,15 +2219,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lets Make Goodra Stall Real]]></title>
-        <id>156767</id>
-        <link href="https://www.pokebeach.com/forums/threads/lets-make-goodra-stall-real.156767/"/>
-        <updated>2026-04-16T03:54:30.000Z</updated>
-        <author>
-            <name>I HATE MUNKIDORI</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This Deck is Legitimately Broken (with the Right Matchups)]]></title>
         <id>156765</id>
         <link href="https://www.pokebeach.com/forums/threads/this-deck-is-legitimately-broken-with-the-right-matchups.156765/"/>
@@ -2454,28 +2543,6 @@ The Sonic The Hedgehog series of games never scored high marks for gripping dram
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8176-1: .NET vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8176-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8176-1"/>
-        <updated>2026-04-15T19:22:58.000Z</updated>
-        <summary type="html"><![CDATA[Ludvig Pedersen discovered that the System.Security.Cryptography.Xml
-library in .NET incorrectly handled certain XML inputs. An attacker could
-possibly use this issue to consume excessive resources, resulting in a
-denial of service. (CVE-2026-33116, CVE-2026-26171)
-
-Ludvig Pedersen and Kevin Jones discovered that the
-System.Security.Cryptography.Xml library in .NET incorrectly handled
-certain XML inputs. An attacker could possibly use this issue to cause
-.NET to crash, resulting in a denial of service. (CVE-2026-32203)
-
-Ludvig Pedersen discovered that the System.Net.Mail component in .NET
-incorrectly handled certain inputs. An attacker could possibly use this
-issue to perform a network spoofing attack. (CVE-2026-32178)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arch Linux's Archinstall 4.2 Fixes Botched Disk Encryption Security]]></title>
         <id>https://www.phoronix.com/news/Archinstall-4.2</id>
         <link href="https://www.phoronix.com/news/Archinstall-4.2"/>
@@ -2634,16 +2701,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A change proposal has been filed to build x86_64-v3 micro-architecture feature level packages alongside the existing x86_64-v1 packages for Fedora Linux...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evropská aplikace na ověřování věku uživatelů on-line platforem]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/evropska-aplikace-na-overovani-veku-uzivatelu-on-line-platforem</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/evropska-aplikace-na-overovani-veku-uzivatelu-on-line-platforem"/>
-        <updated>2026-04-15T14:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Aplikace pro ověřování věku uživatelů on-line platforem je technicky hotová a brzy bude k dispozici pro občany EU, oznámila dnes předsedkyně Evropské komise Ursula von der Leyenová. Půjde podle ní o bezplatné a snadno použitelné řešení, které pomůže chránit děti před škodlivým a nelegálním obsahem. Aplikace bude podle ní fungovat na jakémkoli zařízení a bude zcela anonymní.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2874,18 +2931,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <updated>2026-04-15T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8175-1: FRR vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8175-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8175-1"/>
-        <updated>2026-04-15T03:06:36.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that FRR did not correctly handle certain network
-requests. A remote attacker could possibly use this issue to gain
-unauthorized access to resources.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3669,16 +3714,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anthropic poslal svoji AI k psychiatrovi]]></title>
-        <id>www.root.cz-actuality-51750</id>
-        <link href="https://www.root.cz/zpravicky/anthropic-poslal-svoji-ai-k-psychiatrovi/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-04-10T14:18:29.000Z</updated>
-        <summary type="html"><![CDATA[Anthropic vyvinul nový model Claude Mythos, který má být velmi dobrý. Dokonce tak dobrý, že jej zatím neuvolní pro veřejnost, ale jen pro velké společnosti jako je Apple nebo Microsoft. Obávají se nebezpečí odhalení softwarových zranitelností, které by mohly být zneužity.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How do you get these card sleeves?]]></title>
         <id>156753</id>
         <link href="https://www.pokebeach.com/forums/threads/how-do-you-get-these-card-sleeves.156753/"/>
@@ -4283,15 +4318,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <updated>2026-04-06T19:30:34.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beedrill ex from “Ninja Spinner” Revealed!]]></title>
-        <id>156682</id>
-        <link href="https://www.pokebeach.com/forums/threads/beedrill-ex-from-%E2%80%9Cninja-spinner%E2%80%9D-revealed.156682/"/>
-        <updated>2026-04-06T17:48:09.000Z</updated>
-        <author>
-            <name>koala</name>
         </author>
     </entry>
     <entry>
