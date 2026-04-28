@@ -1,17 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-28T02:26:49.334Z</id>
+    <id>urn:2026-04-28T06:25:30.179Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-04-28T02:26:49.334Z</updated>
+    <updated>2026-04-28T06:25:30.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Filmmakers Drop Piracy Liability Lawsuit Against ISP RCN]]></title>
+        <id>https://torrentfreak.com/?p=278216</id>
+        <link href="https://torrentfreak.com/filmmakers-drop-piracy-liability-lawsuit-against-isp-rcn/"/>
+        <updated>2026-04-28T06:19:24.000Z</updated>
+        <summary type="html"><![CDATA[A group of independent film companies has dropped its long-running piracy liability lawsuit against U.S. Internet provider RCN. The joint stipulation, filed in a New Jersey federal court, follows the Cox Supreme Court ruling. In addition to dropping a multi-million-dollar damages claim, the requested U.S. pirate site blocking injunction is also off the table.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All 234 “Pulsing Aura” Cards Revealed from “Pocket!”]]></title>
         <id>156785</id>
         <link href="https://www.pokebeach.com/forums/threads/all-234-%E2%80%9Cpulsing-aura%E2%80%9D-cards-revealed-from-%E2%80%9Cpocket-%E2%80%9D.156785/"/>
-        <updated>2026-04-28T02:17:04.000Z</updated>
+        <updated>2026-04-28T04:41:25.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8202-2: jq vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8202-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8202-2"/>
+        <updated>2026-04-28T04:18:39.000Z</updated>
+        <summary type="html"><![CDATA[USN-8202-1 fixed vulnerabilities in jq. This update provides the
+corresponding update to Ubuntu 26.04 LTS.
+
+Original advisory details:
+
+ It was discovered that jq did not correctly handle certain string
+ concatenations. An attacker could possibly use this issue to cause a
+ denial  of service or execute arbitrary code. (CVE-2026-32316)
+
+ It was discovered that jq did not correctly handle recursion in certain
+ circumstances. An attacker could possibly use this issue to cause a denial
+ of service. (CVE-2026-33947)
+
+ It was discovered that jq did not correctly handle improperly terminated
+ strings. An attacker could possibly use this issue to cause a denial of
+ service or execute arbitrary code. (CVE-2026-33948)
+
+ It was discovered that jq did not correctly handle checking certain
+ variable types. An attacker could possibly use this issue to cause a
+ denial  of service or leak sensitive information. (CVE-2026-39956)
+
+ It was discovered that jq did not correctly handle certain string
+ formatting. An attacker could possibly use this issue to leak sensitive
+ information or cause a denial of service. (CVE-2026-39979)
+
+ It was discovered that jq used a fixed seed for hash table operations. An
+ attacker could possibly use this issue to cause a denial of service.
+ (CVE-2026-40164)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Round Up: The First Impressions Of The Mortal Kombat II Movie Are In]]></title>
+        <id>https://www.nintendolife.com/#article-200441</id>
+        <link href="https://www.nintendolife.com/news/2026/04/round-up-the-first-impressions-of-the-mortal-kombat-ii-movie-are-in"/>
+        <updated>2026-04-28T03:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Here's Johnny.
+Putting aside those rumours about a Metroid Movie for a moment, one video game movie that's already locked in is Mortal Kombat II, and it's due out next month.
+Ahead of its release, an early screening for the second movie premiered in theatres. If you are wondering how the sequel (led by "The Boys" star Karl Urban as Johnny Cage) holds up, we've put together a round up of the first critic impressions.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -43,7 +104,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2026-04-28T00:55:00.000Z</updated>
         <summary type="html"><![CDATA[Drop into island life.
 To celebrate the recent release of Tomodachi Life: Living the Dream on the Switch, Nintendo will be hosting a special crossover event in its Switch Online battle royale title Tetris 99.
-The 53 cup will kick off on 1st May 2026 and runs until 4th May 2026. To participate, you'll need to have an active Switch Online membership. If you earn a total of 100 points during this event, you'll unlock the theme on display in the video above.
+The 53rd cup will kick off on 1st May 2026 and runs until 4th May 2026. To participate, you'll need to have an active Switch Online membership. If you earn a total of 100 points during this event, you'll unlock the theme on display in the video above.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -1569,6 +1630,15 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Soniferous Aether]]></title>
+        <id>https://xkcd.com/3238/</id>
+        <link href="https://xkcd.com/3238/"/>
+        <updated>2026-04-27T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ubuntu 26.10 bude Stonking Stingray]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/ubuntu-26.10-bude-stonking-stingray</id>
         <link href="http://www.abclinuxu.cz/zpravicky/ubuntu-26.10-bude-stonking-stingray"/>
@@ -1576,6 +1646,17 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Ubuntu 26.10 bude Stonking Stingray (úžasný rejnok).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 04/27/2026]]></title>
+        <id>https://torrentfreak.com/?p=186926</id>
+        <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
+        <updated>2026-04-26T23:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Project Hail Mary' tops the chart, followed by 'The Legend of Aang: The Last Airbender.' 'Avatar: Fire and Ash' completes the top three.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
@@ -2488,19 +2569,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Looks Like 'Mina The Hollower' Will Be Getting A New Release Date Soon]]></title>
-        <id>https://www.nintendolife.com/#article-200357</id>
-        <link href="https://www.nintendolife.com/news/2026/04/looks-like-mina-the-hollower-will-be-getting-a-new-release-date-soon"/>
-        <updated>2026-04-24T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[The mouse has gone gold.
-Yacht Club Games has been pretty tight-lipped about its upcoming Game Boy-inspired, Zelda-style adventure Mina the Hollower, which is due to launch in spring 2026.
-But the developer has revealed today that the game has finally gone Gold. So while we're approaching the end of that spring 2026 window, it sounds like we'll be getting a date very soon.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can someone let me know if these are worth anything?]]></title>
         <id>156777</id>
         <link href="https://www.pokebeach.com/forums/threads/can-someone-let-me-know-if-these-are-worth-anything.156777/"/>
@@ -3323,36 +3391,6 @@ This update corrects flaws in the following subsystems:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8179-3: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8179-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8179-3"/>
-        <updated>2026-04-23T09:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
-Rizzo discovered that some AMD Zen processors did not properly verify the
-signature of CPU microcode. This flaw is known as EntrySign. A privileged
-attacker could possibly use this issue to cause load malicious CPU
-microcode causing loss of integrity and confidentiality.
-(CVE-2024-36347)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - MIPS architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI drivers;
-  - Network block device driver;
-  - Bluetooth drivers;
-  - Character device driver;
-  - TPM device driver;
-  - Clock…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This 512GB SanDisk Ultra Micro SD card has dropped to its best price in months on Amazon]]></title>
         <id>https://www.rockpapershotgun.com/this-512gb-sandisk-ultra-micro-sd-card-has-dropped-to-its-best-price-in-months-on-amazon</id>
         <link href="https://www.rockpapershotgun.com/this-512gb-sandisk-ultra-micro-sd-card-has-dropped-to-its-best-price-in-months-on-amazon"/>
@@ -4080,17 +4118,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 10 Most Pirated Movies of The Week – 04/27/2026]]></title>
-        <id>https://torrentfreak.com/?p=186926</id>
-        <link href="https://torrentfreak.com/top-10-most-torrented-pirated-movies/"/>
-        <updated>2026-04-19T23:09:40.000Z</updated>
-        <summary type="html"><![CDATA[Every week we take a close look at the most pirated movies on torrent sites. What are pirates downloading? 'Project Hail Mary' tops the chart, followed by 'The Legend of Aang: The Last Airbender.' 'Avatar: Fire and Ash' completes the top three.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Chaos Rising” Prerelease Promos Revealed!]]></title>
         <id>156761</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cchaos-rising%E2%80%9D-prerelease-promos-revealed.156761/"/>
@@ -4307,15 +4334,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europa Missions]]></title>
-        <id>https://xkcd.com/3234/</id>
-        <link href="https://xkcd.com/3234/"/>
-        <updated>2026-04-17T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -4875,17 +4893,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://torrentfreak.com/music-publishers-ask-court-to-dismiss-xs-weaponized-dmca-antitrust-suit/"/>
         <updated>2026-04-06T14:41:29.000Z</updated>
         <summary type="html"><![CDATA[Major music publishers and the NMPA are asking a Texas federal court to throw out X's antitrust lawsuit, calling it a baseless attempt at retaliation. The music companies argue that X’s conspiracy theory rests on a single word in an email, while adding that their massive DMCA takedown campaign was not a sham but fully protected by the First Amendment.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Lawmakers Work on Unified Site-Blocking Bill to Counter Online Piracy]]></title>
-        <id>https://torrentfreak.com/?p=277691</id>
-        <link href="https://torrentfreak.com/u-s-lawmakers-work-on-unified-site-blocking-bill-to-counter-online-piracy/"/>
-        <updated>2026-04-05T16:25:15.000Z</updated>
-        <summary type="html"><![CDATA[Last week's Supreme Court decision in Cox Communications reshaped the piracy liability landscape, creating new urgency for site-blocking legislation in Congress. This could be addressed by Senator Thom Tillis and Representative Zoe Lofgren, who have been working on bicameral legislation that would require ISPs and DNS resolvers to block foreign pirate sites under court order, TorrentFreak has learned.
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
