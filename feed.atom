@@ -1,17 +1,423 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-07T13:51:51.017Z</id>
+    <id>urn:2026-05-07T16:03:01.307Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-05-07T13:51:51.017Z</updated>
+    <updated>2026-05-07T16:03:01.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Story Behind One Of The Grossest Video Game Scenes Of 2026]]></title>
+        <id>https://kotaku.com/?p=2000693029</id>
+        <link href="https://kotaku.com/mixtape-minigame-makeout-scene-stacey-colin-tongues-2000693029"/>
+        <updated>2026-05-07T16:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Mixtape tries to capture the awkwardness of a teenager’s first kiss and succeeds, maybe a little too well]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assassin’s Creed Black Flag Resynced Is Getting Overhauled With Tons Of Modern Accessibility Features]]></title>
+        <id>https://kotaku.com/?p=2000693687</id>
+        <link href="https://kotaku.com/assassins-creed-black-flag-resynced-colorblind-skippable-qtes-bigger-subtitles-accessibility-features-2000693687"/>
+        <updated>2026-05-07T16:00:50.000Z</updated>
+        <summary type="html"><![CDATA[I would like to turn off the sharks, please]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amberspire review - a strategy game dedicated to the dicey ecopoetics of urban sprawl]]></title>
+        <id>https://www.rockpapershotgun.com/amberspire-review-a-strategy-game-dedicated-to-the-dicey-ecopoetics-of-urban-sprawl</id>
+        <link href="https://www.rockpapershotgun.com/amberspire-review-a-strategy-game-dedicated-to-the-dicey-ecopoetics-of-urban-sprawl"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The key thing to know about Amberspire is that it isn't a city-builder in the SimCity sense, but a turn-based boardgame puzzler in which you don't so much 'build' a city as you do manage a tumult of unpredictable, city-flavoured agencies. Created by Lunar Division, developers of The Banished Vault, it takes place on the surface of a moon-sized mausoleum - a vast Venetian graveworld whose fractured isometric crust reveals level after level of archways and catacombs, sinking beyond sight.
+
+
+The all-pervading presence of the crypt reminds me of London's old church cemeteries, crushed like dandelions between mishappen skyscrapers, refusing to be written out of the tale. It also immediately undercuts your primary objective of building a city populous and advanced enough to win recognition from other planets. However high your towers rise, your city is just another layer of debris and pollution applied to a strangely fruitful necropolis. This isn't a lesson in humility. It's an invitation to enjoy city-building as the act of dancing with a deathly ecology.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8261-1: Linux kernel (Xilinx) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8261-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8261-1"/>
+        <updated>2026-05-07T15:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
+Rizzo discovered that some AMD Zen processors did not properly verify the
+signature of CPU microcode. This flaw is known as EntrySign. A privileged
+attacker could possibly use this issue to cause load malicious CPU
+microcode causing loss of integrity and confidentiality. (CVE-2024-36347)
+
+Qualys discovered that several vulnerabilities existed in the AppArmor
+Linux kernel Security Module (LSM). An unprivileged local attacker could
+use these issues to load, replace, and remove arbitrary AppArmor profiles
+causing denial of service, exposure of sensitive information (kernel
+memory), local privilege escalation, or possibly escape a container.
+(LP: #2143853, CVE-2026-23268, CVE-2026-23269, CVE-2026-23403,
+CVE-2026-23404, C…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R.E.P.O. Cosmetics Update: Full patch notes, listed]]></title>
+        <id>https://www.destructoid.com/?p=1214509</id>
+        <link href="https://www.destructoid.com/r-e-p-o-cosmetics-update-patch-notes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=r-e-p-o-cosmetics-update-patch-notes"/>
+        <updated>2026-05-07T15:47:31.000Z</updated>
+        <summary type="html"><![CDATA[Since its early access release in February, 2025, R.E.P.O. has seen two big updates. But now it's time to hop back in, for the third huge update has arrived, and it's all about one thing: Cosmetics.
+
+
+The last big drop for R.E.P.O. was the Monster Update back on Halloween, 2025. This added 10 new monsters, some being scarier than others. While developer, semiwork may appear slow on the development side from a non-fan perspective, the team has been hard at work behind the scenes and updates their Steam and YouTube channel weekly with Q&As and teasers of what's to come in future versions of R.E.P.O.; all in the pursuit to release this co-op adventure in alpha.
+
+
+Here are all patch notes for R.E.P.O.'s Cosmetics Update.
+
+
+Table of contents
+All new content in R.E.P.O. Cosmetics Update (v0.4.0)…]]></summary>
+        <author>
+            <name>Hadley Vincent</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8260-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8260-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8260-1"/>
+        <updated>2026-05-07T15:37:44.000Z</updated>
+        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
+Rizzo discovered that some AMD Zen processors did not properly verify the
+signature of CPU microcode. This flaw is known as EntrySign. A privileged
+attacker could possibly use this issue to cause load malicious CPU
+microcode causing loss of integrity and confidentiality. (CVE-2024-36347)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - MIPS architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - Network block device driver;
+  - Bluetooth drivers;
+  - Character device driver;
+  - TPM device driver;
+  - Clock…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8258-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8258-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8258-1"/>
+        <updated>2026-05-07T15:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
+Rizzo discovered that some AMD Zen processors did not properly verify the
+signature of CPU microcode. This flaw is known as EntrySign. A privileged
+attacker could possibly use this issue to cause load malicious CPU
+microcode causing loss of integrity and confidentiality. (CVE-2024-36347)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - MIPS architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - Network block device driver;
+  - Bluetooth drivers;
+  - Character device driver;
+  - TPM device driver;
+  - Clock…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sims 4 Is Finally Ironing Out The Kinks In Its Babies]]></title>
+        <id>https://kotaku.com/?p=2000693973</id>
+        <link href="https://kotaku.com/the-sims-4-finally-tuning-up-its-babies-2000693973"/>
+        <updated>2026-05-07T15:25:53.000Z</updated>
+        <summary type="html"><![CDATA[Debugging the nooboo]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD RadeonSI Code Reorganized To Support Multimedia-Only Driver Builds]]></title>
+        <id>https://www.phoronix.com/news/AMD-RadeonSI-MM-Reorganized</id>
+        <link href="https://www.phoronix.com/news/AMD-RadeonSI-MM-Reorganized"/>
+        <updated>2026-05-07T15:21:04.000Z</updated>
+        <summary type="html"><![CDATA[Merged today to Mesa 26.2-devel was a reorganization of the AMD RadeonSI Gallium3D driver code to better separate the graphics and multimedia acceleration code from the rest of the driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8257-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8257-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8257-1"/>
+        <updated>2026-05-07T15:16:38.000Z</updated>
+        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
+Rizzo discovered that some AMD Zen processors did not properly verify the
+signature of CPU microcode. This flaw is known as EntrySign. A privileged
+attacker could possibly use this issue to cause load malicious CPU
+microcode causing loss of integrity and confidentiality. (CVE-2024-36347)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - MIPS architecture;
+  - PowerPC architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - Ublk userspace block driver;
+  - Bluetooth drivers;
+  - Character device driver;
+  - T…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8255-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8255-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8255-1"/>
+        <updated>2026-05-07T15:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Stonejiajia, Shir Tamari and Sagi Tzadik discovered that the OverlayFS
+implementation in the Ubuntu Linux kernel did not properly perform
+permission checks in certain situations. A local attacker could possibly
+use this to gain elevated privileges. (CVE-2023-2640)
+
+Shir Tamari and Sagi Tzadik discovered that the OverlayFS implementation in
+the Ubuntu Linux kernel did not properly perform permission checks in
+certain situations. A local attacker could possibly use this to gain
+elevated privileges. (CVE-2023-32629)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network drivers;
+  - NVME drivers;
+(CVE-2026-23112, CVE-2026-23273)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mortal Kombat 2 Movie Producer Lashes Out At Negative Reviews That ‘Don’t Have Any Love For The Genre’]]></title>
+        <id>https://kotaku.com/?p=2000693958</id>
+        <link href="https://kotaku.com/mortal-kombat-2-movie-reviews-rant-producer-todd-garner-2000693958"/>
+        <updated>2026-05-07T15:00:38.000Z</updated>
+        <summary type="html"><![CDATA[The silly sequel has been given a pretty fair hearing from the broad spread of critics]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: Here's How Star Fox On Switch 2 Compares To The N64 Original]]></title>
+        <id>https://www.nintendolife.com/#article-200894</id>
+        <link href="https://www.nintendolife.com/news/2026/05/video-heres-how-star-fox-on-switch-2-compares-to-the-n64-original"/>
+        <updated>2026-05-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Falco[mparison].
+After many whispers and rumours, Nintendo has lifted the lid on Star Fox, a full Switch 2 remake of Lylat Wars from the N64.
+We've all seen how it looks by now, right? It's a surprisingly realistic take on the 1997 original, with redesigned characters to boot. But have you seen them side-by-side yet? Well, thanks to our pals over at GVG, you can now.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brigador Killers mixes GTA and Syndicate to make a cyberpunk sandbox where you build your own insurgency]]></title>
+        <id>https://www.rockpapershotgun.com/brigador-killers-mixes-gta-and-syndicate-to-make-a-cyberpunk-sandbox-where-you-build-your-own-insurgency</id>
+        <link href="https://www.rockpapershotgun.com/brigador-killers-mixes-gta-and-syndicate-to-make-a-cyberpunk-sandbox-where-you-build-your-own-insurgency"/>
+        <updated>2026-05-07T14:55:51.000Z</updated>
+        <summary type="html"><![CDATA[In the original Brigador, you played a mercenary mech pilot dropped onto the corporate autocratic colony world of Novo Solo. In the cockpit of a multi-story death machine, you could carve an easy path through the space colony's buildings and defenders. If they were to put up any fight against you, it was by amassing in great numbers.
+The tables are turned in Brigador Killers; you're part of the hit team seeking revenge for the massacre on Novo Solo. But, instead of being armed with a two-story mech, I had to make do with a tuk-tuk.
+Read more]]></summary>
+        <author>
+            <name>Julian Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Fox Needs Aura And It’s Missing From The New Game]]></title>
+        <id>https://kotaku.com/?p=2000693977</id>
+        <link href="https://kotaku.com/star-fox-64-switch-2-redesigns-artstyle-comparison-2000693977"/>
+        <updated>2026-05-07T14:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo just had a perfect version of Fox McCloud last month and now we have…this]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fan Project To Save LittleBigPlanet Shuts Down As Allegations Of DDoS Attacks And Bigotry Fly]]></title>
+        <id>https://kotaku.com/?p=2000693676</id>
+        <link href="https://kotaku.com/littlebigplanet-3-servers-shut-down-fan-project-lbponline-ddos-attack-2000693676"/>
+        <updated>2026-05-07T14:40:38.000Z</updated>
+        <summary type="html"><![CDATA[If you were waiting to try out LBPOnline, the fan made project for LittleBigPlanet 3 that added private servers to the 12-year-old game, I have some bad news for you]]></summary>
+        <author>
+            <name>Lewis Parker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8254-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8254-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8254-1"/>
+        <updated>2026-05-07T14:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network drivers;
+  - NVME drivers;
+  - Netfilter;
+(CVE-2026-23112, CVE-2026-23231, CVE-2026-23273)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8253-1: Postfix vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8253-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8253-1"/>
+        <updated>2026-05-07T14:31:25.000Z</updated>
+        <summary type="html"><![CDATA[Kamil Frankowicz discovered that Postfix incorrectly handled certain
+enhanced status codes. A remote attacker could possibly use this issue to
+cause Postfix to crash, resulting in a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Download: 7th May (North America)]]></title>
+        <id>https://www.nintendolife.com/#article-200857</id>
+        <link href="https://www.nintendolife.com/news/2026/05/nintendo-download-7th-may-north-america"/>
+        <updated>2026-05-07T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Indiana Jones! Call of the Elder Gods! TetherGeist!
+The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop in your region. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy!
+Switch 2 eShop - Highlights
+Blood: Refreshed Supply – Nintendo Switch 2 Edition (Nightdive Studios, 7th May, $29.99) - Originally developed by Monolith Productions and released in 1997 on MS-DOS PCs, Blood is a legendary first-person shooter dripping with Lovecraftian atmosphere and chunks of crimson viscera. Nightdive Studios released an updated edition called Blood: Fresh Supply on PC in 2019; now, the studio is back with a definitive remaster featuring additional technical enhancements for modern platforms, including up to 4K resolution at unlocked frame rates, local split-screen and online co-op for up to 8 players, a Vault with behind-the-scenes content from the development of Blood, and more
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flattened Image Tree 1.0 Specification For Embedded Linux Systems]]></title>
+        <id>https://www.phoronix.com/news/Flat-Image-Tree-1.0</id>
+        <link href="https://www.phoronix.com/news/Flat-Image-Tree-1.0"/>
+        <updated>2026-05-07T14:26:24.000Z</updated>
+        <summary type="html"><![CDATA[The Flattened Image Tree "FIT" 1.0 specification was recently finalized for this container format used by U-Boot on embedded systems for providing various boot components like DTBs, the Linux kernel image, and more into a single file...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEO Admits Civilization 7 Was A ‘Bridge Too Far’ As It Ditches Its Most Controversial Mechanic In New ‘Fundamentally Game-Changing’ Update Over One Year Later]]></title>
+        <id>https://kotaku.com/?p=2000693964</id>
+        <link href="https://kotaku.com/ceo-admits-civilization-7-was-a-bridge-too-far-as-it-ditches-its-most-controversial-mechanic-in-new-fundamentally-game-changing-update-over-one-year-later-2000693964"/>
+        <updated>2026-05-07T14:24:45.000Z</updated>
+        <summary type="html"><![CDATA[The 4X strategy game is still recovering from a rough launch]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I tried to ‘meet’ my favorite K-pop group LE SSERAFIM in Roblox. It was a hilarious mess in the best way]]></title>
+        <id>https://www.destructoid.com/?p=1214520</id>
+        <link href="https://www.destructoid.com/tried-to-meet-favorite-kpop-le-sserafim-roblox-hilarious/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tried-to-meet-favorite-kpop-le-sserafim-roblox-hilarious"/>
+        <updated>2026-05-07T14:21:53.000Z</updated>
+        <summary type="html"><![CDATA[The concept of a "meet and greet" in a video game is totally beyond me, so when I heard that my favorite K-pop group LE SSERAFIM was hosting one inside of a Roblox game, I just had to see it for myself.
+
+
+LE SSERAFIM is currently promoting their second full album, PUREFLOW Pt. 1, due to release on May 22, and a full-fledged map inside of the Roblox game Berry Avenue was crafted to help spread the word. This isn't the first time Roblox has hosted something like this, but it was my first time experiencing anything like it.
+
+
+Screenshot by Destructoid
+
+
+In the game, players enter a portal to be transported to a recreation of Seoul, Korea, that's fully themed around the popular group and their PUREFLOW album. It's pretty fun to explore, featuring photos of the members along with fireworks and …]]></summary>
+        <author>
+            <name>Scott Duwe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Pitch Black” TCG Set and Product Lineup Officially Revealed!]]></title>
         <id>156790</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpitch-black%E2%80%9D-tcg-set-and-product-lineup-officially-revealed.156790/"/>
-        <updated>2026-05-07T13:38:35.000Z</updated>
+        <updated>2026-05-07T14:13:09.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: Star Fox Old Vs. New Designs Compared - Which Do You Prefer?]]></title>
+        <id>https://www.nintendolife.com/#article-200879</id>
+        <link href="https://www.nintendolife.com/features/talking-point-star-fox-old-vs-new-designs-compared-which-do-you-prefer"/>
+        <updated>2026-05-07T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See every Hare.
+The rumours were true! Star Fox is indeed returning to Nintendo consoles on 25th June in another Star Fox 64 remake.
+In yesterday's surprise Direct, Nintendo billed this one as a "cinematic take" on the N64 on-rails classic, complete with a visual overhaul, fresh multiplayer modes, and, of course, some character redesigns.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8252-1: OpenJPEG vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8252-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8252-1"/>
+        <updated>2026-05-07T13:59:20.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that OpenJPEG did not properly handle memory when
+encoding image files. An attacker could use this issue to cause OpenJPEG to
+crash, resulting in a denial of service, or possibly execute arbitrary
+code.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BioShock 4 ‘Wasted A Lot Of Time And Money’ On Dead Ends, But Take-Two Boss Is ‘Feeling A Lot Better’ About It Now]]></title>
+        <id>https://kotaku.com/?p=2000693957</id>
+        <link href="https://kotaku.com/bioshock-4-wasted-a-lot-of-time-and-money-on-dead-ends-but-take-two-boss-is-feeling-a-lot-better-about-it-now-2000693957"/>
+        <updated>2026-05-07T13:57:21.000Z</updated>
+        <summary type="html"><![CDATA[The next game in the steampunk horror shooter franchise is taking a long time]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8251-1: libpng vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8251-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8251-1"/>
+        <updated>2026-05-07T13:37:49.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that libpng incorrectly handled memory when processing
+certain PNG files. If a user or automated system were tricked into opening
+a specially crafted PNG file, an attacker could use this issue to cause
+libpng to crash, resulting in a denial of service, or possibly execute
+arbitrary code. (CVE-2026-33416)
+
+It was discovered that libpng incorrectly handled expanding 8-bit paletted
+rows to RGB or RGBA on ARM processors. If a user or automated system were
+tricked into opening a specially crafted PNG file, an attacker could use
+this issue to cause libpng to crash, resulting in a denial of service, or
+possibly execute arbitrary code. (CVE-2026-33636)
+
+It was discovered that libpng incorrectly handled certain setter APIs. An
+attacker could possibly use this issue to obtain sensitive information.
+(CVE-2026-34757)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -148,6 +554,18 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-8250-1: Little CMS vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8250-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8250-1"/>
+        <updated>2026-05-07T13:27:43.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Little CMS incorrectly handled certain malformed ICC
+profiles. An attacker could possibly use this issue to cause Little CMS to
+crash, resulting in a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to get Gold in Duck Side of the Moon]]></title>
         <id>https://www.destructoid.com/?p=1212996</id>
         <link href="https://www.destructoid.com/how-to-get-gold-duck-side-of-the-moon/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-get-gold-duck-side-of-the-moon"/>
@@ -214,24 +632,6 @@ After speaking to Walter, he'll give you the first tre…]]></summary>
         <summary type="html"><![CDATA[Beethoven & Dinosaur’s narrative adventure curates a mix of music and mechanics]]></summary>
         <author>
             <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8248-1: NASM vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8248-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8248-1"/>
-        <updated>2026-05-07T13:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Daisy Chen discovered that NASM was vulnerable to a heap buffer overflow
-when handling certain input. An attacker could possibly use this issue
-to cause NASM to crash, resulting in a denial of service, or
-possibly execute arbitrary code. (CVE-2023-31722)
-
-It was discovered that NASM incorrectly handled memory allocation.
-An attacker could possibly use this issue to cause NASM to use
-excessive resources, leading to a denial of service. This issue
-only affected Ubuntu 24.04 LTS. (CVE-2021-33452, CVE-2021-33450)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -382,18 +782,6 @@ Unfortunately, there's no way to guarantee you find a Groundmech while playing D
         <summary type="html"><![CDATA[Ačkoli je papež Lev XIV. hlavou katolické církve a stojí v čele více než miliardy věřících po celém světě, také on někdy řeší všední potíže. A kdo v životě neměl problémy se zákaznickou linkou? Krátce poté, co nastoupil do úřadu, musel papež se svou bankou řešit změnu údajů. Operátorka ale nechtěla uvěřit, s kým mluví, a Svatému otci zavěsila.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8247-1: OWSLib vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8247-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8247-1"/>
-        <updated>2026-05-07T11:44:25.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that OWSLib did not properly disable entity resolution
-within its XML parser. An attacker could possibly use this issue to read
-arbitrary files via a crafted XML payload.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -607,35 +995,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8245-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8245-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8245-1"/>
-        <updated>2026-05-07T09:47:31.000Z</updated>
-        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
-Rizzo discovered that some AMD Zen processors did not properly verify the
-signature of CPU microcode. This flaw is known as EntrySign. A privileged
-attacker could possibly use this issue to cause load malicious CPU
-microcode causing loss of integrity and confidentiality. (CVE-2024-36347)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - MIPS architecture;
-  - PowerPC architecture;
-  - User-Mode Linux (UML);
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI drivers;
-  - Ublk userspace block driver;
-  - Bluetooth drivers;
-  - Character device driver;
-  - T…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another 'Nintendo Switch 2 Edition' Is Punching Our Way This July]]></title>
         <id>https://www.nintendolife.com/#article-200878</id>
         <link href="https://www.nintendolife.com/news/2026/05/another-nintendo-switch-2-edition-is-punching-our-way-this-july"/>
@@ -680,22 +1039,6 @@ RELEAS…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8244-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8244-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8244-1"/>
-        <updated>2026-05-07T09:18:26.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network drivers;
-  - NVME drivers;
-  - Netfilter;
-(CVE-2026-23112, CVE-2026-23231, CVE-2026-23273)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Civilization 7 devs Firaxis finally slap a release date on the Test of Time update, acting on "over a year's worth of listening" to moans about the Age system]]></title>
         <id>https://www.rockpapershotgun.com/civilization-7-devs-firaxis-finally-slap-a-release-date-on-the-test-of-time-update-acting-on-over-a-years-worth-of-listening-to-moans-about-the-age-system</id>
         <link href="https://www.rockpapershotgun.com/civilization-7-devs-firaxis-finally-slap-a-release-date-on-the-test-of-time-update-acting-on-over-a-years-worth-of-listening-to-moans-about-the-age-system"/>
@@ -720,36 +1063,25 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8243-1: Linux kernel (Azure) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8243-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8243-1"/>
-        <updated>2026-05-07T08:44:20.000Z</updated>
-        <summary type="html"><![CDATA[Qualys discovered that several vulnerabilities existed in the AppArmor
-Linux kernel Security Module (LSM). An unprivileged local attacker could
-use these issues to load, replace, and remove arbitrary AppArmor profiles
-causing denial of service, exposure of sensitive information (kernel
-memory), local privilege escalation, or possibly escape a container.
-(LP: #2143853, CVE-2026-23268, CVE-2026-23269, CVE-2026-23403,
-CVE-2026-23404, CVE-2026-23405, CVE-2026-23406, CVE-2026-23407,
-CVE-2026-23408, CVE-2026-23409, CVE-2026-23410, CVE-2026-23411)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - Nios II architecture;
-  - PowerPC architectu…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TPCi’s TCG Vending Machines Grow 27% in Second-Biggest Year, But 1 in 7 from Last Summer Are Gone]]></title>
         <id>156795</id>
         <link href="https://www.pokebeach.com/forums/threads/tpci%E2%80%99s-tcg-vending-machines-grow-27-in-second-biggest-year-but-1-in-7-from-last-summer-are-gone.156795/"/>
         <updated>2026-05-07T08:08:12.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guide: Where To Pre-Order Star Fox For Nintendo Switch 2]]></title>
+        <id>https://www.nintendolife.com/#article-200890</id>
+        <link href="https://www.nintendolife.com/guides/where-to-pre-order-star-fox-for-nintendo-switch-2"/>
+        <updated>2026-05-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arwinging it.
+Following rumours of a return, the Star Fox team is returning soon to a Switch 2 near you in a game with an unguessable title.
+Star Fox is a remake of Star Fox 64, the most celebrated entry in the on-rail shooter series, bringing modern visuals and new features to a faithful-looking remake that has Fox, Peppy, Slippy, and Falco looking more realistic than ever before while sticking closely to the gameplay that made the original game such a hit in the '90s.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -857,36 +1189,6 @@ The post Sailor Piece Trello, Wiki and Discord appeared first on Destructoid.]]>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8179-4: Linux kernel (GCP) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8179-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-8179-4"/>
-        <updated>2026-05-07T07:34:08.000Z</updated>
-        <summary type="html"><![CDATA[Josh Eads, Kristoffer Janke, Eduardo Vela Nava, Tavis Ormandy, and Matteo
-Rizzo discovered that some AMD Zen processors did not properly verify the
-signature of CPU microcode. This flaw is known as EntrySign. A privileged
-attacker could possibly use this issue to cause load malicious CPU
-microcode causing loss of integrity and confidentiality.
-(CVE-2024-36347)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - MIPS architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI drivers;
-  - Network block device driver;
-  - Bluetooth drivers;
-  - Character device driver;
-  - TPM device driver;
-  - Clock…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Valve uvolňuje výkresy ovladače Steam Controller a nabíjecího puku]]></title>
         <id>www.root.cz-actuality-52002</id>
         <link href="https://www.root.cz/zpravicky/valve-uvolnuje-vykresy-ovladace-steam-controller-a-nabijeciho-puku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -946,18 +1248,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8235-1: ITK vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8235-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8235-1"/>
-        <updated>2026-05-07T03:27:01.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Expat, vendored in ITK incorrectly handled certain
-files. An attacker could possibly use this issue to cause a crash or
-execute arbitrary code. (CVE-2022-25235, CVE-2022-25236)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Incus, LXC a LXCFS 7.0 LTS]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/incus-lxc-a-lxcfs-7.0-lts</id>
         <link href="http://www.abclinuxu.cz/zpravicky/incus-lxc-a-lxcfs-7.0-lts"/>
@@ -981,18 +1271,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8241-1: Coin3D vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8241-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8241-1"/>
-        <updated>2026-05-07T03:02:58.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Expat, vendored in Coin3D incorrectly handled
-certain files. An attacker could possibly use this issue to cause a crash
-or execute arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Chrome 148]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/google-chrome-148</id>
         <link href="http://www.abclinuxu.cz/zpravicky/google-chrome-148"/>
@@ -1000,18 +1278,6 @@ or execute arbitrary code.]]></summary>
         <summary type="html"><![CDATA[Google Chrome 148 byl prohlášen za stabilní. Nejnovější stabilní verze 148.0.7778.96 přináší řadu novinek z hlediska uživatelů i vývojářů. Vypíchnout lze Prompt API (demo) pro přímý přístup k AI v zařízení. Podrobný přehled v poznámkách k vydání. Opraveno bylo 127 bezpečnostních chyb. Vylepšeny byly také nástroje pro vývojáře.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8240-1: Swish-e vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8240-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8240-1"/>
-        <updated>2026-05-07T02:57:19.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Expat, vendored in Swish-e incorrectly handled
-certain files. An attacker could possibly use this issue to cause a crash
-or execute arbitrary code. (CVE-2022-25235, CVE-2022-25236)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1306,30 +1572,6 @@ But the excitement quickly changed to bewilderment once the gamep…]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8239-1: Apache HTTP Server vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8239-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8239-1"/>
-        <updated>2026-05-06T19:55:12.000Z</updated>
-        <summary type="html"><![CDATA[Bartlomiej Dmitruk and Stanislaw Strzalkowski discovered that Apache
-HTTP Server incorrectly handled certain memory operations when using the
-HTTP/2 protocol. A remote attacker could use this issue to cause Apache
-HTTP Server to crash, resulting in a denial of service, or possibly execute
-arbitrary code. This issue only affected Ubuntu 26.04 LTS.
-(CVE-2026-23918)
-
-It was discovered that the Apache HTTP Server mod_rewrite module
-incorrectly handled certain privileges. A local attacker could possibly use
-this issue to obtain sensitive information. (CVE-2026-24072)
-
-Andrew Lacambra, Elhanan Haenel, Tianshuo Han, and Tristan Madani
-discovered that the Apache HTTP Server mod_proxy_ajp module incorrectly
-handled certain AJP server messages. An attacker in control of a backend
-AJP server could us…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PCIe 8.0 Spec Draft 0.5 Released For 1TB/s Bi-Directional x16 Bandwidth]]></title>
         <id>https://www.phoronix.com/news/PCIe-8.0-Draft-0.5</id>
         <link href="https://www.phoronix.com/news/PCIe-8.0-Draft-0.5"/>
@@ -1491,16 +1733,6 @@ But now, Ubisoft wants to bring Assassin's Creed to the stage. Heredis: Echoes o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GameStop Wants To Sell You Random Pokémon Cards For $5,000 A Pop]]></title>
-        <id>https://kotaku.com/?p=2000693622</id>
-        <link href="https://kotaku.com/gamestop-random-rare-pokemon-cards-5000-2000693622"/>
-        <updated>2026-05-06T18:30:25.000Z</updated>
-        <summary type="html"><![CDATA[You, too, can help fund that eBay acquisition]]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Switch 2 price hike could be imminent as Nintendo may follow Sony’s lead to sate shareholders]]></title>
         <id>https://www.destructoid.com/?p=1214182</id>
         <link href="https://www.destructoid.com/switch-2-price-hike-could-be-imminent-nintendo-follow-sony-shareholders/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=switch-2-price-hike-could-be-imminent-nintendo-follow-sony-shareholders"/>
@@ -1517,16 +1749,6 @@ Image via Nintendo
 "Nintendo investors are concerned that the $450 Switch 2 is deeply unprofitable," Bloomberg's Takashi Mochizuki and Alice French said. "US tech giants are buying up the world’s supply of key components like memory, while trade disruptions from the Middle East war are affect…]]></summary>
         <author>
             <name>Scott Duwe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mina The Hollower Has A New Release Date And An Aggressively Low Price]]></title>
-        <id>https://kotaku.com/?p=2000693637</id>
-        <link href="https://kotaku.com/mina-the-hollower-has-a-new-release-date-and-an-aggressively-low-price-2000693637"/>
-        <updated>2026-05-06T18:12:03.000Z</updated>
-        <summary type="html"><![CDATA[The Shovel Knight team's latest game is out in May]]></summary>
-        <author>
-            <name>Ethan Gach</name>
         </author>
     </entry>
     <entry>
@@ -1598,16 +1820,6 @@ PlayStyle: M…]]></summary>
         <summary type="html"><![CDATA[Sent out today was a batch of "new stuff" for the AMDGPU graphics and AMDKFD compute kernel drivers that are ready for DRM-Next to queue until the Linux 7.2 merge window happens in June. Most notable is the introduction of the AMDGPU DC power module to better align with the Radeon power management behavior under Microsoft Windows...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA Sets A New $8 Billion Sales Record Just Months After Laying Off Battlefield 6 Developers]]></title>
-        <id>https://kotaku.com/?p=2000693589</id>
-        <link href="https://kotaku.com/ea-sets-a-new-8-billion-sales-record-just-months-after-laying-off-battlefield-6-developers-2000693589"/>
-        <updated>2026-05-06T17:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Also: Remedy made Control 2 for surprisingly cheap and we could get DLC for part three of Final Fantasy 7 Remake]]></summary>
-        <author>
-            <name>Ethan Gach</name>
         </author>
     </entry>
     <entry>
@@ -1904,16 +2116,6 @@ The DLC, now called Blacklisted, was very obviously meant to be something straig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ironmouse Cancels Neverness To Everness Sponsorship After Devs Allegedly Lied To Her About ‘Blatant’ GenAI Use]]></title>
-        <id>https://kotaku.com/?p=2000693603</id>
-        <link href="https://kotaku.com/ironmouse-neverness-to-everness-ai-gacha-game-sponsorship-2000693603"/>
-        <updated>2026-05-06T16:25:26.000Z</updated>
-        <summary type="html"><![CDATA[The team behind the newly released open-world gacha game apparently promised the VTuber that the AI slop would be removed before launch]]></summary>
-        <author>
-            <name>Lewis Parker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Make actual songs with singing garden gnomes in Offbeat, a jobbing composer sim that doubles as an audio production tool]]></title>
         <id>https://www.rockpapershotgun.com/make-actual-songs-with-singing-garden-gnomes-in-offbeat-a-jobbing-composer-sim-that-doubles-as-an-audio-production-tool</id>
         <link href="https://www.rockpapershotgun.com/make-actual-songs-with-singing-garden-gnomes-in-offbeat-a-jobbing-composer-sim-that-doubles-as-an-audio-production-tool"/>
@@ -1922,16 +2124,6 @@ The DLC, now called Blacklisted, was very obviously meant to be something straig
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Pricing Is On Trial Again, As Sony Fights For 30-Percent Fees]]></title>
-        <id>https://kotaku.com/?p=2000693593</id>
-        <link href="https://kotaku.com/sony-playstation-prices-you-owe-us-lawsuit-ruling-fees-2000693593"/>
-        <updated>2026-05-06T16:06:59.000Z</updated>
-        <summary type="html"><![CDATA[The 'PlayStation You Owe Us' class action lawsuit sums up this week]]></summary>
-        <author>
-            <name>John Walker</name>
         </author>
     </entry>
     <entry>
@@ -1992,16 +2184,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[It’s Been 365 Days Since We Last Saw GTA 6]]></title>
-        <id>https://kotaku.com/?p=2000693607</id>
-        <link href="https://kotaku.com/grand-theft-auto-6-gta6-new-trailer-rockstar-jason-lucia-2000693607"/>
-        <updated>2026-05-06T15:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Rockstar’s next open-world blockbuster was once supposed to be out in a few weeks]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[EVE Online will be used to help train Google DeepMind's AI tech, as company take a minority stake in the former CCP Games]]></title>
         <id>https://www.rockpapershotgun.com/eve-online-will-be-used-to-help-train-google-deepminds-ai-tech-as-company-take-a-minority-stake-in-the-former-ccp-games</id>
         <link href="https://www.rockpapershotgun.com/eve-online-will-be-used-to-help-train-google-deepminds-ai-tech-as-company-take-a-minority-stake-in-the-former-ccp-games"/>
@@ -2032,16 +2214,6 @@ Screenshot by Destructoid
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Diablo 4′s Secret Cow Level Has Finally Been Found, So Now Obviously Players Are Trying To Summon The Cow God]]></title>
-        <id>https://kotaku.com/?p=2000693580</id>
-        <link href="https://kotaku.com/diablo-4-secret-cow-level-cow-god-2000693580"/>
-        <updated>2026-05-06T15:24:35.000Z</updated>
-        <summary type="html"><![CDATA[Milking this for all it's worth]]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dell a Lenovo sponzorují službu Linux Vendor Firmware Service (LVFS)]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/dell-a-lenovo-sponzoruji-sluzbu-linux-vendor-firmware-service-lvfs</id>
         <link href="http://www.abclinuxu.cz/zpravicky/dell-a-lenovo-sponzoruji-sluzbu-linux-vendor-firmware-service-lvfs"/>
@@ -2049,16 +2221,6 @@ Screenshot by Destructoid
         <summary type="html"><![CDATA[Richard Hughes oznámil, že po společnostech Red Hat a Framework a organizacích OSFF a Linux Foundation, službu Linux Vendor Firmware Service (LVFS) umožňující aktualizovat firmware zařízení na počítačích s Linuxem, nově sponzorují také společnosti Dell a Lenovo. Do dnešního dne bylo díky LVFS provedeno více než 145 milionů aktualizací firmwarů od více než 100 různých výrobců na milionech linuxových zařízení.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Of The Best Cosplay From Lvl Up Expo 2026]]></title>
-        <id>https://kotaku.com/?p=2000693554</id>
-        <link href="https://kotaku.com/lvl-up-expo-cosplay-clair-obscur-dispatch-marvel-overwatch-fallout-2000693554"/>
-        <updated>2026-05-06T14:26:15.000Z</updated>
-        <summary type="html"><![CDATA[With fantastic cosplay from Clair Obscur, Dispatch and The Amazing Digital Circus]]></summary>
-        <author>
-            <name>John Walker</name>
         </author>
     </entry>
     <entry>
@@ -2153,27 +2315,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to pick up what your critter finds in Disney Dreamlight Valley]]></title>
-        <id>https://www.destructoid.com/?p=1213340</id>
-        <link href="https://www.destructoid.com/how-to-pick-up-what-your-critter-finds-in-disney-dreamlight-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=how-to-pick-up-what-your-critter-finds-in-disney-dreamlight-valley"/>
-        <updated>2026-05-06T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[There are many small, adorable creatures you can find and befriend while exploring in Disney Dreamlight Valley. These Companions are not only cute allies, but they're also quite helpful, and calling upon them for assistance is sometimes crucial, as is the case with the pick up what your critter finds duty. 
-
-
-Critters can't find items for you right away, so you may be struggling to determine what you need to do to get them to help you out with this quest. Luckily, it's not too tricky once you figure out how to gain their trust, so here's how to pick up what your critter finds in Disney Dreamlight Valley.
-
-
-Table of contents
-Pick up what your critter finds in Disney Dreamlight Valley
-What can critters find in Disney Dreamlight Valley?
-
-
-Pick up what your critter finds in Disney Dreamlight V…]]></summary>
-        <author>
-            <name>Kacee Fay</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Poll: How Do You Pronounce These Pokémon?]]></title>
         <id>https://www.nintendolife.com/#article-200582</id>
         <link href="https://www.nintendolife.com/features/poll-how-do-you-pronounce-these-pokemon"/>
@@ -2214,76 +2355,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Společnost Valve zveřejnila (GitLab) nákresy ovladače Steam Controller a puku. Pro všechny, kdo by jej chtěli hacknout nebo modifikovat, případně pro ně navrhnout nějaké příslušenství. Pod licencí Creative Commons (CC BY-NC-SA 4.0).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jujutsu Tower Defense Trello and Discord Links]]></title>
-        <id>https://www.destructoid.com/?p=1213758</id>
-        <link href="https://www.destructoid.com/jujutsu-tower-defense-trello-and-discord/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=jujutsu-tower-defense-trello-and-discord"/>
-        <updated>2026-05-06T12:10:06.000Z</updated>
-        <summary type="html"><![CDATA[We have a ton of Jujutsu Kaizen RPGs on Roblox but not a lot of good Tower Defense games. It's true that a lot of TDs have Kaizen characters but JTD is setting up to be one of the first big JJK-only TD games. Here are the Jujutsu Tower Defense Trello, Wiki and Discord for all the details you need to play and enjoy the game.
-
-
-Jujutsu Tower Defense Trello, Wiki and Discord Links
-
-
-Image via JTD
-
-
-Here's a bunch of useful links to stay informed on and play JTD:
-
-
-
-Jujutsu Tower Defense Trello Board (Not Confirmed Yet)
-
-
-Jujutsu Tower Defense Discord
-
-
-Jujutsu Tower Defense Game Page
-
-
-Jujutsu Tower Defense Roblox Group
-
-
-
-I am keeping track of what's going on in the Discord and so far the Jujutsu Defense devs haven't announced a Trello article. As soon as they do I will update this article with the Trello link. That said, it's easy speculation that the Trello will have info on:
-
-
-
-All basic mechanics
-
-
-All Units, upgrades, passives and abilities
-
-
-All Evolutions
-
-
-All Stages
-
-
-All Modes
-
-
-All Items
-
-
-All Traits
-
-
-GamePass Info
-
-
-
-In addition to the Trello board, be sure to check out the official Discord server above. It's the best place to get news on the game as well as any announcements, update logs and sneak peeks that may come in the future. Like with any Roblox TD game it's important to track buffs and nerfs to units as well as any changes so that you can build the best team. Plus, the Discord is where all the codes and giveaways for free rewards are announced as well as unit tier lists rankings. 
-
-
-That's it for my walkthrough for the Jujutsu Tower Defense Trello board and Discord server links. Check out our Jujutsu Tower Defense codes for a bunch of free goodies to speed up progression.
-
-The post Jujutsu Tower Defense Trello and Discord Links appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Gordan Perisic</name>
         </author>
     </entry>
     <entry>
@@ -2387,19 +2458,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shigeru Miyamoto Doesn't Rule Out Wario Appearing In A Future Mario Movie]]></title>
-        <id>https://www.nintendolife.com/#article-200815</id>
-        <link href="https://www.nintendolife.com/news/2026/05/shigeru-miyamoto-doesnt-rule-out-wario-appearing-in-a-future-mario-movie"/>
-        <updated>2026-05-06T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA["Wa-hahaha!".
-Before The Super Mario Galaxy Movie released, there were rumblings that Wario might actually make an appearance as a secondary antagonist. Alas, this turned out to be entirely false, but in a new interview with Shigeru Miyamoto and Chris Meledandri over at Crank In, Miyamoto notes that a future appearance from Wario is very much a possibility.
-When asked how the production team went about creating a film for children, Miyamoto said that he doesn't want to make kids laugh with what he calls "dirty jokes" (and presumably he means the more flatulent kind rather than the raunchy kind). Although he's banned Meledandri from including such jokes, this doesn't necessarily mean that Wario can't make an appearance.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[11 years after vanishing from Steam, sneaky WW2 strategy gem R.U.S.E. gets a surprise Definitive Edition with Deck support and all the DLC]]></title>
         <id>https://www.rockpapershotgun.com/11-years-after-vanishing-from-steam-sneaky-ww2-strategy-gem-ruse-gets-a-surprise-definitive-edition-with-deck-support-and-all-the-dlc</id>
         <link href="https://www.rockpapershotgun.com/11-years-after-vanishing-from-steam-sneaky-ww2-strategy-gem-ruse-gets-a-surprise-definitive-edition-with-deck-support-and-all-the-dlc"/>
@@ -2444,19 +2502,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Under Night In-Birth II Sys:Celes Announces Major Game Update, Releasing Alongside New DLC Fighter]]></title>
-        <id>https://www.nintendolife.com/#article-200803</id>
-        <link href="https://www.nintendolife.com/news/2026/05/under-night-in-birth-ii-sysceles-announces-major-game-update-releasing-alongside-new-dlc-fighter"/>
-        <updated>2026-05-06T05:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Available "Summer 2026".
-Arc System Works and developer French Bread have announced a new fighter will join the roster of Under Night In-Birth II Sys:Celes, alongside a "major update".
-Zohar will be arriving as a new DLC character in Summer 2026. Here's a description from the official PR, along with a look:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Aperiodic Table]]></title>
         <id>https://xkcd.com/3242/</id>
         <link href="https://xkcd.com/3242/"/>
@@ -2473,32 +2518,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Na čem pracují vývojáři webového prohlížeče Ladybird (GitHub)? Byl publikován přehled vývoje za duben (YouTube). Na Linuxu je vedle Qt frontendu nově k dispozici také GTK4 / libadwaita frontend.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alien: Rogue Incursion - Part I: Evolved Edition Is Getting A Switch 2 Physical Release]]></title>
-        <id>https://www.nintendolife.com/#article-200802</id>
-        <link href="https://www.nintendolife.com/news/2026/05/alien-rogue-incursion-part-i-evolved-edition-is-getting-a-switch-2-physical-release"/>
-        <updated>2026-05-06T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Limited Run opens pre-orders this week.
-Following the surprise release of Alien: Rogue Incursion - Part I: Evolved Edition on the Switch 2 last month, Limited Run Games has now announced a physical edition of the title.
-This includes a standard edition of the title for $49.99 and a steelbook edition for $69.99 (or your regional equivalent), and pre-orders kick off later this week on 8th May 2026. The standard edition will ship between October and November 2026, and the steelbook edition is scheduled to arrive between January and March 2027.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THQ Nordic Announces Open-World APRG 'Gothic III Classic' For Switch 2]]></title>
-        <id>https://www.nintendolife.com/#article-200801</id>
-        <link href="https://www.nintendolife.com/news/2026/05/thq-nordic-announces-open-world-aprg-gothic-iii-classic-for-switch-2"/>
-        <updated>2026-05-06T01:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Arriving this November.
-THQ Nordic has been reviving Piranha Bytes' fantasy series Gothic, and next up, is the release of Gothic III Classic.
-This open-world action RPG, first released in 2006, will be coming to the Switch 2 on 24th November 2026 and is priced at 29.99€ (or your regional equivalent). Here's a bit about the game, along with a look:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2892,26 +2911,6 @@ Read more]]></summary>
         <updated>2026-05-04T20:38:09.000Z</updated>
         <author>
             <name>WizardyBacon123</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Looking To Create New Tool For Generating AutoFDO Profiles For GCC]]></title>
-        <id>https://www.phoronix.com/news/NVIDIA-AutoFDO-Tool-For-GCC</id>
-        <link href="https://www.phoronix.com/news/NVIDIA-AutoFDO-Tool-For-GCC"/>
-        <updated>2026-05-04T20:29:29.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA compiler engineers are looking to develop a standalone tool that could be upstreamed into the GNU Compiler Collection (GCC) codebase for generating AutoFDO profiles for consumption by GCC in turn for better benefiting from automatic feedback directed optimizations (FDO) in the name of better performance...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROCm 7.2.3 Brings Minor Updates, ROCm XIO Documentation]]></title>
-        <id>https://www.phoronix.com/news/AMD-ROCm-7.2.3</id>
-        <link href="https://www.phoronix.com/news/AMD-ROCm-7.2.3"/>
-        <updated>2026-05-04T19:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Less than one month after releasing ROCm 7.2.2, the ROCm 7.2.3 is now available with some minor improvements to this open-source AMD GPU compute and AI stack...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -4488,18 +4487,6 @@ Android Studio Otter 3 freezing]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tie yourself up in wriggling loveknots in this graceful and silly merpeople sex game]]></title>
-        <id>https://www.rockpapershotgun.com/tie-yourself-up-in-wriggling-loveknots-in-this-graceful-and-silly-merpeople-sex-game</id>
-        <link href="https://www.rockpapershotgun.com/tie-yourself-up-in-wriggling-loveknots-in-this-graceful-and-silly-merpeople-sex-game"/>
-        <updated>2026-04-24T15:12:03.000Z</updated>
-        <summary type="html"><![CDATA[coalescent || tidal rapture (yes, that's the official Steam page typography) is a game about evolution and heartbreak and glorious, glorious wormsex. It's the story of a society of merpeople who've just discovered the practice of casual relationships, and are enthusiastically embracing what I'd guess you'd class as a very squelchy form of Shibari.
-The recently dumped protagonist is on "a journey of self-discovery and self-denial as they experiment with intimacy, experience physical bodily changes, and try to decide whether or not they want to move to the surface". What kind of body physics are we talking, here? Well, let me try to, er, unravel the intricacies.
- Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spanish Film Archivist Faces Prison and €870,000 Fine Over ‘Non-Commercial’ Movie Site]]></title>
         <id>https://torrentfreak.com/?p=277994</id>
         <link href="https://torrentfreak.com/spanish-film-archivist-faces-prison-and-e870000-fine-over-non-commercial-movie-site/"/>
@@ -4508,17 +4495,6 @@ The recently dumped protagonist is on "a journey of self-discovery and self-deni
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft will reportedly invite 7% of their US workers to retire early, as the Xbox division talk up "strong cost discipline"]]></title>
-        <id>https://www.rockpapershotgun.com/microsoft-will-reportedly-invite-7-of-their-us-workers-to-retire-early-as-the-xbox-division-talk-up-strong-cost-discipline</id>
-        <link href="https://www.rockpapershotgun.com/microsoft-will-reportedly-invite-7-of-their-us-workers-to-retire-early-as-the-xbox-division-talk-up-strong-cost-discipline"/>
-        <updated>2026-04-24T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft are reportedly offering early voluntary retirement to around 7% of their US-based employees in yet another effort to 'right-size' their trillion dollar business.
- Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
         </author>
     </entry>
     <entry>
