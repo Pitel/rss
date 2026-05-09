@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-09T09:12:42.401Z</id>
+    <id>urn:2026-05-09T10:51:47.998Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-05-09T09:12:42.401Z</updated>
+    <updated>2026-05-09T10:51:47.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Touch 24.04-1.3 Improves Handling Of Desktop Apps, Other Fixes]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-Touch-24.04-1.3</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-Touch-24.04-1.3"/>
+        <updated>2026-05-09T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu Touch 24.04-1.3 is out this week as the latest maintenance release for this tablet/smartphone-focused Ubuntu distribution...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA-VAAPI-Driver 0.0.17 Fixes Support For GB10 Powered Systems]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-VAAPI-Driver-0.0.17</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-VAAPI-Driver-0.0.17"/>
+        <updated>2026-05-09T10:19:14.000Z</updated>
+        <summary type="html"><![CDATA[The open-source, community-developed NVIDIA-VAAPI-Driver that provides a Video Acceleration API (VA-API) implementation built atop NVIDIA's NVDEC video decode interface is out with a new release. This is the open-source project that's motivated by getting accelerated video decoding to work within Mozilla Firefox and other apps when running with NVIDIA's packaged Linux driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Enables Auto Counter Reload "ACR" For Intel Xeon Diamond Rapids]]></title>
+        <id>https://www.phoronix.com/news/Intel-DMR-ACR-Linux-Enable</id>
+        <link href="https://www.phoronix.com/news/Intel-DMR-ACR-Linux-Enable"/>
+        <updated>2026-05-09T10:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Merged as part of the perf subsystem fixes overnight is enabling Auto Counter Reload (ACR) functionality for upcoming Intel Xeon Diamond Rapids processors. This ACR enabling for Diamond Rapids "DMR" is happening in time for Linux 7.1-rc3 on Sunday while the work is also marked for back-porting to existing stable kernels...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (9th May)]]></title>
         <id>https://www.nintendolife.com/#article-200961</id>
@@ -2928,16 +2958,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Expands ROCm Support On Windows WSL To More Ryzen Hardware]]></title>
-        <id>https://www.phoronix.com/news/librocdxg-1.2-More-Ryzen-ROCm</id>
-        <link href="https://www.phoronix.com/news/librocdxg-1.2-More-Ryzen-ROCm"/>
-        <updated>2026-05-06T11:43:33.000Z</updated>
-        <summary type="html"><![CDATA[Back in March AMD announced the open-source ROCDXG library for improved ROCm support on WSL (Windows Subsystem for Linux). The ROCDXG-based solution provides better ROCm compatibility within these Linux confines atop Windows 11 compared to their prior, now-legacy-based WSL support. A new ROCDXG release now available further expands the ROCm WSL2 support to more Ryzen hardware...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xbox boss bumps some of her Microsoft CoreAI buddies up into leadership jobs, but hey, at least they're stopping some of their Copilot gubbins]]></title>
         <id>https://www.rockpapershotgun.com/xbox-boss-bumps-some-of-her-microsoft-coreai-buddies-up-into-leadership-jobs-but-hey-at-least-theyre-stopping-some-of-their-copilot-gubbins</id>
         <link href="https://www.rockpapershotgun.com/xbox-boss-bumps-some-of-her-microsoft-coreai-buddies-up-into-leadership-jobs-but-hey-at-least-theyre-stopping-some-of-their-copilot-gubbins"/>
@@ -2946,26 +2966,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Geode CPU Support Being Orphaned By Linux]]></title>
-        <id>https://www.phoronix.com/news/AMD-Geode-Orphaned-By-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-Geode-Orphaned-By-Linux"/>
-        <updated>2026-05-06T10:35:33.000Z</updated>
-        <summary type="html"><![CDATA[For those with fond memories of the AMD Geode x86 embedded processors, the Linux kernel is set to orphan these since discontinued and obsolete CPUs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Kernel Graphics Driver Brings Panel Replay Tunneling For Linux 7.2]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.2-Panel-Replay-Tunnel</id>
-        <link href="https://www.phoronix.com/news/Linux-7.2-Panel-Replay-Tunnel"/>
-        <updated>2026-05-06T10:22:09.000Z</updated>
-        <summary type="html"><![CDATA[Now that the Linux v7.1 merge window is well past, Intel kernel graphics driver engineers are busy prepping new feature code for introduction for targeting the Linux 7.2 kernel this summer...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
