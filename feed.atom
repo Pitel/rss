@@ -1,17 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-29T21:48:42.874Z</id>
+    <id>urn:2026-05-29T23:07:18.639Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-05-29T21:48:42.874Z</updated>
+    <updated>2026-05-29T23:07:18.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All FC 26 1 of 10 Historical Player Pick SBC rewards]]></title>
+        <id>https://www.destructoid.com/?p=1223044</id>
+        <link href="https://www.destructoid.com/all-fc-26-historical-player-pick-sbc-rewards/"/>
+        <updated>2026-05-29T23:03:10.000Z</updated>
+        <summary type="html"><![CDATA[From the archives
+The post All FC 26 1 of 10 Historical Player Pick SBC rewards appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 video game release date calendar]]></title>
+        <id>https://www.destructoid.com/?p=1153360</id>
+        <link href="https://www.destructoid.com/2026-video-game-release-date-calendar/"/>
+        <updated>2026-05-29T22:54:55.000Z</updated>
+        <summary type="html"><![CDATA[GTA 6 is just one of several massive titles this year.
+The post 2026 video game release date calendar appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Scott Duwe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TPCi Has Banned Sales of Graded Slabs and Japanese Pokemon Center Products at Events]]></title>
         <id>156846</id>
         <link href="https://www.pokebeach.com/forums/threads/tpci-has-banned-sales-of-graded-slabs-and-japanese-pokemon-center-products-at-events.156846/"/>
-        <updated>2026-05-29T21:46:13.000Z</updated>
+        <updated>2026-05-29T22:54:17.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 11.10 Released With VKD3D 2.0, Improved VBScript Compatibility]]></title>
+        <id>https://www.phoronix.com/news/Wine-11.10-Released</id>
+        <link href="https://www.phoronix.com/news/Wine-11.10-Released"/>
+        <updated>2026-05-29T22:14:57.000Z</updated>
+        <summary type="html"><![CDATA[Wine 11.10 marks the latest bi-weekly development release of Wine for running Windows games and applications on Linux, macOS, and other platforms...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Událo se v týdnu 22/2026]]></title>
+        <id>http://www.abclinuxu.cznull/</id>
+        <link href="http://www.abclinuxu.cznull/"/>
+        <updated>2026-05-29T22:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Ucelený přehled článků, zpráviček a diskusí za minulých 7 dní.]]></summary>
+        <author>
+            <name>Redakce</name>
         </author>
     </entry>
     <entry>
@@ -123,6 +165,40 @@ The post Path of Exile 2 Spirit Walker skill tree and passives appeared first on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-8344-2: pip regression]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8344-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8344-2"/>
+        <updated>2026-05-29T19:53:25.000Z</updated>
+        <summary type="html"><![CDATA[USN-8344-1 fixed vulnerabilities in pip. On Ubuntu 22.04 LTS, Ubuntu 24.04 LTS,
+and Ubuntu 26.04 LTS the patches for CVE-2025-66471 caused a regression when
+using pip. The patches for CVE-2025-66471 have been temporarily reverted
+pending investigation.
+
+We apologize for the inconvenience.
+
+Original advisory details:
+
+ It was discovered that pip incorrectly handled TLS certificate
+ verification in session connections. If a session was first used with
+ certificate verification disabled, subsequent requests to the same host
+ would also skip verification regardless of the session's current settings.
+ A remote attacker could possibly use this issue to perform a machine-in-the-middle
+ attack and expose sensitive information. (CVE-2024-35195)
+
+ It was discovered that pip's bundled urllib3 library did not limit the
+ number of decompression steps when processing HTTP responses. A remote
+ attacker could possibly use this issue to cause pip to consume excessive resources,
+ leading to a denial of service. (CVE-2025-66418)
+
+ It was discovered that pip's bundled urllib3 library improperly
+ handled streaming decompression of highly compressed data. A remote
+ attacker could possibly use this issue to cause pip to consume excessive resources,
+ leading to a denial of service. (CVE-2025-66471)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[“Fantastical Parade” Announced for “Pocket,” Introduces Stadium Cards to the Game!]]></title>
         <id>156640</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cfantastical-parade%E2%80%9D-announced-for-%E2%80%9Cpocket-%E2%80%9D-introduces-stadium-cards-to-the-game.156640/"/>
@@ -150,17 +226,6 @@ The post Path of Exile 2 Spirit Walker skill tree and passives appeared first on
 The post 007 First Light is an emotional rollercoaster—and hopefully the prologue of a fantastic trilogy appeared first on Destructoid.]]></summary>
         <author>
             <name>Andrej Barovic</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All FC 26 Historical Player Pick SBC rewards]]></title>
-        <id>https://www.destructoid.com/?p=1223044</id>
-        <link href="https://www.destructoid.com/all-fc-26-historical-player-pick-sbc-rewards/"/>
-        <updated>2026-05-29T18:57:11.000Z</updated>
-        <summary type="html"><![CDATA[From the archives
-The post All FC 26 Historical Player Pick SBC rewards appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
         </author>
     </entry>
     <entry>
@@ -1384,57 +1449,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8339-1: OpenJDK 25 vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8339-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8339-1"/>
-        <updated>2026-05-28T15:51:39.000Z</updated>
-        <summary type="html"><![CDATA[Thomas Beckers discovered that the JAXP component of OpenJDK 25 did not
-correctly authenticate certain APIs. A remote unauthenticated attacker
-could possibly use this issue to gain unauthorized access to sensitive
-information. (CVE-2026-22016)
-
-It was discovered that the Networking component of OpenJDK 25 did not
-correctly authenticate certain APIs. A remote unauthenticated attacker
-could possibly use this issue to cause a denial of service.
-(CVE-2026-34282)
-
-It was discovered that the JSSE component of OpenJDK 25 did not correctly
-authenticate certain APIs. A remote unauthenticated attacker could possibly
-use this issue to cause a denial of service. (CVE-2026-22021)
-
-It was discovered that the JGSS component of OpenJDK 25 did not correctly
-authenticate certain APIs. A remote attacker could possibly use this issue
-to obtain sensitive information. (CVE-2026-22013)
-
-It was discovered that the 2D component of OpenJDK 25 did not correctly
-handle certain integer arithmetic. If a user or automated system were
-tricked into opening a specially crafted file, an attacker could possibly
-use this issue to obtain sensitive information. (CVE-2026-23865)
-
-It was discovered that the Libraries component of OpenJDK 25 did not
-correctly authenticate certain APIs. A remote unauthenticated attacker
-could possibly use this issue to modify data. (CVE-2026-22008)
-
-It was discovered that the Libraries component of OpenJDK 25 did not
-correctly authenticate certain APIs. A remote unauthenticated attacker
-could possibly use this issue to cause a denial of service.
-(CVE-2026-22018)
-
-Ken Pyle discovered that the Security component of OpenJDK 25 did not
-correctly authenticate certain APIs. A local attacker could possibly use
-this issue to obtain sensitive information. (CVE-2026-22007,
-CVE-2026-34268)
-
-In addition to security fixes, the updated packages contain bug fixes, new
-features, and possibly incompatible changes.
-
-Please see the following for more information:
-https://openjdk.org/groups/vulnerability/advisories/2026-04-21]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[World of Tanks: HEAT tank tier list—Best ones to use]]></title>
         <id>https://www.destructoid.com/?p=1222783</id>
         <link href="https://www.destructoid.com/world-of-tanks-heat-tank-tier-list-best-ones-to-use/"/>
@@ -1701,17 +1715,6 @@ This is the topic that was put to Pragmata's director, Yonghee Cho, and producer
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Dreamlight Valley A Hero’s Journey update release countdown: Exact start time and date]]></title>
-        <id>https://www.destructoid.com/?p=1222453</id>
-        <link href="https://www.destructoid.com/disney-dreamlight-valley-a-heros-journey-update-release-countdown-exact-start-time-and-date/"/>
-        <updated>2026-05-28T12:24:52.000Z</updated>
-        <summary type="html"><![CDATA[It's time to go the distance. 
-The post Disney Dreamlight Valley A Hero’s Journey update release countdown: Exact start time and date appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Kacee Fay</name>
         </author>
     </entry>
     <entry>
@@ -2379,16 +2382,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's ANGLE Merges Wayland Support, Unblocking Chromium Embedded Framework On Wayland]]></title>
-        <id>https://www.phoronix.com/news/ANGLE-Merges-Wayland</id>
-        <link href="https://www.phoronix.com/news/ANGLE-Merges-Wayland"/>
-        <updated>2026-05-26T20:28:06.000Z</updated>
-        <summary type="html"><![CDATA[It looks like Google's Chromium Embedded Framework "CEF" could finally be enjoying nice native Wayland support soon!..]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3971,16 +3964,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Týden na ITBiz: Umělá inteligence ve hrách přeceňuje inteligenci lidí]]></title>
-        <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-umela-inteligence-ve-hrach-precenuje-inteligenci-lidi</id>
-        <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-umela-inteligence-ve-hrach-precenuje-inteligenci-lidi"/>
-        <updated>2026-05-10T22:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Znamená pomalost přemýšlivost? A co u AI? Acronis uvádí GenAI Protection pro bezpečné využívání AI. Umělá inteligence ve hrách přeceňuje inteligenci lidí. Huawei představuje AI řešení jako nové příležitosti růstu poskytovatelů internetových služeb. Budoucnost suverénní AI v Evropě určuje transparentnost open source.]]></summary>
-        <author>
-            <name>Redakce</name>
         </author>
     </entry>
     <entry>
