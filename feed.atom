@@ -1,10 +1,389 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-01T12:29:33.941Z</id>
+    <id>urn:2026-07-01T16:21:12.985Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-01T12:29:33.941Z</updated>
+    <updated>2026-07-01T16:21:12.985Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 To Overcome "Significant Bottleneck" For Small I/O With PCIe Gen5 NVMe SSDs]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-Faster-Small-Direct</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-Faster-Small-Direct"/>
+        <updated>2026-07-01T16:06:06.000Z</updated>
+        <summary type="html"><![CDATA[While the Linux 7.2 feature merge window ended just days ago and the better part of two months now before v7.2 will be released as stable, there are already features beginning to accumulate that will target the Linux 7.3 cycle. The most exciting change I've seen to kick off that dance ahead of Linux 7.3 is addressing a "significant" bottleneck affecting small direct I/O performance with speedy storage such as PCIe Gen5 NVMe SSDs...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why People Still Love Pokémon That Suck Ass: ‘I Love That There’s Room For Him Alongside The Actual God Of Creation’]]></title>
+        <id>https://kotaku.com/?p=2000711993</id>
+        <link href="https://kotaku.com/pokemon-bad-worst-champions-switch-meta-underpowered-2000711993"/>
+        <updated>2026-07-01T16:05:55.000Z</updated>
+        <summary type="html"><![CDATA[Not everyone can be the very best like no one ever was]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“MEGA x MEGA Parade” Trademark Filed for the Pokemon TCG, Japan’s High Class Pack Set?]]></title>
+        <id>156901</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-x-mega-parade%E2%80%9D-trademark-filed-for-the-pokemon-tcg-japan%E2%80%99s-high-class-pack-set.156901/"/>
+        <updated>2026-07-01T16:00:03.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: As Sony Bins Physical, How Long Until Nintendo Follows Suit?]]></title>
+        <id>https://www.nintendolife.com/#article-203266</id>
+        <link href="https://www.nintendolife.com/features/talking-point-as-sony-bins-physical-how-long-until-nintendo-follows-suit"/>
+        <updated>2026-07-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The first of the Big Three to pull the plug.
+The day we've known for years was coming has finally arrived - or its arrival has been announced. From January 2028, Sony will not release physical disc versions of any PlayStation games.
+Coming shortly after Rockstar went digital-only with its GTA6 pre-orders and taking advantage of the latest avalanche of studio layoffs and price hikes doing the rounds, Sony is the first of the big three platform holders to rip the band-aid off a wound first inflicted back in the PS3/360/Wii era on consoles, when digital distribution changed the game on console.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony’s Famous E3 2013 Press Conference Celebrating Disc-Based Games Hits Different Now]]></title>
+        <id>https://kotaku.com/?p=2000711966</id>
+        <link href="https://kotaku.com/sonys-famous-e3-2013-press-conference-celebrating-disc-based-games-hits-different-now-2000711966"/>
+        <updated>2026-07-01T15:43:37.000Z</updated>
+        <summary type="html"><![CDATA[Own your games forever with no DRM, Jack Trenton promised at the time]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Sends Out Latest Linux Patches For RMPOPT Optimization]]></title>
+        <id>https://www.phoronix.com/news/AMD-RMPOPT-Linux-v10</id>
+        <link href="https://www.phoronix.com/news/AMD-RMPOPT-Linux-v10"/>
+        <updated>2026-07-01T15:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year AMD disclosed the RMPOPT instruction that given the timing will seemingly be introduced with upcoming Zen 6 EPYC "Venice" processors. The RMPOPT feature amounts to a performance optimization for AMD EPYC SEV-SNP enabled servers by cutting down on the associated Reverse Map Table (RMP) overhead. Linux enablement of AMD RMPOPT remains ongoing and out this week is the latest iteration of the enablement...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8491-1: Linux kernel (OEM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8491-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8491-1"/>
+        <updated>2026-07-01T15:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - DMA engine subsystem;
+  - InfiniBand drivers;
+  - STMicroelectronics network drivers;
+  - Network drivers;
+  - NVME drivers;
+  - SCSI subsystem;
+  - USB over IP driver;
+  - File systems infrastructure;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Kernel thread helper (kthread);
+  - IPv6 networking;
+  - Tracing infrastructure;
+  - Kernel exit() syscall;
+  - Scatterlist API;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SMC sockets;
+  - X.25 network layer;
+(CVE-2026-22984, CVE-2026-23272, CVE-2026-23278, CVE-2026-23392,
+CVE-2026-23427, CVE-2026-23428, CVE-2026-23450, CVE-2026-23455,
+CVE-2026-31402, CVE-2026-31418, CVE-2026-31436, CVE-2026-31448,
+CVE-2026-31478, CVE-2026-31607, CVE-2026-31635, CVE-2026-31637,
+CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
+CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-31718,
+CVE-2026-43011, CVE-2026-43037, CVE-2026-43038, CVE-2026-43071,
+CVE-2026-43083, CVE-2026-43114, CVE-2026-43117, CVE-2026-43125,
+CVE-2026-43186, CVE-2026-43197, CVE-2026-43304, CVE-2026-43341,
+CVE-2026-43376, CVE-2026-43378, CVE-2026-43383, CVE-2026-43384,
+CVE-2026-43402, CVE-2026-43406, CVE-2026-43407, CVE-2026-43414,
+CVE-2026-43493, CVE-2026-43501, CVE-2026-45898, CVE-2026-45988,
+CVE-2026-46039, CVE-2026-46043, CVE-2026-46115, CVE-2026-46119,
+CVE-2026-46135, CVE-2026-46185, CVE-2026-46195, CVE-2026-46243,
+CVE-2026-46244, CVE-2026-46266, CVE-2026-46289, CVE-2026-46290,
+CVE-2026-46316, CVE-2026-46325)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8490-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8490-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8490-1"/>
+        <updated>2026-07-01T15:19:04.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - DMA engine subsystem;
+  - InfiniBand drivers;
+  - STMicroelectronics network drivers;
+  - Network drivers;
+  - NVME drivers;
+  - SCSI subsystem;
+  - USB over IP driver;
+  - File systems infrastructure;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Kernel thread helper (kthread);
+  - IPv6 networking;
+  - Tracing infrastructure;
+  - Kernel exit() syscall;
+  - Scatterlist API;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SMC sockets;
+  - X.25 network layer;
+(CVE-2026-22984, CVE-2026-23272, CVE-2026-23278, CVE-2026-23392,
+CVE-2026-23427, CVE-2026-23428, CVE-2026-23450, CVE-2026-23455,
+CVE-2026-31402, CVE-2026-31418, CVE-2026-31436, CVE-2026-31448,
+CVE-2026-31478, CVE-2026-31607, CVE-2026-31635, CVE-2026-31637,
+CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
+CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-31718,
+CVE-2026-43011, CVE-2026-43037, CVE-2026-43038, CVE-2026-43071,
+CVE-2026-43083, CVE-2026-43114, CVE-2026-43117, CVE-2026-43125,
+CVE-2026-43186, CVE-2026-43197, CVE-2026-43304, CVE-2026-43341,
+CVE-2026-43376, CVE-2026-43378, CVE-2026-43383, CVE-2026-43384,
+CVE-2026-43402, CVE-2026-43406, CVE-2026-43407, CVE-2026-43414,
+CVE-2026-43493, CVE-2026-43501, CVE-2026-45898, CVE-2026-45988,
+CVE-2026-46039, CVE-2026-46043, CVE-2026-46115, CVE-2026-46119,
+CVE-2026-46135, CVE-2026-46185, CVE-2026-46195, CVE-2026-46243,
+CVE-2026-46244, CVE-2026-46266, CVE-2026-46289, CVE-2026-46316,
+CVE-2026-46325)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nidorina Illustration Rare Promo for “30th Celebration” Elite Trainer Box Revealed!]]></title>
+        <id>156899</id>
+        <link href="https://www.pokebeach.com/forums/threads/nidorina-illustration-rare-promo-for-%E2%80%9C30th-celebration%E2%80%9D-elite-trainer-box-revealed.156899/"/>
+        <updated>2026-07-01T15:14:15.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“30th Celebration” Full English Product Lineup Revealed!]]></title>
+        <id>156900</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-full-english-product-lineup-revealed.156900/"/>
+        <updated>2026-07-01T15:06:11.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8489-1: Linux kernel (OEM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8489-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8489-1"/>
+        <updated>2026-07-01T14:46:32.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that the Linux kernel did not properly handle shared page
+fragments during socket buffer operations, collectively known as Dirty
+Frag. A logic flaw existed in the XFRM ESP-in-TCP subsystem and in the
+RxRPC networking subsystem when processing paged fragments. A local
+attacker could use this to escalate privileges, or possibly escape a
+container. (CVE-2026-43284, CVE-2026-43500, CVE-2026-45998, CVE-2026-46000)
+
+It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
+subsystem in the Linux kernel when handling socket buffer fragments. This
+flaw is known as Fragnesia. A local attacker could use this to escalate
+privileges, or possibly escape a container. (CVE-2026-43503,
+CVE-2026-46300)
+
+Qualys discovered that a race condition existed in the ptrace subsystem of
+th…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8488-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8488-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8488-1"/>
+        <updated>2026-07-01T14:34:23.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - Rados block device (RBD) driver;
+  - Compressed RAM block device driver;
+  - Character device driver;
+  - TPM device driver;
+  - Hardware crypto device drivers;
+  - EDAC drivers;
+  - GPU drivers;
+  - Greybus drivers;
+  - HID subsystem;
+  - Microsoft Hyper-V drivers;
+  - Hardware monitoring drivers;
+ …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Big Subnautica 2 Legal Drama Has Finally Been Settled And The CEO Who Was Originally Fired Is Now Leaving Voluntarily]]></title>
+        <id>https://kotaku.com/?p=2000711969</id>
+        <link href="https://kotaku.com/the-big-subnautica-2-legal-drama-has-finally-been-settled-and-the-ceo-who-was-originally-fired-is-now-leaving-voluntarily-2000711969"/>
+        <updated>2026-07-01T14:34:15.000Z</updated>
+        <summary type="html"><![CDATA[Krafton and Unknown Worlds have finally settled the dispute over the underwater survival sim]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand strategy game Terra Invicta is getting two new scenarios - a Fallout-style nuclear wasteland, and an early noughties world of UFO sceptics]]></title>
+        <id>https://www.rockpapershotgun.com/grand-strategy-game-terra-invicta-is-getting-two-new-scenarios-a-fallout-style-nuclear-wasteland-and-an-early-noughties-world-of-ufo-sceptics</id>
+        <link href="https://www.rockpapershotgun.com/grand-strategy-game-terra-invicta-is-getting-two-new-scenarios-a-fallout-style-nuclear-wasteland-and-an-early-noughties-world-of-ufo-sceptics"/>
+        <updated>2026-07-01T14:27:36.000Z</updated>
+        <summary type="html"><![CDATA[I had been feeling guilty about not completing my first bout of sci-fi grand strategy game Terra Invicta – six months on from my 1.0 write-up, I'm still trying to colonise my first asteroid - and now here come developers Pavonis Interactive to smother us in nuclear fire. And swanky new spaceship designs.
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation 6, Project Helix Will Almost Certainly Be Digital-Only, Launch in 2028, Analysts Say]]></title>
+        <id>https://kotaku.com/?p=2000711964</id>
+        <link href="https://kotaku.com/playstation-6-project-helix-digital-only-analysts-2000711964"/>
+        <updated>2026-07-01T14:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Sony's discontinuation of physical discs in 2028 means there's no point anymore in a console that can read them]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Round Up: The Reviews Are In For Rhythm Heaven Groove]]></title>
+        <id>https://www.nintendolife.com/#article-203260</id>
+        <link href="https://www.nintendolife.com/news/2026/07/round-up-the-reviews-are-in-for-rhythm-heaven-groove"/>
+        <updated>2026-07-01T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You threw off my groove.
+The final first-party Switch 1 game (as announced at the time of writing) is almost here, with Rhythm Heaven Groove set to launch tomorrow on 2nd July.
+This one has felt like a long time coming, with the series being notably absent for almost the entirety of the Switch generation, but the previews and a free demo left us thinking that it'd be worth the wait in the end. The question is, is it?
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo’s Reported 10-Percent Salary Increase Took Place Over Three Years Ago]]></title>
+        <id>https://kotaku.com/?p=2000711937</id>
+        <link href="https://kotaku.com/nintendo-shareholder-qa-salary-10-percent-raise-confusion-2000711937"/>
+        <updated>2026-07-01T13:50:04.000Z</updated>
+        <summary type="html"><![CDATA[There is also confusion over whether Nintendo is avoiding the mention of unions]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Glibc Introduces /etc/tunables.conf For System-Wide Tunables]]></title>
+        <id>https://www.phoronix.com/news/Glibc-System-Tunables</id>
+        <link href="https://www.phoronix.com/news/Glibc-System-Tunables"/>
+        <updated>2026-07-01T13:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat has contributed new system-wide tunables infrastructure to the GNU C Library "glibc" that allows specifying system-wide tunables via the new /etc/tunables.conf configuration file...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behold my range of handmade Steam Machine faceplates: tasteful fan-covering, on the cheap]]></title>
+        <id>https://www.rockpapershotgun.com/behold-my-range-of-handmade-steam-machine-faceplates-tasteful-fan-covering-on-the-cheap</id>
+        <link href="https://www.rockpapershotgun.com/behold-my-range-of-handmade-steam-machine-faceplates-tasteful-fan-covering-on-the-cheap"/>
+        <updated>2026-07-01T13:19:02.000Z</updated>
+        <summary type="html"><![CDATA[Say you’ve sprung for a Steam Machine, and are pondering how to put a personal mark on your new black cube. Upgrading the internals? Bit of a faff, it turns out. Playing with the lighting strip? Maybe, but it’s blue by default, and research has shown that blue is already the best colour. No, aquamarine only came fifth.
+That front faceplate, though, is ripe for replacement, and there are already certain retailers and craftspeople who’ll happily charge you to cover your Steam Machine in acrylic flowers.  Or make it look like a GameCube attending the Wii U’s funeral. However, this first wave of third-party covers appears to span anywhere between 15 and 40 quid, an unpleasant aftershock to the economic blow of the Machine itself. Luckily, more affordable faceplates are possible, as I shall now demonstrate with a selection of cheap household items, a small pack of craft magnets, and some off-brand superglue.
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RADV & RadeonSI Drivers See New Fixes For AMD GCN 1.0/1.1 GPUs]]></title>
+        <id>https://www.phoronix.com/news/RADV-L2-Flush-Fix-GFX6-GFX7</id>
+        <link href="https://www.phoronix.com/news/RADV-L2-Flush-Fix-GFX6-GFX7"/>
+        <updated>2026-07-01T13:18:33.000Z</updated>
+        <summary type="html"><![CDATA[Timur Kristóf of Valve's Linux graphics driver team continues taking special focus on AMD Radeon GCN 1.0 and GCN 1.1 era GPUs for enhancing the open-source graphics driver support for these aging graphics cards...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Ditches Physical Media - Suddenly Game-Key Cards Don't Look So Bad]]></title>
+        <id>https://www.nintendolife.com/#article-203267</id>
+        <link href="https://www.nintendolife.com/news/2026/07/sony-ditches-physical-media-suddenly-game-key-cards-dont-look-so-bad"/>
+        <updated>2026-07-01T13:05:00.000Z</updated>
+        <summary type="html"><![CDATA[The lesser of two evils.
+Sony has announced that it is completely ditching physical media for the PS5 – and presumably PS6 – from January 2028.
+As a response to "shifting trends", this move applies to all new games released for the PS5, with digital-only options available via the PlayStation Store and retailers. GTA 6 was the first game to adopt a digital-only release after pre-orders opened last month, and while this seemed a pretty radical decision at the time, it now makes much more sense.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Internet Reacts To PlayStation Killing Off Game Discs]]></title>
+        <id>https://kotaku.com/?p=2000711940</id>
+        <link href="https://kotaku.com/playstation-5-ps5-physical-media-discs-sony-ps6-2000711940"/>
+        <updated>2026-07-01T13:01:57.000Z</updated>
+        <summary type="html"><![CDATA[PlayStation games will no longer have physical discs starting in 2028]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Score, Level a Excalibur jen vteřiny od katastrofy!]]></title>
+        <id>https://www.high-voltage.cz/?p=61067</id>
+        <link href="https://www.high-voltage.cz/sortky/score-level-a-excalibur-jen-vteriny-od-katastrofy/"/>
+        <updated>2026-07-01T12:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Doslova vteřiny! To si tak sedím u PC, libuji si, jaké je chladno, jak osvěžující je průtrž mračen, která víří vůkol, okna otevřená dokořán, aby nízké stupně Celsia měly volnou cestu, když tu přiběhne dítko, že do ložnice prší.]]></summary>
+        <author>
+            <name>Sledge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zpráva o stavu maloobchodním XXII – čistá nula!]]></title>
+        <id>https://www.high-voltage.cz/?post_type=hv_notretro&amp;p=61064</id>
+        <link href="https://www.high-voltage.cz/neretro/zprava-o-stavu-maloobchodnim-xxii-cista-nula/"/>
+        <updated>2026-07-01T12:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Dámy a pánové, za červen 2026 jsem na e-shopu 1701.]]></summary>
+        <author>
+            <name>Sledge</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PlayStation Is Shutting Down The PS3 And Vita Stores Next Year]]></title>
         <id>https://kotaku.com/?p=2000711929</id>
@@ -47,22 +426,13 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sony Ending Discs For All PlayStation Games Starting 2028]]></title>
+        <title type="html"><![CDATA[Sony Ending Discs For All New PlayStation Games Starting In 2028]]></title>
         <id>https://kotaku.com/?p=2000711927</id>
         <link href="https://kotaku.com/sony-ending-discs-for-all-playstation-games-starting-2028-2000711927"/>
         <updated>2026-07-01T12:10:10.000Z</updated>
         <summary type="html"><![CDATA[The move could be a death blow for physical games]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“30th Celebration” Full English Product Lineup Revealed!]]></title>
-        <id>156900</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-full-english-product-lineup-revealed.156900/"/>
-        <updated>2026-07-01T12:06:44.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -241,7 +611,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <id>https://www.rockpapershotgun.com/xbox-claim-theyre-not-reducing-their-investment-in-games-despite-looming-cuts-as-report-claims-under-25-of-microsofts-total-workforce-are-in-the-firing-line</id>
         <link href="https://www.rockpapershotgun.com/xbox-claim-theyre-not-reducing-their-investment-in-games-despite-looming-cuts-as-report-claims-under-25-of-microsofts-total-workforce-are-in-the-firing-line"/>
         <updated>2026-07-01T08:51:24.000Z</updated>
-        <summary type="html"><![CDATA[Despite yesterday bringing more news of Xbox backing out of funding deals and considering putting studios on the chopping block, the company insist such moves aren't a sign that the mass cuts they've reportedly got in the works are a sign of them scaling back how much cash they're pumping into making games. At the same time, a new report claims that the layoffs wider Microsoft have planned are projected to affect less than 2.5% of the corp's overall workforce, not that that'll soften the blow by any stretch of the imagination.
+        <summary type="html"><![CDATA[On top of the reports that Xbox are planning mass layoffs, yesterday brought the news that Xbox are backing out of funding deals and considering closing studios, yet they insist this isn't a sign they're scaling back how much cash they're pumping into making games. At the same time, a new report claims that the layoffs wider Microsoft have planned are projected to affect less than 2.5% of the corp's overall workforce, not that that'll soften the blow by any stretch of the imagination.
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
@@ -319,15 +689,6 @@ Read the full article on nintendolife.com]]></summary>
         <id>156885</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-starter-decks%E2%80%9D-revealed-featuring-eevee-ex-zoroark-ex-meowscarada-ex-and-new-illustration-rares.156885/"/>
         <updated>2026-07-01T04:14:41.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nidorina Illustration Rare Promo for “30th Celebration” Elite Trainer Box Revealed!]]></title>
-        <id>156899</id>
-        <link href="https://www.pokebeach.com/forums/threads/nidorina-illustration-rare-promo-for-%E2%80%9C30th-celebration%E2%80%9D-elite-trainer-box-revealed.156899/"/>
-        <updated>2026-07-01T03:48:34.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -704,42 +1065,12 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hitman Studio Still ‘100%’ Committed To New Fantasy Game Despite Layoffs After Xbox Abandons It]]></title>
-        <id>https://kotaku.com/?p=2000711733</id>
-        <link href="https://kotaku.com/io-interactive-still-100-committed-to-new-fantasy-game-despite-layoffs-after-external-partner-abandons-it-2000711733"/>
-        <updated>2026-06-30T17:30:34.000Z</updated>
-        <summary type="html"><![CDATA[Project Fantasy is a new IP the Hitman studio was working on]]></summary>
-        <author>
-            <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splatoon Raiders Feels Like It’s Shaping Up To Be The Single-Player Nintendo Shooter We Sickos Have Been Waiting For]]></title>
-        <id>https://kotaku.com/?p=2000711675</id>
-        <link href="https://kotaku.com/splatoon-raiders-feels-like-its-shaping-up-to-be-the-single-player-nintendo-shooter-we-sickos-have-been-waiting-for-2000711675"/>
-        <updated>2026-06-30T17:19:35.000Z</updated>
-        <summary type="html"><![CDATA[Even if the game revolves around traveling to strangers' islands and stealing their stuff]]></summary>
-        <author>
-            <name>Amelia Zollner</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Chasing Glory Together” Coin Sets and Reverse Holos Revealed!]]></title>
         <id>156887</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cchasing-glory-together%E2%80%9D-coin-sets-and-reverse-holos-revealed.156887/"/>
         <updated>2026-06-30T17:15:47.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon Age Writer Says Generative AI Will Be Terrible For Game Development: ‘It Should Be Treated Like The Virulent Plague’]]></title>
-        <id>https://kotaku.com/?p=2000711678</id>
-        <link href="https://kotaku.com/genai-ai-david-gaider-dragon-age-bioware-virulent-plague-2000711678"/>
-        <updated>2026-06-30T17:15:44.000Z</updated>
-        <summary type="html"><![CDATA[David Gaider doesn't hold back when explaining why genAI is so bad for games development]]></summary>
-        <author>
-            <name>John Walker</name>
         </author>
     </entry>
     <entry>
@@ -768,16 +1099,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Contracts Are Already Being Cut At Xbox On The Eve Of Mass Layoffs]]></title>
-        <id>https://kotaku.com/?p=2000711688</id>
-        <link href="https://kotaku.com/contracts-already-cut-xbox-eve-mass-layoffs-2000711688"/>
-        <updated>2026-06-30T16:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Xbox's brutal reorganization impacts more than just its own house]]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 7.2 Features: Cache Aware Scheduling, USB4STREAM, AMD ISP4, AMDGPU HDMI 2.1 FRL]]></title>
         <id>https://www.phoronix.com/review/linux-72-features</id>
         <link href="https://www.phoronix.com/review/linux-72-features"/>
@@ -785,16 +1106,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Linux 7.2 is working toward release in August with its more than 43 million lines in the codebase. With Linux 7.2 there are many new changes in tow as summed up in today's feature overview.]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love And Deepspace Devs Decide To Cancel New Werewolf Love Interest After Fans Reportedly Send Them Cow Shit]]></title>
-        <id>https://kotaku.com/?p=2000711611</id>
-        <link href="https://kotaku.com/love-and-deepspace-devs-decide-to-cancel-new-werewolf-love-interest-after-fans-reportedly-send-them-cow-shit-2000711611"/>
-        <updated>2026-06-30T16:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Some of the extra pissed off fans lodged their complaints about the new love interest by sending turds to the game's headquarters]]></summary>
-        <author>
-            <name>Ash Parrish</name>
         </author>
     </entry>
     <entry>
@@ -830,16 +1141,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Wars Monopoly Is Fun, Unless You Are Playing Against Chewbacca Who Is An Overpowered Nuclear Bomb]]></title>
-        <id>https://kotaku.com/?p=2000711507</id>
-        <link href="https://kotaku.com/star-wars-monopoly-is-fun-unless-you-are-playing-against-chewbacca-who-is-a-overpowered-nuclear-bomb-2000711507"/>
-        <updated>2026-06-30T16:03:23.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft's new Star Wars-themed Monopoly game is fine enough, but it needs more options]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
         </author>
     </entry>
     <entry>
@@ -1346,19 +1647,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8481-1: NSS vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8481-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8481-1"/>
-        <updated>2026-06-29T18:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Haruto Kimura discovered that NSS had incorrecty handled parsing PKCS#11
-URI escape sequences. An attacker could possibly use this issue to cause
-NSS to crash, resulting in a denial of service, or obtain sensitive
-information.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Git 2.55 Released With Rust Support Enabled By Default,]]></title>
         <id>https://www.phoronix.com/news/Git-2.55-Released</id>
         <link href="https://www.phoronix.com/news/Git-2.55-Released"/>
@@ -1366,19 +1654,6 @@ information.]]></summary>
         <summary type="html"><![CDATA[Git 2.55 is out today as the latest stable update to this distributed version control system...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8480-1: SQLite vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8480-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8480-1"/>
-        <updated>2026-06-29T17:38:21.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that SQLite incorrectly handled certain memory operations
-in the FTS5 full-text search extension. An attacker could use this issue to
-cause SQLite to crash, resulting in a denial of service, or possibly
-execute arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1427,23 +1702,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8479-1: libheif vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8479-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8479-1"/>
-        <updated>2026-06-29T15:54:22.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that libheif incorrectly handled certain crafted HEIF
-files. An attacker could possibly use this issue to cause a denial of
-service or execute arbitrary code. (CVE-2026-47178)
-
-It was discovered that libheif incorrectly validated offsets when
-decoding certain crafted HEIF files. An attacker could possibly use this
-issue to cause a denial of service. This issue only affected Ubuntu 26.04
-LTS. (CVE-2026-49271)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Announces Public Preview For Linux Containers On WSL]]></title>
         <id>https://www.phoronix.com/news/Microsoft-Preview-WSL-WSLC</id>
         <link href="https://www.phoronix.com/news/Microsoft-Preview-WSL-WSLC"/>
@@ -1485,19 +1743,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Red Hat senior software engineer Marcin Juszkiewicz of Red Hat's ARM Team had been dogfeeding with an AArch64 Linux desktop being used as his primary, personal system for nearly the past year. But now he shared he has gone back to using his AMD Ryzen desktop instead over AArch64 Linux issues encountered with his Ampere Altra desktop...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Treehouse: Live Returns Tomorrow With Even More Splatoon Raiders Gameplay]]></title>
-        <id>https://www.nintendolife.com/#article-203169</id>
-        <link href="https://www.nintendolife.com/news/2026/06/nintendo-treehouse-live-returns-tomorrow-with-even-more-splatoon-raiders-gameplay"/>
-        <updated>2026-06-29T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[You're joking, aNoTHer one??
-We are just one day away from Nintendo's next game-specific Direct, and we now know that it'll be followed by yet another Treehouse: Live show.
-The Splatoon Raiders Direct gets underway tomorrow at 3pm BST / 4pm CET / 7am PT / 10am ET, where we'll hear "more info on the upcoming Nintendo Switch 2 game". It's set to last for 15 minutes, with a 30-minute Treehouse presentation coming straight after.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1650,29 +1895,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenAPV 0.3 Adds APV RAW Encoding/Decoding Support]]></title>
-        <id>https://www.phoronix.com/news/OpenAPV-0.3</id>
-        <link href="https://www.phoronix.com/news/OpenAPV-0.3"/>
-        <updated>2026-06-29T09:20:04.000Z</updated>
-        <summary type="html"><![CDATA[OpenAPV, the Academy Software Foundation project that provides a reference implementation of the Advanced Professional Video (APV) codec is out with a new feature update...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Charts: Star Fox Barrel Rolls To The Top And Grabs The Gold Medal]]></title>
-        <id>https://www.nintendolife.com/#article-203137</id>
-        <link href="https://www.nintendolife.com/news/2026/06/uk-charts-star-fox-barrel-rolls-to-the-top-and-grabs-the-gold-medal"/>
-        <updated>2026-06-29T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Beating the An-dross.
-The latest UK boxed charts data is in, and it's a resounding victory for Star Fox on Switch 2, which shoots to the top in its debut week. A lot of retailers had some compelling launch prices for the game that no doubt helped to fuel the physical sales, with many undercutting Nintendo's digital price significantly.
-Rayman: 30th Anniversary Edition also made its physical debut on the Switch at number 12 this week, with PS5 just about taking the lion's share with 56% of the platform split.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Firmy budou za AI tokeny platit do dvou let více, než plat vývojáře, říká Gartner]]></title>
         <id>www.root.cz-actuality-52593</id>
         <link href="https://www.root.cz/zpravicky/firmy-budou-za-ai-tokeny-platit-do-dvou-let-vice-nez-plat-vyvojare-rika-gartner/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1683,71 +1905,12 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Guide: Splatoon Raiders Nintendo Direct June 2026: Time, Date, How To Watch]]></title>
-        <id>https://www.nintendolife.com/#article-202539</id>
-        <link href="https://www.nintendolife.com/guides/splatoon-raiders-nintendo-direct-june-2026-time-date-how-to-watch"/>
-        <updated>2026-06-29T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Ink your calendar.
-Nintendo usually only gives 24 hours' notice before its Directs, but back in the June presentation, it revealed when the next show is heading our way.
-It's Splatoon Raiders that's being put in the spotlight this time, with Nintendo sharing even more details on the upcoming spin-off ahead of its 23rd July release date.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Asteroid Threat]]></title>
         <id>https://xkcd.com/3265/</id>
         <link href="https://xkcd.com/3265/"/>
         <updated>2026-06-29T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mageia 10 Released For This Linux Distribution Carrying On The Mandrake Legacy]]></title>
-        <id>https://www.phoronix.com/news/Mageia-10-Released</id>
-        <link href="https://www.phoronix.com/news/Mageia-10-Released"/>
-        <updated>2026-06-29T01:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Mageia 10 ISOs are now available for this Linux distribution long ago derived from Mandriva Linux and in turn the legendary Mandrake Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arch Linux's Archinstall 4.4 Adds Dank Material Shell + Niri Desktop Option]]></title>
-        <id>https://www.phoronix.com/news/Arch-Linux-Archinstall-4.4</id>
-        <link href="https://www.phoronix.com/news/Arch-Linux-Archinstall-4.4"/>
-        <updated>2026-06-29T00:41:53.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of the July 2026 ISO refresh for Arch Linux, a new Archinstall 4.4 release has been tagged for this text-based and very convenient installer for Arch Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8412-3: QEMU regression]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8412-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8412-3"/>
-        <updated>2026-06-28T23:43:40.000Z</updated>
-        <summary type="html"><![CDATA[USN-8412-1 fixed vulnerabilities QEMU. On Ubuntu 20.04 LTS, the fix for
-CVE-2024-4467 was incomplete and prevented the creation of boot volumes
-from qcow2 images. This update fixes the problem.
-
-We apologize for the inconvenience.
-
-Original advisory details:
-
- Felipe Franciosi, Raphael Norwitz, and Peter Turschmid discovered that the
- iSCSI block driver in QEMU incorrectly handled certain responses from an
- iSCSI server. A remote attacker could possibly use this issue to cause
- QEMU to crash, resulting in a denial of service, or possibly execute
- arbitrary code. This issue only affected Ubuntu 14.04 LTS. (CVE-2020-1711)
-
- It was discovered that the iSCSI block driver in QEMU incorrectly handled
- certain memory operations, leading to a heap-based buffer over-read. An
- attacker could possibl…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1779,16 +1942,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Blender Studio po sedmnácti otevřených filmových projektech přemýšlí o celovečerním filmu. Canonical rozšířil technologii Livepatch, která umožňuje instalovat kritické bezpečnostní aktualizace jádra, na platformu ARM64.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 7.2-rc1 Released: "Things Look Reasonably Normal" While Landing AMDGPU HDMI 2.1 FRL, AMD ISP4 & CAS]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.2-rc1-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-7.2-rc1-Released"/>
-        <updated>2026-06-28T20:04:19.000Z</updated>
-        <summary type="html"><![CDATA[As expected, Linux 7.2-rc1 was released a brief time ago to cap off the Linux 7.2 merge window. Now it's off for eight weeks or so of testing before Linux 7.2 stable is released that will in turn go on to power the likes of Fedora 45 and Ubuntu 26.10...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2970,16 +3123,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Command & Conquer nyní i pro Atari ST – v báječných 16 barvách]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=60857</id>
-        <link href="https://www.high-voltage.cz/sortky/command-conquer-nyni-i-pro-atari-st-v-bajecnych-16-barvach/"/>
-        <updated>2026-06-22T23:22:33.000Z</updated>
-        <summary type="html"><![CDATA[Že někdo vezme zdrojové kódy z projektu Vanilla-Conquer a přeportuje je na oturbené Amigy, to vás nepřekvapí.]]></summary>
-        <author>
-            <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PS3 twin package]]></title>
         <id>https://www.scummvm.org/news/archive/#2026-06-22</id>
         <link href="https://www.scummvm.org/news/20260622/"/>
@@ -3050,16 +3193,6 @@ By day, you supervise guests as they queue through the pre-show and board the ca
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-15 Strike Eagle II znovu vzlétá díky rekonstruovaným zdrojovým kódům]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=60853</id>
-        <link href="https://www.high-voltage.cz/sortky/f-15-strike-eagle-ii-znovu-vzleta-diky-rekonstruovanym-zdrojovym-kodum/"/>
-        <updated>2026-06-22T14:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Dnes tu máme specialitku pro fandy starých leteckých simulátorů pro DOS.]]></summary>
-        <author>
-            <name>Sledge</name>
         </author>
     </entry>
     <entry>
@@ -3182,15 +3315,6 @@ Obrázek je z "I Saw The Devil"]]></summary>
         <updated>2026-06-21T17:47:18.000Z</updated>
         <author>
             <name>heartsick</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord invite?]]></title>
-        <id>156508</id>
-        <link href="https://www.pokebeach.com/forums/threads/discord-invite.156508/"/>
-        <updated>2026-06-21T15:50:58.000Z</updated>
-        <author>
-            <name>CodyRodman</name>
         </author>
     </entry>
     <entry>
@@ -3341,28 +3465,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/an-elevated-lifestyle-no-matter-what-happens-outside-we-need-more-horror-games-set-in-billionaire-apocalypse-bunkers"/>
         <updated>2026-06-19T17:00:00.000Z</updated>
         <summary type="html"><![CDATA[Billionaires rarely make for very interesting fabulists - they have people for that sort of thing - but in their obsession with securing a legacy, they do necessarily spend a lot of time in the realm of make-believe. Nowhere is this more apparent than in the shape of luxury apocalypse bunkers, all of them perfect settings for horror games.
- Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Outer Worlds 2 studio Obsidian accused of "violating state wage and hour laws" for profit in California lawsuit]]></title>
-        <id>https://www.rockpapershotgun.com/the-outer-worlds-2-studio-obsidian-accused-of-violating-state-wage-and-hour-laws-for-profit-in-california-lawsuit</id>
-        <link href="https://www.rockpapershotgun.com/the-outer-worlds-2-studio-obsidian-accused-of-violating-state-wage-and-hour-laws-for-profit-in-california-lawsuit"/>
-        <updated>2026-06-19T16:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Obsidian Entertainment, developers of The Outer Worlds 2 and Avowed, have been sued in California for allegedly engaging "in a systematic pattern of wage and hour violations". The case was initially filed in the Superior Court of Orange County by plaintiff Victoria Turner in the latter half of 2025, with Turner accusing Obsidian of - among other things - failure to pay minimum and overtime wage or provide lunch and rest breaks. Obsidian filed a response in March denying "each and every allegation" in Turner's compaint and asking to have the case thrown out.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slay the Spire 2 gets a patch for broken RNG after player turns in gruelling eight hour video exposé]]></title>
-        <id>https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-rng-after-player-turns-in-gruelling-eight-hour-video-expose</id>
-        <link href="https://www.rockpapershotgun.com/slay-the-spire-2-gets-a-patch-for-broken-rng-after-player-turns-in-gruelling-eight-hour-video-expose"/>
-        <updated>2026-06-19T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Slay the Spire 2 has received a major update that adds Steam Workshop support for mods alongside a proper monster bestiary for the Compendium. It also introduces a new boss, Aeonglass, in place of the much-berated Doormaker. These are pretty juicy changes, and yet, the most intriguing part of the patch is a deceptively dry question of disobedient mathematics.
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
