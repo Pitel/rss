@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-03T19:09:46.343Z</id>
+    <id>urn:2026-07-03T20:57:10.414Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-03T19:09:46.343Z</updated>
+    <updated>2026-07-03T20:57:10.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[All 106 “Everyday Wonders” Cards Revealed for “Pocket!”]]></title>
+        <id>156893</id>
+        <link href="https://www.pokebeach.com/forums/threads/all-106-%E2%80%9Ceveryday-wonders%E2%80%9D-cards-revealed-for-%E2%80%9Cpocket-%E2%80%9D.156893/"/>
+        <updated>2026-07-03T20:40:12.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mega Malamar ex and Sableye from “Storm Emeralda” Revealed!]]></title>
+        <id>156903</id>
+        <link href="https://www.pokebeach.com/forums/threads/mega-malamar-ex-and-sableye-from-%E2%80%9Cstorm-emeralda%E2%80%9D-revealed.156903/"/>
+        <updated>2026-07-03T19:56:24.000Z</updated>
+        <author>
+            <name>koala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Pitch Black” Store Promos Revealed with Special 30th Anniversary Stamps!]]></title>
+        <id>156904</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpitch-black%E2%80%9D-store-promos-revealed-with-special-30th-anniversary-stamps.156904/"/>
+        <updated>2026-07-03T19:20:57.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Man, I Miss Big Bargain Bins Of Used Video Games]]></title>
         <id>https://kotaku.com/?p=2000712341</id>
@@ -26,12 +53,23 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Pitch Black” Store Promos Revealed with Special 30th Anniversary Stamps!]]></title>
-        <id>156904</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpitch-black%E2%80%9D-store-promos-revealed-with-special-30th-anniversary-stamps.156904/"/>
-        <updated>2026-07-03T18:50:54.000Z</updated>
+        <title type="html"><![CDATA[USN-8496-2: cifs-utils regression]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8496-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8496-2"/>
+        <updated>2026-07-03T18:49:32.000Z</updated>
+        <summary type="html"><![CDATA[USN-8496-1 fixed a vulnerability in cifs-utils. Unfortunately, the fix
+introduced a regression with Kerberos mounts. This update reverts the
+security update until a complete fix is available.
+
+We apologize for the inconvenience.
+
+Original advisory details:
+
+ It was discovered that cifs-utils incorrectly dropped root privileges
+ before looking up user information. A local attacker could possibly use
+ this issue to execute arbitrary code as the root user.]]></summary>
         <author>
-            <name>Water Pokémon Master</name>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -51,15 +89,6 @@
         <updated>2026-07-03T18:16:10.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mega Malamar ex and Sableye from “Storm Emeralda” Revealed!]]></title>
-        <id>156903</id>
-        <link href="https://www.pokebeach.com/forums/threads/mega-malamar-ex-and-sableye-from-%E2%80%9Cstorm-emeralda%E2%80%9D-revealed.156903/"/>
-        <updated>2026-07-03T18:14:32.000Z</updated>
-        <author>
-            <name>koala</name>
         </author>
     </entry>
     <entry>
@@ -106,15 +135,6 @@
         <id>156900</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-full-english-product-lineup-revealed.156900/"/>
         <updated>2026-07-03T17:10:45.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All 106 “Everyday Wonders” Cards Revealed for “Pocket!”]]></title>
-        <id>156893</id>
-        <link href="https://www.pokebeach.com/forums/threads/all-106-%E2%80%9Ceveryday-wonders%E2%80%9D-cards-revealed-for-%E2%80%9Cpocket-%E2%80%9D.156893/"/>
-        <updated>2026-07-03T17:09:21.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -1194,38 +1214,6 @@ this issue to execute arbitrary code as the root user.]]></summary>
         <summary type="html"><![CDATA[When AI/LLM agents are used in the creation of Linux kernel patches, the policy for a while now has been that it should be specified using an "Assisted-by" tag as part of the patches/commits. But Linux kernel developers this week have been discussing whether to revise that policy or to potentially eliminate it...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8488-2: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8488-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8488-2"/>
-        <updated>2026-07-02T15:02:33.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - Rados block device (RBD) driver;
-  - Compressed RAM block device driver;
-  - Character device driver;
-  - TPM device driver;
-  - Hardware crypto device drivers;
-  - EDAC drivers;
-  - GPU drivers;
-  - Greybus drivers;
-  - HID subsystem;
-  - Microsoft Hyper-V drivers;
-  - Hardware monitoring drivers;
- …]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
