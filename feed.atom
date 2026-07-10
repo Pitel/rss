@@ -1,10 +1,330 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-10T07:29:50.623Z</id>
+    <id>urn:2026-07-10T10:47:00.903Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-10T07:29:50.623Z</updated>
+    <updated>2026-07-10T10:47:00.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Bottom 10]]></title>
+        <id>156906</id>
+        <link href="https://www.pokebeach.com/forums/threads/bottom-10.156906/"/>
+        <updated>2026-07-10T10:44:47.000Z</updated>
+        <author>
+            <name>WizardyBacon123</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mega Golisopod ex, Wishiwashi ex, and Another Split Stadium from “Storm Emeralda” Revealed!]]></title>
+        <id>156919</id>
+        <link href="https://www.pokebeach.com/forums/threads/mega-golisopod-ex-wishiwashi-ex-and-another-split-stadium-from-%E2%80%9Cstorm-emeralda%E2%80%9D-revealed.156919/"/>
+        <updated>2026-07-10T10:44:17.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Machine Verified medals appear on games' store pages overnight, as if left by the Compatibility Fairy]]></title>
+        <id>https://www.rockpapershotgun.com/steam-machine-verified-medals-appear-on-games-store-pages-overnight-as-if-left-by-the-compatibility-fairy</id>
+        <link href="https://www.rockpapershotgun.com/steam-machine-verified-medals-appear-on-games-store-pages-overnight-as-if-left-by-the-compatibility-fairy"/>
+        <updated>2026-07-10T10:26:23.000Z</updated>
+        <summary type="html"><![CDATA[We’ve known for ages that the Steam Machine has a similar game compatibility rating system to the Steam Deck, wherein Valve tests games and slaps them with a Verified, Playable, or Unsupported sticker depending on how much they play technical ball. For the first fortnight and change of the Machine’s release, though, the results of these tests haven’t been visible – alongside the Deck verification info – on those games’ Steam store pages.
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux DT Patches Provide Very Basic Support For Apple M3 Pro / Max / Ultra]]></title>
+        <id>https://www.phoronix.com/news/Linux-DT-Apple-M3-Pro-Max-Ultra</id>
+        <link href="https://www.phoronix.com/news/Linux-DT-Apple-M3-Pro-Max-Ultra"/>
+        <updated>2026-07-10T10:26:14.000Z</updated>
+        <summary type="html"><![CDATA[Upstreamed for the Linux 7.2 kernel was initial support for booting Linux on the Apple M3 SoC devices. But just the barebones suppport for booting with not yet any accelerated graphics or other typical function needed for daily use of M3 Apple devices on Linux, just booting to a console. Now this work is complemented by additional Device Tree patches for also booting M3 Pro / Max / Ultra devices on Linux...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pearson’s Anti-Piracy Vendor Takes Down Best-Selling Author’s Own GitHub Repo]]></title>
+        <id>https://torrentfreak.com/?p=279566</id>
+        <link href="https://torrentfreak.com/pearsons-anti-piracy-vendor-takes-down-best-selling-authors-own-github-repo/"/>
+        <updated>2026-07-10T10:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Pearson's anti-piracy vendor inadvertently used a DMCA notice to take down the official GitHub code repository of Pearson's own best-selling author, Paul Deitel. The prominent computer science educator pushed back, noting that the sender has "no idea of the damage they're doing" by taking down critical educational materials, requesting GitHub to restore access.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 1.97.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/rust-1.97.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/rust-1.97.0"/>
+        <updated>2026-07-10T10:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána verze 1.97.0 programovacího jazyka Rust (Wikipedie). Podrobnosti v poznámkách k vydání. Vyzkoušet Rust lze například na stránce Rust by Example.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HiZ Plane Optimization Merged For Intel Vulkan Linux Driver For Some Performance Benefit]]></title>
+        <id>https://www.phoronix.com/news/Intel-HiZ-Plane-Optimization</id>
+        <link href="https://www.phoronix.com/news/Intel-HiZ-Plane-Optimization"/>
+        <updated>2026-07-10T10:13:27.000Z</updated>
+        <summary type="html"><![CDATA[After two years being on the TODO list for a possible performance optimization, the Intel open-source "ANV" Vulkan driver has now merged an HiZ plane optimization that can yield up to a few percent frame-rate improvement for Linux gaming/graphics on newer Intel integrated and discrete graphics hardware...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8530-1: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8530-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8530-1"/>
+        <updated>2026-07-10T10:07:49.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that the Linux kernel did not properly handle shared page
+fragments during socket buffer operations, collectively known as Dirty
+Frag. A logic flaw existed in the XFRM ESP-in-TCP subsystem and in the
+RxRPC networking subsystem when processing paged fragments. A local
+attacker could use this to escalate privileges, or possibly escape a
+container. (CVE-2026-43284)
+
+It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
+subsystem in the Linux kernel when handling socket buffer fragments. This
+flaw is known as Fragnesia. A local attacker could use this to escalate
+privileges, or possibly escape a container. (CVE-2026-43503)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - InfiniBand drivers;
+  - SCSI subsystem;
+  - Thermal drivers;
+  - USB over IP driver;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Tracing infrastructure;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - DCCP (Datagram Congestion Control Protocol);
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RxRPC session sockets;
+  - X.25 network layer;
+(CVE-2021-47202, CVE-2024-56643, CVE-2026-23272, CVE-2026-23455,
+CVE-2026-31402, CVE-2026-31607, CVE-2026-31637, CVE-2026-31659,
+CVE-2026-31682, CVE-2026-31685, CVE-2026-43011, CVE-2026-43037,
+CVE-2026-43038, CVE-2026-43383, CVE-2026-43407, CVE-2026-43414,
+CVE-2026-45988, CVE-2026-46043, CVE-2026-46119, CVE-2026-46243)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8529-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8529-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8529-1"/>
+        <updated>2026-07-10T10:00:19.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
+subsystem in the Linux kernel when handling socket buffer fragments. This
+flaw is known as Fragnesia. A local attacker could use this to escalate
+privileges, or possibly escape a container. (CVE-2026-43503)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - InfiniBand drivers;
+  - SCSI subsystem;
+  - Thermal drivers;
+  - USB over IP driver;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Tracing infrastructure;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - DCCP (Datagram Congestion Control Protocol);
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RxRPC session sockets;
+  - X.25 network layer;
+(CVE-2021-47202, CVE-2024-56643, CVE-2026-23272, CVE-2026-23455,
+CVE-2026-31402, CVE-2026-31607, CVE-2026-31637, CVE-2026-31659,
+CVE-2026-31682, CVE-2026-31685, CVE-2026-43011, CVE-2026-43037,
+CVE-2026-43038, CVE-2026-43383, CVE-2026-43407, CVE-2026-43414,
+CVE-2026-45988, CVE-2026-46043, CVE-2026-46119, CVE-2026-46243)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Clang Merges Initial Support For NVIDIA Rigel Core With Next-Gen Rosa CPU]]></title>
+        <id>https://www.phoronix.com/news/LLVM-Clang-NVIDIA-Rosa-Rigel</id>
+        <link href="https://www.phoronix.com/news/LLVM-Clang-NVIDIA-Rosa-Rigel"/>
+        <updated>2026-07-10T09:52:43.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week NVIDIA confirmed some basic details around their next-gen Rosa  CPU that succeeds Vera. Among the public confirmation was that it will feature a "Rigel" Armv9.2-A core iterating on their Olympus core design. With the basic details published, NVIDIA immediately introduced Rigel core support into the GCC compiler. Now they have also upstreamed their initial Rigel core enablement into the LLVM Clang compiler...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8528-1: Linux kernel (Xilinx ZynqMP) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8528-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8528-1"/>
+        <updated>2026-07-10T09:52:32.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that the Linux kernel algif_aead module did not properly
+handle in-place cryptographic operations. This flaw is known as Copy Fail.
+A local attacker could use this to escalate privileges, or possibly escape
+a container. (CVE-2026-31431)
+
+It was discovered that the Linux kernel did not properly handle shared page
+fragments during socket buffer operations, collectively known as Dirty
+Frag. A logic flaw existed in the XFRM ESP-in-TCP subsystem and in the
+RxRPC networking subsystem when processing paged fragments. A local
+attacker could use this to escalate privileges, or possibly escape a
+container. (CVE-2026-43284, CVE-2026-43500)
+
+It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
+subsystem in the Linux kernel when handling socket buffer fragments. This
+fla…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8527-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8527-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8527-1"/>
+        <updated>2026-07-10T09:45:14.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - RISC-V architecture;
+  - Cryptographic API;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - Network drivers;
+  - STMicroelectronics network drivers;
+  - NVME drivers;
+  - x86 platform drivers;
+  - SCSI subsystem;
+  - SPI subsystem;
+  - TCM subsystem;
+  - USB over IP driver;
+  - File systems infrastructure;
+  - HFS+ file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - IPv6 networking;
+  - Tracing infrastructure;
+  - Timer subsystem;
+  - B.A.T.M.A.N. meshing protocol;
+  - Bluetooth subsystem;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - MAC80211 subsystem;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SMC sockets;
+  - Sun RPC protocol;
+  - X.25 network layer;
+  - AMD SoC Alsa drivers;
+  - KVM subsystem;
+(CVE-2022-48816, CVE-2023-53673, CVE-2025-37778, CVE-2025-37822,
+CVE-2025-37924, CVE-2025-38201, CVE-2025-40082, CVE-2025-68214,
+CVE-2025-68263, CVE-2025-71089, CVE-2025-71220, CVE-2025-71222,
+CVE-2025-71224, CVE-2026-23176, CVE-2026-23180, CVE-2026-23182,
+CVE-2026-23190, CVE-2026-23193, CVE-2026-23198, CVE-2026-23202,
+CVE-2026-23206, CVE-2026-23216, CVE-2026-23256, CVE-2026-23257,
+CVE-2026-23258, CVE-2026-23262, CVE-2026-23272, CVE-2026-23278,
+CVE-2026-23428, CVE-2026-23450, CVE-2026-23455, CVE-2026-31402,
+CVE-2026-31418, CVE-2026-31478, CVE-2026-31607, CVE-2026-31637,
+CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
+CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-43011,
+CVE-2026-43037, CVE-2026-43038, CVE-2026-43071, CVE-2026-43114,
+CVE-2026-43117, CVE-2026-43186, CVE-2026-43304, CVE-2026-43341,
+CVE-2026-43383, CVE-2026-43406, CVE-2026-43407, CVE-2026-43414,
+CVE-2026-43493, CVE-2026-43501, CVE-2026-45988, CVE-2026-46043,
+CVE-2026-46119, CVE-2026-46135, CVE-2026-46195, CVE-2026-46243)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel-Scaler-vLLM 0.21.0-b1 Delivers Latest Features For vLLM On Intel GPUs]]></title>
+        <id>https://www.phoronix.com/news/Intel-Scaler-vLLM-0.21-b1</id>
+        <link href="https://www.phoronix.com/news/Intel-Scaler-vLLM-0.21-b1"/>
+        <updated>2026-07-10T09:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Released this morning was Intel's newest version of Intel-Scaler-vLLM as their Docker-based solution providing an optimized vLLM stack for execution on Intel Arc (Pro) graphics hardware...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8492-5: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8492-5</id>
+        <link href="https://ubuntu.com/security/notices/USN-8492-5"/>
+        <updated>2026-07-10T09:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - ACPI drivers;
+  - ATM drivers;
+  - RNBD block device driver;
+  - Ublk userspace block driver;
+  - Bus devices;
+  - Character device driver;
+  - TPM device driver;
+  - Clock framework and drivers;
+  - Clocksource drivers;
+  - CPU idle management framework;
+  - Hardware crypto device drivers;
+  - DMA engine subsystem;
+  - EFI core;
+  - GPIO subsystem;
+  - GPU drivers;
+  - HID subsystem;
+  - Hardware monitoring drivers;
+  - IIO subsystem;
+  - InfiniBand drivers;
+  - IOM…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["We are the best allies to game devs": Skyrim modder shows solidarity with laid off Bethesda workers by draping union logos across Tamriel]]></title>
+        <id>https://www.rockpapershotgun.com/we-are-the-best-allies-to-game-devs-skyrim-modder-shows-solidarity-with-laid-off-bethesda-workers-by-draping-union-logos-across-tamriel</id>
+        <link href="https://www.rockpapershotgun.com/we-are-the-best-allies-to-game-devs-skyrim-modder-shows-solidarity-with-laid-off-bethesda-workers-by-draping-union-logos-across-tamriel"/>
+        <updated>2026-07-10T09:18:44.000Z</updated>
+        <summary type="html"><![CDATA[You've heard about Microsoft's mass layoffs by now. The last few days have been filled with stories of how these cuts are affecting different studios both still and formerly owned by Xbox, with even Elder Scrolls 6 developers Bethesda not being spared, regardless of that series being one their corporate overlords are determined to squeeze more out of going forwards. Thankfully, those overlords are reciving some pushback, with unionised Bethesda staff planning protest rallies and a modder using their talents to offer players a way of showing solidarity.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Splatoon 3's Raiders-Themed Splatfest Kicks Off This Weekend, Which Team Gets Your Vote?]]></title>
+        <id>https://www.nintendolife.com/#article-203632</id>
+        <link href="https://www.nintendolife.com/news/2026/07/poll-splatoon-3s-raiders-themed-splatfest-kicks-off-this-weekend-which-team-gets-your-vote"/>
+        <updated>2026-07-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Laters, Raiders.
+It's Splatfest weekend, folks! Nintendo technically announced this one back in the June Direct, but with all the Zelda and Xenoblade news, we thought it was only right that we give everyone a little reminder now that it's finally here.
+The Splatoon 3 Splatfest kicks off tomorrow (11th June) at 1am BST / 2am CET / 8pm ET (10th) / 5pm PT (10th), and will run throughout the weekend.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mega Malamar ex and Sableye from “Storm Emeralda” Revealed!]]></title>
         <id>156903</id>
@@ -12,15 +332,6 @@
         <updated>2026-07-10T07:18:03.000Z</updated>
         <author>
             <name>koala</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mega Golisopod ex, Wishiwashi ex, and Another Split Stadium from “Storm Emeralda” Revealed!]]></title>
-        <id>156919</id>
-        <link href="https://www.pokebeach.com/forums/threads/mega-golisopod-ex-wishiwashi-ex-and-another-split-stadium-from-%E2%80%9Cstorm-emeralda%E2%80%9D-revealed.156919/"/>
-        <updated>2026-07-10T07:15:53.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -106,15 +417,6 @@ Issue #527843241
 Physical phone crash when using CTRL + scroll wheel on Android Studio running devices]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bottom 10]]></title>
-        <id>156906</id>
-        <link href="https://www.pokebeach.com/forums/threads/bottom-10.156906/"/>
-        <updated>2026-07-10T05:27:34.000Z</updated>
-        <author>
-            <name>WizardyBacon123</name>
         </author>
     </entry>
     <entry>
@@ -250,8 +552,8 @@ Read the full article on nintendolife.com]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[Týden na ScienceMag.cz: Poprvé zjistili vysoký stupeň kvantového provázání v centimetrovém krystalu]]></title>
-        <id>http://www.abclinuxu.cznull/</id>
-        <link href="http://www.abclinuxu.cznull/"/>
+        <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-poprve-zjistili-vysoky-stupen-kvantoveho-provazani-v-centimetrovem-krystalu</id>
+        <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-poprve-zjistili-vysoky-stupen-kvantoveho-provazani-v-centimetrovem-krystalu"/>
         <updated>2026-07-09T22:01:00.000Z</updated>
         <summary type="html"><![CDATA[K nejstaršímu známému dopadu asteroidu na Zemi došlo před 3 miliardami let. Zřejmě objevili nový zdroj neutrin. Buckyball připravili i z 80 atomů boru.]]></summary>
         <author>
@@ -595,7 +897,7 @@ Read more]]></summary>
         <id>https://www.rockpapershotgun.com/we-were-already-running-a-tight-ship-elder-scrolls-6-devs-are-worried-about-xboxs-layoffs-causing-even-more-delays-to-the-long-awaited-rpg</id>
         <link href="https://www.rockpapershotgun.com/we-were-already-running-a-tight-ship-elder-scrolls-6-devs-are-worried-about-xboxs-layoffs-causing-even-more-delays-to-the-long-awaited-rpg"/>
         <updated>2026-07-09T15:58:08.000Z</updated>
-        <summary type="html"><![CDATA[Reports about the specific affects Microsoft's mass layoffs are having on studios like Obsidian and id Software keep rolling out. Elder Scrolls 6 makers Bethesda are no different, with staff saying that the cuts there have not just tanked morale, but let to worry about the fantasy RPG's development endinbg up a longer and more painful process as a result.
+        <summary type="html"><![CDATA[Reports about the specific effects of Microsoft's mass layoffs are having on studios like Obsidian and id Software keep rolling out. Elder Scrolls 6 makers Bethesda are no different, with staff saying that the cuts there have not just tanked morale, but let to worry about the fantasy RPG's development endinbg up a longer and more painful process as a result.
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
@@ -878,18 +1180,6 @@ to crash, resulting in a denial of service, or execute arbitrary code.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8521-1: Libidn vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8521-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8521-1"/>
-        <updated>2026-07-09T12:36:22.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Libidn incorrectly handled certain internationalized
-domain name strings. An attacker could possibly use this issue to obtain
-sensitive information or cause a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pokémon Legends: Z-A's Next Ranked Battle Season Takes To The Skies With A Special Ruleset]]></title>
         <id>https://www.nintendolife.com/#article-203597</id>
         <link href="https://www.nintendolife.com/news/2026/07/pokemon-legends-z-as-next-ranked-battle-season-takes-to-the-skies-with-a-special-ruleset"/>
@@ -910,19 +1200,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Response to Disneyland's new 'transforming pirate' makes it seem less like a 'plus' than a minus]]></summary>
         <author>
             <name>Garrett Martin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8520-1: Expat vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8520-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8520-1"/>
-        <updated>2026-07-09T11:51:02.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Expat used insufficient entropy when generating
-hash salt values for its internal hash table. An attacker could use this
-to craft an XML document that triggers hash flooding, leading to a
-denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1041,22 +1318,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8519-1: Go Cryptography vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8519-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8519-1"/>
-        <updated>2026-07-09T08:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Jakub Ciolek and Nicola Murino discovered that Go Cryptography incorrectly
-handled SSH agent responses. An attacker could use this to cause a denial
-of service. (CVE-2025-47913)
-
-Yuichi Watanabe discovered that Go Cryptography incorrectly handled SSH
-key exchanges. An attacker could use this to cause a denial of service.
-(CVE-2025-22869)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sabotáž repozitáře OpenMandriva způsobil naštvaný vývojář]]></title>
         <id>www.root.cz-actuality-52707</id>
         <link href="https://www.root.cz/zpravicky/sabotaz-repozitare-openmandriva-zpusobil-nastvany-vyvojar/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1067,44 +1328,6 @@ key exchanges. An attacker could use this to cause a denial of service.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8492-4: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8492-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-8492-4"/>
-        <updated>2026-07-09T08:10:03.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - MIPS architecture;
-  - PowerPC architecture;
-  - x86 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - ACPI drivers;
-  - ATM drivers;
-  - RNBD block device driver;
-  - Ublk userspace block driver;
-  - Bus devices;
-  - Character device driver;
-  - TPM device driver;
-  - Clock framework and drivers;
-  - Clocksource drivers;
-  - CPU idle management framework;
-  - Hardware crypto device drivers;
-  - DMA engine subsystem;
-  - EFI core;
-  - GPIO subsystem;
-  - GPU drivers;
-  - HID subsystem;
-  - Hardware monitoring drivers;
-  - IIO subsystem;
-  - InfiniBand drivers;
-  - IOM…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chyba GhostLock umožňuje uniknout z kontejneru a získat roota]]></title>
         <id>www.root.cz-actuality-52704</id>
         <link href="https://www.root.cz/zpravicky/chyba-ghostlock-umoznuje-uniknout-z-kontejneru-a-ziskat-roota/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1112,62 +1335,6 @@ This update corrects flaws in the following subsystems:
         <summary type="html"><![CDATA[Odborníci ze společnosti Nebula Security odhalili GhostLock (CVE-2026–43499), chybu v linuxovém jádře, která umožňuje jakémukoli přihlášenému uživateli získat plná rootovská oprávnění. Zranitelný kód je od roku 2011 součástí prakticky všech běžných linuxových distribucí a k jeho zneužití nejsou zapotřebí žádná zvláštní oprávnění ani neobvyklá nastavení.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8490-2: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8490-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8490-2"/>
-        <updated>2026-07-09T07:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - Block layer subsystem;
-  - Cryptographic API;
-  - DMA engine subsystem;
-  - InfiniBand drivers;
-  - STMicroelectronics network drivers;
-  - Network drivers;
-  - NVME drivers;
-  - SCSI subsystem;
-  - USB over IP driver;
-  - File systems infrastructure;
-  - Ext4 file system;
-  - Network file system (NFS) server daemon;
-  - SMB network file system;
-  - Kernel thread helper (kthread);
-  - IPv6 networking;
-  - Tracing infrastructure;
-  - Kernel exit() syscall;
-  - Scatterlist API;
-  - B.A.T.M.A.N. meshing protocol;
-  - Ethernet bridge;
-  - Ceph Core library;
-  - IPv4 networking;
-  - Multipath TCP;
-  - Netfilter;
-  - RxRPC session sockets;
-  - SMC sockets;
-  - X.25 network layer;
-(CVE-2026-22984, CVE-2026-23272, CVE-2026-23278, CVE-2026-23392,
-CVE-2026-23427, CVE-2026-23428, CVE-2026-23450, CVE-2026-23455,
-CVE-2026-31402, CVE-2026-31418, CVE-2026-31436, CVE-2026-31448,
-CVE-2026-31478, CVE-2026-31607, CVE-2026-31635, CVE-2026-31637,
-CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
-CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-31718,
-CVE-2026-43011, CVE-2026-43037, CVE-2026-43038, CVE-2026-43071,
-CVE-2026-43083, CVE-2026-43114, CVE-2026-43117, CVE-2026-43125,
-CVE-2026-43186, CVE-2026-43197, CVE-2026-43304, CVE-2026-43341,
-CVE-2026-43376, CVE-2026-43378, CVE-2026-43383, CVE-2026-43384,
-CVE-2026-43402, CVE-2026-43406, CVE-2026-43407, CVE-2026-43414,
-CVE-2026-43493, CVE-2026-43501, CVE-2026-45898, CVE-2026-45988,
-CVE-2026-46039, CVE-2026-46043, CVE-2026-46115, CVE-2026-46119,
-CVE-2026-46135, CVE-2026-46185, CVE-2026-46195, CVE-2026-46243,
-CVE-2026-46244, CVE-2026-46266, CVE-2026-46289, CVE-2026-46316,
-CVE-2026-46325)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1681,19 +1848,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mario Kart Tour Service Officially Ends This September]]></title>
-        <id>https://www.nintendolife.com/#article-203526</id>
-        <link href="https://www.nintendolife.com/news/2026/07/mario-kart-tour-service-officially-ends-this-september"/>
-        <updated>2026-07-08T09:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Permanent pit stop.
-Nintendo has announced that the mobile app Mario Kart Tour is officially coming to an end later this year, with online service closing on 30th September at 7am BST / 8am CET / 2am ET / 11pm PT (29th).
-Unlike Animal Crossing: Pocket Camp, which shut up shop back in 2024 only to be replaced by a paid offline version, Nintendo states that a similar deal for MKT is "not scheduled for release" at the time of writing.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zabbix: monitorujte svou infrastrukturu a mějte ji pod kontrolou (školení)]]></title>
         <id>www.root.cz-actuality-44644</id>
         <link href="https://www.root.cz/zpravicky/zabbix-monitorujte-svou-infrastrukturu-a-mejte-ji-pod-kontrolou-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1739,16 +1893,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Two more security issues were made public today concerning the X.Org Server codebase and in turn XWayland also being affected...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton 11.0-1]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/proton-11.0-1</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/proton-11.0-1"/>
-        <updated>2026-07-07T23:57:15.000Z</updated>
-        <summary type="html"><![CDATA[Proton (Wikipedie), tj. fork Wine integrovaný ve Steamu umožňující na Linuxu hrát hry určené pouze pro Windows, byl vydán ve verzi 11.0-1. Přehled novinek se seznamem nově podporovaných her na GitHubu. Aktuální přehled všech podporovaných her na stránkách ProtonDB]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2108,16 +2252,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Microsoft Lands Initial AV1 Encoding Using DirectX 12 + HMFT Within Mesa 26.2]]></title>
-        <id>https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT</id>
-        <link href="https://www.phoronix.com/news/Microsoft-AV1-Encode-DX12-HMFT"/>
-        <updated>2026-07-07T00:34:05.000Z</updated>
-        <summary type="html"><![CDATA[The newest, unexpected addition to the Mesa codebase by Microsoft engineers is contributed accelerated AV1 video encoding on the GPU using a combination of DirectX 12 and the Hardware Media Foundation Transform (HMFT) support that is part of the Windows Media Foundation layer...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[July 07, 2026]]></title>
         <id>https://developer.android.com/jetpack/androidx/versions/all-channel#july_07_2026</id>
         <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#july_07_2026"/>
@@ -2148,16 +2282,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vulkan Video H.264/H.265 Encode Now Working For Intel Alchemist GPUs On Linux]]></title>
-        <id>https://www.phoronix.com/news/Intel-ANV-Gen125-H265-Encode</id>
-        <link href="https://www.phoronix.com/news/Intel-ANV-Gen125-H265-Encode"/>
-        <updated>2026-07-06T21:04:03.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year Vulkan Video encode was disabled on newer generations of Intel graphics hardware due to insufficient testing with the Intel ANV open-source driver. That impacted Gen12.5 graphics and newer - basically Alchemist and anything newer. Now at least Gen12.5 graphics with the likes of the Arc A-Series is seeing H.264 and H.265 encoding re-enabled...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Januscape: chyba v KVM umožňující uniknout z virtualizace na procesorech Intel a AMD]]></title>
         <id>www.root.cz-actuality-52668</id>
         <link href="https://www.root.cz/zpravicky/januscape-chyba-v-kvm-umoznujici-uniknout-z-virtualizace-na-procesorech-intel-a-amd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2165,16 +2289,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Bezpečnostní výzkumník Hyunwoo Kim objevil a nahlásil bezpečnostní chybu, kterou nazval Januscape. Jde o chybu typu „host-na-hostitele“, kterou lze podle dosavadních veřejně dostupných informací zneužít  na procesorech Intel a AMD. Chyba nese označení CVE-2026–53359 a může být zneužita uvnitř virtuálního stroje k ovlivnění paměti hostitelského systému.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marek Olšák At Valve Lands RADV Code That Can "Double Performance" With Some VRS Cases]]></title>
-        <id>https://www.phoronix.com/news/Marek-Double-VRS-RADV-Perf</id>
-        <link href="https://www.phoronix.com/news/Marek-Double-VRS-RADV-Perf"/>
-        <updated>2026-07-06T18:56:57.000Z</updated>
-        <summary type="html"><![CDATA[Longtime AMD Linux graphics driver expert Marek Olšák, who joined Valve earlier this year and now focusing more on RADV rather than the RadeonSI Gallium3D driver, has seen some of his latest work now merged for Mesa 26.2. Marek landed a big overhaul to the variable rate shading (VRS) code that in some cases can double the performance...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2215,16 +2329,6 @@ Read more]]></summary>
         <updated>2026-07-06T15:51:59.000Z</updated>
         <author>
             <name>Alex Hesketh</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryzen AI Developer Platform: AMD's Own Linux Distribution Built Atop Debian]]></title>
-        <id>https://www.phoronix.com/review/ryzen-ai-linux-os</id>
-        <link href="https://www.phoronix.com/review/ryzen-ai-linux-os"/>
-        <updated>2026-07-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[With the AMD Ryzen AI Halo developer platform there is the option of ordering this Ryzen AI Max+ mini PC with either Microsoft Windows 11 or "Linux OS". When receiving a AMD Ryzen AI Halo review sample last month, I fully expected it to just be an Ubuntu LTS install with ROCm preloaded. I was quite surprised when powering it up to find that it's an OS called the AMD Ryzen AI Developer Platform 1 "Rex" and is based on Debian Linux.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3478,30 +3582,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bloodwoven is a survival immersive sim set in a world built on top of the frozen corpse of a god]]></title>
-        <id>https://www.rockpapershotgun.com/bloodwoven-is-a-survival-immersive-sim-set-in-a-world-built-on-top-of-the-frozen-corpse-of-a-god</id>
-        <link href="https://www.rockpapershotgun.com/bloodwoven-is-a-survival-immersive-sim-set-in-a-world-built-on-top-of-the-frozen-corpse-of-a-god"/>
-        <updated>2026-06-27T20:46:29.000Z</updated>
-        <summary type="html"><![CDATA[I do love me an odd little immersive sim I do. There's just something special about the flexibility in them, so my ears always perk up like a dog hearing the word walkies whenever a new one enters the scene. Today, it's Bloodwoven, the next game from the devs behind Blood West (guess they like blood a lot), with a logline that has immediately drawn me in: "survive and thrive in a world built upon the frozen corpse of a forgotten god." Chills!
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh no, that's Lenovo saying they think these RAM prices will be the new normal and may never go back to how they were]]></title>
-        <id>https://www.rockpapershotgun.com/oh-no-thats-lenovo-saying-they-think-these-ram-prices-will-be-the-new-normal-and-may-never-go-back-to-how-they-were</id>
-        <link href="https://www.rockpapershotgun.com/oh-no-thats-lenovo-saying-they-think-these-ram-prices-will-be-the-new-normal-and-may-never-go-back-to-how-they-were"/>
-        <updated>2026-06-27T18:07:55.000Z</updated>
-        <summary type="html"><![CDATA[That RAM crisis, huh? Surely it'll end sometime soon. Undoubtedly. We'll all be able to afford technology again, games consoles and computers won't be only for the 1%, and we can laugh about this silly point in history. Sorry, I've just had a note handed to me and, oh, oh no, Lenovo are saying they think that these new astronomically high prices will be the new normal as we enter 2030. Excuse me while I scream into the void for a moment.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Feds Seize Domain Names of Nearly 400 Pirate Sports Streaming Sites (Update)]]></title>
         <id>https://torrentfreak.com/?p=279350</id>
         <link href="https://torrentfreak.com/feds-seize-domain-names-of-nearly-400-pirate-sports-streaming-sites/"/>
@@ -3926,17 +4006,6 @@ Issue #519243465
 Model Providers 'Add > Local Provider' opens Gemini/Google Cloud configuration screen instead of local model configuration]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Music Labels Win Canadian Site Blocking Order Against Y2Mate, YTMP3, and Savefrom]]></title>
-        <id>https://torrentfreak.com/?p=279158</id>
-        <link href="https://torrentfreak.com/music-labels-win-canadian-site-blocking-order-against-y2mate-ytmp3-and-savefrom/"/>
-        <updated>2026-06-16T13:47:49.000Z</updated>
-        <summary type="html"><![CDATA[For the first time in Canada, a site-blocking order has been issued that specifically targets YouTube rippers. The Federal Court has ordered major ISPs to block access to Y2Mate, YTMP3, and Savefrom domains. Interestingly, the order targets copycats, as the original Savefrom site preemptively started blocking Canadians years ago.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
