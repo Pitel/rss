@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-14T09:51:03.013Z</id>
+    <id>urn:2026-07-14T11:21:21.090Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-14T09:51:03.014Z</updated>
+    <updated>2026-07-14T11:21:21.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Midori 11.9]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/midori-11.9</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/midori-11.9"/>
+        <updated>2026-07-14T10:49:12.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 11.9 webového prohlížeče Midori (Wikipedie, GitHub). S novým centrem ovládání, pokročilejším blokováním reklam, optimalizací výkonu…]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Dealing With Apple's Wild Mess Of Sensors On Apple Silicon SoCs]]></title>
+        <id>https://www.phoronix.com/news/Apple-Wild-Mess-Sensors-Linux</id>
+        <link href="https://www.phoronix.com/news/Apple-Wild-Mess-Sensors-Linux"/>
+        <updated>2026-07-14T10:31:10.000Z</updated>
+        <summary type="html"><![CDATA[While there has been the Apple System Management Controller "SMC" hardware monitoring driver with the intent on exposing battery/power stats as well as thermal and more for Apple Silicon SoCs on Linux, it hasn't yet been working out properly on the mainline kernel. Between missing Device Tree nodes to the hodgepodge mess of sensors between the different Apple M-Series SoCs, it's a mess...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoldenEye-inspired FPS Agent 64: Spies Never Die finally releases in August, complete with optional big heads]]></title>
+        <id>https://www.rockpapershotgun.com/goldeneye-inspired-fps-agent-64-spies-never-die-finally-releases-in-august-complete-with-optional-big-heads</id>
+        <link href="https://www.rockpapershotgun.com/goldeneye-inspired-fps-agent-64-spies-never-die-finally-releases-in-august-complete-with-optional-big-heads"/>
+        <updated>2026-07-14T10:20:23.000Z</updated>
+        <summary type="html"><![CDATA[2026 has already had a modern take on James Bond in game form thanks to IO Interactive's 007 First Light, and now it's getting some retro bondage thanks to a throwback spy FPS that's been in the works for a while. Agent 64: Spies Never Die, a GoldenEye-inspired romp from solo developer Replicant D6, releases next month.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haiku Merges NVMM For Initial Virtualization Support, But It Doesn't Yet Fully Work]]></title>
+        <id>https://www.phoronix.com/news/Haiku-June-2026</id>
+        <link href="https://www.phoronix.com/news/Haiku-June-2026"/>
+        <updated>2026-07-14T10:11:00.000Z</updated>
+        <summary type="html"><![CDATA[The BeOS-inspired Haiku open-source operating system project has published their June 2026 status report. In the past month the developers merged their NVMM VM monitor support, hardware driver improvements, and progressed toward the upcoming Haiku sixth beta release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Light" GRUB Alternative Package For Confidential Computing Approved For Fedora 45]]></title>
+        <id>https://www.phoronix.com/news/GRUB-Light-Approved-Fedora-45</id>
+        <link href="https://www.phoronix.com/news/GRUB-Light-Approved-Fedora-45"/>
+        <updated>2026-07-14T09:51:00.000Z</updated>
+        <summary type="html"><![CDATA[A month ago there was a change proposal raised for offering a "light" version of the GRUB2 bootloader for use in confidential computing environments. While there were some differing views on the matter for this alternative, stripped-down GRUB package as opposed to just using other bootloaders like systemd-boot, ultimately, the proposal is now approved...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weston 16.0 Compositor Released With HDR Improvements, Vulkan Fixes]]></title>
         <id>https://www.phoronix.com/news/Wayland-Weston-16.0</id>
@@ -144,7 +195,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[Čtečka elektronických knih Open Book Touch na Crowd Supply]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/ctecka-elektronickych-knih-open-book-touch-na-crowd-supply</id>
         <link href="http://www.abclinuxu.cz/zpravicky/ctecka-elektronickych-knih-open-book-touch-na-crowd-supply"/>
-        <updated>2026-07-14T02:27:26.000Z</updated>
+        <updated>2026-07-14T02:27:25.000Z</updated>
         <summary type="html"><![CDATA[Na Crowd Supply běží kampaň na podporu open source čtečky elektronických knih Open Book Touch. Postavena je na ESP32-S3. Má 4,26palcový dotykový e-papírový displej s rozlišením 480×800 pixelů, podsvícení, slot na microSD kartu. Cena je 149 dolarů a poštovné 12 dolarů. Dodání je plánováno na duben 2027.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -2032,16 +2083,6 @@ Physical phone crash when using CTRL + scroll wheel on Android Studio running de
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TypeScript 7.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/typescript-7.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/typescript-7.0"/>
-        <updated>2026-07-10T02:46:13.000Z</updated>
-        <summary type="html"><![CDATA[TypeScript (Wikipedie), tj. JavaScript rozšířený o statické typování a další atributy, byl vydán v nové verzi 7.0. Kompilátor byl kvůli výkonu přepsán z TypeScriptu do Go.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD Enabling CACP Feature On Linux For Greater OLED Power Savings]]></title>
         <id>https://www.phoronix.com/news/AMDGPU-DC-Enabling-CACP</id>
         <link href="https://www.phoronix.com/news/AMDGPU-DC-Enabling-CACP"/>
@@ -2194,16 +2235,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wayland 1.26 RC1 Released With New Event To Help Ensure Correct Pointer Coordinates]]></title>
-        <id>https://www.phoronix.com/news/Wayland-1.26-RC1</id>
-        <link href="https://www.phoronix.com/news/Wayland-1.26-RC1"/>
-        <updated>2026-07-09T15:47:43.000Z</updated>
-        <summary type="html"><![CDATA[In addition to Weston 16 nearing release and its release candidate out today, the Wayland 1.26 release candidate was just issued with a few notable changes on top of the more typical bug fixing...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dragalge deck]]></title>
         <id>156786</id>
         <link href="https://www.pokebeach.com/forums/threads/dragalge-deck.156786/"/>
@@ -2230,26 +2261,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proposed Linux Patch For A Brief Delay To Match PCI Spec Will Hopefully Address Some Bugs]]></title>
-        <id>https://www.phoronix.com/news/Linux-Delay-D3cold-Patch-Fix</id>
-        <link href="https://www.phoronix.com/news/Linux-Delay-D3cold-Patch-Fix"/>
-        <updated>2026-07-09T13:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Going back to February there was a bug report around the xHCI controller dieing on resume from s2idle when using an AMD Ryzen AI Max+ "Strix Halo" Framework Desktop. In turn all USB devices behind the xHCI controller are lost on resume, but unbinding and binding the driver can restore the functionality without a reboot. After months of back and forth communication, it looks like a solution has been figured out and comes down to a nuance of the PCI spec with needing a brief wait...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Prepares For New USB-C Security Feature On Lenovo ThinkPads]]></title>
-        <id>https://www.phoronix.com/news/ThinkPad-USB-C-Restricted-Mode</id>
-        <link href="https://www.phoronix.com/news/ThinkPad-USB-C-Restricted-Mode"/>
-        <updated>2026-07-09T13:02:38.000Z</updated>
-        <summary type="html"><![CDATA[Newer Lenovo ThinkPad systems feature a security feature called USB-C Security Restricted Mode that is in the process of being wired up for reporting under Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3676,21 +3687,6 @@ Still, this did provide the opportunity for a much closer assessment of the Stea
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IO Interactive look set for layoffs as their external partner for Project Fantasy pulls out]]></title>
-        <id>https://www.rockpapershotgun.com/io-interactive-look-set-for-layoffs-as-their-external-partner-for-project-fantasy-pulls-out</id>
-        <link href="https://www.rockpapershotgun.com/io-interactive-look-set-for-layoffs-as-their-external-partner-for-project-fantasy-pulls-out"/>
-        <updated>2026-06-30T17:51:44.000Z</updated>
-        <summary type="html"><![CDATA[Update: Bloomberg have reported that IO's external partner on Project Fantasy was indeed Xbox.
-
-Sigh. It's another one of those days, as layoffs are essentially imminent yet again, this time at 007 First Light and Hitman developer IO Interactive. The studio shared a post earlier today regarding their as-of-yet not formally revealed Project Fantasy, in which they shared that their "relationship with an external partner… has come to and end."
-
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
     <entry>
