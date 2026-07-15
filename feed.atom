@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-15T09:58:27.599Z</id>
+    <id>urn:2026-07-15T11:36:08.867Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-15T09:58:27.599Z</updated>
+    <updated>2026-07-15T11:36:08.867Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[První Mobile Linux Hackday v Plzni]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/prvni-mobile-linux-hackday-v-plzni</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/prvni-mobile-linux-hackday-v-plzni"/>
+        <updated>2026-07-15T11:24:33.000Z</updated>
+        <summary type="html"><![CDATA[První Mobile Linux Hackday v Plzni, tj. komunitní setkání věnované Linuxu na mobilních zařízeních,  proběhne 24. července od 10:00. Akce je otevřená všem zájemcům – od zvědavců po zkušené vývojáře. Dopoledne proběhnou přednášky Davida Heidelberga a Petra Hodiny o aktuálním stavu mobilního Linuxu: proč vůbec chtít tučňáka v kapse, jaké telefony jsou dnes dobře podporované a co taková podpora obnáší. Po obědě se zaměříme na konkrétní technická témata – u-boot bootloader na telefonech, camera stack se zaměřením na ostření a podpora dotykového displeje na zařízeních Google Pixel. Prakticky si lze vyzkoušet systémy s prostředím Phosh nebo KDE na telefonech OnePlus 6, Xiaomi Poco F1 a Fairphone 5. Přineste vlastní telefon – rádi se pobavíme o tom, jak na něj portovat Linux a jaká je aktuální úroveň podpory.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Pokopia 'Hide And Sneak With Zorua' Event Starts Next Week]]></title>
+        <id>https://www.nintendolife.com/#article-203811</id>
+        <link href="https://www.nintendolife.com/news/2026/07/pokemon-pokopia-hide-and-sneak-with-zorua-event-starts-next-week"/>
+        <updated>2026-07-15T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready or not.
+Pokémon Pokopia is back with another event, this time starring the dark-type Pokémon Zorua.
+Kicking off on 19th July at 5am and ending on 27th July at 4:59am local time, you're invited to play hide and seek with Zorua to win in-game prizes, including a new trophy. There doesn't, however, appear to be any new Pokémon being added this time around.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8547-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8547-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8547-1"/>
+        <updated>2026-07-15T10:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - RISC-V architecture;
+  - Cryptographic API;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - Network drivers;
+  - STMicroelectronics network drivers;
+  - NVME drivers;
+  - x86 platform drivers;
+  - SCSI subsystem;
+  - SPI subsystem;
+  - TCM subsystem;
+  - USB over IP driver;
+  - File systems infrastructure;
+  - HFS+ file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - IPv6 networking;
+  - Tracing infrastructure;
+  - Timer subsystem;
+  - B.A.T.M.A.N. meshing protocol;
+  - Bluetooth subsystem;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - MAC80211 subsystem;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SMC sockets;
+  - Sun RPC protocol;
+  - X.25 network layer;
+  - AMD SoC Alsa drivers;
+  - KVM subsystem;
+(CVE-2022-48816, CVE-2023-53673, CVE-2025-37778, CVE-2025-37822,
+CVE-2025-37924, CVE-2025-38201, CVE-2025-40082, CVE-2025-68214,
+CVE-2025-68263, CVE-2025-71089, CVE-2025-71220, CVE-2025-71222,
+CVE-2025-71224, CVE-2026-23176, CVE-2026-23180, CVE-2026-23182,
+CVE-2026-23190, CVE-2026-23193, CVE-2026-23198, CVE-2026-23202,
+CVE-2026-23206, CVE-2026-23216, CVE-2026-23256, CVE-2026-23257,
+CVE-2026-23258, CVE-2026-23262, CVE-2026-23272, CVE-2026-23278,
+CVE-2026-23428, CVE-2026-23450, CVE-2026-23455, CVE-2026-31402,
+CVE-2026-31418, CVE-2026-31478, CVE-2026-31607, CVE-2026-31637,
+CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
+CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-43011,
+CVE-2026-43037, CVE-2026-43038, CVE-2026-43071, CVE-2026-43114,
+CVE-2026-43117, CVE-2026-43185, CVE-2026-43186, CVE-2026-43304,
+CVE-2026-43341, CVE-2026-43383, CVE-2026-43406, CVE-2026-43407,
+CVE-2026-43414, CVE-2026-43493, CVE-2026-43501, CVE-2026-45988,
+CVE-2026-46043, CVE-2026-46119, CVE-2026-46135, CVE-2026-46195,
+CVE-2026-46243)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds Reaffirms That Linux Is Not "Anti-AI" & Not A "Social Warrior" Project]]></title>
+        <id>https://www.phoronix.com/news/Linux-Is-Not-Anti-AI</id>
+        <link href="https://www.phoronix.com/news/Linux-Is-Not-Anti-AI"/>
+        <updated>2026-07-15T10:35:21.000Z</updated>
+        <summary type="html"><![CDATA[Overnight Linux creator Linus Torvalds wrote another well crafted message that reaffirms the Linux kernel position of not being against AI and lashing back against some kernel developers that are against AI/LLM usage within the kernel project...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vocalinux 0.14 Beta Released For Offline Voice Dictation / Speech-To-Text On Linux]]></title>
+        <id>https://www.phoronix.com/news/Vocalinux-0.14-Beta</id>
+        <link href="https://www.phoronix.com/news/Vocalinux-0.14-Beta"/>
+        <updated>2026-07-15T10:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 26.10 is notably working on laying the foundation for a context-aware desktop and their initial deliverable being worked on is Myna as a speech-to-text solution for the Linux desktop. Interestingly there is already a promising voice dictation / speech-to-text solution for the Linux desktop called Vocalinux that continues advancing and is usable right now for those looking at their own speech-to-text desktop solution...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD Laptop Support Continues Improving With WiFi, GPU & Audio Driver Work]]></title>
+        <id>https://www.phoronix.com/news/FreeBSD-Laptops-June-2026</id>
+        <link href="https://www.phoronix.com/news/FreeBSD-Laptops-June-2026"/>
+        <updated>2026-07-15T09:56:19.000Z</updated>
+        <summary type="html"><![CDATA[The FreeBSD Foundation's Laptop Support and Usability Project, which has received more than $750k USD in funding to improve the experience of FreeBSD on laptops, is out with its newest monthly progress report. A lot continues to happen for improving the FreeBSD laptop story, which in many aspects also benefits FreeBSD on the desktop too...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mesa's Native Vulkan-To-Metal Driver Now Advertises Vulkan 1.4]]></title>
         <id>https://www.phoronix.com/news/KosmicKrisp-Vulkan-1.4</id>
@@ -58,6 +173,62 @@ Available for pre-order on Hot Topic now (sorry, no international shipping on pr
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8546-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8546-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8546-1"/>
+        <updated>2026-07-15T08:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - DMA engine subsystem;
+  - InfiniBand drivers;
+  - STMicroelectronics network drivers;
+  - Network drivers;
+  - NVME drivers;
+  - SCSI subsystem;
+  - USB over IP driver;
+  - File systems infrastructure;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Kernel thread helper (kthread);
+  - IPv6 networking;
+  - Tracing infrastructure;
+  - Kernel exit() syscall;
+  - Scatterlist API;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SMC sockets;
+  - X.25 network layer;
+(CVE-2026-22984, CVE-2026-23272, CVE-2026-23278, CVE-2026-23392,
+CVE-2026-23427, CVE-2026-23428, CVE-2026-23450, CVE-2026-23455,
+CVE-2026-31402, CVE-2026-31418, CVE-2026-31436, CVE-2026-31448,
+CVE-2026-31478, CVE-2026-31607, CVE-2026-31635, CVE-2026-31637,
+CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
+CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-31718,
+CVE-2026-43011, CVE-2026-43037, CVE-2026-43038, CVE-2026-43071,
+CVE-2026-43083, CVE-2026-43114, CVE-2026-43117, CVE-2026-43125,
+CVE-2026-43185, CVE-2026-43186, CVE-2026-43197, CVE-2026-43304,
+CVE-2026-43341, CVE-2026-43376, CVE-2026-43378, CVE-2026-43383,
+CVE-2026-43384, CVE-2026-43402, CVE-2026-43406, CVE-2026-43407,
+CVE-2026-43414, CVE-2026-43493, CVE-2026-43501, CVE-2026-45898,
+CVE-2026-45988, CVE-2026-46039, CVE-2026-46043, CVE-2026-46115,
+CVE-2026-46119, CVE-2026-46135, CVE-2026-46185, CVE-2026-46195,
+CVE-2026-46243, CVE-2026-46244, CVE-2026-46266, CVE-2026-46289,
+CVE-2026-46316, CVE-2026-46325)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1010,67 +1181,6 @@ code.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8537-1: httplib2 vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8537-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8537-1"/>
-        <updated>2026-07-14T11:56:56.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that httplib2 performed unbounded decompression of HTTP
-response bodies when the server used gzip or deflate Content-Encoding. A
-remote attacker could possibly use this issue to cause httplib2 to use
-excessive resources, leading to a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8536-1: MariaDB vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8536-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8536-1"/>
-        <updated>2026-07-14T11:45:03.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that MariaDB did not properly validate parameters
-supplied by a joiner node during a State Snapshot Transfer using the
-mariabackup method. An attacker could possibly use this issue to execute
-arbitrary shell commands on the donor node. (CVE-2026-44168)
-
-It was discovered that MariaDB did not properly enforce the SHOW CREATE
-ROUTINE privilege when a user obtained access to a stored routine via a
-role. An authenticated user could possibly use this issue to obtain
-sensitive information. (CVE-2026-44169)
-
-It was discovered that MariaDB's mbstream utility did not properly validate
-paths when unpacking archives. An attacker could possibly use this issue to
-write files outside of the intended target directory. (CVE-2026-44171)
-
-It was discovered that MariaDB's mysql_real_escape_string() function
-incorrectly handled the big5 character set. An attacker could possibly use
-this issue to perform SQL injection attacks. (CVE-2026-44172)
-
-It was discovered that MariaDB did not properly check the FILE privilege
-when the FROM clause of a SELECT ... INTO OUTFILE or SELECT ... INTO
-DUMPFILE statement contained only subqueries. An authenticated user could
-possibly use this issue to write files to unintended locations.
-(CVE-2026-44173)
-
-It was discovered that MariaDB did not properly validate parameters
-supplied by a joiner node during a State Snapshot Transfer using the rsync
-method. An attacker could possibly use this issue to execute arbitrary
-shell commands on the donor node. (CVE-2026-48163)
-
-It was discovered that MariaDB allowed a high-privileged user to set
-certain Galera system variables to values containing shell commands, which
-were then executed by the server process. An authenticated user could
-possibly use this issue to execute arbitrary shell commands.
-(CVE-2026-48165)
-
-It was discovered that MariaDB executed shell commands embedded in the name
-of a joiner node when wsrep_notify_cmd was enabled. A remote attacker could
-possibly use this issue to execute arbitrary shell commands.
-(CVE-2026-49261)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fallout: New Vegas gets a Mojave interpretation of Oblivion's Dark Brotherhood, thanks to this assassin-focused faction quest mod]]></title>
         <id>https://www.rockpapershotgun.com/fallout-new-vegas-gets-a-mojave-interpretation-of-oblivions-dark-brotherhood-thanks-to-this-assassin-focused-faction-quest-mod</id>
         <link href="https://www.rockpapershotgun.com/fallout-new-vegas-gets-a-mojave-interpretation-of-oblivions-dark-brotherhood-thanks-to-this-assassin-focused-faction-quest-mod"/>
@@ -1844,19 +1954,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reminder: Tetris 99's New Crossover Event Celebrates The Return Of Star Fox, Unlock A Special Theme]]></title>
-        <id>https://www.nintendolife.com/#article-203015</id>
-        <link href="https://www.nintendolife.com/news/2026/07/reminder-tetris-99s-new-crossover-event-celebrates-the-return-of-star-fox-unlock-a-special-theme"/>
-        <updated>2026-07-12T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Update: Event now live.
-:
-
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenTTD 16.0-beta2]]></title>
         <id>https://www.openttd.org/news/2026/07/12/openttd-16-0-beta2.html</id>
         <link href="https://www.openttd.org/news/2026/07/12/openttd-16-0-beta2.html"/>
@@ -1987,36 +2084,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM Merges x86 LFI "Lightweight Fault Isolation" Target For In-Process Sandboxing]]></title>
-        <id>https://www.phoronix.com/news/LLVM-x86-LFI-Merged</id>
-        <link href="https://www.phoronix.com/news/LLVM-x86-LFI-Merged"/>
-        <updated>2026-07-11T10:12:09.000Z</updated>
-        <summary type="html"><![CDATA[Stanford researchers have been developing Lightweight Fault Isolation "LFI" compiler passes and targets for LLVM as a means of efficient, native code sandboxing. The AArch64 LFI target was previously upstreamed while this week the x86/x86_64 LFI target was also upstreamed for this means of in-process sandboxing...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Developers Continue Landing More Features For Plasma 6.8]]></title>
-        <id>https://www.phoronix.com/news/Plasma-6.8-Spectacle-Audio</id>
-        <link href="https://www.phoronix.com/news/Plasma-6.8-Spectacle-Audio"/>
-        <updated>2026-07-11T09:51:44.000Z</updated>
-        <summary type="html"><![CDATA[KDE developers continue to be very busy this summer landing more features for the upcoming Plasma 6.8 desktop...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa's Rusticl Now Enables Arm Mali Panfrost Driver Support By Default]]></title>
-        <id>https://www.phoronix.com/news/Mesa-Rusticl-Panfrost-Default</id>
-        <link href="https://www.phoronix.com/news/Mesa-Rusticl-Panfrost-Default"/>
-        <updated>2026-07-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A change upstreamed to Mesa by an Arm engineer now enables the Panfrost Gallium3D driver for Arm Mali graphics to work with the Rusticl driver by default...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2170,16 +2237,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Prezident divize Device Solutions (DS) Samsungu, která se zabývá výrobou čipů, Kim Yong-Kwan před týdnem oznámil, že letos očekává rekordní zisk, který by měl být větší než úhrnný zisk za 40 let existence DS. Očekává se roční zisk okolo 200 miliard dolarů. Divize DS se na celkovém zisku Samsungu podílí 94 %.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EK předběžně shledala, že návykový design Instagramu a Facebooku porušuje DSA]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ek-predbezne-shledala-ze-navykovy-design-instagramu-a-facebooku-porusuje-dsa</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ek-predbezne-shledala-ze-navykovy-design-instagramu-a-facebooku-porusuje-dsa"/>
-        <updated>2026-07-10T11:56:30.000Z</updated>
-        <summary type="html"><![CDATA[Evropská komise předběžně shledala, že návykový design aplikací Instagram a Facebook od americké společnosti Meta porušuje unijní nařízení o digitálních službách (DSA). Návykový design zahrnuje například takzvané nekonečné posouvání, automatické přehrávání videí, tzv. push notifikace, kdy aplikace uživatele vybízí k návratu do jejího prostředí, či vysoce personalizovaný algoritmus, který rychle pozná, co uživatele baví a snaží se ho držet v aplikaci. „Z šetření komise vyplývá, že společnost Meta nedostatečně posoudila rizika, která její návykový design představuje pro fyzické a duševní zdraví uživatelů, včetně nezletilých a zranitelných dospělých,“ stojí v prohlášení EK. Návykové funkce podněcují u uživatelů potřebu neustále pokračovat v takzvaném scrollování a uvádějí mozek do „režimu autopilota“, což přispívá ke vzniku nezdravých návyků a nutkavého používání těchto služeb, dodala komise.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
