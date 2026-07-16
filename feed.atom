@@ -1,12 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-16T19:00:43.497Z</id>
+    <id>urn:2026-07-16T20:50:50.463Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-16T19:00:43.497Z</updated>
+    <updated>2026-07-16T20:50:50.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[GameStop CEO Says Physical Games Don’t Matter]]></title>
+        <title type="html"><![CDATA[I don't like football, but I do like platformers, so Kick is a pretty little bridge that closes that gap]]></title>
+        <id>https://www.rockpapershotgun.com/i-dont-like-football-but-i-do-like-platformers-so-kick-is-a-pretty-little-bridge-that-closes-that-gap</id>
+        <link href="https://www.rockpapershotgun.com/i-dont-like-football-but-i-do-like-platformers-so-kick-is-a-pretty-little-bridge-that-closes-that-gap"/>
+        <updated>2026-07-16T20:36:00.000Z</updated>
+        <summary type="html"><![CDATA[I've never been a football person, so this whole Global Mug thing that's going on at the moment is as important to me as eyelids for a fish. What I have always been is someone who likes platformers, however, even when they're all about that thing they call the beautiful game. And in the case of Kick, it seems that sidescrolling ball dribbling is actually quite delightful.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video Game Companies Can No Longer Do Layoffs Quietly]]></title>
+        <id>https://kotaku.com/?p=2000716754</id>
+        <link href="https://kotaku.com/video-game-worker-strike-ubisoft-zenimax-bethesda-2000716754"/>
+        <updated>2026-07-16T20:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Public demonstrations have kicked off in Barcelona, Edinburgh, Maryland and beyond bringing global attention to the video game industry labor crisis]]></summary>
+        <author>
+            <name>Ash Parrish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2027 Pokemon Championship Series Event Schedule and Changes Announced!]]></title>
+        <id>156925</id>
+        <link href="https://www.pokebeach.com/forums/threads/2027-pokemon-championship-series-event-schedule-and-changes-announced.156925/"/>
+        <updated>2026-07-16T20:07:39.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The New Wolverine Trailer Reveals Lady Deathstrike Beating The Crap Out Of Logan]]></title>
+        <id>https://kotaku.com/?p=2000716783</id>
+        <link href="https://kotaku.com/the-new-wolverine-trailer-reveals-lady-deathstrike-beating-the-crap-out-of-logan-2000716783"/>
+        <updated>2026-07-16T19:35:55.000Z</updated>
+        <summary type="html"><![CDATA[Healing factor or not, that's gotta hurt]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Olive Garden Brings Back $100 Pasta Pass 6 Years Later Only For It To Sell Out In Minutes]]></title>
+        <id>https://kotaku.com/?p=2000716753</id>
+        <link href="https://kotaku.com/olive-garden-100-unlimited-pasta-pass-sold-out-2000716753"/>
+        <updated>2026-07-16T19:11:52.000Z</updated>
+        <summary type="html"><![CDATA['It's cooked']]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Gengar “Enhanced 2-Pack Blister” and Mega Greninja Mini Portfolio to Release in October]]></title>
+        <id>156927</id>
+        <link href="https://www.pokebeach.com/forums/threads/new-gengar-%E2%80%9Cenhanced-2-pack-blister%E2%80%9D-and-mega-greninja-mini-portfolio-to-release-in-october.156927/"/>
+        <updated>2026-07-16T19:05:41.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GameStop CEO Says Physical Games Are ‘Totally Irrelevant’]]></title>
         <id>https://kotaku.com/?p=2000716758</id>
         <link href="https://kotaku.com/gamestop-ceo-says-physical-games-dont-matter-2000716758"/>
         <updated>2026-07-16T18:49:01.000Z</updated>
@@ -78,12 +138,34 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Gengar “Enhanced 2-Pack Blister” and Mega Greninja Mini Portfolio to Release in October]]></title>
-        <id>156927</id>
-        <link href="https://www.pokebeach.com/forums/threads/new-gengar-%E2%80%9Cenhanced-2-pack-blister%E2%80%9D-and-mega-greninja-mini-portfolio-to-release-in-october.156927/"/>
-        <updated>2026-07-16T17:31:36.000Z</updated>
+        <title type="html"><![CDATA[USN-8557-1: Authlib vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8557-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8557-1"/>
+        <updated>2026-07-16T17:44:41.000Z</updated>
+        <summary type="html"><![CDATA[Jay Neiva and Mauro Carrillo discovered that Authlib did not properly
+validate cryptographic keys embedded in JWT headers. An attacker could
+possibly use this issue to forge trusted tokens, resulting in
+authentication and authorization bypass. (CVE-2026-27962)
+
+Jay Neiva and Mauro Carrillo discovered that Authlib incorrectly handled
+RSA1_5 encrypted tokens. An attacker could possibly use this issue to
+recover sensitive encrypted information, resulting in information
+disclosure. (CVE-2026-28490)
+
+Jay Neiva and Mauro Carrillo discovered that Authlib did not properly
+reject unsupported cryptographic algorithms when validating OpenID
+Connect ID tokens. An attacker could possibly use this issue to bypass
+token integrity checks, resulting in authentication bypass.
+(CVE-2026-28498)
+
+Johnny Deuss discovered that Authlib did not provide cross-site request
+forgery protection for the OAuth cache feature in its Starlette
+integration. An attacker could possibly use this issue to perform
+unauthorized OAuth actions, resulting in cross-site request forgery.
+This issue only affected Ubuntu 24.04 LTS and Ubuntu 26.04 LTS.
+(CVE-2026-41425)]]></summary>
         <author>
-            <name>Water Pokémon Master</name>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -132,15 +214,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2027 Pokemon Championship Series Event Schedule and Changes Announced!]]></title>
-        <id>156925</id>
-        <link href="https://www.pokebeach.com/forums/threads/2027-pokemon-championship-series-event-schedule-and-changes-announced.156925/"/>
-        <updated>2026-07-16T16:53:10.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Some Anime Fans Call For Boycott As Crunchyroll Nukes Store And Locks Physical Merch Behind A Paywall]]></title>
         <id>https://kotaku.com/?p=2000716673</id>
         <link href="https://kotaku.com/some-anime-fans-call-for-boycott-as-crunchyroll-nukes-store-and-locks-physical-merch-behind-a-paywall-2000716673"/>
@@ -174,11 +247,11 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[One Trailer Has Comments Turned Off As PlayStation’s YouTube Channel Is Flooded With Outrage]]></title>
+        <title type="html"><![CDATA[PlayStation’s YouTube Channel Is Still Being Flooded With Outrage]]></title>
         <id>https://kotaku.com/?p=2000716707</id>
         <link href="https://kotaku.com/playstation-5-6-physical-discs-youtube-comments-social-2000716707"/>
         <updated>2026-07-16T16:17:52.000Z</updated>
-        <summary type="html"><![CDATA[No game is safe from the physical game supporters in PlayStation's YouTube comments section]]></summary>
+        <summary type="html"><![CDATA[PlayStation's YouTube comments section is mostly full of people angry about losing physical discs, but kids games are safe from the barrage]]></summary>
         <author>
             <name>Kenneth Shepard</name>
         </author>
@@ -814,26 +887,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PlayStation’s Summer Sale Includes A Ton Of PS5 Games That Cost $15 Or Less]]></title>
-        <id>https://kotaku.com/?p=2000716362</id>
-        <link href="https://kotaku.com/playstations-summer-sale-includes-a-ton-of-ps5-games-that-cost-15-or-less-2000716362"/>
-        <updated>2026-07-16T00:00:19.000Z</updated>
-        <summary type="html"><![CDATA[A lot of Resident Evil, Mortal Kombat, and Star Wars games are on sale for less than $20]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS6 Could Fix The Launch PS5’s Liquid Metal Cooling Snafu]]></title>
-        <id>https://kotaku.com/?p=2000716337</id>
-        <link href="https://kotaku.com/ps6-could-fix-the-launch-ps5sliquid-metal-cooling-snafu-2000716337"/>
-        <updated>2026-07-15T23:00:14.000Z</updated>
-        <summary type="html"><![CDATA[A new patent suggests a notable revision for next-gen]]></summary>
-        <author>
-            <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gambas 3.22.0]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/gambas-3.22.0</id>
         <link href="http://www.abclinuxu.cz/zpravicky/gambas-3.22.0"/>
@@ -841,16 +894,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Byla vydána nová verze 3.22.0 grafického vývojového prostředí a platformy Gambas (Wikipedie) založené na interpretru programovacího jazyka Basic s rozšířením o objektově orientované programování. Přehled novinek v poznámkách k vydání. Zdrojové kódy jsou k dispozici na GitLabu.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon’s Big 30th Anniversary TCG Release Is An Even Bigger Mess Than Usual]]></title>
-        <id>https://kotaku.com/?p=2000716339</id>
-        <link href="https://kotaku.com/pokemons-big-30th-anniversary-tcg-release-is-an-even-bigger-mess-than-usual-2000716339"/>
-        <updated>2026-07-15T22:30:50.000Z</updated>
-        <summary type="html"><![CDATA[More Pikachus, more problems]]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
         </author>
     </entry>
     <entry>
@@ -1300,68 +1343,6 @@ Kicking off on 19th July at 5am and ending on 27th July at 4:59am local time, yo
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8547-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8547-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8547-1"/>
-        <updated>2026-07-15T10:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - RISC-V architecture;
-  - Cryptographic API;
-  - InfiniBand drivers;
-  - IOMMU subsystem;
-  - Network drivers;
-  - STMicroelectronics network drivers;
-  - NVME drivers;
-  - x86 platform drivers;
-  - SCSI subsystem;
-  - SPI subsystem;
-  - TCM subsystem;
-  - USB over IP driver;
-  - File systems infrastructure;
-  - HFS+ file system;
-  - Network file system (NFS) server daemon;
-  - SMB network file system;
-  - IPv6 networking;
-  - Tracing infrastructure;
-  - Timer subsystem;
-  - B.A.T.M.A.N. meshing protocol;
-  - Bluetooth subsystem;
-  - Ethernet bridge;
-  - Ceph Core library;
-  - IPv4 networking;
-  - MAC80211 subsystem;
-  - Multipath TCP;
-  - Netfilter;
-  - RxRPC session sockets;
-  - SMC sockets;
-  - Sun RPC protocol;
-  - X.25 network layer;
-  - AMD SoC Alsa drivers;
-  - KVM subsystem;
-(CVE-2022-48816, CVE-2023-53673, CVE-2025-37778, CVE-2025-37822,
-CVE-2025-37924, CVE-2025-38201, CVE-2025-40082, CVE-2025-68214,
-CVE-2025-68263, CVE-2025-71089, CVE-2025-71220, CVE-2025-71222,
-CVE-2025-71224, CVE-2026-23176, CVE-2026-23180, CVE-2026-23182,
-CVE-2026-23190, CVE-2026-23193, CVE-2026-23198, CVE-2026-23202,
-CVE-2026-23206, CVE-2026-23216, CVE-2026-23256, CVE-2026-23257,
-CVE-2026-23258, CVE-2026-23262, CVE-2026-23272, CVE-2026-23278,
-CVE-2026-23428, CVE-2026-23450, CVE-2026-23455, CVE-2026-31402,
-CVE-2026-31418, CVE-2026-31478, CVE-2026-31607, CVE-2026-31637,
-CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
-CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-43011,
-CVE-2026-43037, CVE-2026-43038, CVE-2026-43071, CVE-2026-43114,
-CVE-2026-43117, CVE-2026-43185, CVE-2026-43186, CVE-2026-43304,
-CVE-2026-43341, CVE-2026-43383, CVE-2026-43406, CVE-2026-43407,
-CVE-2026-43414, CVE-2026-43493, CVE-2026-43501, CVE-2026-45988,
-CVE-2026-46043, CVE-2026-46119, CVE-2026-46135, CVE-2026-46195,
-CVE-2026-46243)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3681,18 +3662,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <link href="https://www.rockpapershotgun.com/i-could-feel-myself-coming-apart-at-the-seams-suicide-squad-leads-on-almost-leaving-the-games-industry-after-its-failure"/>
         <updated>2026-07-02T20:26:20.000Z</updated>
         <summary type="html"><![CDATA[Crikey, remember Suicide Squad: Kill the Justice League? That sure was a mess. It was a public mess too, one where there were seemingly some attempts to save the game, but none that could have shifted it away from its inherent flaws. But for the game's co-director Axel Rydby and associate design director Johnny Armstrong, the behind the scenes events were enough to almost turn them off from the games industry entirely.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ithaca is a road trip RPG about climate resistance and dealing with the hostage you have in your trunk]]></title>
-        <id>https://www.rockpapershotgun.com/ithaca-is-a-road-trip-rpg-about-climate-resistance-and-dealing-with-the-hostage-you-have-in-your-trunk</id>
-        <link href="https://www.rockpapershotgun.com/ithaca-is-a-road-trip-rpg-about-climate-resistance-and-dealing-with-the-hostage-you-have-in-your-trunk"/>
-        <updated>2026-07-02T19:24:07.000Z</updated>
-        <summary type="html"><![CDATA[The ethical quandaries around car usage aside, we can all agree there's nothing like a road trip, right? When better a time is there to think about every single decision you've ever made in life than on an open stretch of road with only other cars to stop you? It feels like a great setting for a video game, despite there not being very many road trip games. But another one is entering the fray and it's called Ithaca, a "narrative road-trip with RPG elements about environmental resistance."
  
 Read more]]></summary>
         <author>
