@@ -1,17 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-17T09:51:04.045Z</id>
+    <id>urn:2026-07-17T11:17:40.173Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-17T09:51:04.045Z</updated>
+    <updated>2026-07-17T11:17:40.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Gem Pack Vol 6” to Release in China Featuring Apple Pokémon!]]></title>
+        <id>156930</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cgem-pack-vol-6%E2%80%9D-to-release-in-china-featuring-apple-pok%C3%A9mon.156930/"/>
+        <updated>2026-07-17T11:15:14.000Z</updated>
+        <author>
+            <name>koala</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Round Up: "The Game F***ing Rules" - The First Previews For Castlevania: Belmont's Curse Are In]]></title>
+        <id>https://www.nintendolife.com/#article-203916</id>
+        <link href="https://www.nintendolife.com/news/2026/07/round-up-the-game-fing-rules-the-first-previews-for-castlevania-belmonts-curse-are-in"/>
+        <updated>2026-07-17T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Alucards on the table.
+Konami revealed earlier this week that Castlevania: Belmont's Curse would launch on the Switch on the same day as other platforms, extinguishing any fears of a potential delay. So mark 15th October 2026 in your diaries, folks, because it sounds like it's going to be a banger.
+Yes, a handful of outlets have gone live with their first previews of Belmont's Curse, and it seems developer Evil Empire (Dead Cells) has got a pretty good handle on what makes a good 2D Castlevania game. Granted, we're not expecting Symphony of the Night levels of genius here, but if it comes close, then it'll be more than worth the wait.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unions accuse Microsoft of having "unlawfully fired people" in unfair labor practice complaints filed over Xbox layoffs]]></title>
+        <id>https://www.rockpapershotgun.com/unions-accuse-microsoft-of-having-unlawfully-fired-people-in-unfair-labor-practice-complaints-filed-over-xbox-layoffs</id>
+        <link href="https://www.rockpapershotgun.com/unions-accuse-microsoft-of-having-unlawfully-fired-people-in-unfair-labor-practice-complaints-filed-over-xbox-layoffs"/>
+        <updated>2026-07-17T10:46:43.000Z</updated>
+        <summary type="html"><![CDATA[The Communications Workers of America (CWA) union and their Canadian offshoot CWA Canada have filed unfair labour practice complaints against Microsoft, accusing the company of having mishandled the recent mass layoffs at Xbox.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mega Tatsugiri ex, Lida, and Other Gym Promos Revealed for August!]]></title>
         <id>156929</id>
         <link href="https://www.pokebeach.com/forums/threads/mega-tatsugiri-ex-lida-and-other-gym-promos-revealed-for-august.156929/"/>
-        <updated>2026-07-17T09:49:35.000Z</updated>
+        <updated>2026-07-17T10:30:11.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Preps More Graphics Driver Improvements For Linux 7.3]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-More-AMDGPU</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-More-AMDGPU"/>
+        <updated>2026-07-17T10:21:39.000Z</updated>
+        <summary type="html"><![CDATA[Since earlier this month AMD has begun staging graphics driver changes for Linux 7.3 ahead of the merge window opening in late July. That's brought some interesting changes so far while there still are a few weeks to land any additional features in DRM-Next. This week another batch of AMDGPU graphics driver and AMDKFD compute driver feature code was sent out for this next kernel version...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8490-2: Linux kernel (Real-time) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8490-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8490-2"/>
+        <updated>2026-07-17T10:10:48.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - DMA engine subsystem;
+  - InfiniBand drivers;
+  - STMicroelectronics network drivers;
+  - Network drivers;
+  - NVME drivers;
+  - SCSI subsystem;
+  - USB over IP driver;
+  - File systems infrastructure;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Kernel thread helper (kthread);
+  - IPv6 networking;
+  - Tracing infrastructure;
+  - Kernel exit() syscall;
+  - Scatterlist API;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SMC sockets;
+  - X.25 network layer;
+(CVE-2026-22984, CVE-2026-23272, CVE-2026-23278, CVE-2026-23392,
+CVE-2026-23427, CVE-2026-23428, CVE-2026-23450, CVE-2026-23455,
+CVE-2026-31402, CVE-2026-31418, CVE-2026-31436, CVE-2026-31448,
+CVE-2026-31478, CVE-2026-31607, CVE-2026-31635, CVE-2026-31637,
+CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
+CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-31718,
+CVE-2026-43011, CVE-2026-43037, CVE-2026-43038, CVE-2026-43071,
+CVE-2026-43083, CVE-2026-43114, CVE-2026-43117, CVE-2026-43125,
+CVE-2026-43186, CVE-2026-43197, CVE-2026-43304, CVE-2026-43341,
+CVE-2026-43376, CVE-2026-43378, CVE-2026-43383, CVE-2026-43384,
+CVE-2026-43402, CVE-2026-43406, CVE-2026-43407, CVE-2026-43414,
+CVE-2026-43493, CVE-2026-43501, CVE-2026-45898, CVE-2026-45988,
+CVE-2026-46039, CVE-2026-46043, CVE-2026-46115, CVE-2026-46119,
+CVE-2026-46135, CVE-2026-46185, CVE-2026-46195, CVE-2026-46243,
+CVE-2026-46244, CVE-2026-46266, CVE-2026-46289, CVE-2026-46316,
+CVE-2026-46325)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8490-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8490-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8490-1"/>
+        <updated>2026-07-17T10:07:42.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - Block layer subsystem;
+  - Cryptographic API;
+  - DMA engine subsystem;
+  - InfiniBand drivers;
+  - STMicroelectronics network drivers;
+  - Network drivers;
+  - NVME drivers;
+  - SCSI subsystem;
+  - USB over IP driver;
+  - File systems infrastructure;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Kernel thread helper (kthread);
+  - IPv6 networking;
+  - Tracing infrastructure;
+  - Kernel exit() syscall;
+  - Scatterlist API;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SMC sockets;
+  - X.25 network layer;
+(CVE-2026-22984, CVE-2026-23272, CVE-2026-23278, CVE-2026-23392,
+CVE-2026-23427, CVE-2026-23428, CVE-2026-23450, CVE-2026-23455,
+CVE-2026-31402, CVE-2026-31418, CVE-2026-31436, CVE-2026-31448,
+CVE-2026-31478, CVE-2026-31607, CVE-2026-31635, CVE-2026-31637,
+CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
+CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-31718,
+CVE-2026-43011, CVE-2026-43037, CVE-2026-43038, CVE-2026-43071,
+CVE-2026-43083, CVE-2026-43114, CVE-2026-43117, CVE-2026-43125,
+CVE-2026-43186, CVE-2026-43197, CVE-2026-43304, CVE-2026-43341,
+CVE-2026-43376, CVE-2026-43378, CVE-2026-43383, CVE-2026-43384,
+CVE-2026-43402, CVE-2026-43406, CVE-2026-43407, CVE-2026-43414,
+CVE-2026-43493, CVE-2026-43501, CVE-2026-45898, CVE-2026-45988,
+CVE-2026-46039, CVE-2026-46043, CVE-2026-46115, CVE-2026-46119,
+CVE-2026-46135, CVE-2026-46185, CVE-2026-46195, CVE-2026-46243,
+CVE-2026-46244, CVE-2026-46266, CVE-2026-46289, CVE-2026-46316,
+CVE-2026-46325)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mozilla AI Releases Llamafile 0.10.4 With New Transcribefile Built On Transcribe.cpp]]></title>
+        <id>https://www.phoronix.com/news/Llamafile-0.10.4</id>
+        <link href="https://www.phoronix.com/news/Llamafile-0.10.4"/>
+        <updated>2026-07-17T10:07:07.000Z</updated>
+        <summary type="html"><![CDATA[Mozilla AI developers have released a new version of Llamafile,  their solution for easy-to-use LLMs as a single file that work across hardware and operating systems. With Llamafile 0.10.4 is now Transcribefile, as a new piece built off their recently announced Transcribe.cpp project...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBLAS 0.3.34 Improves Multi-Threading, Support For A Memory-Safe C Toolchain]]></title>
+        <id>https://www.phoronix.com/news/OpenBLAS-0.3.34-Released</id>
+        <link href="https://www.phoronix.com/news/OpenBLAS-0.3.34-Released"/>
+        <updated>2026-07-17T09:58:43.000Z</updated>
+        <summary type="html"><![CDATA[OpenBLAS 0.3.34 released on Thursday as this popular, open-source BLAS library providing optimized support for a variety of CPUs/architectures. OpenBLAS 0.3.34 continues working on squeezing more performance  out of today's processors as well as delivering other new features...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -167,7 +342,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[Firefox od září přechází na dvoutýdenní cyklus vydávání verzí]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/firefox-od-zari-prechazi-na-dvoutydenni-cyklus-vydavani-verzi</id>
         <link href="http://www.abclinuxu.cz/zpravicky/firefox-od-zari-prechazi-na-dvoutydenni-cyklus-vydavani-verzi"/>
-        <updated>2026-07-17T03:15:43.000Z</updated>
+        <updated>2026-07-17T03:15:33.000Z</updated>
         <summary type="html"><![CDATA[Nové verze webových prohlížečů Chrome a Firefox jsou vydávány každé 4 týdny. Aktuální verze Chrome je 150. Aktuální verze Firefoxu je 152. V březnu bylo oznámeno, že od září přejde Chrome na dvoutýdenní cyklus vydávání verzí. To by znamenalo, že Chrome v číslování verzí Firefox brzy přeskočí. Vývojáři Firefoxu proto také od září přecházejí na dvoutýdenní cyklus vydávání verzí. :-)]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -1473,31 +1648,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8550-1: libslirp vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8550-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8550-1"/>
-        <updated>2026-07-15T13:59:22.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that libslirp incorrectly handled TCP urgent data. A
-privileged attacker inside a guest VM could possibly use this issue to
-obtain sensitive information from the host process memory.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8549-1: idna vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8549-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8549-1"/>
-        <updated>2026-07-15T13:46:50.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that idna did not properly reject oversized inputs before
-performing expensive processing. An attacker could possibly use this issue
-to cause idna to consume significant resources, leading to a denial of
-service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Once Upon A Katamari Is The Latest Game To Roll Onto Switch 2]]></title>
         <id>https://www.nintendolife.com/#article-203825</id>
         <link href="https://www.nintendolife.com/news/2026/07/once-upon-a-katamari-is-the-latest-game-to-roll-onto-switch-2"/>
@@ -1678,19 +1828,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo And Hot Topic Reveal New Exclusive Pikmin Merchandise]]></title>
-        <id>https://www.nintendolife.com/#article-203803</id>
-        <link href="https://www.nintendolife.com/news/2026/07/nintendo-and-hot-topic-reveal-new-exclusive-pikmin-merchandise"/>
-        <updated>2026-07-15T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blowhogging it all.
-Nintendo has expanded its collaboration with Hot Topic, revealing a new set of Pikmin merchandise including t-shirts, hoodies, a bag, a coin purse, and a cap.
-Available for pre-order on Hot Topic now (sorry, no international shipping on pre-orders – you might have to wait until they're released properly), delivery is scheduled to commence toward the end of the month. Prices range from $19.90 to $59.90 depending on what you're after, but honestly, we want the whole lot.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2028,32 +2165,12 @@ closed issues.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel IGC 2.38.2 Brings Latest Round Of Graphics Compiler Improvements]]></title>
-        <id>https://www.phoronix.com/news/Intel-IGC-2.38.2</id>
-        <link href="https://www.phoronix.com/news/Intel-IGC-2.38.2"/>
-        <updated>2026-07-14T12:50:51.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of the next Intel Compute Runtime release, IGC 2.38.2 was released today as the newest feature update to this open-source graphics compiler used by Intel iGPU/dGPU hardware on both Windows and Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bottom 10]]></title>
         <id>156906</id>
         <link href="https://www.pokebeach.com/forums/threads/bottom-10.156906/"/>
         <updated>2026-07-14T12:26:58.000Z</updated>
         <author>
             <name>WizardyBacon123</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Vulkan Driver Now Supports H.265 10-bit Video Encoding]]></title>
-        <id>https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265</id>
-        <link href="https://www.phoronix.com/news/Intel-Vulkan-Video-10-bit-H265"/>
-        <updated>2026-07-14T11:58:20.000Z</updated>
-        <summary type="html"><![CDATA[Hyunjun Ko with Igalia continues advancing the Vulkan Video capabilities of the Intel open-source "ANV" Vulkan driver for Linux systems...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2065,16 +2182,6 @@ closed issues.]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Dealing With Apple's Wild Mess Of Sensors On Apple Silicon SoCs]]></title>
-        <id>https://www.phoronix.com/news/Apple-Wild-Mess-Sensors-Linux</id>
-        <link href="https://www.phoronix.com/news/Apple-Wild-Mess-Sensors-Linux"/>
-        <updated>2026-07-14T10:31:10.000Z</updated>
-        <summary type="html"><![CDATA[While there has been the Apple System Management Controller "SMC" hardware monitoring driver with the intent on exposing battery/power stats as well as thermal and more for Apple Silicon SoCs on Linux, it hasn't yet been working out properly on the mainline kernel. Between missing Device Tree nodes to the hodgepodge mess of sensors between the different Apple M-Series SoCs, it's a mess...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2924,15 +3031,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dragalge deck]]></title>
-        <id>156786</id>
-        <link href="https://www.pokebeach.com/forums/threads/dragalge-deck.156786/"/>
-        <updated>2026-07-09T15:40:48.000Z</updated>
-        <author>
-            <name>WizardyBacon123</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[We're making some changes to the RPS Supporter Program, all of them good]]></title>
         <id>https://www.rockpapershotgun.com/were-making-some-changes-to-the-rps-supporter-program-all-of-them-good</id>
         <link href="https://www.rockpapershotgun.com/were-making-some-changes-to-the-rps-supporter-program-all-of-them-good"/>
@@ -3632,17 +3730,6 @@ Read more]]></summary>
         <updated>2026-07-03T11:32:31.000Z</updated>
         <summary type="html"><![CDATA[If Feed the Pit were simply a quickfire extraction game about hunting down obscenely wealthy people and chucking them into a ravenous Sarlacc, that'd have been plenty catharsis enough for this age of actual trillionaires. It'd have been solid reaction video fodder for terminally online Marxists, a kind of Hunt: Showdown for the dirtbag left. But Feed the Pit goes further. It's a creepy narrative experience that, after an hour with the game's first act, reminds me a little of Mouthwashing.
  
-Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relic announce a new Company of Heroes RTS, a wave defence roguelite for strategy buffs who don't have time to fight a whole World War]]></title>
-        <id>https://www.rockpapershotgun.com/relic-announce-a-new-company-of-heroes-rts-a-wave-defence-roguelite-for-strategy-buffs-who-dont-have-time-to-fight-a-whole-world-war</id>
-        <link href="https://www.rockpapershotgun.com/relic-announce-a-new-company-of-heroes-rts-a-wave-defence-roguelite-for-strategy-buffs-who-dont-have-time-to-fight-a-whole-world-war"/>
-        <updated>2026-07-03T10:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Very good World War RTS Company of Heroes 3 is getting a standalone wave defence roguelite spin-off, Company of Heroes 3: Final Stand, in which you have to outlast 12 rounds of attackers while steadily expanding and upgrading a custom battlegroup. It's pitched as a snackable, newbie-friendly version of the big-bellied strategy sim Katharine Castle (RPS in peace) described as "World War II on its summer holiday". It's out in July, supports two-player co-op, and LOOK OUT, MEN, WE HAVE TRAILER INCOMING.
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
