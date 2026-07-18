@@ -1,10 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-18T07:39:28.224Z</id>
+    <id>urn:2026-07-18T09:17:46.070Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-18T07:39:28.224Z</updated>
+    <updated>2026-07-18T09:17:46.070Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Chyba HollowByte v OpenSSL umožňuje trvale zaplnit paměť serveru]]></title>
+        <id>www.root.cz-actuality-52809</id>
+        <link href="https://www.root.cz/zpravicky/chyba-hollowbyte-v-openssl-umoznuje-trvale-zaplnit-pamet-serveru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-07-18T09:05:21.000Z</updated>
+        <summary type="html"><![CDATA[Tým Okta Red Team objevil v OpenSSL zranitelnost typu Denial of Service (DoS) s názvem HollowByte. Zasláním škodlivého datového bloku o velikosti pouhých 11 bajtů může vzdálený neautentizovaný útočník donutit server, aby alokoval neúměrně velké bloky paměti ještě předtím, než vůbec dojde k zahájení užitečné komunikace.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (18th July)]]></title>
+        <id>https://www.nintendolife.com/#article-203907</id>
+        <link href="https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-18th-july"/>
+        <updated>2026-07-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Roomfinder with a Viewfinder.
+We are back, back, back with another edition of What Are You Playing!
+It was another rather quiet one in the land of Nintendo this time, with the biggest stories feeling a far cry away from the stacked months prior. Square Enix announced new Switch 2 versions for Octopath Traveler 1 & 2 (without any upgrade path, natch), Hot Topic revealed a stunning new range of Pikmin merch, and FromSoft finally announced that The Duskbloods' network tests will kick off next month. Oh yes, we also shared our first impressions of the catchily-titled Fitness Boxing 3: Your Personal Trainer - Nintendo Switch 2 Edition.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chyba wp2shell jádra WordPressu umožňuje neautorizovaným útočníkům spouštět vlastní kód]]></title>
+        <id>www.root.cz-actuality-52806</id>
+        <link href="https://www.root.cz/zpravicky/chyba-wp2shell-jadra-wordpressu-umoznuje-neautorizovanym-utocnikum-spoustet-vlastni-kod/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-07-18T08:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Anonymní HTTP požadavek může spustit kód na webu s WordPressem. Chyba wp2shell se nachází v jádru systému, takže ji lze zneužít i na čisté instalaci bez jediného pluginu. Ohroženy byly všechny weby s verzemi 6.9 a 7.0 až do pátku, kdy WordPress vydal verze 6.9.5 a 7.0.2 a prostřednictvím svého systému automatických aktualizací aktivoval takzvané vynucené aktualizace.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procesor Zilog Z80 slaví padesáté narozeniny]]></title>
+        <id>www.root.cz-actuality-52803</id>
+        <link href="https://www.root.cz/zpravicky/procesor-zilog-z80-slavi-padesate-narozeniny/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-07-18T07:45:26.000Z</updated>
+        <summary type="html"><![CDATA[Čip Z80 vzešel z hlav Federica Faggina, Ralpha Ungermanna a Masatoshiho Shimy poté, co opustili společnost Intel. Dali si za cíl vytvořit čip kompatibilní s procesorem Intel 8080, který by však byl jednodušší a pro inženýry snáze implementovatelný.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Gem Pack Vol 6” to Release in China Featuring Apple Pokémon!]]></title>
         <id>156930</id>
@@ -1722,19 +1765,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Surprise! Square Enix Has Released A Switch 2 Version Of Star Ocean: The Second Story R]]></title>
-        <id>https://www.nintendolife.com/#article-203846</id>
-        <link href="https://www.nintendolife.com/news/2026/07/surprise-square-enix-has-released-a-switch-2-version-of-star-ocean-the-second-story-r"/>
-        <updated>2026-07-16T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Just don't expect an upgrade pathway.
-The sci-fi series Star Ocean is currently celebrating its 30th anniversary, and as part of this, Square Enix has today released a Switch 2 version of the action RPG remake Star Ocean: The Second Story R.
-It's available on the eShop for $49.99 (or your regional equivalent). Like Octopath Traveler 1 & 2 earlier this week, there's no upgrade pathway for the existing Switch version, and save data won't carry over. Here's the official fine print about this from Nintendo's store page:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD ROCm 7.14 "TheRock" Tech Preview Tagged For Latest AMD GPU Compute Stack]]></title>
         <id>https://www.phoronix.com/news/AMD-ROCm-TheRock-7.14</id>
         <link href="https://www.phoronix.com/news/AMD-ROCm-TheRock-7.14"/>
@@ -2539,16 +2569,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Závažná zranitelnost v oficiálním obrazu Gitea pro docker]]></title>
-        <id>www.root.cz-actuality-52740</id>
-        <link href="https://www.root.cz/zpravicky/zavazna-zranitelnost-v-oficialnim-obrazu-gitea-pro-docker/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-13T10:45:11.000Z</updated>
-        <summary type="html"><![CDATA[Gitea je open source Git služba, která umožňuje hostování na vlastním serveru. Oficiální obraz Gitea pro docker má závažnou zranitelnost CVE-2026–20896. Verze do 1.26.2 používají REVERSE_PROXY_TRUSTED_PROXIES=*, což znamená, že vzdálený útočník, který použije hlavičku X-WEBAUTH-USER, se nemusí vůbec autentizovat a má přístup do systému. Pokud se útočník může přímo dostat na HTTP instance Gitea,  stačí jen uhodnout jméno uživatele. Často to bude například admin či gitea_admin.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Count Rises Again]]></title>
         <id>https://www.scummvm.org/news/archive/#2026-07-13</id>
         <link href="https://www.scummvm.org/news/20260713/"/>
@@ -2585,26 +2605,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian Trixie 13.6 s novým fwupd]]></title>
-        <id>www.root.cz-actuality-52737</id>
-        <link href="https://www.root.cz/zpravicky/debian-trixie-13-6-s-novym-fwupd/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-13T06:35:46.000Z</updated>
-        <summary type="html"><![CDATA[V sobotu kromě poslední aktualizace Debianu Bookworm 12.15 vyšla také aktualizace Debianu Trixie 13.6. Mezi novinkami najdete aktualizovaný fwupd, který řeší problémy s expirujícími certifikáty pro Secure Boot. Uživatelé s Debianem a Secure Bootem mají postupovat podle návodu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hacking v praxi: od sociálního inženýrství po bankomaty (školení)]]></title>
-        <id>www.root.cz-actuality-40997</id>
-        <link href="https://www.root.cz/zpravicky/hacking-v-praxi-od-socialniho-inzenyrstvi-po-bankomaty-skoleni-1/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-13T06:29:42.000Z</updated>
-        <summary type="html"><![CDATA[Přijďte prozkoumat tajuplný svět hackingu a množství jeho jednotlivých zákoutí. Průvodcem na této cestě vám bude zkušený etický hacker s mnohaletou praxí, který se s vámi podělí o své zkušenosti. Stačí navštívit naše školení Hacking v praxi 1, na kterém proniknete do světa útočníků a jejich obětí. Školení proběhne online ve dnech 5. až 7. října.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
