@@ -1,10 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-20T21:04:48.385Z</id>
+    <id>urn:2026-07-20T22:53:12.433Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-20T21:04:48.385Z</updated>
+    <updated>2026-07-20T22:53:12.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’]]></title>
+        <id>https://kotaku.com/?p=2000717793</id>
+        <link href="https://kotaku.com/reported-director-of-obsidians-upcoming-fallout-game-says-rpgs-are-at-their-best-when-you-cant-control-everything-2000717793"/>
+        <updated>2026-07-20T22:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Josh Sawyer doesn't want to let players fight all their problems and solve everything]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile Doom Dev Alpha Dog Games Reemerges As An Independent Studio Two Years After Microsoft Closed It]]></title>
+        <id>https://kotaku.com/?p=2000717795</id>
+        <link href="https://kotaku.com/mighty-doom-dev-alpha-dog-games-independent-studio-2000717795"/>
+        <updated>2026-07-20T22:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Independently owned, again]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trump FDA Sends Mixed Signals About Diarrhea Lettuce]]></title>
+        <id>https://kotaku.com/?p=2000717770</id>
+        <link href="https://kotaku.com/trump-fda-sends-mixed-signals-about-diarrhea-lettuce-2000717770"/>
+        <updated>2026-07-20T22:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Lunchtime is getting confusing]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tvorba 2D i 3D grafiky a animací v Go s využitím projektu GoGPU (2. část)]]></title>
+        <id>www.root.cz-text-19764</id>
+        <link href="https://www.root.cz/clanky/tvorba-2d-i-3d-grafiky-a-animaci-v-go-s-vyuzitim-projektu-gogpu-2-cast/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-07-20T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Už jsme se věnovali popisu knihovny gg určené pro vykreslování 2D grafiky. Dnes popis dokončíme a navíc se zmíníme o knihovnách gg-pdf a gg-svg sloužící k exportu 2D grafiky do vektorových formátů PDF a SVG.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8563-2: nginx regression]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8563-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8563-2"/>
+        <updated>2026-07-20T21:37:33.000Z</updated>
+        <summary type="html"><![CDATA[USN-8563-1 fixed vulnerabilities in nginx. One of the fixes introduced ABI
+changes that could cause issues with external modules. This update reverts
+the fix for CVE-2026-42533 pending further investigation.
+
+We apologize for the inconvenience.
+
+Original advisory details:
+
+ It was discovered that nginx incorrectly handled certain map directives
+ using regex matching and capture variables. A remote attacker could use
+ this issue to cause nginx to crash, resulting in a denial of service, or
+ possibly execute arbitrary code. (CVE-2026-42533)
+
+ It was discovered that nginx had a use-after-free vulnerability in the
+ ngx_http_ssi_module module when configured with Server-Side Includes,
+ proxy_pass, and proxy buffering disabled directives. An attacker able to
+ intercept traffic and control responses from an upstream server could
+ possibly use this issue to cause nginx to crash, resulting in a denial of
+ service. (CVE-2026-56434)
+
+ It was discovered that nginx incorrectly handled certain requests in the
+ ngx_http_slice_module module. A remote attacker could possibly use this
+ issue to obtain sensitive information or cause nginx to crash, resulting
+ in a denial of service. (CVE-2026-60005)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14 Classic Xbox 360 Games Are On Sale For Dirt Cheap Right Now]]></title>
+        <id>https://kotaku.com/?p=2000717632</id>
+        <link href="https://kotaku.com/14-classic-xbox-360-games-are-on-sale-for-dirt-cheap-right-now-2000717632"/>
+        <updated>2026-07-20T21:30:16.000Z</updated>
+        <summary type="html"><![CDATA[The Witcher 2 and more are discounted to just a few bucks digitally]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30th Celebration Unofficial Set List]]></title>
+        <id>156850</id>
+        <link href="https://www.pokebeach.com/forums/threads/30th-celebration-unofficial-set-list.156850/"/>
+        <updated>2026-07-20T21:23:25.000Z</updated>
+        <author>
+            <name>Psychic Nature</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“30th Celebration” Additional Product Preorders Live on Pokemon Center!]]></title>
+        <id>156933</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-additional-product-preorders-live-on-pokemon-center.156933/"/>
+        <updated>2026-07-20T21:18:42.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Watched District 9′s Director’s New, Awful AI-Generated Movie So You Don’t Have To]]></title>
         <id>https://kotaku.com/?p=2000717745</id>
@@ -13,15 +114,6 @@
         <summary type="html"><![CDATA[A film made by a robot naturally has nothing interesting to say about humanity]]></summary>
         <author>
             <name>Rebekah Valentine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“30th Celebration” Additional Product Preorders Live on Pokemon Center!]]></title>
-        <id>156933</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-additional-product-preorders-live-on-pokemon-center.156933/"/>
-        <updated>2026-07-20T20:57:15.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -62,6 +154,72 @@
         <summary type="html"><![CDATA[Kingdom Hearts: Missing-Link may not be coming out, but its leaked cinematic may hint at stories yet to come]]></summary>
         <author>
             <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8573-1: libde265 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8573-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8573-1"/>
+        <updated>2026-07-20T19:21:39.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that libde265 did not properly manage memory under
+certain circumstances. An attacker could possibly use this issue to
+cause libde265 to crash, resulting in a denial of service. This issue
+only affected Ubuntu 22.04 LTS. (CVE-2023-51792)
+
+It was discovered that libde265 did not properly handle certain
+malformed media files, leading to a heap buffer overflow. An attacker
+could possibly use this issue to cause libde265 to crash, resulting in
+a denial of service. (CVE-2024-38949, CVE-2024-38950)
+
+It was discovered that libde265 did not properly handle certain
+malformed input, leading to a segmentation fault. An attacker could
+possibly use this issue to cause libde265 to crash, resulting in a
+denial of service. (CVE-2025-61147)
+
+It was discovered that libde265 did not properl…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8572-1: Wget vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8572-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8572-1"/>
+        <updated>2026-07-20T19:12:11.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that Wget did not properly validate the IP address
+provided in an FTP PASV response when operating in FTP passive mode. A
+remote attacker controlling a malicious FTP server, or an HTTP server
+that redirects to an FTP URL, could possibly use this issue to redirect
+Wget's data connection to an arbitrary address and perform server-side
+request forgery, potentially accessing localhost services or internal
+network resources.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8571-1: Apache HTTP Server vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8571-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8571-1"/>
+        <updated>2026-07-20T19:03:33.000Z</updated>
+        <summary type="html"><![CDATA[Pavel Kohout and Arkadi Vainbrand discovered that Apache HTTP Server
+incorrectly handled certain memory operations in mod_authn_socache. A
+remote attacker could possibly use this issue to cause a denial of service.
+(CVE-2026-33007)
+
+Haruki Oyama, Merih Mengisteab, and Dawit Jeong discovered that Apache
+HTTP Server had an HTTP response splitting vulnerability in multiple
+modules when used with untrusted or compromised backend servers. An
+attacker could possibly use this issue to inject arbitrary HTTP headers.
+(CVE-2026-33523)
+
+Elhanan Haenel discovered that Apache HTTP Server incorrectly handled
+certain memory operations in mod_proxy_ajp. A remote attacker could
+possibly use this issue to cause a denial of service. (CVE-2026-33857)
+
+Tianshuo Han and Jérôme Djouder discovered that Apache HTT…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -589,26 +747,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avengers: Doomsday Has Released Its First Trailer, And It’s Stacked]]></title>
-        <id>https://kotaku.com/?p=2000717618</id>
-        <link href="https://kotaku.com/avengers-doomsday-trailer-marvel-captain-america-thor-2000717618"/>
-        <updated>2026-07-20T13:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Two-and-a-half minutes of superheroes proving they're in the Marvel movie]]></summary>
-        <author>
-            <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAMageddon Is Even Ravaging Retro Gaming Hardware Makers: ‘This Is Vastly Different To Everything Else We’ve Ever Seen’]]></title>
-        <id>https://kotaku.com/?p=2000717614</id>
-        <link href="https://kotaku.com/ramageddon-is-even-ravaging-retro-gaming-hardware-makers-this-is-vastly-different-to-everything-else-weve-ever-seen-2000717614"/>
-        <updated>2026-07-20T13:27:51.000Z</updated>
-        <summary type="html"><![CDATA[The makers of Evercade are buying up every component they can way in advance]]></summary>
-        <author>
-            <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Can you help improve my decklist plz?]]></title>
         <id>156928</id>
         <link href="https://www.pokebeach.com/forums/threads/can-you-help-improve-my-decklist-plz.156928/"/>
@@ -642,123 +780,6 @@ use this issue to obtain sensitive information. (CVE-2026-50813)]]></summary>
         <summary type="html"><![CDATA[Vývojáři kompresního programu 7-Zip vydali verzi 26.02, která řeší zranitelnost umožňující spuštění útočníkova kódu při zpracování dat komprimovaných formátem XZ. Chybu objevil Landon Peng a s její pomocí lze spustit libovolný kód uložený ve speciálně upraveném archivu. Pokud uživatel takový škodlivý soubor otevře, může útočník zneužít přetečení vyrovnávací paměti na haldě a spustit libovolný kód s oprávněními daného uživatele.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30th Celebration Unofficial Set List]]></title>
-        <id>156850</id>
-        <link href="https://www.pokebeach.com/forums/threads/30th-celebration-unofficial-set-list.156850/"/>
-        <updated>2026-07-20T12:59:31.000Z</updated>
-        <author>
-            <name>Psychic Nature</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8564-1: PHP vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8564-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8564-1"/>
-        <updated>2026-07-20T12:52:37.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that PHP incorrectly handled certain TLS setup failures,
-resulting in a NULL pointer dereference. An attacker could possibly use
-this issue to cause PHP to crash, resulting in a denial of service. This
-issue only affected Ubuntu 26.04 LTS. (CVE-2026-12184)
-
-It was discovered that PHP contained a buffer allocation flaw in the
-OpenSSL extension when using the AES-WRAP-PAD algorithm. An attacker could
-use this issue to cause PHP to crash, resulting in a denial of service, or
-possibly execute arbitrary code. (CVE-2026-14355)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8560-1: libXfont vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8560-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8560-1"/>
-        <updated>2026-07-20T12:28:31.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that libXfont incorrectly handled scaling bitmap
-fonts, leading to a heap buffer overflow. An attacker able to access
-the X server could use this issue to cause libXfont to crash,
-resulting in a denial of service, or possibly execute arbitrary code.
-(CVE-2026-56001)
-
-It was discovered that libXfont did not properly check glyph bounds
-when reading PCF fonts, leading to a heap buffer overflow. An
-authenticated X client could use this issue to cause libXfont to
-crash, resulting in a denial of service, or possibly execute arbitrary
-code. (CVE-2026-56002)
-
-It was discovered that libXfont did not properly check the size of the
-property buffer when parsing PCF fonts, leading to a heap buffer
-overflow. An authenticated X client could use this issue to cause
-libXfont to crash, resulting in a denial of service, or possibly
-execute arbitrary code. (CVE-2026-56003)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8559-1: rlottie vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8559-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8559-1"/>
-        <updated>2026-07-20T12:19:36.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that rlottie incorrectly handled certain shift
-operations. An attacker could possibly use this issue to cause rlottie
-to read out of bounds, resulting in a denial of service or exposing
-sensitive information. (CVE-2026-10305)
-
-It was discovered that rlottie did not properly limit recursion when
-processing certain Lottie animations. An attacker could possibly use
-this issue to cause rlottie to crash, resulting in a denial of service.
-(CVE-2026-47306)
-
-It was discovered that rlottie incorrectly handled certain span
-coordinates. An attacker could possibly use this issue to cause a
-stack-based buffer overflow, resulting in a denial of service or
-possibly the execution of arbitrary code. (CVE-2026-47318)
-
-It was discovered that rlottie incorrectly handled certain path data.
-An attacker could possibly use this issue to cause rlottie to allocate
-an excessive amount of memory, resulting in a denial of service.
-(CVE-2026-47319)
-
-It was discovered that rlottie did not properly limit recursion and
-could access an uninitialized pointer when processing certain Lottie
-animations. An attacker could possibly use this issue to cause rlottie
-to crash, resulting in a denial of service. (CVE-2026-47320)
-
-It was discovered that rlottie incorrectly handled certain array
-lengths in the bundled FreeType raster code. An attacker could possibly
-use this issue to cause an out-of-bounds write, resulting in a denial
-of service or possibly the execution of arbitrary code. This issue only
-affected Ubuntu 22.04 LTS and Ubuntu 24.04 LTS. (CVE-2026-8916)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8563-1: nginx vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8563-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8563-1"/>
-        <updated>2026-07-20T12:17:44.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that nginx incorrectly handled certain map directives
-using regex matching and capture variables. A remote attacker could use
-this issue to cause nginx to crash, resulting in a denial of service, or
-possibly execute arbitrary code. (CVE-2026-42533)
-
-It was discovered that nginx had a use-after-free vulnerability in the
-ngx_http_ssi_module module when configured with Server-Side Includes,
-proxy_pass, and proxy buffering disabled directives. An attacker able to
-intercept traffic and control responses from an upstream server could
-possibly use this issue to cause nginx to crash, resulting in a denial of
-service. (CVE-2026-56434)
-
-It was discovered that nginx incorrectly handled certain requests in the
-ngx_http_slice_module module. A remote attacker could possibly use this
-issue to obtain sensitive information or cause nginx to crash, resulting
-in a denial of service. (CVE-2026-60005)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -815,16 +836,6 @@ This limited-time event has a simple objective: making your way past Zorua and o
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Constant Game Sales Have Replaced What Was Once The Best Deal In Gaming]]></title>
-        <id>https://kotaku.com/?p=2000716197</id>
-        <link href="https://kotaku.com/budget-games-lower-prices-rerelease-game-sales-cheaper-2000716197"/>
-        <updated>2026-07-20T11:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Hear my heartfelt plea for a return to the days of the discounted relaunch]]></summary>
-        <author>
-            <name>John Walker</name>
         </author>
     </entry>
     <entry>
@@ -969,16 +980,6 @@ Read more]]></summary>
         <updated>2026-07-20T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Canceled Kingdom Hearts IV Prologue’s Cinematic Has Allegedly Leaked And Fans Are Trying To Decipher It [Update]]]></title>
-        <id>https://kotaku.com/?p=2000717536</id>
-        <link href="https://kotaku.com/kingdom-hearts-4-missing-link-leak-cinematic-astronaut-2000717536"/>
-        <updated>2026-07-20T01:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Kingdom Hearts: Missing-Link was a canceled mobile game that would have tied into the upcoming fourth mainline game in the series]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
         </author>
     </entry>
     <entry>
@@ -3001,16 +3002,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Nový paměťový čip odolává teplotám vyšším než láva. Průzkum dark webu odhalil, že síť Tor je menší, nestabilnější a duplicitnější, než se čekalo. Studenti ukázali technologie s lidskou tváří. V soutěži Huawei uspěl náramek pro neslyšící. Zdokonalili grafový algoritmus.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook a Instagram dle EU záměrně návykové, úskalí oprav chyb ve Wine]]></title>
-        <id>www.root.cz-text-19731</id>
-        <link href="https://www.root.cz/clanky/facebook-a-instagram-dle-eu-zamerne-navykove-uskali-oprav-chyb-ve-wine/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-11T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Týden v KDE a spousta oprav pro Plasmu řad 6.6 až 6.8, vývojová verze Wine 11.13, Facebook a Instagram jsou návykové říká předběžné zjištění EK,KDE Plasma 6.7 na CachyOS a hry: rychlejší je Wayland.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
