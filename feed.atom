@@ -1,10 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-20T22:53:12.433Z</id>
+    <id>urn:2026-07-21T02:04:42.612Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-20T22:53:12.433Z</updated>
+    <updated>2026-07-21T02:04:42.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“30th Celebration” Additional Product Preorders Live on Pokemon Center!]]></title>
+        <id>156933</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-additional-product-preorders-live-on-pokemon-center.156933/"/>
+        <updated>2026-07-21T02:01:14.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetworkManager 1.58]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/networkmanager-1.58</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/networkmanager-1.58"/>
+        <updated>2026-07-21T02:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 1.58 sady nástrojů pro správu síťových připojení NetworkManager. Novinkám se v příspěvku na blogu NetworkManageru věnuje Josephine Pfeiffer. Vypíchnout lze možnost nmtui zobrazit nastavení Wi-Fi jako QR kód nebo podporu CLAT (464XLAT) a tunelů GENEVE (Generic Network Virtualization Encapsulation).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Music Updated With More Mario Kart World 'Free Roam' Songs]]></title>
+        <id>https://www.nintendolife.com/#article-204026</id>
+        <link href="https://www.nintendolife.com/news/2026/07/nintendo-music-updated-with-more-mario-kart-world-free-roam-songs1"/>
+        <updated>2026-07-21T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Featuring music from Super Circuit and Double Dash!!
+Since the arrival of the Mario Kart World album on Nintendo Music last month, Nintendo has released multiple "Free Roam" songs from the game.
+This week's update for the app adds Free Roam songs based on Mario Kart: Double Dash!! and Mario Kart Super Circuit. Here's the full tracklist:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stellar Blade Has Been Rated For The Switch 2]]></title>
+        <id>https://www.nintendolife.com/#article-204025</id>
+        <link href="https://www.nintendolife.com/news/2026/07/stellar-blade-has-been-rated-for-the-switch-2"/>
+        <updated>2026-07-21T00:45:00.000Z</updated>
+        <summary type="html"><![CDATA[It's arriving "this year".
+One of the many surprises of last month's Nintendo Direct was the announcement Stellar Blade would be coming to the Switch 2 this year.
+Although there's no update about the release date of this version just yet, an ESRB rating for the action-adventure featuring fast-paced combat and role-playing elements has now gone live. It's rated 'M' and contains blood and gore, language, suggestive themes and violence.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cold Reset Recovery Coming Together To Better Help Intel GPUs On Linux]]></title>
+        <id>https://www.phoronix.com/news/Intel-Cold-Reset-Recovery-Linux</id>
+        <link href="https://www.phoronix.com/news/Intel-Cold-Reset-Recovery-Linux"/>
+        <updated>2026-07-21T00:35:07.000Z</updated>
+        <summary type="html"><![CDATA[One of the patch series going through nearly a dozen revisions now is for introducing a cold reset recovery method for the Direct Rendering Manager (DRM) drivers with an initial focus on the Intel Xe kernel graphics driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSA: Disney Speedstorm - Nintendo Switch 2 Edition Now Available]]></title>
+        <id>https://www.nintendolife.com/#article-203898</id>
+        <link href="https://www.nintendolife.com/news/2026/07/psa-disney-speedstorm-nintendo-switch-2-edition-now-available"/>
+        <updated>2026-07-20T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Update: Here's the official Switch 2 trailer.
+
+Gameloft has this week released a dedicated Switch 2 Edition of its free-to-play racing title Disney Speedstorm on the eShop.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reported Director Of Obsidian’s Upcoming Fallout Game Says RPGS Are ‘At Their Best…When You Can’t Control Everything’]]></title>
         <id>https://kotaku.com/?p=2000717793</id>
@@ -23,6 +91,39 @@
         <summary type="html"><![CDATA[Independently owned, again]]></summary>
         <author>
             <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8558-1: ImageMagick vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8558-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8558-1"/>
+        <updated>2026-07-20T22:36:08.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that ImageMagick did not limit mutual references between
+MVG files. An attacker could possibly use this issue to cause a stack
+overflow, resulting in a denial of service. This issue only affected Ubuntu
+14.04 LTS, Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, Ubuntu
+22.04 LTS, and Ubuntu 24.04 LTS. (CVE-2025-68950)
+
+It was discovered that the ImageMagick MSL coder destroyed a cloned image
+twice when an MSL script failed. An attacker could possibly use this issue
+to cause a use-after-free, resulting in a denial of service, or arbitrary
+code execution. This issue only affected Ubuntu 14.04 LTS, Ubuntu 16.04
+LTS, Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, and Ubuntu 24.04
+LTS. (CVE-2026-28688)
+
+It was discovered that the ImageMagick VIFF image encoder did not properly
+validate the packet count, leading to an integer overflow on 32-bit
+systems. An attacker could possibly use this issue to cause an out-of-
+bounds heap write, resulting in a denial of service. (CVE-2026-33900)
+
+It was discovered that ImageMagick did not properly handle the column
+offset when sampling an image. An attacker could possibly use this issue to
+cause ImageMagick to read out of bounds, resulting in a denial of service.
+This issue only affected Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, Ubuntu 20.04
+LTS, Ubuntu 22.04 LTS, Ubuntu 24.04 LTS, and Ubuntu 26.04 LTS.
+(CVE-2026-33905)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -95,15 +196,6 @@ Original advisory details:
         <updated>2026-07-20T21:23:25.000Z</updated>
         <author>
             <name>Psychic Nature</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“30th Celebration” Additional Product Preorders Live on Pokemon Center!]]></title>
-        <id>156933</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-additional-product-preorders-live-on-pokemon-center.156933/"/>
-        <updated>2026-07-20T21:18:42.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -753,23 +845,6 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2026-07-20T13:25:55.000Z</updated>
         <author>
             <name>The-Snorlax-Store</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8565-1: SQLite vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8565-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8565-1"/>
-        <updated>2026-07-20T13:00:41.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that SQLite did not properly handle NULL pointer
-dereferences in the Session Extension when applying a corrupt changeset.
-An attacker could possibly use this issue to cause SQLite to crash,
-resulting in a denial of service. (CVE-2026-50812)
-
-It was discovered that SQLite had a buffer overread in the Session
-Extension when processing a corrupt changeset. An attacker could possibly
-use this issue to obtain sensitive information. (CVE-2026-50813)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1783,16 +1858,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pico-usb-wifi]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/pico-usb-wifi</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/pico-usb-wifi"/>
-        <updated>2026-07-17T15:00:13.000Z</updated>
-        <summary type="html"><![CDATA[pico-usb-wifi je open source firmware pro Raspberry Pi Pico W, který jej promění v USB Wi-Fi adaptér. Po připojení k počítači se objeví jako zařízení USB CDC-NCM.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Opinion: Nintendo Gains A Rep Boost As Sony & Microsoft Lay Waste To The Industry]]></title>
         <id>https://www.nintendolife.com/#article-203782</id>
         <link href="https://www.nintendolife.com/features/opinion-nintendo-gains-a-rep-boost-as-sony-and-microsoft-lay-waste-to-the-industry"/>
@@ -1888,19 +1953,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA['Stage Tour' Looks To Revive Guitar Hero's Golden Era On Switch 2]]></title>
-        <id>https://www.nintendolife.com/#article-203921</id>
-        <link href="https://www.nintendolife.com/news/2026/07/stage-tour-looks-to-revive-guitar-heros-golden-era-on-switch-2"/>
-        <updated>2026-07-17T12:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Rock on.
-Stage Tour, the new rhythm game from Guitar Hero and DJ Hero veterans, has been confirmed for the Switch 2.
-Launching toward the end of 2026, Stage Tour will support guitar controllers along with microphones and drums, replicating the golden era of rhythm games for new audiences. Granted, we think it might have a bit of an uphill battle on its hands with a bunch of free options on the market right now, including Fortnite Festival, but we've got our fingers crossed that it'll be a good one.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Help me with this Water deck!]]></title>
         <id>156914</id>
         <link href="https://www.pokebeach.com/forums/threads/help-me-with-this-water-deck.156914/"/>
@@ -1920,19 +1972,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Review: Culdcept BEGINS - Nintendo Switch 2 Edition - A Great Distillation Of This Addictive Series' Mechanics]]></title>
-        <id>https://www.nintendolife.com/#article-203567</id>
-        <link href="https://www.nintendolife.com/reviews/nintendo-switch-2/culdcept-begins-nintendo-switch-2-edition"/>
-        <updated>2026-07-17T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Stone culd classic.
-Culdcept has been around since the days of the Sega Saturn, but the odds are pretty good that you’ve never heard of it, let alone played it. Not all of the handful of titles released have left Japan’s shores, and of those that did, sales were low and reviews mixed. It’s the kind of game that either really clicks with you or feels too confusing or arcane to understand and stick with.
-After the last release, Culdcept Revolt, came out a decade ago on the 3DS, the franchise is now being dusted off and soft-rebooted with Culdcept Begins. Offering a somewhat simplified and newcomer-friendly take on the notoriously complicated board game, it does a fantastic job of showcasing why this unique series deserves a lot more love and attention. It’s fun, addictive, and strange all at the same time, making for the kind of experience that you could easily drop dozens, if not hundreds, of hours into once it gets its hooks in.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["I would fight it tooth and nail": The Sims artist would challenge any mandate to reduce diversity after EA Saudi buyout]]></title>
         <id>https://www.rockpapershotgun.com/i-would-fight-it-tooth-and-nail-the-sims-artist-would-challenge-any-mandate-to-reduce-diversity-after-ea-saudi-buyout</id>
         <link href="https://www.rockpapershotgun.com/i-would-fight-it-tooth-and-nail-the-sims-artist-would-challenge-any-mandate-to-reduce-diversity-after-ea-saudi-buyout"/>
@@ -1941,19 +1980,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Julian Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Round Up: "The Game F***ing Rules" - The First Previews For Castlevania: Belmont's Curse Are In]]></title>
-        <id>https://www.nintendolife.com/#article-203916</id>
-        <link href="https://www.nintendolife.com/news/2026/07/round-up-the-game-fing-rules-the-first-previews-for-castlevania-belmonts-curse-are-in"/>
-        <updated>2026-07-17T11:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Alucards on the table.
-Konami revealed earlier this week that Castlevania: Belmont's Curse would launch on the Switch on the same day as other platforms, extinguishing any fears of a potential delay. So mark 15th October 2026 in your diaries, folks, because it sounds like it's going to be a banger.
-Yes, a handful of outlets have gone live with their first previews of Belmont's Curse, and it seems developer Evil Empire (Dead Cells) has got a pretty good handle on what makes a good 2D Castlevania game. Granted, we're not expecting Symphony of the Night levels of genius here, but if it comes close, then it'll be more than worth the wait.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1983,16 +2009,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/Llamafile-0.10.4"/>
         <updated>2026-07-17T10:07:07.000Z</updated>
         <summary type="html"><![CDATA[Mozilla AI developers have released a new version of Llamafile,  their solution for easy-to-use LLMs as a single file that work across hardware and operating systems. With Llamafile 0.10.4 is now Transcribefile, as a new piece built off their recently announced Transcribe.cpp project...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenBLAS 0.3.34 Improves Multi-Threading, Support For A Memory-Safe C Toolchain]]></title>
-        <id>https://www.phoronix.com/news/OpenBLAS-0.3.34-Released</id>
-        <link href="https://www.phoronix.com/news/OpenBLAS-0.3.34-Released"/>
-        <updated>2026-07-17T09:58:43.000Z</updated>
-        <summary type="html"><![CDATA[OpenBLAS 0.3.34 released on Thursday as this popular, open-source BLAS library providing optimized support for a variety of CPUs/architectures. OpenBLAS 0.3.34 continues working on squeezing more performance  out of today's processors as well as delivering other new features...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
