@@ -1,10 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-25T11:04:18.224Z</id>
+    <id>urn:2026-07-25T13:10:34.013Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-25T11:04:18.224Z</updated>
+    <updated>2026-07-25T13:10:34.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[CVE-2026-64600 aneb RefluXFS, lokální eskalace práv v XFS]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/cve-2026-64600-aneb-refluxfs-lokalni-eskalace-prav-v-xfs</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/cve-2026-64600-aneb-refluxfs-lokalni-eskalace-prav-v-xfs"/>
+        <updated>2026-07-25T12:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Byly zveřejněny informace o kritické zranitelnosti CVE-2026-64600 pojmenované RefluXFS (technické detaily) v XFS. Je tam již od verze Linuxu 4.11, tj. rok 2017. Jedná se o lokální eskalaci práv. Neprivilegovaný uživatel může editovat libovolný soubor, například klidně zrušit rootovské heslo v /etc/passwd. Videoukázka na Vimeo. V upstreamu je zranitelnost opravena.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Výpadky OpenAI]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/vypadky-openai</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/vypadky-openai"/>
+        <updated>2026-07-25T11:46:33.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI / ChatGPT má dnes výpadky (OpenAI Status, DownDetector).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“MEGA Starter Decks” Starring Eevee ex, Zoroark ex, and Meowscarada ex Fully Revealed!]]></title>
+        <id>156942</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-starter-decks%E2%80%9D-starring-eevee-ex-zoroark-ex-and-meowscarada-ex-fully-revealed.156942/"/>
+        <updated>2026-07-25T11:21:37.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Storm Emeralda” All 76 Main Set Cards Revealed!]]></title>
+        <id>156943</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-all-76-main-set-cards-revealed.156943/"/>
+        <updated>2026-07-25T11:15:58.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stanovisko Codeberg k využívání LLM]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/stanovisko-codeberg-k-vyuzivani-llm</id>
@@ -13,6 +51,16 @@
         <summary type="html"><![CDATA[Poskytovatel hostingu svobodných/open-source projektů Codeberg po hlasování na valné hromadě vydal stanovisko k využívání LLM. Kvůli vytěžování infrastruktury a rostoucím cenám hardwaru, ale také hrozbám pro spolupráci v komunitě se k LLM staví kriticky. Nebude poskytovat hosting projektů vytvářených LLM agenty.]]></summary>
         <author>
             <name>|&amp;#x1f1f5;&amp;#x1f1f8;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiwi Menu Continues Bringing macOS Vibes To GNOME]]></title>
+        <id>https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes</id>
+        <link href="https://www.phoronix.com/news/Kiwi-Menu-macOS-Vibes"/>
+        <updated>2026-07-25T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kiwi Menu as the macOS-inspired quick menu option for the GNOME Shell desktop is continuing to enhance its macOS-esque experience on GNOME...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -61,15 +109,6 @@
         <summary type="html"><![CDATA[KDE developers have been working on kscreenctl as a utility replacement to kscreen-doctor. Plasma and related code has also seen a number of bug/crash fixes coming about this week too...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Storm Emeralda” All 76 Main Set Cards Revealed!]]></title>
-        <id>156943</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-all-76-main-set-cards-revealed.156943/"/>
-        <updated>2026-07-25T09:20:36.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -140,15 +179,6 @@ Did you know the new Switch 2 exclusive Splatoon Raiders actually has an interac
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“MEGA Starter Decks” Starring Eevee ex, Zoroark ex, and Meowscarada ex Fully Revealed!]]></title>
-        <id>156942</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-starter-decks%E2%80%9D-starring-eevee-ex-zoroark-ex-and-meowscarada-ex-fully-revealed.156942/"/>
-        <updated>2026-07-25T01:22:14.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1997,16 +2027,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Novinky z vývoje RPCS3]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/novinky-z-vyvoje-rpcs3</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/novinky-z-vyvoje-rpcs3"/>
-        <updated>2026-07-22T11:24:58.000Z</updated>
-        <summary type="html"><![CDATA[RPCS3 (Wikipedie), tj. open source emulátor Sony PlayStation 3, snížil minimální požadavky. Nově jsou podporovány starší grafické karty ATI Radeon řady HD 2000, 3000 a 4000 z let 2007 až 2009. Na PC běží už 75 % všech her pro PlayStation 3. V budoucnu bude RPCS3 fungovat bez firmwaru z PS3. V RPCS3 byl implementován systémový modul cellSysmodule (𝕏).]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Playing the riff from Smoke on the Water on a cat piano may be possible in composer sim Offbeat, if you've got more musical talent than me]]></title>
         <id>https://www.rockpapershotgun.com/playing-the-riff-from-smoke-on-the-water-on-a-cat-piano-may-be-possible-in-composer-sim-offbeat-if-youve-got-more-musical-talent-than-me</id>
         <link href="https://www.rockpapershotgun.com/playing-the-riff-from-smoke-on-the-water-on-a-cat-piano-may-be-possible-in-composer-sim-offbeat-if-youve-got-more-musical-talent-than-me"/>
@@ -2046,16 +2066,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[winetop — htop pro Wine prefixy]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/winetop-htop-pro-wine-prefixy</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/winetop-htop-pro-wine-prefixy"/>
-        <updated>2026-07-22T09:05:23.000Z</updated>
-        <summary type="html"><![CDATA[Vyšel open-source nástroj winetop (MIT) — nativní CLI/TUI pro sledování a ukončování Wine, Proton, Lutris, Heroic a Bottles sezení. Seskupuje procesy podle WINEPREFIX / Steam AppId, umí bezpečně zabít jen hru (včetně Steam reaperu) a nabízí i skriptovatelné příkazy (list, kill, orphans, …). Balíčky jsou mimo jiné na crates.io, Copru (dnf copr enable kovariadam/winetop), PPA ppa:kovariadam/winetop a AUR (winetop-bin).]]></summary>
-        <author>
-            <name>kovariadam</name>
         </author>
     </entry>
     <entry>
@@ -2235,16 +2245,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 6.7 vs. GNOME Shell 50.3 vs. Xfce 4.20 On CachyOS With NVIDIA Graphics]]></title>
-        <id>https://www.phoronix.com/review/cachyos-desktops-july-2026</id>
-        <link href="https://www.phoronix.com/review/cachyos-desktops-july-2026"/>
-        <updated>2026-07-21T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this month I provided a look at the KDE Plasma 6.7 Wayland vs. X11 session performance for graphics/gaming on CachyOS using NVIDIA GeForce RTX 50 graphics. Since then Phoronix readers -- including some premium supporters -- requested seeing some additional desktops tested with the latest CachyOS packages. So here we are now with seeing how KDE Plasma 6.7 compared to the Wayland-only GNOME Shell 50.3 desktop as well as the X11-based Xfce 4.20 desktop on CachyOS.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
