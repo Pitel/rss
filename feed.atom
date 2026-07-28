@@ -1,10 +1,378 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-28T05:17:32.092Z</id>
+    <id>urn:2026-07-28T08:22:55.344Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-28T05:17:32.092Z</updated>
+    <updated>2026-07-28T08:22:55.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-8620-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8620-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8620-1"/>
+        <updated>2026-07-28T07:31:41.000Z</updated>
+        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
+Linux kernel did not properly validate file name length in certain
+situations, leading to an out-of-bounds read. An attacker could use this to
+construct a malicious NTFS image that, when mounted and operated on, could
+expose sensitive information (kernel memory). (CVE-2023-45896)
+
+It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, re…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8619-1: Linux kernel (HWE) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8619-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8619-1"/>
+        <updated>2026-07-28T07:28:45.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, resulting in privilege escalation. (CVE-2025-54518)
+
+It was discovered that some AMD Zen 5 processors supporting RDSEED
+instruction did not properly handle entropy, potentially resulting in the
+consumption of insufficiently random values. A local attacker could
+possibly use this issue to influence the values returned by the RDSEED
+instruction causing loss…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8595-3: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8595-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-8595-3"/>
+        <updated>2026-07-28T07:25:50.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, resulting in privilege escalation. (CVE-2025-54518)
+
+It was discovered that some AMD Zen 5 processors supporting RDSEED
+instruction did not properly handle entropy, potentially resulting in the
+consumption of insufficiently random values. A local attacker could
+possibly use this issue to influence the values returned by the RDSEED
+instruction causing loss…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8574-3: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8574-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-8574-3"/>
+        <updated>2026-07-28T07:23:25.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, resulting in privilege escalation. (CVE-2025-54518)
+
+It was discovered that some AMD Zen 5 processors supporting RDSEED
+instruction did not properly handle entropy, potentially resulting in the
+consumption of insufficiently random values. A local attacker could
+possibly use this issue to influence the values returned by the RDSEED
+instruction causing loss…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8570-2: Linux kernel (Oracle) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8570-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8570-2"/>
+        <updated>2026-07-28T07:19:37.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Foo-over-UDP (FOU);
+  - ARM64 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Drivers core;
+  - Null block device driver;
+  - Bluetooth drivers;
+  - Counter interface drivers;
+  - DMA engine subsystem;
+  - DPLL subsystem;
+  - GPIO subsystem;
+  - GPU drivers;
+  - I2C subsystem;
+  - IIO ADC drivers;
+  - IIO subsystem;
+  - On-Chip Interconnect management framework;
+  - IOMMU subsystem;
+  - IRQ chip drivers;
+  - Modular ISDN driver;
+  - LED subsystem;
+  - Multiple devices driver;
+  - UACCE accelerator framework;
+  - MMC subsystem;
+  - Ethernet bonding driver;
+  - Network drivers;
+  - Mellanox n…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8618-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8618-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8618-1"/>
+        <updated>2026-07-28T07:16:49.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, resulting in privilege escalation. (CVE-2025-54518)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 platform drivers;
+  - Cryptographic API;
+  - PSP security protocol;
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Intel NPU Driver;
+  - Compute Acceleration…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desítky firem zakládají Open Secure AI Alliance, incident s Hugging Face ukázal hrozbu nového typu]]></title>
+        <id>www.root.cz-actuality-52932</id>
+        <link href="https://www.root.cz/zpravicky/desitky-firem-zakladaji-open-secure-ai-alliance-incident-s-hugging-face-ukazal-hrozbu-noveho-typu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-07-28T07:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia oznamuje založení Open Secure AI Alliance, s desítkami partnerů z řad velkých jmen mezi IT a AI společnostmi. Členy jsou například Adobe, Cadence, Cisco, Cloudflare, Dell, HPE, IBM, The Linux Foundation, Microsoft, Palantir, Red Hat, SAP, Siemens, SK Telecom, SpaceX a další.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8617-1: Linux kernel (KVM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8617-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8617-1"/>
+        <updated>2026-07-28T06:46:54.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
+subsystem in the Linux kernel when handling socket buffer fragments. This
+flaw is known as Fragnesia. A local attacker could use this to escalate
+privileges, or possibly escape a container. (CVE-2026-43503)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - InfiniBand drivers;
+  - STMicroelectronics network drivers;
+  - SCSI subsystem;
+  - USB over IP driver;
+  - SMB network file system;
+  - Tracing infrastructure;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RxRPC session sockets;
+  - X.25 network layer;
+(CVE-2026-23272, CVE-2026-23455, CVE-2026-31418, CVE-2026-31607,
+CVE-2026-31637, CVE-2026-31649, CVE-2026-31659, CVE-2026-31682,
+CVE-2026-31685, CVE-2026-43011, CVE-2026-43038, CVE-2026-43117,
+CVE-2026-43383, CVE-2026-43407, CVE-2026-43414, CVE-2026-46043,
+CVE-2026-46243)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8616-1: Linux kernel (IBM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8616-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8616-1"/>
+        <updated>2026-07-28T06:43:49.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that the Linux kernel did not properly handle shared page
+fragments during socket buffer operations, collectively known as Dirty
+Frag. A logic flaw existed in the XFRM ESP-in-TCP subsystem and in the
+RxRPC networking subsystem when processing paged fragments. A local
+attacker could use this to escalate privileges, or possibly escape a
+container. (CVE-2026-43284, CVE-2026-43500)
+
+It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
+subsystem in the Linux kernel when handling socket buffer fragments. This
+flaw is known as Fragnesia. A local attacker could use this to escalate
+privileges, or possibly escape a container. (CVE-2026-43503)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - InfiniBand drivers;
+  - STMicroelectronics network drivers;
+  - NVME drivers;
+  - SCSI subsystem;
+  - USB over IP driver;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Tracing infrastructure;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RDS protocol;
+  - RxRPC session sockets;
+  - X.25 network layer;
+(CVE-2026-23272, CVE-2026-23455, CVE-2026-31402, CVE-2026-31418,
+CVE-2026-31607, CVE-2026-31637, CVE-2026-31649, CVE-2026-31659,
+CVE-2026-31682, CVE-2026-31685, CVE-2026-43011, CVE-2026-43037,
+CVE-2026-43038, CVE-2026-43117, CVE-2026-43383, CVE-2026-43407,
+CVE-2026-43414, CVE-2026-43494, CVE-2026-45988, CVE-2026-46043,
+CVE-2026-46119, CVE-2026-46135, CVE-2026-46243)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8615-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8615-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8615-1"/>
+        <updated>2026-07-28T06:40:44.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
+subsystem in the Linux kernel when handling socket buffer fragments. This
+flaw is known as Fragnesia. A local attacker could use this to escalate
+privileges, or possibly escape a container. (CVE-2026-43503)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - InfiniBand drivers;
+  - STMicroelectronics network drivers;
+  - NVME drivers;
+  - SCSI subsystem;
+  - USB over IP driver;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - Tracing infrastructure;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RxRPC session sockets;
+  - X.25 network layer;
+(CVE-2026-23272, CVE-2026-23455, CVE-2026-31402, CVE-2026-31418,
+CVE-2026-31607, CVE-2026-31637, CVE-2026-31649, CVE-2026-31659,
+CVE-2026-31682, CVE-2026-31685, CVE-2026-43011, CVE-2026-43037,
+CVE-2026-43038, CVE-2026-43117, CVE-2026-43383, CVE-2026-43407,
+CVE-2026-43414, CVE-2026-45988, CVE-2026-46043, CVE-2026-46119,
+CVE-2026-46135, CVE-2026-46243)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8547-2: Linux kernel (Azure FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8547-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8547-2"/>
+        <updated>2026-07-28T06:37:49.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - RISC-V architecture;
+  - Cryptographic API;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - Network drivers;
+  - STMicroelectronics network drivers;
+  - NVME drivers;
+  - x86 platform drivers;
+  - SCSI subsystem;
+  - SPI subsystem;
+  - TCM subsystem;
+  - USB over IP driver;
+  - File systems infrastructure;
+  - HFS+ file system;
+  - Network file system (NFS) server daemon;
+  - SMB network file system;
+  - IPv6 networking;
+  - Tracing infrastructure;
+  - Timer subsystem;
+  - B.A.T.M.A.N. meshing protocol;
+  - Bluetooth subsystem;
+  - Ethernet bridge;
+  - Ceph Core library;
+  - IPv4 networking;
+  - MAC80211 subsystem;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SMC sockets;
+  - Sun RPC protocol;
+  - X.25 network layer;
+  - AMD SoC Alsa drivers;
+  - KVM subsystem;
+(CVE-2022-48816, CVE-2023-53673, CVE-2025-37778, CVE-2025-37822,
+CVE-2025-37924, CVE-2025-38201, CVE-2025-40082, CVE-2025-68214,
+CVE-2025-68263, CVE-2025-71089, CVE-2025-71220, CVE-2025-71222,
+CVE-2025-71224, CVE-2026-23176, CVE-2026-23180, CVE-2026-23182,
+CVE-2026-23190, CVE-2026-23193, CVE-2026-23198, CVE-2026-23202,
+CVE-2026-23206, CVE-2026-23216, CVE-2026-23256, CVE-2026-23257,
+CVE-2026-23258, CVE-2026-23262, CVE-2026-23272, CVE-2026-23278,
+CVE-2026-23428, CVE-2026-23450, CVE-2026-23455, CVE-2026-31402,
+CVE-2026-31418, CVE-2026-31478, CVE-2026-31607, CVE-2026-31637,
+CVE-2026-31649, CVE-2026-31657, CVE-2026-31659, CVE-2026-31668,
+CVE-2026-31669, CVE-2026-31682, CVE-2026-31685, CVE-2026-43011,
+CVE-2026-43037, CVE-2026-43038, CVE-2026-43071, CVE-2026-43114,
+CVE-2026-43117, CVE-2026-43185, CVE-2026-43186, CVE-2026-43304,
+CVE-2026-43341, CVE-2026-43383, CVE-2026-43406, CVE-2026-43407,
+CVE-2026-43414, CVE-2026-43493, CVE-2026-43501, CVE-2026-45988,
+CVE-2026-46043, CVE-2026-46119, CVE-2026-46135, CVE-2026-46195,
+CVE-2026-46243)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splatoon Raiders' User Scores Are Off To A Splashing Start On Metacritic]]></title>
+        <id>https://www.nintendolife.com/#article-204304</id>
+        <link href="https://www.nintendolife.com/news/2026/07/splatoon-raiders-user-scores-are-off-to-a-splashing-start-on-metacritic"/>
+        <updated>2026-07-28T06:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo's fresh take receives a glowing reception.
+
+The excitement for Splatoon Raiders might not have been as big as certain other first-party Nintendo titles in the lead-up to its release, but now that it's out, the Switch 2 exclusive is getting a lot of praise from fans.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pitch Black Set Review]]></title>
         <id>156953</id>
@@ -411,20 +779,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8613-1: FreeIPMI vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8613-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8613-1"/>
-        <updated>2026-07-27T14:28:55.000Z</updated>
-        <summary type="html"><![CDATA[Zhihan Zheng discovered that FreeIPMI had several buffer overflow
-vulnerabilities in ipmi-oem response message handling. A local attacker
-with control a malicious IPMI device or simulator could possibly cause
-FreeIPMI to crash, resulting in a denial of service. (CVE-2026-33554,
-CVE-2026-50031)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Poll: What Review Score Would You Give Splatoon Raiders?]]></title>
         <id>https://www.nintendolife.com/#article-204280</id>
         <link href="https://www.nintendolife.com/features/poll-what-review-score-would-you-give-splatoon-raiders"/>
@@ -518,58 +872,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[GTA 6 is the first major game release to go digital-only]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8612-1: Roc Toolkit vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8612-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8612-1"/>
-        <updated>2026-07-27T12:33:35.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Roc Toolkit incorrectly handled WAV files with a
-malformed "smpl" chunk. An attacker could use this issue to cause Roc
-Toolkit to crash, resulting in a denial of service, or possibly execute
-arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8611-1: GNU C Library vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8611-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8611-1"/>
-        <updated>2026-07-27T12:24:25.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that the GNU C Library iconv function incorrectly handled
-certain IBM character sets. An attacker could possibly use this issue to
-cause a denial of service. (CVE-2026-4046)
-
-It was discovered that the GNU C Library DNS functions incorrectly handled
-certain DNS server responses when using gethostbyaddr or gethostbyaddr_r.
-An attacker in a privileged network position could possibly use this issue
-to cause an application to violate DNS specification or obtain incorrect
-hostname information. This issue only affected Ubuntu 24.04 LTS.
-(CVE-2026-4437, CVE-2026-4438)
-
-It was discovered that the GNU C Library deprecated debugging functions
-incorrectly enforced caller-supplied buffer lengths. An attacker could
-possibly use this issue to cause a denial of service or execute arbitrary
-code. (CVE-2026-5435)
-
-It was discovered that the GNU C Library scanf family of functions
-contained a heap buffer overflow when processing certain format specifiers.
-An attacker could possibly use this issue to cause a denial of service or
-execute arbitrary code. (CVE-2026-5450)
-
-It was discovered that the GNU C Library ungetwc function incorrectly
-handled certain character encodings. An attacker could possibly use this
-issue to obtain sensitive information or cause a denial of service.
-(CVE-2026-5928)
-
-It was discovered that the GNU C Library deprecated debugging functions
-incorrectly validated DNS response record data. An attacker could possibly
-use this issue to cause a denial of service or obtain sensitive
-information. (CVE-2026-6238)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -713,15 +1015,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is your first Pokemon game?]]></title>
-        <id>155328</id>
-        <link href="https://www.pokebeach.com/forums/threads/what-is-your-first-pokemon-game.155328/"/>
-        <updated>2026-07-27T09:01:04.000Z</updated>
-        <author>
-            <name>chongjasmine</name>
         </author>
     </entry>
     <entry>
@@ -1788,167 +2081,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8610-1: Linux kernel (Azure CVM) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8610-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8610-1"/>
-        <updated>2026-07-24T10:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8575-3: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8575-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8575-3"/>
-        <updated>2026-07-24T10:30:08.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8609-1: Linux kernel (Azure CVM) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8609-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8609-1"/>
-        <updated>2026-07-24T10:26:03.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, resulting in privilege escalation. (CVE-2025-54518)
-
-It was discovered that some AMD Zen 5 processors supporting RDSEED
-instruction did not properly handle entropy, potentially resulting in the
-consumption of insufficiently random values. A local attacker could
-possibly use this issue to influence the values returned by the RDSEED
-instruction causing loss…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8608-1: Linux kernel (Azure FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8608-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8608-1"/>
-        <updated>2026-07-24T10:23:19.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, resulting in privilege escalation. (CVE-2025-54518)
-
-It was discovered that some AMD Zen 5 processors supporting RDSEED
-instruction did not properly handle entropy, potentially resulting in the
-consumption of insufficiently random values. A local attacker could
-possibly use this issue to influence the values returned by the RDSEED
-instruction causing loss…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8607-1: Linux kernel (Azure CVM) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8607-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8607-1"/>
-        <updated>2026-07-24T10:20:29.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, resulting in privilege escalation. (CVE-2025-54518)
-
-It was discovered that some AMD Zen 5 processors supporting RDSEED
-instruction did not properly handle entropy, potentially resulting in the
-consumption of insufficiently random values. A local attacker could
-possibly use this issue to influence the values returned by the RDSEED
-instruction causing loss…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8606-1: Linux kernel (Azure) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8606-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8606-1"/>
-        <updated>2026-07-24T10:17:16.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, resulting in privilege escalation. (CVE-2025-54518)
-
-It was discovered that some AMD Zen 5 processors supporting RDSEED
-instruction did not properly handle entropy, potentially resulting in the
-consumption of insufficiently random values. A local attacker could
-possibly use this issue to influence the values returned by the RDSEED
-instruction causing loss…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8595-2: Linux kernel (AWS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8595-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8595-2"/>
-        <updated>2026-07-24T10:14:09.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, resulting in privilege escalation. (CVE-2025-54518)
-
-It was discovered that some AMD Zen 5 processors supporting RDSEED
-instruction did not properly handle entropy, potentially resulting in the
-consumption of insufficiently random values. A local attacker could
-possibly use this issue to influence the values returned by the RDSEED
-instruction causing loss…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sweeping, strafing and suppression: Total War: Warhammer 40,000 threatens to blow up Total War's combat fundamentals]]></title>
         <id>https://www.rockpapershotgun.com/sweeping-strafing-and-suppression-total-war-warhammer-40000-threatens-to-blow-up-total-wars-combat-fundamentals</id>
         <link href="https://www.rockpapershotgun.com/sweeping-strafing-and-suppression-total-war-warhammer-40000-threatens-to-blow-up-total-wars-combat-fundamentals"/>
@@ -2029,19 +2161,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Linuxových systémů přibývá, každý den se spouštějí nové servery a někdo se o ně musí starat. To znamená spoustu různých dovedností specifických právě pro linuxové prostředí. Jak to zprovoznit, kudy bezpečně dovnitř, co tam najdeme, jak se o to postaráme a jak to nastavíme nebo rozšíříme.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Redakce)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uniqlo Launches New Pokémon 30th Anniversary T-Shirt Collection]]></title>
-        <id>https://www.nintendolife.com/#article-204193</id>
-        <link href="https://www.nintendolife.com/news/2026/07/uniqlo-launches-new-pokemon-30th-anniversary-t-shirt-collection"/>
-        <updated>2026-07-24T05:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Available now in Japan.
-As part of Pokémon's ongoing 30th anniversary celebrations, Uniqlo has launched its second UT collection of t-shirt designs.
-According to the official description, this collection pays homage to the origins of the Pokémon series and comes with game pixel art dating back to the original generation. There are four shirts for adults and four available in kid sizes. Some of the shirts include added details on the front and back. You can see some of these details in the video above.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2324,6 +2443,15 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Just Got Back into Pokémon – What’s the Best Game to Start With on Switch?]]></title>
+        <id>156358</id>
+        <link href="https://www.pokebeach.com/forums/threads/just-got-back-into-pok%C3%A9mon-%E2%80%93-what%E2%80%99s-the-best-game-to-start-with-on-switch.156358/"/>
+        <updated>2026-07-23T07:06:08.000Z</updated>
+        <author>
+            <name>horbgorble</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vývojáři linuxového jádra přidělili 432 CVE během dvou dnů]]></title>
         <id>www.root.cz-actuality-52869</id>
         <link href="https://www.root.cz/zpravicky/vyvojari-linuxoveho-jadra-pridelili-432-cve-behem-dvou-dnu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2528,16 +2656,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online Python Akademie: začněte s programováním v oblíbeném jazyce (online kurz)]]></title>
-        <id>www.root.cz-actuality-41123</id>
-        <link href="https://www.root.cz/zpravicky/online-python-akademie-zacnete-s-programovanim-v-oblibenem-jazyce-kurz/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-22T07:40:04.000Z</updated>
-        <summary type="html"><![CDATA[Chceš začít s programováním? Python je oblíbený programovací jazyk mezi vývojáři i zaměstnavateli a zároveň super vstupenka do světa programování. Nauč se přemýšlet jako programátor a efektivně využívat Python na řešení nejrůznějších problémů. Online Python Akademie znamená celkem 6 měsíců studia jednou týdně nebo tři měsíce dvakrát týdně. Následující kurz začíná 3. září.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
