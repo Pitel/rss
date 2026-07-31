@@ -1,10 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-31T13:50:06.151Z</id>
+    <id>urn:2026-07-31T15:58:16.880Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-31T13:50:06.151Z</updated>
+    <updated>2026-07-31T15:58:16.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[GentleOS: nový grafický „OS“ rozběhnete i na PC s procesorem 8086]]></title>
+        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=61743</id>
+        <link href="https://www.high-voltage.cz/sortky/gentleos-novy-graficky-os-rozbehnete-i-na-pc-s-procesorem-8086/"/>
+        <updated>2026-07-31T15:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Stará PC nemusí nutně dožívat s prastarým DOSem, historickými Windows či některou z minimalistických distribucí Linuxu.]]></summary>
+        <author>
+            <name>Sledge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone what to play M Golurk ex]]></title>
+        <id>156959</id>
+        <link href="https://www.pokebeach.com/forums/threads/anyone-what-to-play-m-golurk-ex.156959/"/>
+        <updated>2026-07-31T15:36:52.000Z</updated>
+        <author>
+            <name>GOLURK KING 2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why do ppl say is pult so good?]]></title>
+        <id>156961</id>
+        <link href="https://www.pokebeach.com/forums/threads/why-do-ppl-say-is-pult-so-good.156961/"/>
+        <updated>2026-07-31T15:35:17.000Z</updated>
+        <author>
+            <name>The-Snorlax-Store</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has Raiders Left You Craving A Splatfest? Splatoon 3's Got You Covered Next Month]]></title>
+        <id>https://www.nintendolife.com/#article-204480</id>
+        <link href="https://www.nintendolife.com/news/2026/07/has-raiders-left-you-craving-a-splatfest-splatoon-3s-got-you-covered-next-month"/>
+        <updated>2026-07-31T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Summer Nights event returns.
+We've been so lost in the Splatoon Raiders sauce for the past week that we had started to forget the sweet, sweet taste of Splatfests. Well, worry not, because we're getting a reminder of their brilliance next month.
+Nintendo has today announced that the Summer Nights event will return to Splatoon 3 soon enough, with the special seasonal Splatfest running from 22nd - 24th August.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nouveau Preparing To Finally Enable Atomic Mode-Setting By Default]]></title>
+        <id>https://www.phoronix.com/news/Nouveau-Atomic-Mode-Setting-26</id>
+        <link href="https://www.phoronix.com/news/Nouveau-Atomic-Mode-Setting-26"/>
+        <updated>2026-07-31T15:22:00.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the Nouveau kernel driver unblocking Vulkan Video H.264 support for the Mesa NVK driver, another feature change on the way is this open-source NVIDIA Linux driver finally preparing to enable atomic mode-setting by default...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nexus Mods update their generative AI-made mod tagging policy, dividing one label into three for more specific search filtering]]></title>
+        <id>https://www.rockpapershotgun.com/nexus-mods-update-their-generative-ai-made-mod-tagging-policy-dividing-one-label-into-three-for-more-specific-search-filtering</id>
+        <link href="https://www.rockpapershotgun.com/nexus-mods-update-their-generative-ai-made-mod-tagging-policy-dividing-one-label-into-three-for-more-specific-search-filtering"/>
+        <updated>2026-07-31T15:18:18.000Z</updated>
+        <summary type="html"><![CDATA[As you might be aware, mods made using generative AI - either to directly generate the likes of character voices or for tasks linked to development - seem to be getting more common as the controversial tech continues to become tougher to avoid no matter where you're looking. Such mods aren't against the rules of modding site Nexus Mods, provided they don't infringe on the rights of voice actors or use assets without permission and are appropriately tagged. This week, the modding site have moved to tighten up the latter, dividing a single AI-generated content tag into three more specific ones.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8620-4: Linux kernel (Intel IoTG) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8620-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-8620-4"/>
+        <updated>2026-07-31T15:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
+Linux kernel did not properly validate file name length in certain
+situations, leading to an out-of-bounds read. An attacker could use this to
+construct a malicious NTFS image that, when mounted and operated on, could
+expose sensitive information (kernel memory). (CVE-2023-45896)
+
+It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, re…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In A ‘Who Could Have Possibly Seen This Coming’ Event, Ubisoft Will Shut Down Its NFT Game]]></title>
+        <id>https://kotaku.com/?p=2000720757</id>
+        <link href="https://kotaku.com/ubisoft-nft-game-shut-down-champions-tactics-might-and-magic-fates-2000720757"/>
+        <updated>2026-07-31T14:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Champions Tactics had previously removed its Web3 functionality and will be sunset in October]]></summary>
+        <author>
+            <name>Ash Parrish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AUR opět s malware, zákaz adopce balíčků]]></title>
+        <id>www.root.cz-actuality-53007</id>
+        <link href="https://www.root.cz/zpravicky/aur-opet-s-malware-zakaz-adopce-balicku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-07-31T14:40:24.000Z</updated>
+        <summary type="html"><![CDATA[AUR (Arch Linux User Repository) má od června problémy s malwarem a asi to stále nekončí. Objevila se nová vlna útoku, která si vynutila dočasný zákaz adopce balíčků.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spider-Man: Brand New Day Pokes Fun At An Infamous Debate About The Avengers Movies]]></title>
+        <id>https://kotaku.com/?p=2000720770</id>
+        <link href="https://kotaku.com/spider-man-brand-new-day-bruce-banner-thanos-scene-2000720770"/>
+        <updated>2026-07-31T14:25:42.000Z</updated>
+        <summary type="html"><![CDATA[On top of Thanos’ plan being abhorrent, it was also extremely dumb]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s Why Fans Think The Zelda: Ocarina Of Time Remake Is Going Head-To-Head With GTA 6 In November]]></title>
+        <id>https://kotaku.com/?p=2000720752</id>
+        <link href="https://kotaku.com/heres-why-fans-think-the-zelda-ocarina-of-time-remake-is-going-head-to-head-with-gta-6-in-november-2000720752"/>
+        <updated>2026-07-31T14:00:11.000Z</updated>
+        <summary type="html"><![CDATA[A pattern of new amiibo releases offers a compelling theory]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arch Linux AUR Under Another Wave Of Malicious Packages, Package Adoptions Halted]]></title>
+        <id>https://www.phoronix.com/news/Arch-Linux-AUR-Adoptions-Halted</id>
+        <link href="https://www.phoronix.com/news/Arch-Linux-AUR-Adoptions-Halted"/>
+        <updated>2026-07-31T13:59:23.000Z</updated>
+        <summary type="html"><![CDATA[Last month the Arch Linux User Repository "AUR" saw more than 1,500 malicious packages amid a sophisticated malware attack and then also seeing an influx of spam and profanities amid this community/user-maintained repository for the popular Arch Linux distribution. Unfortunately, there is another round of AUR troubles...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanaďan odsouzen na 18 měsíců kvůli chybějícímu podtržítku]]></title>
         <id>www.root.cz-actuality-53001</id>
@@ -53,15 +188,6 @@
         <summary type="html"><![CDATA[Fedora navrhovala použít Shadow Stack jako výchozí již v letošním vydání verze 45. Shadow Stack je bezpečnostní funkce dostupná na procesorech Intel 11. generace  nebo AMD Zen 3 a novější a chrání návratové adresy například před útoky typu přetečení zásobníku. Kvůli Shadow Stack byla také do Glibc přidána podpora pro konfiguraci pomocí souboru  /etc/tunable.conf.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone what to play M Golurk ex]]></title>
-        <id>156959</id>
-        <link href="https://www.pokebeach.com/forums/threads/anyone-what-to-play-m-golurk-ex.156959/"/>
-        <updated>2026-07-31T13:12:30.000Z</updated>
-        <author>
-            <name>GOLURK KING 2</name>
         </author>
     </entry>
     <entry>
@@ -129,7 +255,7 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Even Stellar Blade Fans Hate The Sequel’s Official GenAI Music Video]]></title>
+        <title type="html"><![CDATA[Stellar Blade 2 Releases AI Music Video And Even Fans Hate It: ‘They Really Thought They Were cooking With This AI Slop”]]></title>
         <id>https://kotaku.com/?p=2000720725</id>
         <link href="https://kotaku.com/even-stellar-bladefans-hate-the-sequels-official-genai-music-video-2000720725"/>
         <updated>2026-07-31T11:40:12.000Z</updated>
@@ -169,7 +295,7 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2026-07-31T10:30:00.000Z</updated>
         <summary type="html"><![CDATA[Two for one.
 Honestly, we thought we couldn't be more sold on Orbitals after we went hands-on with it earlier this month. The magic of GameShare meant that the Switch 2 exclusive was already going to be pretty darn accessible, but Shapefarm and Kepler Interactive have announced this week that the game will also get a 'Global Friend's Pass' app, making it even easier to play with a pal.
-Much like what we've seen previously with Hazelight joints It Takes Two and Split Fiction, the Global Friend's Pass lets you play online with a pal, even if both of you don't own the game. You'll be able to download the Global Friend's Pass app from launch day (3rd September), and then as long as your pal has a full copy of the game, they'll be able to invite you along to play completely free of charge.
+Much like what we've seen previously with Hazelight joints It Takes Two and Split Fiction, the Global Friend's Pass lets you play online with a pal, even if neither of you own the game. You'll be able to download the Global Friend's Pass app from launch day (3rd September), and then as long as your pal has a full copy of the game, they'll be able to invite you along to play completely free of charge.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -342,6 +468,15 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[The underrated 3D Mario game will be part of Switch Online's GameCube library]]></summary>
         <author>
             <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Main Span]]></title>
+        <id>https://xkcd.com/3279/</id>
+        <link href="https://xkcd.com/3279/"/>
+        <updated>2026-07-31T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -599,16 +734,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Alexander Skarsgård Movie Is For All The Folks Who Wanna Bang The Wicker Man]]></title>
-        <id>https://kotaku.com/?p=2000720516</id>
-        <link href="https://kotaku.com/new-alexander-skarsgard-movie-is-for-all-the-folks-who-wanna-bang-the-wicker-man-2000720516"/>
-        <updated>2026-07-30T18:00:16.000Z</updated>
-        <summary type="html"><![CDATA[Wicker is the monsterfucker movie for folks who want a more wholesome, but still hot, alternative to Nosferatu]]></summary>
-        <author>
-            <name>Ash Parrish</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Review: Xenoblade Chronicles 2 (Switch) - Monolith Soft Doing What It Does Best, Albeit With The Occasional Flaw]]></title>
         <id>https://www.nintendolife.com/#article-73176</id>
         <link href="https://www.nintendolife.com/reviews/nintendo-switch/xenoblade-chronicles-2"/>
@@ -619,26 +744,6 @@ To celebrate the release of the Nintendo Switch 2 Edition, we're republishing th
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Author Behind Fantasy Best-Seller Tries To Distance Herself From The Movie: ‘This Film Is The Worst Thing I’ve Ever Had To Live Through’]]></title>
-        <id>https://kotaku.com/?p=2000720524</id>
-        <link href="https://kotaku.com/children-blood-bone-tomi-adeyemi-author-amandla-stenberg-2000720524"/>
-        <updated>2026-07-30T17:45:52.000Z</updated>
-        <summary type="html"><![CDATA[Tomi Adeyemi has posted a video claiming that she has been ‘antagonized behind the scenes’ of the Children of Blood and Bone film]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paralives Babies Are Kinda Ugly So The Devs Are Changing Them]]></title>
-        <id>https://kotaku.com/?p=2000720479</id>
-        <link href="https://kotaku.com/paralives-babies-are-kinda-ugly-so-the-devs-are-changing-them-2000720479"/>
-        <updated>2026-07-30T17:30:37.000Z</updated>
-        <summary type="html"><![CDATA[The life sim's babies are stretching the limits on how ugly a baby can be]]></summary>
-        <author>
-            <name>Ash Parrish</name>
         </author>
     </entry>
     <entry>
@@ -1499,19 +1604,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pokopia Expansion Pass Trailer Reveals New Pokémon & A First Look At 'Part 2']]></title>
-        <id>https://www.nintendolife.com/#article-204382</id>
-        <link href="https://www.nintendolife.com/news/2026/07/pokopia-expansion-pass-trailer-reveals-new-pokemon-and-a-first-look-at-part-2"/>
-        <updated>2026-07-29T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Bubbling with excitement.
-After revealing the release date for Pokémon Pokopia's first wave of DLC earlier today, The Pokémon Company has now shared a full overview trailer for the upcoming Expansion Pass Part 1 and given us a first look at Part 2.
-The trailer itself is pretty jam-packed, so let's work through it in order. We start off with a brief look at the game's next free software update (arriving alongside the DLC on 5th August), which adds Ditto's new Dive ability into the mix for some underwater building.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USN-8623-1: Linux kernel (NVIDIA) vulnerabilities]]></title>
         <id>https://ubuntu.com/security/notices/USN-8623-1</id>
         <link href="https://ubuntu.com/security/notices/USN-8623-1"/>
@@ -2172,49 +2264,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux's crypto_rng Abstraction Layer Next On The Chopping Block]]></title>
-        <id>https://www.phoronix.com/news/Linux-crypto-rng-Removal-Patch</id>
-        <link href="https://www.phoronix.com/news/Linux-crypto-rng-Removal-Patch"/>
-        <updated>2026-07-28T09:41:49.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the deprecation and stripping down of AF_ALG, another piece of the Linux kernel crypto code steaming ahead toward removal is the crypto_rng abstraction layer...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS Laptop Whisper Mode Support Being Worked On For Linux]]></title>
-        <id>https://www.phoronix.com/news/ASUS-Laptop-Whisper-Mode-Linux</id>
-        <link href="https://www.phoronix.com/news/ASUS-Laptop-Whisper-Mode-Linux"/>
-        <updated>2026-07-28T09:25:26.000Z</updated>
-        <summary type="html"><![CDATA[ASUS laptops support a feature called "Whisper Mode" that intentionally slows down the fan speed and lowers the CPU clock speed in order to keep the device running cool and quiet. The open-source ASUS Armoury Linux kernel driver is now seeing patches to properly support this Whisper Mode on Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8620-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8620-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8620-1"/>
-        <updated>2026-07-28T07:31:41.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Desítky firem zakládají Open Secure AI Alliance, incident s Hugging Face ukázal hrozbu nového typu]]></title>
         <id>www.root.cz-actuality-52932</id>
         <link href="https://www.root.cz/zpravicky/desitky-firem-zakladaji-open-secure-ai-alliance-incident-s-hugging-face-ukazal-hrozbu-noveho-typu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2397,16 +2446,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox bude moci mít na nové stránce miniaplikace (widgety)]]></title>
-        <id>www.root.cz-actuality-52905</id>
-        <link href="https://www.root.cz/zpravicky/firefox-bude-moci-mit-na-nove-strance-miniaplikace-widgety/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-27T08:11:52.000Z</updated>
-        <summary type="html"><![CDATA[Firefox připravuje miniaplikace (widgety) na nové stránce. Někomu z vás se možná již nějakou dobu tako zobrazuje počasí. Miniaplikací však bude více, například křížovka, hodiny, stopky, obrázek dne a další. Výchozí miniaplikace se mohou lišit podle místa uživatele.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RPG Deník: Driscollův manuál na přežití aneb zápisky z nečekaně zelené planety (14. část)]]></title>
         <id>https://www.high-voltage.cz/?p=60461</id>
         <link href="https://www.high-voltage.cz/2026/rpg-denik-driscolluv-manual-na-preziti-aneb-zapisky-z-necekane-zelene-planety-14-cast/"/>
@@ -2500,15 +2539,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Kupovali jste v devadesátkách Score, Level, Excalibur, Riki, GameStar či jiný herní časopis? Pak můžete svými vzpomínkami přispět k výzkumu kořenů české a slovenské herní kultury.]]></summary>
         <author>
             <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sneakers Stay On — Optimizing Hide ‘n’ Sneak]]></title>
-        <id>156939</id>
-        <link href="https://www.pokebeach.com/forums/threads/the-sneakers-stay-on-%E2%80%94-optimizing-hide-%E2%80%98n%E2%80%99-sneak.156939/"/>
-        <updated>2026-07-26T13:07:23.000Z</updated>
-        <author>
-            <name>PMJ</name>
         </author>
     </entry>
     <entry>
@@ -2639,16 +2669,6 @@ Read more]]></summary>
         <link href="https://www.high-voltage.cz/sortky/stahujte-funkcni-verzi-stare-ceske-adventury-bobule/"/>
         <updated>2026-07-25T10:38:46.000Z</updated>
         <summary type="html"><![CDATA[Přibližně před rokem přistál na fóru dotaz, zda někdo nemá dohratelnou verzi české "grafické textovky" Bobule, která vyšla roku 1995 pro DOS.]]></summary>
-        <author>
-            <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zahrajte si Quake přímo v prohlížeči]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=61396</id>
-        <link href="https://www.high-voltage.cz/sortky/zahrajte-si-quake-primo-v-prohlizeci/"/>
-        <updated>2026-07-25T09:00:21.000Z</updated>
-        <summary type="html"><![CDATA[Potřebujete si hned teď, okamžitě a neodkladně, zastřílet do plně 3D nepřátel v klasické FPS akci Quake, ale zrovna nemáte po ruce svůj oblíbený port? Pak mrkněte na web NetQuake.]]></summary>
         <author>
             <name>Sledge</name>
         </author>
@@ -3152,15 +3172,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Calibration Nobel]]></title>
-        <id>https://xkcd.com/3275/</id>
-        <link href="https://xkcd.com/3275/"/>
-        <updated>2026-07-22T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[July 22, 2026]]></title>
         <id>https://developer.android.com/jetpack/androidx/versions/all-channel#july_22_2026</id>
         <link href="https://developer.android.com/jetpack/androidx/versions/all-channel#july_22_2026"/>
@@ -3504,18 +3515,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[MPO posílí využití AI ve firmách, uvolní 630 mil. Kč. Jak AI může měnit nejen styl komunikace, ale i vlastní přesvědčení? Jak přemýšlí umělá inteligence? Evropské výdaje na AI do roku 2029 dosáhnou 290 miliard dolarů. Globální převod na SAP S/4HANA s výraznou českou stopou.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["During the training sequence, we make a false promise": IO Interactive on the ensemble James Bond game that 007 First Light never was]]></title>
-        <id>https://www.rockpapershotgun.com/during-the-training-sequence-we-make-a-false-promise-io-interactive-on-the-ensemble-james-bond-game-that-007-first-light-never-was</id>
-        <link href="https://www.rockpapershotgun.com/during-the-training-sequence-we-make-a-false-promise-io-interactive-on-the-ensemble-james-bond-game-that-007-first-light-never-was"/>
-        <updated>2026-07-18T21:55:09.000Z</updated>
-        <summary type="html"><![CDATA[It sounds like IO Interactive's take on the world of James Bond in 007 First Light was going to be quite different at first. Where the game as it currently is focuses on just Mr. Bond, once upon a time there was an idea for it to be something of an ensemble cast, where he would have been working with a number of double-O agents across his missions. Spoilers ahead!
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
     <entry>
