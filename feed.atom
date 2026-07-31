@@ -1,17 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-31T06:38:40.629Z</id>
+    <id>urn:2026-07-31T10:31:51.713Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-07-31T06:38:40.629Z</updated>
+    <updated>2026-07-31T10:31:51.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Nouveau Patch For Linux 7.3 Allows For NVK Vulkan Video Atop NVIDIA NVDEC]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-Nouveau-NVDEC</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-Nouveau-NVDEC"/>
+        <updated>2026-07-31T10:20:00.000Z</updated>
+        <summary type="html"><![CDATA[This week's round of drm-misc-next patches for staging ahead of the Linux 7.3 kernel merge window bring an exciting change for the open-source NVIDIA "Nouveau" driver...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[x86_64 Shadow Stack By Default Retargeted For Fedora 46]]></title>
+        <id>https://www.phoronix.com/news/Fedora-46-Shadow-Stack-Plans</id>
+        <link href="https://www.phoronix.com/news/Fedora-46-Shadow-Stack-Plans"/>
+        <updated>2026-07-31T10:04:00.000Z</updated>
+        <summary type="html"><![CDATA[In recent weeks there was a proposal to enable x86_64 Shadow Stack support by default with the upcoming Fedora Linux 45 release. That change has been approved now by the Fedora Engineering and Steering Committee (FESCo) but with the feature being punted off to Fedora 46 next year...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.4.358 Released With New Image Tiling Control Extension]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.4.358</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.4.358"/>
+        <updated>2026-07-31T09:53:13.000Z</updated>
+        <summary type="html"><![CDATA[After two weeks without any Vulkan spec update, Vulkan 1.4.358 was released overnight. Besides the usual assortment of minor clarifications/fixes, Vulkan 1.4.358 introduces one new extension: VK_EXT_image_tiling_control...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA expect their $55 billion sale to Saudi Arabia and private equity firms to close next week, with "all regulatory approvals required" in place]]></title>
+        <id>https://www.rockpapershotgun.com/ea-expect-their-55-billion-sale-to-saudi-arabia-and-private-equity-firms-to-close-next-week-with-all-regulatory-approvals-required-in-place</id>
+        <link href="https://www.rockpapershotgun.com/ea-expect-their-55-billion-sale-to-saudi-arabia-and-private-equity-firms-to-close-next-week-with-all-regulatory-approvals-required-in-place"/>
+        <updated>2026-07-31T09:52:45.000Z</updated>
+        <summary type="html"><![CDATA[About a week on from getting the thumbs up from the European Commission, the $55 billion leveraged buyout which will see Saudi Arabia, Silver Lake and Jared Kushner-founded investment firm Affinity Partners become the new owners of EA and take it private is expected to close next week, the company have announced.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8620-3: Linux kernel (Intel IoTG) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8620-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-8620-3"/>
+        <updated>2026-07-31T09:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
+Linux kernel did not properly validate file name length in certain
+situations, leading to an out-of-bounds read. An attacker could use this to
+construct a malicious NTFS image that, when mounted and operated on, could
+expose sensitive information (kernel memory). (CVE-2023-45896)
+
+It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, re…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Storm Emeralda” Secret Rares Revealed!]]></title>
         <id>156956</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cstorm-emeralda%E2%80%9D-secret-rares-revealed.156956/"/>
-        <updated>2026-07-31T06:34:15.000Z</updated>
+        <updated>2026-07-31T09:34:54.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A former Assassin's Creed dev is making a ghost-hunting horror mystery based on visits to abandoned convents, in which your greatest weapon is a chunky instant camera]]></title>
+        <id>https://www.rockpapershotgun.com/a-former-assassins-creed-dev-is-making-a-ghost-hunting-horror-mystery-based-on-visits-to-abandoned-convents-in-which-your-greatest-weapon-is-a-chunky-instant-camera</id>
+        <link href="https://www.rockpapershotgun.com/a-former-assassins-creed-dev-is-making-a-ghost-hunting-horror-mystery-based-on-visits-to-abandoned-convents-in-which-your-greatest-weapon-is-a-chunky-instant-camera"/>
+        <updated>2026-07-31T09:27:37.000Z</updated>
+        <summary type="html"><![CDATA[What's the next logical games industry career step after being a cinematic director on Deus Ex: Human Revolution, a lead cinematic consultant on XCOM: The Bureau, and a director at Ubisoft Montreal working on Assassin's Creed Unity and the recently reborn 1666: Amsterdam? If you answered "explore abandoned convents with a camera crew, proceed to make a horror game about it", then you are clearly Jesse Malcolm Sweet, developer of Sisters of Solitude, and I'll thank you to keep your nose out of my drafts. G'wan, get thee to a nunnery!
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sound Fixes For Linux 7.2-rc6: "Far Larger Than Wished"]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.2-rc6-Sound-Fixes</id>
+        <link href="https://www.phoronix.com/news/Linux-7.2-rc6-Sound-Fixes"/>
+        <updated>2026-07-31T09:26:56.000Z</updated>
+        <summary type="html"><![CDATA[Linux sound subsystem maintainer Takashi Iwai of SUSE previously warned of many sound driver fixes due to AI/LLMs and a "new normal" of patch activity as a result. While we are approaching the end of the Linux 7.2 merge window with the stable release coming up in August, the sound patches continue trending higher and this week were "far larger than wished" ahead of Linux 7.2-rc6 due out on Sunday...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Square Enix Says Kingdom Hearts Art Accused Of Using GenAI Was Just Regular Human Error]]></title>
+        <id>https://kotaku.com/?p=2000720610</id>
+        <link href="https://kotaku.com/square-enix-says-kingdom-hearts-art-accused-of-using-genai-was-just-regular-human-error-2000720610"/>
+        <updated>2026-07-31T09:00:49.000Z</updated>
+        <summary type="html"><![CDATA[Someone forgot how many fingers Donald has]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Not Budging On Ending PlayStation Discs In The Face Of Fan Protests: ‘We’re Going To Cautiously Move This Forward’]]></title>
+        <id>https://kotaku.com/?p=2000720708</id>
+        <link href="https://kotaku.com/sony-not-budging-on-ending-playstation-discs-in-the-face-of-fan-protests-were-going-to-cautiously-move-this-forward-2000720708"/>
+        <updated>2026-07-31T08:12:24.000Z</updated>
+        <summary type="html"><![CDATA[The PS5 maker said it already put a lot of thought into the decision]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Naučte se pracovat s Dockerem a kontejnery (školení)]]></title>
+        <id>www.root.cz-actuality-39529</id>
+        <link href="https://www.root.cz/zpravicky/naucte-se-pracovat-s-dockerem-a-kontejnery-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-07-31T08:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Docker je dnes technologie, která proces vývoje, testování a provozování softwaru velmi zjednodušuje. Provozujte cokoliv a kdekoliv. Už nečekejte na nastavení svého serveru nebo na aktualizaci nějaké knihovny. Mějte prostředí jako součást vaší aplikace.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anthtopic Claude také hackoval tři organizace]]></title>
+        <id>www.root.cz-actuality-52995</id>
+        <link href="https://www.root.cz/zpravicky/anthtopic-claude-take-hackoval-tri-organizace/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-07-31T08:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Jak jsme již informovali, LLM OpenAI v polovině července unikl ze sandboxu a napadl Hugging Face. Problému si nejdříve všiml Hugging Face a asi až za týden samotný OpenAI.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -454,26 +581,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Games To Satisfy Your Silksong Cravings While We Wait For New DLC]]></title>
-        <id>https://kotaku.com/?p=2000720471</id>
-        <link href="https://kotaku.com/hollow-knight-silksong-game-recommendations-blasphemous-super-metroid-2000720471"/>
-        <updated>2026-07-30T16:00:24.000Z</updated>
-        <summary type="html"><![CDATA[The metroidvania soulsike is without peer, but there are some games that can scratch the itch it leaves behind]]></summary>
-        <author>
-            <name>Ash Parrish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Damn, The Avatar Movie Was Almost Way More Brutal]]></title>
-        <id>https://kotaku.com/?p=2000720483</id>
-        <link href="https://kotaku.com/avatar-aang-last-airbender-tagah-katara-toph-sokka-zuko-2000720483"/>
-        <updated>2026-07-30T15:45:54.000Z</updated>
-        <summary type="html"><![CDATA[An early version of one of the movie’s darker scenes was more violent than the finished product]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
         </author>
     </entry>
     <entry>
@@ -2035,29 +2142,6 @@ level, re…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8619-1: Linux kernel (HWE) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8619-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8619-1"/>
-        <updated>2026-07-28T07:28:45.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, resulting in privilege escalation. (CVE-2025-54518)
-
-It was discovered that some AMD Zen 5 processors supporting RDSEED
-instruction did not properly handle entropy, potentially resulting in the
-consumption of insufficiently random values. A local attacker could
-possibly use this issue to influence the values returned by the RDSEED
-instruction causing loss…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Desítky firem zakládají Open Secure AI Alliance, incident s Hugging Face ukázal hrozbu nového typu]]></title>
         <id>www.root.cz-actuality-52932</id>
         <link href="https://www.root.cz/zpravicky/desitky-firem-zakladaji-open-secure-ai-alliance-incident-s-hugging-face-ukazal-hrozbu-noveho-typu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2161,26 +2245,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fwupd 2.1.7 Released With Many Bug Fixes]]></title>
-        <id>https://www.phoronix.com/news/Fwupd-2.1.7-Released</id>
-        <link href="https://www.phoronix.com/news/Fwupd-2.1.7-Released"/>
-        <updated>2026-07-27T16:17:48.000Z</updated>
-        <summary type="html"><![CDATA[Fwupd 2.1.7 is out today as the newest update to this open-source firmware updating utility that pairs with the Linux Vendor Firmware Service (LVFS) for offering a nice firmware upgrade story on Linux systems...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framework Laptop 13 Pro: Aiming To Be One Of The Best Upgradeable Linux Laptops]]></title>
-        <id>https://www.phoronix.com/review/framework-laptop-13-pro</id>
-        <link href="https://www.phoronix.com/review/framework-laptop-13-pro"/>
-        <updated>2026-07-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Back in April, Framework Computer announced the Framework Laptop 13 Pro as a ground-up re-design of their modular/upgradeable laptop. This new Framework Laptop 13 Pro features a much larger battery (74Wh), LPCAMM2 memory support, a full CNC aluminum chassis, haptic touchpad, and a new power-optimized touch display. Paired with the very efficient Intel Core Ultra Series 3 "Panther Lake" SoCs, the Framework Laptop 13 Pro ends up being an incredible offering from the hardware perspective.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Dragon Age: Thedas at War is a BioWare RPG-inspired Crusader Kings 3 total conversion mod that's here to keep the series alive while it sits in EA limbo]]></title>
         <id>https://www.rockpapershotgun.com/dragon-age-thedas-at-war-is-a-bioware-rpg-inspired-crusader-kings-3-total-conversion-mod-thats-here-to-keep-the-series-alive-while-it-sits-in-ea-limbo</id>
         <link href="https://www.rockpapershotgun.com/dragon-age-thedas-at-war-is-a-bioware-rpg-inspired-crusader-kings-3-total-conversion-mod-thats-here-to-keep-the-series-alive-while-it-sits-in-ea-limbo"/>
@@ -2236,16 +2300,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ubuntu To Provide Virtualization HWE Stack For Ubuntu 26.04 LTS]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-Virtualization-HWE-Stack</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-Virtualization-HWE-Stack"/>
-        <updated>2026-07-27T11:32:53.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu has long provided hardware enablement "HWE" stacks for Ubuntu LTS releases to provide a newer kernel and Mesa drivers and more for better supporting new/modern hardware on the long-term support Ubuntu Linux releases. With Ubuntu 26.04 LTS, Canonical will also now be providing a virtualization HWE stack for shipping newer virtualization / confidential computing features...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This week in PC games: a battle royale detective game, a broken Y2K metaverse, a laptop tycoon sim, and a new Company of Heroes RTS]]></title>
         <id>https://www.rockpapershotgun.com/this-week-in-pc-games-a-battle-royale-detective-game-a-broken-y2k-metaverse-a-laptop-tycoon-sim-and-a-new-company-of-heroes-rts</id>
         <link href="https://www.rockpapershotgun.com/this-week-in-pc-games-a-battle-royale-detective-game-a-broken-y2k-metaverse-a-laptop-tycoon-sim-and-a-new-company-of-heroes-rts"/>
@@ -2255,16 +2309,6 @@ Enough of this pissy period palaver! Our list of the week's most promising new P
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD "Low Power" CPU Core Type Patches Queued Ahead Of Linux 7.3]]></title>
-        <id>https://www.phoronix.com/news/AMD-Low-Power-Core-Linux-7.3</id>
-        <link href="https://www.phoronix.com/news/AMD-Low-Power-Core-Linux-7.3"/>
-        <updated>2026-07-27T10:35:31.000Z</updated>
-        <summary type="html"><![CDATA[Last month I wrote bout new AMD Linux patches introducing a new "low power" CPU core type as an alternative to their standard performance cores and dense efficiency cores. That work now is poised to land with the upcoming Linux 7.3 kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2347,16 +2391,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Kapitola 5: Zpátky do útrob ocelové bestie TORONTO Plyn je ještě stále trochu cítit.]]></summary>
         <author>
             <name>Daniel Zima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zabbix: monitorujte svou infrastrukturu a mějte ji pod kontrolou (školení)]]></title>
-        <id>www.root.cz-actuality-44644</id>
-        <link href="https://www.root.cz/zpravicky/zabbix-monitorujte-svou-infrastrukturu-a-mejte-ji-pod-kontrolou-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-27T07:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Provozujete vlastní infrastrukturu a chcete vědět, v jakém stavu se v každém okamžiku nachází? Zabbix vám umožní monitorovat infrastrukturu z pohledu sítí, tak i z pohledu operačních systémů až po aplikace. Přináší ucelené monitorovací řešení. Naučíme vás konfigurovat monitorovací systém Zabbix od základních kroků až po složité nízkoúrovňové objevování monitorovaných objektů.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Redakce)</name>
         </author>
     </entry>
     <entry>
@@ -2669,16 +2703,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu se zbaví artefaktu /etc/debian_version]]></title>
-        <id>www.root.cz-actuality-52893</id>
-        <link href="https://www.root.cz/zpravicky/ubuntu-se-zbavi-artefaktu-etc-debian-version/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-24T14:41:41.000Z</updated>
-        <summary type="html"><![CDATA[Ubuntu vychází z Debianu a má z historických důvodů stále soubor /etc/debian_version.  Ten obsahuje například forky/sid pro 26.04 nebo trixie/sid pro 24.04. To samozřejmě neodpovídá skutečnosti a může to některé nástroje mást. Správně se má používat  /etc/os-release.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
@@ -3501,30 +3525,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Kane Parsons je (ve svých 20 letech!) úžasný režisér! Scénář mohl být o trochu vypilovanější, ale pokud se mají natáčet nezávislé laciné horory, tak prosím přesně takhle. (Ilča 80 %)]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve aren't putting any exclusives on the Steam Machine because they see "the whole PC catalog as our 'launch exclusive'"]]></title>
-        <id>https://www.rockpapershotgun.com/valve-arent-putting-any-exclusives-on-the-steam-machine-because-they-see-the-whole-pc-catalog-as-our-launch-exclusive</id>
-        <link href="https://www.rockpapershotgun.com/valve-arent-putting-any-exclusives-on-the-steam-machine-because-they-see-the-whole-pc-catalog-as-our-launch-exclusive"/>
-        <updated>2026-07-18T18:04:54.000Z</updated>
-        <summary type="html"><![CDATA[The Steam Machine is going to sit in an odd place when it arrives. It's technically a PC, but shaped and presented like a console, which is obviously the whole point. But it differs from most traditional consoles in that it won't be coming with any games exclusive to the hardware. That's because for Valve, they want the Steam Machine to be as open as possible.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A month after mass layoffs at Bungie, Marathon game director Joe Ziegler is leaving the studio]]></title>
-        <id>https://www.rockpapershotgun.com/a-month-after-mass-layoffs-at-bungie-marathon-game-director-joe-ziegler-is-leaving-the-studio</id>
-        <link href="https://www.rockpapershotgun.com/a-month-after-mass-layoffs-at-bungie-marathon-game-director-joe-ziegler-is-leaving-the-studio"/>
-        <updated>2026-07-18T17:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Another regular day in Marathon Land. Following on from mass layoffs at Bungie after the final major update for Destiny 2, and ahead of next week's mid-season 2 Marathon patch, the extraction shooter's game director Joe Ziegler has announced that he's left the studio, with Del Chafe III taking over his role. Chafe, up until this point, has served as Marathon's assistant game director.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
     <entry>
