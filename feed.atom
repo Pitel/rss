@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-01T09:52:35.768Z</id>
+    <id>urn:2026-08-01T11:11:52.661Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-01T09:52:35.768Z</updated>
+    <updated>2026-08-01T11:11:52.661Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.2-rc6 Working Around Several Buggy Western Digital SATA Drives]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.2-rc6-ATA</id>
+        <link href="https://www.phoronix.com/news/Linux-7.2-rc6-ATA"/>
+        <updated>2026-08-01T10:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Merged ahead of tomorrow's Linux 7.2-rc6 kernel test release are several ATA fixes that include a number of device-specific workarounds for some Western Digital SATA drives that have been failing to work on recent versions of the Linux kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Working To Establish An RFC Process, Battling Sloppy AI-Generated Extensions]]></title>
+        <id>https://www.phoronix.com/news/GNOME-RFC-Process-AI-Extensions</id>
+        <link href="https://www.phoronix.com/news/GNOME-RFC-Process-AI-Extensions"/>
+        <updated>2026-08-01T10:34:00.000Z</updated>
+        <summary type="html"><![CDATA[GNOME developers were quite busy in closing out the month of July from continued work on establishing a formal Request For Comments (RFC) process for the project to battling the continued flood of AI-generated GNOME Shell extensions...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.8 To Enjoy Huge Performance Gains For Multi-GPU/eGPU Performance]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6.8-Faster-eGPU</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6.8-Faster-eGPU"/>
+        <updated>2026-08-01T10:18:48.000Z</updated>
+        <summary type="html"><![CDATA[It's been a very exciting week in the KDE Plasma 6.8 development space particularly thanks to performance work on bettering KWin's multi-GPU / external GPU handling...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Picolibc 1.8.12 Brings Latest Improvements To This Embedded-Focused C Library]]></title>
+        <id>https://www.phoronix.com/news/Picolibc-1.8.12-Released</id>
+        <link href="https://www.phoronix.com/news/Picolibc-1.8.12-Released"/>
+        <updated>2026-08-01T10:00:52.000Z</updated>
+        <summary type="html"><![CDATA[If the recent release of the GNU C Library glibc 2.44 is too big for your embedded use-cases, Keith Packard continues hacking on Picolibc as his embedded-focused C library. Released overnight was Picolibc 1.8.12 with a variety of improvements for this embedded libc...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenXWA, nový open-source engine pro X-Wing Alliance]]></title>
         <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=61746</id>
@@ -1871,16 +1911,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valve Sponsors Work Bringing Open-Source RADV Driver To Windows]]></title>
-        <id>https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows</id>
-        <link href="https://www.phoronix.com/news/Valve-Sponsors-RADV-Windows"/>
-        <updated>2026-07-29T10:35:22.000Z</updated>
-        <summary type="html"><![CDATA[Valve has been sponsoring Collabora engineers with early phase, exploratory work for trying to bring the open-source Radeon Vulkan "RADV" driver to Microsoft Windows...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["Dragon Age: Origins wasn’t the most attractive game": BioWare's old series producer still thinks a DA remaster trilogy is worth it, but the knowhow isn't there]]></title>
         <id>https://www.rockpapershotgun.com/dragon-age-origins-wasnt-the-most-attractive-game-biowares-old-series-producer-still-thinks-a-da-remaster-trilogy-is-worth-it-but-the-knowhow-isnt-there</id>
         <link href="https://www.rockpapershotgun.com/dragon-age-origins-wasnt-the-most-attractive-game-biowares-old-series-producer-still-thinks-a-da-remaster-trilogy-is-worth-it-but-the-knowhow-isnt-there"/>
@@ -1889,16 +1919,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vibe Coded X11 YSERVER Gets Steam Working, Full-Screen Games With Cinnamon]]></title>
-        <id>https://www.phoronix.com/news/YSERVER-1.4</id>
-        <link href="https://www.phoronix.com/news/YSERVER-1.4"/>
-        <updated>2026-07-29T10:19:44.000Z</updated>
-        <summary type="html"><![CDATA[A new software creation that debuted this summer was YSERVER as a modern X11 server written in Rust largely by AI via Claude Code. This YSERVER implementation has continued implementing more X11 protocol and other functionality to get more desktop environments and apps working surprisingly okay on this vibe coded X11 server. YSERVER 1.4 is now available as the latest in this quest...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -1913,16 +1933,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FreeBSD's Kernel Still Has A Bit Of GPL Code While Its Base User-Space Is GPL-Free]]></title>
-        <id>https://www.phoronix.com/news/FreeBSD-Bits-Of-GPL-Kernel</id>
-        <link href="https://www.phoronix.com/news/FreeBSD-Bits-Of-GPL-Kernel"/>
-        <updated>2026-07-29T09:57:59.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago there was excitement in the FreeBSD camp with FreeBSD 16 set to retire the last of its GPL code from the base system. While the retiring of the dialog code proclaimed that it was the last remaining piece of GPL software in the base system for FreeBSD, it turns out now that there is some GPL code within the FreeBSD kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nový Fan Controller od Arctic rovnou i s podporou Linuxu]]></title>
         <id>www.root.cz-actuality-52965</id>
         <link href="https://www.root.cz/zpravicky/novy-fan-controller-od-arctic-rovnou-i-s-podporou-linuxu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1930,16 +1940,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Takto vypadá ideální podpora hardwaru na Linuxu. Společnost Arctic uvedla na trh nový kontrolér pro ovládání ventilátorů a rovnou ode dne uvedení má produkt podporu v Linuxu. Tuto podporu připravili vývojáři Arcticu. Vyřešena tím je i jedna malá hádanka.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC To Decline Any Significant Contributions Made Via AI/LLMs - Except For Test Cases]]></title>
-        <id>https://www.phoronix.com/news/GCC-Declining-AI-Contributions</id>
-        <link href="https://www.phoronix.com/news/GCC-Declining-AI-Contributions"/>
-        <updated>2026-07-29T09:43:31.000Z</updated>
-        <summary type="html"><![CDATA[The GCC Steering Committee announced today that they have accepted the recommended policy of the GCC AI Policy Working Group, which means no "legally significant" code contributions made via AI/LLM agents will be accepted into this open-source compiler...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
