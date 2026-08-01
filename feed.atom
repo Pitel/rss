@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-01T18:59:21.665Z</id>
+    <id>urn:2026-08-01T20:42:34.343Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-01T18:59:21.665Z</updated>
+    <updated>2026-08-01T20:42:34.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Pragmata Devs Considered A Bob To Save On Hair Rendering]]></title>
+        <title type="html"><![CDATA[Silent Hill: Townfall's devs say they're purposefully playing against your nostalgic tech feelings, but I'm not sure it'll work on me]]></title>
+        <id>https://www.rockpapershotgun.com/silent-hill-townfalls-devs-say-theyre-purposefully-playing-against-your-nostalgic-tech-feelings-but-im-not-sure-itll-work-on-me</id>
+        <link href="https://www.rockpapershotgun.com/silent-hill-townfalls-devs-say-theyre-purposefully-playing-against-your-nostalgic-tech-feelings-but-im-not-sure-itll-work-on-me"/>
+        <updated>2026-08-01T20:35:12.000Z</updated>
+        <summary type="html"><![CDATA[The Silent Hill series has one of those worlds that I just struggle to conceptually place in a contemporary setting. Sure, that'll partially be down to when the original four games were released, but seeing a faux iPhone in The Short Message just felt wrong to me. So I'm quite pleased by the fact that Silent Hill: Townfall is set in the '90s, replacing the games' iconic radio with a portable CRT. And in doing so, its devs were able to use that now nostalgic tech against us, so say the devs themselves.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pragmata Devs Almost Gave The Kid A Bob To Save On Hair Rendering, But Decided To Splurge]]></title>
         <id>https://kotaku.com/?p=2000721012</id>
         <link href="https://kotaku.com/pragmata-devs-considered-a-bob-to-save-on-hair-rendering-2000721012"/>
         <updated>2026-08-01T18:29:49.000Z</updated>
@@ -640,29 +652,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8620-4: Linux kernel (Intel IoTG) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8620-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-8620-4"/>
-        <updated>2026-07-31T15:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[In A ‘Who Could Have Possibly Seen This Coming’ Event, Ubisoft Will Shut Down Its NFT Game]]></title>
         <id>https://kotaku.com/?p=2000720757</id>
         <link href="https://kotaku.com/ubisoft-nft-game-shut-down-champions-tactics-might-and-magic-fates-2000720757"/>
@@ -903,29 +892,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8620-3: Linux kernel (Intel IoTG) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8620-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8620-3"/>
-        <updated>2026-07-31T09:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1427,20 +1393,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8625-1: OpenSSL vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8625-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8625-1"/>
-        <updated>2026-07-30T13:38:32.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that OpenSSL incorrectly allocated memory buffers in the
-SSL/TLS state machine when receiving handshake data. A remote attacker
-could possibly use this issue to cause OpenSSL to consume excessive memory,
-leading to a denial of service. This issue is known as the "HollowByte"
-denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kusan: City Of Wolves Channels Some Serious Hotline Miami Vibes On Switch Today]]></title>
         <id>https://www.nintendolife.com/#article-204393</id>
         <link href="https://www.nintendolife.com/news/2026/07/kusan-city-of-wolves-channels-some-serious-hotline-miami-vibes-on-switch-today"/>
@@ -1774,18 +1726,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8624-1: Sinatra vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8624-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8624-1"/>
-        <updated>2026-07-29T19:09:19.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Sinatra did not properly handle header parsing,
-causing ETag generation to hang when given specific input. A remote
-attacker could possibly use this issue to cause a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I'm not going to 100% roguelite strategy spinoff Company of Heroes 3: Final Stand, but it does breathe new life into some of the series' oldest features]]></title>
         <id>https://www.rockpapershotgun.com/roguelite-strategy-spinoff-company-of-heroes-3-final-stand-breathes-fresh-live-into-some-of-the-series-oldest-features</id>
         <link href="https://www.rockpapershotgun.com/roguelite-strategy-spinoff-company-of-heroes-3-final-stand-breathes-fresh-live-into-some-of-the-series-oldest-features"/>
@@ -1897,36 +1837,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8623-1: Linux kernel (NVIDIA) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8623-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8623-1"/>
-        <updated>2026-07-29T13:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - Arm Firmware Framework for ARMv8-A(FFA);
-(CVE-2026-53354, CVE-2026-64520)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8622-1: Linux kernel (NVIDIA) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8622-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8622-1"/>
-        <updated>2026-07-29T13:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - Arm Firmware Framework for ARMv8-A(FFA);
-(CVE-2026-53354, CVE-2026-64520)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Krafton have big plans for Subnautica, after the second game's once-divisive co-op "confirmed the potential to expand beyond the existing fan base"]]></title>
         <id>https://www.rockpapershotgun.com/krafton-have-big-plans-for-subnautica-after-the-second-games-once-divisive-co-op-confirmed-the-potential-to-expand-beyond-the-existing-fan-base</id>
         <link href="https://www.rockpapershotgun.com/krafton-have-big-plans-for-subnautica-after-the-second-games-once-divisive-co-op-confirmed-the-potential-to-expand-beyond-the-existing-fan-base"/>
@@ -2011,68 +1921,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Takto vypadá ideální podpora hardwaru na Linuxu. Společnost Arctic uvedla na trh nový kontrolér pro ovládání ventilátorů a rovnou ode dne uvedení má produkt podporu v Linuxu. Tuto podporu připravili vývojáři Arcticu. Vyřešena tím je i jedna malá hádanka.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8620-2: Linux kernel (Azure FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8620-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8620-2"/>
-        <updated>2026-07-29T07:46:56.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8615-2: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8615-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8615-2"/>
-        <updated>2026-07-29T07:43:21.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
-subsystem in the Linux kernel when handling socket buffer fragments. This
-flaw is known as Fragnesia. A local attacker could use this to escalate
-privileges, or possibly escape a container. (CVE-2026-43503)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - InfiniBand drivers;
-  - STMicroelectronics network drivers;
-  - NVME drivers;
-  - SCSI subsystem;
-  - USB over IP driver;
-  - Network file system (NFS) server daemon;
-  - SMB network file system;
-  - Tracing infrastructure;
-  - B.A.T.M.A.N. meshing protocol;
-  - Ethernet bridge;
-  - Ceph Core library;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Netfilter;
-  - RxRPC session sockets;
-  - X.25 network layer;
-(CVE-2026-23272, CVE-2026-23455, CVE-2026-31402, CVE-2026-31418,
-CVE-2026-31607, CVE-2026-31637, CVE-2026-31649, CVE-2026-31659,
-CVE-2026-31682, CVE-2026-31685, CVE-2026-43011, CVE-2026-43037,
-CVE-2026-43038, CVE-2026-43117, CVE-2026-43383, CVE-2026-43407,
-CVE-2026-43414, CVE-2026-45988, CVE-2026-46043, CVE-2026-46119,
-CVE-2026-46135, CVE-2026-46243)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2162,27 +2010,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8561-2: FreeRDP regression]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8561-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8561-2"/>
-        <updated>2026-07-28T18:08:13.000Z</updated>
-        <summary type="html"><![CDATA[USN-8561-1 fixed vulnerabilities in FreeRDP. Unfortunately, the upgrade to
-version 3.30.0 introduced a regression in the clipboard functionality. This
-update fixes the problem.
-
-We apologize for the inconvenience.
-
-Original advisory details:
-
- It was discovered that FreeRDP contained multiple security issues. An
- attacker could possibly use these issues to obtain sensitive information,
- cause FreeRDP to crash, resulting in a denial of service, or execute
- arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2360,47 +2187,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8621-1: Samba vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8621-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8621-1"/>
-        <updated>2026-07-28T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Samba's pam_winbind incorrectly handled home
-directory ownership when mkhomedir was enabled. A local attacker could
-possibly use this issue to cause a denial of service by triggering a change
-in ownership of the root directory. (CVE-2026-15779)
-
-Arjun Basnet, Douglas Bagnall, and Andrew Tridgell discovered that Samba
-incorrectly handled TSIG packets with name compression. A remote attacker
-could possibly use this issue to cause Samba to crash, resulting in a
-denial of service. (CVE-2026-6949)
-
-Tristan Madani discovered that Samba incorrectly handled malformed ASN.1
-kpasswd packets. An authenticated user could possibly use this issue to
-cause Samba to crash, resulting in a denial of service. (CVE-2026-58216)
-
-Andrew Tridgell and Tristan Madani discovered that Samba incorrectly
-handled TKEY name registration. A remote attacker could possibly use this
-issue to exhaust the TKEY name cache, resulting in a denial of service.
-(CVE-2026-58218)
-
-It was discovered that Samba incorrectly handled internal LDB special
-directory names when processing authenticated LDAP requests. An
-authenticated user could possibly use this issue to perform unauthorized
-modifications and gain control of a domain. (CVE-2026-58221)
-
-Andrew Tridgell and Tristan Madani discovered that Samba incorrectly
-handled LDAP Compare requests. An authenticated user could possibly use
-this issue to obtain sensitive information. (CVE-2026-58222)
-
-Tristan Madani, Andrew Tridgell, and Martin Schwenke discovered that the
-CTDB protocol in Samba had insufficient bounds checking. A remote attacker
-could possibly use this issue to cause Samba to crash, resulting in a
-denial of service. (CVE-2026-58224)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3472,17 +3258,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI accuse Steam user of stealing over $220,000 via malware-infected games like BlockBlasters, Lunara and Dashverse]]></title>
-        <id>https://www.rockpapershotgun.com/fbi-accuse-steam-user-of-stealing-over-220000-via-malware-infected-games-like-blockblasters-lunara-and-dashverse</id>
-        <link href="https://www.rockpapershotgun.com/fbi-accuse-steam-user-of-stealing-over-220000-via-malware-infected-games-like-blockblasters-lunara-and-dashverse"/>
-        <updated>2026-07-20T15:43:24.000Z</updated>
-        <summary type="html"><![CDATA[A Florida-based student has been arrested by the FBI after allegedly stealing over $220,000 in cryptocurrency by means of malware-packed free games on Steam.
- Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
         </author>
     </entry>
     <entry>
