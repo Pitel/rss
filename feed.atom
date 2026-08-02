@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-02T09:50:27.125Z</id>
+    <id>urn:2026-08-02T11:12:25.970Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-02T09:50:27.125Z</updated>
+    <updated>2026-08-02T11:12:25.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 To Support The Qualcomm Adreno 704 & Adreno 722 GPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver"/>
+        <updated>2026-08-02T10:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Sent out on Saturday were the Qualcomm MSM DRM kernel graphics/display driver updates to land for the upcoming Linux 7.3 merge window...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Touch Making Progress Toward Ubuntu 26.04, Vulkan & App Updates]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-Touch-Toward-26.04</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-Touch-Toward-26.04"/>
+        <updated>2026-08-02T10:37:06.000Z</updated>
+        <summary type="html"><![CDATA[Following last week's release of Ubuntu Touch 24.04-2.0 for this community-maintained, mobile flavor of Ubuntu Linux, more details are now available on their upcoming development efforts and eventual transition to an Ubuntu 26.04 base...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.2-rc6 Fixes Some AMD Zen 5 CPUs Being Mistakenly Identified As Zen 6]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.2-rc6-Fixing-Zen-5-IDs</id>
+        <link href="https://www.phoronix.com/news/Linux-7.2-rc6-Fixing-Zen-5-IDs"/>
+        <updated>2026-08-02T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Today's batch of x86 fixes for the kernel ahead of the Linux 7.2-rc6 release later in the day addresses some AMD Zen 5 processors mistakenly being classified as Zen 6...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Box64 v0.4.4 Released With New Box64-Configurator App]]></title>
+        <id>https://www.phoronix.com/news/Box64-0.4.4</id>
+        <link href="https://www.phoronix.com/news/Box64-0.4.4"/>
+        <updated>2026-08-02T10:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Box64 0.4.4 released today as the newest version of this open-source user-space Linux x86_64 emulator for running binaries on 64-bit ARM, RISC-V, and LoongArch systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Storm Emeralda” Secret Rares Revealed!]]></title>
         <id>156956</id>
@@ -1692,36 +1732,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Huawei Considers Open-Sourcing A Half-Hearted Mesa Vulkan Driver]]></title>
-        <id>https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan</id>
-        <link href="https://www.phoronix.com/news/Huawei-Half-Open-Mesa-Vulkan"/>
-        <updated>2026-07-30T10:18:22.000Z</updated>
-        <summary type="html"><![CDATA[A Huawei engineer posted to the Mesa mailing list today over potentially upstreaming a Vulkan driver they have developed for an in-house GPU. However, at least in current form, this new in-house GPU Vulkan driver is likely dead in the water from being upstreamed into Mesa...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patches Posted To Improve Linux Media Acceleration On Intel Alchemist GPUs]]></title>
-        <id>https://www.phoronix.com/news/Intel-HuC-DG2-Alchemist-Xe</id>
-        <link href="https://www.phoronix.com/news/Intel-HuC-DG2-Alchemist-Xe"/>
-        <updated>2026-07-30T10:05:35.000Z</updated>
-        <summary type="html"><![CDATA[The Intel Arc A-Series graphics (DG2) remains in a bit of an awkward state on Linux due to the transition period moving from the i915 kernel driver to more modern and feature capable Xe kernel driver. It's only post-Alchemist where the Intel Xe driver is officially supported and used by default while those opting for the Xe driver with the A-Series can often enjoy better performance and functionality. Except one of the caveats in using the Xe driver on Alchemist GPUs has been the lack of proper media acceleration support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five Proposals Now Being Weighed For Debian AI/LLM Usage]]></title>
-        <id>https://www.phoronix.com/news/Debian-GR-AI-Usage-5-Proposals</id>
-        <link href="https://www.phoronix.com/news/Debian-GR-AI-Usage-5-Proposals"/>
-        <updated>2026-07-30T09:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Last week Debian developers began considering a general resolution over AI large language model (LLM) usage within the Debian project. They are now up to weighing five different proposals for how to permit or block AI/LLM usage in the Debian space...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[BeamNG.drive, Steam's finest car pancake maker, gets its biggest update yet with overhauled graphics, fresh rally stages and a sporty new coupe]]></title>
         <id>https://www.rockpapershotgun.com/beamngdrive-steams-finest-car-pancake-maker-gets-its-biggest-update-yet-with-overhauled-graphics-fresh-rally-stages-and-a-sporty-new-coupe</id>
         <link href="https://www.rockpapershotgun.com/beamngdrive-steams-finest-car-pancake-maker-gets-its-biggest-update-yet-with-overhauled-graphics-fresh-rally-stages-and-a-sporty-new-coupe"/>
@@ -1730,16 +1740,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Media Driver & VPL GPU Runtime 2026Q2 Updates Continue Prepping For Nova Lake]]></title>
-        <id>https://www.phoronix.com/news/Intel-Media-Driver-2026Q2</id>
-        <link href="https://www.phoronix.com/news/Intel-Media-Driver-2026Q2"/>
-        <updated>2026-07-30T09:38:20.000Z</updated>
-        <summary type="html"><![CDATA[Over the past few Intel VA-API Media Driver releases we have seen preparations made for Nova Lake video acceleration. That has continued today with the Intel Media Driver and Intel oneVPL GPU Runtime releases today with their new quarterly feature releases...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
