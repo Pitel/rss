@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-05T21:01:04.431Z</id>
+    <id>urn:2026-08-05T22:52:12.044Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-05T21:01:04.431Z</updated>
+    <updated>2026-08-05T22:52:12.044Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa 26.2 Released With NVK Mesh Shader Support, Many Other Vulkan Improvements]]></title>
+        <id>https://www.phoronix.com/news/Mesa-26.2-Released</id>
+        <link href="https://www.phoronix.com/news/Mesa-26.2-Released"/>
+        <updated>2026-08-05T22:13:57.000Z</updated>
+        <summary type="html"><![CDATA[Mesa 26.2 stable is now available as the newest quarterly feature release for this set of open-source OpenGL and Vulkan drivers typically used on Linux systems...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podpora unifikované práce se zařízeními v operačním systému Atari: CIO (2.část)]]></title>
+        <id>www.root.cz-text-19815</id>
+        <link href="https://www.root.cz/clanky/podpora-unifikovane-prace-se-zarizenimi-v-operacnim-systemu-atari-cio-2-cast/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-08-05T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Ve druhém článku o CIO si nejdříve ukážeme, jak se volají CIO operace OPEN, CLOSE a XIO z assembleru. Následně se budeme zabývat tabulkou zařízení, do které lze přidávat zařízení a registrovat ovladače.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beast Of Reincarnation Isn’t A Pokémon Game, But It Kind Of Is]]></title>
+        <id>https://kotaku.com/?p=2000722004</id>
+        <link href="https://kotaku.com/beast-of-reincarnation-creatures-animals-pokemon-rpg-2000722004"/>
+        <updated>2026-08-05T22:00:03.000Z</updated>
+        <summary type="html"><![CDATA[The themes of the Pokémon universe are still very much present in Game Freak’s latest]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB4STREAM Adding Busy Poll Option For Lower Latency At The Cost Of Increased CPU Cycles]]></title>
+        <id>https://www.phoronix.com/news/USB4STREAM-Lower-Latency</id>
+        <link href="https://www.phoronix.com/news/USB4STREAM-Lower-Latency"/>
+        <updated>2026-08-05T21:27:47.000Z</updated>
+        <summary type="html"><![CDATA[One of the nifty new features of Linux 7.2 is USB4STREAM as an Intel-developed solution for quickly sending data between USB4 connected systems. Now for the upcoming Linux 7.3 cycle, a busy poll mode is being added to provide lower-latency data transfers at the expense of increased CPU activity...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox Tanked $9 Billion In A Single Day After The Company Admitted It Was Directing Fewer Kids Toward Viral Games That ‘Emphasize Short-Term Monetization’]]></title>
+        <id>https://kotaku.com/?p=2000722002</id>
+        <link href="https://kotaku.com/roblox-tanked-9-billion-in-a-single-day-after-the-company-admitted-it-was-directing-fewer-kids-toward-viral-games-that-emphasize-short-term-monetization-2000722002"/>
+        <updated>2026-08-05T21:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Wall Street seems unhappy about improvements to the Roblox recommendation algorithm]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hide ‘n’ Sneak (dudunsparces!)]]></title>
         <id>156965</id>
@@ -408,16 +458,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Eli Roth Claims He ‘Misspoke’ When He Denied Ice Cream Man Uses GenAI]]></title>
-        <id>https://kotaku.com/?p=2000721868</id>
-        <link href="https://kotaku.com/eli-roth-ice-cream-man-movie-horror-genai-ai-borderlands-2000721868"/>
-        <updated>2026-08-05T12:08:10.000Z</updated>
-        <summary type="html"><![CDATA[The Borderlands director's latest critical flop uses the dark arts of Dark Half's AI]]></summary>
-        <author>
-            <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Review: Jurassic World Evolution 2: Complete Edition (Switch 2) - A Nearly Definitive Dinosaur Sandbox]]></title>
         <id>https://www.nintendolife.com/#article-204414</id>
         <link href="https://www.nintendolife.com/reviews/nintendo-switch-2/jurassic-world-evolution-2-complete-edition"/>
@@ -483,7 +523,7 @@ Read the full article on nintendolife.com]]></summary>
         <id>https://www.phoronix.com/news/Linux-Retiring-Moxa-Driver</id>
         <link href="https://www.phoronix.com/news/Linux-Retiring-Moxa-Driver"/>
         <updated>2026-08-05T10:38:57.000Z</updated>
-        <summary type="html"><![CDATA[There continues to be a lout of cleaning up of the kernel source tree to deal with noise generated by AI / LLM coding agents sending in reports and patches for old drivers that are likely not actively used by anyone on modern upstream kernel builds. Rather than continuing to carry these old drivers around with the uptick in AI/LLM-generated noise, kernel maintainers are finding it better to just retire the old drivers...]]></summary>
+        <summary type="html"><![CDATA[There continues to be a lot of cleaning up of the kernel source tree to deal with noise generated by AI / LLM coding agents sending in reports and patches for old drivers that are likely not actively used by anyone on modern upstream kernel builds. Rather than continuing to carry these old drivers around with the uptick in AI/LLM-generated noise, kernel maintainers are finding it better to just retire the old drivers...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -646,6 +686,15 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Antiques Roadshow]]></title>
+        <id>https://xkcd.com/3281/</id>
+        <link href="https://xkcd.com/3281/"/>
+        <updated>2026-08-05T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Super Mario 40th Anniversary Gift Card & Collectible Case Now Available On Nintendo Store (US)]]></title>
         <id>https://www.nintendolife.com/#article-204592</id>
         <link href="https://www.nintendolife.com/news/2026/08/super-mario-40th-anniversary-gift-card-and-collectible-case-now-available-on-nintendo-store-us"/>
@@ -714,16 +763,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSA: Final Fantasy 14 Is Out Now On Nintendo Switch 2 But You Don’t Have To Buy It To Play]]></title>
-        <id>https://kotaku.com/?p=2000721658</id>
-        <link href="https://kotaku.com/final-fantasy-14-free-trial-nintendo-switch-2-2000721658"/>
-        <updated>2026-08-04T21:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Hope you have that meme memorized because it's relevant again; something something free trial something something]]></summary>
-        <author>
-            <name>Ash Parrish</name>
         </author>
     </entry>
     <entry>
@@ -1765,26 +1804,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <updated>2026-08-02T11:32:04.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 7.3 To Support The Qualcomm Adreno 704 & Adreno 722 GPUs]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver</id>
-        <link href="https://www.phoronix.com/news/Linux-7.3-MSM-DRM-Driver"/>
-        <updated>2026-08-02T10:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Sent out on Saturday were the Qualcomm MSM DRM kernel graphics/display driver updates to land for the upcoming Linux 7.3 merge window...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu Touch Making Progress Toward Ubuntu 26.04, Vulkan & App Updates]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-Touch-Toward-26.04</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-Touch-Toward-26.04"/>
-        <updated>2026-08-02T10:37:06.000Z</updated>
-        <summary type="html"><![CDATA[Following last week's release of Ubuntu Touch 24.04-2.0 for this community-maintained, mobile flavor of Ubuntu Linux, more details are now available on their upcoming development efforts and eventual transition to an Ubuntu 26.04 base...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3180,25 +3199,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forth]]></title>
-        <id>https://xkcd.com/3277/</id>
-        <link href="https://xkcd.com/3277/"/>
-        <updated>2026-07-27T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: AI jako pomocník, záškodník i dobrodruh]]></title>
-        <id>www.root.cz-text-19779</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-ai-jako-pomocnik-zaskodnik-i-dobrodruh/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-07-26T22:00:10.000Z</updated>
-        <summary type="html"><![CDATA[V dnešním díle se podíváme na úspěšný vishing útok na českou organizaci, dálkový ovladač na elektrickou síť, další malware využívající AI a GPT uniklé z dětské ohrádky.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: ČD - Telematika)</name>
         </author>
     </entry>
     <entry>
