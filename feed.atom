@@ -1,17 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T20:34:45.646Z</id>
+    <id>urn:2026-08-10T22:30:44.744Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-10T20:34:45.646Z</updated>
+    <updated>2026-08-10T22:30:44.744Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Steam User Claims $109 Refund Despite 470 Hours Played After Battlefield 6 Deletes An Entire Mode]]></title>
+        <id>https://kotaku.com/?p=2000723174</id>
+        <link href="https://kotaku.com/steam-user-claims-109-refund-despite-470-hours-played-after-battlefield-6-deletes-an-entire-mode-2000723174"/>
+        <updated>2026-08-10T22:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Rush was removed from Quickplay to help with matchmaking]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[List of Missing Final Evolution Pokémon without an Ultra Rare]]></title>
+        <id>154963</id>
+        <link href="https://www.pokebeach.com/forums/threads/list-of-missing-final-evolution-pok%C3%A9mon-without-an-ultra-rare.154963/"/>
+        <updated>2026-08-10T22:04:50.000Z</updated>
+        <author>
+            <name>Alex Hesketh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lupa: propojení programovacích jazyků Lua a Python]]></title>
+        <id>www.root.cz-text-19839</id>
+        <link href="https://www.root.cz/clanky/lupa-propojeni-programovacich-jazyku-lua-a-python/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-08-10T22:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Dnes si popíšeme projekt nazvaný Lupa, což je zkratka získaná z „lua-python“. Tento projekt umožňuje propojení programů psaných v Pythonu se skripty zapsanými v jazyce Lua. Tyto skripty jsou spouštěny v sandboxu: v izolovaných interpretrech, což mj. zajišťuje větší bezpečnost.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persona Boss Feels Remake Of 1 And 2 Is Something ‘We Have To Do’ Eventually]]></title>
+        <id>https://kotaku.com/?p=2000723161</id>
+        <link href="https://kotaku.com/persona-1-2-remake-atlus-persona-4-revival-interview-2000723161"/>
+        <updated>2026-08-10T21:45:18.000Z</updated>
+        <summary type="html"><![CDATA[Gotta complete the set at this point, it seems]]></summary>
+        <author>
+            <name>Ash Parrish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch Game Some Players Paid $60 For Disappears In A Cloud Of Virtual Smoke]]></title>
+        <id>https://kotaku.com/?p=2000723165</id>
+        <link href="https://kotaku.com/switch-game-some-players-paid-60-for-disappears-in-a-cloud-of-virtual-smoke-2000723165"/>
+        <updated>2026-08-10T21:30:19.000Z</updated>
+        <summary type="html"><![CDATA[The Nintendo version of Aliens: Fireteam Elite is gone, including its single-player mode]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Day and Night Pikachu ex Revealed from “30th Celebration!”]]></title>
         <id>156976</id>
         <link href="https://www.pokebeach.com/forums/threads/day-and-night-pikachu-ex-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.156976/"/>
-        <updated>2026-08-10T20:20:09.000Z</updated>
+        <updated>2026-08-10T21:11:24.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel Tōkon PC Patch Improves Struggling Steam Version: ‘Maybe PS5 Players Will Play With Us Now’]]></title>
+        <id>https://kotaku.com/?p=2000723166</id>
+        <link href="https://kotaku.com/marvel-tokon-fighting-souls-pc-patch-performance-steam-2000723166"/>
+        <updated>2026-08-10T20:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Arc System Works’ new Marvel tag fighter has been struggling on PC since beta]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
         </author>
     </entry>
     <entry>
@@ -23,6 +82,38 @@
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8592-1: ImageMagick vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8592-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8592-1"/>
+        <updated>2026-08-10T20:04:52.000Z</updated>
+        <summary type="html"><![CDATA[Hao Ren discovered that ImageMagick incorrectly handled certain images
+when using the wavelet-denoise operation. An attacker could possibly use
+this issue to trigger an out-of-bounds heap write, resulting in
+arbitrary code execution. This issue only affected Ubuntu 18.04 LTS,
+Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, and Ubuntu 24.04 LTS.
+(CVE-2026-30936)
+
+It was discovered that ImageMagick incorrectly handled extremely large
+XWD images. An attacker could possibly use this issue to trigger an
+out-of-bounds heap write, resulting in arbitrary code execution.
+(CVE-2026-30937)
+
+It was discovered that ImageMagick incorrectly handled extremely large
+SFW images on 32-bit systems. An attacker could possibly use this issue
+to trigger an integer overflow, resulting in a denial of service.
+(CVE-2026-31853)
+
+It was discovered that ImageMagick incorrectly handled memory allocation
+failures in the sixel encoder. An attacker could possibly use this issue
+to trigger a stack buffer overflow, resulting in arbitrary code
+execution. This issue only affected Ubuntu 16.04 LTS, Ubuntu 18.04 LTS,
+Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, and Ubuntu 24.04 LTS.
+(CVE-2026-32259)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -353,16 +444,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[House of the Dragon’s Season Finale Was A Surprisingly Good Set-Up For The Show’s Final Season]]></title>
-        <id>https://kotaku.com/?p=2000722970</id>
-        <link href="https://kotaku.com/house-of-the-dragon-season-3-finale-recap-2000722970"/>
-        <updated>2026-08-10T15:00:41.000Z</updated>
-        <summary type="html"><![CDATA[All the pieces are on the board and the characters in their final form]]></summary>
-        <author>
-            <name>Ash Parrish</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Feature: "It's Disingenuous To Call It A Remake" - Bethesda On Why Oblivion For Switch 2 Is A Remaster]]></title>
         <id>https://www.nintendolife.com/#article-204788</id>
         <link href="https://www.nintendolife.com/features/its-disingenuous-to-call-it-a-remake-bethesda-on-why-oblivion-for-switch-2-is-a-remaster"/>
@@ -398,16 +479,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[No Man’s Sky Players Have Visited Less Than 1 Percent Of Its Planets After A Decade Of Exploration And 40 Major Updates]]></title>
-        <id>https://kotaku.com/?p=2000722999</id>
-        <link href="https://kotaku.com/no-mans-sky-players-have-visited-less-than-1-percent-of-its-planets-after-a-decade-of-exploration-and-40-major-updates-2000722999"/>
-        <updated>2026-08-10T14:30:24.000Z</updated>
-        <summary type="html"><![CDATA['I consider myself exceedingly lucky to work with the people I do, on a game I love,' said the boss behind No Man's Sky]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is anyone able to explain this to me?]]></title>
         <id>156922</id>
         <link href="https://www.pokebeach.com/forums/threads/is-anyone-able-to-explain-this-to-me.156922/"/>
@@ -434,16 +505,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Indie 2D platformová skákačka Knytt slaví 20. výročí a byla dnes znovu vydána jako Knytt Classic zdarma na Steamu i na GOG.com. Nativně je podporován Linux, macOS i Windows.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Man’s Sky Studio Director Says He’s Not Rushing To Experiment With AI: ‘Let’s Just Enjoy Making Games The Way We’ve Always Made Games’]]></title>
-        <id>https://kotaku.com/?p=2000722989</id>
-        <link href="https://kotaku.com/no-mans-sky-studio-director-says-hes-not-rushing-to-experiment-with-ai-lets-just-enjoy-making-games-the-way-weve-always-made-games-2000722989"/>
-        <updated>2026-08-10T13:48:22.000Z</updated>
-        <summary type="html"><![CDATA[Sean Murray compared the AI race to the post-COVID return-to-office plans]]></summary>
-        <author>
-            <name>Ethan Gach</name>
         </author>
     </entry>
     <entry>
@@ -488,16 +549,6 @@ Besides, if the weekly new game round-up skews too hard towards any one genre, t
         <summary type="html"><![CDATA[Jakub Vrána minulý týden v pátek vydal Adminer 6.0.0. Jde o jednoduchý nástroj ke konfiguraci databází napsaný v PHP. Jde o alternativu k poněkud těžkopádnému phpMyAdmin. Ve verzi 6.0.0 je přes 130 novinek, většina vznikla s pomocí Claude Opus 5, ale autor vysvětluje, že generovaný kód kontroluje a výsledek je pak lepší, než když by jej psal jen člověk sám, nebo jen AI.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Landmark Ruling, Chinese Court Says A Woman Can Inherit Her Deceased Son’s Gaming Accounts]]></title>
-        <id>https://kotaku.com/?p=2000722954</id>
-        <link href="https://kotaku.com/end-user-agreement-inheritance-rights-chinese-court-gaming-account-2000722954"/>
-        <updated>2026-08-10T13:20:59.000Z</updated>
-        <summary type="html"><![CDATA[It raises big questions over Valve's claims that Steam accounts can't be passed on]]></summary>
-        <author>
-            <name>John Walker</name>
         </author>
     </entry>
     <entry>
@@ -943,15 +994,6 @@ Read the full article on nintendolife.com]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[List of Missing Final Evolution Pokémon without an Ultra Rare]]></title>
-        <id>154963</id>
-        <link href="https://www.pokebeach.com/forums/threads/list-of-missing-final-evolution-pok%C3%A9mon-without-an-ultra-rare.154963/"/>
-        <updated>2026-08-09T09:16:33.000Z</updated>
-        <author>
-            <name>Alex Hesketh</name>
         </author>
     </entry>
     <entry>
@@ -2783,16 +2825,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KDE rychlejší s externími GPU, GNOME Glycin s úpravou pro Inkscape]]></title>
-        <id>www.root.cz-text-19800</id>
-        <link href="https://www.root.cz/clanky/kde-rychlejsi-s-externimi-gpu-gnome-glycin-s-upravou-pro-inkscape/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-08-01T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Týden v GNOME #260 přináší zmrazení GNOME 51 a opět Glycin, týden v KDE a nejen Emoji Resizing, jádro Linux 7.2-rc6 řešící chod chybových SATA disků od WD, openSIL+Coreboot firmware od 3mdeb pro MSI PRO B850-P WIFI.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Manage a cafe by day, go to bed and fight in your dreams in a world without sleep by night in Hips N Noses]]></title>
         <id>https://www.rockpapershotgun.com/manage-a-cafe-by-day-go-to-bed-and-fight-in-your-dreams-in-a-world-without-sleep-by-night-in-hips-n-noses</id>
         <link href="https://www.rockpapershotgun.com/manage-a-cafe-by-day-go-to-bed-and-fight-in-your-dreams-in-a-world-without-sleep-by-night-in-hips-n-noses"/>
@@ -3541,27 +3573,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8561-2: FreeRDP regression]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8561-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8561-2"/>
-        <updated>2026-07-28T18:08:13.000Z</updated>
-        <summary type="html"><![CDATA[USN-8561-1 fixed vulnerabilities in FreeRDP. Unfortunately, the upgrade to
-version 3.30.0 introduced a regression in the clipboard functionality. This
-update fixes the problem.
-
-We apologize for the inconvenience.
-
-Original advisory details:
-
- It was discovered that FreeRDP contained multiple security issues. An
- attacker could possibly use these issues to obtain sensitive information,
- cause FreeRDP to crash, resulting in a denial of service, or execute
- arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
