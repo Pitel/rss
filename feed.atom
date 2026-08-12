@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T09:05:43.738Z</id>
+    <id>urn:2026-08-12T10:55:02.019Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-12T09:05:43.738Z</updated>
+    <updated>2026-08-12T10:55:02.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -54,6 +54,82 @@ Xr Runtime Version 1.0.0-beta02
 Xr Scenecore Version 1.0.0-beta02]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.2 To Revert Back To The FIFO DRM Scheduler Policy Due To "Fair" Regressions]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair</id>
+        <link href="https://www.phoronix.com/news/Linux-7.2-Reverting-DRM-Fair"/>
+        <updated>2026-08-12T10:31:25.000Z</updated>
+        <summary type="html"><![CDATA[One of the Direct Rendering Manager changes made for Linux 7.2 was switching to "fair" as the DRM scheduler default in place of the existing FIFO policy. The intent was on making the DRM scheduler policy more fair with this being used by AMDGPU and various other DRM kernel graphics drivers. But due to a last minute regression report, the fair policy is being reverted for Linux 7.2...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saber admit Rideshare "Stimulator" features generative AI writing, but deny they replaced taxi game's lead writer with ChatGPT]]></title>
+        <id>https://www.rockpapershotgun.com/saber-admit-ridershare-stimulator-features-generative-ai-writing-but-deny-they-replaced-taxi-games-lead-writer-with-chatgpt</id>
+        <link href="https://www.rockpapershotgun.com/saber-admit-ridershare-stimulator-features-generative-ai-writing-but-deny-they-replaced-taxi-games-lead-writer-with-chatgpt"/>
+        <updated>2026-08-12T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[When Saber revealed Rideshare "Stimulator", Oisin was guardedly interested in the unofficial Uber simulator. You play a taxi operator picking up and dropping passengers around town while listening to their stimulating conversation. You thought the name referred to a different kind of stimulation? Get your head out of the gutter.
+Though, maybe not too far out of the gutter. After all, since its reveal, Rideshare's gained more attention for its odd swipes at Gearbox Software CEO Randy Pitchford and that time he left a USB stick at a Medieval Times restaurant which contained sensitive business documents and videos he described as "barely legal porn". Saber CEO Matt Karch told Gamefile “The dig is because Randy took shots at Embracer in Borderlands 4. Without Embracer, Randy is performing magic tricks at birthday parties for a living.”
+However, now Rideshare is coming under even greater scrutiny because the game's former lead writer, Stella Sacco, said on Bluesky that "Saber replaced me with ChatGPT midway through development". And, while Saber denies her account, they have admitted the game features generative AI. Use they've not disclosed on the game's Steam listing, contravening Valve's AI policy.
+Read more]]></summary>
+        <author>
+            <name>Julian Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mold 2.42 Delivering Greater Performance For This High Speed Linker]]></title>
+        <id>https://www.phoronix.com/news/Mold-2.42-Released</id>
+        <link href="https://www.phoronix.com/news/Mold-2.42-Released"/>
+        <updated>2026-08-12T10:21:09.000Z</updated>
+        <summary type="html"><![CDATA[It's been quiet since the Mold 2.41 release back in April while today it's now been succeeded by Mold 2.42 for deliver even greater performance out of this high speed linker...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel LLM-Scaler Ready With Muse Glimmer Support, Other LLMs & Features]]></title>
+        <id>https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer</id>
+        <link href="https://www.phoronix.com/news/Intel-LLM-Scaler-Muse-Glimmer"/>
+        <updated>2026-08-12T10:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel's LLM-Scaler project that was born out of their Project Battlematrix initiative aims to make it easier to run generative AI on Arc (Pro) B-Series graphics cards with the likes of vLLM, ComfyUI, SGLang, and other popular AI software in this Docker-based pre-configured AI stack. This week new LLM-Scaler releases brought same-day support for new models and other enhancements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LACT 0.10 Released With New NVIDIA Overclocking Controls, Blackwell Hotspot Sensor]]></title>
+        <id>https://www.phoronix.com/news/LACT-0.10-Released</id>
+        <link href="https://www.phoronix.com/news/LACT-0.10-Released"/>
+        <updated>2026-08-12T09:52:03.000Z</updated>
+        <summary type="html"><![CDATA[LACT is one of the popular third-party Linux GPU configuration and monitoring utilities that works across NVIDIA, AMD, and Intel graphics. This GUI provides GPU overclocking controls plus a wealth of information reporting, which is especially great considering the lack of any official GUI control panel for AMD Radeon and Intel Arc graphics on Linux. With today's LACT 0.10 release, there are yet more features in tow...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Haul The King is a co-op comedy corpse-dragging simulator from the makers of Eclipsium, one of 2025's best horror games]]></title>
+        <id>https://www.rockpapershotgun.com/all-haul-the-king-is-a-co-op-comedy-corpse-dragging-simulator-from-the-makers-of-eclipsium-one-of-2025s-best-horror-games</id>
+        <link href="https://www.rockpapershotgun.com/all-haul-the-king-is-a-co-op-comedy-corpse-dragging-simulator-from-the-makers-of-eclipsium-one-of-2025s-best-horror-games"/>
+        <updated>2026-08-12T09:43:17.000Z</updated>
+        <summary type="html"><![CDATA["That game with the massive dead body was created using generative AI!" roared the masses. "Oh shucks," said I, "Don't worry, I'll soon find another massive dead body game to write about." Reader, never let it be said that I am not as good as my word. In All Haul The King, players team up to drag the huge, elastic carcass of a goblin sovereign from one end of the world to the other. Your goal is to get him onto the Throne of Resurrection. This might go easier if you transform him into an anvil. Anvils don't wobble around quite so much, after all. Here is a trailer.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ovladač Nvidia Nova s novinkami pro jádro Linux 7.3]]></title>
+        <id>www.root.cz-actuality-53130</id>
+        <link href="https://www.root.cz/zpravicky/ovladac-nvidia-nova-s-novinkami-pro-jadro-linux-7-3/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-08-12T09:21:36.000Z</updated>
+        <summary type="html"><![CDATA[Ve vývojové větvi DRM-Next se od tohoto týdne nachází aktualizace DRM Rust kódu pro podporu příslušných ovladačů. Vedle ovladače Tyr, v Rustu psaného ovladače pro ARM Mali se to týká zejména ovladače Nova od Nvidie.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -1718,16 +1794,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FreeBSD 14.5 Beta 1 Released With Various Backports, Security Fixes]]></title>
-        <id>https://www.phoronix.com/news/FreeBSD-14.5-Beta-1</id>
-        <link href="https://www.phoronix.com/news/FreeBSD-14.5-Beta-1"/>
-        <updated>2026-08-09T10:10:44.000Z</updated>
-        <summary type="html"><![CDATA[For those still on the FreeBSD 14 N-1 stable series rather than the latest FreeBSD 15 series, FreeBSD 14.5 is working toward release to deliver various security fixes and backports...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Sunday Papers]]></title>
         <id>https://www.rockpapershotgun.com/the-sunday-papers-822</id>
         <link href="https://www.rockpapershotgun.com/the-sunday-papers-822"/>
@@ -1736,16 +1802,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Linux Patches Enable ASUS ROG Ryujin III Monitoring Support]]></title>
-        <id>https://www.phoronix.com/news/ASUS-ROG-Ryujin-3-Linux</id>
-        <link href="https://www.phoronix.com/news/ASUS-ROG-Ryujin-3-Linux"/>
-        <updated>2026-08-09T00:47:46.000Z</updated>
-        <summary type="html"><![CDATA[For those with an ASUS ROG Ryujin III all-in-one CPU liquid cooling setup catering to gamers, there are now patches pending to enable this AIO liquid cooling setup to work under Linux for monitoring...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -1805,16 +1861,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 7.3 To Better Handle Cluster Load Balancing On Intel Hybrid CPUs]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.3-Better-Intel-Hybrid</id>
-        <link href="https://www.phoronix.com/news/Linux-7.3-Better-Intel-Hybrid"/>
-        <updated>2026-08-08T17:27:05.000Z</updated>
-        <summary type="html"><![CDATA[A set of patches from Intel are set to be merged for the upcoming Linux 7.3 merge window to enhance the cluster-aware scheduling code so it better handles load balancing on modern Intel Core (Ultra) hybrid CPUs with a mix of P and E/LPE cores...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Big Walk's voice chat volume issue has been resolved with its latest patch, but House House are sticking to their guns on its overall design]]></title>
         <id>https://www.rockpapershotgun.com/big-walks-voice-chat-volume-issue-has-been-resolved-with-its-latest-patch-but-house-house-are-sticking-to-their-guns-on-its-overall-design</id>
         <link href="https://www.rockpapershotgun.com/big-walks-voice-chat-volume-issue-has-been-resolved-with-its-latest-patch-but-house-house-are-sticking-to-their-guns-on-its-overall-design"/>
@@ -1824,16 +1870,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polychromatic 0.9.8 Released With Razer Blade 16 2023 Support]]></title>
-        <id>https://www.phoronix.com/news/Polychromatic-0.9.8-Released</id>
-        <link href="https://www.phoronix.com/news/Polychromatic-0.9.8-Released"/>
-        <updated>2026-08-08T16:33:43.000Z</updated>
-        <summary type="html"><![CDATA[For those looking to manage the RGB lighting and other features of their Razer devices on Linux, Polychromatic 0.9.8 is now available for that UI front-end that interacts with the OpenRazer kernel drivers for providing a decent albeit unofficial Linux configuration experience...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2820,16 +2856,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Podepisování PDF přes eObčanku na macOS]]></title>
-        <id>www.root.cz-actuality-53049</id>
-        <link href="https://www.root.cz/zpravicky/podepisovani-pdf-pres-eobcanku-na-macos/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-08-04T11:51:12.000Z</updated>
-        <summary type="html"><![CDATA[Potřeboval jsem na Macu podepisovat PDF dokumenty pomocí české eObčanky a nenašel jsem jednoduché řešení, které by mi vyhovovalo. Proto jsem si vytvořil vlastní nástroj a sepsal zkušenosti do článku.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Programator)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Assassins Creed Black Flag Resynced's Kraken wheel will no longer be "wheely expensive" following the latest update, which will also teach you how to throw cash]]></title>
         <id>https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-kraken-wheel-will-no-longer-be-wheely-expensive-following-the-latest-update-which-will-also-teach-you-how-to-throw-cash</id>
         <link href="https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-kraken-wheel-will-no-longer-be-wheely-expensive-following-the-latest-update-which-will-also-teach-you-how-to-throw-cash"/>
@@ -3521,28 +3547,6 @@ V oscarovém filmu Chariots of Fire (Ohnivé vozy), jinak též známém pod p�
 A když jsme u oscarových Chariots of Fire, můžu prostřednictvím odbočky přes film Liberace! (FFFilm 90 %) přidat ještě toto unikátní historické video:]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Our business did not grow with our audience": post-layoffs, Xbox execs are trying to sell a gaming division bounce back by summer 2027]]></title>
-        <id>https://www.rockpapershotgun.com/our-business-did-not-grow-with-our-audience-post-layoffs-xbox-execs-are-trying-to-sell-a-gaming-division-bounce-back-by-summer-2027</id>
-        <link href="https://www.rockpapershotgun.com/our-business-did-not-grow-with-our-audience-post-layoffs-xbox-execs-are-trying-to-sell-a-gaming-division-bounce-back-by-summer-2027"/>
-        <updated>2026-07-30T10:44:48.000Z</updated>
-        <summary type="html"><![CDATA[Efforts by those now running Xbox to convince onlookers that the gaming division of Microsoft is now in a better place to start hauling in the ever-growing money numbers those overseeing it crave have continued alongside Microsoft first financial report since this month's mass layoffs. Both Xbox CEO Asha Sharma and her boss Satya Nadella have declared they're looking for the division to be growing financially again by about this time next year.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeamNG.drive, Steam's finest car pancake maker, gets its biggest update yet with overhauled graphics, fresh rally stages and a sporty new coupe]]></title>
-        <id>https://www.rockpapershotgun.com/beamngdrive-steams-finest-car-pancake-maker-gets-its-biggest-update-yet-with-overhauled-graphics-fresh-rally-stages-and-a-sporty-new-coupe</id>
-        <link href="https://www.rockpapershotgun.com/beamngdrive-steams-finest-car-pancake-maker-gets-its-biggest-update-yet-with-overhauled-graphics-fresh-rally-stages-and-a-sporty-new-coupe"/>
-        <updated>2026-07-30T09:41:43.000Z</updated>
-        <summary type="html"><![CDATA[BeamNG.drive's long been one of the easiest games to reccomend to a car lover cruising the streets of Steam. As Graham wrote in 2017, it's a moddable sandbox dedicated to vehicular destruction physics, in which every bump, crumple, and slam results in a glorious bending of metal and smashing of glass. BeamNG's been growing via updates for ages, and its devs say the latest is the biggest yet.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
         </author>
     </entry>
     <entry>
