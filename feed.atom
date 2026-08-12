@@ -1,10 +1,368 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-12T18:53:24.541Z</id>
+    <id>urn:2026-08-12T20:35:59.620Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-12T18:53:24.541Z</updated>
+    <updated>2026-08-12T20:35:59.620Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Things I Said Out Loud, To No One, While Suffering Through FromSoft’s Grueling Dark Souls Predecessor For Kotaku’s Warp Week]]></title>
+        <id>https://kotaku.com/?p=2000723445</id>
+        <link href="https://kotaku.com/things-said-kings-field-4-ancient-city-dark-souls-warp-week-2002-2000723445"/>
+        <updated>2026-08-12T20:30:44.000Z</updated>
+        <summary type="html"><![CDATA[This is just like Dark Souls]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tenstrorrent Posts GCC Compiler Patches For Ascalon XG Core]]></title>
+        <id>https://www.phoronix.com/news/Tenstorrent-Ascalon-XG-GCC</id>
+        <link href="https://www.phoronix.com/news/Tenstorrent-Ascalon-XG-GCC"/>
+        <updated>2026-08-12T20:14:37.000Z</updated>
+        <summary type="html"><![CDATA[While the Tenstorrent Ascalon X is known as their high performance out-of-order RISC-V RVA23 CPU core for extreme performance over the H and S models, a new GNU Compiler Collection (GCC) patch today from Tenstorrent makes known a new Ascalon XG core...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokopia’s New DLC Is Its Most Melancholy Yet]]></title>
+        <id>https://kotaku.com/?p=2000723860</id>
+        <link href="https://kotaku.com/pokopias-new-dlc-is-its-most-melancholy-yet-2000723860"/>
+        <updated>2026-08-12T20:10:05.000Z</updated>
+        <summary type="html"><![CDATA[Back to my home, I dare not go]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8636-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8636-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8636-1"/>
+        <updated>2026-08-12T20:06:15.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Media drivers;
+  - Network drivers;
+  - Mellanox network drivers;
+  - Texas Instruments network drivers;
+  - NVME drivers;
+  - File systems infrastructure;
+  - SMB network file system;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - Locking primitives;
+  - Memory management;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-31405, CVE-2026-31414, CVE-2026-31501, CVE-2026-31589,
+CVE-2026-31633, CVE-2026-31636, CVE-2026-31705, CVE-2026-43198,
+CVE-2026-43379, CVE-2026-43465, CVE-2026-43499, CVE-2026-46113,
+CVE-2026-46137, CVE-2026-46242, CVE-2026-46331, CVE-2026-52924,
+CVE-2026-52989, CVE-2026-53086, CVE-2026-53131, CVE-2026-53176,
+CVE-2026-53212, CVE-2026-53225, CVE-2026-53228, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pikachu by Ken Sugimori Revealed for “30th Celebration!”]]></title>
+        <id>156977</id>
+        <link href="https://www.pokebeach.com/forums/threads/pikachu-by-ken-sugimori-revealed-for-%E2%80%9C30th-celebration-%E2%80%9D.156977/"/>
+        <updated>2026-08-12T20:02:58.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8635-1: Linux kernel (Azure) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8635-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8635-1"/>
+        <updated>2026-08-12T20:01:49.000Z</updated>
+        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
+implementation in the Linux kernel did not properly handle aggregated
+frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
+physically proximate attacker could use this issue to inject packets.
+(CVE-2025-27558)
+
+It was discovered that a logic flaw existed in the XFRM ESP-in-TCP
+subsystem in the Linux kernel when handling socket buffer fragments. This
+flaw is known as Fragnesia. A local attacker could use this to escalate
+privileges, or possibly escape a container. (CVE-2026-43503)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic AP…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kiki's Delivery Service Meets Akira in 'Crescent County', Launching Summer '27]]></title>
+        <id>https://www.nintendolife.com/#article-204911</id>
+        <link href="https://www.nintendolife.com/news/2026/08/kikis-delivery-service-meets-akira-in-crescent-county-launching-summer-27"/>
+        <updated>2026-08-12T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With extra cosy vibes.
+Kinetic Publishing and Electric Saint have announced Crescent County, a cosy adventure that sees you make deliveries during the day and take part in races during the night, all on awesome sci-fi inspired 'motorbrooms'.
+Boasting some lovely, colourful visuals, Crescent County has been confirmed for PC and consoles and will launch in Summer 2027. The debut showcase features an interview with creative director Anna Hollinrake as she breaks down its conception and development.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Sci-Fi Thriller From Immortality Studio Originated As An Idea For An FMV Metroid Game]]></title>
+        <id>https://kotaku.com/?p=2000723521</id>
+        <link href="https://kotaku.com/sam-barlow-half-mermaid-immortality-precognition-fmv-metroid-2000723521"/>
+        <updated>2026-08-12T19:55:33.000Z</updated>
+        <summary type="html"><![CDATA[It's called Precognition, it's out in 2028, but there's no Samus Aran anywhere]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8634-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8634-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8634-1"/>
+        <updated>2026-08-12T19:54:57.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic API;
+  - InfiniBand drivers;
+  - Media drivers;
+  - STMicroelectronics network drivers;
+  - Network drivers;
+  - Ext4 file system;
+  - IPv4 networking;
+  - TCP network protocol;
+  - Locking primitives;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ceph Core library;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-31405, CVE-2026-31414, CVE-2026-31448, CVE-2026-31649,
+CVE-2026-31659, CVE-2026-31685, CVE-2026-43198, CVE-2026-43493,
+CVE-2026-43499, CVE-2026-46266, CVE-2026-52955, CVE-2026-52982,
+CVE-2026-52986, CVE-2026-53176, CVE-2026-53225, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8633-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8633-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8633-1"/>
+        <updated>2026-08-12T19:54:20.000Z</updated>
+        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
+implementation in the Linux kernel did not properly handle aggregated
+frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
+physically proximate attacker could use this issue to inject packets.
+(CVE-2025-27558)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic API;
+  - GPU drivers;
+  - InfiniBand drivers;
+  - Media drivers;
+  - NVIDIA Tegra memory controller driver;
+  - Network drivers;
+  - STMicroelectronics network drivers;
+  - NVME drivers;
+  - Ext4 file system;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - Locking primitives;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ceph Core library;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2021-47354, CVE-2021-47378, CVE-2024-38612, CVE-2026-31405,
+CVE-2026-31414, CVE-2026-31448, CVE-2026-31649, CVE-2026-31657,
+CVE-2026-31668, CVE-2026-43198, CVE-2026-43493, CVE-2026-43499,
+CVE-2026-46266, CVE-2026-46331, CVE-2026-52924, CVE-2026-52931,
+CVE-2026-52955, CVE-2026-52982, CVE-2026-52986, CVE-2026-53002,
+CVE-2026-53006, CVE-2026-53045, CVE-2026-53088, CVE-2026-53176,
+CVE-2026-53225, CVE-2026-53228, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8631-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8631-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8631-1"/>
+        <updated>2026-08-12T19:50:11.000Z</updated>
+        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
+implementation in the Linux kernel did not properly handle aggregated
+frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
+physically proximate attacker could use this issue to inject packets.
+(CVE-2025-27558)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - NVME drivers;
+  - Ext4 file system;
+  - SMB network file system;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - Locking primitives;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-31414, CVE-2026-31448, CVE-2026-31705, CVE-2026-43198,
+CVE-2026-43378, CVE-2026-43499, CVE-2026-46266, CVE-2026-46331,
+CVE-2026-52924, CVE-2026-52989, CVE-2026-53086, CVE-2026-53176,
+CVE-2026-53212, CVE-2026-53215, CVE-2026-53225, CVE-2026-53228,
+CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitch Is Now Using Your Content To Train Amazon AI Models And Has Hidden The Option To Opt Out]]></title>
+        <id>https://kotaku.com/?p=2000723891</id>
+        <link href="https://kotaku.com/twitch-is-now-using-your-content-to-train-amazon-ai-models-and-has-hidden-the-option-to-opt-out-2000723891"/>
+        <updated>2026-08-12T19:46:00.000Z</updated>
+        <summary type="html"><![CDATA[For now at least, you can stop Amazon from using your streams and chat to train its generative AI tools]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8630-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8630-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8630-1"/>
+        <updated>2026-08-12T19:43:13.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - Mellanox network drivers;
+  - File systems infrastructure;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - B.A.T.M.A.N. meshing protocol;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-43083, CVE-2026-43197, CVE-2026-43198, CVE-2026-43465,
+CVE-2026-46242, CVE-2026-46325, CVE-2026-46331, CVE-2026-52914,
+CVE-2026-52924, CVE-2026-52931, CVE-2026-53151, CVE-2026-53176,
+CVE-2026-53212, CVE-2026-53215, CVE-2026-53225, CVE-2026-53228,
+CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8629-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8629-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8629-1"/>
+        <updated>2026-08-12T19:36:25.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - Network traffic control;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SCTP protocol;
+(CVE-2026-46331, CVE-2026-52924, CVE-2026-53131, CVE-2026-53151,
+CVE-2026-53175, CVE-2026-53176, CVE-2026-53186, CVE-2026-53212,
+CVE-2026-53215, CVE-2026-53216, CVE-2026-53221, CVE-2026-53224,
+CVE-2026-53225, CVE-2026-53228, CVE-2026-53246, CVE-2026-53247,
+CVE-2026-53260, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Precognition, A New Horror From Sam Barlow And Brandon Cronenberg, Is Confirmed For Switch 2]]></title>
+        <id>https://www.nintendolife.com/#article-204832</id>
+        <link href="https://www.nintendolife.com/news/2026/08/precognition-a-new-horror-from-sam-barlow-and-brandon-cronenberg-is-confirmed-for-switch-2"/>
+        <updated>2026-08-12T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA["We’ve pushed ourselves even harder".
+Kinetic Publishing and Half Mermaid Productions have announced Precognition, a new horror game from Sam Barlow, creator of Immortality and Her Story, and Brandon Cronenberg, director of films such as Possessor and Infinity Pool.
+Originally teased as 'Project C', Precognition follows in the footsteps of Immortality by presenting a non-linear FMV story in which you follow Diana, a woman who is able to view visions of the future after an experimental implant is embedded into her brain. You'll have to explore these visions and commit specific moments to Diana's memory in the present day, thus potentially altering the future.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immortality developer Sam Barlow reveals Precognition, a sci-fi horror collaboration with Brandon Cronenberg about "really terrible things that are just around the corner"]]></title>
+        <id>https://www.rockpapershotgun.com/immortality-developer-sam-barlow-reveals-precognition-a-sci-fi-horror-collaboration-with-brandon-cronenberg-about-really-terrible-things-that-are-just-around-the-corner</id>
+        <link href="https://www.rockpapershotgun.com/immortality-developer-sam-barlow-reveals-precognition-a-sci-fi-horror-collaboration-with-brandon-cronenberg-about-really-terrible-things-that-are-just-around-the-corner"/>
+        <updated>2026-08-12T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Immortality and Her Story developer Sam Barlow has announced Precognition, a new sci-fi horror game in development at Half Mermaid Productions, which features writing from Antiviral and Infinity Pool director Brandon Cronenberg. That's Brandon, not David, yes, but still, having any kind of Cronenberg in your credits is a win, right? When's the last time you made a game with a Cronenberg? 
+
+
+Besides, I thought Infinity Pool was good fun. And I quite like the sound of Precognition, which stars a woman with brain implants who can choose between visions to weave a range of possible dark futures. It began life as a slightly random idea for a Metroid game, apparently. Here's a trailer.
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phantom Blade Zero Pre-Orders Are Entirely Digital, Prompting Concern That It’s Not Getting A Physical Release]]></title>
+        <id>https://kotaku.com/?p=2000723821</id>
+        <link href="https://kotaku.com/phantom-blade-zero-physical-disc-release-playstation-ps5-sony-2000723821"/>
+        <updated>2026-08-12T19:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Pre-orders for S-Games Phantom Blade Zero went live last night, but a physical version of the pre-order is nowhere to be found]]></summary>
+        <author>
+            <name>Lewis Parker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand Theft Auto: Vice City: The Kotaku Review]]></title>
+        <id>https://kotaku.com/?p=2000720825</id>
+        <link href="https://kotaku.com/grand-theft-auto-vice-city-the-kotaku-review-2000720825"/>
+        <updated>2026-08-12T19:00:33.000Z</updated>
+        <summary type="html"><![CDATA[The boys over at Rockstar Games have made another massive masterpiece]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Someone Just Maxed Out Their Fishing In Old School RuneScape Using Only The Starter Net: ‘Nothing Matters’]]></title>
         <id>https://kotaku.com/?p=2000723831</id>
@@ -84,15 +442,6 @@
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pikachu by Ken Sugimori Revealed for “30th Celebration!”]]></title>
-        <id>156977</id>
-        <link href="https://www.pokebeach.com/forums/threads/pikachu-by-ken-sugimori-revealed-for-%E2%80%9C30th-celebration-%E2%80%9D.156977/"/>
-        <updated>2026-08-12T17:36:35.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -785,16 +1134,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Played This Brutal PS2 Action RPG For Ten Hours And Only Died To Poison Like 50 Times]]></title>
-        <id>https://kotaku.com/?p=2000722569</id>
-        <link href="https://kotaku.com/kings-field-4-kill-you-like-it-2000722569"/>
-        <updated>2026-08-11T19:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Beware: Poison]]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USN-8627-1: Yelp vulnerability]]></title>
         <id>https://ubuntu.com/security/notices/USN-8627-1</id>
         <link href="https://ubuntu.com/security/notices/USN-8627-1"/>
@@ -818,16 +1157,6 @@ possibly resulting in the disclosure of sensitive information.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Protest Of Mass Layoffs, Bethesda Devs Greet Xbox Leadership With A Giant Inflatable Rat]]></title>
-        <id>https://kotaku.com/?p=2000723471</id>
-        <link href="https://kotaku.com/xbox-protests-zenimax-studios-maryland-scabby-cwa-2000723471"/>
-        <updated>2026-08-11T18:45:04.000Z</updated>
-        <summary type="html"><![CDATA['We heard that Microsoft leadership was coming to our office this week, and decided to make our presence visible']]></summary>
-        <author>
-            <name>Ash Parrish</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenAI Brings ChatGPT Desktop App To Linux]]></title>
         <id>https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview</id>
         <link href="https://www.phoronix.com/news/ChatGPT-Desktop-Linux-Preview"/>
@@ -835,16 +1164,6 @@ possibly resulting in the disclosure of sensitive information.]]></summary>
         <summary type="html"><![CDATA[OpenAI announced today they have brought their ChatGPT Desktop application to Linux and is currently in preview form...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony Lays The ‘No More Discs’ On Thick By Only Selling Digital Wolverine Console]]></title>
-        <id>https://kotaku.com/?p=2000723493</id>
-        <link href="https://kotaku.com/playstation-5-wolverine-ps5-special-edition-digital-disc-2000723493"/>
-        <updated>2026-08-11T18:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Fans are on high alert in the weeks since Sony announced it will stop producing PlayStation discs]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
         </author>
     </entry>
     <entry>
@@ -861,16 +1180,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pokémon Ruby And Sapphire Defined Pokémon As We Know It Today]]></title>
-        <id>https://kotaku.com/?p=2000722588</id>
-        <link href="https://kotaku.com/pokemon-ruby-and-sapphire-defined-pokemon-today-2000722588"/>
-        <updated>2026-08-11T18:15:04.000Z</updated>
-        <summary type="html"><![CDATA[From monster designs to a more fleshed-out world, Pokémon Ruby and Sapphire represented the moment we knew Pokémon was more than just a childhood craze]]></summary>
-        <author>
-            <name>Rebekah Valentine and Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Právě vyšla FPS akce Agent 64: Spies Never Die, pocta klasice GoldenEye 007]]></title>
         <id>https://www.high-voltage.cz/?post_type=hv_notretro&amp;p=62029</id>
         <link href="https://www.high-voltage.cz/neretro/prave-vysla-fps-akce-agent-64-spies-never-die-pocta-klasice-goldeneye-007/"/>
@@ -878,26 +1187,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Pamatujete na připravovanou novinku Agent 64: Spies Never Die, retro FPS akci okatě inspirovanou legendárním GoldenEye 007 pro konzoli Nintendo 64? V roce 2022 jsem vás lákal na povedené demo a bezelstně až naivně jsem tvrdil, že plnou hru si budete moci koupit "vbrzku".]]></summary>
         <author>
             <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop Killing Games Joins Lawsuit Against Sony Over Its ‘Total Control Of PlayStation Store Pricing’]]></title>
-        <id>https://kotaku.com/?p=2000723377</id>
-        <link href="https://kotaku.com/stop-killing-games-joins-lawsuit-against-sony-over-its-total-control-of-playstation-store-pricing-2000723377"/>
-        <updated>2026-08-11T17:53:14.000Z</updated>
-        <summary type="html"><![CDATA[Both Stop Killing Games and DoesItPlay are lending their support to a lawsuit against the digital 'monopoly']]></summary>
-        <author>
-            <name>Lewis Parker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chainsmoker Cat Anime Investigated By Japan’s Broadcasting Ethics Watchdog For ‘Illegal Drug Use’ Depictions]]></title>
-        <id>https://kotaku.com/?p=2000723427</id>
-        <link href="https://kotaku.com/chainsmoker-cat-anime-investigated-by-japans-broadcasting-ethics-watchdog-for-illegal-drug-use-depictions-2000723427"/>
-        <updated>2026-08-11T17:41:48.000Z</updated>
-        <summary type="html"><![CDATA[Japan's BPO youth committee recently took issue with 'a scene of self-injection' which was featured in the new anime]]></summary>
-        <author>
-            <name>Lewis Parker</name>
         </author>
     </entry>
     <entry>
@@ -1344,19 +1633,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sonic Collabs With Fortnite In A New Zone Later This Month]]></title>
-        <id>https://www.nintendolife.com/#article-204822</id>
-        <link href="https://www.nintendolife.com/news/2026/08/sonic-collabs-with-fortnite-in-a-new-zone-later-this-month"/>
-        <updated>2026-08-11T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA["New zone loading".
-Sonic the Hedgehog is currently celebrating his 35th anniversary and it seems he'll be racing into Fortnite's new chapter.
-The official Sonic accounts on YouTube and social media have posted a new video featuring Sonic and what appears to be the Fortnite character Peely, while showing off a new zone in the popular battle royale title.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Zapscape aneb CVE‑2026‑64561]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/zapscape-aneb-cve202664561</id>
         <link href="http://www.abclinuxu.cz/zpravicky/zapscape-aneb-cve202664561"/>
@@ -1364,19 +1640,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[V Linuxu v KVM byla nalezena a v upstreamu již byla opravena kritická zranitelnost Zapscape aneb CVE-2026-64561. Root na hostovaném počítači (virtuální stroj) může obejít izolaci a získat plnou kontrolu nad hostitelským systémem (DoS útok nebo vzdálené spuštění kódu s právy roota). Na obou hlavních architekturách – Intel i AMD. Zranitelnost v Linuxu existovala 6 let (od července 2020 do července 2026).]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aliens: Fireteam Elite Cloud Version Is No Longer Playable On Switch]]></title>
-        <id>https://www.nintendolife.com/#article-204821</id>
-        <link href="https://www.nintendolife.com/news/2026/08/aliens-fireteam-elite-cloud-version-is-no-longer-playable-on-switch"/>
-        <updated>2026-08-11T01:45:00.000Z</updated>
-        <summary type="html"><![CDATA[It launched on the system in April 2023.
-In case you missed it, the 2023 cloud version of Aliens: Fireteam Elite is no longer playable on the Switch.
-Earlier this year, the game was delisted from the eShop, and Switch players received the following notice at the time about the shutdown date of the game's servers (via avpgalaxy.net):
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1721,16 +1984,6 @@ It takes open inspiration from Minecraft's redstone - an in-game substance that 
         <link href="https://www.phoronix.com/news/Apple-M1-Power-Savings-Linux-73"/>
         <updated>2026-08-10T10:15:44.000Z</updated>
         <summary type="html"><![CDATA[In addition to Linux 7.3 slated to receive initial Apple M3 Pro / Max / Ultra SoC support, this next version of the Linux kernel is also set to bring some minor power savings for the Apple M1 series that remains the best supported Apple Silicon on Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old SGI Drivers Being Removed In Linux 7.3 Over Security Concerns]]></title>
-        <id>https://www.phoronix.com/news/SGI-GRU-Being-Removed</id>
-        <link href="https://www.phoronix.com/news/SGI-GRU-Being-Removed"/>
-        <updated>2026-08-10T09:59:20.000Z</updated>
-        <summary type="html"><![CDATA[On top of various other Linux drivers for old hardware being removed due to noise generated by AI/LLM coding agents, there are more examples coming with Linux 7.3 as some old Silicon Graphics (SGI) drivers are being removed from the mainline Linux kernel over security concerns...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -3318,29 +3571,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8620-4: Linux kernel (Intel IoTG) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8620-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-8620-4"/>
-        <updated>2026-07-31T15:00:56.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20 years ago, Dead Rising showed a different path for open worlds, and more games should pinch its ideas]]></title>
         <id>https://www.rockpapershotgun.com/20-years-ago-dead-rising-showed-a-different-path-for-open-worlds-and-more-games-should-pinch-its-ideas</id>
         <link href="https://www.rockpapershotgun.com/20-years-ago-dead-rising-showed-a-different-path-for-open-worlds-and-more-games-should-pinch-its-ideas"/>
@@ -3361,29 +3591,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8620-3: Linux kernel (Intel IoTG) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8620-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8620-3"/>
-        <updated>2026-07-31T09:40:09.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3429,18 +3636,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/machine-party-out-now-is-masochistic-mario-party-from-the-dev-that-brought-you-buckshot-roulette"/>
         <updated>2026-07-30T19:01:10.000Z</updated>
         <summary type="html"><![CDATA[There is an obvious humour to be found in the contrast between the visual presentation of Mario Party and the agita and unbridled rage it brings out in people. This is not a game about violence, yet it pulls it out from people nonetheless. So, how about something that leans into this violence, while still retaining the jovially competitive nature? Enter Machine Party, the latest from Buckshot Roulette developer Mike Klubnika, made alongside GDeavid, a party game "where failure is lethal."
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RuneScape: Dragonwilds revamps the agility skill and gives you Wipeout style courses to test your mettle on]]></title>
-        <id>https://www.rockpapershotgun.com/runescape-dragonwilds-revamps-the-agility-skill-and-gives-you-wipeout-style-courses-to-test-your-mettle-on</id>
-        <link href="https://www.rockpapershotgun.com/runescape-dragonwilds-revamps-the-agility-skill-and-gives-you-wipeout-style-courses-to-test-your-mettle-on"/>
-        <updated>2026-07-30T17:04:11.000Z</updated>
-        <summary type="html"><![CDATA[Skills in RuneScape have always tickled me because of the sheer variety on display, and this extends to Dragonwilds too. There's magic, but then there's woodcutting. You've got prayer, and also fishing. And of course you've got runecrafting, or agility. It's that last one that's important for today's purposes, as a new update has arrived in Dragonwilds that revamp the skill, as well as add in some courses for you to pseudo-parkour across.
  
 Read more]]></summary>
         <author>
@@ -3528,20 +3723,6 @@ Launching database inspector segfaults in SQLite]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8625-1: OpenSSL vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8625-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8625-1"/>
-        <updated>2026-07-30T13:38:32.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that OpenSSL incorrectly allocated memory buffers in the
-SSL/TLS state machine when receiving handshake data. A remote attacker
-could possibly use this issue to cause OpenSSL to consume excessive memory,
-leading to a denial of service. This issue is known as the "HollowByte"
-denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Úplně náhodný Kenneth Branagh a Stephen Fry]]></title>
         <id>tag:blogger.com,1999:blog-2270872860161924291.post-5302657956626081627</id>
         <link href="https://www.fffilm.cz/2026/07/uplne-nahodny-kenneth-branagh-stephen.html"/>
@@ -3556,18 +3737,6 @@ V oscarovém filmu Chariots of Fire (Ohnivé vozy), jinak též známém pod p�
 A když jsme u oscarových Chariots of Fire, můžu prostřednictvím odbočky přes film Liberace! (FFFilm 90 %) přidat ještě toto unikátní historické video:]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8624-1: Sinatra vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8624-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8624-1"/>
-        <updated>2026-07-29T19:09:19.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Sinatra did not properly handle header parsing,
-causing ETag generation to hang when given specific input. A remote
-attacker could possibly use this issue to cause a denial of service.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3614,36 +3783,6 @@ Xr Glimmer Version 1.0.0-alpha16]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8623-1: Linux kernel (NVIDIA) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8623-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8623-1"/>
-        <updated>2026-07-29T13:53:58.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - Arm Firmware Framework for ARMv8-A(FFA);
-(CVE-2026-53354, CVE-2026-64520)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8622-1: Linux kernel (NVIDIA) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8622-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8622-1"/>
-        <updated>2026-07-29T13:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - Arm Firmware Framework for ARMv8-A(FFA);
-(CVE-2026-53354, CVE-2026-64520)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vietnam Uses HiAnime Arrests As Defense Against U.S. Trade Sanctions]]></title>
         <id>https://torrentfreak.com/?p=279824</id>
         <link href="https://torrentfreak.com/vietnam-uses-hianime-arrests-as-defense-against-u-s-trade-sanctions/"/>
@@ -3652,29 +3791,6 @@ This update corrects flaws in the following subsystems:
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8620-2: Linux kernel (Azure FIPS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8620-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8620-2"/>
-        <updated>2026-07-29T07:46:56.000Z</updated>
-        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
-Linux kernel did not properly validate file name length in certain
-situations, leading to an out-of-bounds read. An attacker could use this to
-construct a malicious NTFS image that, when mounted and operated on, could
-expose sensitive information (kernel memory). (CVE-2023-45896)
-
-It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, re…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
