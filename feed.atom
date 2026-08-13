@@ -1,10 +1,160 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-13T16:50:05.582Z</id>
+    <id>urn:2026-08-13T18:54:13.707Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-13T16:50:05.582Z</updated>
+    <updated>2026-08-13T18:54:13.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Battlefield 1942 Vs. Medal Of Honor: Allied Assault: Which Is The Better WW2 Shooter?]]></title>
+        <id>https://kotaku.com/?p=2000724128</id>
+        <link href="https://kotaku.com/battlefield-1942-vs-medal-of-honor-allied-assault-which-is-the-better-ww2-shooter-2000724128"/>
+        <updated>2026-08-13T18:00:19.000Z</updated>
+        <summary type="html"><![CDATA[It's the battle of the year as we pit EA's two excellent PC-only shooters against each other to figure out which is the best]]></summary>
+        <author>
+            <name>Zack Zwiezen</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8637-1: Linux kernel (OEM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8637-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8637-1"/>
+        <updated>2026-08-13T17:59:27.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - Thunderbolt and USB4 drivers;
+  - Network traffic control;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SCTP protocol;
+(CVE-2026-46331, CVE-2026-52924, CVE-2026-53131, CVE-2026-53146,
+CVE-2026-53147, CVE-2026-53148, CVE-2026-53149, CVE-2026-53150,
+CVE-2026-53151, CVE-2026-53175, CVE-2026-53176, CVE-2026-53186,
+CVE-2026-53212, CVE-2026-53215, CVE-2026-53216, CVE-2026-53221,
+CVE-2026-53224, CVE-2026-53225, CVE-2026-53228, CVE-2026-53246,
+CVE-2026-53247, CVE-2026-53260, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8631-2: Linux kernel (Oracle) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8631-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8631-2"/>
+        <updated>2026-08-13T17:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
+implementation in the Linux kernel did not properly handle aggregated
+frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
+physically proximate attacker could use this issue to inject packets.
+(CVE-2025-27558)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - NVME drivers;
+  - Ext4 file system;
+  - SMB network file system;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - Locking primitives;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-31414, CVE-2026-31448, CVE-2026-31705, CVE-2026-43198,
+CVE-2026-43378, CVE-2026-43499, CVE-2026-46266, CVE-2026-46331,
+CVE-2026-52924, CVE-2026-52989, CVE-2026-53086, CVE-2026-53176,
+CVE-2026-53212, CVE-2026-53215, CVE-2026-53225, CVE-2026-53228,
+CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8630-2: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8630-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8630-2"/>
+        <updated>2026-08-13T17:38:10.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - Mellanox network drivers;
+  - File systems infrastructure;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - B.A.T.M.A.N. meshing protocol;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-43083, CVE-2026-43197, CVE-2026-43198, CVE-2026-43465,
+CVE-2026-46242, CVE-2026-46325, CVE-2026-46331, CVE-2026-52914,
+CVE-2026-52924, CVE-2026-52931, CVE-2026-53151, CVE-2026-53176,
+CVE-2026-53212, CVE-2026-53215, CVE-2026-53225, CVE-2026-53228,
+CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veřejného testu eDokladů se zůčastnilo 30 tisíc unikátních uživatelů]]></title>
+        <id>www.root.cz-actuality-53148</id>
+        <link href="https://www.root.cz/zpravicky/verejneho-testu-edokladu-se-zucastnilo-30-tisic-unikatnich-uzivatelu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-08-13T17:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Jak jsme informovali, dnes ve 13 hodin proběhl zátěžový test aplikace eDoklady. Zúčastnilo se 30 tisíc unikátních uživatelů. Od rána do 13:15 proběhlo asi k 60 tisíc přihlášení a 6 tisíc registrací. Systém, jako celek, nápor ustál, ale aplikace vykazovala delší odezvy.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Things We Learned About Insomniac’s Wolverine From The Latest Previews]]></title>
+        <id>https://kotaku.com/?p=2000724190</id>
+        <link href="https://kotaku.com/marvels-wolverine-insomniac-previews-ps5-story-characters-2000724190"/>
+        <updated>2026-08-13T17:15:14.000Z</updated>
+        <summary type="html"><![CDATA[Logan’s solo game is taking pieces of X-Men history and remixing them for a new story]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amiga strategy classic Defender of the Crown is back with both old and fresh graphics, and an all new roguelite mode]]></title>
+        <id>https://www.rockpapershotgun.com/amiga-strategy-classic-defender-of-the-crown-is-back-with-both-old-and-fresh-graphics-and-an-all-new-roguelite-mode</id>
+        <link href="https://www.rockpapershotgun.com/amiga-strategy-classic-defender-of-the-crown-is-back-with-both-old-and-fresh-graphics-and-an-all-new-roguelite-mode"/>
+        <updated>2026-08-13T17:10:23.000Z</updated>
+        <summary type="html"><![CDATA[What's old is new (and also old) again! It's been 40 years since the release of the classic Amiga strategy game Defender of the Crown, and to mark the occasion it has received a new PC port called The Legend Returns that packages in the original game alongside a complete visual revamp and a totally fresh roguelike mode.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitaroo Man Was A Weirder, Better Guitar Hero]]></title>
+        <id>https://kotaku.com/?p=2000724144</id>
+        <link href="https://kotaku.com/gitaroo-man-retro-review-guitar-hero-rhythm-games-warp-week-2002-2000724144"/>
+        <updated>2026-08-13T17:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Years before Guitar Hero, there was a real guitar hero, and his name was U-1]]></summary>
+        <author>
+            <name>Ash Parrish</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Halo Co-Creator Says The Remake’s New Ring Is ‘Damn Ugly’]]></title>
         <id>https://kotaku.com/?p=2000724174</id>
@@ -28,11 +178,11 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rusty Lake Returns With Servant Of The Lake, But Gets Tangled In Its Roots]]></title>
+        <title type="html"><![CDATA[This Terrific Long-Running Adventure Game Series’ Latest Entry Is Also Its First Disappointment]]></title>
         <id>https://kotaku.com/?p=2000724127</id>
         <link href="https://kotaku.com/rusty-lake-servant-of-the-lake-review-pc-steam-corrupted-soul-2000724127"/>
         <updated>2026-08-13T16:32:06.000Z</updated>
-        <summary type="html"><![CDATA[The Lynchian series perhaps gets a little set in its ways in this latest entry]]></summary>
+        <summary type="html"><![CDATA[The Rusty Lake series perhaps gets a little tangled in its own roots in Servant of the Lake]]></summary>
         <author>
             <name>John Walker</name>
         </author>
@@ -925,32 +1075,6 @@ CVE-2026-53359)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8629-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8629-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8629-1"/>
-        <updated>2026-08-12T19:36:25.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - InfiniBand drivers;
-  - Network drivers;
-  - Network traffic control;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Netfilter;
-  - RxRPC session sockets;
-  - SCTP protocol;
-(CVE-2026-46331, CVE-2026-52924, CVE-2026-53131, CVE-2026-53151,
-CVE-2026-53175, CVE-2026-53176, CVE-2026-53186, CVE-2026-53212,
-CVE-2026-53215, CVE-2026-53216, CVE-2026-53221, CVE-2026-53224,
-CVE-2026-53225, CVE-2026-53228, CVE-2026-53246, CVE-2026-53247,
-CVE-2026-53260, CVE-2026-53359)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Precognition, A New Horror From Sam Barlow And Brandon Cronenberg, Is Confirmed For Switch 2]]></title>
         <id>https://www.nintendolife.com/#article-204832</id>
         <link href="https://www.nintendolife.com/news/2026/08/precognition-a-new-horror-from-sam-barlow-and-brandon-cronenberg-is-confirmed-for-switch-2"/>
@@ -986,30 +1110,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Pre-orders for S-Games Phantom Blade Zero went live last night, but a physical version of the pre-order is nowhere to be found]]></summary>
         <author>
             <name>Lewis Parker</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8628-1: libgit2 vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8628-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8628-1"/>
-        <updated>2026-08-12T19:13:07.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that libgit2 incorrectly handled the Git Smart Protocol.
-A remote attacker could possibly use this issue to cause a denial of
-service or execute arbitrary code. This issue only affected Ubuntu 14.04
-LTS and Ubuntu 16.04 LTS. (CVE-2016-10128)
-
-It was discovered that libgit2 incorrectly handled empty packet lines in
-the Git Smart Protocol. A remote attacker could possibly use this issue
-to cause a denial of service. This issue only affected Ubuntu 14.04 LTS
-and Ubuntu 16.04 LTS. (CVE-2016-10129)
-
-It was discovered that libgit2 incorrectly handled error reporting in the
-HTTP transport. A remote attacker could possibly use this issue to spoof
-servers. This issue only affected Ubuntu 16.04 LTS. (CVE-2016-10130)
-
-It was discovered that libgit2 incorrectly handled certain crafte…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1073,16 +1173,6 @@ It was discovered that libgit2 incorrectly handled certain crafte…]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Need Every Overwatch Player To Change This Setting Immediately]]></title>
-        <id>https://kotaku.com/?p=2000723876</id>
-        <link href="https://kotaku.com/overwatch-season-4-patch-notes-lifeweaver-life-grip-2000723876"/>
-        <updated>2026-08-12T18:17:35.000Z</updated>
-        <summary type="html"><![CDATA[We’ve been doing just fine for three years, there’s no need for you stop trusting Lifeweaver mains now]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2027 Exclusive Pokemon Regionals Merchandise Previewed!]]></title>
         <id>156971</id>
         <link href="https://www.pokebeach.com/forums/threads/2027-exclusive-pokemon-regionals-merchandise-previewed.156971/"/>
@@ -1111,16 +1201,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[One of the most compelling features for Intel Xeon 6 Granite Rapids alongside MRDIMMs is Advanced Matrix Extensions (AMX) for helping accelerate AI workloads and more. AMX is also found with the new Granite Rapids WS processors and in currently having my hands on an Intel Xeon 678X in the HP Z4 G6i workstation, I ran some benchmarks looking at the AMX performance and power impact for this high-end workstation.]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Damn, The PS Plus Game Catalog Is Having One Of Its Best Months In A Long Time]]></title>
-        <id>https://kotaku.com/?p=2000723833</id>
-        <link href="https://kotaku.com/damn-the-ps-plus-game-catalog-is-having-one-of-its-best-months-in-a-long-time-2000723833"/>
-        <updated>2026-08-12T17:00:32.000Z</updated>
-        <summary type="html"><![CDATA[Helldivers 2, Kingdom Come, Metro Exodus, Onimusha and more are coming to Sony's subscription service in August]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
         </author>
     </entry>
     <entry>
@@ -1233,16 +1313,6 @@ While Amazon have poured money into in-house game development, they have also ac
 Read more]]></summary>
         <author>
             <name>Julian Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghost Of Yotei Expansion Coming This Fall, Will Add New Story Missions And Roguelike Mode]]></title>
-        <id>https://kotaku.com/?p=2000723819</id>
-        <link href="https://kotaku.com/ghost-of-yotei-expansion-coming-this-fall-will-add-new-story-missions-and-roguelike-mode-2000723819"/>
-        <updated>2026-08-12T15:49:09.000Z</updated>
-        <summary type="html"><![CDATA[The expansion will cost $15 and adds a whole new location to the open-world game]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
         </author>
     </entry>
     <entry>
@@ -1654,19 +1724,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8627-1: Yelp vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8627-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8627-1"/>
-        <updated>2026-08-11T19:27:49.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Yelp incorrectly handled certain crafted help
-documents due to an overly permissive Content Security Policy. An
-attacker could trick a user into opening a specially crafted document,
-possibly resulting in the disclosure of sensitive information.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -3009,16 +3066,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Šéf vyděračského gangu byl odsouzen na 16 let za provoz ransomwarové služby]]></title>
-        <id>www.root.cz-actuality-53070</id>
-        <link href="https://www.root.cz/zpravicky/sef-vyderacskeho-gangu-byl-odsouzen-na-16-let-za-provoz-ransomwarove-sluzby/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-08-06T09:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Federální soudce v Alexandrii ve Virginii odsoudil Maksima Silnikaua k 16 letům vězení za založení a provozování služby typu „ransomware-as-a-service“ s názvem Ransom Cartel, která existovala od roku 2021. Během následujících dvou let spáchali členové zločinecké skupiny útoky na nejméně 18 společností, včetně firem v Kalifornii, New Yorku a Nebrasce, ale i dalších v zahraničí.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[YggTorrent Teases a Comeback in September, Weeks After Arrests]]></title>
         <id>https://torrentfreak.com/?p=280007</id>
         <link href="https://torrentfreak.com/yggtorrent-teases-a-comeback-in-september-weeks-after-arrests/"/>
@@ -3628,17 +3675,6 @@ And, if you’re reading this but haven’t subscribed: like what you see? Becom
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Massive Fallout: New Vegas mod Fallout: New California hits GOG, offering another way to get some "proper, story-driven Fallout" in your belly]]></title>
-        <id>https://www.rockpapershotgun.com/massive-fallout-new-vegas-mod-fallout-new-california-hits-gog-offering-another-way-to-get-some-proper-story-driven-fallout-in-your-belly</id>
-        <link href="https://www.rockpapershotgun.com/massive-fallout-new-vegas-mod-fallout-new-california-hits-gog-offering-another-way-to-get-some-proper-story-driven-fallout-in-your-belly"/>
-        <updated>2026-07-31T16:12:02.000Z</updated>
-        <summary type="html"><![CDATA[DLC-sized Fallout: New Vegas mod Fallout: New California's now available via GOG, offering an easy way to give it a go if it's long sat on your lost of mods to try at some point before the universe dies.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
         </author>
     </entry>
     <entry>
