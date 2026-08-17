@@ -1,10 +1,228 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T12:30:48.403Z</id>
+    <id>urn:2026-08-17T14:20:32.612Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-17T12:30:48.403Z</updated>
+    <updated>2026-08-17T14:20:32.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 SMP Improvement To Help Reduce Latency, Improve Real-Time Performance]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-SMP</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-SMP"/>
+        <updated>2026-08-17T14:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Among the pull requests sent out today now that the Linux 7.3 merge window is open are the SMP improvements for this next kernel version. Standing out among the SMP code are some enhancements for helping reduce latency and ultimately enhancing real-time Linux performance...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Rabbit 1 Canary 1 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2026/08/android-studio-rabbit-1-canary-1-now.html</id>
+        <link href="https://androidstudio.googleblog.com/2026/08/android-studio-rabbit-1-canary-1-now.html"/>
+        <updated>2026-08-17T14:06:36.444Z</updated>
+        <summary type="html"><![CDATA[Android Studio Rabbit 1 Canary 1 is now available in the Canary channel.
+If you already have an Android Studio build on the Canary channel,
+you can get the update by clicking Help > Check for Updates (or Android Studio > Check
+for Updates on macOS). Otherwise, you can download it here.
+For information on new features and changes in Android Studio Rabbit 1, see the Android Studio Preview release notes.
+
+
+General fixes and features
+Below is a list of general fixes in Android Studio Rabbit 1 Canary 1 and Android Gradle Plugin 9.5.0-alpha01. These are a result of your bug
+reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
+you.
+
+  
+    
+Fixed Issues
+    
+Android Gradle Plugin
+      
+        
+
+          
+            
+
+              
+Issue #533547933
+Add a test that validate relocation does not affect task execution
+
+          
+        
+
+      
+    
+Baseline Profiles & ProfileInstaller
+      
+        
+
+          
+            
+
+              
+Issue #543799367
+Baseline profile is pulled off the device but never registered in test-result.pb, so collectBaselineProfile finds nothing and copyBaselineProfileIntoSrc deletes the committed profile
+
+          
+        
+
+      
+    
+Compose Preview Screenshot Testing
+      
+        
+
+          
+            
+
+              
+Issue #538484834
+Compose Preview Screenshot Testing (alpha15): renderer fails on all previews with IncompatibleClassChangeError: <pkg>.R and <pkg>.R$attr disagree on InnerClasses attribute 
+
+          
+        
+
+      
+    
+Gemini
+      
+        
+
+          
+            
+
+              
+Issue #540709807
+S0 CRITICAL: Data Loss - AI Agent executed malformed shell command deleting drive contents
+
+          
+        
+
+      
+    
+Profilers
+      
+        
+
+          
+            
+
+              
+Issue #347764600
+TabbedToolbarTest.noCloseButtonWhenNoListener() broken]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boardroom beat-em-up Stick It to the Stickman punches its way out of early access next month, complete with neurolinkage and an "absolutely absurd finale"]]></title>
+        <id>https://www.rockpapershotgun.com/boardroom-beat-em-up-stick-it-to-the-stickman-punches-its-way-out-of-early-access-next-month-complete-with-neurolinkage-and-an-absolutely-absurd-finale</id>
+        <link href="https://www.rockpapershotgun.com/boardroom-beat-em-up-stick-it-to-the-stickman-punches-its-way-out-of-early-access-next-month-complete-with-neurolinkage-and-an-absolutely-absurd-finale"/>
+        <updated>2026-08-17T14:01:07.000Z</updated>
+        <summary type="html"><![CDATA[Fetch your finest presentation materials about lines on graphs going upwards and proceed to try and beat your colleagues to death with them. Stick It to the Stickman, the roguelite beat ’em up which Anger Foot devs Free Lives have been bashing into shape for a year and a bit is set to emerge from early access on September 23rd.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Studio Quail 4 RC 1 now available]]></title>
+        <id>https://androidstudio.googleblog.com/2026/08/android-studio-quail-4-rc-1-now.html</id>
+        <link href="https://androidstudio.googleblog.com/2026/08/android-studio-quail-4-rc-1-now.html"/>
+        <updated>2026-08-17T13:53:08.868Z</updated>
+        <summary type="html"><![CDATA[Android Studio Quail 4 RC 1 is now available in the Beta channel.
+If you already have an Android Studio build on the Beta channel,
+you can get the update by clicking Help > Check for Updates (or Android Studio > Check
+for Updates on macOS). Otherwise, you can download it here.
+For information on new features and changes in Android Studio Quail 4, see the Android Studio Preview release notes.
+
+For details of bugs fixed in each previous release of Android Studio Quail 4, see
+closed issues.
+General fixes and features
+Below is a list of general fixes in Android Studio Quail 4 RC 1 and Android Gradle Plugin 9.4.0-rc01. These are a result of your bug
+reports, which help us to make Android Studio better. If you encounter a problem, let us know by reporting a bug. You can also vote for an existing issue to indicate that it also affects
+you.
+
+  
+    
+Fixed Issues
+    
+Gemini
+      
+        
+
+          
+            
+
+              
+Issue #540709807
+S0 CRITICAL: Data Loss - AI Agent executed malformed shell command deleting drive contents]]></summary>
+        <author>
+            <name>Android Studio Release Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Terminates Stonks-9800 Dev’s Publisher Agreement Without Warning, 14 Titles Set To Disappear In Under A Week]]></title>
+        <id>https://kotaku.com/?p=2000724952</id>
+        <link href="https://kotaku.com/stonks-9800-playstation-store-sony-ternox-games-shovelware-2000724952"/>
+        <updated>2026-08-17T13:46:50.000Z</updated>
+        <summary type="html"><![CDATA['PlayStation Support refuses to listen to my arguments or even respond to my emails in any way,' stated Ternox Games]]></summary>
+        <author>
+            <name>Lewis Parker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sraëka Lillian's one-a-week RPG "sketches" are a lovely series of experiments with hoary old conventions from Final Fantasy and Dragon Quest]]></title>
+        <id>https://www.rockpapershotgun.com/sraeka-lillians-one-a-week-rpg-sketches-are-a-lovely-series-of-experiments-with-hoary-old-conventions-from-final-fantasy-and-dragon-quest</id>
+        <link href="https://www.rockpapershotgun.com/sraeka-lillians-one-a-week-rpg-sketches-are-a-lovely-series-of-experiments-with-hoary-old-conventions-from-final-fantasy-and-dragon-quest"/>
+        <updated>2026-08-17T13:39:43.000Z</updated>
+        <summary type="html"><![CDATA[There's a running joke in the world of THEA-TAH that Shakespeare's Hamlet is a play made up entirely of quotations. I often get the same feeling when I play a fantasy RPG, and especially a fantasy RPG created with toolkits such as EasyRPG or RPG Maker that come with their own freely reusable assets, resulting in a slew of homebrew RPGs that can seem interchangeable, on the surface.
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom Hearts Fans Watched History This Weekend, And Now It’s Taken On A More Tragic Poignance]]></title>
+        <id>https://kotaku.com/?p=2000724967</id>
+        <link href="https://kotaku.com/kingdom-hearts-d23-sora-riku-hayden-panettiere-kairi-death-2000724967"/>
+        <updated>2026-08-17T13:15:15.000Z</updated>
+        <summary type="html"><![CDATA[Sora and Riku finally shared a stage, and a day later, the original voice of Kairi died at 36]]></summary>
+        <author>
+            <name>Kenneth Shepard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 154 Now Available With "Manage AI" Quick Action]]></title>
+        <id>https://www.phoronix.com/news/Firefox-154-Released</id>
+        <link href="https://www.phoronix.com/news/Firefox-154-Released"/>
+        <updated>2026-08-17T13:01:22.000Z</updated>
+        <summary type="html"><![CDATA[Firefox 154 is now available as the newest monthly update bringing a few new features, enhancements, and other alterations to this open-source web browser...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dragon Ball Super Vol. 19 Alternate Cover Sorta Gives Us Our First Canon Glimpse Of Vegeta’s Mother]]></title>
+        <id>https://kotaku.com/?p=2000724948</id>
+        <link href="https://kotaku.com/dragon-ball-super-vol-19-alternate-cover-gives-us-our-sorta-first-canon-glimpse-of-vegetas-mother-2000724948"/>
+        <updated>2026-08-17T12:45:50.000Z</updated>
+        <summary type="html"><![CDATA[It's been almost 40 years since Vegeta's first appearance, and we only just got our first, very obscured look at his mom]]></summary>
+        <author>
+            <name>Lewis Parker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Con Kolivas se vrací s plánovačem MuQSS]]></title>
+        <id>www.root.cz-actuality-53184</id>
+        <link href="https://www.root.cz/zpravicky/con-kolivas-se-vraci-s-planovacem-muqss/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-08-17T12:41:41.000Z</updated>
+        <summary type="html"><![CDATA[Patrně si pamatujete vývojáře Con Kolivase, který dlouhou dobu dodával jaderné patche označené -ck. Taková jádra byla s oblibou používána na desktopech a při hraní her kvůli lepší odezvě a latenci. Toho se dosahovalo také plánovačem BFS (Brain Fuck Scheduler) a později méně ofenzivním názvem MuQSS (Multiple Queue Skiplist Scheduler). Con přestal patche dodávat v roce 2021, kvůli pracovní vytíženosti.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watermarking u Claude Code je tu]]></title>
         <id>www.root.cz-actuality-53181</id>
@@ -20,7 +238,7 @@
         <id>www.root.cz-actuality-53178</id>
         <link href="https://www.root.cz/zpravicky/slovensko-si-z-ioi-2026-taskent-uzb-donieslo-3-medaily-striebro-2x-bronz-cestne-uznanie-cesko-4x-bronz/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2026-08-17T12:18:01.000Z</updated>
-        <summary type="html"><![CDATA[V dňoch 9.-16.2026 sa v uzbeckom 🇺🇿 Taškente konal 38. ročník medzinárodnej olympiády v informatike IOI 2026. Zúčastnilo sa ho 375 súťažiacich z 92 krajín.]]></summary>
+        <summary type="html"><![CDATA[V dňoch 9.-16.2026 sa v uzbeckom Taškente konal 38. ročník medzinárodnej olympiády v informatike IOI 2026. Zúčastnilo sa ho 375 súťažiacich z 92 krajín.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: RKB)</name>
         </author>
@@ -305,7 +523,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Foundational Freeware Indie Metroidvania Knytt Remade For Its 20th Anniversary]]></title>
+        <title type="html"><![CDATA[Foundational Freeware Indie Metroidvania Knytt Gets Surprise Remake For Its 20th Anniversary]]></title>
         <id>https://kotaku.com/?p=2000724793</id>
         <link href="https://kotaku.com/foundational-freeware-indie-metroidvania-knytt-remade-for-its-20th-anniversary-2000724793"/>
         <updated>2026-08-16T20:51:14.000Z</updated>
@@ -325,7 +543,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3D Model Markets Are Being Flooded With AI Sellers But No One’s Buying]]></title>
+        <title type="html"><![CDATA[3D Model Markets Are Being Flooded With AI Sellers, But No One’s Buying]]></title>
         <id>https://kotaku.com/?p=2000724790</id>
         <link href="https://kotaku.com/3d-model-markets-are-being-flooded-with-ai-sellers-but-no-ones-buying-2000724790"/>
         <updated>2026-08-16T20:04:11.000Z</updated>
@@ -335,7 +553,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Insomniac Staff Blame Social Media Feedback Loops For Overnight Wolverine Hate]]></title>
+        <title type="html"><![CDATA[Insomniac Devs Blame Social Media Feedback Loops For Sudden Wolverine Hate]]></title>
         <id>https://kotaku.com/?p=2000724780</id>
         <link href="https://kotaku.com/insomniac-staff-blame-social-media-feedback-loops-for-overnight-wolverine-hate-2000724780"/>
         <updated>2026-08-16T19:11:50.000Z</updated>
@@ -354,7 +572,7 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Now It Will Be Sonic Who Gets To Have A Gun In Latest Fortnite Update]]></title>
+        <title type="html"><![CDATA[Now Sonic Is Getting A Gun In Fortnite As ‘Gaming Legends’ From Mega Man, Spyro, Persona And More Arrive]]></title>
         <id>https://kotaku.com/?p=2000724774</id>
         <link href="https://kotaku.com/now-it-will-be-sonic-who-gets-to-have-a-gun-in-latest-fortnite-update-2000724774"/>
         <updated>2026-08-16T17:55:42.000Z</updated>
@@ -541,7 +759,7 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Saber CEO Apologizes To Lead Writer Replaced With ChatGPT After Weeklong Crashout]]></title>
+        <title type="html"><![CDATA[Saber CEO Apologizes To Rideshare Writer Involved In AI Controversy After Weeklong Crashout]]></title>
         <id>https://kotaku.com/?p=2000724730</id>
         <link href="https://kotaku.com/saber-ceo-apologizes-to-lead-writer-replaced-with-chatgpt-after-weeklong-crashout-2000724730"/>
         <updated>2026-08-15T23:54:05.000Z</updated>
@@ -618,7 +836,7 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Teenage Sex and Death at Camp Miasma Wants To Have Its Cake And Splatter It Too]]></title>
+        <title type="html"><![CDATA[Teenage Sex And Death At Camp Miasma Wants To Have Its Cake And Splatter It Too]]></title>
         <id>https://kotaku.com/?p=2000724725</id>
         <link href="https://kotaku.com/teenage-sex-and-death-at-camp-miasma-wants-to-have-its-cake-and-splatter-it-too-2000724725"/>
         <updated>2026-08-15T19:31:42.000Z</updated>
@@ -1013,26 +1231,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Surprising Overwatch Hero Wants Roadhog’s Whole Hog]]></title>
-        <id>https://kotaku.com/?p=2000724531</id>
-        <link href="https://kotaku.com/overwatch-roadhog-venture-season-4-banter-ship-relationship-2000724531"/>
-        <updated>2026-08-14T19:37:49.000Z</updated>
-        <summary type="html"><![CDATA[‘Do you think love can bloom, even on the payload?’]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Think Kingdom Hearts Is Going To Change The World]]></title>
-        <id>https://kotaku.com/?p=2000724470</id>
-        <link href="https://kotaku.com/i-think-kingdom-hearts-is-going-to-change-the-world-2000724470"/>
-        <updated>2026-08-14T18:49:46.000Z</updated>
-        <summary type="html"><![CDATA[Final Fantasy's unthinkable crossover with Disney might just be the tip of the iceberg]]></summary>
-        <author>
-            <name>Moises Taveras</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Omarchy 4.0 Linux Distro Released With Desktop Shell Now Implemented Via Quickshell]]></title>
         <id>https://www.phoronix.com/news/Omarchy-4.0-Released</id>
         <link href="https://www.phoronix.com/news/Omarchy-4.0-Released"/>
@@ -1064,16 +1262,6 @@ Read the full article on nintendolife.com]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World Of Warcraft Players Claim Their Characters Keep Fighting Bosses On Their Own After Disconnecting]]></title>
-        <id>https://kotaku.com/?p=2000724514</id>
-        <link href="https://kotaku.com/world-of-warcraft-players-claim-their-characters-keep-fighting-bosses-on-their-own-after-disconnecting-2000724514"/>
-        <updated>2026-08-14T17:23:40.000Z</updated>
-        <summary type="html"><![CDATA['Suuuper weird']]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
         </author>
     </entry>
     <entry>
@@ -1437,16 +1625,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD GAIA 0.23 Delivers Ability To Install/Run AI Agents From The Terminal]]></title>
-        <id>https://www.phoronix.com/news/AMD-GAIA-0.23</id>
-        <link href="https://www.phoronix.com/news/AMD-GAIA-0.23"/>
-        <updated>2026-08-14T00:33:01.000Z</updated>
-        <summary type="html"><![CDATA[AMD's GAIA open-source AI software built atop Lemonade for serving as an AI companion for emails, a Bash coding agent, and other AI agent skills is out with a new version today with more features while also improving security and making other improvements...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Týden na ScienceMag.cz: Čeští vědci spouštějí první projekty na kvantovém počítači VLQ]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-cesti-vedci-spousteji-prvni-projekty-na-kvantovem-pocitaci-vlq</id>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-sciencemag.cz-cesti-vedci-spousteji-prvni-projekty-na-kvantovem-pocitaci-vlq"/>
@@ -1693,16 +1871,6 @@ CVE-2026-45988, CVE-2026-46043, CVE-2026-46119, CVE-2026-46243)]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE, Techpaladin & Kubuntu Focus Announce The Bullet-Proof KDE Software Initiative]]></title>
-        <id>https://www.phoronix.com/news/KDE-Bullet-Proof-Software</id>
-        <link href="https://www.phoronix.com/news/KDE-Bullet-Proof-Software"/>
-        <updated>2026-08-13T20:08:00.000Z</updated>
-        <summary type="html"><![CDATA[KDE e.V. along with Linux PC vendor Kubuntu Focus and KDE-aligned consulting firm Techpaladin Software have announced a collaboration of the "bullet-proof KDE Software initiative" for providing at least three years of bug fixes and security updates to KDE Plasma 6.6 LTS and related software...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2743,16 +2911,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hra zdarma Knytt Classic]]></title>
-        <id>www.root.cz-actuality-53109</id>
-        <link href="https://www.root.cz/zpravicky/hra-zdarma-knytt-classic/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-08-10T13:53:55.000Z</updated>
-        <summary type="html"><![CDATA[Indie 2D platformová skákačka Knytt slaví 20. výročí a byla dnes znovu vydána jako Knytt Classic zdarma na Steamu i na GOG.com. Nativně je podporován Linux, macOS i Windows.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[This week in PC games: GoldenEye returns (sort of), plus janky arcade football, ballpoint cities, and a game about keeping the monsters inside Area 51]]></title>
         <id>https://www.rockpapershotgun.com/this-week-in-pc-games-goldeneye-returns-sort-of-plus-janky-arcade-football-ballpoint-cities-and-a-game-about-keeping-the-monsters-inside-area-51</id>
         <link href="https://www.rockpapershotgun.com/this-week-in-pc-games-goldeneye-returns-sort-of-plus-janky-arcade-football-ballpoint-cities-and-a-game-about-keeping-the-monsters-inside-area-51"/>
@@ -3649,28 +3807,6 @@ If you’ve been waiting, then, for Amplitude to get their UI fixes and shame-in
 Read more]]></summary>
         <author>
             <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assassins Creed Black Flag Resynced's Kraken wheel will no longer be "wheely expensive" following the latest update, which will also teach you how to throw cash]]></title>
-        <id>https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-kraken-wheel-will-no-longer-be-wheely-expensive-following-the-latest-update-which-will-also-teach-you-how-to-throw-cash</id>
-        <link href="https://www.rockpapershotgun.com/assassins-creed-black-flag-resynceds-kraken-wheel-will-no-longer-be-wheely-expensive-following-the-latest-update-which-will-also-teach-you-how-to-throw-cash"/>
-        <updated>2026-08-04T10:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Is that a blowpipe on your back or are you just happy to see me. Ah, it isn't a blowpipe, because you've used the latest in an ongoing flow of Assassin’s Creed Black Flag Resynced updates to hide your blowpipe so it doesn't ruin your outfit. No, I don't want you to throw me some money to make up for that joke not working, now that you've actually been through the tutorial for that mechanic and aren't saving up for an overpriced ship wheel.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft will let devs bring more Xbox 360 games to PC in the coming years via backwards compatibility, leaked document suggests]]></title>
-        <id>https://www.rockpapershotgun.com/microsoft-will-let-devs-bring-more-xbox-360-games-to-pc-in-the-coming-years-via-backwards-compatibility-leaked-document-suggests</id>
-        <link href="https://www.rockpapershotgun.com/microsoft-will-let-devs-bring-more-xbox-360-games-to-pc-in-the-coming-years-via-backwards-compatibility-leaked-document-suggests"/>
-        <updated>2026-08-04T09:27:51.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft, they of the recent mass layoffs and reported Israeli military links, are reportedly set to offer devs a chance to bring their Xbox 360 games to PC as part of an ongoing backwards compatibility push.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
         </author>
     </entry>
     <entry>
