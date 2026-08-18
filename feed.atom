@@ -1,10 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T22:17:20.502Z</id>
+    <id>urn:2026-08-18T00:52:11.653Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-17T22:17:20.502Z</updated>
+    <updated>2026-08-18T00:52:11.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EFS & FreeVxFS File-Systems Get Booted While FailFS Merged For Linux 7.3]]></title>
+        <id>https://www.phoronix.com/news/Linux-File-System-Changes-7.3</id>
+        <link href="https://www.phoronix.com/news/Linux-File-System-Changes-7.3"/>
+        <updated>2026-08-18T00:29:44.000Z</updated>
+        <summary type="html"><![CDATA[Among the early pull requests merged today by Linus Torvalds for the Linux 7.3 kernel cycle were removal of some ancient file-systems while adding in a new pseudo file-system...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reshiram, Zekrom, Unown, Drifloon from “30th Celebration” Revealed!]]></title>
+        <id>156983</id>
+        <link href="https://www.pokebeach.com/forums/threads/reshiram-zekrom-unown-drifloon-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.156983/"/>
+        <updated>2026-08-17T23:34:58.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU poke 5.0]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/gnu-poke-5.0</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/gnu-poke-5.0"/>
+        <updated>2026-08-17T22:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Interaktivní editor binárních dat GNU poke byl vydán ve verzi 5.0 (seznam změn).]]></summary>
+        <author>
+            <name>|&amp;#x1f1f5;&amp;#x1f1f8;</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fan-Favorite Star Trek FPS Had To Change Its Plot After 9/11: ‘We Actually Had A Shuttle Fly Into a Building’]]></title>
         <id>https://kotaku.com/?p=2000725110</id>
@@ -23,15 +52,6 @@
         <summary type="html"><![CDATA[Jazyk Lua je postaven dynamickém typovém systému, v němž jsou typy vztaženy k hodnotám a nikoli k proměnným či parametrům funkcí. Pro rozsáhlejší projekty je však výhodnější využívat statické typové kontroly.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reshiram, Zekrom, Unown, Drifloon from “30th Celebration” Revealed!]]></title>
-        <id>156983</id>
-        <link href="https://www.pokebeach.com/forums/threads/reshiram-zekrom-unown-drifloon-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.156983/"/>
-        <updated>2026-08-17T21:54:39.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -274,6 +294,49 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Back in March were patches posted by ARCTIC Cooling for an ARCTIC fan controller driver for Linux. Typically we aren't used to seeing desktop/enthusiast focused vendors providing such Linux drivers for peripherals directly but the sad fact is most often it's left up to the open-source community to reverse engineer and create such drivers for Linux. Making it all the more surprising besides it coming from ARCTIC Cooling directly was that at the time they didn't even have a fan controller product with USB interface. Well, now it's launched and in turn is a great USB fan controller for Linux systems and retails for just $9 USD.]]></summary>
         <author>
             <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8639-1: libpng vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8639-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8639-1"/>
+        <updated>2026-08-17T16:46:16.000Z</updated>
+        <summary type="html"><![CDATA[Patrick Keshishian discovered that libpng incorrectly handled certain
+text chunks. An attacker could possibly use this issue to cause a denial of
+service. This issue only affected Ubuntu 16.04 LTS. (CVE-2016-10087)
+
+It was discovered that libpng incorrectly handled certain malformed
+images. An attacker could possibly use this issue to cause a denial of
+service. This issue only affected Ubuntu 18.04 LTS. (CVE-2018-14048)
+
+It was discovered that libpng incorrectly handled memory when freeing
+certain images. An attacker could possibly use this issue to cause
+a denial of service. This issue only affected Ubuntu 16.04 LTS.
+(CVE-2019-7317)
+
+It was discovered that libpng incorrectly handled memory when
+processing certain images. An attacker could possibly use this issue
+to cause a denial of service, or execute arbitrary code. This issue only
+affected Ubuntu 14.04 LTS, Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, and Ubuntu
+20.04 LTS. (CVE-2026-33416)
+
+It was discovered that libpng incorrectly handled certain images. An
+attacker could possibly use this issue to cause a denial of service or
+execute arbitrary code. This issue only affected Ubuntu 20.04 LTS.
+(CVE-2026-33636)
+
+It was discovered that libpng incorrectly handled memory when
+processing certain images. An attacker could possibly use this issue
+to cause a denial of service or obtain sensitive information. This issue
+only affected Ubuntu 14.04 LTS, Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, and
+Ubuntu 20.04 LTS. (CVE-2026-34757)
+
+Seung Min Shin discovered that libpng incorrectly handled certain
+animated images. An attacker could possibly use this issue to cause
+libpng to misinterpret image data. This issue only affected Ubuntu
+20.04 LTS and Ubuntu 22.04 LTS. (CVE-2026-40930)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1539,16 +1602,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omarchy 4.0 Linux Distro Released With Desktop Shell Now Implemented Via Quickshell]]></title>
-        <id>https://www.phoronix.com/news/Omarchy-4.0-Released</id>
-        <link href="https://www.phoronix.com/news/Omarchy-4.0-Released"/>
-        <updated>2026-08-14T18:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Omarchy as the Arch Linux distribution developed by David Heinemeier Hansson "DHH" / Basecamp is out today with Omarchy 4.0 as the distro's biggest release to date...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Review: Punk Workshop FightStick G01 Arcade Stick For Switch 1 & 2 - Quite Simply One Of The Best]]></title>
         <id>https://www.nintendolife.com/#article-204952</id>
         <link href="https://www.nintendolife.com/reviews/punk-workshop-fightstick-g01-arcade-stick-for-switch-1-and-2-quite-simply-one-of-the-best"/>
@@ -1647,16 +1700,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[V úterý vyšlo OpenSSH ve verzi 10.5. Stejně jako všechny ostatní softwarové projekty dostávají poslední dobou velké množství hlášení o bezpečnostních chybách nalezených s pomocí AI nástrojů. I když většina těchto chyb nemá reálný bezpečnostní dopad, tým OpenSSH tato hlášení vítá. Stejné chyby totiž může odhalit pomocí AI i někdo s nekalými úmysly.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prusa XL+, CORE One+ (Gen 2) a CORE One L+]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/prusa-xlplus-core-oneplus-gen-2-a-core-one-lplus</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/prusa-xlplus-core-oneplus-gen-2-a-core-one-lplus"/>
-        <updated>2026-08-14T12:37:04.000Z</updated>
-        <summary type="html"><![CDATA[Prusa Research představil nové modely svých 3D tiskáren: Prusa XL+, CORE One+ (Gen 2) a CORE One L+.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2094,34 +2137,6 @@ security restrictions being bypassed. This issue only affected Ubuntu
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8637-1: Linux kernel (OEM) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8637-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8637-1"/>
-        <updated>2026-08-13T17:59:27.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - InfiniBand drivers;
-  - Network drivers;
-  - Thunderbolt and USB4 drivers;
-  - Network traffic control;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Netfilter;
-  - RxRPC session sockets;
-  - SCTP protocol;
-(CVE-2026-46331, CVE-2026-52924, CVE-2026-53131, CVE-2026-53146,
-CVE-2026-53147, CVE-2026-53148, CVE-2026-53149, CVE-2026-53150,
-CVE-2026-53151, CVE-2026-53175, CVE-2026-53176, CVE-2026-53186,
-CVE-2026-53212, CVE-2026-53215, CVE-2026-53216, CVE-2026-53221,
-CVE-2026-53224, CVE-2026-53225, CVE-2026-53228, CVE-2026-53246,
-CVE-2026-53247, CVE-2026-53260, CVE-2026-53359)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
