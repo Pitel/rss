@@ -1,10 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T12:32:25.404Z</id>
+    <id>urn:2026-08-18T14:25:46.248Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-18T12:32:25.404Z</updated>
+    <updated>2026-08-18T14:25:46.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The CachyOS Performance vs. Other Linux Operating Systems On A $46k USD Workstation]]></title>
+        <id>https://www.phoronix.com/review/cachyos-hp-z4g6i</id>
+        <link href="https://www.phoronix.com/review/cachyos-hp-z4g6i"/>
+        <updated>2026-08-18T14:18:06.000Z</updated>
+        <summary type="html"><![CDATA[Recently I looked at the performance of Ubuntu 26.04 LTS vs. Windows 11 on the Intel Xeon 678X running within the HP Z4 G6i workstation. Linux performed admirably as one would expect. With this Intel Xeon Granite Rapids WS workstation from HP though commanding a retail price more than $46,000 USD, you likely want nothing but the utmost performance out of it. So for those looking to maximize the OS performance, here are some numbers from the HP Z4 G6i workstation when running not only Ubuntu 26.04 LTS but also Fedora Workstation 44, AlmaLinux, and the performance-optimized CachyOS.]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘No Disc No Buy’ Protesters Bombarded Sony’s Showcase For Phantom Blade Zero]]></title>
+        <id>https://kotaku.com/?p=2000725318</id>
+        <link href="https://kotaku.com/phantom-blade-zero-sony-playstation-no-disc-no-buy-protest-2000725318"/>
+        <updated>2026-08-18T14:04:33.000Z</updated>
+        <summary type="html"><![CDATA[The live chat, and then the post-stream comments, were of one furious voice]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 154 zrychluje posouvání ve videích]]></title>
+        <id>www.root.cz-actuality-53190</id>
+        <link href="https://www.root.cz/zpravicky/firefox-154-zrychluje-posouvani-ve-videich/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-08-18T13:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Byl vydán nový Firefox s řadou inovací. Předně funkcionalita ochrany Local Network Access se nyní rozšiřuje i na spojení typu WebSocket – stránky takové spojení iniciující musejí nejprve dostat souhlas uživatele. Ve Smart Window nyní Firefox umí doporučit skupinu pro daný panel, včetně názvů těchto skupin.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: David Ježek)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust For Linux 7.3 Begins Seeing Fixes To Prepare For Rust's GCC Backend]]></title>
+        <id>https://www.phoronix.com/news/Rust-For-Linux-7.3</id>
+        <link href="https://www.phoronix.com/news/Rust-For-Linux-7.3"/>
+        <updated>2026-08-18T13:21:00.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the POWER/PowerPC code adding Rust kernel support, the main set of Rust programming language updates for the Linux 7.3 kernel have now been submitted. Most notable are early fixes toward eventually allowing the experimental Rust GCC back-end to be used as an alternative to the official rustc compiler with LLVM code generation...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reshiram, Zekrom, Unown, Drifloon from “30th Celebration” Revealed!]]></title>
+        <id>156983</id>
+        <link href="https://www.pokebeach.com/forums/threads/reshiram-zekrom-unown-drifloon-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.156983/"/>
+        <updated>2026-08-18T13:07:49.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8642-1: c3p0 vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8642-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8642-1"/>
+        <updated>2026-08-18T13:02:22.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that c3p0 was vulnerable to remote code execution via maliciously
+crafted serialized objects and JNDI references. An attacker could use this to
+execute arbitrary code, bypass security restrictions, or cause a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 Corrects Faulty Behavior Of FAT File-System Driver For Filenames Too Fat]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-FAT</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-FAT"/>
+        <updated>2026-08-18T12:53:57.000Z</updated>
+        <summary type="html"><![CDATA[It's not too often that the Linux FAT driver for FAT12/FAT16/FAT32 format support receives updates worth mentioning. For Linux 7.3 there is one patch though and it's due to the driver until now lacking an upper-bounds check on the length of the filename, which could lead to some unexpected situations with extremely long filenames...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Official Magazine 168]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/raspberry-pi-official-magazine-168</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/raspberry-pi-official-magazine-168"/>
+        <updated>2026-08-18T12:34:30.000Z</updated>
+        <summary type="html"><![CDATA[Nové číslo časopisu Raspberry Pi zdarma ke čtení: Raspberry Pi Official Magazine 168 (pdf).]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rather than calling for GTA 6 boycott, fired Rockstar workers urge players to support them in their legal battle against the studio by buying union merch]]></title>
         <id>https://www.rockpapershotgun.com/rather-than-calling-for-gta-6-boycott-fired-rockstar-workers-urge-players-to-support-them-in-their-legal-battle-against-the-studio-by-buying-union-merch</id>
@@ -37,15 +118,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Jdu pozdě! Skellywave je totiž další nová hra pro DOS, jenže zatímco vznikla už začátkem letošního roku, já ji objevil až teď, čímž jsem vás ochudil o herní zážitek a nepředpokládám, že mi to zaváhání odpustíte :( Skellywave vytvořil autor vystupující jako Optimus6128 během pouhých tří týdnů v rámci akce CGA Game Jam 2026.]]></summary>
         <author>
             <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reshiram, Zekrom, Unown, Drifloon from “30th Celebration” Revealed!]]></title>
-        <id>156983</id>
-        <link href="https://www.pokebeach.com/forums/threads/reshiram-zekrom-unown-drifloon-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.156983/"/>
-        <updated>2026-08-18T11:39:20.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -951,16 +1023,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kingdom Hearts Fans Watched History This Weekend, And Now It’s Taken On A More Tragic Poignance]]></title>
-        <id>https://kotaku.com/?p=2000724967</id>
-        <link href="https://kotaku.com/kingdom-hearts-d23-sora-riku-hayden-panettiere-kairi-death-2000724967"/>
-        <updated>2026-08-17T13:15:15.000Z</updated>
-        <summary type="html"><![CDATA[Sora and Riku finally shared a stage, and a day later, the original voice of Kairi died at 36]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Firefox 154 Now Available With "Manage AI" Quick Action]]></title>
         <id>https://www.phoronix.com/news/Firefox-154-Released</id>
         <link href="https://www.phoronix.com/news/Firefox-154-Released"/>
@@ -1612,26 +1674,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Francouzská Ústavní rada zamítla zákaz sociálních sítí dětem mladším 15 let]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/francouzska-ustavni-rada-zamitla-zakaz-socialnich-siti-detem-mladsim-15-let</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/francouzska-ustavni-rada-zamitla-zakaz-socialnich-siti-detem-mladsim-15-let"/>
-        <updated>2026-08-15T11:38:40.000Z</updated>
-        <summary type="html"><![CDATA[Francouzská Ústavní rada zamítla zákaz používání sociálních sítí dětem mladším 15 let. Francouzská obdoba ústavního soudu uvedla, že opatření představuje nepřiměřený zásah do svobody projevu. Francouzský parlament zákaz schválil na konci července, začít platit měl od září. Šlo o první zákaz sociálních sítí pro děti v Evropě. Členové Ústavní rady se domnívají, že ustanovení „představuje zásah, který není přiměřený, nezbytný ani úměrný“ svobodě projevu a komunikace. Ačkoli uznávají ústavní požadavek na ochranu nejlepších zájmů dítěte, v dnešním rozhodnutí poukazují na skutečnost, že tento velmi široký zákaz „se může vztahovat na služby on-line komunikace, u nichž nejsou prokázána rizika pro zdraví a bezpečnost nezletilých“.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Late Sound Fixes For Linux 7.2 Bring More Device Quirks, Intel Nova Lake HDMI-In Capture]]></title>
-        <id>https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2</id>
-        <link href="https://www.phoronix.com/news/Last-Sound-Fixes-Linux-7.2"/>
-        <updated>2026-08-15T11:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of the presumed Linux 7.2 stable kernel release tomorrow, some last minute sound fixes/quirks have been merged for this next kernel version...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ztracená DOSová hra VITO: The New Adventure vyšla po 30 letech]]></title>
         <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62144</id>
         <link href="https://www.high-voltage.cz/sortky/ztracena-dosova-hra-vito-the-new-adventure-vysla-po-30-letech/"/>
@@ -1639,16 +1681,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Máme tu další novou hru pro DOS! Tedy novou..]]></summary>
         <author>
             <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 6.8 To Allow Fine-Tuning Mouse/Touchpad Speeds]]></title>
-        <id>https://www.phoronix.com/news/Plasma-6.8-Tune-Mouse-Speeds</id>
-        <link href="https://www.phoronix.com/news/Plasma-6.8-Tune-Mouse-Speeds"/>
-        <updated>2026-08-15T10:51:30.000Z</updated>
-        <summary type="html"><![CDATA[KDE developers continue to be quite busy this summer baking improvements for the upcoming Plasma 6.8 desktop release. This Week in Plasma is out with its newest issue to outline all of these interesting enhancements...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -1759,16 +1791,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[V úterý vyšel Flatpak ve stabilní verzi 1.18.1 a pre-release verzi 1.19. V obou je opraveno zhruba deset závažných chyb. Nejhorší je únik ze sandboxu s plným přístupem k souborům hostitele a možností spuštění kódu přímo pod hostitelem.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 7.1, Linux 7.2 Performance On The Intel Xeon 600 Series]]></title>
-        <id>https://www.phoronix.com/review/intel-xeon-6-linux-72</id>
-        <link href="https://www.phoronix.com/review/intel-xeon-6-linux-72"/>
-        <updated>2026-08-14T15:18:11.000Z</updated>
-        <summary type="html"><![CDATA[With Linux 7.2 expected for its stable release this weekend, today's testing has some additional testing of the Linux 7.2 Git kernel as well as Linux 7.1 stable compared to Linux 7.0 as used by default on Ubuntu 26.04 LTS. Phoronix testing previously conducted of Linux 7.2 have shown benefits for Intel Arc B390 Xe3 in some configurations, faster poll performance on AMD Ryzen Threadripper and other hardware, and some nice I/O performance gains on AMD EPYC Turin. Today's kernel benchmarks are with the Intel Xeon 678X Granite Rapids WS currently in the lab as part of the HP Z4 G6i workstation testing.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2156,41 +2178,6 @@ Read more]]></summary>
         <updated>2026-08-13T19:53:39.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8638-1: Axios vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8638-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8638-1"/>
-        <updated>2026-08-13T19:31:14.000Z</updated>
-        <summary type="html"><![CDATA[Ameer Assadi discovered that Axios did not properly handle certain
-hostnames when applying NO_PROXY rules. An attacker could possibly use
-this issue to bypass proxy restrictions and access internal services,
-resulting in server-side request forgery. (CVE-2025-62718)
-
-It was discovered that Axios did not properly protect certain HTTP
-header values from prototype pollution. An attacker could possibly use
-this issue to inject malicious values into outbound requests, resulting
-in HTTP header injection. (CVE-2026-40175)
-
-Sachin Patil and Amol Patil discovered that Axios did not properly apply
-NO_PROXY rules to certain loopback addresses. An attacker could possibly
-use this issue to bypass proxy restrictions and access internal
-services, resulting in server-side request forgery. (CVE-2026-42043)
-
-Yu Bao discovered that Axios did not properly protect JSON response
-processing from prototype pollution. An attacker could possibly use this
-issue to modify values in application responses, resulting in
-authorization bypass or privilege escalation. This issue only affected
-Ubuntu 26.04 LTS. (CVE-2026-42044)
-
-It was discovered that Axios did not properly protect certain request
-configuration options from prototype pollution. An attacker could
-possibly use this issue to modify outbound HTTP requests, resulting in
-security restrictions being bypassed. This issue only affected Ubuntu
-24.04 LTS and Ubuntu 26.04 LTS. (CVE-2026-42264)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2971,16 +2958,6 @@ Read more]]></summary>
         <updated>2026-08-10T18:47:51.000Z</updated>
         <author>
             <name>PMJ</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django přechází na roční vydávání a číslování podle roku]]></title>
-        <id>www.root.cz-actuality-53112</id>
-        <link href="https://www.root.cz/zpravicky/django-prechazi-na-rocni-vydavani-a-cislovani-podle-roku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-08-10T18:18:54.000Z</updated>
-        <summary type="html"><![CDATA[Oblíbený webový framework Django pro Python přechází z poměrně složitého systému vydávání na vydávání jednou ročně. K tomu bude číslo verze obsahovat jednoduše rok vydání. První verzi pod novým systémem očekáváme v lednu 2028 a bude mít označení 2028.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
     </entry>
     <entry>
