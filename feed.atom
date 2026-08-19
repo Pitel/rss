@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T06:32:34.217Z</id>
+    <id>urn:2026-08-19T08:28:56.669Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-19T06:32:34.217Z</updated>
+    <updated>2026-08-19T08:28:56.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -21,7 +21,7 @@
         <updated>2026-08-19T06:05:00.000Z</updated>
         <summary type="html"><![CDATA[No Man's Sky is currently celebrating its 10th anniversary.
 No Man's Sky may not have launched in the best state, but over the last decade, Sean Murray and his team at Hello Games have continued to update the title with new content and features to improve the overall experience.
-During this time, the developer has also released the game on the Switch and Switch 2, and now to celebrate the game's 10-year milestone, there is a new trial available for Switch Online members located in Europe. From 20th August until 26th August, you'll be able to embark on an epic voyage for free.
+During this time, the developer has also released the game on the Switch and Switch 2, and now to celebrate the game's 10-year milestone, there is a new trial available for Switch Online members located in Europe. From 20th August until 26th August, you'll be able to embark on an epic space voyage for free.
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
@@ -730,6 +730,30 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-8641-1: .NET vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8641-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8641-1"/>
+        <updated>2026-08-18T15:02:43.000Z</updated>
+        <summary type="html"><![CDATA[Miha Zupan discovered that .NET did not properly interpret certain HTTP
+requests. An attacker could possibly use this issue to perform request
+smuggling and bypass a security feature. (CVE-2026-62899)
+
+Ivan Demchuk discovered that .NET did not properly handle the removal of
+sensitive information before storage or transfer. An attacker could possibly
+use this issue to disclose sensitive information. (CVE-2026-62900)
+
+Kevin Gosse discovered that .NET did not properly check an input for a loop
+condition. An attacker could possibly use this issue to cause a denial of
+service. (CVE-2026-62901)
+
+Kevin Gosse discovered that .NET did not properly perform error checking
+when securing shared resources used for diagnostics IPC. An attacker could
+possibly use this issue to elevate privileges. (CVE-2026-62909)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[A German Court Drew the Piracy Line at 81.5%, KinoGO Was Blocked with (at least) 82.4%]]></title>
         <id>https://torrentfreak.com/?p=280187</id>
         <link href="https://torrentfreak.com/a-german-court-drew-the-piracy-line-at-81-5-kinogo-was-blocked-with-at-least-82-4/"/>
@@ -1233,49 +1257,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Back in March were patches posted by ARCTIC Cooling for an ARCTIC fan controller driver for Linux. Typically we aren't used to seeing desktop/enthusiast focused vendors providing such Linux drivers for peripherals directly but the sad fact is most often it's left up to the open-source community to reverse engineer and create such drivers for Linux. Making it all the more surprising besides it coming from ARCTIC Cooling directly was that at the time they didn't even have a fan controller product with USB interface. Well, now it's launched and in turn is a great USB fan controller for Linux systems and retails for just $9 USD.]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8639-1: libpng vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8639-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8639-1"/>
-        <updated>2026-08-17T16:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Patrick Keshishian discovered that libpng incorrectly handled certain
-text chunks. An attacker could possibly use this issue to cause a denial of
-service. This issue only affected Ubuntu 16.04 LTS. (CVE-2016-10087)
-
-It was discovered that libpng incorrectly handled certain malformed
-images. An attacker could possibly use this issue to cause a denial of
-service. This issue only affected Ubuntu 18.04 LTS. (CVE-2018-14048)
-
-It was discovered that libpng incorrectly handled memory when freeing
-certain images. An attacker could possibly use this issue to cause
-a denial of service. This issue only affected Ubuntu 16.04 LTS.
-(CVE-2019-7317)
-
-It was discovered that libpng incorrectly handled memory when
-processing certain images. An attacker could possibly use this issue
-to cause a denial of service, or execute arbitrary code. This issue only
-affected Ubuntu 14.04 LTS, Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, and Ubuntu
-20.04 LTS. (CVE-2026-33416)
-
-It was discovered that libpng incorrectly handled certain images. An
-attacker could possibly use this issue to cause a denial of service or
-execute arbitrary code. This issue only affected Ubuntu 20.04 LTS.
-(CVE-2026-33636)
-
-It was discovered that libpng incorrectly handled memory when
-processing certain images. An attacker could possibly use this issue
-to cause a denial of service or obtain sensitive information. This issue
-only affected Ubuntu 14.04 LTS, Ubuntu 16.04 LTS, Ubuntu 18.04 LTS, and
-Ubuntu 20.04 LTS. (CVE-2026-34757)
-
-Seung Min Shin discovered that libpng incorrectly handled certain
-animated images. An attacker could possibly use this issue to cause
-libpng to misinterpret image data. This issue only affected Ubuntu
-20.04 LTS and Ubuntu 22.04 LTS. (CVE-2026-40930)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
