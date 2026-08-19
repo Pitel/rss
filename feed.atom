@@ -1,10 +1,73 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T18:24:13.332Z</id>
+    <id>urn:2026-08-19T20:19:17.181Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-19T18:24:13.332Z</updated>
+    <updated>2026-08-19T20:19:17.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Witcher 3 Dev Explains How Ultra Realistic NPCs Created Weird Problems: ‘Women Were Just Dropping Their Babies Left And Right’]]></title>
+        <id>https://kotaku.com/?p=2000725923</id>
+        <link href="https://kotaku.com/witcher-3-dev-explains-how-ultra-realistic-npcs-created-weird-problems-women-were-just-dropping-their-babies-left-and-right-2000725923"/>
+        <updated>2026-08-19T20:13:01.000Z</updated>
+        <summary type="html"><![CDATA[A commitment to realism had some unintended consequences]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8563-4: nginx regression]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8563-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-8563-4"/>
+        <updated>2026-08-19T19:30:43.000Z</updated>
+        <summary type="html"><![CDATA[USN-8563-3 fixed a vulnerability in nginx. The fix introduced a regression
+in certain environments. This update reverts the fix for CVE-2026-42533
+pending further investigation.
+
+We apologize for the inconvenience.
+
+Original advisory details:
+
+ It was discovered that nginx incorrectly handled certain map directives
+ using regex matching and capture variables. A remote attacker could use
+ this issue to cause nginx to crash, resulting in a denial of service, or
+ possibly execute arbitrary code. (CVE-2026-42533)
+
+ It was discovered that nginx had a use-after-free vulnerability in the
+ ngx_http_ssi_module module when configured with Server-Side Includes,
+ proxy_pass, and proxy buffering disabled directives. An attacker able to
+ intercept traffic and control responses from an upstream server could
+ possibly use this issue to cause nginx to crash, resulting in a denial of
+ service. (CVE-2026-56434)
+
+ It was discovered that nginx incorrectly handled certain requests in the
+ ngx_http_slice_module module. A remote attacker could possibly use this
+ issue to obtain sensitive information or cause nginx to crash, resulting
+ in a denial of service. (CVE-2026-60005)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dire Forecast Predicts 39 Million Fewer Consoles Sold If PS6 And Xbox Helix Are $1,000]]></title>
+        <id>https://kotaku.com/?p=2000725914</id>
+        <link href="https://kotaku.com/dire-forecast-predicts-39-million-fewer-consoles-sold-if-ps6-and-xbox-helix-are-1000-2000725914"/>
+        <updated>2026-08-19T18:45:31.000Z</updated>
+        <summary type="html"><![CDATA[Console gaming could continue to shrink if something doesn't change]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go Language 1.27 Adds Generic Methods, Struct Improvement & More SIMD]]></title>
+        <id>https://www.phoronix.com/news/Go-1.27</id>
+        <link href="https://www.phoronix.com/news/Go-1.27"/>
+        <updated>2026-08-19T18:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Go 1.27 was released today as the newest version of this programming language from Google's Go team...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knižní retrospektiva Heroes of Might and Magic vyšla česky]]></title>
         <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62559</id>
@@ -64,6 +127,18 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[A buttless future]]></summary>
         <author>
             <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8651-1: curl vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8651-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8651-1"/>
+        <updated>2026-08-19T16:44:20.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that curl incorrectly handled reusing connections
+when the origin changed between transfers. A remote attacker could
+possibly use this issue to obtain sensitive information.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -228,7 +303,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[Mobile Linux Hackday #8 v Praze v novém SUSE office]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/mobile-linux-hackday-8-v-praze-v-novem-suse-office</id>
         <link href="http://www.abclinuxu.cz/zpravicky/mobile-linux-hackday-8-v-praze-v-novem-suse-office"/>
-        <updated>2026-08-19T14:09:00.000Z</updated>
+        <updated>2026-08-19T14:08:59.000Z</updated>
         <summary type="html"><![CDATA[V pátek 28. srpna se v Praze uskuteční již osmý Mobile Linux Hackday. Jako obvykle se potkáme v pražské pobočce SUSE v Karlíně na Křižíkově, takže kromě mobilního Linuxu je to tentokrát i příležitost přijít se podívat na nově zrekonstruované kanceláře. Začínáme v 10:00, ale dorazit můžete samozřejmě kdykoliv v průběhu dne. Setkáním vás provede David Heidelberg, vývojář GPU ovladačů v Mesa 3D a jeden z hlavních lidí české komunity kolem mobilního Linuxu. Čekají nás novinky z posledních měsíců, experimentování, diskuse a samozřejmě spousta prostoru pro vlastní zařízení a projekty.
 
 Tentokrát se podíváme také na praktické využití LLM a AI nástrojů při každodenní práci, představíme nový BengalOS a ukážeme si, jak jej sestavit a vyzkoušet. Chybět nebude ani pořádná dávka kernelového hackování – zaměříme se na telefony postavené na platformě Qualcomm Snapdragon 845 (sdm845), například OnePlus 6/6T, Xiaomi Poco F1 nebo Shift 6MQ. Pokud vás zajímá Linux na telefonech, chcete si něco vyzkoušet, přinést vlastní zařízení nebo se prostě potkat s dalšími lidmi kolem mobilního Linuxu, stavte se.
@@ -959,32 +1034,6 @@ CVE-2026-53212, CVE-2026-53225, CVE-2026-53228, CVE-2026-53359)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8629-3: Linux kernel (HWE) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8629-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8629-3"/>
-        <updated>2026-08-18T20:49:14.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - InfiniBand drivers;
-  - Network drivers;
-  - Network traffic control;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Netfilter;
-  - RxRPC session sockets;
-  - SCTP protocol;
-(CVE-2026-46331, CVE-2026-52924, CVE-2026-53131, CVE-2026-53151,
-CVE-2026-53175, CVE-2026-53176, CVE-2026-53186, CVE-2026-53212,
-CVE-2026-53215, CVE-2026-53216, CVE-2026-53221, CVE-2026-53224,
-CVE-2026-53225, CVE-2026-53228, CVE-2026-53246, CVE-2026-53247,
-CVE-2026-53260, CVE-2026-53359)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GTA 6 footage once again appears to leak online, this time because of a group that wants games like The Crew to have offline modes and the end of digital preorders]]></title>
         <id>https://www.rockpapershotgun.com/gta-6-footage-once-again-appears-to-leak-online-this-time-because-of-a-group-that-wants-games-like-the-crew-to-have-offline-modes-and-the-end-of-digital-preorders</id>
         <link href="https://www.rockpapershotgun.com/gta-6-footage-once-again-appears-to-leak-online-this-time-because-of-a-group-that-wants-games-like-the-crew-to-have-offline-modes-and-the-end-of-digital-preorders"/>
@@ -1017,16 +1066,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pirated Marvel Tōkon Copies Reportedly Run Much Better On PC]]></title>
-        <id>https://kotaku.com/?p=2000725430</id>
-        <link href="https://kotaku.com/marvel-tokon-cracked-pirated-pc-steam-performance-anti-cheat-drm-2000725430"/>
-        <updated>2026-08-18T19:45:01.000Z</updated>
-        <summary type="html"><![CDATA[The improvements in the cracked version of Marvel Tōkon are being attributed to the retail version's anti-cheat on Steam]]></summary>
-        <author>
-            <name>Lewis Parker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux 7.3 Adds New "bpf_sock_read_xattr" Feature For systemd, BPF Programs]]></title>
         <id>https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr</id>
         <link href="https://www.phoronix.com/news/Linux-7.3-bpf_sock_read_xattr"/>
@@ -1034,34 +1073,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Merged earlier this year for Linux 7.1 was extended attributes on sockets support as a feature sought after by the likes of GNOME and systemd for helping with Varlink IPC usage and other purposes. A limitation though of the functionality has been no efficient means for a BPF program to read those user extended attribute labels back. But with Linux 7.3 that's being addressed with the new bpf_sock_read_xattr() kernel function...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh God, No, Please Don’t Add Skill Trees And Crafting To The Tomb Raider Remake]]></title>
-        <id>https://kotaku.com/?p=2000725433</id>
-        <link href="https://kotaku.com/oh-god-no-please-dont-add-skill-trees-and-crafting-to-the-tomb-raider-remake-2000725433"/>
-        <updated>2026-08-18T19:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Tomb Raider: Legacy of Atlantis, like so many other AAA games, will have you grabbing crap to make different crap]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8646-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8646-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8646-1"/>
-        <updated>2026-08-18T18:26:29.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - OCFS2 file system;
-  - B.A.T.M.A.N. meshing protocol;
-  - Netfilter;
-  - SCTP protocol;
-(CVE-2026-52914, CVE-2026-53002, CVE-2026-53043, CVE-2026-53224,
-CVE-2026-53246, CVE-2026-53309)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1966,16 +1977,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/Con-Kolivas-Linux-Patches-2026"/>
         <updated>2026-08-17T10:26:08.000Z</updated>
         <summary type="html"><![CDATA[Huge surprise this morning! Longtime Linux users may recall the out-of-tree work done years ago by open-source developer Con Kolivas... And as part of that his work on the Brain F*** Scheduler that evolved into the MuQSS scheduler, all in the name of working to improve Linux desktop and mobile responsiveness. While a number of years ago he decided to retire from this out-of-tree Linux kernel work, out of the blue he announced a new -ck patch series today with updated MuQSS code...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 7.3 On PowerPC Now Supports In-Kernel Rust, Initial Power12 Enablement Begins]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.3-PowerPC-Rust</id>
-        <link href="https://www.phoronix.com/news/Linux-7.3-PowerPC-Rust"/>
-        <updated>2026-08-17T10:13:42.000Z</updated>
-        <summary type="html"><![CDATA[The PowerPC pull request has already been sent in for the now open Linux 7.3 merge window. The headline feature this cycle on the POWER side is Rust kernel support for PowerPC 32-bit PPC32BE big endian and PowerPC 64-bit PPC64LE little endian architectures...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
