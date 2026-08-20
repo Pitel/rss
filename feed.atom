@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-19T22:17:41.083Z</id>
+    <id>urn:2026-08-20T00:52:41.192Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-19T22:17:41.083Z</updated>
+    <updated>2026-08-20T00:52:41.192Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Go 1.27]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/go-1.27</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/go-1.27"/>
+        <updated>2026-08-19T23:35:40.000Z</updated>
+        <summary type="html"><![CDATA[Byla vydána nová verze 1.27 programovacího jazyka Go (Wikipedie). Přehled novinek v poznámkách k vydání.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ho-Oh and Lugia Revealed from “30th Celebration!”]]></title>
+        <id>156991</id>
+        <link href="https://www.pokebeach.com/forums/threads/ho-oh-and-lugia-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.156991/"/>
+        <updated>2026-08-19T22:59:46.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Errata Issued for Diancie from “Stellar Crown” Right Before Worlds!]]></title>
         <id>156984</id>
@@ -22,15 +41,6 @@
         <summary type="html"><![CDATA[Na úvodní článek o typovém systému v projektu Luau dnes navážeme a celé téma dokončíme. Vysvětlíme si podrobnosti o typovém systému, včetně hierarchie datových typů, generických funkcích a funkcích spouštěných při typové analýze.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ho-Oh and Lugia Revealed from “30th Celebration!”]]></title>
-        <id>156991</id>
-        <link href="https://www.pokebeach.com/forums/threads/ho-oh-and-lugia-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.156991/"/>
-        <updated>2026-08-19T21:41:03.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1946,16 +1956,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[In advance of the Linux 7.3 merge window opening, Linux power management subsystem maintainer Rafael Wysocki of Intel submitted all the power management, ACPI, and thermal control code. As not too much of a surprise, Intel and AMD driver updates dominate the power management changes for Linux 7.3...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novinky z vývoje GIMPu – srpen 2026]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/novinky-z-vyvoje-gimpu-srpen-2026</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/novinky-z-vyvoje-gimpu-srpen-2026"/>
-        <updated>2026-08-17T11:37:08.000Z</updated>
-        <summary type="html"><![CDATA[Byly publikovány novinky z vývoje GIMPu. Pracuje se na novém formátu souborů. Stávající binární XCF bude nahrazen "zazipovaným XML". XCF zůstane plně podporován pouze pro načítání starých souborů.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -4069,22 +4069,6 @@ closed issues.]]></summary>
         <summary type="html"><![CDATA[Media3 Version 1.11.0-rc01]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Psi-Powers at the Ready: Chamber of the Sci-Mutant Priestess]]></title>
-        <id>https://www.scummvm.org/news/archive/#2026-07-21</id>
-        <link href="https://www.scummvm.org/news/20260721/"/>
-        <updated>2026-07-21T11:32:22.000Z</updated>
-        <summary type="html"><![CDATA[The ScummVM Team is pleased to announce that Chamber of the Sci-Mutant Priestess — originally released in Europe as KULT: The Temple of Flying Saucers — is ready for public testing!
-Step into the boots of Raven, a young man gifted with psychic powers, held prisoner deep inside the temple of an alien priestess. His companion, Sci-Fi, has been captured too, and to reach her, Raven must survive the five Ordeals that stand between him and the Chamber. Wits alone will not be enough: you will need to master eight distinct psi-powers, from the humble Solar Eyes to the brutal Extreme Violence, to outsmart the strange creatures of this surreal, post-apocalyptic world.
-Originally developed in 1989 by the French label Exxos (ERE Informatique), with an art direction inspired by illustrator Philippe Caza, KULT is a genuine cult classic of European adventure gaming, remembered for its dreamlike atmosphere and its unusual, power-driven puzzles.
-For this testing period, ScummVM supports the DOS versions — with CGA, EGA and Hercules renderers, playable in English, French and German — as well as the Amiga releases. The engine was reverse-engineered by bambarbee and brought into ScummVM during Google Summer of Code.
-As usual, you will need the original game data files to play. To join the test, grab a recent daily development build, add your game directory to ScummVM, and play through the game. Please report any problems you encounter on our issue tracker, following our bug submission guidelines. Screenshots and saved games demonstrating an issue are always helpful.
-Now steel your mind — the Ordeals await.
->]]></summary>
-        <author>
-            <name>nospam@scummvm.org (11-andy-11)</name>
         </author>
     </entry>
 </feed>
