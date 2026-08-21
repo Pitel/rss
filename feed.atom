@@ -1,10 +1,253 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-21T18:27:21.748Z</id>
+    <id>urn:2026-08-21T20:17:59.842Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-21T18:27:21.748Z</updated>
+    <updated>2026-08-21T20:17:59.842Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Posts Massive Patch Series For Enabling UALink In The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/UALink-Series-2-Linux</id>
+        <link href="https://www.phoronix.com/news/UALink-Series-2-Linux"/>
+        <updated>2026-08-21T20:07:08.000Z</updated>
+        <summary type="html"><![CDATA[Whether coincidental or intentional, AMD engineers tend to drop interesting, feature patches for the open-source/Linux space on Friday afternoons. Hitting the kernel mailing list minutes ago were two patch series sent out by AMDGPU maintainer Alex Deucher for introducing UALink infrastructure...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[People With Eyes Accuse System 3 Devs Of Using Gen AI On Its James Pond Reboot]]></title>
+        <id>https://kotaku.com/?p=2000726706</id>
+        <link href="https://kotaku.com/james-pond-gen-ai-slop-accusations-system-3-2000726706"/>
+        <updated>2026-08-21T20:00:03.000Z</updated>
+        <summary type="html"><![CDATA[System 3 denied the accusation in a blog post, but c'mon man look at that cow]]></summary>
+        <author>
+            <name>Ash Parrish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8669-1: Linux kernel (NVIDIA) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8669-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8669-1"/>
+        <updated>2026-08-21T19:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Foo-over-UDP (FOU);
+  - ARM64 architecture;
+  - x86 architecture;
+  - Block layer subsystem;
+  - Drivers core;
+  - Null block device driver;
+  - Bluetooth drivers;
+  - Counter interface drivers;
+  - DMA engine subsystem;
+  - DPLL subsystem;
+  - GPIO subsystem;
+  - GPU drivers;
+  - I2C subsystem;
+  - IIO ADC drivers;
+  - IIO subsystem;
+  - InfiniBand drivers;
+  - On-Chip Interconnect management framework;
+  - IOMMU subsystem;
+  - IRQ chip drivers;
+  - Modular ISDN driver;
+  - LED subsystem;
+  - Multiple devices driver;
+  - Media drivers;
+  - UACCE accelerator framework;
+  - MMC subsystem;
+  - Ethernet bonding …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8643-3: Linux kernel (NVIDIA) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8643-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-8643-3"/>
+        <updated>2026-08-21T19:54:33.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network drivers;
+  - Open vSwitch;
+  - SCTP protocol;
+(CVE-2026-53224, CVE-2026-53246, CVE-2026-53247, CVE-2026-64531)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8659-2: Linux kernel (HWE) vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8659-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8659-2"/>
+        <updated>2026-08-21T19:49:55.000Z</updated>
+        <summary type="html"><![CDATA[A security issue was discovered in the Linux kernel.
+An attacker could possibly use this to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Open vSwitch;]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Delta Reign” TCG Set Officially Revealed for November, Full Product Lineup!]]></title>
+        <id>156994</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-tcg-set-officially-revealed-for-november-full-product-lineup.156994/"/>
+        <updated>2026-08-21T19:49:40.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8668-1: Linux kernel (GCP) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8668-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8668-1"/>
+        <updated>2026-08-21T19:45:48.000Z</updated>
+        <summary type="html"><![CDATA[Maxim Suhanov discovered that the NTFS file system implementation in the
+Linux kernel did not properly validate file name length in certain
+situations, leading to an out-of-bounds read. An attacker could use this to
+construct a malicious NTFS image that, when mounted and operated on, could
+expose sensitive information (kernel memory). (CVE-2023-45896)
+
+It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, re…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worlds Pikachu Promo Now Available at Stores!]]></title>
+        <id>156999</id>
+        <link href="https://www.pokebeach.com/forums/threads/worlds-pikachu-promo-now-available-at-stores.156999/"/>
+        <updated>2026-08-21T19:35:12.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8667-1: Linux kernel (KVM) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8667-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8667-1"/>
+        <updated>2026-08-21T19:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
+implementation in the Linux kernel did not properly handle aggregated
+frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
+physically proximate attacker could use this issue to inject packets.
+(CVE-2025-27558)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic API;
+  - InfiniBand drivers;
+  - Media drivers;
+  - NVIDIA Tegra memory controller driver;
+  - Network drivers;
+  - NVME drivers;
+  - File systems infrastructure;
+  - Ext4 file system;
+  - Network file system (NFS) server daemon;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - Tracing infrastructure;
+  - Locking primitives;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ceph Core library;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SCTP protocol;
+  - SMC sockets;
+  - TIPC protocol;
+(CVE-2021-47378, CVE-2026-23392, CVE-2026-31402, CVE-2026-31405,
+CVE-2026-31414, CVE-2026-31448, CVE-2026-31657, CVE-2026-31668,
+CVE-2026-43037, CVE-2026-43071, CVE-2026-43198, CVE-2026-43493,
+CVE-2026-43499, CVE-2026-45988, CVE-2026-46119, CVE-2026-46135,
+CVE-2026-46266, CVE-2026-46331, CVE-2026-52914, CVE-2026-52924,
+CVE-2026-52931, CVE-2026-52955, CVE-2026-52958, CVE-2026-52982,
+CVE-2026-52986, CVE-2026-52989, CVE-2026-52993, CVE-2026-52999,
+CVE-2026-53002, CVE-2026-53006, CVE-2026-53045, CVE-2026-53088,
+CVE-2026-53176, CVE-2026-53212, CVE-2026-53228, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8662-2: Linux kernel (FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8662-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8662-2"/>
+        <updated>2026-08-21T19:23:06.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic API;
+  - InfiniBand drivers;
+  - Media drivers;
+  - STMicroelectronics network drivers;
+  - Network drivers;
+  - Ext4 file system;
+  - IPv4 networking;
+  - TCP network protocol;
+  - Locking primitives;
+  - Ceph Core library;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-31405, CVE-2026-31414, CVE-2026-31448, CVE-2026-31649,
+CVE-2026-43198, CVE-2026-43493, CVE-2026-43499, CVE-2026-46266,
+CVE-2026-52955, CVE-2026-52982, CVE-2026-52986, CVE-2026-53006,
+CVE-2026-53176, CVE-2026-53225, CVE-2026-53228, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockstar Games Reportedly Remains In The Dark About Who’s Leaking GTA 6 But Still Moving Ahead With Netflix Reveal]]></title>
+        <id>https://kotaku.com/?p=2000726726</id>
+        <link href="https://kotaku.com/rockstar-games-reportedly-still-in-the-dark-about-whos-leaking-gta-6-and-how-2000726726"/>
+        <updated>2026-08-21T19:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Multiple gameplay clips are circulating despite strict security protocols to keep information from leaking]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psychonauts Dev Now Owns All Its Games Made Under Xbox And Their Publishing Rights: ‘Buying Any Of Our Games Helps Support The Studio’]]></title>
+        <id>https://kotaku.com/?p=2000726713</id>
+        <link href="https://kotaku.com/psychonauts-dev-now-owns-all-its-games-publishing-rights-2000726713"/>
+        <updated>2026-08-21T18:57:26.000Z</updated>
+        <summary type="html"><![CDATA['Everything, we got back, the transfer of the IP came back to us']]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indecently cool FPS platformer Cicadamata" is out now - please get yourself down that rabbit hole]]></title>
+        <id>https://www.rockpapershotgun.com/indecently-cool-fps-platformer-cicadamata-is-out-now-please-get-yourself-down-that-rabbit-hole</id>
+        <link href="https://www.rockpapershotgun.com/indecently-cool-fps-platformer-cicadamata-is-out-now-please-get-yourself-down-that-rabbit-hole"/>
+        <updated>2026-08-21T18:35:28.000Z</updated>
+        <summary type="html"><![CDATA[I've already humiliated myself attempting to describe the sensory enormity that is Cicadamata", the new movement shooter from flowergarden with the tricksy title punctuation, so instead of writing additional sentences such as "this game is like drinking the aurora borealis" (OK, one more) or "this game is like surfing the Niagara Falls during a freak shower of potassium pellets" (enough!), I'm just going to transcribe the latest trailer.
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Team Rocket’s Ambition” First Cards Revealed for “Pocket!”]]></title>
         <id>156995</id>
@@ -75,15 +318,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Worlds Pikachu Promo Now Available at Stores!]]></title>
-        <id>156999</id>
-        <link href="https://www.pokebeach.com/forums/threads/worlds-pikachu-promo-now-available-at-stores.156999/"/>
-        <updated>2026-08-21T17:19:33.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sandustry is the first factory simulation game I've played that gets heaps right]]></title>
         <id>https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right</id>
         <link href="https://www.rockpapershotgun.com/sandustry-is-the-first-factory-simulation-game-ive-played-that-gets-heaps-right"/>
@@ -93,15 +327,6 @@
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Delta Reign” TCG Set Officially Revealed for November, Full Product Lineup!]]></title>
-        <id>156994</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-tcg-set-officially-revealed-for-november-full-product-lineup.156994/"/>
-        <updated>2026-08-21T16:26:02.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -173,16 +398,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA['Users do not need to worry that anyone’s works will be taken down due to a baseless report or a mass-reporting campaign, if one were to occur']]></summary>
         <author>
             <name>Ash Parrish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golden Axe se vrací jako *kontroluje poznámky* animovaný seriál na Paramount+]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62603</id>
-        <link href="https://www.high-voltage.cz/sortky/golden-axe-se-vraci-jako-kontroluje-poznamky-animovany-serial-na-paramount/"/>
-        <updated>2026-08-21T14:31:26.000Z</updated>
-        <summary type="html"><![CDATA[Golden Axe - animovaný seriál. V roce 2026.]]></summary>
-        <author>
-            <name>Sledge</name>
         </author>
     </entry>
     <entry>
@@ -272,16 +487,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[The long-awaited anime sequel series also got a new trailer]]></summary>
         <author>
             <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8 klasických her od Interplay dorazilo na GOG]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62601</id>
-        <link href="https://www.high-voltage.cz/sortky/8-klasickych-her-od-interplay-dorazilo-na-gog/"/>
-        <updated>2026-08-21T12:58:52.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Interplay pokračuje v dolování svého historického katalogu, do nabídky GOG tak právě přibyla další várka starších her.]]></summary>
-        <author>
-            <name>Sledge</name>
         </author>
     </entry>
     <entry>
@@ -511,6 +716,25 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2026-08-21T05:16:07.000Z</updated>
         <author>
             <name>Who?</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[xkcd store reopening]]></title>
+        <id>8e855b73137761d76b44f4eff10b5310e0d73552</id>
+        <link href="https://store.xkcd.com/"/>
+        <updated>2026-08-21T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[xkcd shop]]></summary>
+        <author>
+            <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archery Feat]]></title>
+        <id>https://xkcd.com/3288/</id>
+        <link href="https://xkcd.com/3288/"/>
+        <updated>2026-08-21T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -765,134 +989,12 @@ This update corrects flaws in the following subsystems:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8630-4: Linux kernel (AWS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8630-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-8630-4"/>
-        <updated>2026-08-20T23:05:13.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - InfiniBand drivers;
-  - Network drivers;
-  - Mellanox network drivers;
-  - File systems infrastructure;
-  - IPv4 networking;
-  - Network traffic control;
-  - TCP network protocol;
-  - B.A.T.M.A.N. meshing protocol;
-  - IPv6 networking;
-  - Multipath TCP;
-  - Netfilter;
-  - RxRPC session sockets;
-  - SCTP protocol;
-  - SMC sockets;
-(CVE-2026-43083, CVE-2026-43197, CVE-2026-43198, CVE-2026-43465,
-CVE-2026-46242, CVE-2026-46325, CVE-2026-46331, CVE-2026-52914,
-CVE-2026-52924, CVE-2026-52931, CVE-2026-53151, CVE-2026-53176,
-CVE-2026-53212, CVE-2026-53215, CVE-2026-53225, CVE-2026-53228,
-CVE-2026-53359)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Anyone what to play M Golurk ex]]></title>
         <id>156959</id>
         <link href="https://www.pokebeach.com/forums/threads/anyone-what-to-play-m-golurk-ex.156959/"/>
         <updated>2026-08-20T23:04:01.000Z</updated>
         <author>
             <name>GOLURK KING 2</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8662-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8662-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8662-1"/>
-        <updated>2026-08-20T23:02:10.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - Cryptographic API;
-  - InfiniBand drivers;
-  - Media drivers;
-  - STMicroelectronics network drivers;
-  - Network drivers;
-  - Ext4 file system;
-  - IPv4 networking;
-  - TCP network protocol;
-  - Locking primitives;
-  - Ceph Core library;
-  - IPv6 networking;
-  - Multipath TCP;
-  - Netfilter;
-  - SCTP protocol;
-  - SMC sockets;
-(CVE-2026-31405, CVE-2026-31414, CVE-2026-31448, CVE-2026-31649,
-CVE-2026-43198, CVE-2026-43493, CVE-2026-43499, CVE-2026-46266,
-CVE-2026-52955, CVE-2026-52982, CVE-2026-52986, CVE-2026-53006,
-CVE-2026-53176, CVE-2026-53225, CVE-2026-53228, CVE-2026-53359)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8644-2: Linux kernel (GCP) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8644-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8644-2"/>
-        <updated>2026-08-20T22:31:33.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - File systems infrastructure;
-  - OCFS2 file system;
-  - B.A.T.M.A.N. meshing protocol;
-  - SCTP protocol;
-  - TIPC protocol;
-(CVE-2026-43071, CVE-2026-52914, CVE-2026-52993, CVE-2026-53043,
-CVE-2026-53224, CVE-2026-53246, CVE-2026-53309)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8661-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8661-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8661-1"/>
-        <updated>2026-08-20T22:26:52.000Z</updated>
-        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
-implementation in the Linux kernel did not properly handle aggregated
-frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
-physically proximate attacker could use this issue to inject packets.
-(CVE-2025-27558)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - InfiniBand drivers;
-  - Network drivers;
-  - NVME drivers;
-  - Ext4 file system;
-  - SMB network file system;
-  - IPv4 networking;
-  - Network traffic control;
-  - TCP network protocol;
-  - Locking primitives;
-  - IPv6 networking;
-  - Multipath TCP;
-  - Netfilter;
-  - Open vSwitch;
-  - SCTP protocol;
-  - SMC sockets;
-(CVE-2026-31414, CVE-2026-31448, CVE-2026-31705, CVE-2026-43198,
-CVE-2026-43378, CVE-2026-43499, CVE-2026-46266, CVE-2026-46331,
-CVE-2026-52924, CVE-2026-52989, CVE-2026-53086, CVE-2026-53176,
-CVE-2026-53212, CVE-2026-53215, CVE-2026-53224, CVE-2026-53225,
-CVE-2026-53228, CVE-2026-53246, CVE-2026-53359, CVE-2026-64531)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -903,56 +1005,6 @@ CVE-2026-53228, CVE-2026-53246, CVE-2026-53359, CVE-2026-64531)]]></summary>
         <summary type="html"><![CDATA["We all know that the Flock cameras are not only following the license plate readers; they are following children"]]></summary>
         <author>
             <name>Rebekah Valentine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8660-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8660-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8660-1"/>
-        <updated>2026-08-20T22:18:41.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - InfiniBand drivers;
-  - Network drivers;
-  - Network traffic control;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Netfilter;
-  - Open vSwitch;
-  - RxRPC session sockets;
-  - SCTP protocol;
-(CVE-2026-46331, CVE-2026-52924, CVE-2026-53131, CVE-2026-53151,
-CVE-2026-53175, CVE-2026-53176, CVE-2026-53186, CVE-2026-53212,
-CVE-2026-53215, CVE-2026-53216, CVE-2026-53221, CVE-2026-53224,
-CVE-2026-53225, CVE-2026-53228, CVE-2026-53246, CVE-2026-53247,
-CVE-2026-53260, CVE-2026-53359, CVE-2026-64531)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8659-1: Linux kernel vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8659-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8659-1"/>
-        <updated>2026-08-20T22:13:42.000Z</updated>
-        <summary type="html"><![CDATA[A security issue was discovered in the Linux kernel.
-An attacker could possibly use this to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Open vSwitch;]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jason Flying A Plane In The New GTA 6 Leak Has Me More Excited Than Any Previous Trailer]]></title>
-        <id>https://kotaku.com/?p=2000726316</id>
-        <link href="https://kotaku.com/jason-flying-a-plane-in-the-new-gta-6-leak-has-me-more-excited-than-any-previous-trailer-2000726316"/>
-        <updated>2026-08-20T22:05:18.000Z</updated>
-        <summary type="html"><![CDATA[And I'm not alone in my hype, as fans are also impressed by the footage of a plane flying over Vice City]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
         </author>
     </entry>
     <entry>
@@ -985,26 +1037,6 @@ This update corrects flaws in the following subsystems:
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geoff Keighley Explains The Key To Getting In The Gamescom Showcase For Free Is Having Something Exciting To Reveal]]></title>
-        <id>https://kotaku.com/?p=2000726290</id>
-        <link href="https://kotaku.com/geoff-keighley-explains-the-key-to-getting-in-the-gamescom-showcase-for-free-is-having-something-exciting-to-reveal-2000726290"/>
-        <updated>2026-08-20T21:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Publishers with exciting reveals to share can get in for free]]></summary>
-        <author>
-            <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox And EA Aren’t Sharing U.S. Digital Sales Data With Circana Anymore, And That’s Worrisome]]></title>
-        <id>https://kotaku.com/?p=2000726257</id>
-        <link href="https://kotaku.com/xbox-isnt-sharing-us-digital-sales-data-anymore-2000726257"/>
-        <updated>2026-08-20T20:50:28.000Z</updated>
-        <summary type="html"><![CDATA[The industry gets a little less transparent]]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
         </author>
     </entry>
     <entry>
@@ -1155,26 +1187,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Váš sen o lepším městě? Zapomeňte. Budeme mít parkoviště.]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_notretro&amp;p=62568</id>
-        <link href="https://www.high-voltage.cz/neretro/vas-sen-o-lepsim-meste-zapomente-budeme-mit-parkoviste/"/>
-        <updated>2026-08-20T15:52:14.000Z</updated>
-        <summary type="html"><![CDATA[Satirická budovatelská strategie Car Park Capital od Hilkojj Interactive a MicroProse, kterou loni zmiňoval Sledge, konečně dostala datum vydání.]]></summary>
-        <author>
-            <name>Daniel Zima</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CyberVGA – nový 3D engine pro vývoj her pro DOS]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62592</id>
-        <link href="https://www.high-voltage.cz/sortky/cybervga-novy-3d-engine-pro-vyvoj-her-pro-dos/"/>
-        <updated>2026-08-20T15:22:03.000Z</updated>
-        <summary type="html"><![CDATA[Máte už 30 let v šuplíku nápad na novou 3D hru pro DOS, jen vám schází pár let na napsání vlastního enginu? Pak by se mohl hodit CyberVGA, projekt autora vystupujícího jako Novus Idea.]]></summary>
-        <author>
-            <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nintendo Denies Rumoured Release Date For The Duskbloods]]></title>
         <id>https://www.nintendolife.com/#article-205235</id>
         <link href="https://www.nintendolife.com/news/2026/08/nintendo-denies-rumoured-release-date-for-the-duskbloods"/>
@@ -1251,16 +1263,6 @@ Available on the eShop for £17.99 / $19.99, the new release boasts 120fps gamep
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heartlight: Fascynacja Boulder Dashem]]></title>
-        <id>https://www.high-voltage.cz/?p=62333</id>
-        <link href="https://www.high-voltage.cz/2026/heartlight-fascynacja-boulder-dashem/"/>
-        <updated>2026-08-20T13:42:33.000Z</updated>
-        <summary type="html"><![CDATA[Před lety mě — ani nevím proč — zaujala barevná logická hra se skřítkem v hlavní roli.]]></summary>
-        <author>
-            <name>Zrezlo</name>
         </author>
     </entry>
     <entry>
@@ -1387,16 +1389,6 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2026-08-20T13:14:32.000Z</updated>
         <author>
             <name>fempkmnveteran2016</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slovensko si škrtám!]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_notretro&amp;p=62588</id>
-        <link href="https://www.high-voltage.cz/neretro/slovensko-si-skrtam/"/>
-        <updated>2026-08-20T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Problém pěkně shrnul Technomorous v článku Ceterum autem censeo Carthaginem esse delendam, nemá cenu mlátit stejný stoh slámy, takže jen stručně.]]></summary>
-        <author>
-            <name>Sledge</name>
         </author>
     </entry>
     <entry>
@@ -1745,16 +1737,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Knižní retrospektiva Heroes of Might and Magic vyšla česky]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62559</id>
-        <link href="https://www.high-voltage.cz/sortky/knizni-retrospektiva-heroes-of-might-and-magic-vysla-cesky/"/>
-        <updated>2026-08-19T17:57:14.000Z</updated>
-        <summary type="html"><![CDATA[Ještě jeden tah, ještě jeden hrad, ještě obsadím ten důl na rudu a vykydlím támhletu skupinku goblinů.]]></summary>
-        <author>
-            <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Btrfs Ready With More Performance Improvements For Linux 7.3: Some ~3x To ~5x Wins]]></title>
         <id>https://www.phoronix.com/news/Linux-7.3-Btrfs</id>
         <link href="https://www.phoronix.com/news/Linux-7.3-Btrfs"/>
@@ -1954,16 +1936,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quake Shareware CD]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62429</id>
-        <link href="https://www.high-voltage.cz/sortky/quake-shareware-cd/"/>
-        <updated>2026-08-19T11:16:31.000Z</updated>
-        <summary type="html"><![CDATA[Pri príležitosti 30. výročia Quakea som sa náhodou dozvedel o dačom, o čo som doteraz nemal absolútne žiadneho tušenia.]]></summary>
-        <author>
-            <name>Srandista</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Immersive sim Retrospace, aka '70s System Shock, gets an October release date plus a trailer full of funky guns and sentient black holes]]></title>
         <id>https://www.rockpapershotgun.com/immersive-sim-retrospace-aka-70s-system-shock-gets-an-october-release-date-plus-a-trailer-full-of-funky-guns-and-sentient-black-holes</id>
         <link href="https://www.rockpapershotgun.com/immersive-sim-retrospace-aka-70s-system-shock-gets-an-october-release-date-plus-a-trailer-full-of-funky-guns-and-sentient-black-holes"/>
@@ -2000,16 +1972,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/x86-Core-Types-Linux-7.3"/>
         <updated>2026-08-19T10:04:10.000Z</updated>
         <summary type="html"><![CDATA[Covered first on Phoronix back in June was an AMD Linux patch for introducing a new "low power" CPU core type to complement their typical "performance" cores and their "efficiency" cores like with Zen 4C/5C. That low power core is presumed for some Zen 6 clients and that integration is now merged for Linux 7.3 as well as unifying the Intel/AMD CPU core type handling...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi Compute Module 5 Programming Jig Launches]]></title>
-        <id>https://www.phoronix.com/news/Raspberry-Pi-CM5-Jig</id>
-        <link href="https://www.phoronix.com/news/Raspberry-Pi-CM5-Jig"/>
-        <updated>2026-08-19T09:36:22.000Z</updated>
-        <summary type="html"><![CDATA[The newest Raspberry Pi product to launch is the Raspberry Pi Compute Module 5 Programming Jig...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -2177,16 +2139,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raptor: Call of the Shadows dostal nový editor map]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62329</id>
-        <link href="https://www.high-voltage.cz/sortky/raptor-call-of-the-shadows-dostal-novy-editor-map/"/>
-        <updated>2026-08-18T14:33:55.000Z</updated>
-        <summary type="html"><![CDATA[Fandové jedné z nejlepších stříleček pro DOS dostali do rukou mocný nástroj! S pomocí novinky Raptor Map Editor můžete překopat všech 27 úrovní klasiky Raptor: Call of the Shadows.]]></summary>
-        <author>
-            <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Firefox 154 zrychluje posouvání ve videích]]></title>
         <id>www.root.cz-actuality-53190</id>
         <link href="https://www.root.cz/zpravicky/firefox-154-zrychluje-posouvani-ve-videich/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -2205,16 +2157,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skellywave – nová DOS hra pro CGA a 8088]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62325</id>
-        <link href="https://www.high-voltage.cz/sortky/skellywave-nova-dos-hra-pro-cga-a-8088/"/>
-        <updated>2026-08-18T11:39:47.000Z</updated>
-        <summary type="html"><![CDATA[Jdu pozdě! Skellywave je totiž další nová hra pro DOS, jenže zatímco vznikla už začátkem letošního roku, já ji objevil až teď, čímž jsem vás ochudil o herní zážitek a nepředpokládám, že mi to zaváhání odpustíte :( Skellywave vytvořil autor vystupující jako Optimus6128 během pouhých tří týdnů v rámci akce CGA Game Jam 2026.]]></summary>
-        <author>
-            <name>Sledge</name>
         </author>
     </entry>
     <entry>
@@ -2279,16 +2221,6 @@ Read more]]></summary>
         <updated>2026-08-17T19:36:33.000Z</updated>
         <author>
             <name>kakihook</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destroyer – omlouvám se všem, ale splácal jsem „hru“ pro DOS]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62321</id>
-        <link href="https://www.high-voltage.cz/sortky/destroyer-omlouvam-se-vsem-ale-splacal-jsem-hru-pro-dos/"/>
-        <updated>2026-08-17T17:41:33.000Z</updated>
-        <summary type="html"><![CDATA[Ne snad, že bych neměl zajímavější věci k sepsání, ale při úklidu na disku jsem narazil na soubor destroy.]]></summary>
-        <author>
-            <name>Sledge</name>
         </author>
     </entry>
     <entry>
@@ -3339,15 +3271,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geology Building]]></title>
-        <id>https://xkcd.com/3284/</id>
-        <link href="https://xkcd.com/3284/"/>
-        <updated>2026-08-12T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Softwarová sklizeň (12. 8. 2026): tvorba živé hudby programováním]]></title>
         <id>www.root.cz-text-19827</id>
         <link href="https://www.root.cz/clanky/softwarova-sklizen-12-8-2026-tvorba-zive-hudby-programovanim/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -3700,18 +3623,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/polyzonia-is-an-ecosystem-sim-about-breathing-life-into-the-amazon-rainforest-until-it-can-look-after-itself"/>
         <updated>2026-08-08T18:05:43.000Z</updated>
         <summary type="html"><![CDATA[How about we get in our digital grass touching for the day? Well, I suppose we can't just yet, as Polyzonia, an ecosystem sim set in the Amazon rainforest, isn't out just yet, but it has caught my eye at the very least.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Walk's voice chat volume issue has been resolved with its latest patch, but House House are sticking to their guns on its overall design]]></title>
-        <id>https://www.rockpapershotgun.com/big-walks-voice-chat-volume-issue-has-been-resolved-with-its-latest-patch-but-house-house-are-sticking-to-their-guns-on-its-overall-design</id>
-        <link href="https://www.rockpapershotgun.com/big-walks-voice-chat-volume-issue-has-been-resolved-with-its-latest-patch-but-house-house-are-sticking-to-their-guns-on-its-overall-design"/>
-        <updated>2026-08-08T17:08:58.000Z</updated>
-        <summary type="html"><![CDATA[We've all been there. You're out on a hike with some friends, solving some abstract puzzles for a purpose that's not immediately clear, when you get two feet away from your pals and they're as quiet as a dormouse. Or at least, that's been the case for a bunch of folks playing Big Walk, Untitled Goose Game studio House House's latest, as the secret Predator game's approach to proximity chat has made it a little difficult to hear your friends. But an update seemingly fixing the issue is here! Just don't expect to be able to hear anyone from any distance.
  
 Read more]]></summary>
         <author>
