@@ -1,17 +1,384 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-20T22:19:36.100Z</id>
+    <id>urn:2026-08-21T00:56:24.988Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-20T22:19:36.100Z</updated>
+    <updated>2026-08-21T00:56:24.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Mesa Linux Drivers Now Treating Nova Lake S / U / H / HX As Stable]]></title>
+        <id>https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable</id>
+        <link href="https://www.phoronix.com/news/Intel-Mesa-Nova-Lake-Stable"/>
+        <updated>2026-08-21T00:44:45.000Z</updated>
+        <summary type="html"><![CDATA[Intel's open-source Mesa drivers for Iris Gallium3D (OpenGL) and ANV (Vulkan) on Linux are no longer treating next-gen Nova Lake processors with integrated graphics as experimental and off-by-default. With today's Mesa 26.3-devel code, the Intel driver code across Nova Lake's S, U, H, and HX product families are considered stable and enabled by default...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Team Rocket’s Ambition” First Cards Revealed for “Pocket!”]]></title>
         <id>156995</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cteam-rocket%E2%80%99s-ambition%E2%80%9D-first-cards-revealed-for-%E2%80%9Cpocket-%E2%80%9D.156995/"/>
-        <updated>2026-08-20T22:13:24.000Z</updated>
+        <updated>2026-08-21T00:31:12.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kyogre, Groudon, Zacian, and Zamazenta Revealed from “30th Celebration!”]]></title>
+        <id>156993</id>
+        <link href="https://www.pokebeach.com/forums/threads/kyogre-groudon-zacian-and-zamazenta-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.156993/"/>
+        <updated>2026-08-21T00:25:45.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Delta Reign” TCG Set Officially Revealed for November, Full Product Lineup!]]></title>
+        <id>156994</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-tcg-set-officially-revealed-for-november-full-product-lineup.156994/"/>
+        <updated>2026-08-21T00:08:47.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: Minecraft Dungeons II Official Gameplay Trailer Released]]></title>
+        <id>https://www.nintendolife.com/#article-205253</id>
+        <link href="https://www.nintendolife.com/news/2026/08/video-minecraft-dungeons-ii-official-gameplay-trailer-released"/>
+        <updated>2026-08-21T00:05:00.000Z</updated>
+        <summary type="html"><![CDATA["Enter the Sift".
+Minecraft Dungeons II is gearing up for its official launch on the Switch and Switch 2 next month.
+Ahead of release, the team at Mojang has released an official gameplay trailer showcasing this new action-packed experience, as well as mysterious rifts, which lead to the Sift - a new dimension introducing powerful threats and all sorts of landscapes.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8666-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8666-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8666-1"/>
+        <updated>2026-08-20T23:47:34.000Z</updated>
+        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
+implementation in the Linux kernel did not properly handle aggregated
+frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
+physically proximate attacker could use this issue to inject packets.
+(CVE-2025-27558)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic API;
+  - InfiniBand drivers;
+  - Media drivers;
+  - NVIDIA Tegra memory controller driver;
+  - Network drivers;
+  - NVME drivers;
+  - File systems infrastructure;
+  - Ext4 file system;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - Locking primitives;
+  - B.A.T.M.A.N. meshing protocol;
+  - Ceph Core library;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - SCTP protocol;
+  - SMC sockets;
+  - TIPC protocol;
+(CVE-2021-47378, CVE-2026-23392, CVE-2026-31405, CVE-2026-31414,
+CVE-2026-31448, CVE-2026-31657, CVE-2026-31668, CVE-2026-43071,
+CVE-2026-43198, CVE-2026-43493, CVE-2026-43499, CVE-2026-46266,
+CVE-2026-46331, CVE-2026-52914, CVE-2026-52924, CVE-2026-52931,
+CVE-2026-52955, CVE-2026-52958, CVE-2026-52982, CVE-2026-52986,
+CVE-2026-52989, CVE-2026-52993, CVE-2026-52999, CVE-2026-53002,
+CVE-2026-53006, CVE-2026-53045, CVE-2026-53088, CVE-2026-53176,
+CVE-2026-53212, CVE-2026-53228, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8665-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8665-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8665-1"/>
+        <updated>2026-08-20T23:31:14.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
+the floating point divider unit during speculative execution. A local
+attacker could use this to expose sensitive information. (CVE-2025-54505)
+
+It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, resulting in privilege escalation. (CVE-2025-54518)
+
+It was discovered that some AMD Zen 5 processors supporting RDSEED
+instruction did not properly handle entropy, potentially resulting in the
+consumption of insufficiently random values. A local attacker could
+possibly use this issue to influence the values returned by the RDSEED
+instruction causing loss…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tomb Raider I-III Remastered Update Adds Three New Features, Includes 60fps In Classic Graphics Mode]]></title>
+        <id>https://www.nintendolife.com/#article-205251</id>
+        <link href="https://www.nintendolife.com/news/2026/08/tomb-raider-i-iii-remastered-update-adds-three-new-features-includes-60fps-in-classic-graphics-mode"/>
+        <updated>2026-08-20T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A patch focused on "community requested features".
+Aspyr recently revived The Lord of the Rings: War in the North, and this week it returns to Tomb Raider I-III Remastered with a community patch, adding some requested features.
+This update includes three new features across all versions of the game and also comes loaded optimisations and bug fixes for the Switch 2 version. The new features include a brightness slider, a pickup highlight, and 60fps in classic graphics mode.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8664-1: Linux kernel (NVIDIA BaseOS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8664-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8664-1"/>
+        <updated>2026-08-20T23:22:25.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, resulting in privilege escalation. (CVE-2025-54518)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 platform drivers;
+  - Cryptographic API;
+  - PSP security protocol;
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Intel NPU Driver;
+  - Compute Acceleration…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8663-1: Linux kernel (NVIDIA) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8663-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8663-1"/>
+        <updated>2026-08-20T23:18:42.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some AMD Zen 2 processors did not properly isolate
+shared resources in the operation cache. A local attacker could possibly
+use this issue to corrupt instructions executed at a higher privilege
+level, resulting in privilege escalation. (CVE-2025-54518)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 platform drivers;
+  - Cryptographic API;
+  - PSP security protocol;
+  - ARM32 architecture;
+  - ARM64 architecture;
+  - MIPS architecture;
+  - PowerPC architecture;
+  - RISC-V architecture;
+  - S390 architecture;
+  - User-Mode Linux (UML);
+  - x86 architecture;
+  - Block layer subsystem;
+  - Intel NPU Driver;
+  - Compute Acceleration…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8630-4: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8630-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-8630-4"/>
+        <updated>2026-08-20T23:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - Mellanox network drivers;
+  - File systems infrastructure;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - B.A.T.M.A.N. meshing protocol;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - RxRPC session sockets;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-43083, CVE-2026-43197, CVE-2026-43198, CVE-2026-43465,
+CVE-2026-46242, CVE-2026-46325, CVE-2026-46331, CVE-2026-52914,
+CVE-2026-52924, CVE-2026-52931, CVE-2026-53151, CVE-2026-53176,
+CVE-2026-53212, CVE-2026-53215, CVE-2026-53225, CVE-2026-53228,
+CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anyone what to play M Golurk ex]]></title>
+        <id>156959</id>
+        <link href="https://www.pokebeach.com/forums/threads/anyone-what-to-play-m-golurk-ex.156959/"/>
+        <updated>2026-08-20T23:04:01.000Z</updated>
+        <author>
+            <name>GOLURK KING 2</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8662-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8662-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8662-1"/>
+        <updated>2026-08-20T23:02:10.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - Cryptographic API;
+  - InfiniBand drivers;
+  - Media drivers;
+  - STMicroelectronics network drivers;
+  - Network drivers;
+  - Ext4 file system;
+  - IPv4 networking;
+  - TCP network protocol;
+  - Locking primitives;
+  - Ceph Core library;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-31405, CVE-2026-31414, CVE-2026-31448, CVE-2026-31649,
+CVE-2026-43198, CVE-2026-43493, CVE-2026-43499, CVE-2026-46266,
+CVE-2026-52955, CVE-2026-52982, CVE-2026-52986, CVE-2026-53006,
+CVE-2026-53176, CVE-2026-53225, CVE-2026-53228, CVE-2026-53359)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8644-2: Linux kernel (GCP) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8644-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8644-2"/>
+        <updated>2026-08-20T22:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - File systems infrastructure;
+  - OCFS2 file system;
+  - B.A.T.M.A.N. meshing protocol;
+  - SCTP protocol;
+  - TIPC protocol;
+(CVE-2026-43071, CVE-2026-52914, CVE-2026-52993, CVE-2026-53043,
+CVE-2026-53224, CVE-2026-53246, CVE-2026-53309)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8661-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8661-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8661-1"/>
+        <updated>2026-08-20T22:26:52.000Z</updated>
+        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
+implementation in the Linux kernel did not properly handle aggregated
+frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
+physically proximate attacker could use this issue to inject packets.
+(CVE-2025-27558)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - NVME drivers;
+  - Ext4 file system;
+  - SMB network file system;
+  - IPv4 networking;
+  - Network traffic control;
+  - TCP network protocol;
+  - Locking primitives;
+  - IPv6 networking;
+  - Multipath TCP;
+  - Netfilter;
+  - Open vSwitch;
+  - SCTP protocol;
+  - SMC sockets;
+(CVE-2026-31414, CVE-2026-31448, CVE-2026-31705, CVE-2026-43198,
+CVE-2026-43378, CVE-2026-43499, CVE-2026-46266, CVE-2026-46331,
+CVE-2026-52924, CVE-2026-52989, CVE-2026-53086, CVE-2026-53176,
+CVE-2026-53212, CVE-2026-53215, CVE-2026-53224, CVE-2026-53225,
+CVE-2026-53228, CVE-2026-53246, CVE-2026-53359, CVE-2026-64531)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darth Vader Wants Flock Surveillance Cameras In Cities To ‘Find The Rebel Scum’ And ‘Stalk My Ex-Girlfriend’]]></title>
+        <id>https://kotaku.com/?p=2000726326</id>
+        <link href="https://kotaku.com/darth-vader-wants-flock-surveillance-cameras-2000726326"/>
+        <updated>2026-08-20T22:20:58.000Z</updated>
+        <summary type="html"><![CDATA["We all know that the Flock cameras are not only following the license plate readers; they are following children"]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8660-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8660-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8660-1"/>
+        <updated>2026-08-20T22:18:41.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - x86 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - Network traffic control;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - Open vSwitch;
+  - RxRPC session sockets;
+  - SCTP protocol;
+(CVE-2026-46331, CVE-2026-52924, CVE-2026-53131, CVE-2026-53151,
+CVE-2026-53175, CVE-2026-53176, CVE-2026-53186, CVE-2026-53212,
+CVE-2026-53215, CVE-2026-53216, CVE-2026-53221, CVE-2026-53224,
+CVE-2026-53225, CVE-2026-53228, CVE-2026-53246, CVE-2026-53247,
+CVE-2026-53260, CVE-2026-53359, CVE-2026-64531)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8659-1: Linux kernel vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8659-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8659-1"/>
+        <updated>2026-08-20T22:13:42.000Z</updated>
+        <summary type="html"><![CDATA[A security issue was discovered in the Linux kernel.
+An attacker could possibly use this to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Open vSwitch;]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -57,31 +424,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Delta Reign” TCG Set Officially Revealed for November, Full Product Lineup!]]></title>
-        <id>156994</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-tcg-set-officially-revealed-for-november-full-product-lineup.156994/"/>
-        <updated>2026-08-20T21:35:56.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8643-2: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8643-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8643-2"/>
-        <updated>2026-08-20T21:32:40.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network drivers;
-  - Open vSwitch;
-  - SCTP protocol;
-(CVE-2026-53224, CVE-2026-53246, CVE-2026-53247, CVE-2026-64531)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Geoff Keighley Explains The Key To Getting In The Gamescom Showcase For Free Is Having Something Exciting To Reveal]]></title>
         <id>https://kotaku.com/?p=2000726290</id>
         <link href="https://kotaku.com/geoff-keighley-explains-the-key-to-getting-in-the-gamescom-showcase-for-free-is-having-something-exciting-to-reveal-2000726290"/>
@@ -89,49 +431,6 @@ This update corrects flaws in the following subsystems:
         <summary type="html"><![CDATA[Publishers with exciting reveals to share can get in for free]]></summary>
         <author>
             <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8656-1: Linux kernel (HWE) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8656-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8656-1"/>
-        <updated>2026-08-20T21:21:56.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - InfiniBand drivers;
-  - Network drivers;
-  - Mellanox network drivers;
-  - File systems infrastructure;
-  - IPv4 networking;
-  - Network traffic control;
-  - TCP network protocol;
-  - B.A.T.M.A.N. meshing protocol;
-  - IPv6 networking;
-  - Multipath TCP;
-  - Netfilter;
-  - Open vSwitch;
-  - RxRPC session sockets;
-  - SCTP protocol;
-  - SMC sockets;
-(CVE-2026-43083, CVE-2026-43197, CVE-2026-43198, CVE-2026-43465,
-CVE-2026-46242, CVE-2026-46325, CVE-2026-46331, CVE-2026-52914,
-CVE-2026-52924, CVE-2026-52931, CVE-2026-53151, CVE-2026-53176,
-CVE-2026-53212, CVE-2026-53215, CVE-2026-53224, CVE-2026-53225,
-CVE-2026-53228, CVE-2026-53246, CVE-2026-53247, CVE-2026-53359,
-CVE-2026-64531)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kyogre, Groudon, Zacian, and Zamazenta Revealed from “30th Celebration!”]]></title>
-        <id>156993</id>
-        <link href="https://www.pokebeach.com/forums/threads/kyogre-groudon-zacian-and-zamazenta-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.156993/"/>
-        <updated>2026-08-20T21:18:53.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -511,23 +810,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8654-1: Netty vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8654-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8654-1"/>
-        <updated>2026-08-20T13:57:14.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Netty did not properly handle malformed HTTP/2
-control frames. An attacker could use this to cause a denial of service
-via resource exhaustion. This issue only affects Ubuntu 18.04 LTS,
-Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, and Ubuntu 24.04 LTS. (CVE-2025-55163)
-
-It was discovered that Netty did not properly validate the request URI
-for line-break characters. An attacker could use this to perform CRLF
-injection and request smuggling. (CVE-2025-67735)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Heartlight: Fascynacja Boulder Dashem]]></title>
         <id>https://www.high-voltage.cz/?p=62333</id>
         <link href="https://www.high-voltage.cz/2026/heartlight-fascynacja-boulder-dashem/"/>
@@ -746,31 +1028,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8653-1: PostgreSQL vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8653-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8653-1"/>
-        <updated>2026-08-20T11:42:58.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that PostgreSQL incorrectly handled COPY FROM STDIN when
-an early failure occurred. An authenticated user could possibly use this
-issue to execute arbitrary SQL commands. (CVE-2026-6464)
-
-It was discovered that PostgreSQL incorrectly reset extended statistics
-ownership during ALTER TABLE ALTER TYPE operations. An attacker could
-possibly use this issue to obtain sensitive information or gain unintended
-privileges. (CVE-2026-6469)
-
-It was discovered that PostgreSQL failed to check the USAGE privilege on
-types. An authenticated user could possibly use this issue to obtain
-sensitive information. (CVE-2026-6470)
-
-It was discovered that PostgreSQL logical decoding could load arbitrary
-shared libraries. An authenticated user could possibly use this issue to
-execute arbitrary cod…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RPM 6.1 Released With Clang Build Fixes, New Release Model]]></title>
         <id>https://www.phoronix.com/news/RPM-6.1-Released</id>
         <link href="https://www.phoronix.com/news/RPM-6.1-Released"/>
@@ -811,16 +1068,6 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2026-08-20T11:09:28.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fields of Mistria: The Kotaku Review]]></title>
-        <id>https://kotaku.com/?p=2000725933</id>
-        <link href="https://kotaku.com/fields-of-mistria-the-kotaku-review-2000725933"/>
-        <updated>2026-08-20T11:00:44.000Z</updated>
-        <summary type="html"><![CDATA[In my brightest dreams, I see that valley]]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
         </author>
     </entry>
     <entry>
@@ -1093,39 +1340,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8563-4: nginx regression]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8563-4</id>
-        <link href="https://ubuntu.com/security/notices/USN-8563-4"/>
-        <updated>2026-08-19T19:30:43.000Z</updated>
-        <summary type="html"><![CDATA[USN-8563-3 fixed a vulnerability in nginx. The fix introduced a regression
-in certain environments. This update reverts the fix for CVE-2026-42533
-pending further investigation.
-
-We apologize for the inconvenience.
-
-Original advisory details:
-
- It was discovered that nginx incorrectly handled certain map directives
- using regex matching and capture variables. A remote attacker could use
- this issue to cause nginx to crash, resulting in a denial of service, or
- possibly execute arbitrary code. (CVE-2026-42533)
-
- It was discovered that nginx had a use-after-free vulnerability in the
- ngx_http_ssi_module module when configured with Server-Side Includes,
- proxy_pass, and proxy buffering disabled directives. An attacker able to
- intercept traffic and control responses from an upstream server could
- possibly use this issue to cause nginx to crash, resulting in a denial of
- service. (CVE-2026-56434)
-
- It was discovered that nginx incorrectly handled certain requests in the
- ngx_http_slice_module module. A remote attacker could possibly use this
- issue to obtain sensitive information or cause nginx to crash, resulting
- in a denial of service. (CVE-2026-60005)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Go Language 1.27 Adds Generic Methods, Struct Improvement & More SIMD]]></title>
         <id>https://www.phoronix.com/news/Go-1.27</id>
         <link href="https://www.phoronix.com/news/Go-1.27"/>
@@ -1178,39 +1392,12 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8651-1: curl vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8651-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8651-1"/>
-        <updated>2026-08-19T16:44:20.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that curl incorrectly handled reusing connections
-when the origin changed between transfers. A remote attacker could
-possibly use this issue to obtain sensitive information.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Charizard Collector’s Figure Box” to Release in China Featuring Jumbo Charizard Figure and Card!]]></title>
         <id>156987</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Ccharizard-collector%E2%80%99s-figure-box%E2%80%9D-to-release-in-china-featuring-jumbo-charizard-figure-and-card.156987/"/>
         <updated>2026-08-19T16:12:30.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8650-1: Cap'n Proto vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8650-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8650-1"/>
-        <updated>2026-08-19T16:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Chanho Kim and Jihyeok Han discovered that Cap'n Proto incorrectly
-handled negative Content-Length values or excessively large chunk sizes
-when processing HTTP messages. An attacker could possibly use these
-issues to cause HTTP messages to be interpreted inconsistently,
-resulting in HTTP request or response smuggling. (CVE-2026-32239,
-CVE-2026-32240)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1384,24 +1571,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8649-1: libheif vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8649-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8649-1"/>
-        <updated>2026-08-19T12:39:30.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that libheif had an integer underflow in the Fraction
-constructor when a clap transform was applied twice. An attacker could
-possibly use this issue to cause libheif to crash, resulting in a denial of
-service. (CVE-2026-62289)
-
-It was discovered that libheif had an out-of-bounds read in uncompressed
-tile range slicing. An attacker could possibly use this issue to cause
-libheif to crash, resulting in a denial of service. This issue only
-affected Ubuntu 25.10. (CVE-2026-62292)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Raspberry Pi Compute Module 5 Programming Jig]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/raspberry-pi-compute-module-5-programming-jig</id>
         <link href="http://www.abclinuxu.cz/zpravicky/raspberry-pi-compute-module-5-programming-jig"/>
@@ -1422,39 +1591,6 @@ affected Ubuntu 25.10. (CVE-2026-62292)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8563-3: nginx vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8563-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8563-3"/>
-        <updated>2026-08-19T12:01:08.000Z</updated>
-        <summary type="html"><![CDATA[USN-8563-1 fixed vulnerabilities in nginx. The fix for CVE-2026-42533 was
-backed out in USN-8563-2 because it could cause a regression. This update
-includes a better fix for CVE-2026-42533.
-
-We apologize for the inconvenience.
-
-Original advisory details:
-
- It was discovered that nginx incorrectly handled certain map directives
- using regex matching and capture variables. A remote attacker could use
- this issue to cause nginx to crash, resulting in a denial of service, or
- possibly execute arbitrary code. (CVE-2026-42533)
-
- It was discovered that nginx had a use-after-free vulnerability in the
- ngx_http_ssi_module module when configured with Server-Side Includes,
- proxy_pass, and proxy buffering disabled directives. An attacker able to
- intercept traffic and control responses from an upstream server could
- possibly use this issue to cause nginx to crash, resulting in a denial of
- service. (CVE-2026-56434)
-
- It was discovered that nginx incorrectly handled certain requests in the
- ngx_http_slice_module module. A remote attacker could possibly use this
- issue to obtain sensitive information or cause nginx to crash, resulting
- in a denial of service. (CVE-2026-60005)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Poll: Did You Get Into The Duskbloods Switch 2 Beta Test?]]></title>
         <id>https://www.nintendolife.com/#article-205151</id>
         <link href="https://www.nintendolife.com/features/poll-did-you-get-into-the-duskbloods-switch-2-beta-test"/>
@@ -1465,51 +1601,6 @@ On Friday, FromSoftware fans with a Switch 2 get their first chance to go hands-
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8648-1: Bind vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8648-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8648-1"/>
-        <updated>2026-08-19T11:45:39.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that Bind incorrectly accepted NSEC3 records whose signer
-name did not match the owning zone. A remote attacker could possibly use
-this issue to perform NSEC3 impersonation attacks, bypassing DNSSEC
-validation. (CVE-2026-10723)
-
-It was discovered that Bind incorrectly handled Key Records using the
-PRIVATEDNS algorithm. A remote attacker could possibly use this issue to
-cause Bind to crash, resulting in a denial of service. (CVE-2026-10822)
-
-It was discovered that Bind incorrectly handled wildcard CNAME expansion in
-Response Policy Zones. A remote attacker could possibly use this issue to
-bypass configured RPZ policies. (CVE-2026-11331)
-
-It was discovered that Bind performed unnecessary validation of DNSSEC
-signed records. A remote attacker could possibly use this issue to cause
-Bind to use excessive resources, leading to a denial of service. This issue
-only affected Ubuntu 26.04 LTS. (CVE-2026-11605)
-
-It was discovered that Bind incorrectly tracked memory usage in the DNS
-cache. A remote attacker could possibly use this issue to cause Bind to use
-memory beyond configured limits, leading to a denial of service.
-(CVE-2026-11622)
-
-It was discovered that Bind incorrectly handled signed wildcard records
-with label count discrepancies and RRSIG validation. A remote attacker
-could possibly use this issue to perform cache poisoning attacks.
-(CVE-2026-11721)
-
-It was discovered that Bind incorrectly handled certain CNAME and DNAME
-record orderings in the resolver. A remote attacker could possibly use this
-issue to cause Bind to crash, resulting in a denial of service.
-(CVE-2026-12617)
-
-It was discovered that Bind incorrectly validated out-of-zone NSEC next
-owner names during DNSSEC validation. A remote attacker could possibly use
-this issue to bypass DNSSEC validation. (CVE-2026-13321)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1686,19 +1777,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gallery: Here's A Look At The Electrifying Pikachu Cards In Pokémon TCG: 30th Celebration]]></title>
-        <id>https://www.nintendolife.com/#article-205138</id>
-        <link href="https://www.nintendolife.com/news/2026/08/gallery-heres-a-look-at-the-electrifying-pikachu-cards-in-pokemon-tcg-30th-celebration"/>
-        <updated>2026-08-19T03:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Releasing worldwide this September.
-The Pokémon Trading Card Game's '30th Celebration' series arrives simultaneously worldwide on 16th September 2025, and The Pokémon Company has this week given fans a look at the Pikachu cards included in the set.
-In case you missed our original post, there'll be 30 rare Pikachu cards featuring Pikachu numbering, and you can find one in every booster pack. They'll include reprints of classic cards, designs with new artwork, and two Pikachu "ex special illustration rares", which highlight the "day and night aesthetic" of the anniversary set.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Framework Laptop 12 s Intel Core Series 3]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/framework-laptop-12-s-intel-core-series-3</id>
         <link href="http://www.abclinuxu.cz/zpravicky/framework-laptop-12-s-intel-core-series-3"/>
@@ -1706,19 +1784,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Společnost Framework představila nový Framework Laptop 12 s Intel Core Series 3, Thunderbolt 4, Wi-Fi 7, volitelnou čtečkou otisků prstů a podsvícenou klávesnicí s open-source firmwarem ZMK. Objednat lze s předinstalovanou Fedorou 44 KDE Plasma.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Industry Legend Warren Spector Announces His Retirement From Game Development]]></title>
-        <id>https://www.nintendolife.com/#article-205137</id>
-        <link href="https://www.nintendolife.com/news/2026/08/industry-legend-warren-spector-announces-his-retirement-from-game-development"/>
-        <updated>2026-08-19T02:35:00.000Z</updated>
-        <summary type="html"><![CDATA["The game business has changed".
-American video game developer Warren Spector has announced he's retiring from game development, and although he's "been here before", this time he's "pretty sure" he means it.
-In a post on LinkedIn, the industry legend known for Deus Ex, Epic Mickey, and also his work on series such as Wing Commander, Ultima and System Shock, said the game business had changed, and admitted it's not "as much fun" for him anymore. After 44 years in development, he also realises it's time for a new generation, who deserve their time in the sun.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -2004,16 +2069,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora x86-64-v3 Optimized Packages Pushed Back To At Least Fedora 46]]></title>
-        <id>https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46</id>
-        <link href="https://www.phoronix.com/news/Fedora-x86-64-v3-Delayed-F46"/>
-        <updated>2026-08-18T10:21:29.000Z</updated>
-        <summary type="html"><![CDATA[There was a proposal under discussion the past few months on building x86-64-v3 packages for Fedora 45 while retaining x86-64-v1 packages. The hope was building the Fedora packages with x86-64-v3 where AVX/AVX2, FMA, BMI2, and other newer ISA features can be assumed in the name of better performance. Unfortunately, the x86-64-v3 plans are now delayed but may be reconsidered next year with Fedora 46...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2329,15 +2384,6 @@ Below you will find the whittled down pickings that stood out to me, but head ov
 Read more]]></summary>
         <author>
             <name>Julian Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anyone what to play M Golurk ex]]></title>
-        <id>156959</id>
-        <link href="https://www.pokebeach.com/forums/threads/anyone-what-to-play-m-golurk-ex.156959/"/>
-        <updated>2026-08-17T11:14:30.000Z</updated>
-        <author>
-            <name>GOLURK KING 2</name>
         </author>
     </entry>
     <entry>
