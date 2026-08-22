@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-22T08:21:25.452Z</id>
+    <id>urn:2026-08-22T10:17:06.859Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-22T08:21:25.452Z</updated>
+    <updated>2026-08-22T10:17:06.859Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Open-Source Etnaviv Driver Now Able To Run YOLOX]]></title>
+        <id>https://www.phoronix.com/news/Etnaviv-YOLOX</id>
+        <link href="https://www.phoronix.com/news/Etnaviv-YOLOX"/>
+        <updated>2026-08-22T10:06:04.000Z</updated>
+        <summary type="html"><![CDATA[The open-source, reverse-engineered Etnaviv driver stack that began for providing accelerated graphics support on Vivante GPU IP and since expanded to handle Vivante NPUs as well is now able to handle YOLOX object detection...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 x86/mm Lands Patches To Greatly Improve Latency-Sensitive Workloads]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-x86-mm-Latency</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-x86-mm-Latency"/>
+        <updated>2026-08-22T09:57:36.000Z</updated>
+        <summary type="html"><![CDATA[The highlight of this week's x86/mm pull request of changes for the Linux 7.3 kernel are fixes that reduce the time that the TLB flushing code has interrupts disabled. This helps significantly with latency-sensitive workloads but Intel engineer Dave Hansen noted in the pull request that "it's certainly something to keep an eye on" in looking out for any regressions...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (22nd August)]]></title>
+        <id>https://www.nintendolife.com/#article-205263</id>
+        <link href="https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-22nd-august"/>
+        <updated>2026-08-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Arise, Bloodsworn.
+Ahoy! The weekend is here once again – joy! Before we get into what we're playing, however, let's just see what's been going on this week.
+First up, Nintendo finally confirmed what the newly-revised Switch 2 price will be in the UK. It's not terrible news, to be honest, but it does put the console over the £400 threshold. Elsewhere, the network test for The Duskbloods kicked off, and so we were treated to a bunch of previews online along with some info on the collaboration between FromSoftware and Nintendo.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“Delta Reign” TCG Set Officially Revealed for November, Full Product Lineup!]]></title>
         <id>156994</id>
@@ -1799,19 +1832,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Trails In The Sky 2nd Chapter Switch Demo And Opening Movie Released]]></title>
-        <id>https://www.nintendolife.com/#article-205195</id>
-        <link href="https://www.nintendolife.com/news/2026/08/trails-in-the-sky-2nd-chapter-switch-demo-and-opening-movie-released"/>
-        <updated>2026-08-20T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Following 1st Chapter's legacy update.
-Following a legacy patch for Trails in the Sky 1st Chapter earlier this week, Falcom and GungHo Online Entertainment have now turned their attention to the 2nd Chapter in the role-playing series.
-If you are wanting to try out Trails in the Sky 2nd Chapter before its arrival this September, there's now a demo available for the Switch. Save data can also be transferred across to the full game when it launches.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[X.Org Server 26.1 RC1 Prepares For First Feature Release In Five Years]]></title>
         <id>https://www.phoronix.com/news/X.Org-Server-26.1-RC1</id>
         <link href="https://www.phoronix.com/news/X.Org-Server-26.1-RC1"/>
@@ -1961,16 +1981,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD EPYC 9005 Series Memory Scaling Performance From 4 To 24 DDR5 RDIMMs]]></title>
-        <id>https://www.phoronix.com/review/dell-epyc-9005-memory-scaling</id>
-        <link href="https://www.phoronix.com/review/dell-epyc-9005-memory-scaling"/>
-        <updated>2026-08-19T14:20:00.000Z</updated>
-        <summary type="html"><![CDATA[With today's memory prices, a frequent question at Phoronix and throughout many organizations is about reducing cost by not necessarily populating all memory channels. Especially with modern servers going up to 12 memory channels per socket or even 16 memory channels with upcoming EPYC Venice, you may be curious about the performance impact of populating less memory channels to see if the trade-off is worthwhile given today's DDR5 RDIMM pricing. In this article are benchmarks from a Dell PowerEdge server looking at a dual AMD EPYC 9655 2P configuration when testing between four and the full twenty-four DDR5-6400 RDIMM configuration and the resulting performance impact in more than 250 benchmarks.]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amid accusations of a post-beta difficulty bump, Mortal Shell 2 devs patch the new soulslike to stop players riposting so hard they steal enemy weapons]]></title>
         <id>https://www.rockpapershotgun.com/amid-accusations-of-a-post-beta-difficulty-bump-mortal-shell-2-devs-patch-the-new-soulslike-to-stop-players-riposting-so-hard-they-steal-enemy-weapons</id>
         <link href="https://www.rockpapershotgun.com/amid-accusations-of-a-post-beta-difficulty-bump-mortal-shell-2-devs-patch-the-new-soulslike-to-stop-players-riposting-so-hard-they-steal-enemy-weapons"/>
@@ -1979,16 +1989,6 @@ Read more]]></summary>
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[XWayland 26.1 RC1 Released With Many New Features]]></title>
-        <id>https://www.phoronix.com/news/XWayland-26.1-RC1</id>
-        <link href="https://www.phoronix.com/news/XWayland-26.1-RC1"/>
-        <updated>2026-08-19T14:11:07.000Z</updated>
-        <summary type="html"><![CDATA[Olivier Fourdan of Red Hat announced today the first release candidate of XWayland 26.1. This is the first new tagged feature release since XWayland 24.1 back in 2024! As such there are many new features in tow...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
