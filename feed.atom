@@ -1,17 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-23T10:16:47.818Z</id>
+    <id>urn:2026-08-23T12:26:52.405Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-23T10:16:47.818Z</updated>
+    <updated>2026-08-23T12:26:52.405Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[“Delta Reign” TCG Set Officially Revealed for November, Full Product Lineup!]]></title>
+        <id>156994</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-tcg-set-officially-revealed-for-november-full-product-lineup.156994/"/>
+        <updated>2026-08-23T12:02:55.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Double Fine Returns To Kickstarter Post-Xbox, Announces New Game Jam]]></title>
+        <id>https://www.nintendolife.com/#article-205318</id>
+        <link href="https://www.nintendolife.com/news/2026/08/double-fine-returns-to-kickstarter-post-xbox-announces-new-game-jam"/>
+        <updated>2026-08-23T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tim Schafer confirms studio owns publishing rights to "all "of its games.
+
+In case you missed the news, Tim Schafer's studio Double Fine recently regained its independence after Xbox announced a major reset.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ReactOS Merges Support For Job Objects As Step To Running Modern Windows Apps]]></title>
+        <id>https://www.phoronix.com/news/ReactOS-Job-Objects</id>
+        <link href="https://www.phoronix.com/news/ReactOS-Job-Objects"/>
+        <updated>2026-08-23T11:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Merged yesterday to the ReactOS code-base is initial support for Job Objects, which is an important milestone in the road to being able to run more modern Windows software under this open-source operating system striving for Windows driver/application compatibility...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alolan Exeggutor and Scraggy from “30th Celebration” Revealed]]></title>
         <id>157001</id>
         <link href="https://www.pokebeach.com/forums/threads/alolan-exeggutor-and-scraggy-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.157001/"/>
-        <updated>2026-08-23T09:07:38.000Z</updated>
+        <updated>2026-08-23T11:40:38.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 Makes Preparations Toward Upstreaming FAMFS File-System]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-Preps-Toward-FAMFS</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-Preps-Toward-FAMFS"/>
+        <updated>2026-08-23T11:20:00.000Z</updated>
+        <summary type="html"><![CDATA[The NVDIMM and direct access (DAX) patches have been merged for the Linux 7.3 cycle. Most of the DAX/NVDIMM activity this cycle is on making preparations for the upcoming submission of Micron's FAMFS file-system...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC Patch Adjusting AMD Zen 5 Misprediction Cost Nets 12% Win In Benchmark]]></title>
+        <id>https://www.phoronix.com/news/AMD-Zen-5-Mispredict-Cost</id>
+        <link href="https://www.phoronix.com/news/AMD-Zen-5-Mispredict-Cost"/>
+        <updated>2026-08-23T10:56:12.000Z</updated>
+        <summary type="html"><![CDATA[An AMD compiler engineer posted a patch on Saturday for the GNU Compiler Collection (GCC). The two-line patch adjusts the misprediction cost for Zen 4 and Zen 5 processors, which ends up yielding a 12% improvement in one SPEC CPU benchmark on Zen 5 and a 9% improvement on Zen 4...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 Introduces New AES Encryption APIs - Will Open Up More Performance]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-New-Crypto-AES-APIs"/>
+        <updated>2026-08-23T10:42:14.000Z</updated>
+        <summary type="html"><![CDATA[Eric Biggers of Google continues carrying out great work on the Linux kernel crypto code. For Linux 7.3 he's landed work on new library APIs for most of the AES encryption modes used within the kernel. Moving forward this will open the door to more performance optimizations, reducing code duplication, and other enhancements...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 Input Subsystem Updates Merged With Security Fixes, Other Improvements]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-Input</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-Input"/>
+        <updated>2026-08-23T10:30:27.000Z</updated>
+        <summary type="html"><![CDATA[The big set of input subsystem updates were merged earlier this week for the Linux 7.3 cycle. It's a random assortment of different improvements as well as bug/security fixes driven in part by the flow of AI/LLM generated discoveries...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -82,15 +154,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[The eCryptfs stacked cryptographic filesystem implementation for the Linux kernel to transparently encrypt files saw a number of bug fixes for the Linux 7.3 kernel. A number of these bug fixes deal with potential maliciously-crafted data and vulnerable going back to the 2006 introduction of eCryptfs as this option known for its use on Ubuntu home directory encryption and Chrome OS...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Delta Reign” TCG Set Officially Revealed for November, Full Product Lineup!]]></title>
-        <id>156994</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-tcg-set-officially-revealed-for-november-full-product-lineup.156994/"/>
-        <updated>2026-08-22T22:49:49.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1531,26 +1594,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rust 1.98 Adds Algebraic Floating-Point Methods Akin To "-ffast-math"]]></title>
-        <id>https://www.phoronix.com/news/Rust-1.98-Released</id>
-        <link href="https://www.phoronix.com/news/Rust-1.98-Released"/>
-        <updated>2026-08-20T17:29:25.000Z</updated>
-        <summary type="html"><![CDATA[Rust 1.98 released today and is headlined the debut of new algebraic floating-point methods...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KMSCON 10.0.2 Brings asciicast Playback Support, Bug Fixes]]></title>
-        <id>https://www.phoronix.com/news/KMSCON-10.0.2-Released</id>
-        <link href="https://www.phoronix.com/news/KMSCON-10.0.2-Released"/>
-        <updated>2026-08-20T17:19:37.000Z</updated>
-        <summary type="html"><![CDATA[KMSCON 10.0.2 debuted today as the latest update to this leading user-space terminal emulator for Linux systems. KMSCON is built around Linux's KMS/DRM interfaces and the most viable alternative to date for in-kernel VTs...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bun 1.4]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/bun-1.4</id>
         <link href="http://www.abclinuxu.cz/zpravicky/bun-1.4"/>
@@ -1593,16 +1636,6 @@ Surprising no one, Nintendo is still absolutely dominating, with Game Freak's Be
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Software Now Has Stable Btrfs Snapshot Integration With KIO-Snapshot 1.0]]></title>
-        <id>https://www.phoronix.com/news/KDE-Btrfs-Snapshots</id>
-        <link href="https://www.phoronix.com/news/KDE-Btrfs-Snapshots"/>
-        <updated>2026-08-20T16:21:31.000Z</updated>
-        <summary type="html"><![CDATA[With today's release of KIO-Snapshot, KDE software now has stable integration of Btrfs file-system snapshots...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -1833,30 +1866,6 @@ Bug: IDE has various issues with connected device, including installation and mi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Download: 20th August (North America)]]></title>
-        <id>https://www.nintendolife.com/#article-205193</id>
-        <link href="https://www.nintendolife.com/news/2026/08/nintendo-download-20th-august-north-america"/>
-        <updated>2026-08-20T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Elden Ring! Metal Gear! 1000xResist!
-The latest Nintendo Download update for North America has arrived, and it's bringing new games galore to the eShop in your region. As always, be sure to drop a vote in our poll and comment down below with your potential picks for the week. Enjoy!
-Switch eShop - Highlights
-ELDEN RING Tarnished Edition (Bandai Namco Entertainment, 28th Aug, $79.99) - – Experience the award-winning action RPG set in an authentic dark fantasy world. Venture through the Lands Between, exploring treacherous dungeons and engaging in epic boss battles. ELDEN RING Tarnished Edition includes the base game and the SHADOW OF THE ERDTREE expansion, as well as new weapons, armor, a new Torrent appearance customization and more. ELDEN RING Tarnished Edition arrives on the Nintendo Switch 2 system Aug. 28. Pre-orders are available now on Nintendo eShop.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FSCRYPT Sees Cleanup With Linux 7.3 To Open Door For More Features Like Btrfs Encryption]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.3-FSCRYPT</id>
-        <link href="https://www.phoronix.com/news/Linux-7.3-FSCRYPT"/>
-        <updated>2026-08-20T13:18:28.000Z</updated>
-        <summary type="html"><![CDATA[FSCRYPT is the Linux file-system encryption framework for supporting per-directory, transparent encryption. FSCRYPT so far is used by the likes of EXT4, F2FS, and CephFS. For Linux 7.3 there is an important clean-up to the FSCRYPT code to simplify it while also opening the door for new features moving forward into future kernel versions...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Thinking about Winds and Waves again]]></title>
         <id>156788</id>
         <link href="https://www.pokebeach.com/forums/threads/thinking-about-winds-and-waves-again.156788/"/>
@@ -1873,16 +1882,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Problém pěkně shrnul Technomorous v článku Ceterum autem censeo Carthaginem esse delendam, nemá cenu mlátit stejný stoh slámy, takže jen stručně.]]></summary>
         <author>
             <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Driver Posted For The PreSonus Quantum 2626: A ~$700 Thunderbolt Audio Interface]]></title>
-        <id>https://www.phoronix.com/news/PreSonus-Quantum-2626-Linux</id>
-        <link href="https://www.phoronix.com/news/PreSonus-Quantum-2626-Linux"/>
-        <updated>2026-08-20T12:28:39.000Z</updated>
-        <summary type="html"><![CDATA[The PreSonus Quantum 2626 is a high-end, Thunderbolt 3 based audio interface. PreSonus just maintains Windows and macOS drivers for this high-end audio interface while now an open-source Linux driver has been posted after being independently developed via reverse engineering...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
