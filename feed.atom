@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-23T22:14:37.085Z</id>
+    <id>urn:2026-08-24T00:54:50.397Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-23T22:14:37.085Z</updated>
+    <updated>2026-08-24T00:54:50.397Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3 Improving RAID 5/6 Benchmark-Based Algorithm Selection]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-XOR-RAID6-Benchmark"/>
+        <updated>2026-08-24T00:38:25.000Z</updated>
+        <summary type="html"><![CDATA[Following the main set of memory management "MM" changes submitted for Linux 7.3, Andrew Morton sent in his "non-MM" pull request of the other patches he's been collecting from various developers for this next Linux kernel release. Standing out there were some improvements to the RAID 5/6 benchmark-based algorithm selection...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alolan Exeggutor and Scraggy from “30th Celebration” Revealed]]></title>
         <id>157001</id>
         <link href="https://www.pokebeach.com/forums/threads/alolan-exeggutor-and-scraggy-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.157001/"/>
-        <updated>2026-08-23T22:12:22.000Z</updated>
+        <updated>2026-08-24T00:31:10.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -1295,16 +1305,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds Endures A Debug Session From Hell, "Enormously Helped" By AI]]></title>
-        <id>https://www.phoronix.com/news/Linus-Torvalds-Debug-AI</id>
-        <link href="https://www.phoronix.com/news/Linus-Torvalds-Debug-AI"/>
-        <updated>2026-08-21T10:19:44.000Z</updated>
-        <summary type="html"><![CDATA[It's pretty rare to see Linus Torvalds author patches himself pertaining to the open-source Linux graphics drivers, but waking up this morning I was surprised to see he authored and committed an Intel Xe kernel graphics driver change himself. It ended up being after he encountered a "debug session from hell" but was ultimately helped by AI in fixing a bug that had been irking him...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
