@@ -1,10 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-24T18:29:58.793Z</id>
+    <id>urn:2026-08-24T20:21:52.825Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-08-24T18:29:58.793Z</updated>
+    <updated>2026-08-24T20:21:52.825Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Duskbloods’ Beloved Armored Sea Chicken, Zork, Drinks Blood With His Beak ‘Like A Mosquito’]]></title>
+        <id>https://kotaku.com/?p=2000727643</id>
+        <link href="https://kotaku.com/the-duskbloods-zork-mosquito-ultra-man-2000727643"/>
+        <updated>2026-08-24T20:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Just like Ultraman]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultra Ball, Poké Pad, and Switch from “30th Celebration” Revealed]]></title>
+        <id>157002</id>
+        <link href="https://www.pokebeach.com/forums/threads/ultra-ball-pok%C3%A9-pad-and-switch-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.157002/"/>
+        <updated>2026-08-24T19:35:01.000Z</updated>
+        <author>
+            <name>steffenka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux ath11k Driver Improvements For Qualcomm WiFi 6 Hardware Yields 7x Lower Latency]]></title>
+        <id>https://www.phoronix.com/news/ath11k-7x-Lower-Latency</id>
+        <link href="https://www.phoronix.com/news/ath11k-7x-Lower-Latency"/>
+        <updated>2026-08-24T19:29:27.000Z</updated>
+        <summary type="html"><![CDATA[A patch series being worked on for the ath11k mainline wireless networking driver for Qualcomm WiFi 6 / 802.11ax chipsets is yielding 7x lower latency or 2.2x throughput at identical latency...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord Says It Hasn’t Been Served With A Subpoena Over GTA 6 Leaks Yet: ‘We’ll Evaluate The Validity And Scope Before Responding’]]></title>
+        <id>https://kotaku.com/?p=2000727642</id>
+        <link href="https://kotaku.com/discord-says-it-hasnt-been-served-with-a-subpoena-over-gta-6-leaks-yet-well-evaluate-the-validity-and-scope-before-responding-2000727642"/>
+        <updated>2026-08-24T19:20:38.000Z</updated>
+        <summary type="html"><![CDATA[Some users are worried about how broad Take-Two's data request is]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Worlds 2026 Pokemon Center Merchandise Revealed: PokemonXP Line, World Championships Line, San Francisco Line!]]></title>
         <id>157004</id>
@@ -55,6 +94,22 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[USN-8671-1: FFmpeg vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8671-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8671-1"/>
+        <updated>2026-08-24T17:16:26.000Z</updated>
+        <summary type="html"><![CDATA[Adrian Junge was discovered that FFmpeg incorrectly handled certain media
+files. An attacker could possibly use this issue to cause a denial of
+service or execute arbitrary code. (CVE-2026-66036, CVE-2026-66039)
+
+Adrian Junge discovered that FFmpeg incorrectly handled certain media
+files. An attacker could possibly use this issue to obtain sensitive
+information. (CVE-2026-66038)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Eevee Gym Promo Revealed for Deck Tournaments!]]></title>
         <id>157003</id>
         <link href="https://www.pokebeach.com/forums/threads/eevee-gym-promo-revealed-for-deck-tournaments.157003/"/>
@@ -97,15 +152,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ultra Ball, Poké Pad, and Switch from “30th Celebration” Revealed]]></title>
-        <id>157002</id>
-        <link href="https://www.pokebeach.com/forums/threads/ultra-ball-pok%C3%A9-pad-and-switch-from-%E2%80%9C30th-celebration%E2%80%9D-revealed.157002/"/>
-        <updated>2026-08-24T17:00:03.000Z</updated>
-        <author>
-            <name>steffenka</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Review: Starsand Island (Switch 2) – Perfectly Pleasant Yet Imperfect Life Sim]]></title>
         <id>https://www.nintendolife.com/#article-204986</id>
         <link href="https://www.nintendolife.com/reviews/nintendo-switch-2/starsand-island"/>
@@ -135,6 +181,18 @@ Read the full article on nintendolife.com]]></summary>
         <updated>2026-08-24T16:36:31.000Z</updated>
         <author>
             <name>antagonistic lama</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8670-1: curl vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8670-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8670-1"/>
+        <updated>2026-08-24T16:31:26.000Z</updated>
+        <summary type="html"><![CDATA[Joshua Rogers discovered that curl incorrectly handled reusing connections
+when client certificate settings changed. This could result in the wrong
+client certificates being used, contrary to expectations.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -174,7 +232,7 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/we-ended-up-kind-of-cornered-there-mortal-shell-2-devs-say-they-didnt-intend-to-lock-everybody-out-by-disabling-achievements-for-slayer-seal-easy-mode-users"/>
         <updated>2026-08-24T15:57:22.000Z</updated>
         <summary type="html"><![CDATA[Formidable fantasy soulslike Mortal Shell 2 has been getting it in the shins from certain players over the decision to 'lock them out' of Steam achievements, when they equip the notorious Slayer Seal.
-Trailers have characterised the Slayer Seal as an in-game 'easy mode'. As Jeremy summarises in our own Mortal Shell 2 review, it gives "you a pulverising punch and your ranged weapons the ability to deal Break damage", which goes a fair way in an action-RPG this vicious. Not being able to earn achievements with the Seal equipped (or even after you unequip it) has attracted a few Reddit threads protesting that people are being punished for declining to punish themselves… while other people (hello!) wonder why anybody cares this much about Steam achievements at all.
+Trailers have characterised the Slayer Seal as an in-game 'easy mode'. As Jeremy summarises in our own Mortal Shell 2 review, it gives "you a pulverising punch and your ranged weapons the ability to deal Break damage", which goes a fair way in an action-RPG this vicious. Not being able to earn achievements with the Seal equipped (or even after you unequip it) has sparked a few Reddit threads protesting that people are being punished for declining to punish themselves… while other people (hello!) wonder why anybody cares this much about Steam achievements at all.
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
@@ -258,7 +316,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[Celníci zadrželi více než 3 000 kusů zboží podezřelého z porušování práv duševního vlastnictví]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/celnici-zadrzeli-vice-nez-3-000-kusu-zbozi-podezreleho-z-porusovani-prav-dusevniho-vlastnictvi</id>
         <link href="http://www.abclinuxu.cz/zpravicky/celnici-zadrzeli-vice-nez-3-000-kusu-zbozi-podezreleho-z-porusovani-prav-dusevniho-vlastnictvi"/>
-        <updated>2026-08-24T14:03:53.000Z</updated>
+        <updated>2026-08-24T14:03:52.000Z</updated>
         <summary type="html"><![CDATA[Řemínky pro Apple Watch, bezdrátová sluchátka nebo nabíjecí adaptéry. Takovou nabídku našli v uplynulých dnech příslušníci Celního úřadu v Liberci při kontrole kamenného obchodu na Náchodsku. Celkem zde zadrželi  3 035 kusů zboží podezřelého z porušování práv duševního vlastnictví. Pokud by se jednalo o originální výrobky, jejich hodnota by podle odhadu přesáhla 10,8 milionu korun.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -318,7 +376,7 @@ The Maw is merry because this week is Gamescom week - a time of much videogame n
     <entry>
         <title type="html"><![CDATA[First Impressions: Network Issues Aside, The Duskbloods Could Wind Up Being Really Special]]></title>
         <id>https://www.nintendolife.com/#article-205268</id>
-        <link href="https://www.nintendolife.com/features/first-impressions-network-issues-aside-the-duskbloods-could-wind-up-being-really-special"/>
+        <link href="https://www.nintendolife.com/previews/first-impressions-network-issues-aside-the-duskbloods-could-wind-up-being-really-special"/>
         <updated>2026-08-24T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[There will be blood.
 The Duskbloods has been a long time coming – it was first shown off during the Switch 2 Direct in April 2025, if you remember – but it's finally here. Well, sort of.
@@ -534,15 +592,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[CrossPoint Reader je open-source alternativní firmware pro menší, levné čtečky, vybavené cca čtyřpalcovým e-ink displejem. Zahrnuje aplikaci pro čtení e-knih a webový server pro konfiguraci a přenos souborů po síti. Verze 1.0 byla vydána v únoru 2026. Recenze současné verze 1.5 vyšla na Linux Weekly News.]]></summary>
         <author>
             <name>|&amp;#x1f1f5;&amp;#x1f1f8;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What MMORPG is worth playing in 2022]]></title>
-        <id>153250</id>
-        <link href="https://www.pokebeach.com/forums/threads/what-mmorpg-is-worth-playing-in-2022.153250/"/>
-        <updated>2026-08-24T07:46:00.000Z</updated>
-        <author>
-            <name>krazy_cat</name>
         </author>
     </entry>
     <entry>
@@ -912,16 +961,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Studio From Arkane Austin Devs Promises It Won’t Commit Another Redfall]]></title>
-        <id>https://kotaku.com/?p=2000727068</id>
-        <link href="https://kotaku.com/new-studio-from-arkane-austin-devs-promises-they-wont-commit-another-redfall-2000727068"/>
-        <updated>2026-08-22T21:48:20.000Z</updated>
-        <summary type="html"><![CDATA[The founders of Black Pony Immersive say they aren’t going to be tempted by live service trends, averting previous mistakes made with their most infamous immersive sim]]></summary>
-        <author>
-            <name>Zack Kotzer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chromatic aberration is made manifest in NECHROMIA, a high contrast survival horror set in a castle made of something else's memories]]></title>
         <id>https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories</id>
         <link href="https://www.rockpapershotgun.com/chromatic-aberration-is-made-manifest-in-nechromia-a-high-contrast-survival-horror-set-in-a-castle-made-of-something-elses-memories"/>
@@ -941,16 +980,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The Rust-written, from-scratch Redox OS operating system has switched to using an EEVDF based scheduler design. In doing so they are promoting a 2.6x increase in throughput and a 782x improvement in fairness...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Chooses The Worst Possible Time To Blast Players With Reminders That They Don’t Own Their Digital Games]]></title>
-        <id>https://kotaku.com/?p=2000727054</id>
-        <link href="https://kotaku.com/playstation-chooses-the-worst-possible-time-to-blast-players-with-reminders-that-they-dont-own-their-digital-games-2000727054"/>
-        <updated>2026-08-22T19:30:09.000Z</updated>
-        <summary type="html"><![CDATA[Terms of service reminders went out to a bunch of PSN users amid the ongoing backlash over the end of PlayStation discs]]></summary>
-        <author>
-            <name>Ethan Gach</name>
         </author>
     </entry>
     <entry>
@@ -1303,16 +1332,6 @@ CVE-2026-53212, CVE-2026-53215, CVE-2026-53224, CVE-2026-53225,
 CVE-2026-53228, CVE-2026-53246, CVE-2026-53359, CVE-2026-64531)]]></summary>
         <author>
             <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton 11.0-2 Enables More Titles With Steam Play / Linux Gaming]]></title>
-        <id>https://www.phoronix.com/news/Proton-11.0-2</id>
-        <link href="https://www.phoronix.com/news/Proton-11.0-2"/>
-        <updated>2026-08-21T21:14:07.000Z</updated>
-        <summary type="html"><![CDATA[Just in time for those that enjoy their Linux / Steam Play gaming on weekends, Valve and CodeWeavers today released Proton 11.0-2 as the newest stable release of this Wine 11.0 downstream that powers Steam Play for running Windows games gracefully on Linux...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -1840,76 +1859,6 @@ Ahead of release, the team at Mojang has released an official gameplay trailer s
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8666-1: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8666-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8666-1"/>
-        <updated>2026-08-20T23:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Siebe Devroe, Héloïse Gollier, and Mathy Vanhoef discovered that the WiFi
-implementation in the Linux kernel did not properly handle aggregated
-frames in mesh networks, due to an incorrect fix for CVE-2020-24588. A
-physically proximate attacker could use this issue to inject packets.
-(CVE-2025-27558)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - x86 architecture;
-  - Cryptographic API;
-  - InfiniBand drivers;
-  - Media drivers;
-  - NVIDIA Tegra memory controller driver;
-  - Network drivers;
-  - NVME drivers;
-  - File systems infrastructure;
-  - Ext4 file system;
-  - IPv4 networking;
-  - Network traffic control;
-  - TCP network protocol;
-  - Locking primitives;
-  - B.A.T.M.A.N. meshing protocol;
-  - Ceph Core library;
-  - IPv6 networking;
-  - Multipath TCP;
-  - Netfilter;
-  - SCTP protocol;
-  - SMC sockets;
-  - TIPC protocol;
-(CVE-2021-47378, CVE-2026-23392, CVE-2026-31405, CVE-2026-31414,
-CVE-2026-31448, CVE-2026-31657, CVE-2026-31668, CVE-2026-43071,
-CVE-2026-43198, CVE-2026-43493, CVE-2026-43499, CVE-2026-46266,
-CVE-2026-46331, CVE-2026-52914, CVE-2026-52924, CVE-2026-52931,
-CVE-2026-52955, CVE-2026-52958, CVE-2026-52982, CVE-2026-52986,
-CVE-2026-52989, CVE-2026-52993, CVE-2026-52999, CVE-2026-53002,
-CVE-2026-53006, CVE-2026-53045, CVE-2026-53088, CVE-2026-53176,
-CVE-2026-53212, CVE-2026-53228, CVE-2026-53359)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8665-1: Linux kernel (Raspberry Pi) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8665-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8665-1"/>
-        <updated>2026-08-20T23:31:14.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some AMD processors did not properly clear data in
-the floating point divider unit during speculative execution. A local
-attacker could use this to expose sensitive information. (CVE-2025-54505)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, resulting in privilege escalation. (CVE-2025-54518)
-
-It was discovered that some AMD Zen 5 processors supporting RDSEED
-instruction did not properly handle entropy, potentially resulting in the
-consumption of insufficiently random values. A local attacker could
-possibly use this issue to influence the values returned by the RDSEED
-instruction causing loss…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -2695,6 +2644,15 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Jazyk Lua je postaven dynamickém typovém systému, v němž jsou typy vztaženy k hodnotám a nikoli k proměnným či parametrům funkcí. Pro rozsáhlejší projekty je však výhodnější využívat statické typové kontroly.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Card Collecting Headaches]]></title>
+        <id>156921</id>
+        <link href="https://www.pokebeach.com/forums/threads/card-collecting-headaches.156921/"/>
+        <updated>2026-08-17T19:36:33.000Z</updated>
+        <author>
+            <name>kakihook</name>
         </author>
     </entry>
     <entry>
