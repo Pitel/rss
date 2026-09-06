@@ -1,10 +1,124 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-06T08:16:54.197Z</id>
+    <id>urn:2026-09-06T13:20:24.280Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-09-06T08:16:54.197Z</updated>
+    <updated>2026-09-06T13:20:24.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Server SiFive BigSky SF-2U870 RISC-V představen na Hot Chips]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/sifive-bigsky-sf-2u870-risc-v-server-predstaven-na-hot-chips</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/sifive-bigsky-sf-2u870-risc-v-server-predstaven-na-hot-chips"/>
+        <updated>2026-09-06T13:03:44.000Z</updated>
+        <summary type="html"><![CDATA[Server SiFive BigSky SF-2U870 2U je založený na jádře SiFive P870-D, zatím je naintegrovaných 32 jader 256 GB RAM 2 GHz, škálovat lze do 256 jader na čip. O něco podrobnější popis serveru v článku SiFive BigSky Ships the First RISC-V Server. Is the GPU Head Node the Prize? na futurumgroup.com. Asi ani tento čip nebude na úrovni nejlepších 64-bit ARMů a AMD Zenů, ale splňuje RVA23 specifikaci a je podporovaný Ubuntu 26.04 LTS a RHEL 10. V článku je popisované jeho využití jako frontendu ke GPU, kde může být velmi dobrý. Přitom NVIDIA ve všech svých GPU a chytrých síťových prvcích RISC-V již má a asi se uvažuje do budoucna o propojení NVlinkem i s další generací serverových RISC-V jader.]]></summary>
+        <author>
+            <name>Pavel Píša</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Civilization VII Unveils First Expansion "Earthrise" And Major Free Update]]></title>
+        <id>https://www.nintendolife.com/#article-205971</id>
+        <link href="https://www.nintendolife.com/news/2026/09/civilization-vii-unveils-first-expansion-earthrise-and-major-free-update"/>
+        <updated>2026-09-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Prepare for liftoff in 2027.
+Sid Meier’s Civilization VII is currently celebrating 35 years of the series and developer Firaxis Games has shared a preview of what's ahead.
+In 2027, fans can look forward to Arc of Tomorrow - a free update for all Civ VII players introducing the Atomic Age and extending the game's playable span of history from the 1950s to 2050s.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[language cards]]></title>
+        <id>157032</id>
+        <link href="https://www.pokebeach.com/forums/threads/language-cards.157032/"/>
+        <updated>2026-09-06T12:58:28.000Z</updated>
+        <author>
+            <name>Chilelord</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“30th Anniversary” Binder Collections Delayed Until December]]></title>
+        <id>157030</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-anniversary%E2%80%9D-binder-collections-delayed-until-december.157030/"/>
+        <updated>2026-09-06T12:02:59.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux Now Officially Supports Apple M3 Macs - With Caveats]]></title>
+        <id>https://www.phoronix.com/news/Asahi-Linux-Official-M3</id>
+        <link href="https://www.phoronix.com/news/Asahi-Linux-Official-M3"/>
+        <updated>2026-09-06T10:53:22.000Z</updated>
+        <summary type="html"><![CDATA[Asahi Linux developers announced today that they are now officially supporting the Linux distribution on Apple M3 powered Macs. With the exception of the Mac Studio M3 Ultra, other M3 / M3 Pro / M3 Max devices should now work with the latest Asahi Linux builds but with some feature caveats...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Developers Discuss Enabling ClangIR Build By Default]]></title>
+        <id>https://www.phoronix.com/news/ClangIR-Build-Default-Maybe</id>
+        <link href="https://www.phoronix.com/news/ClangIR-Build-Default-Maybe"/>
+        <updated>2026-09-06T10:43:10.000Z</updated>
+        <summary type="html"><![CDATA[ClangIR has been in development for a number of years now as a new intermediate representation for the Clang compiler. ClangIR makes use of MLIR and is higher-level than LLVM IR. With ClangIR able to preserve more C/C++ source semantics, its usage can lead to better diagnostics, code/static analysis, and more performance optimizations compared to everything lowered straight away from AST to LLVM IR. While not enabling its usage by default, LLVM stakeholders are discussing at least now building it by default...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.3-rc2 Transitions More kmalloc Calls To The Superior kmalloc_obj]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.3-rc2-kmalloc-obj</id>
+        <link href="https://www.phoronix.com/news/Linux-7.3-rc2-kmalloc-obj"/>
+        <updated>2026-09-06T10:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the Linux 7.3-rc2 kernel release due out later today, a merge causing a lot of code churn was pulled in by Linus Torvalds. This tree-wide effort converts more of the kmalloc() function calls over to the newer and superior kmalloc_obj() family of functions...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slackware 16 Alpha 1 Available Following GCC 16.2, Glibc 2.44 & Binutils 2.47 Upgrade]]></title>
+        <id>https://www.phoronix.com/news/Slackware-16-Alpha</id>
+        <link href="https://www.phoronix.com/news/Slackware-16-Alpha"/>
+        <updated>2026-09-06T10:16:15.000Z</updated>
+        <summary type="html"><![CDATA[The timing on Saturday's Slackware-based Zenwalk ISO "current milestone" update is now more clear with upstream Slackware having prepared what is its first alpha release of the upcoming Slackware 16...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maushold, Morpeko, Salamence ex, Sylveon ex, and More Illustration Rares Revealed from “30th Celebration!”]]></title>
+        <id>157031</id>
+        <link href="https://www.pokebeach.com/forums/threads/maushold-morpeko-salamence-ex-sylveon-ex-and-more-illustration-rares-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.157031/"/>
+        <updated>2026-09-06T09:37:43.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poll: Box Art Brawl - Duel: Castlevania: Belmont's Curse (Switch)]]></title>
+        <id>https://www.nintendolife.com/#article-205923</id>
+        <link href="https://www.nintendolife.com/features/poll-box-art-brawl-duel-castlevania-belmonts-curse-switch"/>
+        <updated>2026-09-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Die, monster!
+Hello everyone, welcome to another edition of Box Art Brawl!
+Last week, we looked at Mega Man Zero 2 for the GBA, and it was Japan that completely dominated with a whopping 73% of the vote. North America managed 16%, while Europe only pulled in 11%.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-826</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-826"/>
+        <updated>2026-09-06T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for luxuriating in the chill of the September air and hoping for more of the drenching rain that's ended the summer heat. Though, it's a luxuriating that's quickly pierced by the worry that we've seen the last warm weather of the year. Winter isn't far off and all the gaps around the windows in the living room are going to start making themselves known again.
+Read more]]></summary>
+        <author>
+            <name>Julian Benson</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tip na akci: výstava Starý Mac – Apple historie naživo]]></title>
         <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=62899</id>
@@ -13,15 +127,6 @@
         <summary type="html"><![CDATA[Já vím, že Apple je pro některé lidi trochu sprosté slovo, protože si vybaví iPhony a iPad děti a tak.]]></summary>
         <author>
             <name>Pollux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maushold, Morpeko, Salamence ex, Sylveon ex, and More Illustration Rares Revealed from “30th Celebration!”]]></title>
-        <id>157031</id>
-        <link href="https://www.pokebeach.com/forums/threads/maushold-morpeko-salamence-ex-sylveon-ex-and-more-illustration-rares-revealed-from-%E2%80%9C30th-celebration-%E2%80%9D.157031/"/>
-        <updated>2026-09-06T08:13:32.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -72,15 +177,6 @@ According to its official website, it will feature the following new and existin
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“30th Anniversary” Binder Collections Delayed Until December]]></title>
-        <id>157030</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-anniversary%E2%80%9D-binder-collections-delayed-until-december.157030/"/>
-        <updated>2026-09-05T22:54:12.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -1336,19 +1432,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Final Fantasy Resonance Demo Arrives On Switch 1 & 2 Today]]></title>
-        <id>https://www.nintendolife.com/#article-205868</id>
-        <link href="https://www.nintendolife.com/news/2026/09/final-fantasy-resonance-demo-arrives-on-switch-1-and-2-today"/>
-        <updated>2026-09-03T16:15:00.000Z</updated>
-        <summary type="html"><![CDATA[First dibs.
-It may have been revealed during Sony's State of Play showcase, but we Nintendo fans can get involved, too — Final Fantasy Resonance is getting a free demo on Switch 1 & 2 today!
-The demo encompasses the game's entire first chapter, and you'll be able to carry all of your save data over to the full release if you like what you see.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USN-8724-1: rabbitmq-c vulnerabilities]]></title>
         <id>https://ubuntu.com/security/notices/USN-8724-1</id>
         <link href="https://ubuntu.com/security/notices/USN-8724-1"/>
@@ -1482,19 +1565,6 @@ Android Studio low-quality/pixelated native device mirroring that looks like low
         <summary type="html"><![CDATA[LLVM developers have begun a discussion on whether the project should host an AGENTS.md file (and CLAUDE.md) in their Git repository for helping to guide AI agents...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final Fantasy VII Revelation Is A Game-Key Card On Switch 2, And It's No Wonder With That File Size]]></title>
-        <id>https://www.nintendolife.com/#article-205883</id>
-        <link href="https://www.nintendolife.com/news/2026/09/final-fantasy-vii-revelation-is-a-game-key-card-on-switch-2-and-its-no-wonder-with-that-file-size"/>
-        <updated>2026-09-03T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[File size sweats.
-Square Enix popped up at the end of Sony's State of Play showcase to reveal Final Fantasy VII Revelation's April 2027 release date, and we've now got some more info on the Switch 2 physical release.
-As shown on the Square Enix website, Revelation will be a Game-Key Card release on Switch 2, with pre-orders now available for £69.99 / $69.99 / €79.99. Considering that the first two entries in the Remake trilogy received a similar GKC release, this is hardly surprising, but it's even less so for this third entry, as it has a whopping file size.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1830,16 +1900,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[InputPlumber 0.79 Adds Support For More Handhelds]]></title>
-        <id>https://www.phoronix.com/news/InputPlumber-0.79</id>
-        <link href="https://www.phoronix.com/news/InputPlumber-0.79"/>
-        <updated>2026-09-03T10:06:00.000Z</updated>
-        <summary type="html"><![CDATA[InputPlumber is the open-source router and remapping daemon for Linux that is particularly popular among Linux gaming handhelds for combining multiple input devices and translating actions into various virtual device formats. InputPlumber supports emulating mouse, keyboard, ad gamepad inputs. With the new InputPlumber 0.79 release there is expanded hardware support and bug fixes...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[There's already a The Blood of Dawnwalker mod which triples the length of its main quest timer, ensuring saving your family from vampires isn't stressful]]></title>
         <id>https://www.rockpapershotgun.com/theres-already-a-the-blood-of-dawnwalker-mod-which-triples-the-length-of-its-main-quest-timer-ensuring-saving-your-family-from-vampires-isnt-stressful</id>
         <link href="https://www.rockpapershotgun.com/theres-already-a-the-blood-of-dawnwalker-mod-which-triples-the-length-of-its-main-quest-timer-ensuring-saving-your-family-from-vampires-isnt-stressful"/>
@@ -1879,16 +1939,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lemonade 11.9 Local AI Server Released With Super Exciting AMD ROCm HRX Backend]]></title>
-        <id>https://www.phoronix.com/news/Lemonade-11.9-ROCm-HRX</id>
-        <link href="https://www.phoronix.com/news/Lemonade-11.9-ROCm-HRX"/>
-        <updated>2026-09-03T00:32:40.000Z</updated>
-        <summary type="html"><![CDATA[Lemonade 11.9 is out today as the newest feature release to this AMD-backed, open-source local AI server solution across Linux, Windows, and macOS. Lemonade has long been focused on offering "100% free and private" AI use with local hardware whether it be GPUs, CPUs, or NPUs.  With Lemonade 11.9's release today it's very interesting for having experimental ROCm HRX back-end support with Llama.cpp. HRX is the new exciting thing to watch out for on the AMD ROCm compute landscape...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mega Lucario/Zygarde/Barbaracle]]></title>
         <id>157028</id>
         <link href="https://www.pokebeach.com/forums/threads/mega-lucario-zygarde-barbaracle.157028/"/>
@@ -1905,16 +1955,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[CERN dlouhodobě používal vlastní sestavení RHEL, ze kterého přešel na CentOS Stream. Federico Vaga a Nikos Tsipinakis ale nyní v přednášce na MiniDebConf Winterthur 2026 popisují plán probíhajícího přechodu na Debian pro řízení akcelerátorů. Důvodem k opuštění CentOS Stream jsou zachování zpětné kompatibility se starším hardwarem, kterou Red Hat narušuje, když tlačí sestavení balíčků pro novější verze architektury (x86-64), a nedostatečné nástroje pro sestavování vlastních balíčků a repozitářů.]]></summary>
         <author>
             <name>|&amp;#x1f1f5;&amp;#x1f1f8;</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UZDoom 5.0.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/uzdoom-5.0.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/uzdoom-5.0.0"/>
-        <updated>2026-09-02T23:48:08.000Z</updated>
-        <summary type="html"><![CDATA[UZDoom (Wikipedie), tj. fork GZDoom, byl vydán ve verzi 5.0.0. Videopředstavení na YouTube. Podrobný přehled novinek v Changelogu.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -1945,26 +1985,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Arkanoidů není nikdy dost! Teda, objektivně jich je až moc, on by asi úplně stačil původní Arkanoid z roku 1986, protože co nového vymyslíte v žánru, kde kulička pinká o cihličky, ale co už :) Brick Blaster vznikl roku 1999 pod rukama francouzských demoscenerů a doprovází jej poctivá trackerová hudba, což je zásadní plus.]]></summary>
         <author>
             <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 46 Proposal Wants To Provide Official Support For Crystal Programming Language]]></title>
-        <id>https://www.phoronix.com/news/Fedora-46-Proposal-Crystal</id>
-        <link href="https://www.phoronix.com/news/Fedora-46-Proposal-Crystal"/>
-        <updated>2026-09-02T20:32:09.000Z</updated>
-        <summary type="html"><![CDATA[A new change proposal that's been filed for evaluation with next year's Fedora 46 release is to provide official, native support for the Crystal programming language...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA-Started Open Secure AI Alliance Moves To The Linux Foundation]]></title>
-        <id>https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF</id>
-        <link href="https://www.phoronix.com/news/Open-Secure-AI-Alliance-LF"/>
-        <updated>2026-09-02T18:42:04.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year NVIDIA led an effort with more than two dozen other companies to launch the Open Secure AI Alliance with a focus on keeping open-source AI models secure. The Open Secure AI Alliance today is transitioning from being stewarded by NVIDIA to becoming a Linux Foundation project...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2827,15 +2847,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Mega Forces Tins” Revealed for August Featuring Mega Dragonite ex, Mega Darkrai ex, and Mega Zeraora ex]]></title>
-        <id>156869</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-forces-tins%E2%80%9D-revealed-for-august-featuring-mega-dragonite-ex-mega-darkrai-ex-and-mega-zeraora-ex.156869/"/>
-        <updated>2026-08-28T23:51:16.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Událo se v týdnu 35/2026]]></title>
         <id>http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-35-2026</id>
         <link href="http://www.abclinuxu.cz/clanky/udalo-se-v-tydnu-35-2026"/>
@@ -3549,17 +3560,6 @@ The Maw is merry because this week is Gamescom week - a time of much videogame n
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Haul a star through a labyrinth in Today's Star Is, a challenging free game from the Love Eternal devs with a new level coming every day]]></title>
-        <id>https://www.rockpapershotgun.com/haul-a-star-through-a-labyrinth-in-todays-star-is-a-challenging-free-game-from-the-love-eternal-devs-with-a-new-level-coming-every-day</id>
-        <link href="https://www.rockpapershotgun.com/haul-a-star-through-a-labyrinth-in-todays-star-is-a-challenging-free-game-from-the-love-eternal-devs-with-a-new-level-coming-every-day"/>
-        <updated>2026-08-24T10:04:30.000Z</updated>
-        <summary type="html"><![CDATA[It's the start of a new week, and you've got a bad case of the Mondays. Ah, but why do I antagonise you so with these twee and crushingly normative white collar office job cliches? You aren't necessarily working a 9-5, and every day is hard, isn't it? You've got a lot on your mind. You've got a lot on your plate. It seems there's no end to the woe. Rest easy, my friend – no vexation you are feeling can possibly be as vexatious as the Space Invader area in Today's Star Is.
- Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
         </author>
     </entry>
     <entry>
