@@ -1,17 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-10T23:36:59.702Z</id>
+    <id>urn:2026-09-11T02:31:25.021Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-09-10T23:36:59.702Z</updated>
+    <updated>2026-09-11T02:31:25.021Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice Conference 2026]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/libreoffice-conference-2026</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/libreoffice-conference-2026"/>
+        <updated>2026-09-11T02:25:21.000Z</updated>
+        <summary type="html"><![CDATA[V italském městě Pordenone probíhá LibreOffice Conference 2026. Zúčastnit se lze i online.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hide n sneak (30th anni sub in)]]></title>
+        <id>157040</id>
+        <link href="https://www.pokebeach.com/forums/threads/hide-n-sneak-30th-anni-sub-in.157040/"/>
+        <updated>2026-09-11T02:00:01.000Z</updated>
+        <author>
+            <name>ztnoob</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“30th Celebration” English Set Guide: Full Card List, Products, Store Promotions, and More!]]></title>
         <id>157038</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9C30th-celebration%E2%80%9D-english-set-guide-full-card-list-products-store-promotions-and-more.157038/"/>
-        <updated>2026-09-10T23:26:26.000Z</updated>
+        <updated>2026-09-11T01:59:43.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N's Zoroark Deck Help]]></title>
+        <id>157039</id>
+        <link href="https://www.pokebeach.com/forums/threads/ns-zoroark-deck-help.157039/"/>
+        <updated>2026-09-11T01:50:32.000Z</updated>
+        <author>
+            <name>friendly_loaf786</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo's Latest System Firmware Update Resolves Switch Vulnerability]]></title>
+        <id>https://www.nintendolife.com/#article-206207</id>
+        <link href="https://www.nintendolife.com/news/2026/09/nintendos-latest-system-firmware-update-resolves-switch-vulnerability"/>
+        <updated>2026-09-11T01:45:00.000Z</updated>
+        <summary type="html"><![CDATA["Please update your console".
+Nintendo released a major system firmware update yesterday, and while most of the focus is on the Switch 2 adding support for VRR in docked mode, the Switch also got a patch.
+Tacked on to the end of the official patch notes for the latest Switch update (Version 23.0.0) is a notice about a vulnerability fix.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BeOS-Inspired Haiku Now Supports Changing Audio Outputs Live, Other Improvements]]></title>
+        <id>https://www.phoronix.com/news/Haiku-OS-August-2026</id>
+        <link href="https://www.phoronix.com/news/Haiku-OS-August-2026"/>
+        <updated>2026-09-11T00:55:29.000Z</updated>
+        <summary type="html"><![CDATA[In addition to August bringing the long-awaited Haiku R1 Beta 6 release, there was also a lot of development progress on this BeOS-inspired operating system too during the course of the past month...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelda: Ocarina Of Time Switch 2 Pre-Order Comes With Bonus N64-Style Slipcover]]></title>
+        <id>https://www.nintendolife.com/#article-206206</id>
+        <link href="https://www.nintendolife.com/news/2026/09/zelda-ocarina-of-time-switch-2-pre-order-comes-with-bonus-n64-style-slipcover"/>
+        <updated>2026-09-11T00:15:00.000Z</updated>
+        <summary type="html"><![CDATA["Exclusively available in Canada at EB Games".
+The original N64 box art and game.
+Zelda: Ocarina of Time Switch 2 pre-orders have now opened on Nintendo's website, eShop, and at select retailers around the globe. If you haven't already pre-ordered and happen to be located in Canada, EB Games has announced an exclusive deal.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -125,6 +189,33 @@ Read more]]></summary>
         <summary type="html"><![CDATA[If Capcom won't release a new Ace Attorney game, Koei Tecmo has the next best thing]]></summary>
         <author>
             <name>Ash Parrish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8571-2: Apache HTTP Server regression]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8571-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8571-2"/>
+        <updated>2026-09-10T19:36:17.000Z</updated>
+        <summary type="html"><![CDATA[USN-8571-1 fixed vulnerabilities in Apache HTTP Server. That fix was
+incomplete due to a missing library symbol, resulting in a regression
+that could cause Apache HTTP Server to fail to start when HTTP/2
+proxying was enabled. This update fixes the problem.
+
+We apologize for the inconvenience.
+
+Original advisory details:
+
+ Pavel Kohout and Arkadi Vainbrand discovered that Apache HTTP Server
+ incorrectly handled certain memory operations in mod_authn_socache. A
+ remote attacker could possibly use this issue to cause a denial of service.
+ (CVE-2026-33007)
+
+ Haruki Oyama, Merih Mengisteab, and Dawit Jeong discovered that Apache
+ HTTP Server had an HTTP response splitting vulnerability in multiple
+ modules when used with untrusted or compromised backend servers. An
+ attacker could possibly use …]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -955,23 +1046,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8740-1: .NET vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8740-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8740-1"/>
-        <updated>2026-09-10T06:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Weeraphat Srisutham discovered that the .NET watch BrowserRefreshServer did
-not properly validate cross-origin WebSocket connections. An attacker could
-possibly use this issue to expose sensitive information. (CVE-2026-58649)
-
-Rajesh Chada discovered that the .NET watch AspireServerService improperly
-exposed information through the use of certain arguments. An attacker could
-possibly use this issue to elevate privileges and execute arbitrary code.
-(CVE-2026-69806)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Z linuxového jádra zřejmě zmizí 55 tisíc řádek a podpora starších procesorů ARM]]></title>
         <id>www.root.cz-actuality-53424</id>
         <link href="https://www.root.cz/zpravicky/z-linuxoveho-jadra-zrejme-zmizi-55-tisic-radek-a-podpora-starsich-procesoru-arm/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1511,32 +1585,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Trio Of Resident Evil Remakes Hit Switch 2 In October]]></title>
-        <id>https://www.nintendolife.com/#article-206126</id>
-        <link href="https://www.nintendolife.com/news/2026/09/a-trio-of-resident-evil-remakes-hit-switch-2-in-october"/>
-        <updated>2026-09-09T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Capcom's plugging gaps.
-As part of today's Nintendo Direct, Capcom announced that Resident Evil 2 Deluxe Edition, Resident Evil 3, and Resident Evil 4 Gold Edition on 16th October.
-Cloud versions of both 2 and 3 were released on Switch 1, but these are native ports and this is the first time Nintendo gamers will be able to get their hands on 2024's RE4 remake.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Persona 4 Revival Is Officially Heading To Switch 2, With Persona 6 Teased For The Future]]></title>
-        <id>https://www.nintendolife.com/#article-206127</id>
-        <link href="https://www.nintendolife.com/news/2026/09/persona-4-revival-is-officially-heading-to-switch-2-with-persona-6-teased-for-the-future"/>
-        <updated>2026-09-09T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Bit Persona-l.
-After being announced for just about every other system, we had our fingers crossed that Persona 4 Revival might be making its way to Switch 2 too, and what do you know, it is!
-This one will come our way on 20th May 2027 — a few months later than the PS5 release, but what can you do?
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DigitalOcean sponzorem Omarchy, 3 miliony dolarů]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/digitalocean-sponzorem-omarchy-3-miliony-dolaru</id>
         <link href="http://www.abclinuxu.cz/zpravicky/digitalocean-sponzorem-omarchy-3-miliony-dolaru"/>
@@ -1965,16 +2013,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jellyfin 12.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/jellyfin-12.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/jellyfin-12.0"/>
-        <updated>2026-09-08T14:08:25.000Z</updated>
-        <summary type="html"><![CDATA[Byla vydána nová verze 12.0 media serveru Jellyfin (Wikipedie). Přehled novinek v poznámkách k vydání. Pro vyzkoušení je k dispozici Demo Server. Jellyfin je fork media serveru Emby, původně Media Browser.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CHUWI UniBook With Intel Wildcat Lake For A $449 Linux-Friendly Laptop]]></title>
         <id>https://www.phoronix.com/review/chuwi-unibook-wildcat-lake</id>
         <link href="https://www.phoronix.com/review/chuwi-unibook-wildcat-lake"/>
@@ -2066,16 +2104,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DirectX Support Promoted To Official Target Within LLVM]]></title>
-        <id>https://www.phoronix.com/news/LLVM-DirectX-Backend-Official</id>
-        <link href="https://www.phoronix.com/news/LLVM-DirectX-Backend-Official"/>
-        <updated>2026-09-08T10:21:51.000Z</updated>
-        <summary type="html"><![CDATA[Over the past four years there has been a lot of work on a DirectX back-end within the LLVM compiler stack. Microsoft has backed the initiative for being able to lower LLVM IR into the DirectX Intermediate Language (DXIL) for execution by Windows DirectX 12 graphics drivers. This back-end is now officially supported...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3406,24 +3434,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mega Greninja Glaceon]]></title>
-        <id>156820</id>
-        <link href="https://www.pokebeach.com/forums/threads/mega-greninja-glaceon.156820/"/>
-        <updated>2026-08-30T22:53:12.000Z</updated>
-        <author>
-            <name>ThePiplupKing</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I have another stupid idea!]]></title>
-        <id>157017</id>
-        <link href="https://www.pokebeach.com/forums/threads/i-have-another-stupid-idea.157017/"/>
-        <updated>2026-08-30T22:33:56.000Z</updated>
-        <author>
-            <name>KingFidough</name>
         </author>
     </entry>
     <entry>
