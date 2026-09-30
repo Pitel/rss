@@ -1,10 +1,623 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-30T07:49:26.796Z</id>
+    <id>urn:2026-09-30T14:30:04.151Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-09-30T07:49:26.796Z</updated>
+    <updated>2026-09-30T14:30:04.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[USN-8816-3: Linux kernel (Oracle) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8816-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-8816-3"/>
+        <updated>2026-09-30T14:04:57.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - S390 architecture;
+  - x86 architecture;
+  - DRBD Distributed Replicated Block Device drivers;
+  - InfiniBand drivers;
+  - IOMMU subsystem;
+  - Multiple devices driver;
+  - Network drivers;
+  - Microsoft Azure Network Adapter (MANA) driver;
+  - NVME drivers;
+  - TCM subsystem;
+  - Virtio Host (VHOST) subsystem;
+  - Xen hypervisor drivers;
+  - AFS file system;
+  - File systems infrastructure;
+  - Network file systems library;
+  - Network file system (NFS) client;
+  - NTFS3 file system;
+  - OCFS2 file system;
+  - OrangeFS file system;
+  - SMB network file system;
+  - IPv4 networking;
+  -…]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8817-3: Linux kernel (AWS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8817-3</id>
+        <link href="https://ubuntu.com/security/notices/USN-8817-3"/>
+        <updated>2026-09-30T14:04:57.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some Arm processors could complete a broadcast
+translation lookaside buffer (TLB) invalidation before memory writes made
+through the invalidated translation were globally observed. A local
+attacker could possibly use this to write to memory after permission to do
+so had been revoked, bypassing memory protections or escalating privileges.
+(CVE-2025-10263)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - TCM subsystem;
+  - B.A.T.M.A.N. meshing protocol;
+  - HSR network protocol;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RDS protocol;
+(CVE-2026-53131, CVE-2026-53186, CVE-2026-53216, CVE-2026-53221,
+CVE-2026-53354, CVE-2026-53355, CVE-2026-63886, CVE-2026-63887,
+CVE-2026-63888, CVE-2026-63912, CVE-2026-63922, CVE-2026-63924,
+CVE-2026-63984, CVE-2026-63992, CVE-2026-63993, CVE-2026-63994,
+CVE-2026-64000, CVE-2026-64007, CVE-2026-64091)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8818-5: Linux kernel (NVIDIA Tegra) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8818-5</id>
+        <link href="https://ubuntu.com/security/notices/USN-8818-5"/>
+        <updated>2026-09-30T14:04:56.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some Arm processors could complete a broadcast
+translation lookaside buffer (TLB) invalidation before memory writes made
+through the invalidated translation were globally observed. A local
+attacker could possibly use this to write to memory after permission to do
+so had been revoked, bypassing memory protections or escalating privileges.
+(CVE-2025-10263)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - TCM subsystem;
+  - exFAT file system;
+  - Network file system (NFS) client;
+  - Network file system (NFS) server daemon;
+  - B.A.T.M.A.N. meshing protocol;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RDS protocol;
+(CVE-2026-53186, CVE-2026-53216, CVE-2026-53221, CVE-2026-53354,
+CVE-2026-53355, CVE-2026-53398, CVE-2026-63800, CVE-2026-63808,
+CVE-2026-63887, CVE-2026-63888, CVE-2026-63912, CVE-2026-63922,
+CVE-2026-63924, CVE-2026-63984, CVE-2026-63992, CVE-2026-63993,
+CVE-2026-63994, CVE-2026-64007, CVE-2026-64091)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m Having A Great Time With This Musical Witch School Farm Sim Even If I’m Always Late To Class]]></title>
+        <id>https://kotaku.com/?p=2000738461</id>
+        <link href="https://kotaku.com/im-happily-attending-the-musical-magical-garden-school-where-no-one-is-mad-if-im-hours-late-to-class-2000738461"/>
+        <updated>2026-09-30T14:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Songs of Glimmerwick combines the steady march of a day-by-day plot with the freedom and whimsy of farming sims]]></summary>
+        <author>
+            <name>Rebekah Valentine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Come play the flute and reshape the very earth in Songs of Glimmerwick, a magic school RPG from the creators of Eastshade]]></title>
+        <id>https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade</id>
+        <link href="https://www.rockpapershotgun.com/come-play-the-flute-and-reshape-the-very-earth-in-songs-of-glimmerwick-a-magic-school-rpg-from-the-creators-of-eastshade"/>
+        <updated>2026-09-30T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It has perhaps never been easier to join a witch or wizard school without being a Guy Who Rhymes With Bally Trotter. Academies of the occult abound in videogames. True, there has yet to be an amazing Little Witch Academia adaptation, and I'm still waiting for that Arbitrary Metric take on Naomi Novik's A Deadly Education, to say nothing of Failbetter's take on Terry Pratchett's Equal Rites, but in the short term, I've been enjoying the demo for Songs of Glimmerwick, which goes on sale today.
+ Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Can Get The Witcher 3 Remastered For Free On Switch 2, If You Can Borrow A Switch 1 Cart]]></title>
+        <id>https://www.nintendolife.com/#article-207028</id>
+        <link href="https://www.nintendolife.com/news/2026/09/you-can-get-the-witcher-3-remastered-for-free-on-switch-2-if-you-can-borrow-a-switch-1-cart"/>
+        <updated>2026-09-30T13:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Toss a cart to your Witcher.
+CD Projekt Red went all-in on its promise to bring The Witcher III: Wild Hunt - Remastered to all those who owned the base game, digital or otherwise. But it seems we Switch 2 players might be able to get in on the full game for free, if you have the chance to borrow Wild Hunt's Switch 1 cartridge for a moment (thanks to @Wario64 for the heads up).
+As shared on Reddit earlier this week by Erik_REF, those with access to a physical copy of the Switch 1 game can use it to download a free full copy of the Remaster on as many systems as they'd like. The best part is, unlike a Game-Key Card, you don't need the cartridge in your Switch 2 to play the remastered version.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grasshopper Manufacture Goes Indie Again After Split With NetEase As The Chinese Internet Giant Retreats From Japanese Game Development]]></title>
+        <id>https://kotaku.com/?p=2000738619</id>
+        <link href="https://kotaku.com/grasshopper-manufacture-goes-indie-again-after-split-with-netease-as-the-chinese-internet-giant-retreats-japanese-game-development-2000738619"/>
+        <updated>2026-09-30T13:38:09.000Z</updated>
+        <summary type="html"><![CDATA[The studio self-published Romeo Is a Dead Man earlier this year]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crusader Kings 3's By God Alone expansion offers plenty of holy hijinks, even if your polyamorous Pope doesn't get divorced three times in one day]]></title>
+        <id>https://www.rockpapershotgun.com/crusader-kings-3s-by-god-alone-expansion-offers-plenty-of-holy-hijinks-even-if-your-polyamorous-pope-doesnt-get-divorced-three-times-in-one-day</id>
+        <link href="https://www.rockpapershotgun.com/crusader-kings-3s-by-god-alone-expansion-offers-plenty-of-holy-hijinks-even-if-your-polyamorous-pope-doesnt-get-divorced-three-times-in-one-day"/>
+        <updated>2026-09-30T13:27:57.000Z</updated>
+        <summary type="html"><![CDATA[My very soul has been cleft into pieces on this day. January 3rd, 902 AD. First, my Christian faith fractured in twain. I stand in Rome, head of the Roman Rite and now the leader of the Catholic world. My neighbours to the east have chosen to walk a different path, transforming their Greek Rite into a new Orthodoxy followed by the Byzantine Empire.
+It’s a brave new world in Crusader Kings 3’s By God Alone expansion, made even tougher to face by the three additional wounds I gained right at the moment of the split. All three of my wives have divorced me, serving their papers within seconds of each other. Taken alongside the betrothal that my fourth wife-to-be broke not too long before the schism, it really stings. Sure, I’m the Pope and thus should be celibately devoting myself to God, but a breakup’s a breakup. It’s not all consecrated bread and wine when you’ve managed to end up on Wikipedia’s list of sexually active popes thanks to an utterly hilarious bug.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt 6.12 LTS Released With QML Hot Reloading, StyleKit In Experimental Form]]></title>
+        <id>https://www.phoronix.com/news/Qt-6.12-LTS-Released</id>
+        <link href="https://www.phoronix.com/news/Qt-6.12-LTS-Released"/>
+        <updated>2026-09-30T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Qt 6.12 is now available as the newest version of the Qt6 toolkit and also serving as a Long Term Support (LTS) release...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Reminds Everyone About The Other N64 Classic It Just Remade With A Free Update]]></title>
+        <id>https://kotaku.com/?p=2000738613</id>
+        <link href="https://kotaku.com/nintendo-reminds-everyone-about-the-other-n64-classic-it-just-remand-with-a-free-update-2000738613"/>
+        <updated>2026-09-30T13:12:43.000Z</updated>
+        <summary type="html"><![CDATA[The Star Fox remake is getting some new content]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rusticl Had A Great Year For Rust OpenCL In Mesa With 3.1 Support, More Drivers]]></title>
+        <id>https://www.phoronix.com/news/Rusticl-2026</id>
+        <link href="https://www.phoronix.com/news/Rusticl-2026"/>
+        <updated>2026-09-30T13:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Rusticl lead developer Karol herbst provided a status update on this Mesa Rust-based OpenCL driver during the XDC 2026 conference happening in Toronto...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8853-1: OpenSBI vulnerability]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8853-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8853-1"/>
+        <updated>2026-09-30T13:02:21.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that OpenSBI did not properly validate the counter index
+mask in SBI PMU extension requests. An attacker could use this issue to
+cause a denial of service.]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This FromSoft-Inspired RPG Is Packed With Retro King's Field Soul]]></title>
+        <id>https://www.nintendolife.com/#article-206977</id>
+        <link href="https://www.nintendolife.com/news/2026/09/this-fromsoft-inspired-rpg-is-packed-with-retro-kings-field-soul"/>
+        <updated>2026-09-30T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DarkSoul, that is.
+Has all of that Elden Ring on Switch 2 got you craving some retro FromSoft? And we mean real retro FromSoft, none of your new-fangled Demon's or Dark Souls nonsense, but something more old-school, like King's Field? Well, Queen's Domain might be right up your street.
+This is a first-person RPG from indie dev Freshly Baked Games, and it wears its inspo proudly on its sleeve. From the retro-fantasy aesthetic to the tough-looking, stamina-based combat, this has got PS1 goodness written all over it.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[19-Year Veteran Of Xbox Weighs In On The Future Of Halo: ‘Hire Bungie, Halo Studios And Other Laid Off Folk Who Are Bursting With Talent’]]></title>
+        <id>https://kotaku.com/?p=2000738607</id>
+        <link href="https://kotaku.com/19-year-veteran-of-xbox-weighs-in-on-the-future-of-halo-hire-bungie-halo-studios-and-other-laid-off-folk-who-are-bursting-with-talent-2000738607"/>
+        <updated>2026-09-30T12:48:57.000Z</updated>
+        <summary type="html"><![CDATA[No one knows what Activision has planned for the franchise yet]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pokémon Pokopia Gets Spooky With A Limited-Time Halloween In-Game Event]]></title>
+        <id>https://www.nintendolife.com/#article-207023</id>
+        <link href="https://www.nintendolife.com/news/2026/09/pokemon-pokopia-gets-spooky-with-a-limited-time-halloween-in-game-event"/>
+        <updated>2026-09-30T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Pumpkaboo, I see you.
+We were quietly hoping that Pokémon Pokopia would have something up its sleeve for Halloween, and what do you know, it does!
+The Pokémon Company has just announced its next in-game event, which will run from 17th October at 5am until 1st November at 4:59am (local time).
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All 429 “Deluxe Pack Mega” Cards Revealed for “Pocket!”]]></title>
+        <id>157068</id>
+        <link href="https://www.pokebeach.com/forums/threads/all-429-%E2%80%9Cdeluxe-pack-mega%E2%80%9D-cards-revealed-for-%E2%80%9Cpocket-%E2%80%9D.157068/"/>
+        <updated>2026-09-30T12:24:16.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.4 To Support The NPU On AMD Ryzen AI Max 400 Series "Gorgon Halo"]]></title>
+        <id>https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux</id>
+        <link href="https://www.phoronix.com/news/AMD-Gorgon-Halo-NPU-LInux"/>
+        <updated>2026-09-30T12:20:14.000Z</updated>
+        <summary type="html"><![CDATA[While the AMD Ryzen AI 400 series "Gorgon Halo" systems are nearing the marketplace, the NPU support for Linux was seemingly overlooked until now. But at least the simple enablement patch looks like it will arrive for the upcoming Linux 7.4 kernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best New Games Of 2026 (So Far)]]></title>
+        <id>https://kotaku.com/?p=2000680583</id>
+        <link href="https://kotaku.com/best-new-video-games-2026-2000680583"/>
+        <updated>2026-09-30T12:20:03.000Z</updated>
+        <summary type="html"><![CDATA[We're five months of the way through the year, so let's take a look at the best games we've played]]></summary>
+        <author>
+            <name>Kotaku Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Ultimately, we asked 'why are we doing this?'": the creators of Arc Raiders wildly underestimated how hard it is to make a live service game]]></title>
+        <id>https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game</id>
+        <link href="https://www.rockpapershotgun.com/ultimately-we-asked-why-are-we-doing-this-the-creators-of-arc-raiders-wildly-underestimated-how-hard-it-is-to-make-a-live-service-game"/>
+        <updated>2026-09-30T12:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Arc Raiders developers Embark heavily underestimated the challenges of creating a full-blown live service game, executive producer Aleksander Grøndal has conceded in a new interview. The extraction shooter launched with an ambition for monthly post-release updates that ultimately proved untenable, resulting in an exhausted and unhappy team who were "constantly overshooting our capacity".
+ Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8852-1: OpenVPN vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8852-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8852-1"/>
+        <updated>2026-09-30T11:53:54.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that OpenVPN had a use-after-free vulnerability in
+its TLS session handling. An attacker could possibly use this issue
+to cause OpenVPN to crash, resulting in a denial of service, or
+execute arbitrary code. (CVE-2026-84471)
+
+It was discovered that OpenVPN incorrectly handled retransmissions of
+ACK packet IDs, which could trigger a timeout integer overflow. A
+remote attacker could possibly use this issue to cause a denial of
+service. (CVE-2026-84732)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the RPS Supporter rewards for September 2026: Model ships, maze cities, and the tyranny of content]]></title>
+        <id>https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-september-2026-model-ships-maze-cities-and-the-tyranny-of-content</id>
+        <link href="https://www.rockpapershotgun.com/all-the-rps-supporter-rewards-for-september-2026-model-ships-maze-cities-and-the-tyranny-of-content"/>
+        <updated>2026-09-30T11:48:52.000Z</updated>
+        <summary type="html"><![CDATA[In case you missed it, September happened. Technically it’s still happening, and we have one more exclusive post for RPS Premium Supporters coming this week, but this time I fancy doing the monthly rewards roundup within the month being rounded up. Lest armoured date pedants infiltrate my flat with breaching charges, and start hitting my shins with their pernickety sticks.
+Thanks again to all our Supporters, preem or otherwise, and turbo double-thanks to anyone who filled in our Supporters survey. This has granted us some immensely helpful guidance on how to steer Supp rewards in the future, as well as some important feedback on the site more generally. You’re all, and I don’t say this about a lot of people, da best.
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fatal Fury: City Of The Wolves Is Getting A Switch 2 Demo In October]]></title>
+        <id>https://www.nintendolife.com/#article-207021</id>
+        <link href="https://www.nintendolife.com/news/2026/09/fatal-fury-city-of-the-wolves-is-getting-a-switch-2-demo-in-october"/>
+        <updated>2026-09-30T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Try before you buy.
+SNK has announced that there will be a demo available for Fatal Fury: City of the Wolves on Switch 2 in late October.
+While the demo is available today on PS5 and Xbox Series X|S, SNK has unfortunately not committed to a firm date for the Switch 2 at the time of writing. That said, the game itself launches on 22nd October 2026, so we imagine the demo will drop around the same time, or possibly shortly after.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crimson Desert’s First Big Paid DLC Is Being Delayed For Polish]]></title>
+        <id>https://kotaku.com/?p=2000738599</id>
+        <link href="https://kotaku.com/crimson-desert-charting-the-unknown-dlc-delay-pearl-abyss-ships-2000738599"/>
+        <updated>2026-09-30T11:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Charting the Unknown now won't be out until the end of October]]></summary>
+        <author>
+            <name>John Walker</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["I always see it kind of like a triangle": The surprising challenge of making the perfectly-sized cave in Satisfactory expansion Core Values]]></title>
+        <id>https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values</id>
+        <link href="https://www.rockpapershotgun.com/i-always-see-it-kind-of-like-a-triangle-the-surprising-challenge-of-making-the-perfectly-sized-cave-in-satisfactory-expansion-core-values"/>
+        <updated>2026-09-30T11:15:00.000Z</updated>
+        <summary type="html"><![CDATA[When I first learned about Core Values, the upcoming expansion to factory automation game Satisfactory, I didn't grasp the scale of the challenge developer Coffee Stain had set themselves. 'So, the game is set underground now?' I thought. 'I'll just stick up some more lights and make the same factory I always have.' Yet, as I covered yesterday, that won't be possible. For a start because you'll need to use new logistics tools to connect your factory buildings – conveyor belts aren't gone, but they're nowhere near as useful as they once were.
+Another major difference, though, is a design problem for the developers: how to make a perfectly-sized cave.
+Read more]]></summary>
+        <author>
+            <name>Julian Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zelda 40th Anniversary Concert Tickets Are Now Live Across Europe]]></title>
+        <id>https://www.nintendolife.com/#article-206956</id>
+        <link href="https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-are-now-live-across-europe"/>
+        <updated>2026-09-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[North American sales go live later today.
+After being revealed earlier this month, Nintendo has finally shared that tickets for the European leg of the Zelda 40th Anniversary concert will go live tomorrow (30th September).
+Ticket sales will begin at 12pm BST / 1pm CET for the European shows, which will take place on the following dates:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acclaimed Vampire Survivors-Inspired Survival Game Hits Switch Next Month]]></title>
+        <id>https://www.nintendolife.com/#article-207011</id>
+        <link href="https://www.nintendolife.com/news/2026/09/acclaimed-vampire-survivors-inspired-survival-game-hits-switch-next-month"/>
+        <updated>2026-09-30T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Dig deep.
+If you're one of many people who got hopelessly addicted to Vampire Survivors, then you might want to keep an eye out for Deep Rock Galactic: Survivor, which launches on Switch on 9th October 2026.
+Developed by Funday Games, DRG: Survivor launched in early access on 14th February 2024 before receiving a full release on Windows and Xbox Series X|S on 17th September 2025. It's been well-received too, earning a score of 8/10 from IGN and 90% from PC Gamer, with the latter concluding its review with a line that will undoubtedly catch your attention:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proposal To Set ARM64 Kernel Stack Size At Boot Time To Reduce Memory Consumption]]></title>
+        <id>https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot</id>
+        <link href="https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot"/>
+        <updated>2026-09-30T10:27:00.000Z</updated>
+        <summary type="html"><![CDATA[A proposal was posted this week to the Linux kernel mailing list by a Google engineer to make it easier for ARM64 Linux to adjust the kernel stack size. The motivation for doing so to configure the kernel stack size during boot time is on reducing system memory consumption...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Media Driver 2026Q3 Introduces Crescent Island Support]]></title>
+        <id>https://www.phoronix.com/news/Intel-Media-Crescent-Island</id>
+        <link href="https://www.phoronix.com/news/Intel-Media-Crescent-Island"/>
+        <updated>2026-09-30T10:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Released overnight was the Intel Media Driver 2026Q3 stack for providing the latest open-source video encode/decode capabilities on Intel integrated/discrete graphics hardware. Most notable with the new release is rolling out Crescent Island support...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Getting sidetracked doesn’t feel too unnatural": Baldur's Gate 3 Act Two Expansion modder on how they seamlessly fit a "detour" to fight an army into the RPG's plot]]></title>
+        <id>https://www.rockpapershotgun.com/getting-sidetracked-doesnt-feel-too-unnatural-baldurs-gate-3-act-two-expansion-modder-on-how-they-seamlessly-fit-a-detour-to-fight-an-army-into-the-rpgs-plot</id>
+        <link href="https://www.rockpapershotgun.com/getting-sidetracked-doesnt-feel-too-unnatural-baldurs-gate-3-act-two-expansion-modder-on-how-they-seamlessly-fit-a-detour-to-fight-an-army-into-the-rpgs-plot"/>
+        <updated>2026-09-30T10:09:42.000Z</updated>
+        <summary type="html"><![CDATA[Midway through September, modder SquallyDaBeanz released a solo-developed custom campaign for Baldur's Gate 3 in beta, adding an extra chapter to the RPG's main story. Neatly nestled between the RPG's second and third acts, the mod sends you and your party on a trip through The Chionthar Wilds while the Absolute's Army marches on towards the city the series is named after. SquallyDaBeanz has now offered a bit more explanation as to why they reckon the second section of BG3's established story benefits from having a few more forks in the road before the serious business of the final act begins.
+Read more]]></summary>
+        <author>
+            <name>Mark Warren</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Konference LinuxDays 2026 již tento víkend 3. a 4. října v Praze]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/konference-linuxdays-2026-jiz-tento-vikend-3.-a-4.-rijna-v-praze</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/konference-linuxdays-2026-jiz-tento-vikend-3.-a-4.-rijna-v-praze"/>
+        <updated>2026-09-30T10:03:41.000Z</updated>
+        <summary type="html"><![CDATA[Konference LinuxDays 2026 proběhne již tento víkend 3. a 4. října v Praze v areálu ČVUT v Dejvicích na FIT. Konference LinuxDays 2026 znamená desítky přednášek a workshopů, zástup zajímavých osobností, místo pro setkání, spoustu nových nápadů a informací a stánky řady různých projektů: Fedora, openSUSE, vpsFree.cz, Mozilla, MacGyver - bastlíři SH, OpenAlt a mnoho dalších. Vstup je volný.]]></summary>
+        <author>
+            <name>Ladislav Hagara</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sekiro: No Defeat Anime Gets Crunchyroll Streaming Date, But It Won’t Be A Movie]]></title>
+        <id>https://kotaku.com/?p=2000737142</id>
+        <link href="https://kotaku.com/the-sekiro-no-defeat-anime-gets-crunchyroll-streaming-date-but-it-wont-be-a-movie-2000737142"/>
+        <updated>2026-09-30T10:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Following an early Japan-only theatrical release, a re-edit for TV with new scenes is on the way]]></summary>
+        <author>
+            <name>Alicia Haddick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa Developers To Work Toward Eliminating TGSI IR]]></title>
+        <id>https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI</id>
+        <link href="https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI"/>
+        <updated>2026-09-30T09:55:14.000Z</updated>
+        <summary type="html"><![CDATA[TGSI was the intermediate representation (IR) developed for Mesa's Gallium3D drivers by Tungsten Graphics at the time. It worked fine more than a decade ago but since then the Mesa front-ends and hardware drivers have largely transitioned over to the superior NIR format. Work is underway toward eliminating TGSI in the Mesa codebase...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8851-1: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8851-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8851-1"/>
+        <updated>2026-09-30T09:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network file system (NFS) server daemon;
+  - IPv6 networking;
+  - Netfilter;
+(CVE-2025-38724, CVE-2026-53131, CVE-2026-53221)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA 6 will simulate hurricanes, rainbows and persistent, dynamic clouds, among other efforts to make you stop doing crime and become a weather nerd]]></title>
+        <id>https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd</id>
+        <link href="https://www.rockpapershotgun.com/gta-6-will-simulate-hurricanes-rainbows-and-persistent-dynamic-clouds-among-other-efforts-to-make-you-stop-doing-crime-and-become-a-weather-nerd"/>
+        <updated>2026-09-30T09:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Grand Theft Auto 6 features a re-engineered, "more localized and persistent" weather system that ranges in intensity from physically credible rainbows to full-bore hurricanes, according to Rockstar vice president of art for lighting and rendering Owen Shepherd. As ever with GTA, the question is to what extent this will materially affect your doings in the new open world game, but at the very least, it seems like there's scope to pack in the core Bonnie & Clyde routine and become an amateur weather watcher for hours at a time.
+ Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LaLiga Wants Major VPNs on EU Piracy Watch List Over Affiliate Marketing]]></title>
+        <id>https://torrentfreak.com/?p=280959</id>
+        <link href="https://torrentfreak.com/laliga-wants-major-vpns-on-eu-piracy-watch-list-over-affiliate-marketing/"/>
+        <updated>2026-09-30T09:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Months after a Spanish court refused to fine NordVPN over IP blocking, LaLiga is now raising its concerns with the European Commission. The football league has asked the EU to add four major VPN providers to its Piracy Watch List, arguing that third-party affiliate marketing guides on how to bypass blockades or circumvent geo-blocking restrictions turn the providers into more than "neutral technical intermediaries." 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openSUSE Leap je možné nainstalovat v neměnném režimu, Leap Micro končí]]></title>
+        <id>www.root.cz-actuality-53651</id>
+        <link href="https://www.root.cz/zpravicky/opensuse-leap-je-mozne-nainstalovat-v-nemennem-rezimu-leap-micro-konci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-09-30T09:15:53.000Z</updated>
+        <summary type="html"><![CDATA[Distribuce openSUSE Leap 16.1 vydala svého kandidáta na vydání (RC). Nejvýznamnější novinkou v připravované je zavedení nového neměnného režimu. Půjde o první verzí této řady, která nabídne neměnný režim, ve kterém je kořenový souborový systém připojen pouze pro čtení a aktualizace probíhají transakčně, tedy jako celek. Díky tomu lze změny systému bezpečně připravit a v případě problémů se vrátit k předchozímu funkčnímu stavu.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uživatelé Ubuntu 24.04 LTS dostávají nabídku aktualizace na Ubuntu 26.04.1 LTS]]></title>
+        <id>www.root.cz-actuality-53648</id>
+        <link href="https://www.root.cz/zpravicky/uzivatele-ubuntu-24-04-lts-dostavaji-nabidku-aktualizace-na-ubuntu-26-04-1-lts/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-09-30T08:38:46.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři Ubuntu povolili aktualizace z verze 24.04 LTS na Ubuntu 26.04.1 LTS. Tato verze s kódovým označením Resolute Raccoon představuje první opravené vydání řady Ubuntu 26.04 LTS, které zahrnuje opravy a vylepšení nashromážděná od původního vydání letos na jaře.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8850-1: Linux kernel (BlueField) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8850-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8850-1"/>
+        <updated>2026-09-30T08:10:36.000Z</updated>
+        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - Network file system (NFS) server daemon;
+  - OCFS2 file system;
+  - IPv6 networking;
+  - Netfilter;
+  - SCTP protocol;
+(CVE-2025-38724, CVE-2026-53043, CVE-2026-53131, CVE-2026-53221,
+CVE-2026-53224, CVE-2026-53225, CVE-2026-53246, CVE-2026-53309)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8849-1: Linux kernel (NVIDIA Tegra) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8849-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8849-1"/>
+        <updated>2026-09-30T08:04:30.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some Arm processors could complete a broadcast
+translation lookaside buffer (TLB) invalidation before memory writes made
+through the invalidated translation were globally observed. A local
+attacker could possibly use this to write to memory after permission to do
+so had been revoked, bypassing memory protections or escalating privileges.
+(CVE-2025-10263)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - TCM subsystem;
+  - exFAT file system;
+  - Network file system (NFS) server daemon;
+  - B.A.T.M.A.N. meshing protocol;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RDS protocol;
+(CVE-2026-53186, CVE-2026-53221, CVE-2026-53354, CVE-2026-53355,
+CVE-2026-53398, CVE-2026-63808, CVE-2026-63887, CVE-2026-63888,
+CVE-2026-63912, CVE-2026-63922, CVE-2026-63924, CVE-2026-63984,
+CVE-2026-63992, CVE-2026-63993, CVE-2026-63994, CVE-2026-64007,
+CVE-2026-64091)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8818-4: Linux kernel vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8818-4</id>
+        <link href="https://ubuntu.com/security/notices/USN-8818-4"/>
+        <updated>2026-09-30T08:00:27.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some Arm processors could complete a broadcast
+translation lookaside buffer (TLB) invalidation before memory writes made
+through the invalidated translation were globally observed. A local
+attacker could possibly use this to write to memory after permission to do
+so had been revoked, bypassing memory protections or escalating privileges.
+(CVE-2025-10263)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - TCM subsystem;
+  - exFAT file system;
+  - Network file system (NFS) client;
+  - Network file system (NFS) server daemon;
+  - B.A.T.M.A.N. meshing protocol;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RDS protocol;
+(CVE-2026-53186, CVE-2026-53216, CVE-2026-53221, CVE-2026-53354,
+CVE-2026-53355, CVE-2026-53398, CVE-2026-63800, CVE-2026-63808,
+CVE-2026-63887, CVE-2026-63888, CVE-2026-63912, CVE-2026-63922,
+CVE-2026-63924, CVE-2026-63984, CVE-2026-63992, CVE-2026-63993,
+CVE-2026-63994, CVE-2026-64007, CVE-2026-64091)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8817-2: Linux kernel (AWS FIPS) vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8817-2</id>
+        <link href="https://ubuntu.com/security/notices/USN-8817-2"/>
+        <updated>2026-09-30T08:00:26.000Z</updated>
+        <summary type="html"><![CDATA[It was discovered that some Arm processors could complete a broadcast
+translation lookaside buffer (TLB) invalidation before memory writes made
+through the invalidated translation were globally observed. A local
+attacker could possibly use this to write to memory after permission to do
+so had been revoked, bypassing memory protections or escalating privileges.
+(CVE-2025-10263)
+
+Several security issues were discovered in the Linux kernel.
+An attacker could possibly use these to compromise the system.
+This update corrects flaws in the following subsystems:
+  - ARM64 architecture;
+  - InfiniBand drivers;
+  - Network drivers;
+  - TCM subsystem;
+  - B.A.T.M.A.N. meshing protocol;
+  - HSR network protocol;
+  - IPv4 networking;
+  - IPv6 networking;
+  - Netfilter;
+  - RDS protocol;
+(CVE-2026-53131, CVE-2026-53186, CVE-2026-53216, CVE-2026-53221,
+CVE-2026-53354, CVE-2026-53355, CVE-2026-63886, CVE-2026-63887,
+CVE-2026-63888, CVE-2026-63912, CVE-2026-63922, CVE-2026-63924,
+CVE-2026-63984, CVE-2026-63992, CVE-2026-63993, CVE-2026-63994,
+CVE-2026-64000, CVE-2026-64007, CVE-2026-64091)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows teď mohou spouštět linuxové kontejnery pomocí WSLC]]></title>
         <id>www.root.cz-actuality-53645</id>
@@ -107,15 +720,6 @@ This update (Version 1.2.0) has now officially been released. Apart from these "
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All 429 “Deluxe Pack Mega” Cards Revealed for “Pocket!”]]></title>
-        <id>157068</id>
-        <link href="https://www.pokebeach.com/forums/threads/all-429-%E2%80%9Cdeluxe-pack-mega%E2%80%9D-cards-revealed-for-%E2%80%9Cpocket-%E2%80%9D.157068/"/>
-        <updated>2026-09-30T00:31:20.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -369,32 +973,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8847-1: OpenSSL vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8847-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8847-1"/>
-        <updated>2026-09-29T18:19:43.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that OpenSSL incorrectly handled certain certificate
-revocation list distribution point names. An attacker could possibly use
-this issue to cause OpenSSL to consume excessive memory, resulting in a
-denial of service. (CVE-2026-35189)
-
-It was discovered that OpenSSL incorrectly handled QUIC unvalidated
-amplification credit accounting. An attacker could possibly use this
-issue to cause a denial of service. This issue only affected
-Ubuntu 26.04 LTS. (CVE-2026-35191)
-
-It was discovered that OpenSSL incorrectly implemented scalar
-multiplication for non-NIST elliptic curves. An attacker could possibly
-use this issue to perform a timing side-channel attack and obtain
-sensitive information. (CVE-2026-54872)
-
-It was discovered that OpenSSL incorrectly implemented SM2 scalar
-multip…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Igalia pracuje s Valve na lepším běhu Firefoxu na Steam Decku]]></title>
         <id>www.root.cz-actuality-53636</id>
         <link href="https://www.root.cz/zpravicky/igalia-pracuje-s-valve-na-lepsim-behu-firefoxu-na-steam-decku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -412,16 +990,6 @@ multip…]]></summary>
         <summary type="html"><![CDATA[Ace Combat 0: The Belkan War is a standalone game on console, but works like a DLC on PC]]></summary>
         <author>
             <name>Ash Parrish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Might Be Able To Play Zelda: Ocarina Of Time Remake With Navi’s Original Voice]]></title>
-        <id>https://kotaku.com/?p=2000738323</id>
-        <link href="https://kotaku.com/fans-think-navis-original-1998-voice-actress-ocarina-of-time-zelda-japanese-2000738323"/>
-        <updated>2026-09-29T17:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Listen!]]></summary>
-        <author>
-            <name>Rebekah Valentine</name>
         </author>
     </entry>
     <entry>
@@ -447,16 +1015,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fire Emblem: Fortune’s Weave Is So Full Of Stuff That Isn’t Major Battles That It’s Putting Me To Sleep]]></title>
-        <id>https://kotaku.com/?p=2000738285</id>
-        <link href="https://kotaku.com/fire-emblem-fortunes-weave-is-so-full-of-stuff-that-isnt-major-battles-that-its-putting-me-to-sleep-2000738285"/>
-        <updated>2026-09-29T17:00:19.000Z</updated>
-        <summary type="html"><![CDATA[I enjoy this game, but everything between major battles is snooze-inducing]]></summary>
-        <author>
-            <name>Ash Parrish</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Review: Mobapad C2 Lite Controller - The Best Budget Pad For Switch 2? Probably]]></title>
         <id>https://www.nintendolife.com/#article-206971</id>
         <link href="https://www.nintendolife.com/reviews/mobapad-c2-lite-controller-the-best-budget-pad-for-switch-2-probably"/>
@@ -477,49 +1035,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[It's been a while since any new Spectre vulnerabilities have come to light but that's changing today. The embargo has now lifted on BTR, Branch Target Reuse as a new Spectre-V2 attack affecting just-in-time (JIT) compilers...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[McDonald’s Could Use AI To Charge Everyone Different Prices For Burgers]]></title>
-        <id>https://kotaku.com/?p=2000738315</id>
-        <link href="https://kotaku.com/mcdonalds-reportedly-using-ai-to-figure-out-just-how-much-they-can-charge-for-a-burger-at-every-location-2000738315"/>
-        <updated>2026-09-29T16:30:27.000Z</updated>
-        <summary type="html"><![CDATA[The company is allegedly pushing franchise owners to use AI tools to set menu prices]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8846-1: libheif vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8846-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8846-1"/>
-        <updated>2026-09-29T16:18:50.000Z</updated>
-        <summary type="html"><![CDATA[Yuqi Qiu and Xiang Li discovered that libheif incorrectly handled certain
-compressed metadata. A remote attacker could possibly use this issue to
-cause a denial of service. This issue only affected Ubuntu 24.04 LTS and
-Ubuntu 26.04 LTS. (CVE-2026-84384)
-
-Yuqi Qiu and Xiang Li discovered that libheif incorrectly handled certain
-HEIF sequence data. A remote attacker could possibly use this issue to
-cause a denial of service. This issue only affected Ubuntu 26.04 LTS.
-(CVE-2026-84446)
-
-Yuqi Qiu and Xiang Li discovered that libheif incorrectly handled certain
-image references. A remote attacker could possibly use this issue to
-cause a denial of service. This issue only affected Ubuntu 26.04 LTS.
-(CVE-2026-84447)
-
-It was discovered that libheif incorrectly handled certain region masks.
-A local attacker could possibly use this issue to obtain sensitive
-information or cause a denial of service. This issue only affected Ubuntu
-24.04 LTS and Ubuntu 26.04 LTS. (CVE-2026-84448)
-
-It was discovered that libheif incorrectly handled certain images. A
-remote attacker could possibly use this issue to cause a denial of
-service. This issue only affected Ubuntu 18.04 LTS, Ubuntu 20.04 LTS,
-Ubuntu 22.04 LTS, and Ubuntu 24.04 LTS. (CVE-2026-84449)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -555,32 +1070,12 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Minecraft Dungeons 2 Is An Excellent Step Forward For An Already Great Cozy Action-RPG Formula]]></title>
-        <id>https://kotaku.com/?p=2000738263</id>
-        <link href="https://kotaku.com/minecraft-dungeons-2-impressions-review-microsoft-mojang-the-sift-2000738263"/>
-        <updated>2026-09-29T16:00:08.000Z</updated>
-        <summary type="html"><![CDATA[The loot-filled co-op game improves on the original, while maintaining its core appeal]]></summary>
-        <author>
-            <name>John Walker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Delta Reign” Prerelease Promos and More English Cards Revealed!]]></title>
         <id>157067</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-prerelease-promos-and-more-english-cards-revealed.157067/"/>
         <updated>2026-09-29T15:57:49.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A New PS5 Jailbreak May Have Just Opened The Floodgates To Piracy]]></title>
-        <id>https://kotaku.com/?p=2000738283</id>
-        <link href="https://kotaku.com/new-ps5-jailbreak-exploit-works-on-systems-running-july-2026-firmware-2000738283"/>
-        <updated>2026-09-29T15:30:50.000Z</updated>
-        <summary type="html"><![CDATA[According to those who have installed the new Relapse exploit, it works with everything from Marvel's Wolverine to The Witcher 3 Remastered]]></summary>
-        <author>
-            <name>Lewis Parker</name>
         </author>
     </entry>
     <entry>
@@ -595,19 +1090,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8844-1: c-ares vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8844-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8844-1"/>
-        <updated>2026-09-29T15:15:25.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that c-ares incorrectly handled certain query completion
-callbacks. An attacker could possibly use this issue to trigger a use-
-after-free or double-free, resulting in a denial of service or arbitrary
-code execution.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I perished in the flesh pipes of Darktide's Depths of the Damned update, and you will too]]></title>
         <id>https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too</id>
         <link href="https://www.rockpapershotgun.com/i-perished-in-the-flesh-pipes-of-darktides-depths-of-the-damned-update-and-you-will-too"/>
@@ -619,32 +1101,12 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GTA 5 Modder Cancels Nintendo Switch Port Just Days Before Launch After Previously Taunting Rockstar: ‘I Am Thankful For Take-Two’s Mercy’]]></title>
-        <id>https://kotaku.com/?p=2000738284</id>
-        <link href="https://kotaku.com/gta-5-modder-cancels-nintendo-switch-port-just-days-before-launch-after-previously-taunting-rockstar-i-am-thankful-for-take-twos-mercy-2000738284"/>
-        <updated>2026-09-29T15:00:05.000Z</updated>
-        <summary type="html"><![CDATA[The creator behind the planned port will not release any code or assets online in order to avoid a possible lawsuit]]></summary>
-        <author>
-            <name>Zack Zwiezen</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Heat Rotom ex, Kommo-o, Zinnia’s Trust, and More English Cards Revealed from “Delta Reign!”]]></title>
         <id>157051</id>
         <link href="https://www.pokebeach.com/forums/threads/heat-rotom-ex-kommo-o-zinnia%E2%80%99s-trust-and-more-english-cards-revealed-from-%E2%80%9Cdelta-reign-%E2%80%9D.157051/"/>
         <updated>2026-09-29T14:33:51.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Pro Begs Rivals To Wash After A ‘Putrid’ Smell At A Recent Competition Made Him Throw Up]]></title>
-        <id>https://kotaku.com/?p=2000738281</id>
-        <link href="https://kotaku.com/pokemon-pro-begs-rivals-to-wash-after-a-putrid-smell-at-a-recent-competition-made-him-throw-up-2000738281"/>
-        <updated>2026-09-29T14:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Axe body spray doesn't cut it, folks]]></summary>
-        <author>
-            <name>Ethan Gach</name>
         </author>
     </entry>
     <entry>
@@ -678,47 +1140,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Implementace běhu starých her využívajících Direct3D verzí 3 až 7 nad API Vulkan je de facto hotova. Projekt ve verzi 2.3 umí vše, co je potřeba, výkon se oproti starším vydáním výrazně zvýšil, opraveno je mnoho chyb a neočekávají se v tomto směru už zásadnější pokroky, a tak se v podstatě přechází do režimu údržby.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8843-1: FreeIPMI vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8843-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8843-1"/>
-        <updated>2026-09-29T14:16:32.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that FreeIPMI incorrectly handled certain malformed
-Fujitsu SEL long-text responses, leading to a stack-based buffer
-overflow. An attacker in control of a malicious IPMI device could
-possibly use this issue to cause FreeIPMI to crash, resulting in a denial
-of service, or possibly execute arbitrary code. (CVE-2026-85504)
-
-It was discovered that FreeIPMI incorrectly handled short responses when
-retrieving Fujitsu SEL entries, leading to a stack-based buffer
-over-read. An attacker in control of a malicious IPMI device could
-possibly use this issue to cause FreeIPMI to crash, resulting in a denial
-of service. (CVE-2026-85505)
-
-It was discovered that FreeIPMI incorrectly handled certain Dell iDRAC
-and CMC IPv6 system information responses, leading to a stack-based
-buffer overflow. An attacker in control of a malicious IPMI device could
-possibly use this issue to cause FreeIPMI to crash, resulting in a denial
-of service, or possibly execute arbitrary code. (CVE-2026-85506,
-CVE-2026-85508)
-
-It was discovered that FreeIPMI incorrectly handled certain Dell CMC
-system information responses, leading to a stack-based buffer overflow.
-An attacker in control of a malicious IPMI device could possibly use this
-issue to cause FreeIPMI to crash, resulting in a denial of service, or
-possibly execute arbitrary code. This issue only affected Ubuntu 16.04
-LTS, Ubuntu 18.04 LTS, Ubuntu 20.04 LTS, Ubuntu 22.04 LTS, Ubuntu 24.04
-LTS, and Ubuntu 26.04 LTS. (CVE-2026-85507)
-
-It was discovered that FreeIPMI incorrectly handled FRU data responses
-that were larger than requested, leading to a stack-based buffer
-overflow. An attacker in control of a malicious IPMI device could
-possibly use this issue to cause FreeIPMI to crash, resulting in a denial
-of service, or possibly execute arbitrary code. (CVE-2026-85509)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -823,19 +1244,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Zelda 40th Anniversary Concert Tickets Go Live Tomorrow, 30th September]]></title>
-        <id>https://www.nintendolife.com/#article-206956</id>
-        <link href="https://www.nintendolife.com/news/2026/09/zelda-40th-anniversary-concert-tickets-go-live-tomorrow-30th-september"/>
-        <updated>2026-09-29T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Additional dates teased.
-After being revealed earlier this month, Nintendo has finally shared that tickets for the European leg of the Zelda 40th Anniversary concert will go live tomorrow (30th September).
-Ticket sales will begin at 12pm BST / 1pm CET for the European shows, which will take place on the following dates:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[D7VK Reaches Maturity For Older Direct3D APIs Atop Vulkan]]></title>
         <id>https://www.phoronix.com/news/D7VK-2.3-Released</id>
         <link href="https://www.phoronix.com/news/D7VK-2.3-Released"/>
@@ -900,58 +1308,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8818-3: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8818-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8818-3"/>
-        <updated>2026-09-29T09:19:25.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some Arm processors could complete a broadcast
-translation lookaside buffer (TLB) invalidation before memory writes made
-through the invalidated translation were globally observed. A local
-attacker could possibly use this to write to memory after permission to do
-so had been revoked, bypassing memory protections or escalating privileges.
-(CVE-2025-10263)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - InfiniBand drivers;
-  - Network drivers;
-  - TCM subsystem;
-  - exFAT file system;
-  - Network file system (NFS) client;
-  - Network file system (NFS) server daemon;
-  - B.A.T.M.A.N. meshing protocol;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Netfilter;
-  - RDS protocol;
-(CVE-2026-53186, CVE-2026-53216, CVE-2026-53221, CVE-2026-53354,
-CVE-2026-53355, CVE-2026-53398, CVE-2026-63800, CVE-2026-63808,
-CVE-2026-63887, CVE-2026-63888, CVE-2026-63912, CVE-2026-63922,
-CVE-2026-63924, CVE-2026-63984, CVE-2026-63992, CVE-2026-63993,
-CVE-2026-63994, CVE-2026-64007, CVE-2026-64091)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8819-3: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8819-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8819-3"/>
-        <updated>2026-09-29T09:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - Network file system (NFS) server daemon;
-  - IPv6 networking;
-  - Netfilter;
-(CVE-2025-38724, CVE-2026-53131, CVE-2026-53221)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SimCity 2000 dostalo moderní Godot reimplementaci]]></title>
         <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=63315</id>
         <link href="https://www.high-voltage.cz/sortky/simcity-2000-dostalo-moderni-godot-reimplementaci/"/>
@@ -990,126 +1346,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <summary type="html"><![CDATA[Raspberry Pi uvádí na trh Smart Display Module, rozšiřující desku pro počítač Raspberry Pi Compute Module 5. Zařízení je nyní dostupné prostřednictvím autorizovaných prodejců za 30 dolarů, přičemž samotný Compute Module 5 se prodává samostatně. O přípravě tohoto modulu jsme psali už v lednu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8842-1: Linux kernel (NVIDIA) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8842-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8842-1"/>
-        <updated>2026-09-29T08:03:31.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - InfiniBand drivers;
-  - Network drivers;
-  - TCM subsystem;
-  - B.A.T.M.A.N. meshing protocol;
-  - HSR network protocol;
-  - IPv4 networking;
-  - IPv6 networking;
-  - Netfilter;
-  - RDS protocol;
-(CVE-2026-53131, CVE-2026-53186, CVE-2026-53216, CVE-2026-53221,
-CVE-2026-53355, CVE-2026-63886, CVE-2026-63887, CVE-2026-63888,
-CVE-2026-63912, CVE-2026-63922, CVE-2026-63924, CVE-2026-63984,
-CVE-2026-63992, CVE-2026-63993, CVE-2026-63994, CVE-2026-64000,
-CVE-2026-64007, CVE-2026-64091)]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8728-3: Linux kernel (Oracle) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8728-3</id>
-        <link href="https://ubuntu.com/security/notices/USN-8728-3"/>
-        <updated>2026-09-29T07:53:08.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that some Arm processors could complete a broadcast
-translation lookaside buffer (TLB) invalidation before memory writes made
-through the invalidated translation were globally observed. A local
-attacker could possibly use this to write to memory after permission to do
-so had been revoked, bypassing memory protections or escalating privileges.
-(CVE-2025-10263)
-
-It was discovered that some AMD Zen 2 processors did not properly isolate
-shared resources in the operation cache. A local attacker could possibly
-use this issue to corrupt instructions executed at a higher privilege
-level, resulting in privilege escalation. (CVE-2025-54518)
-
-Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update correc…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8816-2: Linux kernel vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8816-2</id>
-        <link href="https://ubuntu.com/security/notices/USN-8816-2"/>
-        <updated>2026-09-29T07:52:53.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM64 architecture;
-  - S390 architecture;
-  - x86 architecture;
-  - DRBD Distributed Replicated Block Device drivers;
-  - InfiniBand drivers;
-  - IOMMU subsystem;
-  - Multiple devices driver;
-  - Network drivers;
-  - Microsoft Azure Network Adapter (MANA) driver;
-  - NVME drivers;
-  - TCM subsystem;
-  - Virtio Host (VHOST) subsystem;
-  - Xen hypervisor drivers;
-  - AFS file system;
-  - File systems infrastructure;
-  - Network file systems library;
-  - Network file system (NFS) client;
-  - NTFS3 file system;
-  - OCFS2 file system;
-  - OrangeFS file system;
-  - SMB network file system;
-  - IPv4 networking;
-  -…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USN-8729-6: Linux kernel (AWS) vulnerabilities]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8729-6</id>
-        <link href="https://ubuntu.com/security/notices/USN-8729-6"/>
-        <updated>2026-09-29T07:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Several security issues were discovered in the Linux kernel.
-An attacker could possibly use these to compromise the system.
-This update corrects flaws in the following subsystems:
-  - ARM32 architecture;
-  - ARM64 architecture;
-  - PowerPC architecture;
-  - Compute Acceleration Framework;
-  - Drivers core;
-  - Bluetooth drivers;
-  - Arm Firmware Framework for ARMv8-A(FFA);
-  - EFI core;
-  - GPU drivers;
-  - Hardware monitoring drivers;
-  - InfiniBand drivers;
-  - Network drivers;
-  - Microsoft Azure Network Adapter (MANA) driver;
-  - SCSI subsystem;
-  - SPI subsystem;
-  - Network file systems library;
-  - NTFS3 file system;
-  - SMB network file system;
-  - File systems infrastructure;
-  - Software nodes and device properties;
-  - Bluetooth subsystem;
-  - Netfilter;
-  - Tracing infrastructu…]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
         </author>
     </entry>
     <entry>
@@ -1554,19 +1790,6 @@ The one consolation - other than EIC Julian's many encouraging facial expression
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video: The Witcher 3 Remastered Side-By-Side Comparison, Switch Vs. Switch 2]]></title>
-        <id>https://www.nintendolife.com/#article-206890</id>
-        <link href="https://www.nintendolife.com/news/2026/09/video-the-witcher-3-remastered-side-by-side-comparison-switch-vs-switch-2"/>
-        <updated>2026-09-28T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ciriously.
-Somehow, The Witcher III: Wild Hunt returned. CD Projekt Red surprised us all earlier this summer with the announcement that it was bringing the beloved RPG to Switch 2, complete with all of its DLC (even the new stuff) and tasty remastered visuals to boot.
-The game launches this week on 29th September, and to make sure that everyone is sufficiently hyped for the upgrade, we've assembled a side-by-side comparison between the Switch 1 and 2 versions so you can easily see the improvements.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[openSUSE Leap 16.1 RC Released With New Immutable Mode]]></title>
         <id>https://www.phoronix.com/news/openSUSE-Leap-16.1-RC</id>
         <link href="https://www.phoronix.com/news/openSUSE-Leap-16.1-RC"/>
@@ -1606,32 +1829,6 @@ Discord server members are still free to "use any official Hearts of Iron IV in-
  Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Charts: Fire Emblem: Fortune's Weave Drops To Number 8 As FC 27 Tops The Podium]]></title>
-        <id>https://www.nintendolife.com/#article-206882</id>
-        <link href="https://www.nintendolife.com/news/2026/09/uk-charts-fire-emblem-fortunes-weave-drops-to-number-8-as-fc-27-tops-the-podium"/>
-        <updated>2026-09-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fooseball? You playin' the fooseball?!
-The latest UK charts data is in, and with the release of EA Sports FC 27 on 25th September, it's no surprise to find the football sim makes its debut at number one. PS5 has comfortably outpaced the other consoles in terms of sales, with Switch and Switch 2 making up 8% and 5% respectively.
-Fire Emblem: Fortune's Weave has slipped down to number eight after its debut last week, though this is still an enviably position for Nintendo's new release, especially in the wake of two new multi-platform releases with FC 27 and Silent Hill: Townfall.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PSA: The Witcher 3 Remastered File Size And Release Time Confirmed, Separate Purchase Required]]></title>
-        <id>https://www.nintendolife.com/#article-206880</id>
-        <link href="https://www.nintendolife.com/news/2026/09/psa-the-witcher-3-remastered-file-size-and-release-time-confirmed-separate-purchase-required"/>
-        <updated>2026-09-28T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[No automatic upgrades here.
-The Witcher III: Wild Hunt - Remastered is right around the corner, launching on Switch 2 on 29th September 2026 (yes, that's tomorrow at the time of writing).
-Many of you already own the original Switch release, so the good news is that this new version is completely free for you. However, unlike PS5 and Xbox Series X|S, which automatically upgrade the original game to the Remastered version, you'll have to download a completely separate product on Switch 2.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1734,58 +1931,12 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements]]></title>
-        <id>https://www.phoronix.com/news/Budgie-10.10.3-Released</id>
-        <link href="https://www.phoronix.com/news/Budgie-10.10.3-Released"/>
-        <updated>2026-09-27T17:37:07.000Z</updated>
-        <summary type="html"><![CDATA[Budgie 10.10.3 is out today as the newest point release to this open-source desktop...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[“Deluxe Pack Mega” Annual Special Set to Release in “Pocket!”]]></title>
         <id>157058</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdeluxe-pack-mega%E2%80%9D-annual-special-set-to-release-in-%E2%80%9Cpocket-%E2%80%9D.157058/"/>
         <updated>2026-09-27T15:20:46.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Opinion: I Played Mario Kart Tour Every Day For Seven Years, And What Am I Left With?]]></title>
-        <id>https://www.nintendolife.com/#article-206448</id>
-        <link href="https://www.nintendolife.com/features/opinion-i-played-mario-kart-tour-every-day-for-seven-years-and-what-am-i-left-with"/>
-        <updated>2026-09-27T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chequered flag.
-On 24th September 2019, Nintendo launched Mario Kart Tour for mobile devices. This was Mario’s second outing in mobile gaming, following 2016’s Super Mario Run, which had an impressive initial reception but seemingly failed to generate much revenue (compared with other big mobile games, including Nintendo’s own Fire Emblem Heroes).
-Mario Kart Tour aimed to change that, built with mobile player expectations in mind, and ultimately proved more successful than Super Mario Run at the time. So it's ironic then that Mario Run is still getting updates while Tour will end service on Wednesday 30th September 2026.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Kernel's LZ4 Compression Code Being Resynced For Better Performance & Cleanliness]]></title>
-        <id>https://www.phoronix.com/news/Linux-LZ4-Clean-Resync</id>
-        <link href="https://www.phoronix.com/news/Linux-LZ4-Clean-Resync"/>
-        <updated>2026-09-27T13:16:20.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the Linux kernel's Zstd compression code being improved, the LZ4 compression code within the kernel tree is also seeing a separate set of enhancements...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Voidjoy GA-10 Elite Extender For Switch Pro Controller - The Pros Don't Outweigh The (Mod) Cons]]></title>
-        <id>https://www.nintendolife.com/#article-205822</id>
-        <link href="https://www.nintendolife.com/reviews/voidjoy-ga-10-elite-extender-for-switch-pro-controller-the-pros-dont-outweigh-the-mod-cons"/>
-        <updated>2026-09-27T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Voidco.
-With the price of consoles, controllers, games, groceries — everything — shooting up over the last few years, you're likely keen to save pennies where you can. It's one thing to push the boat out for a new Switch 2, but add-ons and accessories can stretch budgets to breaking point. Is a $90 / £75 Pro Controller 2 really an essential purchase when your old Switch 1 Pro Controller is working just fine?
-Justifying that sort of money (or more if you want that fancy new Zelda one) might be tough, but what if you could upgrade your old Pro Controller with back buttons and broader functionality, and throw some analogue triggers into the bargain? That's what JSAUX is proposing with the Voidjoy Elite Extender, an add-on which attempts to give your old Pro a glow-up into something resembling other premium pads.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1820,36 +1971,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug</id>
-        <link href="https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug"/>
-        <updated>2026-09-27T10:49:05.000Z</updated>
-        <summary type="html"><![CDATA[Adding to the features expected to land for Linux 7.4 is a significant performance optimization for the memory hotplugging speed for adding additional RAM. In particular, the memory hotplugging being most applicable for cases like expanding the amount of memory for VMs or in today's CXL world for adding additional system memory...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Linux Patches For Supporting Lenovo ThinkPad X1 Carbon G14's Second Camera]]></title>
-        <id>https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam</id>
-        <link href="https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam"/>
-        <updated>2026-09-27T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[For those considering Lenovo's recently launched and beautifully crafted ThinkPad X1 Carbon Gen 14 laptop powered by Intel Core Ultra Series 3 "Panther Lake", one of the lingering missing features under Linux will hopefully soon be addressed: its second web camera...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Patch Series Working Toward DRBD 9 Support In The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9</id>
-        <link href="https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9"/>
-        <updated>2026-09-27T10:23:07.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year developers at LINBIT began working toward a goal of upstreaming ~15 years worth of their Distributed Replicated Block Device changes into the mainline Linux kernel. That major update has yet to land but sent out this week was a new patch series in preparing the trek toward introducing DRBD 9 support in the mainline kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Týden na ITBiz: Tržby z podnikových úložných systémů se meziročně zvýšily o 33,6 %]]></title>
         <id>http://www.abclinuxu.cz/clanky/tyden-na-itbiz-trzby-z-podnikovych-uloznych-systemu-se-mezirocne-zvysily-o-33-6</id>
         <link href="http://www.abclinuxu.cz/clanky/tyden-na-itbiz-trzby-z-podnikovych-uloznych-systemu-se-mezirocne-zvysily-o-33-6"/>
@@ -1857,16 +1978,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Huawei Connect 2026: nová infrastruktura pro AI. Propojí až milion specializovaných procesorů. AI už využívá více než polovina českých velkých podniků. První český fond na transfer technologií AI – do komercionalizace půjde 1,2 mld Kč. Novým cílem útoků je výpočetní výkon umělé inteligence. Tržby z podnikových úložných systémů se meziročně zvýšily o 33,6 %. Útočníci využívají rostoucího zájmu o agentní AI. XPG Mars 980 Blade: PCIe 5.0 disk bez objemného chladiče.]]></summary>
         <author>
             <name>Redakce</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset</id>
-        <link href="https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset"/>
-        <updated>2026-09-27T00:45:33.000Z</updated>
-        <summary type="html"><![CDATA[In addition to this week's DRM-Misc-Next pull request introducing some new HDMI 2.0 helpers for the DRM drivers, the pull request also introduced improved GPU reset support for the Broadcom V3D GPU with the VC4 kernel driver...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -1922,16 +2033,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNU Project Debugger aneb GDB 18.1]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/gnu-project-debugger-aneb-gdb-18.1</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/gnu-project-debugger-aneb-gdb-18.1"/>
-        <updated>2026-09-26T17:26:16.000Z</updated>
-        <summary type="html"><![CDATA[GNU Project Debugger aneb GDB byl vydán ve verzi 18.1. Podrobný přehled novinek v souboru NEWS.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2551,26 +2652,6 @@ Read more]]></summary>
         <link href="https://www.root.cz/zpravicky/zranitelnost-kvm-na-arm64-muze-umoznit-unik-z-virtualniho-stroje/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2026-09-24T08:31:58.000Z</updated>
         <summary type="html"><![CDATA[V linuxovém jádře byla objevena zranitelnost v hypervizoru KVM pro architekturu ARM64. Chyba označená jako CVE-2026–89775 může za určitých podmínek umožnit virtuálnímu stroji číst a zapisovat do paměti hostitelského systému, čímž narušuje izolaci mezi hostem a hostitelem.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian má vlastní portál pro AI: pomůže s balíčky, bugy i dokumentací]]></title>
-        <id>www.root.cz-actuality-53579</id>
-        <link href="https://www.root.cz/zpravicky/debian-ma-vlastni-portal-pro-ai-pomuze-s-balicky-bugy-i-dokumentaci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-09-24T07:53:36.000Z</updated>
-        <summary type="html"><![CDATA[Projekt Debian spustil Debian Inference Portal, který jeho vývojářům a správcům balíčků nabízí přístup k jazykovým modelům pro práci na distribuci. Portál umožňuje využívat AI modely při balení softwaru, třídění hlášení chyb, přípravě oprav, vývoji nástrojů nebo psaní dokumentace. Na začátku jsou k dispozici modely DeepSeek V4 Flash a GLM-5.2.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel už nebude vyplácet odměny za objevené chyby ve svých produktech]]></title>
-        <id>www.root.cz-actuality-53576</id>
-        <link href="https://www.root.cz/zpravicky/intel-uz-nebude-vyplacet-odmeny-za-objevene-chyby-ve-svych-produktech/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-09-24T07:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Společnost Intel po téměř deseti letech ukončila program odměn za nahlášení objevených bezpečnostních chyb ve svých výrobcích. Záhy byl sice vyhlášen program nový, ale ten už nezahrnuje finanční odměny. „Jedná se o program odpovědného oznamování bezpečnostních zranitelností bez odměn,“ uvádí oznámení Intelu.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
         </author>
@@ -3635,29 +3716,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wo Long 2: Wings of Ember has a demo out, as Koei Tecmo carve an early 2027 release date into some hulking demons from Chinese mythology]]></title>
-        <id>https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology</id>
-        <link href="https://www.rockpapershotgun.com/wo-long-2-wings-of-ember-has-a-demo-out-as-koei-tecmo-carve-an-early-2027-release-date-into-some-hulking-demons-from-chinese-mythology"/>
-        <updated>2026-09-16T09:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Wo Long: Fallen Dynasty sequel Wo Long 2: Wings of Ember will release in March next year, devs Koei Tecmo have revealed as they've whipped out an alpha demo that you can give a go right away. Expect plenty of samurai sword slashing and rolling around the mythological or historical Chinese big man, plus some open battlefields to roam.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Total War: Shogun 2's Complete Edition adds 50 minor factions in return for breaking your mods, but fear not, players who stick to the old version will get legacy DLC for free]]></title>
-        <id>https://www.rockpapershotgun.com/total-war-shogun-2s-complete-edition-adds-50-more-factions-in-return-for-breaking-your-mods-but-fear-not-players-who-stick-to-the-old-version-will-get-legacy-dlc-for-free</id>
-        <link href="https://www.rockpapershotgun.com/total-war-shogun-2s-complete-edition-adds-50-more-factions-in-return-for-breaking-your-mods-but-fear-not-players-who-stick-to-the-old-version-will-get-legacy-dlc-for-free"/>
-        <updated>2026-09-16T09:08:22.000Z</updated>
-        <summary type="html"><![CDATA[If you recently glanced at Total War: Shogun 2 and thought "gosh, lovely hip-and-gable roofs on that miniature of the temples in Kyoto, but this could really do with oh, let's say 50 additional groups of quarrelsome swordsmen", then congratulations, Creative Assembly are adding "50+" minor factions in Total War: Shogun 2 Complete Edition, an all-in-one remaster hamper due to launch on 13th October via Steam, Epic Games Store, Microsoft Store and GOG.
-This fancified and expanderised, 64-bit edition of the 2011 strategy game will include both the Rise and the Fall of the Samurai DLC expansions, together with updated lighting, shadows and textures. Also: "modernised controls", which makes me frown a little in the absence of details, together with 1440p and 4K UI scaling, and Japanese and Chinese voice acting and localisation.
- Read more]]></summary>
-        <author>
-            <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Denuvo Sues Game Cracker ‘voices38’ for Bypassing its Anti-Tamper DRM]]></title>
         <id>https://torrentfreak.com/?p=280720</id>
         <link href="https://torrentfreak.com/denuvo-sues-game-cracker-voices38-for-bypassing-its-anti-tamper-drm/"/>
@@ -3680,30 +3738,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Skyblivion's release is "getting closer" as the massive Skyrim mod's makers start recruiting for a big final marketing push]]></title>
-        <id>https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push</id>
-        <link href="https://www.rockpapershotgun.com/skyblivions-release-is-getting-closer-as-the-massive-skyrim-mods-makers-start-recruiting-for-a-big-final-marketing-push"/>
-        <updated>2026-09-15T16:33:26.000Z</updated>
-        <summary type="html"><![CDATA[Skyblivion, that massive Oblivion remake mod which was originally set to release last year, finally seems to be on the verge of arrival. While they've still yet to put a full release date on it, the mod's creators have announced that they're looking for voluteers to join their comms team and contribute to a final push to get the word out about their creation.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tim Willits doesn't think Rideshare's generative AI is damaging Saber's reputation]]></title>
-        <id>https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation</id>
-        <link href="https://www.rockpapershotgun.com/tim-willits-doesnt-think-rideshares-generative-ai-is-damaging-sabers-reputation"/>
-        <updated>2026-09-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago, when I spoke with Tim Willits, chief creative officer at Saber Interactive, makers of games like Space Marine 2, SnowRunner, and World War Z, the company was dealing with the shitstorm that ensued from their announcement of Rideshare Stimulator.
-The game's basically an Uber simulator, with you driving a car around town picking up fares, but Saber drew all kinds of bad attention when a former writer on the game revealed the game featured generative AI (something left undisclosed on the game's Steam page until recently) and CEO Matt Karch responded by attacking the writer in statements to the press. Something he has since apologised for.
-So, naturally, we talked about generative AI and the reputational damage – or lack of – when getting caught out using it.
-Read more]]></summary>
-        <author>
-            <name>Julian Benson</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Audio recenze: Opuštěný [L'Abandon] - 70 %]]></title>
         <id>tag:blogger.com,1999:blog-2270872860161924291.post-3382310423202589757</id>
         <link href="https://www.fffilm.cz/2026/09/audio-recenze-opusteny-labandon-70.html"/>
@@ -3711,30 +3745,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Velmi dobře natočený film, jehož potenciál trochu torpédují dvě skutečnosti: 1) Mnohé věci jsou ve filmu jinak, než se doopravdy staly, což do jisté míry zabraňuje zajímavé diskusi, která by po jeho zhlédnutí mohla vzniknout. 2) Hodilo by se ve filmu aspoň stručně zmínit některé základní skutečnosti, které mladší český divák nemusí znát  a ve filmu nejsou zmíněny ani jednou větou (např. proč je zrovna časopis Charlie Hebdo a jeho karikatury tak signifikantní). (Ilča 80 %)]]></summary>
         <author>
             <name>noreply@blogger.com (Unknown)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marathon's next major update runs a few months further away, permanent PvE in hand, as Bungie ditch their "strict seasonal schedule"]]></title>
-        <id>https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule</id>
-        <link href="https://www.rockpapershotgun.com/marathons-next-major-update-runs-a-few-months-further-away-permanent-pve-in-hand-as-bungie-ditch-their-strict-seasonal-schedule"/>
-        <updated>2026-09-15T15:25:04.000Z</updated>
-        <summary type="html"><![CDATA[Bungie have announced that the Marathon update originally slated to arrive on September 22nd will not be doing so. Instead, it'll rock up in December as part of a major update dubbed Symbiosis, which'll introduce a new permanent PvE mode. Bungie are pegging it as "the first major step in Marathon’s next chapter" and have decided to ditch their established seasonal cadence for additions as part of this raft of changed plans.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradox's grand strategy game Afterworld hasn't got a fixed history, it changes with every playthrough]]></title>
-        <id>https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough</id>
-        <link href="https://www.rockpapershotgun.com/paradoxs-grand-strategy-game-afterworld-hasnt-got-a-fixed-history-it-changes-with-every-playthrough"/>
-        <updated>2026-09-15T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Each time you start a new campaign in Afterworld, Paradox's upcoming post-apocalyptic grand strategy game, a tiny virtual historian cracks their knuckles and gets to work writing a new 200-year history for what happened to North America in the dying days of the great war.
-They will decide where the great powers fired their nuclear-tipped missiles, where they released their clouds of flesh-eating nanites, where they dropped their lung-bubbling chemical weapons, and they will decide who survived and who died. These procedural changes should mean that each time you start a new game of Afterworld, the map will be dramatically different from the last.
-That flexibility to rewrite the surface of Afterworld is vital, game director Dan Lind tells me, "Otherwise it undermines a lot of the exploration".
-Read more]]></summary>
-        <author>
-            <name>Julian Benson</name>
         </author>
     </entry>
     <entry>
@@ -3746,17 +3756,6 @@ Read more]]></summary>
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European Commission's proposed EU Kids Act could see online games forced to enact stricter age verification amid new rules around accounts for under 15s]]></title>
-        <id>https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s</id>
-        <link href="https://www.rockpapershotgun.com/european-commissions-proposed-eu-kids-act-could-see-online-games-forced-to-enact-stricter-age-verification-amid-new-rules-around-accounts-for-under-15s"/>
-        <updated>2026-09-15T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The European Commission are reportedly set to propose new rules around how under 15s access the likes of social media, AI chatbots, and online video games. Dubbed the EU Kids Act, the proposed legislation in its current form demands the setting up of a tiered system governing the types of accounts children under 15 can create to access such services. As with the UK's Online Safety Act, that'd result in the rolling out of age verification hoops everyone has to jump through to access these allegedly risky platforms.
-Read more]]></summary>
-        <author>
-            <name>Mark Warren</name>
         </author>
     </entry>
     <entry>
@@ -3993,17 +3992,6 @@ Wake up in a Chicago bathroom in 1941 with a gun in your pocket and no memory of
 Originally developed by ICOM Simulations and published by Mindscape …]]></summary>
         <author>
             <name>nospam@scummvm.org (11-andy-11)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s ChatGPT Was Built on Concealed ‘Mass Piracy’, Authors Tell Court]]></title>
-        <id>https://torrentfreak.com/?p=280530</id>
-        <link href="https://torrentfreak.com/openais-chatgpt-was-built-on-concealed-mass-piracy-authors-tell-court/"/>
-        <updated>2026-09-07T10:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Book authors have asked a New York federal judge to rule that OpenAI built its AI models on “mass piracy”. Pointing to internal documents, a summary judgment motion alleges the AI giant downloaded books from LibGen, hid the evidence by renaming datasets, and designed its models to supplant human writers. OpenAI filed the mirror-image motion, stressing that its data harvesting qualifies as fair use.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
