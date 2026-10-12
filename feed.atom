@@ -1,10 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-12T00:53:54.110Z</id>
+    <id>urn:2026-10-12T08:25:41.305Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-10-12T00:53:54.110Z</updated>
+    <updated>2026-10-12T08:25:41.305Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Game Industry Asks U.S. to Flag Denuvo Cracker ‘voices38’ as Notorious Piracy Threat]]></title>
+        <id>https://torrentfreak.com/?p=281242</id>
+        <link href="https://torrentfreak.com/game-industry-asks-u-s-to-flag-denuvo-cracker-voices38-as-notorious-piracy-threat/"/>
+        <updated>2026-10-12T08:06:26.000Z</updated>
+        <summary type="html"><![CDATA[The Entertainment Software Association has asked the U.S. Government to label the Denuvo cracker ‘voices38’ as a notorious piracy market. The game industry group argues that the cracker is an essential source in the game piracy ecosystem, feeding repackers and torrent sites. A notorious market flag is no guarantee of success, however, as FitGirl's previous listings show.
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 27.04 bude mít ntpd-rs pro synchronizaci času jako výchozí]]></title>
+        <id>www.root.cz-actuality-53825</id>
+        <link href="https://www.root.cz/zpravicky/ubuntu-27-04-bude-mit-ntpd-rs-pro-synchronizaci-casu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-10-12T07:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Synchronizace času byla historicky nejprve řešena pomocí ntp. Ten však již nějakou dobu nevydává nové verze. Poslední 4.2.8 je z května 2024. Sice na jejich hlavní stránce probíhá nějaká sbírka, ale mají vybráno necelých 200 tisíc dolarů z požadovaných 1,2 miliónů.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LineageOS 24 přechází na Android 17, přidává editor obrázků i flashování z prohlížeče]]></title>
+        <id>www.root.cz-actuality-53822</id>
+        <link href="https://www.root.cz/zpravicky/lineageos-24-prechazi-na-android-17-pridava-editor-obrazku-i-flashovani-z-prohlizece/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-10-12T07:50:22.000Z</updated>
+        <summary type="html"><![CDATA[Projekt LineageOS vydal novou verzi operačního systému číslo 24 založenou na Androidu 17. Přináší také řadu změn v předinstalovaných aplikacích i nástrojích pro aktualizaci a instalaci. Novinkou v aplikacích je editor obrázků Canvas se základními funkcemi, jako jsou ořez, úprava vyvážení bílé a filtry. Hudební přehrávač Twelve opravuje problém problému se zamrzáním zvuku při zapnutém offloadu. Prohlížeč Jelly nově umožňuje vytvářet zástupce webů s funkcemi podobnými progresivním webovým aplikacím.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hashicorp Vault: nastroj na správu hesel, klíčů a citlivých dat (školení)]]></title>
+        <id>www.root.cz-actuality-43417</id>
+        <link href="https://www.root.cz/zpravicky/hashicorp-vault-nastroj-na-spravu-hesel-klicu-a-citlivych-dat-skoleni/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-10-12T07:38:58.000Z</updated>
+        <summary type="html"><![CDATA[Hashicorp Vault je nastroj na správu hesel, klíčů a citlivých dat. Vault zároveň umožňuje nastavovat jednorázové přístupy s krátkou platností pro ještě lepší zabezpečení. Vše běží bezpečně v HA. Jste vývojáři či devopsáci, kteří chtějí bezpečně ukládat tajemství? Přihlaste se na naše školení Hashicorp Vault.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Redakce)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USN-8912-1: Perl DBI module vulnerabilities]]></title>
+        <id>https://ubuntu.com/security/notices/USN-8912-1</id>
+        <link href="https://ubuntu.com/security/notices/USN-8912-1"/>
+        <updated>2026-10-12T02:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Harsh Raj Singhania discovered that the Perl DBI module did not
+correctly validate certain attributes. An attacker could possibly use
+this issue to execute arbitrary code. (CVE-2026-78030)
+
+Harsh Raj Singhania discovered that the Perl DBI module did not
+correctly handle certain string operations. An attacker could possibly
+use this issue to cause a denial of service. (CVE-2026-88816)]]></summary>
+        <author>
+            <name>Ubuntu security notices</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA["FLO?" Speculative Set List with Numbering]]></title>
         <id>157025</id>
@@ -2029,19 +2086,6 @@ of sensitive information.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[USN-8902-1: libarchive vulnerability]]></title>
-        <id>https://ubuntu.com/security/notices/USN-8902-1</id>
-        <link href="https://ubuntu.com/security/notices/USN-8902-1"/>
-        <updated>2026-10-08T13:14:05.000Z</updated>
-        <summary type="html"><![CDATA[It was discovered that libarchive had a signed integer overflow in its
-ZIP writer when handling encrypted entries with sizes near the maximum
-value. An attacker could possibly use this issue to cause libarchive to
-crash or execute arbitrary code.]]></summary>
-        <author>
-            <name>Ubuntu security notices</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Xbox aim to wring more cash out of the games they've not cast into oblivion by launching new licensing arm and handing Minecraft to ex-Meta monetisation lead]]></title>
         <id>https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead</id>
         <link href="https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead"/>
@@ -2371,16 +2415,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Další tucet zranitelností v X.Org a XWaylandu opraven]]></title>
-        <id>www.root.cz-actuality-53759</id>
-        <link href="https://www.root.cz/zpravicky/dalsi-tucet-zranitelnosti-v-x-org-a-xwaylandu-opraven/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-10-07T15:22:22.000Z</updated>
-        <summary type="html"><![CDATA[Za přispění AI bylo objeveno 12 nových zranitelností v kódu projektu X.Org Serveru, což se současně prokopírovává i do XWaylandu. Jde opět o zjištění v rámci TrendAI Zero Day Initiative, která už si na pažbu připsala desítky podobných nálezů. Následuje seznam příslušný CVE:]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lynchian noir mystery Silver Pines takes the best bits from horror, the middling bits from Metroidvanias, and the worst bits from adventure games]]></title>
         <id>https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games</id>
         <link href="https://www.rockpapershotgun.com/lynchian-noir-mystery-silver-pines-takes-the-best-bits-from-horror-the-middling-bits-from-metroidvanias-and-the-worst-bits-from-adventure-games"/>
@@ -2640,16 +2674,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenSSH 10.6 zapíná hybridní postkvantové podpisy]]></title>
-        <id>www.root.cz-actuality-53753</id>
-        <link href="https://www.root.cz/zpravicky/openssh-10-6-zapina-hybridni-postkvantove-podpisy/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-10-06T15:46:52.000Z</updated>
-        <summary type="html"><![CDATA[Vyšlo OpenSSH 10.6, které přináší několik změn zaměřených na bezpečnost i praktičtější práci s nástroji kolem SSH. Vývojáři zároveň upozorňují, že v poslední době dostávají velké množství bezpečnostních hlášení vytvořených s pomocí umělé inteligence. Vítají je zejména tehdy, když jsou doplněna lidskou analýzou, testovacím případem nebo přímo návrhem opravy. Do budoucna proto chtějí vydávat opravy častěji a nesoustřeďovat je až do dalšího plánovaného vydání.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bullet heaven battler Warhammer Survivors arrives in November, with a new demo out now to whet your appetite for destruction]]></title>
         <id>https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction</id>
         <link href="https://www.rockpapershotgun.com/bullet-heaven-battler-warhammer-survivors-arrives-in-november-with-a-new-demo-out-now-to-whet-your-appetite-for-destruction"/>
@@ -2682,16 +2706,6 @@ It's an ominous beginning, but the best is still to come: Dreadline Express has 
 Read more]]></summary>
         <author>
             <name>Julian Benson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 6.0 už bez OpenGL, zvažují vývojáři]]></title>
-        <id>www.root.cz-actuality-53750</id>
-        <link href="https://www.root.cz/zpravicky/blender-6-0-uz-bez-opengl-zvazuji-vyvojari/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-10-06T14:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Blender řady 5 má oficiální podporu API Vulkan a tato podpora uzrála do krásy. A tak vývojáři začínají zvažovat, zdali pro šestkovou řadu již nevyřadit podporu OpenGL, což by jim zjednodušilo údržbu projektu.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: David Ježek)</name>
         </author>
     </entry>
     <entry>
@@ -4047,17 +4061,6 @@ For details of bugs fixed in each previous release of Android Studio Rabbit 1, s
 closed issues.]]></summary>
         <author>
             <name>Android Studio Release Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Denuvo Sues Game Cracker ‘voices38’ for Bypassing its Anti-Tamper DRM]]></title>
-        <id>https://torrentfreak.com/?p=280720</id>
-        <link href="https://torrentfreak.com/denuvo-sues-game-cracker-voices38-for-bypassing-its-anti-tamper-drm/"/>
-        <updated>2026-09-16T08:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Anti-piracy outfit Denuvo has filed a DMCA anti-circumvention lawsuit in a U.S. federal court, targeting the anonymous game cracker known as 'voices38.' The defendant stands accused of bypassing Denuvo's digital locks on more than two dozen games, including Hogwarts Legacy and Black Myth: Wukong. As the case moves forward, the company will likely subpoena Reddit, Discord, and Valve for the cracker's identifying information.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
