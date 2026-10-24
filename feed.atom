@@ -1,17 +1,89 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-23T22:49:46.996Z</id>
+    <id>urn:2026-10-24T02:53:51.896Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-10-23T22:49:46.996Z</updated>
+    <updated>2026-10-24T02:53:51.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
         <title type="html"><![CDATA[“Delta Reign” Set Guide: Full Card List, Cut Cards, Product Lineup, Store Promos, and More!]]></title>
         <id>157114</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-set-guide-full-card-list-cut-cards-product-lineup-store-promos-and-more.157114/"/>
-        <updated>2026-10-23T22:31:45.000Z</updated>
+        <updated>2026-10-24T01:34:25.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Aura Seeker” Set Starring Mega Lucario Z ex Officially Revealed!]]></title>
+        <id>157112</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Caura-seeker%E2%80%9D-set-starring-mega-lucario-z-ex-officially-revealed.157112/"/>
+        <updated>2026-10-24T01:05:52.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.9 Stabilizes KWin's Wayland Picture-In-Picture Support]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP"/>
+        <updated>2026-10-24T00:56:16.000Z</updated>
+        <summary type="html"><![CDATA[With the wonderful KDE Plasma 6.8 having shipped just more than one week ago, KDE developers are beginning to go heavy on new features for Plasma 6.9...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["FLOwing Fists" Speculative Set List with Numbering]]></title>
+        <id>157025</id>
+        <link href="https://www.pokebeach.com/forums/threads/flowing-fists-speculative-set-list-with-numbering.157025/"/>
+        <updated>2026-10-24T00:44:34.000Z</updated>
+        <author>
+            <name>Who?</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published]]></title>
+        <id>https://www.nintendolife.com/#article-208089</id>
+        <link href="https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published"/>
+        <updated>2026-10-23T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Cover up?
+Back in July, the game rating for the remake of The Legend of Zelda: Ocarina of Time was spotted on Nintendo's official store page.
+In case you missed it, it's E10+. The title contains "animated blood" and "fantasy violence". Now, in a small update, the rating summary has officially gone live on the Entertainment Software Rating Board.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio 33.0 Released With Massive Update To CEF, Improved Plugin Loading]]></title>
+        <id>https://www.phoronix.com/news/OBS-Studio-33.0</id>
+        <link href="https://www.phoronix.com/news/OBS-Studio-33.0"/>
+        <updated>2026-10-23T23:15:47.000Z</updated>
+        <summary type="html"><![CDATA[OBS Studio 33.0 is out tonight as the latest major update to this popular open-source and cross-platform video recording and live streaming application...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to fix New Key Failed to Generate Error and Attestation Failure in Modern Warfare 4]]></title>
+        <id>https://www.destructoid.com/?p=1280274</id>
+        <link href="https://www.destructoid.com/how-to-fix-new-key-failed-to-generate-error-and-attestation-failure-in-modern-warfare-4/"/>
+        <updated>2026-10-23T22:54:10.000Z</updated>
+        <summary type="html"><![CDATA[Who implemented this? 
+The post How to fix New Key Failed to Generate Error and Attestation Failure in Modern Warfare 4 appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zranitelnosti v Node.js]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/zranitelnosti-v-node.js</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/zranitelnosti-v-node.js"/>
+        <updated>2026-10-23T22:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Dne 21. října 2026 vydal projekt Node.js bezpečnostní aktualizace opravující deset zranitelností, včetně jedné umožňující potenciální vzdálené spuštění kódu (RCE). Nejzajímavější je CVE-2026-111497, chyba dekodéru Brotli, kterou objevili výzkumníci využívající OpenAI Codex Security. Chyba je v nativním dekodéru Brotli, nikoli v samotném JavaScriptu. Speciálně vytvořený komprimovaný vstup způsobí, že dekodér zamění neplatnou změnu bloku za požadavek na další data. Pokračuje ve zpracování, až může zapisovat za konec interního bufferu. Důsledkem může být zhroucení procesu, zpřístupnění paměti, případně spuštění útočníkova kódu s právy procesu Node.js. Aktualizace jsou k dispozici. Zdroj: Imperva.]]></summary>
+        <author>
+            <name>vencour</name>
         </author>
     </entry>
     <entry>
@@ -29,15 +101,6 @@
         <id>157113</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cdelta-reign%E2%80%9D-store-promos-revealed-macy%E2%80%99s-joins-the-promotion.157113/"/>
         <updated>2026-10-23T21:51:16.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Aura Seeker” Set Starring Mega Lucario Z ex Officially Revealed!]]></title>
-        <id>157112</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Caura-seeker%E2%80%9D-set-starring-mega-lucario-z-ex-officially-revealed.157112/"/>
-        <updated>2026-10-23T21:37:58.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -134,15 +197,6 @@ The post Zero Company is becoming everything I wanted XCOM 2 to be appeared firs
         <summary type="html"><![CDATA[Ultimate Frame Data was a resource for players to study SF6 chararcter hitboxes]]></summary>
         <author>
             <name>Ash Parrish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["FLOwing Fists" Speculative Set List with Numbering]]></title>
-        <id>157025</id>
-        <link href="https://www.pokebeach.com/forums/threads/flowing-fists-speculative-set-list-with-numbering.157025/"/>
-        <updated>2026-10-23T19:44:09.000Z</updated>
-        <author>
-            <name>Who?</name>
         </author>
     </entry>
     <entry>
@@ -389,7 +443,7 @@ The post New Mass Effect Universe details tease customizable protagonist, galact
         <title type="html"><![CDATA[Nexans: nedostatek kabelů se stává další překážkou AI datacenter]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/nexans-nedostatek-kabelu-se-stava-dalsi-prekazkou-ai-datacenter</id>
         <link href="http://www.abclinuxu.cz/zpravicky/nexans-nedostatek-kabelu-se-stava-dalsi-prekazkou-ai-datacenter"/>
-        <updated>2026-10-23T15:51:53.000Z</updated>
+        <updated>2026-10-23T15:51:52.000Z</updated>
         <summary type="html"><![CDATA[Francouzský výrobce kabelů Nexans upozornil na napjaté dodávky elektrických kabelů. Výstavba nové výrobní linky pro některé typy kabelů může trvat přibližně tři roky. Datacentra potřebují rozsáhlé nízkonapěťové a středněnapěťové rozvody. Poptávka roste současně s modernizací elektrických sítí. Někteří odběratelé proto uzavírají výrazně delší dodavatelské smlouvy
 [Reuters].]]></summary>
         <author>
@@ -881,6 +935,15 @@ Infinity Ward has had plenty of practice honing the fundamentals, of course, but
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forms of Water]]></title>
+        <id>https://xkcd.com/3315/</id>
+        <link href="https://xkcd.com/3315/"/>
+        <updated>2026-10-23T04:00:00.000Z</updated>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1875,17 +1938,6 @@ The post All FC 27 Ultimate Scream Team 1 players and release countdown appeared
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All Secret Bunker locations in Modern Warfare 4 DMZ]]></title>
-        <id>https://www.destructoid.com/?p=1279463</id>
-        <link href="https://www.destructoid.com/all-secret-bunker-locations-in-modern-warfare-4-dmz/"/>
-        <updated>2026-10-21T23:52:48.000Z</updated>
-        <summary type="html"><![CDATA[Breaking through! 
-The post All Secret Bunker locations in Modern Warfare 4 DMZ appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nintendo Switch 2: půjčování her a hraní na více konzolích]]></title>
         <id>www.root.cz-text-20171</id>
         <link href="https://www.root.cz/clanky/nintendo-switch-2-pujcovani-her-a-hrani-na-vice-konzolich/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
@@ -1980,34 +2032,6 @@ Original advisory details:
         <summary type="html"><![CDATA[The latest Linux kernel cryptographic subsystem performance work carried out by Google engineer Eric Biggers is migrating x86/x86_64 and RISC-V optimized implementations of different AES modes into the lib/crypto kernel crypto library to enjoy faster performance there...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[openSUSE Leap 16.1 Release party v SUSE]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/opensuse-leap-16.1-release-party-v-suse</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/opensuse-leap-16.1-release-party-v-suse"/>
-        <updated>2026-10-21T19:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Oslavte vydání openSUSE Leap 16.1 s námi v Praze!
-
-Ve středu 4. listopadu 2026 (den po vydání Leapu 16.1) vás zveme na malou oslavu vydání openSUSE Leap 16.1 do pražské kanceláře SUSE.
-
-Připravili jsme pro vás dvě krátké přednášky:
-
-* Luboš Kocman – Co je nového v openSUSE Leap 16.1
-* Lukáš Lánský – Nástroje pro migraci a přechod na novou verzi
-
-Nebudou chybět cupcakes, drobné občerstvení a příležitost popovídat si s ostatními příznivci openSUSE. Navíc budete mít možnost nahlédnout do našich nově zrekonstruovaných kanceláří.
-
-Kdy: 4. listopadu 2026 od 19:00 (dorazit můžete už v 18:30 na neformální povídání).
-Kde: SUSE Linux s.r.o., Křižíkova 148/34, Praha 8 – Karlín, 2. patro.
-
-Ať už openSUSE používáte, přispíváte do projektu, nebo vás Linux jednoduše zajímá, rádi vás uvidíme.
-
-Další informace najdete na stránce openSUSE Launch Parties.
-
-Těšíme se na vás v Praze.]]></summary>
-        <author>
-            <name>lkocman</name>
         </author>
     </entry>
     <entry>
@@ -2205,19 +2229,6 @@ access, resulting in a denial of service. (CVE-2026-74225)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nintendo Switch Sports Resort Has Been Updated To Ver. 1.1.0, Here Are The Full Patch Notes]]></title>
-        <id>https://www.nintendolife.com/#article-207947</id>
-        <link href="https://www.nintendolife.com/news/2026/10/nintendo-switch-sports-resort-has-been-updated-to-ver-1-1-0-here-are-the-full-patch-notes"/>
-        <updated>2026-10-21T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[You and Mii.
-Nintendo Switch Sports Resort releases tomorrow (22nd October), and Nintendo is making sure that launch day goes smoothly by releasing its very first update.
-The ver. 1.1.0 update is now available. As is often the case with these launch-day jobbies, its purpose is mainly to enable all of the online modes so everyone can play some non-local multiplayer right from the jump. That said, the update also introduces a Mii frequency adjuster, where you can choose how often your Miis appear in offline competitive sports.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[USN-8949-1: Ghostscript vulnerabilities]]></title>
         <id>https://ubuntu.com/security/notices/USN-8949-1</id>
         <link href="https://ubuntu.com/security/notices/USN-8949-1"/>
@@ -2377,16 +2388,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 7.4 To Close Files Synchronously For close_range, exec & exit]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files</id>
-        <link href="https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files"/>
-        <updated>2026-10-21T11:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Of the many VFS changes to be merged for Linux 7.4 is now closing files synchrously for close_range, exec, and exit calls. In turn when needing to close many file descriptors this provides for much lower latency than the status quo...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exclusive N’s Plan and Hilda to Release in China for “Black Bolt” and “White Flare!”]]></title>
         <id>157097</id>
         <link href="https://www.pokebeach.com/forums/threads/exclusive-n%E2%80%99s-plan-and-hilda-to-release-in-china-for-%E2%80%9Cblack-bolt%E2%80%9D-and-%E2%80%9Cwhite-flare-%E2%80%9D.157097/"/>
@@ -2417,16 +2418,6 @@ Meanwhile, an overhaul of Xbox Game Pass is reportedly in the works and sounds a
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fwupd Working Toward Proper Android Integration]]></title>
-        <id>https://www.phoronix.com/news/Fwupd-To-Android-Integration</id>
-        <link href="https://www.phoronix.com/news/Fwupd-To-Android-Integration"/>
-        <updated>2026-10-21T10:16:13.000Z</updated>
-        <summary type="html"><![CDATA[Google Chromebooks already have a mandate for nice Fwupd support with the Linux Vendor Firmware (LVFS) while now there is work on improving the Android integration for Fwupd/LVFS...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3701,15 +3692,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Edwin Evans-Thirlwell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planet Database]]></title>
-        <id>https://xkcd.com/3311/</id>
-        <link href="https://xkcd.com/3311/"/>
-        <updated>2026-10-14T04:00:00.000Z</updated>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
