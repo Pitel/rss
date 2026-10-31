@@ -1,10 +1,222 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-31T07:52:49.591Z</id>
+    <id>urn:2026-10-31T14:11:09.779Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-10-31T07:52:49.591Z</updated>
+    <updated>2026-10-31T14:11:09.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[The Outlast Trials Is An Exercise In Bad Taste And Good Politics]]></title>
+        <id>https://kotaku.com/?p=2000750631</id>
+        <link href="https://kotaku.com/the-outlast-trials-is-an-exercise-in-bad-taste-and-good-politics-2000750631"/>
+        <updated>2026-10-31T14:05:59.000Z</updated>
+        <summary type="html"><![CDATA[This multiplayer prequel is as gruesome as it is relevant]]></summary>
+        <author>
+            <name>Zack Kotzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom Director Says ‘We’re Doing Great’ After Half Of id Software Was Laid Off]]></title>
+        <id>https://kotaku.com/?p=2000751940</id>
+        <link href="https://kotaku.com/doom-director-says-were-doing-great-after-half-of-id-software-was-laid-off-2000751940"/>
+        <updated>2026-10-31T13:47:14.000Z</updated>
+        <summary type="html"><![CDATA[The studio is collaborating more closely than ever with MachineGames]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy 14 Evercold Gets A Month Long Delay But An Awesome New Trailer]]></title>
+        <id>https://kotaku.com/?p=2000751936</id>
+        <link href="https://kotaku.com/final-fantasy-14-evercold-gets-a-month-long-delay-but-an-awesome-new-trailer-2000751936"/>
+        <updated>2026-10-31T13:17:31.000Z</updated>
+        <summary type="html"><![CDATA[This looks awesome]]></summary>
+        <author>
+            <name>Ethan Gach</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Některé odpovědi modelu GLM-5.3 obsahovaly části dat z předchozích požadavků jiných zákazníků]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/nektere-odpovedi-modelu-glm-5.3-obsahovaly-casti-dat-z-predchozich-pozadavku-jinych-zakazniku</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/nektere-odpovedi-modelu-glm-5.3-obsahovaly-casti-dat-z-predchozich-pozadavku-jinych-zakazniku"/>
+        <updated>2026-10-31T12:55:14.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare zjistil, že některé odpovědi modelu GLM-5.3 obsahovaly části dat z předchozích požadavků jiných zákazníků. Příčinou byla kombinace chybné konfigurace a chyby v inference enginu SGLang. Model podporoval kontextové okno 1 048 576 tokenů, ale GPU KV cache pool měl kapacitu pouze 681 280 tokenů. Při překročení kapacity docházelo k nesprávnému zpracování odmítnutého požadavku. Decode část systému následně pracovala se starými KV cache pages, které obsahovaly data předchozího požadavku. Cloudflare identifikoval 155 ovlivněných odpovědí. Problém opravil změnou konfigurace i úpravou samotného inference enginu. Problém s izolací tenantů tedy může vzniknout i bez klasického memory corruption exploitu.]]></summary>
+        <author>
+            <name>vencour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Linux 7.4 Feature For Reducing AI Noise Already Reverted Due To A "Crazy Beast"]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind</id>
+        <link href="https://www.phoronix.com/news/Linux-7.4-Drops-Taint-Bind"/>
+        <updated>2026-10-31T12:15:22.000Z</updated>
+        <summary type="html"><![CDATA[A new feature merged last week for Linux 7.4 to help reduce AI/LLM generated noise from invalid/irrelevant testing configurations is now reverted due to a "crazy beast" in the VFIO subsystem...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Novinky v Knot Resolver 6]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/novinky-v-knot-resolver-6</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/novinky-v-knot-resolver-6"/>
+        <updated>2026-10-31T12:00:15.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři Knot Resolver vysvětlují, jak změnili rozhodování o tom, které DNS záznamy ponechat v cache a které odstranit. Článek obsahuje skutečná měření: devět hodin DNS provozu při 2 000 QPS, srovnání cache o velikosti 25 MB a 40 GB a také porovnání s BIND 9, kromě algoritmů obsahuje konkrétní doporučení pro konfiguraci a diagnostiku.]]></summary>
+        <author>
+            <name>vencour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics]]></title>
+        <id>https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics</id>
+        <link href="https://www.rockpapershotgun.com/horror-steeped-card-game-forbidden-solitaire-shows-how-a-strong-theme-can-elevate-even-decade-old-mechanics"/>
+        <updated>2026-10-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Like a tag team of oiled snakes that have entered a wrestling contest, theme is a difficult quality to pin down. A game can be well designed, but if it lacks a coherence between those mechanics and its appearance, narrative, and its framing, there is a dissonance that can be hard to ignore. I realise I've just stepped into an old argument by using the word 'dissonance', but Hocking was right, games that don't cohere can be jarring. A developer may desire that sensation of discomfort, but often it is accidental and unwanted.
+(Much like opening an article with a simile about wrestling snakes when there is nothing connecting that image to a game about solitaire. It might be a good line, but it doesn't smoothly connect with the rest of the article to elevate its argument.)
+Anyway, what does this all have to do with Forbidden Solitaire, a game in which you're delving deeper into a dungeon filled with horrors, progressing by clearing screens of cards? Well, it's an excellent example of how well-handled theming can raise a game into something more than its parts.
+Read more]]></summary>
+        <author>
+            <name>Julian Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Meta Researcher Torrented Pirated Books Dataset, Deleted It ‘Due to All This Litigation’]]></title>
+        <id>https://torrentfreak.com/?p=281753</id>
+        <link href="https://torrentfreak.com/ex-meta-researcher-torrented-pirated-books-dataset-deleted-it-due-to-all-this-litigation/"/>
+        <updated>2026-10-31T11:55:12.000Z</updated>
+        <summary type="html"><![CDATA[A former Meta researcher has testified that he downloaded an AI training dataset via BitTorrent, including the pirated Books3 collection. According to various rightsholders, this happened while he worked at the company, and he later deleted his copy "[d]ue to all this litigation." Meta, which admitted training AI models on Books3 but said it didn’t believe it torrented the dataset, disputes the researcher’s account. 
+From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
+        <author>
+            <name>Ernesto Van der Sar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 6.9 Lands Some New Performance Optimizations]]></title>
+        <id>https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance</id>
+        <link href="https://www.phoronix.com/news/KDE-Plasma-6.9-More-Performance"/>
+        <updated>2026-10-31T10:51:01.000Z</updated>
+        <summary type="html"><![CDATA[I love a good performance optimization and there are several this week in the KDE space with Plasma 6.9 development heating up...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ceph In Linux 7.4 Adds Global Mount Option For Lazy I/O]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.4-Ceph</id>
+        <link href="https://www.phoronix.com/news/Linux-7.4-Ceph"/>
+        <updated>2026-10-31T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The Ceph kernel client changes have been submitted for Linux 7.4 ahead of its merge window expected to wrap up on Sunday...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Now Has An Established RFC Process, GNOME OS Continues Improving]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Establishes-RFC</id>
+        <link href="https://www.phoronix.com/news/GNOME-Establishes-RFC"/>
+        <updated>2026-10-31T10:10:19.000Z</updated>
+        <summary type="html"><![CDATA[In recent weeks GNOME developers have been discussing a formal Request For Comments "RFC" process for solving major technical questions and changes to GNOME. This formalized process for succeeding their ad-hoc processes up to now has reached consensus...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Talking Point: What Are You Playing This Weekend? (31st October)]]></title>
+        <id>https://www.nintendolife.com/#article-208381</id>
+        <link href="https://www.nintendolife.com/features/talking-point-what-are-you-playing-this-weekend-31st-october"/>
+        <updated>2026-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The spooky weekend is upon us.
+What's that? You thought the deluge of October news would slow down in its final week? Think again, my friends!
+As if the upcoming release of Ocarina of Time wasn't pressing enough, Nintendo dropped an Indie World Showcase this week, packed with even more titles to add to the backlog. One that won't be making the cut this year, however, is The Duskbloods, which was pushed to 2027. The swanky new special edition Zelda Switch 2 hit store shelves, a new batch of Game Boy games landed on NSO, The Pokémon Company announced Unite's impending closure, and 'Switch 2 Lite' speculation kicked off.
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DXVK-NVAPI 0.9.3 Brings Nice Improvements For Linux Gamers On Latest NVIDIA Drivers]]></title>
+        <id>https://www.phoronix.com/news/DXVK-NVAPI-0.9.3</id>
+        <link href="https://www.phoronix.com/news/DXVK-NVAPI-0.9.3"/>
+        <updated>2026-10-31T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DXVK-NVAPI 0.9.3 is out this weekend as a new feature update to this NVIDIA NVAPI implementation used by Valve as part of Steam Play with Proton for nicely integrating NVIDIA technologies into various Windows games running on Linux...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blastoise and Other Cards from “Aura Seeker” Revealed, New Alternate Art Mega Lucario Z ex!]]></title>
+        <id>157130</id>
+        <link href="https://www.pokebeach.com/forums/threads/blastoise-and-other-cards-from-%E2%80%9Caura-seeker%E2%80%9D-revealed-new-alternate-art-mega-lucario-z-ex.157130/"/>
+        <updated>2026-10-31T09:55:03.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CUDA Oxide 0.3 Vastly Improves Rust Support For NVIDIA CUDA Programming]]></title>
+        <id>https://www.phoronix.com/news/CUDA-Oxide-0.3</id>
+        <link href="https://www.phoronix.com/news/CUDA-Oxide-0.3"/>
+        <updated>2026-10-31T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA software engineers released CUDA Oxide 0.3 for closing out October. CUDA Oxide as a reminder is their experimental Rust to CUDA compiler that has been seeing a lot of activity in recent months...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
+        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406</id>
+        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-406"/>
+        <updated>2026-10-31T09:45:21.000Z</updated>
+        <summary type="html"><![CDATA[My scares should have been reserved for today, what with it being All Hallows' Eve and all, but my fright came on Thursday.
+ Read more]]></summary>
+        <author>
+            <name>Julian Benson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sculpt OS 26.10 Released - Now Powered By Genode's Custom Microkernel]]></title>
+        <id>https://www.phoronix.com/news/Sculpt-OS-26.10</id>
+        <link href="https://www.phoronix.com/news/Sculpt-OS-26.10"/>
+        <updated>2026-10-31T09:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Sculpt OS as the general purpose operating system project born out of the Genode initiative is now using the project's own microkernel rather than a third-party microkernel...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All endings in Probably Stolen and how to unlock them]]></title>
+        <id>https://www.destructoid.com/?p=1283500</id>
+        <link href="https://www.destructoid.com/all-endings-in-probably-stolen-and-how-to-unlock-them/"/>
+        <updated>2026-10-31T08:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Quite puzzling! 
+The post All endings in Probably Stolen and how to unlock them appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best factory layout in Moon Sweepers]]></title>
+        <id>https://www.destructoid.com/?p=1281642</id>
+        <link href="https://www.destructoid.com/best-factory-layout-in-moon-sweepers/"/>
+        <updated>2026-10-31T08:07:31.000Z</updated>
+        <summary type="html"><![CDATA[All on its own! 
+The post Best factory layout in Moon Sweepers appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)]]></title>
+        <id>https://www.nintendolife.com/#article-208422</id>
+        <link href="https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2"/>
+        <updated>2026-10-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What are you most excited about?
+Zelda: Ocarina of Time returns next week, and if you're not already sold, Nintendo has now released a new video highlighting "just some of the ways" Link's quest has been remade for a whole new era.
+All up, there eight different things featured in the trailer above. While it's nothing we haven't already seen, if you have been avoiding Nintendo's coverage of the game so far, you might want to navigate away from this page right now. With the spoiler warning out of the way, here's what you can expect to see in this remake of Ocarina of Time:
+Read the full article on nintendolife.com]]></summary>
+        <author>
+            <name>Nintendo Life | Latest Updates</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Football Manager 27 clubs with the highest transfer budgets]]></title>
         <id>https://www.destructoid.com/?p=1283494</id>
@@ -14,15 +226,6 @@
 The post Football Manager 27 clubs with the highest transfer budgets appeared first on Destructoid.]]></summary>
         <author>
             <name>Arka Sarkar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blastoise and Other Cards from “Aura Seeker” Revealed, New Alternate Art Mega Lucario Z ex!]]></title>
-        <id>157130</id>
-        <link href="https://www.pokebeach.com/forums/threads/blastoise-and-other-cards-from-%E2%80%9Caura-seeker%E2%80%9D-revealed-new-alternate-art-mega-lucario-z-ex.157130/"/>
-        <updated>2026-10-31T07:46:29.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -593,16 +796,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Call Of Duty: Modern Warfare 4 Promises To Remove Offensive Footage Of Korean Tragedy After Backlash]]></title>
-        <id>https://kotaku.com/?p=2000751584</id>
-        <link href="https://kotaku.com/call-of-duty-modern-warfare-4-itaewon-2022-intro-patch-2000751584"/>
-        <updated>2026-10-30T15:30:19.000Z</updated>
-        <summary type="html"><![CDATA[The game’s intro uses videos from a 2022 incident that killed 160 people to set the tone for its fictional war]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Splendid Junji Ito-inspired RPG World of Horror is now 20% more horrible, thanks to a free PC update with extra gods, locations, and wounds]]></title>
         <id>https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds</id>
         <link href="https://www.rockpapershotgun.com/splendid-junji-ito-inspired-rpg-world-of-horror-is-now-20-more-horrible-thanks-to-a-free-pc-update-with-extra-gods-locations-and-wounds"/>
@@ -619,7 +812,7 @@ Also in As Below So Above: more "enemies, mysteries, characters, items, spells, 
         <id>www.root.cz-actuality-54110</id>
         <link href="https://www.root.cz/zpravicky/generalni-reditel-protonu-propadl-ai-horecce/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
         <updated>2026-10-30T15:29:09.000Z</updated>
-        <summary type="html"><![CDATA[Proton je švýcarská šifrovaná alternativa k Gmailu, VPN, správci hesel, ukládání fotografií a dalším službám. Její generální ředitel Andy Yen však patrně propadl AI horečce a prosazuje umělou inteligenci všude ve vývojářském procesu. Podle svědectví osmi stávajících a jednoho bývalého zaměstnance jsou všichni nuceni používat AI , již nemají psát vlastní kód a to i na úkor bezpečnosti.]]></summary>
+        <summary type="html"><![CDATA[Proton je švýcarská šifrovaná alternativa k Gmailu, VPN, správci hesel, ukládání fotografií a dalším službám. Její generální ředitel Andy Yen však patrně propadl AI horečce a prosazuje umělou inteligenci všude ve vývojářském procesu. Podle svědectví osmi stávajících a jednoho bývalého zaměstnance jsou všichni nuceni používat AI, již nemají psát vlastní kód a to i na úkor bezpečnosti.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
         </author>
@@ -656,16 +849,6 @@ The post Star Wars Battlefront 3 was reportedly the final nail in the coffin for
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Japan’s Gundam Is Gone, But It’s Getting Two Life-Sized Monster Hunter Statues]]></title>
-        <id>https://kotaku.com/?p=2000751522</id>
-        <link href="https://kotaku.com/youll-soon-be-able-to-visit-two-life-sized-monster-hunter-statues-in-japan-2000751522"/>
-        <updated>2026-10-30T15:00:26.000Z</updated>
-        <summary type="html"><![CDATA[But you'll have to travel a long way from Tokyo to find them]]></summary>
-        <author>
-            <name>Alicia Haddick</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Guide: Last Chance To Grab These 61 Switch 1 & 2 Games In Nintendo's 'Halloween Sale' (Europe)]]></title>
         <id>https://www.nintendolife.com/#article-208075</id>
         <link href="https://www.nintendolife.com/guides/last-chance-to-grab-these-61-switch-1-and-2-games-in-nintendos-halloween-sale-europe"/>
@@ -687,16 +870,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Včera generální ředitel sociální sítě Reddit Steve Huffman zveřejnil výsledky za třetí čtvrtletí a v dopise akcionářům (PDF) nastínil budoucnost Redditu. Výsledek nebyl tak dobrý, jak se čekalo a akcie zareagovaly poklesem o asi 14 %.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Trek Online Players Gather En Masse To Pay Tribute To Sir Patrick Stewart]]></title>
-        <id>https://kotaku.com/?p=2000751549</id>
-        <link href="https://kotaku.com/patrick-stewart-tribute-memorial-star-trek-online-jean-luc-picard-2000751549"/>
-        <updated>2026-10-30T14:30:11.000Z</updated>
-        <summary type="html"><![CDATA[Both ground and space-based memorials were held by players mourning the Jean-Luc Picard actor]]></summary>
-        <author>
-            <name>John Walker</name>
         </author>
     </entry>
     <entry>
@@ -771,7 +944,7 @@ The post How to please the moon in R.E.P.O. Sunstone Update (Halloween Event) ap
         <title type="html"><![CDATA[Hackeři zaútočili na Binance, největší kryptoměnovou burzu světa]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/hackeri-zautocili-na-binance-nejvetsi-kryptomenovou-burzu-sveta</id>
         <link href="http://www.abclinuxu.cz/zpravicky/hackeri-zautocili-na-binance-nejvetsi-kryptomenovou-burzu-sveta"/>
-        <updated>2026-10-30T12:44:20.000Z</updated>
+        <updated>2026-10-30T12:44:19.000Z</updated>
         <summary type="html"><![CDATA[Největší kryptoměnová burza světa Binance se stala terčem útoku, při kterém podvodníci odcizili během několika minut kryptoměny v hodnotě přibližně 6,3 miliardy dolarů. Jedná se o největší kryptoměnovou krádež v historii, přibližně čtyřikrát větší než loňský útok na burzu Bybit. Binance se podařilo ve spolupráci s partnery zmrazit aspoň aktiva v hodnotě zhruba 3 miliard dolarů a slíbila, že veškeré ztráty pokryje z vlastních prostředků.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -1239,17 +1412,6 @@ The post Probably Stolen Specialization tier list appeared first on Destructoid.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We swear this is real: Donald Glover is producing a PUBG series for Netflix]]></title>
-        <id>https://www.destructoid.com/?p=1282984</id>
-        <link href="https://www.destructoid.com/pubg-netflix-show/"/>
-        <updated>2026-10-29T19:36:56.000Z</updated>
-        <summary type="html"><![CDATA[It's yet to enter development, though. 
-The post We swear this is real: Donald Glover is producing a PUBG series for Netflix appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Andrej Barovic</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It sounds like you shouldn't expect Destiny 2's campaign unvaulting to be ready until 2028, as Bungie tease their plans for the future of the series]]></title>
         <id>https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series</id>
         <link href="https://www.rockpapershotgun.com/it-sounds-like-you-shouldnt-expect-destiny-2s-campaign-unvaulting-to-be-ready-until-2028-as-bungie-tease-their-plans-for-the-future-of-the-series"/>
@@ -1259,17 +1421,6 @@ The post We swear this is real: Donald Glover is producing a PUBG series for Net
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assassin’s Creed franchise update further teases 2 upcoming new titles, but no more remakes for now]]></title>
-        <id>https://www.destructoid.com/?p=1282978</id>
-        <link href="https://www.destructoid.com/assassins-creed-franchise-update-2-titles-no-remakes-for-now/"/>
-        <updated>2026-10-29T18:19:05.000Z</updated>
-        <summary type="html"><![CDATA[Nothing is true and everything is permitted in development.
-The post Assassin’s Creed franchise update further teases 2 upcoming new titles, but no more remakes for now appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Scott Duwe</name>
         </author>
     </entry>
     <entry>
@@ -1777,38 +1928,12 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Palworld Dev Open To Switch 2 Release, If There's Ever An "Opportunity"]]></title>
-        <id>https://www.nintendolife.com/#article-208297</id>
-        <link href="https://www.nintendolife.com/news/2026/10/palworld-dev-open-to-switch-2-release-if-theres-ever-an-opportunity"/>
-        <updated>2026-10-29T03:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Pocketpair team thinks it's a "really amazing platform".
-Despite Pocketpair's ongoing legal battle with Nintendo, the developer is apparently open to bringing its monster-taming survival game Palworld to Switch 2 one day.
-In a new interview with VGC recently, Pocketpair CEO Takuru Mizobe has praised the Switch 2, calling it a "really amazing platform", and says the team would love to see Palworld on the new hybrid system, if there's a "future" that presents this kind of opportunity.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[mew ex box]]></title>
         <id>157069</id>
         <link href="https://www.pokebeach.com/forums/threads/mew-ex-box.157069/"/>
         <updated>2026-10-29T03:16:13.000Z</updated>
         <author>
             <name>vhandel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taito Milestones 5 Announced For Switch, Here Are The Games Included]]></title>
-        <id>https://www.nintendolife.com/#article-208296</id>
-        <link href="https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included"/>
-        <updated>2026-10-29T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Developed in collab with Hamster Corp.
-Taito Corporation is back with another retro collection of games! Taito Milestones 5 for the Switch will be launching in Japan on 28th January 2027 for 5,720 yen.
-It comes loaded with 10 titles from Taito's "rich catalog" spanning across multiple decades. Here's a translation of the official announcement, and a little bit about what to expect:
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1880,16 +2005,6 @@ Test Truth Extensions Version 1.8.0-alpha03]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Projekt mapSTL.com řeší budoucnost]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/projekt-mapstl.com-resi-budoucnost</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/projekt-mapstl.com-resi-budoucnost"/>
-        <updated>2026-10-28T22:27:56.000Z</updated>
-        <summary type="html"><![CDATA[Nedávno představený projekt mapSTL.com řeší budoucnost. 𝕏: "Netušil jsem, kolik patentů na generování map existuje. Existují patenty na generování fantasy map 🫣. Cokoliv je na 3D tiskárnu a tvoří to produkt, bude to mít patenty. Tak bacha na to!" Nové modely v mapSTL.com jsou bez rámu v barvách OpenStreetMap Richer. Samostatné barevné označení konkrétního domu bylo odstraněno.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SettlersGM – The Settlers z Amigy v enginu GameMaker]]></title>
         <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=63839</id>
         <link href="https://www.high-voltage.cz/sortky/settlersgm-the-settlers-z-amigy-v-enginu-gamemaker/"/>
@@ -1916,16 +2031,6 @@ Test Truth Extensions Version 1.8.0-alpha03]]></summary>
         <summary type="html"><![CDATA[Merged to the kernel all the way back in Linux  2.6.26 in 2008 was KGDB for improving the kernel debugging experience. KGDB works in conjunction with the GNU Debugger (GDB) to debug the kernel in a similar fashion to user-space debugging. KGDB requires the use of a second computer connected via serial or network cable. KGDB isn't widely used in recent years and a patch was floated today to remove it from the Linux kernel...]]></summary>
         <author>
             <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghostty 1.4]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/ghostty-1.4</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/ghostty-1.4"/>
-        <updated>2026-10-28T17:58:13.000Z</updated>
-        <summary type="html"><![CDATA[Multiplatformní emulátor terminálu Ghostty byl vydán ve verzi 1.4 (𝕏). Přehled novinek a vylepšení v poznámkách k vydání.]]></summary>
-        <author>
-            <name>Ladislav Hagara</name>
         </author>
     </entry>
     <entry>
@@ -2156,26 +2261,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Provenance Time Proposed As A New Timestamp For Linux]]></title>
-        <id>https://www.phoronix.com/news/Linux-Provenance-Time-PTIME</id>
-        <link href="https://www.phoronix.com/news/Linux-Provenance-Time-PTIME"/>
-        <updated>2026-10-28T12:23:10.000Z</updated>
-        <summary type="html"><![CDATA[While the Linux kernel and various file-system drivers already support the notion of the birth time for tracking a file/directory's birth/creation time, a slightly different provenance time "ptime" is now being proposed for the Linux kernel...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyprland 0.57 Released With Compiz Inspired Wobbly Windows]]></title>
-        <id>https://www.phoronix.com/news/Hyprland-0.57</id>
-        <link href="https://www.phoronix.com/news/Hyprland-0.57"/>
-        <updated>2026-10-28T11:45:33.000Z</updated>
-        <summary type="html"><![CDATA[For those that want to reminisce  over the days long ago of Compiz and Beryl on the Linux desktop, the Hyprland 0.57 Wayland compositor released today and has added Compiz-inspired wobbly windows support...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["Creation without a creator": Pathologic 3's devs have refused to patch an invisible apple tree, and for a blissful moment, I thought they were lying to poison Google's AI]]></title>
         <id>https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai</id>
         <link href="https://www.rockpapershotgun.com/creation-without-a-creator-pathologic-3s-devs-have-refused-to-patch-an-invisible-apple-tree-and-for-a-blissful-moment-i-thought-they-were-lying-to-poison-googles-ai"/>
@@ -2199,46 +2284,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VKD3D-Proton 3.1 Released With New Features Ahead Of Big v3.2 Release]]></title>
-        <id>https://www.phoronix.com/news/VKD3D-Proton-3.1</id>
-        <link href="https://www.phoronix.com/news/VKD3D-Proton-3.1"/>
-        <updated>2026-10-28T10:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Hans-Kristian Arntzen of Valve's Linux team just tagged the VKD3D-Proton 3.1 release. This version comes with a number of new features and performance optimizations while being the stable point ahead of VKD3D-Proton beginning to see a lot of new feature code for what will then become VKD3D-Proton 3.2...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GhostBSD 26.2 Released As FreeBSD 15.1 Powered OS With New Installer]]></title>
-        <id>https://www.phoronix.com/news/GhostBSD-26.2</id>
-        <link href="https://www.phoronix.com/news/GhostBSD-26.2"/>
-        <updated>2026-10-28T10:11:54.000Z</updated>
-        <summary type="html"><![CDATA[GhostBSD 26.2 is out as the latest feature release of this FreeBSD-powered desktop operating system...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTFS3 Hardened In Linux 7.4 Against Corrupted Or Maliciously-Crafted NTFS Volumes]]></title>
-        <id>https://www.phoronix.com/news/Linux-7.4-NTFS3</id>
-        <link href="https://www.phoronix.com/news/Linux-7.4-NTFS3"/>
-        <updated>2026-10-28T10:02:34.000Z</updated>
-        <summary type="html"><![CDATA[Paragon Software's Konstantin Komarov sent out the latest NTFS3 driver updates for this in-kernel NTFS read/write driver. With Linux 7.4, the NTFS3 driver is focused on being hardened against corrupted or maliciously-crafted NTFS volumes...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retiring BSD-Compress Proposed For Linux PPP Network Code]]></title>
-        <id>https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp</id>
-        <link href="https://www.phoronix.com/news/Linux-May-Retire-PPP-BSD-Comp"/>
-        <updated>2026-10-28T09:50:55.000Z</updated>
-        <summary type="html"><![CDATA[A patch has been proposed to remove the BSD-Compress support from the Linux kernel for the Linux networking point-to-point protocol (PPP) due to being unmaintained and having fundamental issues with the code that can lead to a fatal error...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -2271,16 +2316,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         <updated>2026-10-28T04:00:00.000Z</updated>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine Merges Support For MESA_map_buffer_client_pointer To Improve WoW64 32-bit OpenGL]]></title>
-        <id>https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr</id>
-        <link href="https://www.phoronix.com/news/Wine-Mesa-Map-Buffer-Client-Ptr"/>
-        <updated>2026-10-28T00:33:36.000Z</updated>
-        <summary type="html"><![CDATA[An initiative led by CodeWeavers this year has come to fruition for improving OpenGL support with WoW64 for bettering Windows 32-bit application/game support while using 64-bit system libraries...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
         </author>
     </entry>
     <entry>
@@ -3868,30 +3903,6 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I know you probably don't have mushroom in your backlog, but fungus looter shooter Mycopunk is now out in 1.0 and looks like the opposite of a shiitake time]]></title>
-        <id>https://www.rockpapershotgun.com/i-know-you-probably-dont-have-mushroom-in-your-backlog-but-fungus-looter-shooter-mycopunk-is-now-out-in-10-and-looks-like-the-opposite-of-a-shiitake-time</id>
-        <link href="https://www.rockpapershotgun.com/i-know-you-probably-dont-have-mushroom-in-your-backlog-but-fungus-looter-shooter-mycopunk-is-now-out-in-10-and-looks-like-the-opposite-of-a-shiitake-time"/>
-        <updated>2026-10-20T17:34:58.000Z</updated>
-        <summary type="html"><![CDATA[And lo, mushrooms! This is what I imagine an old timey tour guide might say while on a hiking trail, but we aren't on one of those, so get that wonderful fungi image out of your brain. No, today is the day that Mycopunk has arrived into 1.0, an online co-op looter shooter about embodying robot rejects fending off hordes challenging champignon.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steady yourself, Mortal Shell 2's Rotten Autumn update comes packed with 15 new dungeons, a photo mode, an alternative soundtrack, and a neat pumpkin helmet]]></title>
-        <id>https://www.rockpapershotgun.com/steady-yourself-mortal-shell-2s-rotten-autumn-update-comes-packed-with-15-new-dungeons-a-photo-mode-an-alternative-soundtrack-and-a-neat-pumpkin-helmet</id>
-        <link href="https://www.rockpapershotgun.com/steady-yourself-mortal-shell-2s-rotten-autumn-update-comes-packed-with-15-new-dungeons-a-photo-mode-an-alternative-soundtrack-and-a-neat-pumpkin-helmet"/>
-        <updated>2026-10-20T16:03:25.000Z</updated>
-        <summary type="html"><![CDATA[How's your autumn going? Mine's fine so far, I've switched back to hot beverages, as much as every cell in my being screams to ask for ice. But I reckon that sounds better than the autumn Mortal Shell 2 is having, given the name of the Soulslike's next seasonal update: Rotten Autumn. Sounds bad! In practice, however, it's quite an expansive sounding update that's already out.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Judge Orders Meta to Name Employees Who Approved Torrenting Anna’s Archive and LibGen]]></title>
         <id>https://torrentfreak.com/?p=281483</id>
         <link href="https://torrentfreak.com/judge-orders-meta-to-name-employees-who-approved-torrenting-annas-archive-and-libgen/"/>
@@ -4102,17 +4113,6 @@ Paging Version 3.5.3
 Tracing Version 2.0.4]]></summary>
         <author>
             <name>AndroidX - Release Notes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game Industry Asks U.S. to Flag Denuvo Cracker ‘voices38’ as Notorious Piracy Threat]]></title>
-        <id>https://torrentfreak.com/?p=281242</id>
-        <link href="https://torrentfreak.com/game-industry-asks-u-s-to-flag-denuvo-cracker-voices38-as-notorious-piracy-threat/"/>
-        <updated>2026-10-12T08:06:26.000Z</updated>
-        <summary type="html"><![CDATA[The Entertainment Software Association has asked the U.S. Government to label the Denuvo cracker ‘voices38’ as a notorious piracy market. The game industry group argues that the cracker is an essential source in the game piracy ecosystem, feeding repackers and torrent sites. A notorious market flag is no guarantee of success, however, as FitGirl's previous listings show.
-From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
-        <author>
-            <name>Ernesto Van der Sar</name>
         </author>
     </entry>
     <entry>
