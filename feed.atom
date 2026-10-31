@@ -1,10 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-31T19:39:40.375Z</id>
+    <id>urn:2026-10-31T22:58:06.816Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-10-31T19:39:40.375Z</updated>
+    <updated>2026-10-31T22:58:06.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[EVPN - jak bránit únosu MAC adresy]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/evpn-jak-branit-unosu-mac-adresy</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/evpn-jak-branit-unosu-mac-adresy"/>
+        <updated>2026-10-31T22:46:22.000Z</updated>
+        <summary type="html"><![CDATA[Při běžné migraci virtuálního stroje mezi hypervizory se jeho MAC adresa přesune na jiný leaf switch. EVPN tuto změnu distribuuje pomocí BGP Type-2 route a MAC mobility sequence number. Problém nastává, pokud útočník podvrhne zdrojovou MAC adresu jiného zařízení. Leaf může změnu interpretovat jako legitimní přesun MAC a rozšířit ji přes BGP do celé fabric. Výsledkem může být přesměrování provozu určeného původnímu zařízení. Autor článku rozebírá možnosti detekce pomocí sledování MAC moves, BGP route reflektorů a kontroly na přístupové vrstvě.]]></summary>
+        <author>
+            <name>vencour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Pokemon TCG Valentine’s Box” Revealed for January!]]></title>
+        <id>157128</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpokemon-tcg-valentine%E2%80%99s-box%E2%80%9D-revealed-for-january.157128/"/>
+        <updated>2026-10-31T22:30:22.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blastoise and Other Cards from “Aura Seeker” Revealed, New Alternate Art Mega Lucario Z ex!]]></title>
+        <id>157130</id>
+        <link href="https://www.pokebeach.com/forums/threads/blastoise-and-other-cards-from-%E2%80%9Caura-seeker%E2%80%9D-revealed-new-alternate-art-mega-lucario-z-ex.157130/"/>
+        <updated>2026-10-31T22:08:04.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All weapons in Queen’s Domain and how to find them]]></title>
+        <id>https://www.destructoid.com/?p=1283801</id>
+        <link href="https://www.destructoid.com/all-weapons-in-queens-domain-and-how-to-find-them/"/>
+        <updated>2026-10-31T21:35:15.000Z</updated>
+        <summary type="html"><![CDATA[Destroy everyone! 
+The post All weapons in Queen’s Domain and how to find them appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The "Look What I Pulled" & Pull Rates Thread]]></title>
+        <id>111190</id>
+        <link href="https://www.pokebeach.com/forums/threads/the-look-what-i-pulled-pull-rates-thread.111190/"/>
+        <updated>2026-10-31T20:47:41.000Z</updated>
+        <author>
+            <name>MrSquarepants</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[James Pond 2: RoboCod – klasická plošinovka nativně na PC, Androidu i PS5]]></title>
+        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=63894</id>
+        <link href="https://www.high-voltage.cz/sortky/james-pond-2-robocod-klasicka-plosinovka-nativne-na-pc-androidu-i-ps5/"/>
+        <updated>2026-10-31T20:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Vánoce jsou ještě daleko, ale tajný rybí agent už se chystá zachraňovat Santovy hračky.]]></summary>
+        <author>
+            <name>Sledge</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Mega Rayquaza ex Premium Tournament Collection” Revealed, Features Dragon Shield Products Instead of Ultra PRO!]]></title>
+        <id>157127</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-rayquaza-ex-premium-tournament-collection%E2%80%9D-revealed-features-dragon-shield-products-instead-of-ultra-pro.157127/"/>
+        <updated>2026-10-31T20:17:20.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA Offices Tagged With ‘Save Mass Effect’ Graffiti]]></title>
+        <id>https://kotaku.com/?p=2000751962</id>
+        <link href="https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962"/>
+        <updated>2026-10-31T19:48:02.000Z</updated>
+        <summary type="html"><![CDATA[As stumbled upon overnight by a Reddit user, one incensed fan is taking the fight right to the publisher’s gates]]></summary>
+        <author>
+            <name>Zack Kotzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Status Effects in Queen’s Domain explained]]></title>
+        <id>https://www.destructoid.com/?p=1283749</id>
+        <link href="https://www.destructoid.com/all-status-effects-in-queens-domain-explained/"/>
+        <updated>2026-10-31T19:40:26.000Z</updated>
+        <summary type="html"><![CDATA[Stay away from the bad juju! 
+The post All Status Effects in Queen’s Domain explained appeared first on Destructoid.]]></summary>
+        <author>
+            <name>Arka Sarkar</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bungie’s new leadership finally understands what Destiny fans want—after we spent years shouting it at them]]></title>
         <id>https://www.destructoid.com/?p=1283454</id>
@@ -42,7 +130,7 @@ The post Best players for FC 27’s Two Faces of Fear Evolution appeared first o
         <id>https://kotaku.com/?p=2000751956</id>
         <link href="https://kotaku.com/cult-pc-98-zombie-gore-fest-re-animated-on-steam-with-first-official-english-port-2000751956"/>
         <updated>2026-10-31T18:09:03.000Z</updated>
-        <summary type="html"><![CDATA[Dead of the Brian was developer FairyTale’s first foray out of erotica into horror and funnily enough that seems to be the case with its new publisher too]]></summary>
+        <summary type="html"><![CDATA[Dead of the Brain was developer FairyTale’s first foray out of erotica into horror and funnily enough that seems to be the case with its new publisher too]]></summary>
         <author>
             <name>Zack Kotzer</name>
         </author>
@@ -63,15 +151,6 @@ The post WoW: Forever ultimate impressions—Vanilla Plus approach makes Classic
         <id>157112</id>
         <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Caura-seeker%E2%80%9D-set-starring-mega-lucario-z-ex-officially-revealed.157112/"/>
         <updated>2026-10-31T16:35:45.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blastoise and Other Cards from “Aura Seeker” Revealed, New Alternate Art Mega Lucario Z ex!]]></title>
-        <id>157130</id>
-        <link href="https://www.pokebeach.com/forums/threads/blastoise-and-other-cards-from-%E2%80%9Caura-seeker%E2%80%9D-revealed-new-alternate-art-mega-lucario-z-ex.157130/"/>
-        <updated>2026-10-31T16:30:37.000Z</updated>
         <author>
             <name>Water Pokémon Master</name>
         </author>
@@ -171,15 +250,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“Mega Rayquaza ex Premium Tournament Collection” Revealed, Features Dragon Shield Products Instead of Ultra PRO!]]></title>
-        <id>157127</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cmega-rayquaza-ex-premium-tournament-collection%E2%80%9D-revealed-features-dragon-shield-products-instead-of-ultra-pro.157127/"/>
-        <updated>2026-10-31T14:24:09.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nintendo Drops Surprise 'Pikmin Day' Direct]]></title>
         <id>https://www.nintendolife.com/#article-208425</id>
         <link href="https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct"/>
@@ -196,7 +266,7 @@ Read the full article on nintendolife.com]]></summary>
         <title type="html"><![CDATA[Enlightenment 0.28.0 a Enlightenment Foundation Libraries (EFL) 1.29]]></title>
         <id>http://www.abclinuxu.cz/zpravicky/enlightenment-0.28.0-a-enlightenment-foundation-libraries-1.29</id>
         <link href="http://www.abclinuxu.cz/zpravicky/enlightenment-0.28.0-a-enlightenment-foundation-libraries-1.29"/>
-        <updated>2026-10-31T14:13:51.000Z</updated>
+        <updated>2026-10-31T14:13:50.000Z</updated>
         <summary type="html"><![CDATA[Vývojáři desktopového prostředí Enlightenment (Wikipedie) a souvisejících knihoven Enlightenment Foundation Libraries (EFL) vydali nové verze. Enlightenment byl vydán ve verzi 0.28.0 a Enlightenment Foundation Libraries ve verzi 1.29.]]></summary>
         <author>
             <name>Ladislav Hagara</name>
@@ -496,6 +566,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenTTD 16.0-RC1]]></title>
+        <id>https://www.openttd.org/news/2026/10/31/openttd-16-0-rc1.html</id>
+        <link href="https://www.openttd.org/news/2026/10/31/openttd-16-0-rc1.html"/>
+        <updated>2026-10-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenTTD 16.0-RC1 is now ready for testing with some minor bugfixes. With a release candidate, the focus shifts from adding new features to finding and fixing bugs to make OpenTTD 16 the best yet. The finding part is where you, the players, come in, too. If there’s anything you notice, head over to our issue tracker and make a report. Some minor changes over the previous beta5 release are: Updated OpenTTD TTF fonts to v0.9 Fixed inconsistent rail station coverage area hightlight behaviour. Fixed uncommanded movement step after an end of line reverse could lead to path reservation problems or train crashes. Fixed uneven autoroad hotspot. As always, see the changelog for the full list. Download Changelog Bug tracker]]></summary>
+        <author>
+            <name>OpenTTD</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Monster Hunter Outlanders weapons tier list]]></title>
         <id>https://www.destructoid.com/?p=1283453</id>
         <link href="https://www.destructoid.com/monster-hunter-outlanders-weapons-tier-list/"/>
@@ -543,15 +623,6 @@ The post Monster Hunter Outlanders weapons tier list appeared first on Destructo
         <summary type="html"><![CDATA[Me. It was me. Sorry!!!]]></summary>
         <author>
             <name>Rebekah Valentine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Pokemon TCG Valentine’s Box” Revealed for January!]]></title>
-        <id>157128</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Cpokemon-tcg-valentine%E2%80%99s-box%E2%80%9D-revealed-for-january.157128/"/>
-        <updated>2026-10-30T21:33:29.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -868,16 +939,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Right-Wing Fans Ostracize VTuber With Female Avatar Following ‘Revelation’ They Were Assigned Male At Birth]]></title>
-        <id>https://kotaku.com/?p=2000751159</id>
-        <link href="https://kotaku.com/right-wing-fans-ostracize-vtuber-with-female-avatar-following-revelation-they-were-assigned-male-at-birth-2000751159"/>
-        <updated>2026-10-30T17:30:36.000Z</updated>
-        <summary type="html"><![CDATA[VTuber Ember Paradox has come under fire from fellow right-leaning collaborators for 'lying' after her voice filter glitched during a livestream]]></summary>
-        <author>
-            <name>Lewis Parker</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Pokémon And Fender Are Teaming Up A Rocking Guitar Collaboration]]></title>
         <id>https://www.nintendolife.com/#article-208413</id>
         <link href="https://www.nintendolife.com/news/2026/10/pokemon-and-fender-are-teaming-up-a-rocking-guitar-collaboration"/>
@@ -923,15 +984,6 @@ The post It sure looks like EA had been trying to end BioWare for a while appear
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The "Look What I Pulled" & Pull Rates Thread]]></title>
-        <id>111190</id>
-        <link href="https://www.pokebeach.com/forums/threads/the-look-what-i-pulled-pull-rates-thread.111190/"/>
-        <updated>2026-10-30T15:57:30.000Z</updated>
-        <author>
-            <name>MrSquarepants</name>
         </author>
     </entry>
     <entry>
@@ -1226,17 +1278,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to complete the Halloween challenge in BitLife]]></title>
-        <id>https://www.destructoid.com/?p=1283090</id>
-        <link href="https://www.destructoid.com/how-to-complete-the-halloween-challenge-in-bitlife/"/>
-        <updated>2026-10-30T10:14:39.000Z</updated>
-        <summary type="html"><![CDATA[No one is safe. 
-The post How to complete the Halloween challenge in BitLife appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Kacee Fay</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple Silicon Linux Driver Adapted To Help Older Intel-Powered Macs]]></title>
         <id>https://www.phoronix.com/news/Linux-Patches-Intel-macsmc</id>
         <link href="https://www.phoronix.com/news/Linux-Patches-Intel-macsmc"/>
@@ -1274,17 +1315,6 @@ The post How to complete the Halloween challenge in BitLife appeared first on De
         <summary type="html"><![CDATA[Na Steamu je možné zdarma získat hru Hexologic. Jde o řešení logických hádanek na políčkách ve tvaru šestiúhelníků. Ke hře hraje relaxační hudba.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Jan Fikar)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel Rivals Night of Illusions event guide – All puzzle solutions]]></title>
-        <id>https://www.destructoid.com/?p=1282870</id>
-        <link href="https://www.destructoid.com/marvel-rivals-night-of-illusions-event-guide/"/>
-        <updated>2026-10-30T09:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Solve the mysteries to earn rewards. 
-The post Marvel Rivals Night of Illusions event guide – All puzzle solutions appeared first on Destructoid.]]></summary>
-        <author>
-            <name>Kacee Fay</name>
         </author>
     </entry>
     <entry>
@@ -1808,16 +1838,6 @@ The good folk over at Nintendo were kind enough to send one our way, so we thoug
 Read the full article on nintendolife.com]]></summary>
         <author>
             <name>Nintendo Life | Latest Updates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mikolov, Štěpánková a Maleňák dostali 28. října metály]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/mikolov-stepankova-a-malenak-dostali-28.-rijna-metaly</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/mikolov-stepankova-a-malenak-dostali-28.-rijna-metaly"/>
-        <updated>2026-10-29T12:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Při příležitosti oslav Dne vzniku samostatného československého státu (28. října) byly uděleny medaile Za zásluhy tvůrci aplikace Záchranka Filipu Maleňákovi, vědci v oblasti umělé inteligence Tomáši Mikolovovi a Olze Štěpánkové, vědkyni zabývající se kybernetikou, robotikou a strojovým učením, průkopnici v oblastech výuky a využití umělé inteligence v medicínském inženýrství.]]></summary>
-        <author>
-            <name>Pendrekama do nich❗</name>
         </author>
     </entry>
     <entry>
@@ -2925,16 +2945,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Mark Warren</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stunt Car Racer dorazil na NES!]]></title>
-        <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=63803</id>
-        <link href="https://www.high-voltage.cz/sortky/stunt-car-racer-dorazil-na-nes/"/>
-        <updated>2026-10-26T10:09:26.000Z</updated>
-        <summary type="html"><![CDATA[Ne, nejde o Stunts. klasika Stunt Car Racer od Geoffa Crammonda je hra z trochu jiného soudku (válce?), styčné body tu ale samozřejmě jsou - žádné nudné kroužení po plochém asfaltu, ale šílené závody na úzkých a krkolomných tratích, kde sebemenší chyba znamenala pád do zapomnění.]]></summary>
-        <author>
-            <name>Sledge</name>
         </author>
     </entry>
     <entry>
