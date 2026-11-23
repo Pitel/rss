@@ -1,10 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-22T20:32:34.517Z</id>
+    <id>urn:2026-11-23T02:06:58.958Z</id>
     <title>Pitlovo RSS</title>
-    <updated>2026-11-22T20:32:34.517Z</updated>
+    <updated>2026-11-23T02:06:58.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA["FLOwing Fists" Speculative Set List with Numbering]]></title>
+        <id>157025</id>
+        <link href="https://www.pokebeach.com/forums/threads/flowing-fists-speculative-set-list-with-numbering.157025/"/>
+        <updated>2026-11-23T00:44:48.000Z</updated>
+        <author>
+            <name>Who?</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[llama-modchip rozběhne obří AI i bez GPU]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/llama-modchip-rozbehne-obri-ai-i-bez-gpu</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/llama-modchip-rozbehne-obri-ai-i-bez-gpu"/>
+        <updated>2026-11-23T00:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Projekt llama-modchip je sada úprav a nástrojů pro llama.cpp, které mají umožnit spouštět rozsáhlé jazykové modely lokálně na běžných domácích počítačích, a to bez použití grafické karty. 
+
+
+Například čínský model DeepSeek-V4-Flash o 284 miliardách parametrů se díky kompresi vleze do 64GB RAM. Háček je v agresivní kvantizaci (v uvedeném příkladu průměrně 1,71 bitu na parametr), která výrazně snižuje kvalitu výstupů. Zdrojové kódy projektu jsou dostupné pod licencí Apache‑2.0.]]></summary>
+        <author>
+            <name>&amp;#x1F47B;</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asahi Linux přechází z MIT na GPL]]></title>
+        <id>http://www.abclinuxu.cz/zpravicky/asahi-linux-prechazi-z-mit-na-gpl</id>
+        <link href="http://www.abclinuxu.cz/zpravicky/asahi-linux-prechazi-z-mit-na-gpl"/>
+        <updated>2026-11-23T00:12:41.000Z</updated>
+        <summary type="html"><![CDATA[Vývojáři Asahi Linuxu, projektu umožňujícího běh Linuxu na počítačích Apple Silicon, oznámili zahájení přechodu svých repozitářů z permisivní licence MIT na GPL-2.0-or-later. Důvodem mají být opakované pokusy využívat jejich práci pro konkurenční a komerční projekty. 
+
+
+Podle vývojářů docházelo dokonce k přebírání dosud nedokončeného kódu z osobních vývojových větví bez uvedení autorství nebo k jeho přepracování pomocí LLM za účelem zastření původu.
+Asahi původně zvolilo MIT mimo jiné kvůli možnosti využívat výsledky vývoje také v BSD systémech. Přechodem na GPL chce zajistit, aby distribuovaná odvozená díla zůstávala otevřená. Již zveřejněný kód pod MIT však může být nadále používán podle původní licence a samotná GPL nezakazuje využívání AI.
+V souvislosti se sporem se diskutuje také o projektech Aurora Silicon a Omarchy, které na práci Asahi navazují. Asahi je však ve svém oznámení výslovně nejmenuje. Situace otevírá širší otázku, jak mají open-source projekty chránit dlouholetou práci dobrovolníků v době, kdy lze s pomocí AI rychle vytvářet konkurenční forky, a kde leží hranice mezi legálním využitím otevřeného kódu, dodržováním autorství a férovou spoluprací.]]></summary>
+        <author>
+            <name>vencour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 7.4-rc4 Released: "It's Huge. What A Surprise."]]></title>
+        <id>https://www.phoronix.com/news/Linux-7.4-rc4-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-7.4-rc4-Released"/>
+        <updated>2026-11-22T23:13:30.000Z</updated>
+        <summary type="html"><![CDATA[Linux 7.4-rc4 is out today as the newest weekly test candidate for Linux 7.4. Continuing to be fueled by AI/LLM generated bug reports and patches, the Linux 7.4 cycle remains quite active...]]></summary>
+        <author>
+            <name>Michael Larabel</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantastic News, Sam Kinison’s Brother Wants To Revive The Shrieking Comic Through AI]]></title>
+        <id>https://kotaku.com/?p=2000759297</id>
+        <link href="https://kotaku.com/fantastic-news-sam-kinisons-brother-wants-to-revive-the-shrieking-comic-through-ai-2000759297"/>
+        <updated>2026-11-22T23:08:44.000Z</updated>
+        <summary type="html"><![CDATA[In the latest and possibly loudest estate to sign over a dead celebrity's likeness to AI, Bill Kinison is hoping to subject a new generation to his famed brother's deafening yells]]></summary>
+        <author>
+            <name>Zack Kotzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postřehy z bezpečnosti: kritická chyba v Jave aj PHP a odstavený Fugaku]]></title>
+        <id>www.root.cz-text-20315</id>
+        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-kriticka-chyba-v-jave-aj-php-a-odstaveny-fugaku/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-11-22T23:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Kritická chyba Java4Shell v OpenJDK objavená aj s pomocou AI, útok na japonský superpočítač Fugaku, nové kritické zraniteľnosti v PHP či bleskové zneužitie uniknutých kľúčov na Docker Hube do 8 sekúnd.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: CESNET CERTS)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Librem 5 druhé generace, Debian chce lepší podporu herního hardwaru]]></title>
+        <id>www.root.cz-text-20339</id>
+        <link href="https://www.root.cz/clanky/librem-5-druhe-generace-debian-chce-lepsi-podporu-herniho-hardwaru/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-11-22T23:00:05.000Z</updated>
+        <summary type="html"><![CDATA[Společnost Purism připravuje druhou generaci linuxového smartphonu Librem 5 v2. Projekt Debian oznámil založení nového týmu Gaming Hardware Team, jehož cílem je zlepšit kompatibilitu Debianu s herními zařízeními.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Filip Zatloukal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ProbZip: komprese krátkých textů pomocí pravděpodobnosti]]></title>
+        <id>www.root.cz-text-20342</id>
+        <link href="https://www.root.cz/clanky/probzip-komprese-kratkych-textu-pomoci-pravdepodobnosti/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
+        <updated>2026-11-22T23:00:03.000Z</updated>
+        <summary type="html"><![CDATA[ProbZip komprimuje krátké texty podle pravděpodobnosti: častá pokračování zapisuje úsporněji než neobvyklá. Díky malému modelu je rychlý, lehký a funguje přímo v prohlížeči i Node.js.]]></summary>
+        <author>
+            <name>redakce@root.cz (Root.cz: Tomáš Matějíček)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Aura Seeker” All 78 Main Set Cards Revealed!]]></title>
+        <id>157157</id>
+        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Caura-seeker%E2%80%9D-all-78-main-set-cards-revealed.157157/"/>
+        <updated>2026-11-22T22:52:57.000Z</updated>
+        <author>
+            <name>Water Pokémon Master</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physicist’s Long-Lost 1977 Fantasy Text Adventure Discovered On Hard Drive]]></title>
+        <id>https://kotaku.com/?p=2000759290</id>
+        <link href="https://kotaku.com/physicists-long-lost-1977-fantasy-text-adventure-discovered-on-hard-drive-2000759290"/>
+        <updated>2026-11-22T22:10:12.000Z</updated>
+        <summary type="html"><![CDATA[Described as a 'missing link' between early computer games like Hunt the Wumpus and Zork, John Trenholme took the time to assemble Magic Cave when he wasn't establishing laser technologies]]></summary>
+        <author>
+            <name>Zack Kotzer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Made a daily “guess the card” game for collectors. How well do you know your sets?]]></title>
+        <id>157118</id>
+        <link href="https://www.pokebeach.com/forums/threads/made-a-daily-%E2%80%9Cguess-the-card%E2%80%9D-game-for-collectors-how-well-do-you-know-your-sets.157118/"/>
+        <updated>2026-11-22T21:06:44.000Z</updated>
+        <author>
+            <name>mistandmythllc</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VapourDeck – Steam Deck pro pamětníky, uvnitř tiká skutečná 486ka]]></title>
         <id>https://www.high-voltage.cz/?post_type=hv_news&amp;p=64402</id>
@@ -13,16 +128,6 @@
         <summary type="html"><![CDATA[Před lety jsem se, patrně pod vlivem opojného chmelového nápoje, nechal trochu unést v článku O čem sním, když náhodou Steam Deck.]]></summary>
         <author>
             <name>Sledge</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[llama-modchip rozběhne obří AI i bez GPU]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/llama-modchip-rozbehne-obri-ai-i-bez-gpu</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/llama-modchip-rozbehne-obri-ai-i-bez-gpu"/>
-        <updated>2026-11-22T18:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Projekt llama-modchip je sada úprav a nástrojů pro llama.cpp, které mají umožnit spouštět rozsáhlé jazykové modely lokálně na běžných domácích počítačích, a to bez použití grafické karty. Například čínský model DeepSeek-V4-Flash o 284 miliardách parametrů se díky kompresi vleze do 64GB RAM. Háček je v agresivní kvantizaci (v uvedeném příkladu průměrně 1,71 bitu na parametr), která výrazně snižuje kvalitu výstupů. Zdrojové kódy projektu jsou dostupné pod licencí Apache‑2.0.]]></summary>
-        <author>
-            <name>&amp;#x1F47B;</name>
         </author>
     </entry>
     <entry>
@@ -43,15 +148,6 @@
         <summary type="html"><![CDATA[Arcade addicts of the 1980s inspired the cyberspace of William Gibson’s influential Neuromancer, now the author is transfixed on viral footage of Rockstar’s ultra-hit]]></summary>
         <author>
             <name>Zack Kotzer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Aura Seeker” All 78 Main Set Cards Revealed!]]></title>
-        <id>157157</id>
-        <link href="https://www.pokebeach.com/forums/threads/%E2%80%9Caura-seeker%E2%80%9D-all-78-main-set-cards-revealed.157157/"/>
-        <updated>2026-11-22T18:42:36.000Z</updated>
-        <author>
-            <name>Water Pokémon Master</name>
         </author>
     </entry>
     <entry>
@@ -82,15 +178,6 @@
         <summary type="html"><![CDATA[While the hastily made Spielberg tie-in is often blamed for the industry collapse of the 1980s, any crash in the 2020s would be unrelated to that same filmmaker's Artificial Intelligence]]></summary>
         <author>
             <name>Zack Kotzer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["FLOwing Fists" Speculative Set List with Numbering]]></title>
-        <id>157025</id>
-        <link href="https://www.pokebeach.com/forums/threads/flowing-fists-speculative-set-list-with-numbering.157025/"/>
-        <updated>2026-11-22T16:32:39.000Z</updated>
-        <author>
-            <name>Who?</name>
         </author>
     </entry>
     <entry>
@@ -241,12 +328,16 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Made a daily “guess the card” game for collectors. How well do you know your sets?]]></title>
-        <id>157118</id>
-        <link href="https://www.pokebeach.com/forums/threads/made-a-daily-%E2%80%9Cguess-the-card%E2%80%9D-game-for-collectors-how-well-do-you-know-your-sets.157118/"/>
-        <updated>2026-11-22T05:34:36.000Z</updated>
+        <title type="html"><![CDATA[Fatal Fury: City Of The Wolves Adds Laocorn From The Motion Picture]]></title>
+        <id>https://www.nintendolife.com/#article-209134</id>
+        <link href="https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-adds-laocorn-from-the-motion-picture"/>
+        <updated>2026-11-22T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Reminder: The Fatal Fury movie antagonist is now available.
+:
+SNK's expansion of the Fatal Fury: City of the Wolves roster will continue with the release of Laocorn next week on 19th November 2026.
+Read the full article on nintendolife.com]]></summary>
         <author>
-            <name>mistandmythllc</name>
+            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -735,26 +826,6 @@ Volitelný GPU akcelerovaný renderer (OpenGL 3.3) využívá takzvaný damage r
 Místo pacmanu má vlastní správce balíků lux nad knihovnou libalpm (repozitáře Archu, Flathub, AUR v sandboxu), vlastní sestavení neupraveného jádra linux-luxos, snímky Btrfs před každou aktualizací s možností návratu a nově zapnutý firewall. Systém je stále v betě. Ke stažení na oficálních stránkách, zdrojový kód je na GitHubu. pod GPL-3.0.]]></summary>
         <author>
             <name>Luxopes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three Games You Can Play For Free This Weekend On PC]]></title>
-        <id>https://kotaku.com/?p=2000759063</id>
-        <link href="https://kotaku.com/three-games-you-can-play-for-free-this-weekend-on-pc-2000759063"/>
-        <updated>2026-11-20T22:30:35.000Z</updated>
-        <summary type="html"><![CDATA[Crusader Kings 3 is one of them]]></summary>
-        <author>
-            <name>Ethan Gach</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Even Grand Theft Auto 6 Can’t Escape The Anti-Woke Culture War As It Gets Review-Bombed On Metacritic]]></title>
-        <id>https://kotaku.com/?p=2000759045</id>
-        <link href="https://kotaku.com/grand-theft-auto-6-gta6-review-bomb-woke-misinformation-campaign-2000759045"/>
-        <updated>2026-11-20T22:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Fellas, is it gay to love your beautiful girlfriend?]]></summary>
-        <author>
-            <name>Kenneth Shepard</name>
         </author>
     </entry>
     <entry>
@@ -1730,16 +1801,6 @@ Read the full article on nintendolife.com]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kritická zranitelnost sleep2shell CVSS 10.0]]></title>
-        <id>http://www.abclinuxu.cz/zpravicky/kriticka-zranitelnost-sleep2shell-cvss-10.0</id>
-        <link href="http://www.abclinuxu.cz/zpravicky/kriticka-zranitelnost-sleep2shell-cvss-10.0"/>
-        <updated>2026-11-19T19:04:40.000Z</updated>
-        <summary type="html"><![CDATA[Po serii zero-day zranitelností vyšla nejfatálnější zranitelnost všech dob s CVSS 10.0. Autoři nálezu jí pojmenovali sleep2shell a týká se všech systémů.]]></summary>
-        <author>
-            <name>Max</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Top 20 Best-Selling Wii Games Of All Time Revealed (US)]]></title>
         <id>https://www.nintendolife.com/#article-209372</id>
         <link href="https://www.nintendolife.com/news/2026/11/top-20-best-selling-wii-games-of-all-time-revealed-us"/>
@@ -1770,19 +1831,6 @@ Read the full article on nintendolife.com]]></summary>
         <summary type="html"><![CDATA[Vývojáři uvolnili očekávanou novou verzi databáze PostgreSQL 19. Usnadňuje správu databází s velkou zátěží a přidává funkce pro vývojáře i správce. Podrobně o novinkách psal už na jaře Pavel Stěhule v článku PostgreSQL 19: zmenšení tabulek pomocí REPACK bez obav.]]></summary>
         <author>
             <name>redakce@root.cz (Root.cz: Petr Krčmář)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios]]></title>
-        <id>https://www.nintendolife.com/#article-209368</id>
-        <link href="https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios"/>
-        <updated>2026-11-19T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GuilleMORE?!
-Ubisoft has confirmed that it is laying off a total of 166 members of staff from its Canadian offices.
-The teams affected, Ubisoft Montréal and Ubisoft Québec, are arguably two of the most prominent studios in the corporation. The former has been responsible for some of the most well-regarded entries in the Assassin's Creed series along with key entries in the Far Cry franchise.
-Read the full article on nintendolife.com]]></summary>
-        <author>
-            <name>Nintendo Life | Latest Updates</name>
         </author>
     </entry>
     <entry>
@@ -1899,16 +1947,6 @@ Probably the best move Rockstar made with their adaptation of Walter Hill's film
         <link href="https://www.phoronix.com/news/Unsloth-Desktop-Ryzen-AI-NPU"/>
         <updated>2026-11-19T14:25:27.000Z</updated>
         <summary type="html"><![CDATA[AMD and Unsloth announced today that local NPU inference is now available for Unsloth Desktop, starting with the AMD Ryzen AI NPUs of XDNA 2 and later...]]></summary>
-        <author>
-            <name>Michael Larabel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian's APT Removing Some Features Due To Advancements In AI Security Discoveries]]></title>
-        <id>https://www.phoronix.com/news/Debian-APT-Removing-Features</id>
-        <link href="https://www.phoronix.com/news/Debian-APT-Removing-Features"/>
-        <updated>2026-11-19T14:15:04.000Z</updated>
-        <summary type="html"><![CDATA[Stemming from the recent Debian APT man-in-the-middle attack from a vulnerability in APT's downloading code and ongoing advancements in AI/LLMs around security research, APT is now resorting to disabling and removing some older, complex features that may make the program more vulnerable to finding exploits moving forward...]]></summary>
         <author>
             <name>Michael Larabel</name>
         </author>
@@ -2679,26 +2717,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FORTH na počítačích Atari: realizace jednoduchých algoritmů]]></title>
-        <id>www.root.cz-text-20300</id>
-        <link href="https://www.root.cz/clanky/forth-na-pocitacich-atari-realizace-jednoduchych-algoritmu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-11-16T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Seznámíme se s dalšími vlastnostmi tohoto jazyka. Ukážeme si způsob realizace jednoduchých algoritmů, řekneme si, jak mimozemsky jsou uloženy zdrojové soubory a seznámíme se slovy určenými pro práci s grafikou.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Pavel Tišnovský)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Když spolu zdravotnické systémy mluví: zápisky z Národního dialogu pro digitalizaci]]></title>
-        <id>www.root.cz-text-20303</id>
-        <link href="https://www.root.cz/clanky/kdyz-spolu-zdravotnicke-systemy-mluvi-zapisky-z-narodniho-dialogu-pro-digitalizaci/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-11-16T23:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Doba vendorlocků je (snad) pryč. To zaznělo v úvodu Národního dialogu pro digitalizaci zdravotnictví, který se 19. října konal v pražském hotelu ILF a navázal na zářijové setkání nerdů okolo FHIR v Ostravě.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: Petr Kajzar)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[A Shocking Revelation — Can Quad Iron Thorns ex Compete in 2026?]]></title>
         <id>157148</id>
         <link href="https://www.pokebeach.com/forums/threads/a-shocking-revelation-%E2%80%94-can-quad-iron-thorns-ex-compete-in-2026.157148/"/>
@@ -2886,16 +2904,6 @@ From: TF, for the latest news on copyright battles, piracy and more.]]></summary
 From: TF, for the latest news on copyright battles, piracy and more.]]></summary>
         <author>
             <name>Ernesto Van der Sar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postřehy z bezpečnosti: kompromitace desetitisíců účtů na GitHubu]]></title>
-        <id>www.root.cz-text-20288</id>
-        <link href="https://www.root.cz/clanky/postrehy-z-bezpecnosti-kompromitace-desetitisicu-uctu-na-githubu/?utm_source=rss&amp;utm_medium=text&amp;utm_campaign=rss"/>
-        <updated>2026-11-15T23:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Podrobně se podíváme na kampaň wfx-loot, koukneme se na opravy zranitelností u společností Apple, Microsoft a Cisco, ale také na kritickou zranitelnost v serveru Apache serveru.]]></summary>
-        <author>
-            <name>redakce@root.cz (Root.cz: CSIRT.CZ)</name>
         </author>
     </entry>
     <entry>
